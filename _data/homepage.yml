@@ -1,0 +1,39 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Favicon
+favicon: /images/favicon-isomer.ico
+
+# Agency logo
+agency-logo: /images/mtls2018-logo_512x320-300x188.png
+
+# Hero Banner
+hero-title: Mother Tongue Languages Symposium 2018
+hero-subtitle: Our Mother Tongues as Living Languages
+hero-banner: /images/homepage-section1-background2.png
+
+#Call to Action Button
+button:
+  - text: Learn More
+    url: /who-we-are/
+
+key-highlights:
+  - title: Be a Neighborhood Hero
+    description: Do you know who they are and what they do?
+    url: https://google.com
+    external: true
+  - title: Sharing Sessions
+    description: Find out who's talking at the event
+    url: https://yahoo.com
+    external: true
+  - title: Exhibition Booths
+    description: Be inspired by the innovative and engaging MTL strategies
+    url: /page-A/
+
+resources-title: Resources
+resources-subtitle: Be in the know
+resources-more-button: More Resources
+resources-more-button-url: resource-room/

@@ -1,0 +1,50 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Our Journey
+  url: /our-journey/
+
+- title: Neighborhood Hero
+  url: /neighborhood-hero/
+
+- title: Sharing Sessions
+  url: /left-nav-one/userful-tips/
+  sub-links:
+  - title: English
+    url: /left-nav-one/sub-page-A/
+  - title: Chinese
+    url: /left-nav-one/sub-page-B/
+  - title: Malay
+    url: /left-nav-one/sub-page-C/
+  - title: Tamil
+    url: /left-nav-one/sub-page-D/
+
+- title: Performances
+  url: /left-nav-two/sub-page-C/
+  sub-links:
+  - title: Chinese
+    url: /left-nav-two/sub-page-A/
+  - title: Malay
+    url: /left-nav-two/sub-page-B/
+  - title: Tamil
+    url: /left-nav-two/sub-page-C/
+  - title: Junction Tree
+    url: /left-nav-two/sub-page-D/
+
+- title: Booths
+  url: /left-nav-three/sub-page-C/
+  sub-links:
+  - title: Pre-School
+    url: /left-nav-three/sub-page-A/
+  - title: Schools
+    url: /left-nav-three/sub-page-B/
+  - title: Community Partners
+    url: /left-nav-three/sub-page-C/
+  - title: MTL Bookstore
+    url: /left-nav-three/sub-page-D/
+
+- title: Award
+  url: /award/
