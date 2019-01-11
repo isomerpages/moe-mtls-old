@@ -1,0 +1,1 @@
+;jQuery(document).ready(function(u){function e(){var u=jQuery('#avia_builder:visible'),n=jQuery('#focuskwresults li:eq(3) span'),e=jQuery('#content');if(u.length){e.on('av_update',function(){e.trigger('focusout')})}};e()});

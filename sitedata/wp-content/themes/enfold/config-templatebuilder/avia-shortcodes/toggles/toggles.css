@@ -1,0 +1,129 @@
+/* ======================================================================================================================================================
+Accordion/Toggle
+====================================================================================================================================================== */
+
+
+/*toggle*/
+.js_active .toggle_wrap{
+visibility: hidden;
+position: absolute;
+z-index: 0;
+width: 100%;
+left: 120%;
+}
+
+.active_tc.toggle_wrap{
+position: static;
+visibility: visible;
+left:0;
+width:auto;
+z-index: 1;
+display: none;
+}
+
+.js_active .toggler {
+cursor: pointer;
+display: block;
+margin:0;
+padding: 9px 3px 9px 35px;
+position: relative;
+top: 1px;
+border-style:solid;
+border-width:1px;
+line-height: 1.65em;
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
+
+.togglecontainer{
+margin:30px 0;
+position: relative;
+clear: both;
+}
+
+.togglecontainer .single_toggle:first-child .toggler, .togglecontainer .taglist + .single_toggle .toggler{
+border-top-left-radius:  2px;
+border-top-right-radius: 2px;
+}
+
+.togglecontainer > div:last-of-type .toggler{
+border-bottom-left-radius:  2px;
+border-bottom-right-radius: 2px;
+}
+
+.togglecontainer > p.activeTitle{
+border-radius: 0;
+}
+
+.toggle_content {
+padding: 12px 30px 11px 30px;
+margin: 0px 0 5px 0;
+border-style:solid;
+border-width:1px;
+border-top:none;
+border-bottom-left-radius: 2px;
+border-bottom-right-radius: 2px;
+overflow: hidden;
+}
+
+.toggle_icon{
+position: absolute;
+width: 15px;
+height: 15px;
+border-style: solid;
+border-width: 1px;
+top: 50%;
+left: 10px;
+margin-top: -8px;
+}
+
+.toggle_icon .vert_icon{
+border-left-style:solid;
+border-left-width:3px;
+position: absolute;
+left:5px;
+top:1px;
+height:11px;
+}
+
+.toggle_icon .hor_icon{
+border-top-style:solid;
+border-top-width:3px;
+position: absolute;
+top:5px;
+left:1px;
+width:11px;
+}
+
+.activeTitle .toggle_icon .vert_icon{
+border:none;
+}
+
+/* removed, otherwise opening animation does not work
+.active_tc.toggle_wrap{
+display:block;
+}
+*/
+#top .av_toggle_section .av-inherit-border-color *{border-color: inherit;}
+#top .av_toggle_section .av-inherit-font-color *{color: inherit;}
+
+
+/*sorting*/
+.taglist {margin-bottom:5px;}
+.taglist .tag-seperator:last-child{display:none;}
+.taglist .tag-seperator{padding:0px 4px;}
+.single_toggle{ width:100%; float:left; display: block; margin: 0 0 -2px 0; padding-bottom: 1px; overflow: hidden; position: relative;}
+
+/*minimal toggle*/
+.av-minimal-toggle.togglecontainer .single_toggle .toggler{border-radius:0; border-left:none; border-right:none; border-top:none; font-size: 1.1em; }
+.av-minimal-toggle .toggle_content{ border-radius:0;border:none; padding:12px 35px 11px 35px;}
+.av-minimal-toggle .single_toggle{    margin: 0 0 7px 0; padding-bottom: 0px;}
+.av-minimal-toggle .toggle_icon { margin-top: -7px; border: none;}
+.av-minimal-toggle .toggler:hover { opacity: 0.8; }
+.av-minimal-toggle .activeTitle.toggler:hover { opacity: 1; }
+
+
