@@ -10,10 +10,9 @@ favicon: /images/favicon-isomer.ico
 # Agency logo
 agency-logo: /images/mtls2018-logo_512x320-300x188.png
 
-# Hero Banner
-hero-title: Mother Tongue Languages Symposium 2018
+# Hero Banner 
 hero-subtitle: Our Mother Tongues as Living Languages
-hero-banner: /images/homepage-section1-background2.png
+hero-banner: /images/HomeBackground_3.png
 
 #Call to Action Button
 button:
