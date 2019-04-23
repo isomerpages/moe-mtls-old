@@ -21,18 +21,24 @@ button:
     url: /who-we-are/
 
 key-highlights:
-  - title: 社区小英雄
-    description: Do you know who they are and what they do?
+  - title: Be a Neighbourhood Hero
+    description: 
     url: https://google.com
     external: true
-  - title: Sharing Sessions
-    description: Find out who's talking at the event
+  - title: Play Games and Enjoy Performances 
+    description: 
     url: https://yahoo.com
     external: true
-  - title: Exhibition Booths
-    description: Be inspired by the innovative and engaging MTL strategies
+  - title: Win Attractive Prizes 
+    description: 
     url: /page-A/
-
+  - title: Participate in Over 30 Sharing Sessions
+    description: 
+    url: /page-A/    
+  - title: View Over 40 Exhibition Booths
+    description: 
+    url: /page-A/
+    
 resources-title: Resources
 resources-subtitle: Be in the know
 resources-more-button: More Resources
