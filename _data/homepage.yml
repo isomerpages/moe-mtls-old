@@ -17,14 +17,14 @@ hero-banner: /images/homepage-section1-background2.png
 
 #Call to Action Button
 button:
-  - text: Learn More
-    url: /who-we-are/
+  - text: Register Now
+    url: https://google.com
+    external: true
 
 key-highlights:
   - title: Be a Neighbourhood Hero
     description: 
-    url: https://google.com
-    external: true
+    url: /neighborhood-hero/ 
   - title: Play Games and Enjoy Performances 
     description: 
     url: https://yahoo.com
