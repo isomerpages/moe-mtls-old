@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Share Sessions
+title: Sharing Sessions
 permalink: /sharesessions/
 breadcrumb: Share Sessions
 ---
