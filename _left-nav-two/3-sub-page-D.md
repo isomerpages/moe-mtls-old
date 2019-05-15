@@ -18,10 +18,9 @@ collection_name: left-nav-two
     <br>老师讲故事：小蛇散步
     </td>
     <td>
-    <br>MOE Kindergarten @ Blangah Rise
-    </td>
-    <td>
-    <br>%nbsp;
+    MOE Kindergarten @ Blangah Rise
+    <br>
+      <br>
     </td>
   </tr>
   <tr>
