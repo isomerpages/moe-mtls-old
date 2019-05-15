@@ -7,7 +7,7 @@
 - title: Our Journey
   url: /our-journey/
 
-- title: Neighborhood Hero
+- title: Discovery Land
   url: /neighborhood-hero/
 
 - title: Sharing Sessions
@@ -22,7 +22,7 @@
   - title: Tamil
     url: /left-nav-one/sub-page-D/
 
-- title: Performances
+- title: Garden Ensemble
   url: /left-nav-two/sub-page-C/
   sub-links:
   - title: Chinese
@@ -32,7 +32,7 @@
   - title: Tamil
     url: /left-nav-two/sub-page-C/
 
-- title: Booths
+- title: Carnival
   url: /left-nav-three/sub-page-C/
   sub-links:
   - title: Pre-School
@@ -41,7 +41,7 @@
     url: /left-nav-three/sub-page-B/
   - title: Community Partners
     url: /left-nav-three/sub-page-C/
-  - title: MTL Bookstore
+  - title: Bookstore
     url: /left-nav-three/sub-page-D/
 
 - title: Award
