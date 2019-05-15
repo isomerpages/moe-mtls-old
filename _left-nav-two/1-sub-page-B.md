@@ -17,7 +17,6 @@ collection_name: left-nav-two
     Story Time by Teachers: The Little Snake Taking a Stroll
     <br>老师讲故事：小蛇散步
     </td>
-    </td>
     <td>
     MOE Kindergarten @ Blangah Rise
     <br>
