@@ -20,6 +20,9 @@ collection_name: left-nav-two
     <td>
     <br>MOE Kindergarten @ Blangah Rise
     </td>
+    <td>
+    <br>%nbsp;
+    </td>
   </tr>
   <tr>
     <td COLSPAN="2">
