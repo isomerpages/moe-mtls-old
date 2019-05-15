@@ -18,7 +18,6 @@ collection_name: left-nav-two
     <br>老师讲故事：小蛇散步
     </td>
     <td>
-    Zhang Zhao Xia
     <br>MOE Kindergarten @ Blangah Rise
     </td>
   </tr>
