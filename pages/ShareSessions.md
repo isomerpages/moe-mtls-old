@@ -2,7 +2,7 @@
 layout: simple-page
 title: Sharing Sessions
 permalink: /sharesessions/
-breadcrumb: Share Sessions
+breadcrumb: Sharing Sessions
 ---
 <div class="row is-multiline">
    <div clas="col is-one-quarter-widescreen is-half-desktop is-half-tablet " id="divParent1">
