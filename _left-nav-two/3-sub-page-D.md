@@ -20,7 +20,7 @@ collection_name: left-nav-two
     <td>
     MOE Kindergarten @ Blangah Rise
     <br>
-      <br>
+    <br>
     </td>
   </tr>
   <tr>
