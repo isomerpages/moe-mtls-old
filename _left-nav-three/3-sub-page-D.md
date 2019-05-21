@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: MTL Bookstore
+title: Bookstore
 permalink: /left-nav-three/sub-page-D/
-breadcrumb: MTL Bookstore Booths
+breadcrumb: Bookstore Booths
 collection_name: left-nav-three
 ---
 
