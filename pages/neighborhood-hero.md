@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Neighborhood Hero
-permalink: /neighborhood-hero/
-breadcrumb: Neighborhood hero
+title: Discovery Land
+permalink: /discovery-land/
+breadcrumb: Discovery Land
 ---
 There are many “heroes” in our neighbourhood. Do you know who they are and what they do? Find out at the 4 places below. Take up the challenge today. You can be a Neighbourhood Hero too!
 
