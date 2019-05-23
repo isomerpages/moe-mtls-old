@@ -12,4 +12,4 @@ breadcrumb: Awards
 
 <img src="/images/award1.PNG" width="100%">
 
-<img class="avia_image" src="/sitedata/wp-content/uploads/2018/06/merit-award-recipients-title-300x138.png" alt="" title="merit-award-recipients-title" height="138">
+<center><img class="avia_image" src="/sitedata/wp-content/uploads/2018/06/merit-award-recipients-title-300x138.png" alt="" title="outstanding-award-recipients-title" width="25%"></center>
