@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Sharing Sessions
-permalink: /sharesessions/
-breadcrumb: Sharing Sessions
+title: Awards
+permalink: /awards/
+breadcrumb: Awards
 ---
 <div class="row is-multiline">
    <div clas="col is-one-quarter-widescreen is-half-desktop is-half-tablet " id="divParent1">
