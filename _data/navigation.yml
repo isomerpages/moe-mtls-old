@@ -45,7 +45,7 @@
     url: /left-nav-three/sub-page-D/
 
 - title: Award
-  url: /pages/awards.html
+  url: /pages/awards.md
   sub-links:
   - title: Outstanding Pre-school 
     url: 
