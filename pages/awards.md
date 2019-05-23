@@ -11,10 +11,10 @@ breadcrumb: Awards
 <center><img class="avia_image" src="/images/Outstanding.PNG" alt="" width="100%"></center>
 </div>
 
-<img src="/images/award1.PNG" width="100%">
+<img src="/images/award1.PNG" width="50%">
 
 <div>
 <center><img class="avia_image" src="/images/Merit.PNG" alt="" width="100%"></center>
 </div>
 
-<img src="/images/award2.PNG" width="100%">
+<img src="/images/award2.PNG" width="50%">
