@@ -7,6 +7,7 @@ collection_name: left-nav-one
 ---
 
 <table>
+  
   <tr>
     <td>
       <img src="/images/sharing-sessions-left-markers-el1.png" alt="Dr Mercy Karuniah Jesuvadian" style="width:150px;" />
@@ -16,11 +17,22 @@ collection_name: left-nav-one
     <td>Register
     </td>
   </tr>
+  
   <tr>
     <td>
       <img src="/images/sharing-sessions-left-markers-el2.png" alt="Dr Leher Singh" style="width:150px;" />
     </td>
-    <td>1.45pm - 2.45pm<br>Dr Shamia Abdul raza<br>REmbedding Language Learning in Everyday Life[Sharing]<br> Room 311
+    <td>1.45pm - 2.45pm<br>Dr Shamia Abdul raza<br>REmbedding Language Learning in Everyday Life [Sharing]<br> Room 311
+    </td>
+    <td>Register
+    </td>
+  </tr>
+  
+    <tr>
+    <td>
+      <img src="/images/sharing-sessions-left-markers-el2.png" alt="Dr Leher Singh" style="width:150px;" />
+    </td>
+    <td>3.00pm - 4.00pm<br>Yu Liang (Mr)<br>Expanding Your Imagination and Creativity through Drama and Games [Workshop]<br> Room 311
     </td>
     <td>Register
     </td>
