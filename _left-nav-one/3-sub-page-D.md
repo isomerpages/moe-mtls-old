@@ -9,18 +9,59 @@ collection_name: left-nav-one
 <table>
   <tr>
     <td>
-      <img src="/images/sharing-sessions-left-markers-el1.png" alt="Dr Mercy Karuniah Jesuvadian" style="width:150px;" />
     </td>
-    <td>1.00pm - 2.00pm<br>Dr Mercy Karuniah Jesuvadian<br>Our Mother Tongues as Living Languages<br> Rom 309
+    <td>12.30pm - 1.30pm<br>
+     <br> Usha Rani (Mdm) 
+      <br>Sukuna S.Vijayadevar (Ms)
+      <br>Karkuzhali (Ms)
+      <br>Learning MTL Through Purposeful Play from School to Home<br> Rom 300
     </td>
     <td>Register
     </td>
   </tr>
   <tr>
     <td>
-      <img src="/images/sharing-sessions-left-markers-el2.png" alt="Dr Leher Singh" style="width:150px;" />
     </td>
-    <td>2.15pm - 3.15pm<br>Dr Leher Singh<br>Raising Bilingual Children: Challenges, Opportunities and Strategies for Success<br> Rom 309
+    <td>1.45pm - 2.45pm<br>
+     <br> Sarojini Padmanathan (Mrs)
+     <br> Effective Use of Tamil Language
+- Activity Based Communication (ABC) of Spoken Tamil
+      <br> Rom 300
+    </td>
+    <td>Register
+    </td>
+  </tr>
+    <tr>
+    <td>
+    </td>
+    <td>3.00pm - 4.00pm<br>
+     <br> S Seethalaksmy (Mdm)
+      <br>Mr Illamaran (Mr)
+      <br>Prasanna Ramesh (Ms)
+     <br>Learning Tamil through Songs
+      <br> Rom 300
+    </td>
+    <td>Register
+    </td>
+  </tr>
+      <tr>
+    <td>
+    </td>
+    <td>4.15pm - 5.15pm<br>
+      <br>Rani Kannan (Ms)
+     <br>Making Bedtime Reading Fun for Children Aged  (0-3) & (4-6)
+      <br> Rom 300
+    </td>
+    <td>Register
+    </td>
+  </tr>
+        <tr>
+    <td>
+    </td>
+    <td>5.30pm - 6.30pm<br>
+      <br>Anandha Kannan (Mr)
+     <br> Joyful Learning Of Tamil through Stories 
+      <br> Rom 300
     </td>
     <td>Register
     </td>
