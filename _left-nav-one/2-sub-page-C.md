@@ -9,18 +9,116 @@ collection_name: left-nav-one
 <table>
   <tr>
     <td>
-      <img src="/images/sharing-sessions-left-markers-el1.png" alt="Dr Mercy Karuniah Jesuvadian" style="width:150px;" />
     </td>
-    <td>1.00pm - 2.00pm<br>Dr Mercy Karuniah Jesuvadian<br>Our Mother Tongues as Living Languages<br> Rom 309
+    <td>12.30pm - 1.30pm
+      <br>Haslindah Mispan (Mdm)
+<br>Dr Raudhah Yahya
+<br>Aimuniliyana (Ms)
+      <br>Learning MTL Through Purposeful Play from School to Home
+      <br> Rom 302
     </td>
     <td>Register
     </td>
   </tr>
-  <tr>
+    <tr>
     <td>
-      <img src="/images/sharing-sessions-left-markers-el2.png" alt="Dr Leher Singh" style="width:150px;" />
     </td>
-    <td>2.15pm - 3.15pm<br>Dr Leher Singh<br>Raising Bilingual Children: Challenges, Opportunities and Strategies for Success<br> Rom 309
+    <td>12.30pm - 1.30pm
+      <br>Ain Syakirah (Ms)
+      <br>Inventions with Recycled Materials Through Purposeful Play Learning
+      <br> Rom 301
+    </td>
+    <td>Register
+    </td>
+  </tr>
+   <tr>
+    <td>
+    </td>
+    <td>1.45pm - 2.45pm
+<br>Khairudin Saharom (Mr)
+      <br>Doodling as a Tool  for Language Learning
+      <br> Rom 302
+    </td>
+    <td>Register
+    </td>
+  </tr>
+    <tr>
+    <td>
+    </td>
+    <td>1.45pm - 2.45pm
+      <br>Jumaini Ariff (Mdm)
+      <br>Speech & Drama:
+The Haven for Imagination Exploration
+      <br> Rom 301
+    </td>
+    <td>Register
+    </td>
+  </tr>
+    <tr>
+    <td>
+    </td>
+    <td>13.00pm - 4.00pm
+      <br>Suriati Abdolah (Mdm)
+      <br>Lull the Little One with a Storybook
+      <br> Rom 302
+    </td>
+    <td>Register
+    </td>
+  </tr>
+    </tr>
+    <tr>
+    <td>
+    </td>
+    <td>13.00pm - 4.00pm
+      <br>Maria Mahat (Ms)
+      <br> StoryWalk® at the Malay Heritage Centre
+      <br> Rom 301
+    </td>
+    <td>Register
+    </td>
+  </tr>
+      </tr>
+    <tr>
+    <td>
+    </td>
+    <td>4.15pm - 5.15pm
+      <br>Shahrizal Salleh (Mr)
+      <br> Embrace Your Language, My Child!
+      <br> Rom 302
+    </td>
+    <td>Register
+    </td>
+  </tr>
+      <tr>
+    <td>
+    </td>
+    <td>4.15pm - 5.15pm
+      <br>Dr Jeyarajadas Pandiyan
+      <br> ETamil at Heart!
+      <br> Rom 301
+    </td>
+    <td>Register
+    </td>
+  </tr>
+        <tr>
+    <td>
+    </td>
+    <td>5.30pm - 6.30pm
+      <br>Salina Bte Saiman (Mdm)
+<br>Rafidah Alias (Mdm)
+      <br> A Contextual Approach to Develop  Oracy
+      <br> Rom 302
+    </td>
+    <td>Register
+    </td>
+  </tr>
+          <tr>
+    <td>
+    </td>
+    <td>5.30pm - 6.30pm
+<br> Juliana Jaysree (Miss)
+      <br> Strategies to Guide the Learning of Mother Tongue Language
+      <br> Rom 301
     </td>
     <td>Register
     </td>
