@@ -17,7 +17,6 @@ collection_name: left-nav-one
     <td>Register
     </td>
   </tr>
-  
   <tr>
     <td>
       <img src="/images/sharing-sessions-left-markers-el2.png" alt="Dr Leher Singh" style="width:150px;" />
@@ -27,7 +26,6 @@ collection_name: left-nav-one
     <td>Register
     </td>
   </tr>
-  
     <tr>
     <td>
       <img src="/images/sharing-sessions-left-markers-el2.png" alt="Dr Leher Singh" style="width:150px;" />
@@ -36,6 +34,7 @@ collection_name: left-nav-one
     </td>
     <td>Register
     </td>
+    
   </tr>
-
+  
 </table>
