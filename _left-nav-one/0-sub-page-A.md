@@ -30,11 +30,19 @@ collection_name: left-nav-one
     <td>
       <img src="/images/sharing-sessions-left-markers-el2.png" alt="Dr Leher Singh" style="width:150px;" />
     </td>
-    <td>3.00pm - 4.00pm<br>Yu Liang (Mr)<br>Expanding Your Imagination and Creativity through Drama and Games [Workshop]<br> Room 311
+    <td>3.00pm - 4.00pm<brDr Anitha Devi Pillai<br>How do You Encourage Literacy in Young Children (and Beyond)? [Sharing]<br> Room 311
     </td>
     <td>Register
+  </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/images/sharing-sessions-left-markers-el2.png" alt="Dr Leher Singh" style="width:150px;" />
     </td>
-    
+    <td>3.00pm - 4.00pm<brDr Anitha Devi Pillai<br>How do You Encourage Literacy in Young Children (and Beyond)? [Sharing]<br> Room 311
+    </td>
+    <td>Register
+  </td>
   </tr>
   
 </table>
