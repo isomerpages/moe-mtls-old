@@ -20,7 +20,7 @@ collection_name: left-nav-one
     <td>
       <img src="/images/sharing-sessions-left-markers-el2.png" alt="Dr Leher Singh" style="width:150px;" />
     </td>
-    <td>1.45pm - 2.45pm<br>Dr Shamia Abdul raza<br>REmbedding Language Learning in Everyday Life[Sharing]<br> Rom 309
+    <td>1.45pm - 2.45pm<br>Dr Shamia Abdul raza<br>REmbedding Language Learning in Everyday Life[Sharing]<br> Room 311
     </td>
     <td>Register
     </td>
