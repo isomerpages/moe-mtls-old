@@ -11,7 +11,7 @@ collection_name: left-nav-one
     <td>
       <img src="/images/sharing-sessions-left-markers-el1.png" alt="Dr Mercy Karuniah Jesuvadian" style="width:150px;" />
     </td>
-    <td>1.00pm - 2.00pm<br>Dr Mercy Karuniah Jesuvadian<br>Our Mother Tongues as Living Languages<br> Rom 309
+    <td>12.30pm - 1.30pm<br>Dr Leher Singh<br>Raising Bilingual Children: Challenges, Opportunities and Strategies for Success[Sharing]<br> Room 311
     </td>
     <td>Register
     </td>
@@ -20,7 +20,7 @@ collection_name: left-nav-one
     <td>
       <img src="/images/sharing-sessions-left-markers-el2.png" alt="Dr Leher Singh" style="width:150px;" />
     </td>
-    <td>2.15pm - 3.15pm<br>Dr Leher Singh<br>Raising Bilingual Children: Challenges, Opportunities and Strategies for Success<br> Rom 309
+    <td>1.45pm - 2.45pm<br>Dr Shamia Abdul raza<br>REmbedding Language Learning in Everyday Life[Sharing]<br> Rom 309
     </td>
     <td>Register
     </td>
