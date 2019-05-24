@@ -11,7 +11,7 @@ collection_name: left-nav-one
   <tr>
     <td>
     </td>
-    <td>12.30pm - 1.30pm<br>Dr Leher Singh<br>Raising Bilingual Children: Challenges, Opportunities and Strategies for Success[Sharing]<br> Room 311
+    <td>12.30pm - 1.30pm<br>Dr Leher Singh<br>Raising Bilingual Children: Challenges, Opportunities and Strategies for Success [Sharing]<br> Room 311
     </td>
     <td>Register
     </td>
@@ -19,7 +19,7 @@ collection_name: left-nav-one
   <tr>
     <td>
     </td>
-    <td>1.45pm - 2.45pm<br>Dr Shamia Abdul raza<br>REmbedding Language Learning in Everyday Life [Sharing]<br> Room 311
+    <td>1.45pm - 2.45pm<br>Dr Shamia Abdul raza<br>Embedding Language Learning in Everyday Life [Sharing]<br> Room 311
     </td>
     <td>Register
     </td>
@@ -28,6 +28,16 @@ collection_name: left-nav-one
     <td>
     </td>
     <td>3.00pm - 4.00pm<br>Dr Anitha Devi Pillai<br>How do You Encourage Literacy in Young Children (and Beyond)? [Sharing]<br> Room 311
+    </td>
+    <td>Register
+  </td>
+  </tr>
+    <tr>
+    <td>
+    </td>
+    <td>4.15pm - 5.15pm<br>Dr Jennifer Tsai
+      <br>Have Fun with Exploring Mandarin through Multi-Sensory Learning [Sharing]
+      <br> Room 311
     </td>
     <td>Register
   </td>
