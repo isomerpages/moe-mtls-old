@@ -8,7 +8,7 @@ breadcrumb: Sharing Sessions
    <div clas="col is-one-quarter-widescreen is-half-desktop is-half-tablet " id="divParent1">
       <div class="col is-5"  id="divP1Child"> 
          <a href="/left-nav-one/sub-page-a/" >
-         <img src="/images/Sharing_English.png" alt="" style="width:200px;" />
+         <img src="/images/Sharing_English.png" alt="" width:350px;" />
          </a>
       </div>
       <div class="col is-5">  
