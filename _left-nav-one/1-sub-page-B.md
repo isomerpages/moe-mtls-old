@@ -44,8 +44,6 @@ collection_name: left-nav-one
       <br>The Nursery Rhymes [Sharing]
       <br> Room 303 - 304
     </td>
-    <td>Register
-    </td>
   </tr>
      <tr>
     <td>
@@ -57,8 +55,6 @@ collection_name: left-nav-one
       <br>  Dr Lin An-chi
       <br>Learning MTL through Purposeful Play  
       <br> Room 308
-    </td>
-    <td>Register
     </td>
   </tr>
         <tr>
