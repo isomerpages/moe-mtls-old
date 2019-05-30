@@ -56,7 +56,6 @@
   - title: Teacher Award 
     url: 
 
-button:
-  - text: Register Now
+- title: Register Now
     url: https://google.com
     external: true
