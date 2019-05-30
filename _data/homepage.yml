@@ -15,10 +15,10 @@ hero-subtitle: Our Mother Tongues as Living Languages
 hero-banner: /images/homebackground.jpg
 
 #Call to Action Button
-button:
-  - text: Register Now
-    url: https://google.com
-    external: true
+//button:
+//  - text: Register Now
+//    url: https://google.com
+//   external: true
 
 key-highlights:
   - title: Discovery Land
