@@ -16,8 +16,6 @@ collection_name: left-nav-one
       <br>Karkuzhali (Ms)
       <br>Learning MTL Through Purposeful Play from School to Home<br> Rom 300
     </td>
-    <td>Register
-    </td>
   </tr>
   <tr>
     <td>
@@ -27,8 +25,6 @@ collection_name: left-nav-one
      <br> Effective Use of Tamil Language
 - Activity Based Communication (ABC) of Spoken Tamil
       <br> Rom 300
-    </td>
-    <td>Register
     </td>
   </tr>
     <tr>
@@ -41,8 +37,6 @@ collection_name: left-nav-one
      <br>Learning Tamil through Songs
       <br> Rom 300
     </td>
-    <td>Register
-    </td>
   </tr>
       <tr>
     <td>
@@ -52,8 +46,6 @@ collection_name: left-nav-one
      <br>Making Bedtime Reading Fun for Children Aged  (0-3) & (4-6)
       <br> Rom 300
     </td>
-    <td>Register
-    </td>
   </tr>
         <tr>
     <td>
@@ -62,8 +54,6 @@ collection_name: left-nav-one
       <br>Anandha Kannan (Mr)
      <br> Joyful Learning Of Tamil through Stories 
       <br> Rom 300
-    </td>
-    <td>Register
     </td>
   </tr>
 
