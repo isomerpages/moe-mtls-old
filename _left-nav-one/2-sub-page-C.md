@@ -18,8 +18,6 @@ collection_name: left-nav-one
       <br>Learning MTL Through Purposeful Play from School to Home
       <br> Rom 302
     </td>
-    <td>Register
-    </td>
   </tr>
     <tr>
     <td>
@@ -29,8 +27,6 @@ collection_name: left-nav-one
       <br>Inventions with Recycled Materials Through Purposeful Play Learning
       <br> Rom 301
     </td>
-    <td>Register
-    </td>
   </tr>
    <tr>
     <td>
@@ -39,8 +35,6 @@ collection_name: left-nav-one
 <br>Khairudin Saharom (Mr)
       <br>Doodling as a Tool  for Language Learning
       <br> Rom 302
-    </td>
-    <td>Register
     </td>
   </tr>
     <tr>
@@ -52,8 +46,6 @@ collection_name: left-nav-one
 The Haven for Imagination Exploration
       <br> Rom 301
     </td>
-    <td>Register
-    </td>
   </tr>
     <tr>
     <td>
@@ -63,10 +55,7 @@ The Haven for Imagination Exploration
       <br>Lull the Little One with a Storybook
       <br> Rom 302
     </td>
-    <td>Register
-    </td>
   </tr>
-   
     <tr>
     <td>
     </td>
@@ -75,10 +64,7 @@ The Haven for Imagination Exploration
       <br> StoryWalk® at the Malay Heritage Centre
       <br> Rom 301
     </td>
-    <td>Register
-    </td>
   </tr>
-     
     <tr>
     <td>
     </td>
@@ -86,8 +72,6 @@ The Haven for Imagination Exploration
       <br>Shahrizal Salleh (Mr)
       <br> Embrace Your Language, My Child!
       <br> Rom 302
-    </td>
-    <td>Register
     </td>
   </tr>
       <tr>
@@ -97,8 +81,6 @@ The Haven for Imagination Exploration
       <br>Dr Jeyarajadas Pandiyan
       <br> ETamil at Heart!
       <br> Rom 301
-    </td>
-    <td>Register
     </td>
   </tr>
         <tr>
@@ -110,8 +92,6 @@ The Haven for Imagination Exploration
       <br> A Contextual Approach to Develop  Oracy
       <br> Rom 302
     </td>
-    <td>Register
-    </td>
   </tr>
           <tr>
     <td>
@@ -120,8 +100,6 @@ The Haven for Imagination Exploration
 <br> Juliana Jaysree (Miss)
       <br> Strategies to Guide the Learning of Mother Tongue Language
       <br> Rom 301
-    </td>
-    <td>Register
     </td>
   </tr>
 
