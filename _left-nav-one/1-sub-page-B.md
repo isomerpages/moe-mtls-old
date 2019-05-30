@@ -15,8 +15,6 @@ collection_name: left-nav-one
       <br>Language Immersion Through Play-based Learning [Two consecutive sessions]
       <br> Room 310
     </td>
-    <td>Register
-    </td>
   </tr>
     <tr>
     <td>
@@ -27,8 +25,6 @@ collection_name: left-nav-one
       <br>Learning of CL Through Parent-child Activities [Workshop]
       <br> Room 310
     </td>
-    <td>Register
-    </td>
   </tr>
       <tr>
     <td>
@@ -38,8 +34,6 @@ collection_name: left-nav-one
        <br> Li Hongyu (Ms)
       <br>Learning Chinese in a Fun Way! [Sharing]
       <br> Room 308
-    </td>
-    <td>Register
     </td>
   </tr>
         <tr>
@@ -77,8 +71,6 @@ collection_name: left-nav-one
       <br>Run! Jump! Bump! Learn Mandarin by Integrating Physical Rhythm and Interactive Games
       <br> Room 309
     </td>
-    <td>Register
-    </td>
   </tr>
           <tr>
     <td>
@@ -87,8 +79,6 @@ collection_name: left-nav-one
       <br>Liang Huiyu (Ms)
       <br>Making Bedtime Reading Fun for Children Aged 4-6
       <br> Room 308
-    </td>
-    <td>Register
     </td>
   </tr>
    <tr>
@@ -101,8 +91,6 @@ collection_name: left-nav-one
       <br> Understanding 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese.
       <br> Room 309
     </td>
-    <td>Register
-    </td>
   </tr>
       <tr>
     <td>
@@ -111,8 +99,6 @@ collection_name: left-nav-one
       <br>Dr Aw Guat Poh
       <br> Learning how to Learn in Chinese Language –Sharing of  Research-based Self-directed Reading Strategies 
       <br> Room 308
-    </td>
-    <td>Register
     </td>
   </tr>
         <tr>
@@ -123,8 +109,6 @@ collection_name: left-nav-one
       <br>Chinese Language Is Easy to Master
       <br> Room 303 - 304
     </td>
-    <td>Register
-    </td>
   </tr>   
     <tr>
     <td>
@@ -133,8 +117,6 @@ collection_name: left-nav-one
       <br>Yu Liang (Mr)
       <br>Expanding Your Imagination and Creativity through Drama and Games [Two consecutive sessions]
       <br> Room 310
-    </td>
-    <td>Register
     </td>
   </tr>
       <tr>
@@ -147,8 +129,6 @@ collection_name: left-nav-one
       <br>The Illusion and Reality through Interesting Stories - “Let’s Read, Dramatize [Two consecutive sessions]
       <br> Room 309
     </td>
-    <td>Register
-    </td>
   </tr>
       <tr>
     <td>
@@ -157,8 +137,6 @@ collection_name: left-nav-one
       <br>Dr Aw Guat Poh
       <br> Learning how to Learn in Chinese Language –Sharing of  Research-based Self-directed Reading Strategies [Two consecutive sessions]
       <br> Room 308
-    </td>
-    <td>Register
     </td>
   </tr>
         <tr>
@@ -169,8 +147,6 @@ collection_name: left-nav-one
       <br>Chinese Language Is Easy to Master[Two consecutive sessions]
       <br> Room 303 - 304
     </td>
-    <td>Register
-    </td>
   </tr>
       <tr>
     <td>
@@ -180,8 +156,7 @@ collection_name: left-nav-one
       <br>Virtues: The Way to Character-building [Workshop]
       <br> Room 310
     </td>
-    <td>Register
-    </td>
+
   </tr>
         <tr>
     <td>
@@ -190,8 +165,6 @@ collection_name: left-nav-one
       <br> Lim Kwee Hua (Mdm)
       <br>Enjoy Wonderful Parent-child Reading Time
       <br> Room 309
-    </td>
-    <td>Register
     </td>
   </tr>
         <tr>
@@ -202,8 +175,6 @@ collection_name: left-nav-one
       <br> Planting a Story Tree With Your Child
       <br> Room 308
     </td>
-    <td>Register
-    </td>
   </tr>
         <tr>
     <td>
@@ -212,8 +183,6 @@ collection_name: left-nav-one
       <br>Dr Sun Baoqi
       <br>Reading in Two Languages: What We Need to Know and How We Can Support
       <br> Room 303 - 304
-    </td>
-    <td>Register
     </td>
   </tr>
   
