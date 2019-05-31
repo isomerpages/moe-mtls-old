@@ -43,7 +43,7 @@ text text text text text text text text text text text text text text text text 
 
 text text text text text text 
 
-#### Safari
+#### Wetlands
 <img src="/images/Discoveryland_Wetland.png" alt="" style="width:350px;" />
 
 text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
