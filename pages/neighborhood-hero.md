@@ -6,8 +6,8 @@ breadcrumb: Discovery Land
 ---
 There are many “heroes” in our neighbourhood. Do you know who they are and what they do? Find out at the 4 places below. Take up the challenge today. You can be a Neighbourhood Hero too!
 
-#### Supermarket Hero
-<img src="/images/neighbourhood-supermarket-300x279.png" alt="Supermarket Hero" style="width:350px;" />
+#### Floral Nursery
+<img src="/images/Discoveryland_Floral nursery.png" alt="" style="width:350px;" />
 
 Imagine you are a sales assistant at a supermarket, responsible for sorting the items and arranging them for display. An elderly person comes to you and asks for your help in finding some items for him to prepare a home-cooked dinner. What does he need? Let’s help him!
 
@@ -19,8 +19,8 @@ Bayangkan kamu seorang pembantu stor di pasar raya. Kamu bertanggungjawab untuk 
 
 வாருங்கள்! அவருக்கு உதவி செய்வோம்!
 
-#### Library Hero
-<img src="/images/neighbourhood-library-300x279.png" alt="Supermarket Hero" style="width:350px;" />
+#### Fruit Orchard
+<img src="/images/Discoveryland_Fruit orchard.png" alt="" style="width:350px;" />
 
 Imagine you are the librarian at a local library and an elderly person asks you for help. It seems like he is looking for a special book in the library. What is he looking for? Let’s help him!
 
@@ -31,3 +31,25 @@ Bayangkan kamu seorang pustakawan di perpustakaan tempatan. Seorang warga emas m
 நீ உன்னை ஒரு நூலகராகக் கற்பனை செய்துகொள். முதியவர் ஒருவர் உன்னிடம் உதவி கேட்கிறார். அவர் நூலகத்தில் இருக்கும் குறிப்பிட்ட ஒரு புத்தகத்தைப் பற்றி கேட்கிறார். அவர் எந்தப் புத்தகத்தை இரவல் பெற விரும்புகிறார்?
 
 வாருங்கள்! அவருக்கு உதவி செய்வோம்!
+
+#### Safari
+<img src="/images/Discoveryland_Safari.png" alt="" style="width:350px;" />
+
+text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
+
+text text text text text text text text text text text text text text text 
+
+text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
+
+text text text text text text 
+
+#### Safari
+<img src="/images/Discoveryland_Wetland.png" alt="" style="width:350px;" />
+
+text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
+
+text text text text text text text text text text text text text text text 
+
+text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
+
+text text text text text text 
