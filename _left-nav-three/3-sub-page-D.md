@@ -31,16 +31,16 @@ collection_name: left-nav-three
 </tr>
   <tr>
     <td>
-      <img src="/images/Carnival/Carnival_Circle_Green.png" alt="Session 1" style="width:70px;" />
+      <img src="/images/Carnival/Carnival_Circle_Green.png" alt="Session 1" style="width:30px;" />
     </td>
     <td>
-      <img src="/images/Carnival/Carnival_Circle_Green.png" alt="Session 2" style="width:70px;" />
+      <img src="/images/Carnival/Carnival_Circle_Green.png" alt="Session 2" style="width:30px;" />
     </td>
     <td>
-      <img src="/images/Carnival/Carnival_Circle_Green.png" alt="Session 3" style="width:70px;" />
+      <img src="/images/Carnival/Carnival_Circle_Green.png" alt="Session 3" style="width:30px;" />
     </td>
     <td>
-      <img src="/images/Carnival/Carnival_Circle_Green.png" alt="Session 4" style="width:70px;" />
+      <img src="/images/Carnival/Carnival_Circle_Green.png" alt="Session 4" style="width:30px;" />
     </td>
   </tr>
 </table>
