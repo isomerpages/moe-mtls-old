@@ -25,24 +25,5 @@ collection_name: left-nav-one
     </td>
     <td>3.00pm - 4.00pm<br>Dr Anitha Devi Pillai<br>How do You Encourage Literacy in Young Children (and Beyond)? [<b>Sharing</b>]<br> Room 311
     </td>
-  </tr>
-    <tr>
-    <td>
-    </td>
-    <td>4.15pm - 5.15pm<br>Dr Jennifer Tsai
-      <br>Have Fun with Exploring Mandarin through Multi-Sensory Learning [<b>Sharing</b>]
-      <br> Room 311
-    </td>
-  </tr>
-  <tr>
-    <td>
-    </td>
-    <td>5.30pm - 6.30pm<br>Lee Wei Hui (Ms)
-      <br>Michelle Lee Qiaorou (Ms)
-      <br>Chua Yinghan (Ms)
-      <br>Understanding 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese [<b>Sharing</b>]
-      <br> Room 311
-    </td>
-  </tr>
-  
+  </tr>  
 </table>
