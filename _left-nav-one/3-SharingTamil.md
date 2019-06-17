@@ -50,11 +50,28 @@ collection_name: left-nav-one
         <tr>
     <td>
     </td>
+    <td>4.15pm - 5.15pm
+      <br>Dr Jeyarajadas Pandiyan
+      <br> ETamil at Heart!
+      <br> Rom 301
+    </td>
+  </tr>
+        <tr>
+    <td>
+    </td>
     <td>5.30pm - 6.30pm<br>
       <br>Anandha Kannan (Mr)
      <br> Joyful Learning Of Tamil through Stories 
       <br> Rom 300
     </td>
   </tr>
-
+          <tr>
+    <td>
+    </td>
+    <td>5.30pm - 6.30pm
+<br> Juliana Jaysree (Miss)
+      <br> Strategies to Guide the Learning of Mother Tongue Language
+      <br> Rom 301
+    </td>
+  </tr>
 </table>
