@@ -16,7 +16,7 @@ collection_name: left-nav-one
 <br>Dr Raudhah Yahya
 <br>Aimuniliyana (Ms)
       <br>Learning MTL Through Purposeful Play from School to Home
-      <br> Rom 302
+      <br> Room 302
     </td>
   </tr>
     <tr>
@@ -25,16 +25,16 @@ collection_name: left-nav-one
     <td>12.30pm - 1.30pm
       <br>Ain Syakirah (Ms)
       <br>Inventions with Recycled Materials Through Purposeful Play Learning
-      <br> Rom 301
+      <br> Room 301
     </td>
   </tr>
    <tr>
     <td>
     </td>
     <td>1.45pm - 2.45pm
-<br>Khairudin Saharom (Mr)
+<br>Khairudin SahaRoom (Mr)
       <br>Doodling as a Tool  for Language Learning
-      <br> Rom 302
+      <br> Room 302
     </td>
   </tr>
     <tr>
@@ -44,7 +44,7 @@ collection_name: left-nav-one
       <br>Jumaini Ariff (Mdm)
       <br>Speech & Drama:
 The Haven for Imagination Exploration
-      <br> Rom 301
+      <br> Room 301
     </td>
   </tr>
     <tr>
@@ -53,7 +53,7 @@ The Haven for Imagination Exploration
     <td>13.00pm - 4.00pm
       <br>Suriati Abdolah (Mdm)
       <br>Lull the Little One with a Storybook
-      <br> Rom 302
+      <br> Room 302
     </td>
   </tr>
     <tr>
@@ -62,7 +62,7 @@ The Haven for Imagination Exploration
     <td>13.00pm - 4.00pm
       <br>Maria Mahat (Ms)
       <br> StoryWalk® at the Malay Heritage Centre
-      <br> Rom 301
+      <br> Room 301
     </td>
   </tr>
     <tr>
@@ -71,7 +71,7 @@ The Haven for Imagination Exploration
     <td>4.15pm - 5.15pm
       <br>Shahrizal Salleh (Mr)
       <br> Embrace Your Language, My Child!
-      <br> Rom 302
+      <br> Room 302
     </td>
   </tr>
 
@@ -82,7 +82,7 @@ The Haven for Imagination Exploration
       <br>Salina Bte Saiman (Mdm)
 <br>Rafidah Alias (Mdm)
       <br> A Contextual Approach to Develop  Oracy
-      <br> Rom 302
+      <br> Room 302
     </td>
   </tr>
 
