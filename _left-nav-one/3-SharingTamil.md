@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Tamil Sessions
-permalink: /left-nav-one/sub-page-D/
+permalink: /sharesessions/Tamil/
 breadcrumb: Tamil Sessions
 collection_name: left-nav-one
 ---
