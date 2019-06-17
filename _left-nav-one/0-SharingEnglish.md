@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: English Sessions
-permalink: /left-nav-one/sub-page-A/
+permalink: /sharesessions/English/
 breadcrumb: English Sessions
 collection_name: left-nav-one
 ---
