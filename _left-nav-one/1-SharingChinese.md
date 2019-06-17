@@ -111,7 +111,7 @@ collection_name: left-nav-one
     </td>
     <td>3.00pm - 5.15pm
       <br>Yu Liang (Mr)
-      <br>Expanding Your Imagination and Creativity through Drama and Games [<b>Two consecutive sessions<b/>]
+      <br>Expanding Your Imagination and Creativity through Drama and Games [<b>Two consecutive sessions</b>]
       <br> Room 310
     </td>
   </tr>
@@ -122,7 +122,7 @@ collection_name: left-nav-one
       <br> Jing Yan (Ms)
        <br> Li Yanli (Ms)
       <br> Wang Junyi (Ms)
-      <br>The Illusion and Reality through Interesting Stories - “Let’s Read, Dramatize [<b>Two consecutive sessions<b/>]
+      <br>The Illusion and Reality through Interesting Stories - “Let’s Read, Dramatize [ <b>Two consecutive sessions</b> ]
       <br> Room 309
     </td>
   </tr>
@@ -131,7 +131,7 @@ collection_name: left-nav-one
     </td>
     <td>3.00pm - 5.15pm
       <br>Dr Aw Guat Poh
-      <br> Learning how to Learn in Chinese Language –Sharing of  Research-based Self-directed Reading Strategies [<b>Two consecutive sessions<b/>]
+      <br> Learning how to Learn in Chinese Language –Sharing of  Research-based Self-directed Reading Strategies [<b>Two consecutive sessions</b>]
       <br> Room 308
     </td>
   </tr>
@@ -140,7 +140,7 @@ collection_name: left-nav-one
     </td>
     <td>3.00pm - 5.15pm
       <br>Kate Pang and Andie Chen
-      <br>Chinese Language Is Easy to Master[<b>Two consecutive sessions<b/>]
+      <br>Chinese Language Is Easy to Master[<b>Two consecutive sessions</b>]
       <br> Room 303 - 304
     </td>
   </tr>
@@ -149,7 +149,7 @@ collection_name: left-nav-one
     </td>
     <td>5.30pm - 6.30pm
       <br>Alicia Lim (Ms)
-      <br>Virtues: The Way to Character-building [<b>Workshop<b/>]
+      <br>Virtues: The Way to Character-building [<b>Workshop</b>]
       <br> Room 310
     </td>
 
