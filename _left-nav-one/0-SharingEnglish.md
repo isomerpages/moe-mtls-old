@@ -11,13 +11,13 @@ collection_name: left-nav-one
   <tr>
     <td>
     </td>
-    <td>12.30pm - 1.30pm<br>Dr Leher Singh<br>Raising Bilingual Children: Challenges, Opportunities and Strategies for Success [Sharing]<br> Room 311
+    <td>12.30pm - 1.30pm<br>Dr Leher Singh<br>Raising Bilingual Children: Challenges, Opportunities and Strategies for Success [###Sharing]<br> Room 311
     </td>
   </tr>
   <tr>
     <td>
     </td>
-    <td>1.45pm - 2.45pm<br>Dr Shamia Abdul raza<br>Embedding Language Learning in Everyday Life [Sharing]<br> Room 311
+    <td>1.45pm - 2.45pm<br>Dr Shamia Abdul raza<br>Embedding Language Learning in Everyday Life [###Sharing]<br> Room 311
     </td>
   </tr>
     <tr>
