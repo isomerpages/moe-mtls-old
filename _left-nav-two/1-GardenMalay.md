@@ -15,12 +15,11 @@ collection_name: left-nav-two
   <tr>
     <td>
     Story Time by Teachers: The Little Snake Taking a Stroll
+     <br/>    MOE Kindergarten @ Blangah Rise
     <br>老师讲故事：小蛇散步
     </td>
     <td>
-    MOE Kindergarten @ Blangah Rise
-    <br>
-    <br>
+ 
     </td>
   </tr>
   <tr>
