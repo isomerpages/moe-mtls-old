@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Malay
-permalink: /left-nav-two/sub-page-B/
+permalink: /GardenEnsemble/Malay/
 breadcrumb: Malay Performances
 collection_name: left-nav-two
 ---
