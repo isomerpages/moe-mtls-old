@@ -74,15 +74,7 @@ The Haven for Imagination Exploration
       <br> Rom 302
     </td>
   </tr>
-      <tr>
-    <td>
-    </td>
-    <td>4.15pm - 5.15pm
-      <br>Dr Jeyarajadas Pandiyan
-      <br> ETamil at Heart!
-      <br> Rom 301
-    </td>
-  </tr>
+
         <tr>
     <td>
     </td>
@@ -93,14 +85,6 @@ The Haven for Imagination Exploration
       <br> Rom 302
     </td>
   </tr>
-          <tr>
-    <td>
-    </td>
-    <td>5.30pm - 6.30pm
-<br> Juliana Jaysree (Miss)
-      <br> Strategies to Guide the Learning of Mother Tongue Language
-      <br> Rom 301
-    </td>
-  </tr>
+
 
 </table>
