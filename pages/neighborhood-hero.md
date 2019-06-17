@@ -6,7 +6,7 @@ breadcrumb: Discovery Land
 ---
 There are many “heroes” in our neighbourhood. Do you know who they are and what they do? Find out at the 4 places below. Take up the challenge today. You can be a Neighbourhood Hero too!
 
-#### Floral Nursery
+#### Flower Maze
 <img src="/images/Discoveryland_Floral nursery.png" alt="" style="width:350px;" />
 
 Imagine you are a sales assistant at a supermarket, responsible for sorting the items and arranging them for display. An elderly person comes to you and asks for your help in finding some items for him to prepare a home-cooked dinner. What does he need? Let’s help him!
@@ -32,7 +32,7 @@ Bayangkan kamu seorang pustakawan di perpustakaan tempatan. Seorang warga emas m
 
 வாருங்கள்! அவருக்கு உதவி செய்வோம்!
 
-#### Safari
+#### Forest
 <img src="/images/Discoveryland_Safari.png" alt="" style="width:350px;" />
 
 text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
@@ -43,7 +43,7 @@ text text text text text text text text text text text text text text text text 
 
 text text text text text text 
 
-#### Wetlands
+#### Ecopond
 <img src="/images/Discoveryland_Wetland.png" alt="" style="width:350px;" />
 
 text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
