@@ -14,7 +14,7 @@ collection_name: left-nav-one
      <br> Usha Rani (Mdm) 
       <br>Sukuna S.Vijayadevar (Ms)
       <br>Karkuzhali (Ms)
-      <br>Learning MTL Through Purposeful Play from School to Home<br> Rom 300
+      <br>Learning MTL Through Purposeful Play from School to Home<br> Room 300
     </td>
   </tr>
   <tr>
@@ -24,7 +24,7 @@ collection_name: left-nav-one
      <br> Sarojini Padmanathan (Mrs)
      <br> Effective Use of Tamil Language
 - Activity Based Communication (ABC) of Spoken Tamil
-      <br> Rom 300
+      <br> Room 300
     </td>
   </tr>
     <tr>
@@ -35,7 +35,7 @@ collection_name: left-nav-one
       <br>Mr Illamaran (Mr)
       <br>Prasanna Ramesh (Ms)
      <br>Learning Tamil through Songs
-      <br> Rom 300
+      <br> Room 300
     </td>
   </tr>
       <tr>
@@ -44,7 +44,7 @@ collection_name: left-nav-one
     <td>4.15pm - 5.15pm<br>
       <br>Rani Kannan (Ms)
      <br>Making Bedtime Reading Fun for Children Aged  (0-3) & (4-6)
-      <br> Rom 300
+      <br> Room 300
     </td>
   </tr>
         <tr>
@@ -53,7 +53,7 @@ collection_name: left-nav-one
     <td>4.15pm - 5.15pm
       <br>Dr Jeyarajadas Pandiyan
       <br> ETamil at Heart!
-      <br> Rom 301
+      <br> Room 301
     </td>
   </tr>
         <tr>
@@ -62,7 +62,7 @@ collection_name: left-nav-one
     <td>5.30pm - 6.30pm<br>
       <br>Anandha Kannan (Mr)
      <br> Joyful Learning Of Tamil through Stories 
-      <br> Rom 300
+      <br> Room 300
     </td>
   </tr>
           <tr>
@@ -71,7 +71,7 @@ collection_name: left-nav-one
     <td>5.30pm - 6.30pm
 <br> Juliana Jaysree (Miss)
       <br> Strategies to Guide the Learning of Mother Tongue Language
-      <br> Rom 301
+      <br> Room 301
     </td>
   </tr>
 </table>
