@@ -14,23 +14,23 @@
   url: /sharesessions/
   sub-links:
   - title: English
-    url: /left-nav-one/sub-page-A/
+    url: /sharesessions/English/
   - title: Chinese
-    url: /left-nav-one/sub-page-B/
+    url: /sharesessions/Chinese/
   - title: Malay
-    url: /left-nav-one/sub-page-C/
+    url: /sharesessions/Malay/
   - title: Tamil
-    url: /left-nav-one/sub-page-D/
+    url: /sharesessions/Tamil/
 
 - title: Garden Ensemble
-  url: /left-nav-two/sub-page-C/
+  url: /GardenEnsemble/Chinese/
   sub-links:
   - title: Chinese
-    url: /left-nav-two/sub-page-A/
+    url: /GardenEnsemble/Chinese/
   - title: Malay
-    url: /left-nav-two/sub-page-B/
+    url: /GardenEnsemble/Malay/
   - title: Tamil
-    url: /left-nav-two/sub-page-C/
+    url: /GardenEnsemble/Tamil/
 
 - title: Carnival
   url: /left-nav-three/sub-page-C/
