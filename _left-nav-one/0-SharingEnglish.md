@@ -11,7 +11,7 @@ collection_name: left-nav-one
   <tr>
     <td>
     </td>
-    <td>12.30pm - 1.30pm<br>Dr Leher Singh<br>Raising Bilingual Children: Challenges, Opportunities and Strategies for Success [###Sharing]<br> Room 311
+    <td>12.30pm - 1.30pm<br>Dr Leher Singh<br>Raising Bilingual Children: Challenges, Opportunities and Strategies for Success [<b>Sharing</b>]<br> Room 311
     </td>
   </tr>
   <tr>
