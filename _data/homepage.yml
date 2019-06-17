@@ -26,11 +26,11 @@ key-highlights:
     url: /discovery-land/ 
   - title: Play Games and Enjoy Performances 
     description: 
-    url: /left-nav-two/sub-page-c/
-    external: true
+    url: /left-nav-two/sub-page-c/   
   - title: Register your interest 
     description: 
     url: http://203.125.155.188/standardregweb_2016/eventreg?event=RegisterYourInterest
+    external: true
   - title: Participate in Over 30 Sharing Sessions
     description: 
     url: /page-A/    
