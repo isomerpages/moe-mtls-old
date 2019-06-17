@@ -17,20 +17,20 @@ collection_name: left-nav-one
   <tr>
     <td>
     </td>
-    <td>1.45pm - 2.45pm<br>Dr Shamia Abdul raza<br>Embedding Language Learning in Everyday Life [###Sharing]<br> Room 311
+    <td>1.45pm - 2.45pm<br>Dr Shamia Abdul raza<br>Embedding Language Learning in Everyday Life [<b>Sharing</b>]<br> Room 311
     </td>
   </tr>
     <tr>
     <td>
     </td>
-    <td>3.00pm - 4.00pm<br>Dr Anitha Devi Pillai<br>How do You Encourage Literacy in Young Children (and Beyond)? [Sharing]<br> Room 311
+    <td>3.00pm - 4.00pm<br>Dr Anitha Devi Pillai<br>How do You Encourage Literacy in Young Children (and Beyond)? [<b>Sharing</b>]<br> Room 311
     </td>
   </tr>
     <tr>
     <td>
     </td>
     <td>4.15pm - 5.15pm<br>Dr Jennifer Tsai
-      <br>Have Fun with Exploring Mandarin through Multi-Sensory Learning [Sharing]
+      <br>Have Fun with Exploring Mandarin through Multi-Sensory Learning [<b>Sharing</b>]
       <br> Room 311
     </td>
   </tr>
