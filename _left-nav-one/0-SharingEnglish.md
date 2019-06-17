@@ -40,7 +40,7 @@ collection_name: left-nav-one
     <td>5.30pm - 6.30pm<br>Lee Wei Hui (Ms)
       <br>Michelle Lee Qiaorou (Ms)
       <br>Chua Yinghan (Ms)
-      <br>Understanding 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese [Sharing]
+      <br>Understanding 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese [<b>Sharing</b>]
       <br> Room 311
     </td>
   </tr>
