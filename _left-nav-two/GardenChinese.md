@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Chinese
-permalink: /GARDEN ENSEMBLE/Chinese/
+permalink: /GardenEnsemble/Chinese/
 breadcrumb: Chinese Performances
 collection_name: left-nav-two
 ---
