@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Tamil
-permalink: /left-nav-two/sub-page-C/
+permalink: /GardenEnsemble/Tamil/
 breadcrumb: Tamil Performances
 collection_name: left-nav-two
 ---
