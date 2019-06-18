@@ -57,6 +57,6 @@
     url: 
 
 - title: <span style="color:blue">Register Now</span>
-  url: http://203.125.155.188/standardregweb_2016/eventreg?event=RegisterSharingSessions
+  url: http://203.125.155.188/standardregweb_2016/WelcomeMTLS?event=RegisterSharingSessions
   external: true
 
