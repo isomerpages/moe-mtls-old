@@ -12,7 +12,7 @@
   position: Tech Associate
   # dept: Government Digital Services, Data Science Division
   story: I am always learning something new everyday and there is enough flexibility for me to explore new ways of doing things.
-   img: images/Speaker2.jpg
+  img: images/Speaker2.jpg
   button-text: About Session
   button-url: /careers/students-and-graduates/?utm_source=careers_homepage
 
@@ -21,6 +21,6 @@
   position: Intern
   # dept: Government Digital Services, Data Science Division
   story: I like the flexibility of working here, the games provided in the office during our breaks, allows us to recharge ourselves.
-   img: images/Speaker3.jpg
+  img: images/Speaker3.jpg
   button-text: About Session
   button-url: /careers/students-and-graduates/?utm_source=careers_homepage
