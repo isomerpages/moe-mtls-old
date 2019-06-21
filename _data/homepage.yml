@@ -21,23 +21,16 @@ hero-banner: /images/HomeBackground_5.png
 //   external: true
 
 key-highlights:
-  - title: Discovery Land
-    description: 
-    url: /discovery-land/ 
-  - title: Play Games and Enjoy Performances 
-    description: 
-    url: /gardenensemble/chinese/  
-  - title: Register your interest 
+ 
+  - title: Register your Interest
     description: 
     url: http://203.125.155.188/standardregweb_2016/WelcomeMTLS?event=RegisterYourInterest
     external: true
-  - title: Participate in Over 30 Sharing Sessions
+- title: Register for Sharing Sessions
     description: 
-    url: /sharesessions/ 
-  - title: View Over 40 Exhibition Booths
-    description: 
-    url: /sharesessions/
-
+    url: http://203.125.155.188/standardregweb_2016/eventreg?event=RegisterSharingSessions
+    external: true
+ 
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
 careers-title:  
