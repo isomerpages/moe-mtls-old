@@ -34,6 +34,8 @@
   - title: Bookstore
     url: /left-nav-three/sub-page-D/
 
+- title: Garden Ensemble
+  url: /GardenEnsemble/
 
 - title: <span style="color:blue">Register Now</span>
   url: http://203.125.155.188/standardregweb_2016/WelcomeMTLS?event=RegisterSharingSessions
