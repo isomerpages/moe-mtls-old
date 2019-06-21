@@ -23,14 +23,8 @@
     url: /sharesessions/Tamil/
 
 - title: Garden Ensemble
-  url: /GardenEnsemble/Chinese/
-  sub-links:
-  - title: Chinese
-    url: /GardenEnsemble/Chinese/
-  - title: Malay
-    url: /GardenEnsemble/Malay/
-  - title: Tamil
-    url: /GardenEnsemble/Tamil/
+  url: /GardenEnsemble/
+  
 
 - title: Carnival
   url: /left-nav-three/sub-page-C/
