@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Garden Ensemble
-permalink: /sharesessions/
+permalink: /GardenEnsemble/
 breadcrumb: Garden Ensemble
 ---
 <table class="table-h">
