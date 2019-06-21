@@ -20,25 +20,46 @@ hero-banner: /images/HomeBackground_5.png
 //    url: https://google.com
 //   external: true
 
+##################################
+#                                #
+# WOHOO!
+#                                #
+##################################
+
+# Favicon
+favicon: /images/favicon-isomer.ico
+
+# Agency logo
+agency-logo: /images/Title FA-01.png
+
+# Hero Banner 
+hero-title: Our Mother Tongues as Living Languages
+hero-banner: /images/HomeBackground_5.png
+
+#Call to Action Button
+//button:
+//  - text: Register Now
+//    url: https://google.com
+//   external: true
+
 key-highlights:
+  - title: Discovery Land1
+    description: 
+    url: /discovery-land/ 
+  - title: Play Games and Enjoy Performances 
+    description: 
+    url: /gardenensemble/chinese/  
+  - title: Register your interest 
+    description: 
+    url: http://203.125.155.188/standardregweb_2016/WelcomeMTLS?event=RegisterYourInterest
+    external: true
+  - title: Participate in Over 30 Sharing Sessions
+    description: 
+    url: /sharesessions/ 
+  - title: View Over 40 Exhibition Booths
+    description: 
+    url: /sharesessions/
 
-   - title: Discovery Land
-    description: 
-    url: /discovery-land/  
-    
-    - title: Discovery Land
-    description: 
-    url: /discovery-land/ 
-    
-    - title: Discovery Land
-    description: 
-    url: /discovery-land/ 
-    
-    - title: Discovery Land
-    description: 
-    url: /discovery-land/ 
-
- 
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
 careers-title:  
