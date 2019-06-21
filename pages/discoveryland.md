@@ -4,6 +4,8 @@ title: Discovery Land
 permalink: /discovery-land/
 breadcrumb: Discovery Land
 ---
+<img src="/images/Discoveryland.jpg" alt="" />
+
 There are many “heroes” in our neighbourhood. Do you know who they are and what they do? Find out at the 4 places below. Take up the challenge today. You can be a Neighbourhood Hero too!
 
 #### Flower Maze
