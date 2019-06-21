@@ -21,7 +21,11 @@ hero-banner: /images/HomeBackground_5.png
 //   external: true
 
 key-highlights:
- 
+   - title: Discovery Land
+    description: 
+    url: /discovery-land/   - title: Discovery Land
+    description: 
+    url: /discovery-land/ 
   - title: Register your Interest
     description: 
     url: http://203.125.155.188/standardregweb_2016/WelcomeMTLS?event=RegisterYourInterest
