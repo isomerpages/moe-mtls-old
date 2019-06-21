@@ -21,19 +21,23 @@ hero-banner: /images/HomeBackground_5.png
 //   external: true
 
 key-highlights:
+
    - title: Discovery Land
     description: 
-    url: /discovery-land/   - title: Discovery Land
+    url: /discovery-land/  
+    
+    - title: Discovery Land
     description: 
     url: /discovery-land/ 
-  - title: Register your Interest
+    
+    - title: Discovery Land
     description: 
-    url: http://203.125.155.188/standardregweb_2016/WelcomeMTLS?event=RegisterYourInterest
-    external: true
-- title: Register for Sharing Sessions
+    url: /discovery-land/ 
+    
+    - title: Discovery Land
     description: 
-    url: http://203.125.155.188/standardregweb_2016/eventreg?event=RegisterSharingSessions
-    external: true
+    url: /discovery-land/ 
+
  
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
