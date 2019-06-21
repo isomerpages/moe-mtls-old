@@ -44,17 +44,6 @@
   - title: Bookstore
     url: /left-nav-three/sub-page-D/
 
-- title: Award
-  url: /awards/
-  sub-links:
-  - title: Outstanding Pre-school 
-    url: 
-  - title: Schools
-    url: 
-  - title: Mother Tongue Language 
-    url: 
-  - title: Teacher Award 
-    url: 
 
 - title: <span style="color:blue">Register Now</span>
   url: http://203.125.155.188/standardregweb_2016/WelcomeMTLS?event=RegisterSharingSessions
