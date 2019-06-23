@@ -54,7 +54,8 @@ key-highlights:
     external: true
 
 info-sections:
-  - section-title: Discoery Land 
+  - section-subtitle: Discovery Land
+    section-more-button-url: /discovery-land/
     section-image-path: /images/Discoveryland.jpg
     
 # Careers Section
