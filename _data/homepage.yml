@@ -53,6 +53,10 @@ key-highlights:
     url: http://203.125.155.188/standardregweb_2016/eventreg?event=RegisterSharingSessions
     external: true
 
+info-sections:
+  - section-title: Discoery Land 
+    section-image-path: /images/Discoveryland.jpg
+    
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
 careers-title:  
