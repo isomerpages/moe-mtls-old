@@ -10,68 +10,69 @@ collection_name: left-nav-one
   <tr>
     <td>
     </td>
-    <td>12.30pm - 1.30pm<br>
-     <br> Usha Rani (Mdm) 
+    <td>Speaker: Usha Rani (Mdm) 
       <br>Sukuna S.Vijayadevar (Ms)
       <br>Karkuzhali (Ms)
-      <br>Learning MTL Through Purposeful Play from School to Home<br> Room 300
-    </td>
+      <br>Topic: Learning MTL Through Purposeful Play from School to Home (Tamil) [<b>Panel Discussion</b>]
+      <br>Time: 12.30pm - 1.30pm
+      <br>Venue: Room 300
+</td>
   </tr>
   <tr>
     <td>
     </td>
-    <td>1.45pm - 2.45pm<br>
-     <br> Sarojini Padmanathan (Mrs)
-     <br> Effective Use of Tamil Language
-- Activity Based Communication (ABC) of Spoken Tamil
-      <br> Room 300
-    </td>
+    <td>Speaker: Sarojini Padmanathan (Mrs)
+      <br>Topic: Effective Use of Tamil Language- Activity Based Communication (ABC) of Spoken Tamil
+      (Tamil) [<b>Sharing</b>]
+      <br>Time: 1.45pm - 2.45pm
+      <br>Venue: Room 300
+</td>
   </tr>
     <tr>
     <td>
     </td>
-    <td>3.00pm - 4.00pm<br>
-     <br> S Seethalaksmy (Mdm)
+    <td>Speaker: S Seethalaksmy (Mdm)
       <br>Mr Illamaran (Mr)
       <br>Prasanna Ramesh (Ms)
-     <br>Learning Tamil through Songs
-      <br> Room 300
-    </td>
+      <br>Topic: Learning Tamil through Songs (Tamil) [<b>Sharing by Celebrity Speakers</b>]
+      <br>Time: 3.00pm - 4.00pm
+      <br>Venue: Room 300
+</td>
   </tr>
       <tr>
     <td>
     </td>
-    <td>4.15pm - 5.15pm<br>
-      <br>Rani Kannan (Ms)
-     <br>Making Bedtime Reading Fun for Children Aged  (0-3) & (4-6)
-      <br> Room 300
-    </td>
+   <td>Speaker: Rani Kannan (Ms)
+      <br>Topic: Making Bedtime Reading Fun for Children Aged  (0-3) & (4-6) (Tamil) [<b>Sharing by Celebrity Speakers</b>]
+      <br>Time: 4.15pm - 5.15pm
+      <br>Venue: Room 300
+</td>
   </tr>
         <tr>
     <td>
     </td>
-    <td>4.15pm - 5.15pm
-      <br>Dr Jeyarajadas Pandiyan
-      <br> ETamil at Heart!
-      <br> Room 301
-    </td>
+    <td>Speaker: Dr Jeyarajadas Pandiyan
+      <br>Topic: Tamil at Heart (Tamil) [<b>Sharing</b>]
+      <br>Time: 4.15pm - 5.15pm
+      <br>Venue: Room 301
+</td>
   </tr>
         <tr>
     <td>
     </td>
-    <td>5.30pm - 6.30pm<br>
-      <br>Anandha Kannan (Mr)
-     <br> Joyful Learning Of Tamil through Stories 
-      <br> Room 300
-    </td>
+    <td>Speaker: Anandha Kannan (Mr)
+      <br>Topic: Joyful Learning Of Tamil through Stories (Tamil) [<b>Workshop by Celebrity Speaker</b>]
+      <br>Time: 5.30pm - 6.30pm
+      <br>Venue: Room 300
+</td>
   </tr>
           <tr>
     <td>
     </td>
-    <td>5.30pm - 6.30pm
-<br> Juliana Jaysree (Miss)
-      <br> Strategies to Guide the Learning of Mother Tongue Language
-      <br> Room 301
-    </td>
+    <td>Speaker: Juliana Jaysree (Miss)
+      <br>Topic: Strategies to Guide the Learning of Mother Tongue Language (Tamil) [<b>Sharing</b>]
+      <br>Time: 5.30pm - 6.30pm
+      <br>Venue: Room 301
+</td>
   </tr>
 </table>
