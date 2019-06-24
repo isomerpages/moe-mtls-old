@@ -15,7 +15,7 @@ collection_name: left-nav-one
      <br>Topic: Language Immersion Through Play-based Learning (Chinese) [<b>Two consecutive sessions</b>]
      <br>Time: 12.30pm - 2.45pm 
      <br>Venue: Room 310
-    </td>
+  </td>
   </tr>
     <tr>
     <td>
