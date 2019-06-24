@@ -7,6 +7,7 @@ collection_name: left-nav-one
 ---
 
 <table>
+  
   <tr>
     <td>
     </td>
