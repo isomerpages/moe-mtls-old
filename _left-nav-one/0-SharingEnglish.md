@@ -11,37 +11,35 @@ collection_name: left-nav-one
   <tr>
     <td>
     </td>
-    <td>12.30pm - 1.30pm<br>Dr Leher Singh<br>Raising Bilingual Children: Challenges, Opportunities and Strategies for Success [<b>Sharing</b>]<br> Room 311
+    <td>Speaker: Dr Leher Singh<br>Topic: Raising Bilingual Children: Challenges, Opportunities and Strategies for Success (English) [<b>Sharing</b>]<br>Time: 12.30pm - 1.30pm<br>Venue:Room 311
     </td>
   </tr>
   <tr>
     <td>
     </td>
-    <td>1.45pm - 2.45pm<br>Dr Shamia Abdul raza<br>Embedding Language Learning in Everyday Life [<b>Sharing</b>]<br> Room 311
-    </td>
+    <td>Speaker: Dr Shamia Abdul raza <br>Topic: Embedding Language Learning in Everyday Life (English) [<b>Sharing</b>]<br>Time: 1.45pm - 2.45pm <br>Venue: Room 311
+  </td>
   </tr>
     <tr>
     <td>
     </td>
-    <td>3.00pm - 4.00pm<br>Dr Anitha Devi Pillai<br>How do You Encourage Literacy in Young Children (and Beyond)? [<b>Sharing</b>]<br> Room 311
-    </td>
+    <td>Speaker: Dr Anitha Devi Pillai <br>Topic: How do You Encourage Literacy in Young Children (and Beyond)? (English) [<b>Sharing</b>]<br>Time: 3.00pm - 4.00pm <br>Venue: Room 311
+  </td>
   </tr>  
    <tr>
     <td>
     </td>
-    <td>4.15pm - 5.15pm<br>Dr Jennifer Tsai
-      <br>Have Fun with Exploring Mandarin through Multi-Sensory Learning [<b>Sharing</b>]
-      <br> Room 311
-    </td>
+    <td>Speaker: Dr Jennifer Tsai <br>Topic: Have Fun with Exploring Mandarin through Multi-Sensory Learning (English) [<b>Sharing</b>]<br>Time: 4.15pm - 5.15pm <br>Venue: Room 311
+</td>
+
   </tr>
       <tr>
     <td>
     </td>
-    <td>5.30pm - 6.30pm<br>Lee Wei Hui (Ms)
+    <td>Speaker: Lee Wei Hui (Ms)
       <br>Michelle Lee Qiaorou (Ms)
       <br>Chua Yinghan (Ms)
-      <br>Understanding 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese [<b>Sharing</b>]
-      <br> Room 311
-    </td>
+<br>Topic: Understanding 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese (English) [<b>Sharing</b>]<br>Time: 5.30pm - 6.30pm <br>Venue: Room 311
+</td>
   </tr>
 </table>
