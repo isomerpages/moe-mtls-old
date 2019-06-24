@@ -9,7 +9,8 @@ collection_name: left-nav-one
 <table>
     <tr>
     <td>
-  </td>
+        </td>
+        
    <td>Speaker: Dr Connie Lum
       <br>Topic: (Chinese) [<b> Two consecutive sessions </b>]
       <br>Time: 12.30pm - 2.45pm
