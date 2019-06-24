@@ -9,6 +9,15 @@ collection_name: left-nav-one
 <table>
     <tr>
     <td>
+  </td>
+   <td>Speaker: Dr Connie Lum
+      <br>Topic: (Chinese) [<b> Two consecutive sessions </b>]
+      <br>Time: 12.30pm - 2.45pm
+      <br>Venue: Room 310
+  </td>
+  </tr>
+    <tr>
+    <td>
     </td>
     <td>Speaker: Wee Khang Ping (Mr)
        <br>Ju Shiying (Mdm)
