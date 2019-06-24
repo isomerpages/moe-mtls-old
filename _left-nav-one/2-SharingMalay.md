@@ -78,7 +78,7 @@ collection_name: left-nav-one
     </td>
     <td>Speaker: Salina Bte Saiman (Mdm)
 <br>Rafidah Alias (Mdm)
-      <br>Topic: A Contextual Approach to Develop  Oracy (Malay) [<b>Sharing </b>]
+      <br>Topic: A Contextual Approach to Develop  Oracy (Malay) [<b>Sharing</b>]
       <br>Time: 5.30pm - 6.30pm
       <br>Venue: Room 302
 </td>
