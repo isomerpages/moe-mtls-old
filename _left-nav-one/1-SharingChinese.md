@@ -111,7 +111,7 @@ collection_name: left-nav-one
     <td>
     </td>
     <td>Speaker: Yu Liang (Mr)
-      <br>Topic: (Chinese) [<b>Two consecutive sessions</b>]
+      <br>Topic: Expanding Your Imagination and Creativity through Drama and Games (Chinese) [<b>Two consecutive sessions</b>]
       <br>Time: 3.00pm - 5.15pm
       <br>Venue: Room 310
 </td>
