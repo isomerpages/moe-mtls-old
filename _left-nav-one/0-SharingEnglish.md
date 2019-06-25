@@ -11,7 +11,8 @@ collection_name: left-nav-one
   <tr>
     <td>
     </td>
-    <td>Speaker: Dr Leher Singh<br>Topic: Raising Bilingual Children: Challenges, Opportunities and Strategies for Success (English) [<b>Sharing</b>]<br>Time: 12.30pm - 1.30pm<br>Venue:Room 311
+    <td>Speaker: Dr Leher Singh<br>Topic: Raising Bilingual Children: Challenges, Opportunities and Strategies for Success (English) [<b>Sharing</b>]<br>Time: 12.30pm - 1.30pm<br>Venue:Room 311 <br>
+      <a href="https://www.google.com"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
     </td>
   </tr>
   <tr>
