@@ -9,8 +9,11 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td>Speaker: Dr Connie Lum <br> (Chinese) [<b>Two consecutive sessions</b>]<br>Time: 12.30pm - 2.45pm <br>Venue: Room 310
+      <td>Speaker: Dr Connie Lum <br> (Chinese) [<b>Two consecutive sessions</b>]<br>Time: 12.30pm - 1.30pm <br>Venue: Room 310
       </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C16"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
    </tr>
    <tr>
       <td>
@@ -21,6 +24,9 @@ collection_name: left-nav-one
          <br>Time: 12.30pm - 1.30pm
          <br>Venue: Room 310
       </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C11"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
    </tr>
    <tr>
       <td>
@@ -31,15 +37,30 @@ collection_name: left-nav-one
          <br>Time: 12.30pm - 1.30pm
          <br>Venue: Room 308
       </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C6"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
    </tr>
    <tr>
       <td>
       </td>
       <td>Speaker: Kuo Jian Hong (Ms)
-         <br>Topic: The Nursery Rhymes (Chinese) [<b>Sharing</b>]
+         <br>Topic: From Function to Fun: Fostering Meaningful Engagement with Chinese (Chinese) [<b>Sharing</b>]
          <br>Time: 12.30pm - 1.30pm
          <br>Venue: Room 303 - 304
       </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C1"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Speaker: Dr Connie Lum <br> (Chinese) [<b>Two consecutive sessions</b>]<br>Time: 1.45pm - 2.45pm <br>Venue: Room 310
+      </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C17"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
    </tr>
    <tr>
       <td>
@@ -52,6 +73,9 @@ collection_name: left-nav-one
          <br>Time: 1.45pm - 2.45pm
          <br>Venue: Room 308
       </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C2"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
    </tr>
    <tr>
       <td>
@@ -63,6 +87,9 @@ collection_name: left-nav-one
          <br>Time: 1.45pm - 2.45pm
          <br>Venue: Room 309
       </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C12"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
    </tr>
    <tr>
       <td>
@@ -72,6 +99,9 @@ collection_name: left-nav-one
          <br>Time: 1.45pm - 2.45pm
          <br>Venue: Room 308
       </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C7"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
    </tr>
    <tr>
       <td>
@@ -83,6 +113,9 @@ collection_name: left-nav-one
          <br>Time: 3.00pm - 4.00pm
          <br>Venue: Room 309
       </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C13"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
    </tr>
    <tr>
       <td>
@@ -92,24 +125,33 @@ collection_name: left-nav-one
          <br>Time: 3.00pm - 4.00pm
          <br>Venue: Room 303 - 304
       </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C3"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
    </tr>
    <tr>
       <td>
       </td>
       <td>Speaker: Dr Aw Guat Poh
          <br>Topic: Learning how to Learn in Chinese Language –Sharing of Research-based Self-directed Reading Strategies (Chinese)[<b>Sharing</b>] 
-         <br>Time: 3.00pm - 5.15pm
+         <br>Time: 3.00pm - 4.00pm
          <br>Venue: Room 308
       </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C8"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
    </tr>
    <tr>
       <td>
       </td>
       <td>Speaker: Yu Liang (Mr)
-         <br>Topic: Expanding Your Imagination and Creativity through Drama and Games (Chinese) [<b>Two consecutive sessions</b>]
-         <br>Time: 3.00pm - 5.15pm
+         <br>Topic: Expanding Your Imagination and Creativity through Drama and Games (Chinese) [<b>Workshop</b>]
+         <br>Time: 3.00pm - 4.00pm
          <br>Venue: Room 310
       </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C18"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
    </tr>
    <tr>
       <td>
@@ -117,29 +159,49 @@ collection_name: left-nav-one
       <td>Speaker: Jing Yan (Ms)
          <br> Li Yanli (Ms)
          <br> Wang Junyi (Ms)
-         <br>Topic: The Illusion and Reality through Interesting Stories - “Let’s Read, Dramatize (Chinese) [<b>Two consecutive sessions</b>]
-         <br>Time: 3.00pm - 5.15pm
+         <br>Topic: The Illusion and Reality through Interesting Stories - “Let’s Read, Dramatize (Chinese) [<b>Sharing</b>]
+         <br>Time: 4.15pm - 5.15pm
          <br>Venue: Room 309
       </td>
- 
+ <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C14"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td>Speaker: Yu Liang (Mr)
+         <br>Topic: Expanding Your Imagination and Creativity through Drama and Games (Chinese) [<b>Workshop</b>]
+         <br>Time: 4.15pm - 5.15pm
+         <br>Venue: Room 310
+      </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C19"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
    </tr>
    <tr>
       <td>
       </td>
       <td>Speaker: Dr Aw Guat Poh
-         <br>Topic: Learning how to Learn in Chinese Language –Sharing of  Research-based Self-directed Reading Strategies (Chinese) [<b>Two consecutive sessions</b>]
-         <br>Time: 3.00pm - 5.15pm
+         <br>Topic: Learning how to Learn in Chinese Language –Sharing of  Research-based Self-directed Reading Strategies (Chinese) [<b>Sharing</b>]
+         <br>Time: 4.15pm - 5.15pm
          <br>Venue: Room 308
       </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C9"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
    </tr>
    <tr>
       <td>
       </td>
       <td>Speaker: Kate Pang and Andie Chen
-         <br>Topic: Chinese Language Is Easy to Master (Chinese) [<b>Two consecutive sessions</b>]
-         <br>Time: 3.00pm - 5.15pm
+         <br>Topic: Chinese Language Is Easy to Master (Chinese) [<b>Sharing</b>]
+         <br>Time: 4.15pm - 5.15pm
          <br>Venue: Room 303 - 304
       </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C4"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
    </tr>
    <tr>
       <td>
@@ -149,6 +211,9 @@ collection_name: left-nav-one
          <br>Time: 5.30pm - 6.30pm
          <br>Venue:  Room 310
       </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C20"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
    </tr>
    <tr>
       <td>
@@ -158,6 +223,9 @@ collection_name: left-nav-one
          <br>Time: 5.30pm - 6.30pm
          <br>Venue: Room 309
       </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C15"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
    </tr>
    <tr>
       <td>
@@ -167,6 +235,9 @@ collection_name: left-nav-one
          <br>Time: 5.30pm - 6.30pm
          <br>Venue: Room 308
       </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C10"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
    </tr>
    <tr>
       <td>
@@ -176,5 +247,8 @@ collection_name: left-nav-one
          <br>Time: 5.30pm - 6.30pm
          <br>Venue: Room 303 - 304
       </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C5"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
    </tr>
 </table>
