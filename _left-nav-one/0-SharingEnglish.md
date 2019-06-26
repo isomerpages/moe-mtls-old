@@ -11,10 +11,10 @@ collection_name: left-nav-one
   <tr>
     <td>
     </td>
-    <td>Speaker: Dr Leher Singh<br>Topic: Raising Bilingual Children: Challenges, Opportunities and Strategies for Success (English) [<b>Sharing</b>]<br>Time: 12.30pm - 1.30pm<br>Venue:Room 311 <br>
-   </td>
-  <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=E4"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+    <td>Speaker: Dr Jennifer Tsai <br>Topic: Have Fun with Exploring Mandarin through Multi-Sensory Learning (English) [<b>Sharing</b>]<br>Time: 12.30pm - 1.30pm<br>Venue: Room 311
+</td>
+ <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=E1"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
   </td>
   </tr>
   <tr>
@@ -38,10 +38,10 @@ collection_name: left-nav-one
    <tr>
     <td>
     </td>
-    <td>Speaker: Dr Jennifer Tsai <br>Topic: Have Fun with Exploring Mandarin through Multi-Sensory Learning (English) [<b>Sharing</b>]<br>Time: 4.15pm - 5.15pm <br>Venue: Room 311
-</td>
- <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=E1"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+    <td>Speaker: Dr Leher Singh<br>Topic: Raising Bilingual Children: Challenges, Opportunities and Strategies for Success (English) [<b>Sharing</b>]<br>Time: 4.15pm - 5.15pm<br>Venue:Room 311 <br>
+   </td>
+  <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=E4"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
   </td>
   </tr>
       <tr>
