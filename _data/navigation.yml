@@ -38,6 +38,6 @@
   url: /GardenEnsemble/
 
 - title: <span style="color:blue">Register Now</span>
-  url: http://event-reg.biz/Registration/eventReg.aspx?Event=RegisterSharingSessions
+  url: https://event-reg.biz/Registration/eventReg.aspx?Event=RegisterSharingSessions
   external: true
 
