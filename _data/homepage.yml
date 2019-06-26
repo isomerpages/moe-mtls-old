@@ -46,11 +46,11 @@ key-highlights:
 
   - title: Register your Interest
     description: 
-    url: http://203.125.155.188/standardregweb_2016/WelcomeMTLS?event=RegisterYourInterest
+    url: https://event-reg.biz/Registration/eventReg.aspx?Event=RegisterYourInterest
     external: true
   - title: Register for Sharing Sessions
     description: 
-    url: http://203.125.155.188/standardregweb_2016/eventreg?event=RegisterSharingSessions
+    url: https://event-reg.biz/Registration/eventReg.aspx?Event=RegisterSharingSessions
     external: true
 
 info-sections:
