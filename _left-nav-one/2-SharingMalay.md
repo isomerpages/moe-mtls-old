@@ -18,6 +18,9 @@ collection_name: left-nav-one
       <br>Time: 12.30pm - 1.30pm
       <br>Venue: Room 302
 </td>
+    <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=M4"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
   </tr>
     <tr>
     <td>
@@ -27,6 +30,9 @@ collection_name: left-nav-one
      <br>Time: 12.30pm - 1.30pm
       <br>Venue: Room 301
 </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=M1"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
   </tr>
    <tr>
     <td>
@@ -36,6 +42,9 @@ collection_name: left-nav-one
       <br>Time: 1.45pm - 2.45pm
       <br>Venue: Room 302
 </td>
+     <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=M5"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
   </tr>
     <tr>
     <td>
@@ -45,6 +54,9 @@ collection_name: left-nav-one
       <br>Time: 1.45pm - 2.45pm
       <br>Venue: Room 301
 </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=M2"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
   </tr>
     <tr>
     <td>
@@ -54,6 +66,9 @@ collection_name: left-nav-one
       <br>Time: 13.00pm - 4.00pm
       <br>Venue: Room 302
 </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=M6"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
   </tr>
     <tr>
     <td>
@@ -63,6 +78,9 @@ collection_name: left-nav-one
       <br>Time: 3.00pm - 4.00pm
       <br>Venue: Room 301
 </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=M3"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
   </tr>
     <tr>
     <td>
@@ -72,6 +90,9 @@ collection_name: left-nav-one
       <br>Time: 4.15pm - 5.15pm
       <br>Venue: Room 302
 </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=M7"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
   </tr>
         <tr>
     <td>
@@ -82,6 +103,9 @@ collection_name: left-nav-one
       <br>Time: 5.30pm - 6.30pm
       <br>Venue: Room 302
 </td>
+          <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=M8"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">Register</a>
+  </td>
   </tr>
 
 
