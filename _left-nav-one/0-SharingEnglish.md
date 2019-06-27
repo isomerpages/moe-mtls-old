@@ -20,7 +20,7 @@ collection_name: left-nav-one
   <tr>
     <td>
     </td>
-    <td>Speaker: Dr Shamia Abdul raza <br>Topic: Embedding Language Learning in Everyday Life (English) [<b>Sharing</b>]<br>Time: 1.45pm - 2.45pm <br>Venue: Room 311
+    <td>Speaker: Dr Shamiah Abdul raza <br>Topic: Embedding Language Learning in Everyday Life (English) [<b>Sharing</b>]<br>Time: 1.45pm - 2.45pm <br>Venue: Room 311
   </td>
    <td>
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=E2"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
