@@ -25,7 +25,7 @@ collection_name: left-nav-one
     <tr>
     <td>
     </td>
-   <td>Speaker: Ain Syakirah (Ms)
+   <td>Speaker: Nurain Syakirah binte Nordin (Ms)
       <br>Topic: Inventions with Recycled Materials Through Purposeful Play Learning (Malay)[<b>Workshop</b>]     
      <br>Time: 12.30pm - 1.30pm
       <br>Venue: Room 301
