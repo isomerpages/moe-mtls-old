@@ -10,7 +10,7 @@ collection_name: left-nav-one
   <tr>
     <td>
     </td>
-    <td>Speaker: Usha Rani (Mdm) 
+    <td>Speaker: Usha Janarth (Mdm) 
       <br>Sukuna S.Vijayadevar (Ms)
       <br>Karkuzhali (Ms)
       <br>Topic: Learning MTL Through Purposeful Play from School to Home (Tamil) [<b>Panel Discussion</b>]
