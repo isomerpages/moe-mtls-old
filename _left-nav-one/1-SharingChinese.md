@@ -106,7 +106,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td>Speaker: Liang Huiyu (Ms)
+      <td>Speaker: Xu Jinhong (Mdm)
          <br> Fang Fang (Ms)
          <br> Yang Wenxia (Mdm)
          <br>Topic: Understanding 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese. (Chinese)[<b>Sharing</b>] 
@@ -145,7 +145,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td>Speaker: Yu Liang (Mr)
-         <br>Topic: Expanding Your Imagination and Creativity through Drama and Games (Chinese) [<b>Workshop</b>]
+         <br>Topic: Expanding Your Imagination and Creativity through Drama and Games (Chinese) [<b>Workshop-Parents only</b>]
          <br>Time: 3.00pm - 4.00pm
          <br>Venue: Room 310
       </td>
@@ -171,7 +171,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td>Speaker: Yu Liang (Mr)
-         <br>Topic: Expanding Your Imagination and Creativity through Drama and Games (Chinese) [<b>Workshop</b>]
+         <br>Topic: Expanding Your Imagination and Creativity through Drama and Games (Chinese) [<b>Workshop-Pre-school educators  only</b>]
          <br>Time: 4.15pm - 5.15pm
          <br>Venue: Room 310
       </td>
@@ -230,7 +230,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td>Speaker: Bagel Tan (Ms)
+      <td>Speaker: Tan Pek Kian (Ms)
          <br>Topic: Planting a Story Tree With Your Child (Chinese)[<b>Sharing</b>]  
          <br>Time: 5.30pm - 6.30pm
          <br>Venue: Room 308
