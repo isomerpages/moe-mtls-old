@@ -23,17 +23,8 @@
     url: /sharesessions/Tamil/
 
 - title: Carnival
-  url: /left-nav-three/sub-page-C/
-  sub-links:
-  - title: Pre-School
-    url: /left-nav-three/sub-page-A/
-  - title: Schools
-    url: /left-nav-three/sub-page-B/
-  - title: Community Partners
-    url: /left-nav-three/sub-page-C/
-  - title: Bookstore
-    url: /left-nav-three/sub-page-D/
-
+  url: /carnival/
+  
 - title: Garden Ensemble
   url: /GardenEnsemble/
 
