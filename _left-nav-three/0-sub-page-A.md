@@ -9,34 +9,24 @@ collection_name: left-nav-three
 <table>
 <tr>
   <td>
-    Committee to Promote Chinese Language Learning
-    <br>推广华文学习委员会
-    <br>
-    <br>Committee to Promote Chinese Language Learning
-    <br>推广华文学习委员会
+    P1 LOVE, LEARN, LIVE WITH CHINESE
+    <br>在生活中“乐”学华文
+    <br>My First Skool at Blk 681A Jurong West
   </td>
   <td>
-    Finesse Our Culture
-    <br>Santun Budaya Kita 
-    <br>
-    <br>Malay Language and Promotion Committee
-    <br>Jawatankuasa Pembelajaran   dan Penggalakkan Penggunaan Bahasa Melayu
+    P2 LEARNING CHINESE THROUGH FUN GAMES
+    <br>从游戏中学习华文
+    <br>PCF Sparkletots Preschool @ Hong Kah North Blk 748
   </td>  
   <td>
-    Tamil Language and Promotion Committee
-    <br>தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு
-    <br>
-    <br>Tamil Language and Promotion Committee
-    <br>தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு
+    P1 LOVE, LEARN, LIVE WITH CHINESE
+    <br>在生活中“乐”学华文
+    <br>My First Skool at Blk 681A Jurong West
   </td>
   <td>
-    Fun with our Mother Tongue Languages<br>
-      <br>母语乐FUN天 <br>
-    <br>Berseronok bersama Bahasa Ibunda <br>
-    <br>நமது தாய்மொழிகளோடு மகிழ்ந்திருப்போம்! <br>
-    <br>
-    <br>Lee Kuan Yew Fund for Bilingualism (LKYFB)
-    <br>李光耀双语基金
+    P2 LEARNING CHINESE THROUGH FUN GAMES
+    <br>从游戏中学习华文
+    <br>PCF Sparkletots Preschool @ Hong Kah North Blk 748
   </td>  
 </tr>
   <tr>
