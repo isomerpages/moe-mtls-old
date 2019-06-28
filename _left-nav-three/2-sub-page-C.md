@@ -9,28 +9,32 @@ collection_name: left-nav-three
 <table>
 <tr>
   <td>
-    Committee to Promote Chinese Language Learning
+    <b>Committee to Promote Chinese Language Learning</b>
+    <br>
     <br>推广华文学习委员会
     <br>
     <br>Committee to Promote Chinese Language Learning
     <br>推广华文学习委员会
   </td>
   <td>
-    Finesse Our Culture
+    <b>Finesse Our Culture</b>
+    <br>
     <br>Santun Budaya Kita 
     <br>
     <br>Malay Language and Promotion Committee
     <br>Jawatankuasa Pembelajaran   dan Penggalakkan Penggunaan Bahasa Melayu
   </td>  
   <td>
-    Tamil Language and Promotion Committee
+    <b>Tamil Language and Promotion Committee</b>
+    <br>
     <br>தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு
     <br>
     <br>Tamil Language and Promotion Committee
     <br>தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு
   </td>
   <td>
-    Fun with our Mother Tongue Languages<br>
+    <b>Fun with our Mother Tongue Languages</b><br>
+    <br>
       <br>母语乐FUN天 <br>
     <br>Berseronok bersama Bahasa Ibunda <br>
     <br>நமது தாய்மொழிகளோடு மகிழ்ந்திருப்போம்! <br>
@@ -61,27 +65,31 @@ collection_name: left-nav-three
 <table>
 <tr>
   <td>
-    Young News Presenter
+    <b>Young News Presenter</b>
+    <br>
     <br>当个小主播
     <br>
     <br>Mediacorp
     <br>新传媒
   </td>
   <td>
-    My Learning Journey Begins with Mother Tongue
+    <b>My Learning Journey Begins with Mother Tongue</b>
+    <br>
     <br>என் கற்றல் பயணம் தாய்மொழியைக் கொண்டு தொடங்குகிறது
     <br>
     <br>Singapore Press Holdings (SPH)- (Tamil Murasu)
   </td>  
   <td>
-    Gen G Learning Garden
+    <b>Gen G Learning Garden</b>
+    <br>
     <br>Taman Pembelajaran Gen G 
     <br>
     <br>SPH Students’ Publications: Berita Harian
     <br>Penerbitan Pelajar, SPH: Berita Harian
   </td>
   <td>
-    Reading the News from a Tender Age
+    <b>Reading the News from a Tender Age</b>
+    <br>
     <br>读报从小开始
     <br>
     <br>Junior/ Thumbs Up Little Junior
@@ -110,12 +118,13 @@ collection_name: left-nav-three
 <table>
 <tr>
   <td>
-    M3@NeeSoon
+    <b>M3@NeeSoon</b>
+    <br>
     <br>
     <br>M3@NeeSoon
   </td>
   <td>
-    National Heritage Board<br>
+    <b>National Heritage Board</b><br>
     <br>新加坡国家文物局<br>
     <br>Lembaga Warisan Negara  <br>  
     <br>தேசிய மரபுடைமைக் கழகம்
@@ -125,7 +134,7 @@ collection_name: left-nav-three
     <br>新加坡国家文物局
   </td>  
   <td>
-    Esplanade – Theatres on the Bay<br>
+    <b>Esplanade – Theatres on the Bay</b><br>
     <br>滨海艺术中心<br>
     <br>Esplanade – Teater di Persisiran <br>  
     <br>எஸ்பிளனேட் – கடலோரக்கலை அரங்குகள் 
@@ -136,7 +145,8 @@ collection_name: left-nav-three
     <br>எஸ்பிளனேட்
   </td>
   <td>
-    Cultural Immersion through Engaged and Experiential Learning 
+    <b>Cultural Immersion through Engaged and Experiential Learning</b> 
+    <br>
     <br>அனுபவவழித் தமிழ்ப் பண்பாட்டுக் கற்றல் பயணம்
     <br>
     <br>Umar Pulavar Tamil Language Centre (UPTLC)
@@ -165,7 +175,7 @@ collection_name: left-nav-three
 <table>
 <tr>
   <td>
-      Seeding a Reading Culture<br>
+      <b>Seeding a Reading Culture</b><br>
     <br>播下阅读的种子，让孩子爱上阅读<br>
     <br>Menyemai Budaya Membaca<br>  
     <br>வாசிப்புக் கலாசாரத்தை வளர்ப்போம்
@@ -175,7 +185,7 @@ collection_name: left-nav-three
     <br>国家图书馆管理局
   </td>
   <td>
-    Garden of Cultural Diversity<br>
+    <b>Garden of Cultural Diversity</b><br>
     <br>文化意涵丰富的母语乐园<br>
     <br>Taman Kepelbagaian Budaya<br>  
     <br>பல்லினப் பண்பாட்டுப் பூங்கா
@@ -185,7 +195,7 @@ collection_name: left-nav-three
     <br>国立教育学院
   </td>  
   <td>
-    Neighbours in the Wild<br>
+    <b>Neighbours in the Wild</b><br>
       <br>我们的野生邻居<br>
     <br>Jiran di Alam Liar<br>  
     <br>வனத்தில் நண்பர்கள்
@@ -195,7 +205,7 @@ collection_name: left-nav-three
     <br>新加坡野生动物保育集团
   </td>
   <td>
-   Fun Learning Chinese
+   <b>Fun Learning Chinese</b>
     <br>乐学华文
     <br>
     <br>Singapore Centre for Chinese Language (SCCL)
