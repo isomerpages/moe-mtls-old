@@ -86,16 +86,16 @@ collection_name: left-nav-three
 </tr>
   <tr>
     <td>
-      <img src="/images/Carnival/Carnival_Circle_Yellow.png" alt="Session 1" style="width:30px;display:inline;" />
+      <img src="/images/Carnival/Carnival_Circle_Red.png" alt="Session 1" style="width:30px;display:inline;" />
     </td>
     <td>
-      <img src="/images/Carnival/Carnival_Circle_Yellow.png" alt="Session 2" style="width:30px;display:inline;" />
+      <img src="/images/Carnival/Carnival_Circle_Red.png" alt="Session 2" style="width:30px;display:inline;" />
     </td>
     <td>
-      <img src="/images/Carnival/Carnival_Circle_Yellow.png" alt="Session 3" style="width:30px;display:inline;" />
+      <img src="/images/Carnival/Carnival_Circle_Red.png" alt="Session 3" style="width:30px;display:inline;" />
     </td>
     <td>
-      <img src="/images/Carnival/Carnival_Circle_Yellow.png" alt="Session 4" style="width:30px;display:inline;" />
+      <img src="/images/Carnival/Carnival_Circle_Red.png" alt="Session 4" style="width:30px;display:inline;" />
     </td>
   </tr>
 </table>
@@ -137,16 +137,16 @@ collection_name: left-nav-three
 </tr>
   <tr>
     <td>
-      <img src="/images/Carnival/Carnival_Circle_Yellow.png" alt="Session 1" style="width:30px;display:inline;" />
+       <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 1" style="width:30px;display:inline;" />
     </td>
     <td>
-      <img src="/images/Carnival/Carnival_Circle_Yellow.png" alt="Session 2" style="width:30px;display:inline;" />
+      <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 2" style="width:30px;display:inline;" />
     </td>
     <td>
-      <img src="/images/Carnival/Carnival_Circle_Yellow.png" alt="Session 3" style="width:30px;display:inline;" />
+      <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 3" style="width:30px;display:inline;" />
     </td>
     <td>
-      <img src="/images/Carnival/Carnival_Circle_Yellow.png" alt="Session 4" style="width:30px;display:inline;" />
+      <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 4" style="width:30px;display:inline;" />
     </td>
   </tr>
 </table>
@@ -192,16 +192,16 @@ collection_name: left-nav-three
 </tr>
   <tr>
     <td>
-      <img src="/images/Carnival/Carnival_Circle_Yellow.png" alt="Session 1" style="width:30px;display:inline;" />
+     <img src="/images/Carnival/Carnival_Circle_Green.png" alt="Session 1" style="width:30px;display:inline;" />
     </td>
     <td>
-      <img src="/images/Carnival/Carnival_Circle_Yellow.png" alt="Session 2" style="width:30px;display:inline;" />
+      <img src="/images/Carnival/Carnival_Circle_Green.png" alt="Session 2" style="width:30px;display:inline;" />
     </td>
     <td>
-      <img src="/images/Carnival/Carnival_Circle_Yellow.png" alt="Session 3" style="width:30px;display:inline;" />
+      <img src="/images/Carnival/Carnival_Circle_Green.png" alt="Session 3" style="width:30px;display:inline;" />
     </td>
     <td>
-      <img src="/images/Carnival/Carnival_Circle_Yellow.png" alt="Session 4" style="width:30px;display:inline;" />
+      <img src="/images/Carnival/Carnival_Circle_Green.png" alt="Session 4" style="width:30px;display:inline;" />
     </td>
   </tr>
 </table>
