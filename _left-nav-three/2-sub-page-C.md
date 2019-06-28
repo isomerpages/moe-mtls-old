@@ -54,6 +54,10 @@ collection_name: left-nav-three
     </td>
   </tr>
 </table>
+<tr>
+  <td>
+  </td>
+  </tr>
 <table>
 <tr>
   <td>
@@ -99,6 +103,10 @@ collection_name: left-nav-three
     </td>
   </tr>
 </table>
+<tr>
+  <td>
+  </td>
+  </tr>
 <table>
 <tr>
   <td>
@@ -150,6 +158,10 @@ collection_name: left-nav-three
     </td>
   </tr>
 </table>
+<tr>
+  <td>
+  </td>
+  </tr>
 <table>
 <tr>
   <td>
