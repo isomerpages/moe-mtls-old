@@ -47,4 +47,24 @@ collection_name: left-nav-two
     <br>Singfeng Cross Talk
     </td>
   </tr>
+  <tr>
+    <td COLSPAN="2">
+    02.55pm - 03.05pm
+    <br>Qing Fei Wu Yang (Tradition Fan Dance)
+    <br>Beacon Primary School
+    </td>
+  </tr>
+  <tr>
+    <td COLSPAN="2">
+    03.05pm - 03.15pm
+    <br>Street Dance 
+    <br>River Valley Primary School
+    </td>
+  </tr>
+  <tr>
+    <td COLSPAN="2">
+    03.15pm - 03.30pm
+    <br>SPS Performance
+    </td>
+  </tr>
 </table>
