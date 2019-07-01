@@ -17,12 +17,14 @@ background-color: #5c3b96;
 padding: 7px;
 color: #ffffff;
   font-size:14px;
+  line-height :0px !important;
 }
 .bottomBoxEven{
   background-color: #8d3278;
   padding: 7px;
   color: #ffffff;
   font-size:14px;
+  line-height :0px !important;
 }
 .baseTD{
 width:25%
