@@ -37,6 +37,13 @@
   
 - title: Garden Ensemble
   url: /GardenEnsemble/
+  sub-links:
+  - title: Garden Chinese
+    url: /left-nav-two/GardenChinese/
+  - title: Garden Malay
+    url: /left-nav-two/GardenMalay/
+  - title: Garden Tamil
+    url: /left-nav-two/GardenTamil/
 
 - title: <span style="color:blue">Register Now</span>
   url: https://event-reg.biz/Registration/eventReg.aspx?Event=RegisterSharingSessions
