@@ -6,7 +6,7 @@ breadcrumb: Community Partners Booth
 collection_name: left-nav-three
 ---
 
-<table>
+<table class="table-h">
 <tr>
   <td>
     <b>Committee to Promote Chinese Language Learning</b>
