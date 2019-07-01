@@ -34,4 +34,17 @@ collection_name: left-nav-two
     <br>Telok Kurau Primary School
     </td>
   </tr>
+  <tr>
+    <td COLSPAN="2">
+    12.10pm - 12.25pm
+    <br>SPS Performance
+    </td>
+  </tr>
+  <tr>
+    <td COLSPAN="2">
+    12.25pm - 12.40pm
+    <br>Cross Talk 
+    <br>Singfeng Cross Talk
+    </td>
+  </tr>
 </table>
