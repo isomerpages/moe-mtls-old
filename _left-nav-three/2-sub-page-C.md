@@ -5,18 +5,22 @@ permalink: /left-nav-three/sub-page-C/
 breadcrumb: Community Partners Booth
 collection_name: left-nav-three
 ---
-
-<table class="table-h">
-<tr>
-  <td>
+<html>
+<body>
+<style>
+ 
+</style>
+<table style="width:100%;font-size:10px;">
+<tr style="vertical-align:top;">
+  <td style="width:25%">
     <b>Committee to Promote Chinese Language Learning</b>
-    <br>
-    <br>推广华文学习委员会
-    <br>
-    <br>Committee to Promote Chinese Language Learning
-    <br>推广华文学习委员会
+    <ul style="  list-style-type: none;line-height:200%">
+      <li> 推广华文学习委员会</li>	
+      <li>Committee to Promote Chinese Language Learning</li>
+      <li>推广华文学习委员会</li>
+   </ul>
   </td>
-  <td>
+  <td style="width:25%">
     <b>Finesse Our Culture</b>
     <br>
     <br>Santun Budaya Kita 
@@ -24,7 +28,7 @@ collection_name: left-nav-three
     <br>Malay Language and Promotion Committee
     <br>Jawatankuasa Pembelajaran   dan Penggalakkan Penggunaan Bahasa Melayu
   </td>  
-  <td>
+  <td style="width:25%">
     <b>Tamil Language and Promotion Committee</b>
     <br>
     <br>தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு
@@ -32,13 +36,12 @@ collection_name: left-nav-three
     <br>Tamil Language and Promotion Committee
     <br>தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு
   </td>
-  <td>
+  <td style="width:25%">
     <b>Fun with our Mother Tongue Languages</b><br>
     <br>
       <br>母语乐FUN天 <br>
     <br>Berseronok bersama Bahasa Ibunda <br>
-    <br>நமது தாய்மொழிகளோடு மகிழ்ந்திருப்போம்! <br>
-    <br>
+    <br>நமது தாய்மொழிகளோடு மகிழ்ந்திருப்போம்! <br> 
     <br>Lee Kuan Yew Fund for Bilingualism (LKYFB)
     <br>李光耀双语基金
   </td>  
@@ -57,14 +60,8 @@ collection_name: left-nav-three
       <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 4" style="width:30px;display:inline;" />
     </td>
   </tr>
-</table>
-<tr>
-  <td>
-  </td>
-  </tr>
-<table>
-<tr>
-  <td>
+<tr style="vertical-align:top;">
+  <td style="width:25%">
     <b>Young News Presenter</b>
     <br>
     <br>当个小主播
@@ -72,14 +69,14 @@ collection_name: left-nav-three
     <br>Mediacorp
     <br>新传媒
   </td>
-  <td>
+  <td style="width:25%">
     <b>My Learning Journey Begins with Mother Tongue</b>
     <br>
     <br>என் கற்றல் பயணம் தாய்மொழியைக் கொண்டு தொடங்குகிறது
     <br>
     <br>Singapore Press Holdings (SPH)- (Tamil Murasu)
   </td>  
-  <td>
+  <td style="width:25%">
     <b>Gen G Learning Garden</b>
     <br>
     <br>Taman Pembelajaran Gen G 
@@ -87,7 +84,7 @@ collection_name: left-nav-three
     <br>SPH Students’ Publications: Berita Harian
     <br>Penerbitan Pelajar, SPH: Berita Harian
   </td>
-  <td>
+  <td style="width:25%">
     <b>Reading the News from a Tender Age</b>
     <br>
     <br>读报从小开始
@@ -110,20 +107,14 @@ collection_name: left-nav-three
       <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 4" style="width:30px;display:inline;" />
     </td>
   </tr>
-</table>
-<tr>
-  <td>
-  </td>
-  </tr>
-<table>
-<tr>
-  <td>
+<tr style="vertical-align:top;">
+  <td style="width:25%">
     <b>M3@NeeSoon</b>
     <br>
     <br>
     <br>M3@NeeSoon
   </td>
-  <td>
+  <td style="width:25%">
     <b>National Heritage Board</b><br>
     <br>新加坡国家文物局<br>
     <br>Lembaga Warisan Negara  <br>  
@@ -133,7 +124,7 @@ collection_name: left-nav-three
     <br>National Heritage Board
     <br>新加坡国家文物局
   </td>  
-  <td>
+  <td style="width:25%">
     <b>Esplanade – Theatres on the Bay</b><br>
     <br>滨海艺术中心<br>
     <br>Esplanade – Teater di Persisiran <br>  
@@ -144,7 +135,7 @@ collection_name: left-nav-three
     <br>滨海艺术中心
     <br>எஸ்பிளனேட்
   </td>
-  <td>
+  <td style="width:25%">
     <b>Cultural Immersion through Engaged and Experiential Learning</b> 
     <br>
     <br>அனுபவவழித் தமிழ்ப் பண்பாட்டுக் கற்றல் பயணம்
@@ -167,14 +158,8 @@ collection_name: left-nav-three
       <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 4" style="width:30px;display:inline;" />
     </td>
   </tr>
-</table>
-<tr>
-  <td>
-  </td>
-  </tr>
-<table>
-<tr>
-  <td>
+ <tr style="vertical-align:top;">
+  <td style="width:25%">
       <b>Seeding a Reading Culture</b><br>
     <br>播下阅读的种子，让孩子爱上阅读<br>
     <br>Menyemai Budaya Membaca<br>  
@@ -184,7 +169,7 @@ collection_name: left-nav-three
     <br>National Library Board
     <br>国家图书馆管理局
   </td>
-  <td>
+<td style="width:25%">
     <b>Garden of Cultural Diversity</b><br>
     <br>文化意涵丰富的母语乐园<br>
     <br>Taman Kepelbagaian Budaya<br>  
@@ -194,7 +179,7 @@ collection_name: left-nav-three
     <br>National Institute of Education (NIE)
     <br>国立教育学院
   </td>  
-  <td>
+<td style="width:25%">
     <b>Neighbours in the Wild</b><br>
       <br>我们的野生邻居<br>
     <br>Jiran di Alam Liar<br>  
@@ -204,7 +189,7 @@ collection_name: left-nav-three
     <br>Wildlife Reserves Singapore
     <br>新加坡野生动物保育集团
   </td>
-  <td>
+<td style="width:25%">
    <b>Fun Learning Chinese</b>
     <br>乐学华文
     <br>
@@ -227,3 +212,4 @@ collection_name: left-nav-three
     </td>
   </tr>
 </table>
+ 
