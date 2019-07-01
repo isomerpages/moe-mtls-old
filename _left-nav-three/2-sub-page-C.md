@@ -9,17 +9,20 @@ collection_name: left-nav-three
 .tdHead{
  vertical-align: top;
  padding: 7px;
+   font-size:14px;
  
 }
 .bottomBoxOdd{
 background-color: #5c3b96;
 padding: 7px;
-color: #ffffff
+color: #ffffff;
+  font-size:14px;
 }
 .bottomBoxEven{
   background-color: #8d3278;
   padding: 7px;
-  color: #ffffff
+  color: #ffffff;
+  font-size:14px;
 }
 .baseTD{
 width:25%
@@ -32,39 +35,81 @@ width:25%
      <b>Committee to Promote Chinese Language Learning</b>
     <br> <br>
    推广华文学习委员会
+     <p class="bottomBoxOdd">    Committee to Promote Chinese Language Learning
+    <br>推广华文学习委员会 </p>
   </td>
   <td class="baseTD tdHead"> <b> Finesse Our Culture </b>
   <br> <br>
   Santun Budaya Kita 
+     <p class="bottomBoxEven"> Malay Language and Promotion Committee
+    <br>Jawatankuasa Pembelajaran   dan Penggalakkan Penggunaan Bahasa Melayu 
+</p> 
   </td>
   <td class="baseTD tdHead"> <b>Tamil Language and Promotion Committee </b>
   <br> <br>
   தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு 
+   <p class="bottomBoxOdd"> Tamil Language and Promotion Committee
+    <br>தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு 
+</p>
   </td>
   <td class="baseTD tdHead"><b>Fun with our Mother Tongue Languages</b><br>
   <br> <br>
     母语乐FUN天 <br>
     <br>Berseronok bersama Bahasa Ibunda <br>
     <br>நமது தாய்மொழிகளோடு மகிழ்ந்திருப்போம்! <br>
-  
+   <p class="bottomBoxEven"> Lee Kuan Yew Fund for Bilingualism (LKYFB)
+    <br>李光耀双语基金
+</p> 
   </td>
 </tr>
-<tr>
-<td class="baseTD ">
-  <p class="bottomBoxOdd">    Committee to Promote Chinese Language Learning
-    <br>推广华文学习委员会 </p></td>
  
-<td class="baseTD ">
-   <p class="bottomBoxEven">       Malay Language and Promotion Committee
-    <br>Jawatankuasa Pembelajaran   dan Penggalakkan Penggunaan Bahasa Melayu </p></td>
- 
-<td class="baseTD ">
- <p class="bottomBoxOdd">      Tamil Language and Promotion Committee
-    <br>தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு </p></td>
-<td class="baseTD ">
- <p class="bottomBoxEven"> Lee Kuan Yew Fund for Bilingualism (LKYFB)
-    <br>李光耀双语基金 <p> </td>
+  <tr>
+    <td>
+       <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 1" style="width:30px;display:inline;" />
+    </td>
+    <td>
+      <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 2" style="width:30px;display:inline;" />
+    </td>
+    <td>
+      <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 3" style="width:30px;display:inline;" />
+    </td>
+    <td>
+      <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 4" style="width:30px;display:inline;" />
+    </td>
+  </tr>
+  <tr>
+  <td class="baseTD tdHead">
+     <b>Committee to Promote Chinese Language Learning</b>
+    <br> <br>
+   推广华文学习委员会
+     <p class="bottomBoxOdd">    Committee to Promote Chinese Language Learning
+    <br>推广华文学习委员会 </p>
+  </td>
+  <td class="baseTD tdHead"> <b> Finesse Our Culture </b>
+  <br> <br>
+  Santun Budaya Kita 
+     <p class="bottomBoxEven"> Malay Language and Promotion Committee
+    <br>Jawatankuasa Pembelajaran   dan Penggalakkan Penggunaan Bahasa Melayu 
+</p> 
+  </td>
+  <td class="baseTD tdHead"> <b>Tamil Language and Promotion Committee </b>
+  <br> <br>
+  தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு 
+   <p class="bottomBoxOdd"> Tamil Language and Promotion Committee
+    <br>தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு 
+</p>
+  </td>
+  <td class="baseTD tdHead"><b>Fun with our Mother Tongue Languages</b><br>
+  <br> <br>
+    母语乐FUN天 <br>
+    <br>Berseronok bersama Bahasa Ibunda <br>
+    <br>நமது தாய்மொழிகளோடு மகிழ்ந்திருப்போம்! <br>
+   <p class="bottomBoxEven"> Lee Kuan Yew Fund for Bilingualism (LKYFB)
+    <br>李光耀双语基金
+</p> 
+  </td>
 </tr>
+ 
   <tr>
     <td>
        <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 1" style="width:30px;display:inline;" />
