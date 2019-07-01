@@ -1,4 +1,4 @@
-- title: [Workshop] Joyful Learning of Tamil through Stories
+- title: Joyful Learning of Tamil through Stories
   name: Mr Anandha Kannan
   position: Tech Associate
   # dept: Government Digital Services, Data Science Division
@@ -6,22 +6,3 @@
   img: images/Anadha_kannan.jpg
   button-text: About Session
   button-url: /careers/our-culture-and-values/?utm_source=careers_homepage
-
-- title: Govtechies Stories
-  name: Wei Jian
-  position: Tech Associate
-  # dept: Government Digital Services, Data Science Division
-  story: I am always learning something new everyday and there is enough flexibility for me to explore new ways of doing things.
-  img: images/Speaker2.jpg
-  button-text: About Session
-  button-url: /careers/students-and-graduates/?utm_source=careers_homepage
-
-- title: Govtechies Stories
-  name: Serena
-  position: Intern
-  # dept: Government Digital Services, Data Science Division
-  story: I like the flexibility of working here, the games provided in the office during our breaks, allows us to recharge ourselves.
-  img: images/Speaker4.jpg
-  button-text: About Session
-  button-url: /careers/students-and-graduates/?utm_source=careers_homepage
-
