@@ -32,13 +32,13 @@ width:25%
  
 .btnInfo {
     background: #ab81f5;
-    color: #fff;
+    color: #fff !important;
     display: block;
     padding: 20px 10px;
     text-align: center;
-    text-decoration: none;
+    text-decoration: none !important;
     width: 200px;
-    border-radius: 20px;  
+    border-radius: 20px !important;  
 }
 .btnInfo {
     -webkit-border-radius: 20px;
@@ -98,13 +98,13 @@ width:25%
 	    <a href="https://event-reg.biz/Registration/MTLSSession?Session=E1"  class="btnInfo">More info</a>
     </td>
     <td> 
-	   <a href="https://event-reg.biz/Registration/MTLSSession?Session=E1"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+		    <a href="https://event-reg.biz/Registration/MTLSSession?Session=E1"  class="btnInfo">More info</a>
     </td>
     <td>
-      <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 3" style="width:30px;display:inline;" />
+	    <a href="https://event-reg.biz/Registration/MTLSSession?Session=E1"  class="btnInfo">More info</a>
     </td>
     <td>
-      <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 4" style="width:30px;display:inline;" />
+   	    <a href="https://event-reg.biz/Registration/MTLSSession?Session=E1"  class="btnInfo">More info</a>
     </td>
   </tr>
 <tr style="vertical-align:top;">
