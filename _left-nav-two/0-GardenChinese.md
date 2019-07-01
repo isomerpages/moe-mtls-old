@@ -94,4 +94,45 @@ collection_name: left-nav-two
     <br>Quiz Time
     </td>
   </tr>
+   <tr>
+    <td COLSPAN="2">
+    04.55pm - 05.05pm
+    <br>A Gu Zheng Performance
+    <br>Endeavour Primary
+    </td>
+  </tr>
+   <tr>
+    <td COLSPAN="2">
+    05.05pm - 05.15pm
+    <br>Little Fox Garden (Story Telling with dramatisation)
+    <br>PCF Sparkletots Preschool @ Eunos Blk 629
+    </td>
+  </tr>
+  <tr>
+    <td COLSPAN="2">
+    05.15pm - 05.25pm
+    <br>Family-Child Talent Performance
+    <br>Finalists of Speak Mandarin Campaign Family Talent Compeition 2019 
+    </td>
+  </tr>
+  <tr>
+    <td COLSPAN="2">
+    05.25pm - 05.35pm
+    <br>A Joyful Medley (Mother Tongue Songs Medley by P2 Pupils)
+    <br>Bedok Green Primary School
+    </td>
+  </tr>
+  <tr>
+    <td COLSPAN="2">
+    05.35pm - 05.50pm
+    <br>Cross Talk 
+    <br>Singfeng Cross Talk
+    </td>
+  </tr>
+  <tr>
+    <td COLSPAN="2">
+    05.50pm - 06.00pm
+    <br>Quiz Time
+    </td>
+  </tr>
 </table>
