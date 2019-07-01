@@ -5,7 +5,7 @@ permalink: /left-nav-three/sub-page-C/
 breadcrumb: Community Partners Booth
 collection_name: left-nav-three
 ---
- <style>
+<style>
 .tdHead{
  vertical-align: top;
  padding: 7px;
@@ -25,7 +25,7 @@ color: #ffffff
 width:25%
 }
 </style>
-<table style="width:100%;font-size:14px;" cellspacing="20">
+<table style="width:100%;font-size:14px;" cellspacing="20" cellpadding="20">
 
 <tr>
   <td class="baseTD tdHead">
@@ -50,20 +50,20 @@ width:25%
   </td>
 </tr>
 <tr>
-<td class="baseTD bottomBoxOdd">
-    Committee to Promote Chinese Language Learning
-    <br>推广华文学习委员会 </td>
+<td class="baseTD ">
+  <p class="bottomBoxOdd">    Committee to Promote Chinese Language Learning
+    <br>推广华文学习委员会 </p></td>
  
-<td class="baseTD bottomBoxEven">
-     Malay Language and Promotion Committee
-    <br>Jawatankuasa Pembelajaran   dan Penggalakkan Penggunaan Bahasa Melayu </td>
+<td class="baseTD ">
+   <p class="bottomBoxEven">       Malay Language and Promotion Committee
+    <br>Jawatankuasa Pembelajaran   dan Penggalakkan Penggunaan Bahasa Melayu </p></td>
  
-<td class="baseTD bottomBoxOdd">
-     Tamil Language and Promotion Committee
-    <br>தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு </td>
-<td class="baseTD bottomBoxOdd">
-  Lee Kuan Yew Fund for Bilingualism (LKYFB)
-    <br>李光耀双语基金 </td>
+<td class="baseTD ">
+ <p class="bottomBoxOdd">      Tamil Language and Promotion Committee
+    <br>தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு </p></td>
+<td class="baseTD ">
+ <p class="bottomBoxEven"> Lee Kuan Yew Fund for Bilingualism (LKYFB)
+    <br>李光耀双语基金 <p> </td>
 </tr>
   <tr>
     <td>
@@ -231,4 +231,3 @@ width:25%
     </td>
   </tr>
 </table> 
- 
