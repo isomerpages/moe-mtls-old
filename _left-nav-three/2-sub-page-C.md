@@ -5,15 +5,15 @@ permalink: /left-nav-three/sub-page-C/
 breadcrumb: Community Partners Booth
 collection_name: left-nav-three
 ---
- 
-<table style="width:100%;font-size:12px;">
+  
+<table style="width:100%;font-size:14px;">
 <tr style="vertical-align:top;">
   <td style="width:25%">
     <b>Committee to Promote Chinese Language Learning</b><br>
  推广华文学习委员会 <br>
     Committee to Promote Chinese Language Learning<br>
     推广华文学习委员会<br>
-   </ul>
+ 
   </td>
   <td style="width:25%">
     <b>Finesse Our Culture</b>
@@ -207,3 +207,4 @@ collection_name: left-nav-three
     </td>
   </tr>
 </table>
+ 
