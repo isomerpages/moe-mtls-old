@@ -95,16 +95,16 @@ width:25%
 </tr>
   <tr>
     <td> 
-	    <a href="https://event-reg.biz/Registration/MTLSSession?Session=E1"  class="btnInfo">More info</a>
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c1"  class="btnInfo">More info</a>
     </td>
     <td> 
-		    <a href="https://event-reg.biz/Registration/MTLSSession?Session=E1"  class="btnInfo">More info</a>
+		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c2"  class="btnInfo">More info</a>
     </td>
     <td>
-	    <a href="https://event-reg.biz/Registration/MTLSSession?Session=E1"  class="btnInfo">More info</a>
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c3"  class="btnInfo">More info</a>
     </td>
     <td>
-   	    <a href="https://event-reg.biz/Registration/MTLSSession?Session=E1"  class="btnInfo">More info</a>
+   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c4"  class="btnInfo">More info</a>
     </td>
   </tr>
 <tr>
@@ -128,10 +128,10 @@ width:25%
 </td>
 </tr>
 <tr>
-<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
-<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
-<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
-<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c5">More info</a></td>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c6">More info</a></td>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c7">More info</a></td>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c8">More info</a></td>
 </tr>
   
 <tr>
@@ -155,10 +155,10 @@ width:25%
 </td>
 </tr>
 <tr>
-<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
-<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
-<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
-<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c9">More info</a></td>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c10">More info</a></td>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c11">More info</a></td>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c12">More info</a></td>
 </tr>
  <tr>
 <td class="baseTD tdHead"><strong>Seeding a Reading Culture</strong> <br /> <br /><br />播下阅读的种子，让孩子爱上阅读<br /> <br />Menyemai Budaya Membaca<br /> <br />வாசிப்புக் கலாசாரத்தை வளர்ப்போம்</td>
@@ -181,9 +181,9 @@ width:25%
 </td>
 </tr>
 <tr>
-<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
-<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
-<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
-<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c13">More info</a></td>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c14">More info</a></td>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c15">More info</a></td>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c16">More info</a></td>
 </tr>
 </table> 
