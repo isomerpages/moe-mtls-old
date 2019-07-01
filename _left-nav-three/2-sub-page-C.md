@@ -6,14 +6,13 @@ breadcrumb: Community Partners Booth
 collection_name: left-nav-three
 ---
  
-<table style="width:100%;font-size:10px;">
+<table style="width:100%;font-size:12px;">
 <tr style="vertical-align:top;">
   <td style="width:25%">
-    <b>Committee to Promote Chinese Language Learning</b>
-    <ul style="  list-style-type: none;line-height:200%">
-      <li> 推广华文学习委员会</li>	
-      <li>Committee to Promote Chinese Language Learning</li>
-      <li>推广华文学习委员会</li>
+    <b>Committee to Promote Chinese Language Learning</b><br>
+ 推广华文学习委员会 <br>
+    Committee to Promote Chinese Language Learning<br>
+    推广华文学习委员会<br>
    </ul>
   </td>
   <td style="width:25%">
@@ -208,4 +207,3 @@ collection_name: left-nav-three
     </td>
   </tr>
 </table>
- 
