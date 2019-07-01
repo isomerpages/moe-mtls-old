@@ -5,9 +5,9 @@ breadcrumb: Our Journey
 title: Our Journey
 ---
 
-The Mother Tongue Languages Symposium (MTLS) is an annual event co-organised by the Ministry of Education (MOE) and the three Mother Tongue Language Learning and Promotion Committees (MTLLPCs), with the support from the Early Childhood Development Agency, the Lee Kuan Yew Fund for Bilingualism, Singapore Press Holdings and the National Library Board.
+The Mother Tongue Languages Symposium(MTLS) is an annual event jointly organised by the Ministry of Education (MOE), the Committee of Promote Chinese Language Learning (CPCLL), the Malay Language Learning and Promotion Committee (MLLPC) and the Tamil Language Learning and Promotion Committee (TLLPC).
 
-Into its seventh year, MTLS 2018 will continue to promote bilingualism and strengthen efforts by schools and the community in the teaching and learning of our Mother Tongue Languages amidst Singapore’s increasing number of English-speaking families.
+Now into its eighth year, MTLS 2019 will continue to develop a keen sense of lifelong learning for our Mother Tongue Languages and strenghten the nexus between families and our community partners as part of the larger efforts to create a vibrant MTL ecosystem.
 
 <div class="bp-youtube">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/2lFF5MFjOPU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
