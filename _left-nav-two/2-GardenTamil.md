@@ -41,5 +41,38 @@ collection_name: left-nav-two
     <br>Quiz Time
     </td>
   </tr>
-  
+   <tr>
+    <td COLSPAN="2">
+    06.00pm - 06.10pm
+    <br>Dramatised Storytelling - Rani Kalah Kadhai Neram
+    <br>AKT
+    </td>
+  </tr>
+   <tr>
+    <td COLSPAN="2">
+    06.10pm - 06.20pm
+    <br>Skit Presentation Using masks
+    <br>Corporation Primary School
+    </td>
+  </tr>
+   <tr>
+    <td COLSPAN="2">
+    06.20pm - 06.30pm
+    <br>Using Self-made puppets and jingles in Story telling
+    <br>Xing Hua Primary School
+    </td>
+  </tr>
+   <tr>
+    <td COLSPAN="2">
+    06.30pm - 06.40pm
+    <br>Interactive Activities
+    <br>NIE Dip-in-Ed Students
+    </td>
+  </tr>
+   <tr>
+    <td COLSPAN="2">
+    06.40pm - 06.50pm
+    <br>Quiz Time
+    </td>
+  </tr>
 </table>
