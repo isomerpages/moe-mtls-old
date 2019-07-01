@@ -24,7 +24,7 @@ Be amaze at the Flower Maze, where it is blooming with beautiful and exotic flow
 #### Fruit Orchard
 <img src="/images/Discoveryland_Fruit orchard.png" alt="" style="width:350px;" />
 
-Join us at Fruit Orchard and match the fruit to the right tree utilising Augmented Reality (AR). You will get to learn how you can write the names of the fruits using your mother tongue.
+Join us at Fruit Orchard and match the fruit to the right tree utilising Augmented Reality(AR). You will get to learn how you can write the names of the fruits using your mother tongue.
 [Chinese Paragraph]
 [Malay Paragraph]
 [Tamil Paragraph]
