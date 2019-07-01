@@ -107,53 +107,33 @@ width:25%
    	    <a href="https://event-reg.biz/Registration/MTLSSession?Session=E1"  class="btnInfo">More info</a>
     </td>
   </tr>
-<tr style="vertical-align:top;">
-  <td style="width:25%">
-    <b>Young News Presenter</b>
-    <br>
-    <br>当个小主播
-    <br>
-    <br>Mediacorp
-    <br>新传媒
-  </td>
-  <td style="width:25%">
-    <b>My Learning Journey Begins with Mother Tongue</b>
-    <br>
-    <br>என் கற்றல் பயணம் தாய்மொழியைக் கொண்டு தொடங்குகிறது
-    <br>
-    <br>Singapore Press Holdings (SPH)- (Tamil Murasu)
-  </td>  
-  <td style="width:25%">
-    <b>Gen G Learning Garden</b>
-    <br>
-    <br>Taman Pembelajaran Gen G 
-    <br>
-    <br>SPH Students’ Publications: Berita Harian
-    <br>Penerbitan Pelajar, SPH: Berita Harian
-  </td>
-  <td style="width:25%">
-    <b>Reading the News from a Tender Age</b>
-    <br>
-    <br>读报从小开始
-    <br>
-    <br>Junior/ Thumbs Up Little Junior
-    <br>新加坡报业控股
-  </td>  
+<tr>
+<td class="baseTD tdHead"><strong>Young News Presenter</strong> <br /> <br />当个小主播</td>
+<td class="baseTD tdHead"><strong> My Learning Journey Begins with Mother Tongue</strong> <br /> <br /> என் கற்றல் பயணம் தாய்மொழியைக் கொண்டு தொடங்குகிறது</td>
+<td class="baseTD tdHead"><strong>Gen G Learning Garden </strong> <br /> <br /> Taman Pembelajaran Gen G </td>
+<td class="baseTD tdHead"><strong>Reading the News from a Tender Age</strong><br /> <br />读报从小开始 </td>
 </tr>
-  <tr>
-    <td>
-       <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 1" style="width:30px;display:inline;" />
-    </td>
-    <td>
-      <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 2" style="width:30px;display:inline;" />
-    </td>
-    <td>
-      <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 3" style="width:30px;display:inline;" />
-    </td>
-    <td>
-      <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 4" style="width:30px;display:inline;" />
-    </td>
-  </tr>
+<tr>
+<td class="baseTD ">
+<p class="bottomBoxOdd">Mediacorp<br />新传媒</p>
+</td>
+<td class="baseTD ">
+<p class="bottomBoxEven">Singapore Press Holdings (SPH)- (Tamil Murasu) </p>
+</td>
+<td class="baseTD ">
+<p class="bottomBoxOdd">SPH Students’ Publications: Berita Harian <br />Penerbitan Pelajar, SPH: Berita Harian</p>
+</td>
+<td class="baseTD">
+<p class="bottomBoxEven">Junior/ Thumbs Up Little Junior<br />新加坡报业控股</p>
+</td>
+</tr>
+<tr>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
+</tr>
+  
 <tr style="vertical-align:top;">
   <td style="width:25%">
     <b>M3@NeeSoon</b>
