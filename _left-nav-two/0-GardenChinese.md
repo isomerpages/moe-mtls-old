@@ -21,5 +21,17 @@ collection_name: left-nav-two
     <br>Zhangde Primary School
     </td>
   </tr>
-  
+  <tr>
+    <td COLSPAN="2">
+    11.50am - 12.00pm
+    <br>Quiz Time
+    </td>
+  </tr>
+  <tr>
+    <td COLSPAN="2">
+    12.00pm - 12.10pm
+    <br>Hunting for Treasure
+    <br>Telok Kurau Primary School
+    </td>
+  </tr>
 </table>
