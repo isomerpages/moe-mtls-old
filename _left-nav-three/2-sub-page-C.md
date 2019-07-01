@@ -138,7 +138,7 @@ width:25%
 <td class="baseTD tdHead"><strong>M3@NeeSoon</strong></td>
 <td class="baseTD tdHead"><strong> National Heritage Board </strong> <br /> <br /> <br />新加坡国家文物局<br /> <br />Lembaga Warisan Negara <br /> <br />தேசிய மரபுடைமைக் கழகம்</td>
 <td class="baseTD tdHead"><strong>Esplanade &ndash; Theatres on the Bay </strong> <br /> <br /><br /> 滨海艺术中心<br /> <br />Esplanade &ndash; Teater di Persisiran <br /> <br />எஸ்பிளனேட் &ndash; கடலோரக்கலை அரங்குகள்</td>
-<td class="baseTD tdHead"><strong>Cultural Immersion through Engaged and Experiential Learning</strong><br /> <br /> <br /> 母语乐FUN天 <br /> <br />Berseronok bersama Bahasa Ibunda <br /> <br />நமது தாய்மொழிகளோடு மகிழ்ந்திருப்போம்!</td>
+<td class="baseTD tdHead"><strong>Cultural Immersion through Engaged and Experiential Learning</strong><br /> <br />அனுபவவழித் தமிழ்ப் பண்பாட்டுக் கற்றல் பயணம்</td>
 </tr>
 <tr>
 <td class="baseTD ">
@@ -151,7 +151,7 @@ width:25%
 <p class="bottomBoxOdd">The Esplanade Co Ltd<br />滨海艺术中心<br />எஸ்பிளனேட்</p>
 </td>
 <td class="baseTD">
-<p class="bottomBoxEven">Lee Kuan Yew Fund for Bilingualism (LKYFB) <br />李光耀双语基金</p>
+<p class="bottomBoxEven">Umar Pulavar Tamil Language Centre (UPTLC) <br />உமறுப்புலவர் தமிழ்மொழி நிலையம்</p>
 </td>
 </tr>
 <tr>
