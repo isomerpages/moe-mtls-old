@@ -17,26 +17,32 @@ background-color: #5c3b96;
 padding: 7px;
 color: #ffffff;
   font-size:14px;
-  line-height :0px !important;
+line-height :1.5rem !important;
 }
 .bottomBoxEven{
   background-color: #8d3278;
   padding: 7px;
   color: #ffffff;
   font-size:14px;
-  line-height :0px !important;
+  line-height :1.5rem !important;
 }
 .baseTD{
 width:25%
+}
+.table a
+{
+    display:block;
+    text-decoration:none;
 }
 </style>
 <table style="width:100%;font-size:14px;" cellspacing="20" cellpadding="20">
 
 <tr>
   <td class="baseTD tdHead">
-     <b>Committee to Promote Chinese Language Learning</b>
+   <a href="https://google.com">  <b>Committee to Promote Chinese Language Learning</b>
     <br> <br>
    推广华文学习委员会
+   </a>
   </td>
   <td class="baseTD tdHead"> <b> Finesse Our Culture </b>
   <br> <br>
