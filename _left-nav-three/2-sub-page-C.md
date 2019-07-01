@@ -160,57 +160,30 @@ width:25%
 <td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
 <td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
 </tr>
- <tr style="vertical-align:top;">
-  <td style="width:25%">
-      <b>Seeding a Reading Culture</b><br>
-    <br>播下阅读的种子，让孩子爱上阅读<br>
-    <br>Menyemai Budaya Membaca<br>  
-    <br>வாசிப்புக் கலாசாரத்தை வளர்ப்போம்
-    <br>
-    <br>
-    <br>National Library Board
-    <br>国家图书馆管理局
-  </td>
-<td style="width:25%">
-    <b>Garden of Cultural Diversity</b><br>
-    <br>文化意涵丰富的母语乐园<br>
-    <br>Taman Kepelbagaian Budaya<br>  
-    <br>பல்லினப் பண்பாட்டுப் பூங்கா
-    <br>
-    <br>
-    <br>National Institute of Education (NIE)
-    <br>国立教育学院
-  </td>  
-<td style="width:25%">
-    <b>Neighbours in the Wild</b><br>
-      <br>我们的野生邻居<br>
-    <br>Jiran di Alam Liar<br>  
-    <br>வனத்தில் நண்பர்கள்
-    <br>
-    <br>
-    <br>Wildlife Reserves Singapore
-    <br>新加坡野生动物保育集团
-  </td>
-<td style="width:25%">
-   <b>Fun Learning Chinese</b>
-    <br>乐学华文
-    <br>
-    <br>Singapore Centre for Chinese Language (SCCL)
-    <br>新加坡华文教研中心
-  </td>  
+ <tr>
+<td class="baseTD tdHead"><strong>Seeding a Reading Culture</strong> <br /> <br /><br />播下阅读的种子，让孩子爱上阅读<br /> <br />Menyemai Budaya Membaca<br /> <br />வாசிப்புக் கலாசாரத்தை வளர்ப்போம்</td>
+<td class="baseTD tdHead"><strong> Garden of Cultural Diversity </strong> <br /> <br /><br />文化意涵丰富的母语乐园<br /> <br />Taman Kepelbagaian Budaya<br /> <br />பல்லினப் பண்பாட்டுப் பூங்கா</td>
+<td class="baseTD tdHead"><strong>Neighbours in the Wild </strong> <br /> <br /><br />我们的野生邻居<br /> <br />Jiran di Alam Liar<br /> <br />வனத்தில் நண்பர்கள்</td>
+<td class="baseTD tdHead"><strong>Fun Learning Chinese</strong><br /> <br />乐学华文</td>
 </tr>
-  <tr>
-    <td>
-      <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 1" style="width:30px;display:inline;" />
-    </td>
-    <td>
-      <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 2" style="width:30px;display:inline;" />
-    </td>
-    <td>
-      <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 3" style="width:30px;display:inline;" />
-    </td>
-    <td>
-      <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 4" style="width:30px;display:inline;" />
-    </td>
-  </tr>
+<tr>
+<td class="baseTD ">
+<p class="bottomBoxOdd">National Library Board <br />国家图书馆管理局</p>
+</td>
+<td class="baseTD ">
+<p class="bottomBoxEven">National Institute of Education (NIE)<br />国立教育学院</p>
+</td>
+<td class="baseTD ">
+<p class="bottomBoxOdd">Wildlife Reserves Singapore<br />新加坡野生动物保育集团</p>
+</td>
+<td class="baseTD">
+<p class="bottomBoxEven">Singapore Centre for Chinese Language(SCCL)<br />新加坡华文教研中心</p>
+</td>
+</tr>
+<tr>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
+</tr>
 </table> 
