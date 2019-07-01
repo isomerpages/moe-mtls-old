@@ -1,9 +1,8 @@
-- title: Govtechies Stories
-  name: Kaiwen
-  position: Tech Associate
+- title: [<b>Workshop</b>] Joyful Learning of Tamil through Stories
+  name: Mr Anandha Kannan
   # dept: Government Digital Services, Data Science Division
-  story: We get to experiment and build meaningful things that can bring a positive impact to the lives of Singaporeans.
-  img: images/Speaker1.jpg
+  story: Mr Anandha Kannan believes that language can be taught in many creative ways. He believes that the more we integrate arts into learning, the easier it will be for the child to understand the language. 
+  img: images/Anadha kannan.jpg
   button-text: About Session
   button-url: /careers/our-culture-and-values/?utm_source=careers_homepage
 
