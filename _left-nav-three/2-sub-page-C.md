@@ -134,57 +134,32 @@ width:25%
 <td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
 </tr>
   
-<tr style="vertical-align:top;">
-  <td style="width:25%">
-    <b>M3@NeeSoon</b>
-    <br>
-    <br>
-    <br>M3@NeeSoon
-  </td>
-  <td style="width:25%">
-    <b>National Heritage Board</b><br>
-    <br>新加坡国家文物局<br>
-    <br>Lembaga Warisan Negara  <br>  
-    <br>தேசிய மரபுடைமைக் கழகம்
-    <br>
-    <br>
-    <br>National Heritage Board
-    <br>新加坡国家文物局
-  </td>  
-  <td style="width:25%">
-    <b>Esplanade – Theatres on the Bay</b><br>
-    <br>滨海艺术中心<br>
-    <br>Esplanade – Teater di Persisiran <br>  
-    <br>எஸ்பிளனேட் – கடலோரக்கலை அரங்குகள் 
-    <br>
-    <br>
-    <br>The Esplanade Co Ltd
-    <br>滨海艺术中心
-    <br>எஸ்பிளனேட்
-  </td>
-  <td style="width:25%">
-    <b>Cultural Immersion through Engaged and Experiential Learning</b> 
-    <br>
-    <br>அனுபவவழித் தமிழ்ப் பண்பாட்டுக் கற்றல் பயணம்
-    <br>
-    <br>Umar Pulavar Tamil Language Centre (UPTLC)
-    <br>உமறுப்புலவர் தமிழ்மொழி நிலையம் 
-  </td>  
+<tr>
+<td class="baseTD tdHead"><strong>M3@NeeSoon</strong></td>
+<td class="baseTD tdHead"><strong> National Heritage Board </strong> <br /> <br /> <br />新加坡国家文物局<br /> <br />Lembaga Warisan Negara <br /> <br />தேசிய மரபுடைமைக் கழகம்</td>
+<td class="baseTD tdHead"><strong>Esplanade &ndash; Theatres on the Bay </strong> <br /> <br /><br /> 滨海艺术中心<br /> <br />Esplanade &ndash; Teater di Persisiran <br /> <br />எஸ்பிளனேட் &ndash; கடலோரக்கலை அரங்குகள்</td>
+<td class="baseTD tdHead"><strong>Cultural Immersion through Engaged and Experiential Learning</strong><br /> <br /> <br /> 母语乐FUN天 <br /> <br />Berseronok bersama Bahasa Ibunda <br /> <br />நமது தாய்மொழிகளோடு மகிழ்ந்திருப்போம்!</td>
 </tr>
-  <tr>
-    <td>
-       <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 1" style="width:30px;display:inline;" />
-    </td>
-    <td>
-      <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 2" style="width:30px;display:inline;" />
-    </td>
-    <td>
-      <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 3" style="width:30px;display:inline;" />
-    </td>
-    <td>
-      <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 4" style="width:30px;display:inline;" />
-    </td>
-  </tr>
+<tr>
+<td class="baseTD ">
+<p class="bottomBoxOdd">M3@NeeSoon</p>
+</td>
+<td class="baseTD ">
+<p class="bottomBoxEven">National Heritage Board <br />新加坡国家文物局</p>
+</td>
+<td class="baseTD ">
+<p class="bottomBoxOdd">The Esplanade Co Ltd<br />滨海艺术中心<br />எஸ்பிளனேட்</p>
+</td>
+<td class="baseTD">
+<p class="bottomBoxEven">Lee Kuan Yew Fund for Bilingualism (LKYFB) <br />李光耀双语基金</p>
+</td>
+</tr>
+<tr>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
+<td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSession?Session=E1">More info</a></td>
+</tr>
  <tr style="vertical-align:top;">
   <td style="width:25%">
       <b>Seeding a Reading Culture</b><br>
