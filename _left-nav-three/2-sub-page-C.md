@@ -39,10 +39,10 @@ width:25%
 
 <tr>
   <td class="baseTD tdHead">
-   <a href="https://google.com">  <b>Committee to Promote Chinese Language Learning</b>
+   <b>Committee to Promote Chinese Language Learning</b>
     <br> <br>
    推广华文学习委员会
-   </a>
+  <a href="https://event-reg.biz/Registration/MTLSSession?Session=E1"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
   <td class="baseTD tdHead"> <b> Finesse Our Culture </b>
   <br> <br>
@@ -82,9 +82,11 @@ width:25%
   <tr>
     <td>
        <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 1" style="width:30px;display:inline;" />
+	    <a href="https://event-reg.biz/Registration/MTLSSession?Session=E1"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
     </td>
     <td>
       <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 2" style="width:30px;display:inline;" />
+	   <a href="https://event-reg.biz/Registration/MTLSSession?Session=E1"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
     </td>
     <td>
       <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 3" style="width:30px;display:inline;" />
