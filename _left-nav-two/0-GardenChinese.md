@@ -9,25 +9,17 @@ collection_name: left-nav-two
 <table class="table-h">
   <tr>
     <td COLSPAN="2">
-    11.30am - 12.20pm
-    </td>
-  </tr>
-  <tr>
-    <td>
-    Story Time by Teachers: The Little Snake Taking a Stroll
-    <br/>
-    MOE Kindergarten @ Blangah Rise
-    <br>老师讲故事：小蛇散步
-    </td>
-    <td>
-    <br>
-    <br>
+    11.30am - 11.40am
+      <br>Family-Child Talent Performance
+      <br>Finalists of Speak Mandarin Campaign Family Talent Competition 2019
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
-    12.05pm - 12.20pm
-    <br>Quiz Time
+    11.40am - 11.50am
+    <br>Zhangde Wushu Warriors
+    <br>Zhangde Primary School
     </td>
   </tr>
+  
 </table>
