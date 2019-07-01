@@ -9,26 +9,37 @@ collection_name: left-nav-two
 <table class="table-h">
   <tr>
     <td COLSPAN="2">
-    11.30am - 12.20pm
-    </td>
-  </tr>
-  <tr>
-    <td>
-    Story Time by Teachers: The Little Snake Taking a Stroll
-    <br/>
-     MOE Kindergarten @ Blangah Rise
-    <br>老师讲故事：小蛇散步
-    </td>
-    <td>
-   
-    <br>
-    <br>
+    01.55pm - 02.05pm
+    <br>Spreading the Spirit of Tamil (Preschool Tamil Dance)
+    <br>Khalsa Kindergarten
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
-    12.05pm - 12.20pm
+    02.05pm - 02.15pm
+    <br>Story Telling 
+    <br>St. Stephen's School
+    </td>
+  </tr>
+  <tr>
+    <td COLSPAN="2">
+    02.15pm - 02.25pm
+    <br>Big Book reading 
+    <br>MOE Kindergarten @ Northoaks
+    </td>
+  </tr>
+  <tr>
+    <td COLSPAN="2">
+    02.25pm - 02.35pm
+    <br>Play - Sang Nila Utama
+    <br>Athipathi International Theatre(vendor) (NHB)
+    </td>
+  </tr>
+  <tr>
+    <td COLSPAN="2">
+    02.35pm - 02.55pm
     <br>Quiz Time
     </td>
   </tr>
+  
 </table>
