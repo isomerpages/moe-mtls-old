@@ -5,11 +5,7 @@ permalink: /left-nav-three/sub-page-C/
 breadcrumb: Community Partners Booth
 collection_name: left-nav-three
 ---
-<html>
-<body>
-<style>
  
-</style>
 <table style="width:100%;font-size:10px;">
 <tr style="vertical-align:top;">
   <td style="width:25%">
