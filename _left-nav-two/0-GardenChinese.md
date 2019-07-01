@@ -67,4 +67,31 @@ collection_name: left-nav-two
     <br>SPS Performance
     </td>
   </tr>
+  <tr>
+    <td COLSPAN="2">
+    03.30pm - 03.40pm
+    <br>'The Little Black Fish called 'Swimmy'(Interactive Story Telling)
+    <br>PCF Sparkletots Preschool @ Nee Soon Central Blk 646
+    </td>
+  </tr>
+  <tr>
+    <td COLSPAN="2">
+    03.40pm - 03.50pm
+    <br>《游戏王国之旅》Drama Skit
+    <br>Nan Hua Primary School
+    </td>
+  </tr>
+  <tr>
+    <td COLSPAN="2">
+    03.50pm - 04.00pm
+    <br>Cross Talk 
+    <br>Singfeng Cross Talk
+    </td>
+  </tr>
+   <tr>
+    <td COLSPAN="2">
+    04.00pm - 04.05pm
+    <br>Quiz Time
+    </td>
+  </tr>
 </table>
