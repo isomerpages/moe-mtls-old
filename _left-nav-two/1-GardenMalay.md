@@ -48,4 +48,38 @@ collection_name: left-nav-two
     <br>Mediacorp (by LKYFB)
     </td>
   </tr>
+  <tr>
+    <td COLSPAN="2">
+    04.05pm - 04.15pm
+    <br>“Tualang Tiga Dance”
+    <br>Yishun Primary
+    </td>
+  </tr>
+  <tr>
+    <td COLSPAN="2">
+    04.15pm - 04.25pm
+    <br>Malay Drama by Students
+    <br>Admiralty Primary
+    </td>
+  </tr>
+  <tr>
+    <td COLSPAN="2">
+    04.25pm - 04.35pm
+    <br>Sing and Dance - Bangau oh Bangau
+    <br>The Bambini SG
+    </td>
+  </tr>
+  <tr>
+    <td COLSPAN="2">
+    04.35pm - 04.45pm
+    <br>Storytelling “Ada Khazanah Di Perpustakaan Kami!” 
+    <br>Ungu Pen
+    </td>
+  </tr>
+  <tr>
+    <td COLSPAN="2">
+    04.45pm - 04.55pm
+    <br>Quiz Time
+    </td>
+  </tr>
 </table>
