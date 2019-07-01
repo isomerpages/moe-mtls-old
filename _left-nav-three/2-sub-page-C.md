@@ -29,10 +29,25 @@ line-height :1.5rem !important;
 .baseTD{
 width:25%
 }
-.table a
-{
-    display:block;
-    text-decoration:none;
+ 
+.btnInfo {
+    background: #ab81f5;
+    color: #fff;
+    display: block;
+    padding: 20px 10px;
+    text-align: center;
+    text-decoration: none;
+    width: 200px;
+    border-radius: 20px;  
+}
+.btnInfo {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.btnInfo:hover {
+    background: #583399;
 }
 </style>
 <table style="width:100%;font-size:14px;" cellspacing="20" cellpadding="20">
@@ -41,8 +56,7 @@ width:25%
   <td class="baseTD tdHead">
    <b>Committee to Promote Chinese Language Learning</b>
     <br> <br>
-   推广华文学习委员会
-  <a href="https://event-reg.biz/Registration/MTLSSession?Session=E1"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   推广华文学习委员会 
   </td>
   <td class="baseTD tdHead"> <b> Finesse Our Culture </b>
   <br> <br>
@@ -80,12 +94,10 @@ width:25%
 </td>
 </tr>
   <tr>
-    <td>
-       <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 1" style="width:30px;display:inline;" />
-	    <a href="https://event-reg.biz/Registration/MTLSSession?Session=E1"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+    <td> 
+	    <a href="https://event-reg.biz/Registration/MTLSSession?Session=E1"  class="btnInfo">More info</a>
     </td>
-    <td>
-      <img src="/images/Carnival/Carnival_Circle_Purple.png" alt="Session 2" style="width:30px;display:inline;" />
+    <td> 
 	   <a href="https://event-reg.biz/Registration/MTLSSession?Session=E1"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
     </td>
     <td>
