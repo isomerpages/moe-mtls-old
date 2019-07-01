@@ -124,7 +124,7 @@ width:25%
 <p class="bottomBoxOdd">SPH Students’ Publications: Berita Harian <br />Penerbitan Pelajar, SPH: Berita Harian</p>
 </td>
 <td class="baseTD">
-<p class="bottomBoxEven">Junior/ Thumbs Up Little Junior<br />新加坡报业控股</p>
+<p class="bottomBoxEven">Junior/Thumbs Up Little Junior<br />新加坡报业控股</p>
 </td>
 </tr>
 <tr>
