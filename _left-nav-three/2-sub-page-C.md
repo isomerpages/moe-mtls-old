@@ -8,20 +8,20 @@ collection_name: left-nav-three
 <style>
 .tdHead{
  vertical-align: top;
- padding: 7px;
+ padding: 10px;
    
  
 }
 .bottomBoxOdd{
 background-color: #5c3b96;
-padding: 7px;
+padding: 10px;
 color: #ffffff;
   
 line-height :1.5rem !important;
 }
 .bottomBoxEven{
   background-color: #8d3278;
-  padding: 7px;
+  padding: 10px;
   color: #ffffff;
   
   line-height :1.5rem !important;
