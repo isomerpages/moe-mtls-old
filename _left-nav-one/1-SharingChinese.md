@@ -195,7 +195,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td>Speaker: Kate Pang and Andie Chen
-         <br>Topic: Chinese Language Is Easy to Master (Chinese) [<b>Sharing</b>]
+         <br>Topic: Chinese Language Is Easy to Master (Chinese) [<b>Sharing by Celebrity Speakers</b>]
          <br>Time: 4.15pm - 5.15pm
          <br>Venue: Room 303 - 304
       </td>
