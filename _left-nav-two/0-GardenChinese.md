@@ -49,89 +49,89 @@ collection_name: left-nav-two
   </tr>
   <tr>
     <td COLSPAN="2">
-    02.55pm - 03.05pm
+    2.55pm - 3.05pm
     <br>Qing Fei Wu Yang (Tradition Fan Dance)
     <br>Beacon Primary School
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
-    03.05pm - 03.15pm
+    3.05pm - 3.15pm
     <br>Street Dance 
     <br>River Valley Primary School
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
-    03.15pm - 03.30pm
+    3.15pm - 3.30pm
     <br>SPS Performance
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
-    03.30pm - 03.40pm
+    3.30pm - 3.40pm
     <br>'The Little Black Fish called 'Swimmy'(Interactive Story Telling)
     <br>PCF Sparkletots Preschool @ Nee Soon Central Blk 646
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
-    03.40pm - 03.50pm
+    3.40pm - 3.50pm
     <br>《游戏王国之旅》Drama Skit
     <br>Nan Hua Primary School
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
-    03.50pm - 04.00pm
+    3.50pm - 4.00pm
     <br>Cross Talk 
     <br>Singfeng Cross Talk
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
-    04.00pm - 04.05pm
+    4.00pm - 4.05pm
     <br>Quiz Time
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
-    04.55pm - 05.05pm
+    4.55pm - 5.05pm
     <br>A Gu Zheng Performance
     <br>Endeavour Primary
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
-    05.05pm - 05.15pm
+    5.05pm - 5.15pm
     <br>Little Fox Garden (Story Telling with dramatisation)
     <br>PCF Sparkletots Preschool @ Eunos Blk 629
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
-    05.15pm - 05.25pm
+    5.15pm - 5.25pm
     <br>Family-Child Talent Performance
     <br>Finalists of Speak Mandarin Campaign Family Talent Compeition 2019 
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
-    05.25pm - 05.35pm
+    5.25pm - 5.35pm
     <br>A Joyful Medley (Mother Tongue Songs Medley by P2 Pupils)
     <br>Bedok Green Primary School
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
-    05.35pm - 05.50pm
+    5.35pm - 5.50pm
     <br>Cross Talk 
     <br>Singfeng Cross Talk
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
-    05.50pm - 06.00pm
+    5.50pm - 6.00pm
     <br>Quiz Time
     </td>
   </tr>
