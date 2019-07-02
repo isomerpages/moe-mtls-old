@@ -63,7 +63,7 @@ collection_name: left-nav-one
     </td>
     <td>Speaker: Suriati Abdolah (Mdm)
       <br>Topic: Lull the Little One with a Storybook (Malay) [<b>Sharing</b>]
-      <br>Time: 13.00pm - 4.00pm
+      <br>Time: 3.00pm - 4.00pm
       <br>Venue: Room 302
 </td>
       <td>
