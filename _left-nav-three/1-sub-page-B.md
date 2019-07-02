@@ -28,18 +28,5 @@ collection_name: left-nav-three
     <br>PCF Sparkletots Preschool @ Hong Kah North Blk 748
   </td>  
 </tr>
-  <tr>
-    <td>
-      <img src="/images/Carnival/Carnival_Circle_Red.png" alt="Session 1" style="width:30px;display:inline;" />
-    </td>
-    <td>
-      <img src="/images/Carnival/Carnival_Circle_Red.png" alt="Session 2" style="width:30px;display:inline;" />
-    </td>
-    <td>
-      <img src="/images/Carnival/Carnival_Circle_Red.png" alt="Session 3" style="width:30px;display:inline;" />
-    </td>
-    <td>
-      <img src="/images/Carnival/Carnival_Circle_Red.png" alt="Session 4" style="width:30px;display:inline;" />
-    </td>
-  </tr>
+  
 </table>
