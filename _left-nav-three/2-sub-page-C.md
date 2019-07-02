@@ -9,21 +9,21 @@ collection_name: left-nav-three
 .tdHead{
  vertical-align: top;
  padding: 7px;
-   font-size:14px;
+   
  
 }
 .bottomBoxOdd{
 background-color: #5c3b96;
 padding: 7px;
 color: #ffffff;
-  font-size:14px;
+  
 line-height :1.5rem !important;
 }
 .bottomBoxEven{
   background-color: #8d3278;
   padding: 7px;
   color: #ffffff;
-  font-size:14px;
+  
   line-height :1.5rem !important;
 }
 .baseTD{
@@ -50,7 +50,7 @@ width:25%
     background: #583399;
 }
 </style>
-<table style="width:100%;font-size:14px;" cellspacing="20" cellpadding="20">
+<table style="width:100%;" cellspacing="20" cellpadding="20">
 
 <tr>
   <td class="baseTD tdHead">
