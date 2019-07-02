@@ -34,6 +34,7 @@ agency-logo: /images/Title FA-01.png
 
 # Hero Banner 
 hero-title: MTLS 2019
+fontsize: 100pt
 hero-banner: /images/HomeBackground_5.png
 
 #Call to Action Button
