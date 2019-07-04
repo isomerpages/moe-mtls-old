@@ -202,4 +202,5 @@ collection_name: left-nav-one
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=C5"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
+   
 </table>
