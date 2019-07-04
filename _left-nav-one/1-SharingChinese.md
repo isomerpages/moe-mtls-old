@@ -17,7 +17,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 310
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C16"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C16"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -31,7 +31,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 310
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C11"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C11"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -45,7 +45,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 308
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C6"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C6"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -58,7 +58,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 303 - 304
       </td>
    <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C1"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C1"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -71,7 +71,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 310
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C17"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C17"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -87,7 +87,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 308
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C2"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C2"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -102,7 +102,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 309
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C12"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C12"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -115,7 +115,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 308
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C7"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C7"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -130,7 +130,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 309
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C13"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C13"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -143,7 +143,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 303 - 304
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C3"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C3"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -156,7 +156,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 308
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C8"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C8"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -169,7 +169,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 310
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C18"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C18"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -184,7 +184,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 309
       </td>
  <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C14"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C14"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -197,7 +197,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 310
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C19"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C19"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -210,7 +210,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 308
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C9"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C9"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -223,7 +223,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 303 - 304
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C4"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C4"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -236,7 +236,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 310
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C20"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C20"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -249,7 +249,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 309
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C15"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C15"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -262,7 +262,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 308
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C10"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C10"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -275,7 +275,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 303 - 304
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C5"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C5"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    
