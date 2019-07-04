@@ -54,11 +54,11 @@ width:25%
 
 <tr>
   <td class="baseTD tdHead">
-   <b>Committee to Promote Chinese Language Learning</b>
+   <b>Committee to Promote Chinese Language Learning</b><br>
   </td>
-  <td class="baseTD tdHead"> <b> Finesse Our Culture </b>
+  <td class="baseTD tdHead"> <b> Finesse Our Culture </b><br>
   </td>
-  <td class="baseTD tdHead"> <b>Tamil Language and Promotion Committee </b>
+  <td class="baseTD tdHead"> <b>Tamil Language and Promotion Committee </b><br>
   </td>
   <td class="baseTD tdHead"><b>Fun with our Mother Tongue Languages</b><br>
   </td>
@@ -97,10 +97,10 @@ width:25%
     </td>
   </tr>
 <tr>
-<td class="baseTD tdHead"><strong>Young News Presenter</strong></td>
-<td class="baseTD tdHead"><strong> My Learning Journey Begins with Mother Tongue</strong> </td>
-<td class="baseTD tdHead"><strong>Gen G Learning Garden </strong>   </td>
-<td class="baseTD tdHead"><strong>Reading the News from a Tender Age</strong> </td>
+<td class="baseTD tdHead"><strong>Young News Presenter</strong><br></td>
+<td class="baseTD tdHead"><strong> My Learning Journey Begins with Mother Tongue</strong><br> </td>
+<td class="baseTD tdHead"><strong>Gen G Learning Garden </strong> <br>  </td>
+<td class="baseTD tdHead"><strong>Reading the News from a Tender Age</strong> <br></td>
 </tr>
 <tr>
 <td class="baseTD ">
@@ -124,10 +124,10 @@ width:25%
 </tr>
   
 <tr>
-<td class="baseTD tdHead"><strong>M3@NeeSoon</strong></td>
-<td class="baseTD tdHead"><strong> National Heritage Board </strong> </td>
-<td class="baseTD tdHead"><strong>Esplanade &ndash; Theatres on the Bay </strong> </td>
-<td class="baseTD tdHead"><strong>Cultural Immersion through Engaged and Experiential Learning</strong></td>
+<td class="baseTD tdHead"><strong>M3@NeeSoon</strong><br></td>
+<td class="baseTD tdHead"><strong> National Heritage Board </strong> <br></td>
+<td class="baseTD tdHead"><strong>Esplanade &ndash; Theatres on the Bay </strong><br> </td>
+<td class="baseTD tdHead"><strong>Cultural Immersion through Engaged and Experiential Learning</strong><br></td>
 </tr>
 <tr>
 <td class="baseTD ">
@@ -150,10 +150,10 @@ width:25%
 <td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c12">More info</a></td>
 </tr>
  <tr>
-<td class="baseTD tdHead"><strong>Seeding a Reading Culture</strong> </td>
-<td class="baseTD tdHead"><strong> Garden of Cultural Diversity </strong> </td>
-<td class="baseTD tdHead"><strong>Neighbours in the Wild </strong> </td>
-<td class="baseTD tdHead"><strong>Fun Learning Chinese</strong></td>
+<td class="baseTD tdHead"><strong>Seeding a Reading Culture</strong><br> </td>
+<td class="baseTD tdHead"><strong> Garden of Cultural Diversity </strong><br> </td>
+<td class="baseTD tdHead"><strong>Neighbours in the Wild </strong> <br></td>
+<td class="baseTD tdHead"><strong>Fun Learning Chinese</strong><br></td>
 </tr>
 <tr>
 <td class="baseTD ">
