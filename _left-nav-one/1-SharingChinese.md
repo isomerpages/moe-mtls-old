@@ -9,7 +9,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td>Speaker: Dr Connie Lum <br> (Chinese) [<b>Two consecutive sessions</b>]<br>Time: 12.30pm - 1.30pm <br>Venue: Room 310
+      <td><b>Speaker:</b> Dr Connie Lum <br><b>Topic:</b> Language Immersion Through Play-based Learning <br><b>Format: Workshop</b><br><b>Time:</b> 12.30pm - 1.30pm <br><b>Venue:</b> Room 310
       </td>
       <td>
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=C16"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
@@ -18,11 +18,9 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td>Speaker: Wee Khang Ping (Mr)
+      <td><b>Speaker:</b> Wee Khang Ping (Mr)
          <br>Ju Shiying (Mdm)
-         <br>Topic: Learning of CL Through Parent-child Activities (Chinese) [<b>Workshop</b>]
-         <br>Time: 12.30pm - 1.30pm
-         <br>Venue: Room 310
+<br><b>Topic:</b> Learning of CL Through Parent-child Activities <br><b>Format: Workshop </b><br><b>Time:</b> 12.30pm - 1.30pm <br><b>Venue:</b> Room 310
       </td>
       <td>
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=C11"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
@@ -31,11 +29,9 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td>Speaker: Cheryl Yap Xinhui (Mdm)
+      <td><b>Speaker:</b> Cheryl Yap Xinhui (Mdm)
          <br> Li Hongyu (Ms)
-         <br>Topic: Learning Chinese in a Fun Way! (Chinese) [<b>Sharing</b>]
-         <br>Time: 12.30pm - 1.30pm
-         <br>Venue: Room 308
+<br><b>Topic:</b> Learning Chinese in a Fun Way! <br><b>Format: Sharing</b><br><b>Time:</b> 12.30pm - 1.30pm <br><b>Venue:</b> Room 308
       </td>
       <td>
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=C6"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
@@ -44,11 +40,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td>Speaker: Kuo Jian Hong (Ms)
-         <br>Topic: From Function to Fun: Fostering Meaningful Engagement with Chinese (Chinese) [<b>Sharing</b>]
-         <br>Time: 12.30pm - 1.30pm
-         <br>Venue: Room 303 - 304
-      </td>
+      <td><b>Speaker:</b> Kuo Jian Hong (Ms)<br><b>Topic:</b> From Function to Fun: Fostering Meaningful Engagement with Chinese <br><b>Format: Sharing</b><br><b>Time:</b> 12.30pm - 1.30pm <br><b>Venue:</b> Room 303 - 304
       <td>
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=C1"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
@@ -56,7 +48,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td>Speaker: Dr Connie Lum <br> (Chinese) [<b>Two consecutive sessions</b>]<br>Time: 1.45pm - 2.45pm <br>Venue: Room 310
+      <td><b>Speaker:</b> Dr Connie Lum <br><b>Topic:</b> Language Immersion Through Play-based Learning <br><b>Format: Workshop </b><br><b>Time:</b> 1.45pm - 2.45pm <br><b>Venue:</b> Room 310
       </td>
       <td>
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=C17"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
@@ -65,13 +57,10 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td>Speaker: Lee Keng Chin (Ms)
+      <td><b>Speaker:</b> Lee Keng Chin (Ms)
          <br>Liu Ying (Ms)
          <br>  Zhang Shan (Ms)
-         <br>  Dr Lin An-chi
-         <br>Topic: Learning MTL through Purposeful Play (Chinese)[<b>Panel Discussion</b>]
-         <br>Time: 1.45pm - 2.45pm
-         <br>Venue: Room 308
+         <br>  Dr Lin An-chi <br><b>Topic:</b> Learning MTL through Purposeful Play <br><b>Format: Panel Discussion</b><br><b>Time:</b> 1.45pm - 2.45pm <br><b>Venue:</b> Room 308
       </td>
       <td>
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=C2"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
@@ -80,12 +69,10 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td>Speaker: Dr Cheng Wan-ni
+      <td><b>Speaker:</b> Dr Cheng Wan-ni
          <br>Dr Wu Yung-sen
          <br> Zheng Yingjiang (Mdm)
-         <br>Topic: Run! Jump! Bump! Learn Mandarin by Integrating Physical Rhythm and Interactive Games (Chinese)[<b>Workshop</b>] 
-         <br>Time: 1.45pm - 2.45pm
-         <br>Venue: Room 309
+<br><b>Topic:</b> Run! Jump! Bump! Learn Mandarin by Integrating Physical Rhythm and Interactive Games <br><b>Format: Workshop </b><br><b>Time:</b> 1.45pm - 2.45pm <br><b>Venue:</b> Room 309
       </td>
       <td>
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=C12"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
