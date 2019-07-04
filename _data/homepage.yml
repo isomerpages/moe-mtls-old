@@ -53,12 +53,6 @@ key-highlights:
     description: 
     url: https://event-reg.biz/Registration/eventReg.aspx?Event=RegisterSharingSessions
     external: true
-
-info-sections:
-  - section-subtitle: Discovery Land
-    section-more-button-url: /discovery-land/
-    section-description: There are many things you can do at the Garden of Joyful Discovery. Join us for a fun and exciting time as we discover various birds, animals, fruits, flowers and insects.
-    section-image-path: /images/Discoveryland.jpg
     
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
