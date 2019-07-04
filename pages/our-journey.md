@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-permalink: /our-journey/
-breadcrumb: Our Journey
-title: Our Journey
+permalink: /about-us/
+breadcrumb: About Us
+title: About Us
 ---
 
 <p align="justify">
