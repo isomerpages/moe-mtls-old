@@ -120,7 +120,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td>S<b>Speaker:</b> Yu Liang (Mr)<br><b>Topic:</b> Expanding Your Imagination and Creativity through Drama and Games <br><b>Format: Workshop-Parents only </b><br><b>Time:</b> 3.00pm - 4.00pm <br><b>Venue:</b> Room 310
+      <td><b>Speaker:</b> Yu Liang (Mr)<br><b>Topic:</b> Expanding Your Imagination and Creativity through Drama and Games <br><b>Format: Workshop-Parents only </b><br><b>Time:</b> 3.00pm - 4.00pm <br><b>Venue:</b> Room 310
       </td>
       <td>
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=C18"  style="  background-color: #f44336; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
