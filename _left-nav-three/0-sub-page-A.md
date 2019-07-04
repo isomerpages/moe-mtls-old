@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Pre-School
+title: Pre-Schools
 permalink: /left-nav-three/sub-page-A/
 breadcrumb: Pre-School Booths
 collection_name: left-nav-three
