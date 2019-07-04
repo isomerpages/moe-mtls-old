@@ -55,23 +55,12 @@ width:25%
 <tr>
   <td class="baseTD tdHead">
    <b>Committee to Promote Chinese Language Learning</b>
-    <br> <br>
-   推广华文学习委员会 
   </td>
   <td class="baseTD tdHead"> <b> Finesse Our Culture </b>
-  <br> <br>
-  Santun Budaya Kita 
   </td>
   <td class="baseTD tdHead"> <b>Tamil Language and Promotion Committee </b>
-  <br> <br>
-  தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு 
   </td>
   <td class="baseTD tdHead"><b>Fun with our Mother Tongue Languages</b><br>
-  <br> <br>
-    母语乐FUN天 <br>
-    <br>Berseronok bersama Bahasa Ibunda <br>
-    <br>நமது தாய்மொழிகளோடு மகிழ்ந்திருப்போம்! <br>
-  
   </td>
 </tr>
 <tr>
@@ -108,10 +97,10 @@ width:25%
     </td>
   </tr>
 <tr>
-<td class="baseTD tdHead"><strong>Young News Presenter</strong> <br /> <br />当个小主播</td>
-<td class="baseTD tdHead"><strong> My Learning Journey Begins with Mother Tongue</strong> <br /> <br /> என் கற்றல் பயணம் தாய்மொழியைக் கொண்டு தொடங்குகிறது</td>
-<td class="baseTD tdHead"><strong>Gen G Learning Garden </strong> <br /> <br /> Taman Pembelajaran Gen G </td>
-<td class="baseTD tdHead"><strong>Reading the News from a Tender Age</strong><br /> <br />读报从小开始 </td>
+<td class="baseTD tdHead"><strong>Young News Presenter</strong></td>
+<td class="baseTD tdHead"><strong> My Learning Journey Begins with Mother Tongue</strong> </td>
+<td class="baseTD tdHead"><strong>Gen G Learning Garden </strong>   </td>
+<td class="baseTD tdHead"><strong>Reading the News from a Tender Age</strong> </td>
 </tr>
 <tr>
 <td class="baseTD ">
@@ -136,9 +125,9 @@ width:25%
   
 <tr>
 <td class="baseTD tdHead"><strong>M3@NeeSoon</strong></td>
-<td class="baseTD tdHead"><strong> National Heritage Board </strong> <br /> <br /> <br />新加坡国家文物局<br /> <br />Lembaga Warisan Negara <br /> <br />தேசிய மரபுடைமைக் கழகம்</td>
-<td class="baseTD tdHead"><strong>Esplanade &ndash; Theatres on the Bay </strong> <br /> <br /><br /> 滨海艺术中心<br /> <br />Esplanade &ndash; Teater di Persisiran <br /> <br />எஸ்பிளனேட் &ndash; கடலோரக்கலை அரங்குகள்</td>
-<td class="baseTD tdHead"><strong>Cultural Immersion through Engaged and Experiential Learning</strong><br /> <br />அனுபவவழித் தமிழ்ப் பண்பாட்டுக் கற்றல் பயணம்</td>
+<td class="baseTD tdHead"><strong> National Heritage Board </strong> </td>
+<td class="baseTD tdHead"><strong>Esplanade &ndash; Theatres on the Bay </strong> </td>
+<td class="baseTD tdHead"><strong>Cultural Immersion through Engaged and Experiential Learning</strong></td>
 </tr>
 <tr>
 <td class="baseTD ">
@@ -161,10 +150,10 @@ width:25%
 <td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c12">More info</a></td>
 </tr>
  <tr>
-<td class="baseTD tdHead"><strong>Seeding a Reading Culture</strong> <br /> <br /><br />播下阅读的种子，让孩子爱上阅读<br /> <br />Menyemai Budaya Membaca<br /> <br />வாசிப்புக் கலாசாரத்தை வளர்ப்போம்</td>
-<td class="baseTD tdHead"><strong> Garden of Cultural Diversity </strong> <br /> <br /><br />文化意涵丰富的母语乐园<br /> <br />Taman Kepelbagaian Budaya<br /> <br />பல்லினப் பண்பாட்டுப் பூங்கா</td>
-<td class="baseTD tdHead"><strong>Neighbours in the Wild </strong> <br /> <br /><br />我们的野生邻居<br /> <br />Jiran di Alam Liar<br /> <br />வனத்தில் நண்பர்கள்</td>
-<td class="baseTD tdHead"><strong>Fun Learning Chinese</strong><br /> <br />乐学华文</td>
+<td class="baseTD tdHead"><strong>Seeding a Reading Culture</strong> </td>
+<td class="baseTD tdHead"><strong> Garden of Cultural Diversity </strong> </td>
+<td class="baseTD tdHead"><strong>Neighbours in the Wild </strong> </td>
+<td class="baseTD tdHead"><strong>Fun Learning Chinese</strong></td>
 </tr>
 <tr>
 <td class="baseTD ">
