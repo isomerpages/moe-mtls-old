@@ -4,12 +4,9 @@
 #                                #
 ##################################
 
-- title: Our Journey
+- title: About Us
   url: /our-journey/
-
-- title: Discovery Land
-  url: /discovery-land/
-
+  
 - title: Sharing Sessions
   url: /sharesessions/
   sub-links:
@@ -22,10 +19,13 @@
   - title: Tamil
     url: /sharesessions/Tamil/
 
+- title: Discovery Land
+  url: /discovery-land/
+
 - title: Carnival
   url: /left-nav-three/sub-page-C/
   sub-links:
-  - title: Pre-School
+  - title: Pre-Schools
     url: /left-nav-three/sub-page-A/
   - title: Schools
     url: /left-nav-three/sub-page-B/
