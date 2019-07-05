@@ -6,28 +6,92 @@ breadcrumb: Pre-School Booths
 collection_name: left-nav-three
 ---
 
-<table>
-<tr>
-  <td>
-    P1 LOVE, LEARN, LIVE WITH CHINESE
-    <br>在生活中“乐”学华文
-    <br>My First Skool at Blk 681A Jurong West
-  </td>
-  <td>
-    P2 LEARNING CHINESE THROUGH FUN GAMES
-    <br>从游戏中学习华文
-    <br>PCF Sparkletots Preschool @ Hong Kah North Blk 748
-  </td>  
-  <td>
-    P1 LOVE, LEARN, LIVE WITH CHINESE
-    <br>在生活中“乐”学华文
-    <br>My First Skool at Blk 681A Jurong West
-  </td>
-  <td>
-    P2 LEARNING CHINESE THROUGH FUN GAMES
-    <br>从游戏中学习华文
-    <br>PCF Sparkletots Preschool @ Hong Kah North Blk 748
-  </td>  
-</tr>
+<style>
+.tdHead{
+ vertical-align: top;
+ padding: 7px;
+   
+ 
+}
+.bottomBoxOdd{
+background-color: #5c3b96;
+padding: 7px;
+color: #ffffff;
+  
+line-height :1.5rem !important;
+}
+.bottomBoxEven{
+  background-color: #8d3278;
+  padding: 7px;
+  color: #ffffff;
+  
+  line-height :1.5rem !important;
+}
+.baseTD{
+width:25%
+}
+ 
+.btnInfo {
+    background: #ab81f5;
+    color: #fff !important;
+    display: block;
+    padding: 20px 10px;
+    text-align: center;
+    text-decoration: none !important;
+    width: 200px;
+    border-radius: 20px !important;  
+}
+.btnInfo {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.btnInfo:hover {
+    background: #583399;
+}
+</style>
+<table style="width:100%;" cellspacing="20" cellpadding="20">
 
-</table>
+<tr>
+  <td class="baseTD tdHead">
+   <b>The Joy of Learning Chinese</b><br>
+  </td>
+  <td class="baseTD tdHead"> <b> Treasure Hunting in the Museum</b><br>
+  </td>
+  <td class="baseTD tdHead"> <b>Language Alive – The Experiential Approach </b><br>
+  </td>
+  <td class="baseTD tdHead"><b>Exploring Chinese Cultural Arts- : Chinese Opera</b><br>
+  </td>
+</tr>
+<tr>
+<td class="baseTD ">
+  <p class="bottomBoxOdd"> Pat's Schoolhouse Sembawang </p></td>
+ 
+<td class="baseTD ">
+   <p class="bottomBoxEven"> Presbyterian Community Services (Yishun Centre)<br>长老会社区服务义顺托儿所 </p> </td>
+ 
+<td class="baseTD ">
+ <p class="bottomBoxOdd">TOUCH Child Care (Clementi)<br>触爱托儿中心（金文泰）
+</p></td>
+<td class="baseTD">
+ <p class="bottomBoxEven"> EtonHouse Zhong Hua Pre-School<br>伊顿中华幼儿园
+</p> 
+</td>
+</tr>
+  <tr>
+    <td> 
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c1"  class="btnInfo">More info</a>
+    </td>
+    <td> 
+		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c2"  class="btnInfo">More info</a>
+    </td>
+    <td>
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c3"  class="btnInfo">More info</a>
+    </td>
+    <td>
+   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c4"  class="btnInfo">More info</a>
+    </td>
+  </tr>
+  
+</table> 
