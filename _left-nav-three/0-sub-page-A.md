@@ -134,23 +134,12 @@ width:25%
     </td>
   </tr>
   <tr>
-  <td class="baseTD tdHead">
-   <b>Differentiated Approach in the Learning of Mother Tongue Languages</b><br>
-  </td>
-  <td class="baseTD tdHead"> <b>Integrated Approach to Teaching and Learning of MTL Leveraging the MK Total Curriculum</b><br>
-  </td>
   <td class="baseTD tdHead"> <b>Learning Tamil through Fun-Filled Activities</b><br>
   </td>
   <td class="baseTD tdHead"><b>Learning Tamil through traditional activities</b><br>
   </td>
 </tr>
 <tr>
-<td class="baseTD ">
-  <p class="bottomBoxOdd"> MOE Kindergarten @ Blangah Rise</p></td>
- 
-<td class="baseTD ">
-   <p class="bottomBoxEven">MOE Kindergarten @ Punggol Cove </p> </td>
- 
 <td class="baseTD ">
  <p class="bottomBoxOdd">PCF Sparkletots Preschool @ Teck Ghee Blk 466 (KN)
 </p></td>
@@ -160,12 +149,6 @@ width:25%
 </td>
 </tr>
   <tr>
-    <td> 
-	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=PS9M"  class="btnInfo">More info</a>
-    </td>
-    <td> 
-		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=CP10M"  class="btnInfo">More info</a>
-    </td>
     <td>
 	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=PS7T"  class="btnInfo">More info</a>
     </td>
@@ -180,21 +163,4 @@ width:25%
   <td class="baseTD tdHead"> <b>Integrated approach to teaching and learning of MTL leveraging the MK total curriculum</b><br>
   </td>
 </tr>
-<tr>
-<td class="baseTD ">
-  <p class="bottomBoxOdd"> MOE Kindergarten @ Blangah Rise</p></td>
- 
-<td class="baseTD ">
-   <p class="bottomBoxEven">MOE Kindergarten @ Punggol Cove </p> </td>
- 
-</tr>
-  <tr>
-    <td> 
-	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=PS9T"  class="btnInfo">More info</a>
-    </td>
-    <td> 
-		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=PS10T"  class="btnInfo">More info</a>
-    </td>
-  </tr>
-  
 </table> 
