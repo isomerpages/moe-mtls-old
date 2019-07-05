@@ -132,5 +132,45 @@ width:25%
    	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c4"  class="btnInfo">More info</a>
     </td>
   </tr>
+  <tr>
+  <td class="baseTD tdHead">
+   <b>Using Short Stories to Teach Malay Language</b><br>
+  </td>
+  <td class="baseTD tdHead"> <b>Use of Seesaw in Teaching and Learning of Malay Language</b><br>
+  </td>
+  <td class="baseTD tdHead"> <b>Fun Learning @ Shuqun</b><br>
+  </td>
+  <td class="baseTD tdHead"><b>Enhancing Oral Competencies through Interactive Games </b><br>
+  </td>
+</tr>
+<tr>
+<td class="baseTD ">
+  <p class="bottomBoxOdd">Clementi Primary School<br>Sekolah Rendah Clementi </p></td>
+ 
+<td class="baseTD ">
+   <p class="bottomBoxEven"> Tampines Primary School<br>Sekolah Rendah Tampines</p> </td>
+ 
+<td class="baseTD ">
+ <p class="bottomBoxOdd">Shuqun Primary School<br>Sekolah Rendah Shuqun
+</p></td>
+<td class="baseTD">
+ <p class="bottomBoxEven">Changkat Changi Secondary School<br>Sekolah Menengah Changkat Changi
+</p> 
+</td>
+</tr>
+  <tr>
+    <td> 
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c1"  class="btnInfo">More info</a>
+    </td>
+    <td> 
+		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c2"  class="btnInfo">More info</a>
+    </td>
+    <td>
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c3"  class="btnInfo">More info</a>
+    </td>
+    <td>
+   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c4"  class="btnInfo">More info</a>
+    </td>
+  </tr>
   
 </table> 
