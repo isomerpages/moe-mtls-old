@@ -106,16 +106,56 @@ width:25%
 </tr>
 <tr>
 <td class="baseTD ">
-  <p class="bottomBoxOdd"> MOE Kindergarten @ Blangah Rise<br>教育部幼儿园（布兰雅坡）</p></td>
+  <p class="bottomBoxOdd"> MOE Kindergarten @ Blangah Rise<br>教育部幼儿园<br>（布兰雅坡）</p></td>
  
 <td class="baseTD ">
-   <p class="bottomBoxEven"> MOE Kindergarten @ Punggol Cove<br>教育部幼儿园（湾景）</p> </td>
+   <p class="bottomBoxEven"> MOE Kindergarten @ Punggol Cove<br>教育部幼儿园<br>（湾景）</p> </td>
  
 <td class="baseTD ">
  <p class="bottomBoxOdd">My First Skool at Blk 803 Tampines
 </p></td>
 <td class="baseTD">
  <p class="bottomBoxEven">PCF Sparkletots Preschool @ Tampines Central Blk 725 (DS)
+</p> 
+</td>
+</tr>
+  <tr>
+    <td> 
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c1"  class="btnInfo">More info</a>
+    </td>
+    <td> 
+		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c2"  class="btnInfo">More info</a>
+    </td>
+    <td>
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c3"  class="btnInfo">More info</a>
+    </td>
+    <td>
+   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c4"  class="btnInfo">More info</a>
+    </td>
+  </tr>
+  <tr>
+  <td class="baseTD tdHead">
+   <b>Differentiated Approach in the Learning of Mother Tongue Languages</b><br>
+  </td>
+  <td class="baseTD tdHead"> <b>Integrated Approach to Teaching and Learning of MTL Leveraging the MK Total Curriculum</b><br>
+  </td>
+  <td class="baseTD tdHead"> <b>Learning Tamil through Fun-Filled Activities</b><br>
+  </td>
+  <td class="baseTD tdHead"><b>Learning Tamil through traditional activities</b><br>
+  </td>
+</tr>
+<tr>
+<td class="baseTD ">
+  <p class="bottomBoxOdd"> MOE Kindergarten @ Blangah Rise</p></td>
+ 
+<td class="baseTD ">
+   <p class="bottomBoxEven">MOE Kindergarten @ Punggol Cove </p> </td>
+ 
+<td class="baseTD ">
+ <p class="bottomBoxOdd">PCF Sparkletots Preschool @ Teck Ghee Blk 466 (KN)
+</p></td>
+<td class="baseTD">
+ <p class="bottomBoxEven">PCF Sparkletots Preschool @Yio Chu Kang Blk 644 (KN)
 </p> 
 </td>
 </tr>
