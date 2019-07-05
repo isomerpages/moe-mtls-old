@@ -242,12 +242,5 @@ width:25%
     <td>
    	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S15T"  class="btnInfo">More info</a>
     </td>
-  </tr>
-  <tr>
-  <td class="baseTD tdHead">
-   <b>Active Learning, Joyful Learners through the use of ICT Platforms</b><br>
-  </td>
-  
-</tr>
-  
+  </tr>  
 </table> 
