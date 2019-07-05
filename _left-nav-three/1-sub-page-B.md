@@ -212,5 +212,45 @@ width:25%
    	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c4"  class="btnInfo">More info</a>
     </td>
   </tr>
+  <tr>
+  <td class="baseTD tdHead">
+   <b>Snap The Characters Away</b><br>
+  </td>
+  <td class="baseTD tdHead"> <b>Once upon a time….</b><br>
+  </td>
+  <td class="baseTD tdHead"> <b>Click- Think- Connect ICT enabled process for harnessing students’ content acquisition through Critical Thinking. </b><br>
+  </td>
+  <td class="baseTD tdHead"><b>MTL Language Elective Programmes at the JC Level</b><br>
+  </td>
+</tr>
+<tr>
+<td class="baseTD ">
+  <p class="bottomBoxOdd"> Bedok Green Primary School<br>பிடோக் கிரீன் தொடக்கப்பள்ளி</p></td>
+ 
+<td class="baseTD ">
+   <p class="bottomBoxEven">Greendale Primary School<br>கிரீன்டேல் உயர்நிலைப்பள்ளி  </p> </td>
+ 
+<td class="baseTD ">
+ <p class="bottomBoxOdd">Chua Chu Kang Secondary<br>சுவா சூ காங் உயர்நிலைப் பள்ளி
+</p></td>
+<td class="baseTD">
+ <p class="bottomBoxEven">Pre-U CL/ML/TL
+</p> 
+</td>
+</tr>
+  <tr>
+    <td> 
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c1"  class="btnInfo">More info</a>
+    </td>
+    <td> 
+		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c2"  class="btnInfo">More info</a>
+    </td>
+    <td>
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c3"  class="btnInfo">More info</a>
+    </td>
+    <td>
+   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c4"  class="btnInfo">More info</a>
+    </td>
+  </tr>
   
 </table> 
