@@ -252,5 +252,22 @@ width:25%
    	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c4"  class="btnInfo">More info</a>
     </td>
   </tr>
+  <tr>
+  <td class="baseTD tdHead">
+   <b>Active Learning, Joyful Learners through the use of ICT Platforms</b><br>
+  </td>
+  
+</tr>
+<tr>
+<td class="baseTD ">
+  <p class="bottomBoxOdd"> Princess Elizabeth Primary School</p></td>
+ 
+</tr>
+  <tr>
+    <td> 
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c1"  class="btnInfo">More info</a>
+    </td>
+   
+  </tr>
   
 </table> 
