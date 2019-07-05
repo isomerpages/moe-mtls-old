@@ -72,10 +72,50 @@ width:25%
    <p class="bottomBoxEven"> Presbyterian Community Services (Yishun Centre)<br>长老会社区服务义顺托儿所 </p> </td>
  
 <td class="baseTD ">
- <p class="bottomBoxOdd">TOUCH Child Care (Clementi)<br>触爱托儿中心（金文泰）
+ <p class="bottomBoxOdd">TOUCH Child Care (Clementi)<br>触爱托儿中心<br>（金文泰）
 </p></td>
 <td class="baseTD">
  <p class="bottomBoxEven"> EtonHouse Zhong Hua Pre-School<br>伊顿中华幼儿园
+</p> 
+</td>
+</tr>
+  <tr>
+    <td> 
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c1"  class="btnInfo">More info</a>
+    </td>
+    <td> 
+		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c2"  class="btnInfo">More info</a>
+    </td>
+    <td>
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c3"  class="btnInfo">More info</a>
+    </td>
+    <td>
+   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c4"  class="btnInfo">More info</a>
+    </td>
+  </tr>
+  <tr>
+  <td class="baseTD tdHead">
+   <b>Differentiated Approach in the Learning of Mother Tongue Languages</b><br>
+  </td>
+  <td class="baseTD tdHead"> <b> Integrated Approach to Teaching and Learning of MTL Leveraging the MK Total Curriculum</b><br>
+  </td>
+  <td class="baseTD tdHead"> <b>Love Our Malay Languages through the Past and Present Games</b><br>
+  </td>
+  <td class="baseTD tdHead"><b>Language in the Wild</b><br>
+  </td>
+</tr>
+<tr>
+<td class="baseTD ">
+  <p class="bottomBoxOdd"> MOE Kindergarten @ Blangah Rise<br>教育部幼儿园（布兰雅坡）</p></td>
+ 
+<td class="baseTD ">
+   <p class="bottomBoxEven"> MOE Kindergarten @ Punggol Cove<br>教育部幼儿园（湾景）</p> </td>
+ 
+<td class="baseTD ">
+ <p class="bottomBoxOdd">My First Skool at Blk 803 Tampines
+</p></td>
+<td class="baseTD">
+ <p class="bottomBoxEven">PCF Sparkletots Preschool @ Tampines Central Blk 725 (DS)
 </p> 
 </td>
 </tr>
