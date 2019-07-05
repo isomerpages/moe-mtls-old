@@ -92,5 +92,45 @@ width:25%
    	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c4"  class="btnInfo">More info</a>
     </td>
   </tr>
+  <tr>
+  <td class="baseTD tdHead">
+   <b>Developing Confident Communicators Through An Enriched Global Education</b><br>
+  </td>
+  <td class="baseTD tdHead"> <b>Nurturing Confident Writers</b><br>
+  </td>
+  <td class="baseTD tdHead"> <b>MTL Education at the Pre-U Level</b><br>
+  </td>
+  <td class="baseTD tdHead"><b>Active Learning, Joyful Learners through the use of ICT Platforms</b><br>
+  </td>
+</tr>
+<tr>
+<td class="baseTD ">
+  <p class="bottomBoxOdd">St Hilda’s Primary School<br> 圣希尔达小学 </p></td>
+ 
+<td class="baseTD ">
+   <p class="bottomBoxEven">Evergreen Secondary School<br>永青中学 </p> </td>
+ 
+<td class="baseTD ">
+ <p class="bottomBoxOdd">Pre-U<br>高中
+</p></td>
+<td class="baseTD">
+ <p class="bottomBoxEven">Princess Elizabeth Primary School
+</p> 
+</td>
+</tr>
+  <tr>
+    <td> 
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c1"  class="btnInfo">More info</a>
+    </td>
+    <td> 
+		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c2"  class="btnInfo">More info</a>
+    </td>
+    <td>
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c3"  class="btnInfo">More info</a>
+    </td>
+    <td>
+   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c4"  class="btnInfo">More info</a>
+    </td>
+  </tr>
   
 </table> 
