@@ -172,5 +172,45 @@ width:25%
    	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c4"  class="btnInfo">More info</a>
     </td>
   </tr>
+  <tr>
+  <td class="baseTD tdHead">
+   <b>MTL Language Elective Programmes at the JC Level</b><br>
+  </td>
+  <td class="baseTD tdHead"> <b></b><br>
+  </td>
+  <td class="baseTD tdHead"> <b>Active Learning, Joyful Learners through the use of ICT Platforms</b><br>
+  </td>
+  <td class="baseTD tdHead"><b>Enthuse A Primary Classroom with MK small readers!</b><br>
+  </td>
+</tr>
+<tr>
+<td class="baseTD ">
+  <p class="bottomBoxOdd">Pre-U<br>Pra-U </p></td>
+ 
+<td class="baseTD ">
+   <p class="bottomBoxEven"> MOE-HQ CPDD MTLB Curriculum Booth*</p> </td>
+ 
+<td class="baseTD ">
+ <p class="bottomBoxOdd">ICT in MTL Learning Princess Elizabeth Primary School<br>ICT dalam Pembelajaran Bahasa Ibunda Sekolah Rendah Princess Elizabeth
+</p></td>
+<td class="baseTD">
+ <p class="bottomBoxEven">Geylang Methodist School (Primary) <br>கேலாங் மெதடிஸ்ட் தொடக்கப்பள்ளி
+</p> 
+</td>
+</tr>
+  <tr>
+    <td> 
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c1"  class="btnInfo">More info</a>
+    </td>
+    <td> 
+		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c2"  class="btnInfo">More info</a>
+    </td>
+    <td>
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c3"  class="btnInfo">More info</a>
+    </td>
+    <td>
+   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c4"  class="btnInfo">More info</a>
+    </td>
+  </tr>
   
 </table> 
