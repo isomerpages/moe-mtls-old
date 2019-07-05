@@ -178,9 +178,10 @@ width:25%
   </td>
   <td class="baseTD tdHead"> <b></b><br>
   </td>
-  <td class="baseTD tdHead"> <b>Active Learning, Joyful Learners through the use of ICT Platforms</b><br>
-  </td>
   <td class="baseTD tdHead"><b>Enthuse A Primary Classroom with MK small readers!</b><br>
+  </td>
+<td class="baseTD tdHead">
+   <b>Snap The Characters Away</b><br>
   </td>
 </tr>
 <tr>
@@ -189,14 +190,12 @@ width:25%
  
 <td class="baseTD ">
    <p class="bottomBoxEven"> MOE-HQ CPDD MTLB Curriculum Booth*</p> </td>
- 
-<td class="baseTD ">
- <p class="bottomBoxOdd">ICT in MTL Learning Princess Elizabeth Primary School<br>ICT dalam Pembelajaran Bahasa Ibunda Sekolah Rendah Princess Elizabeth
-</p></td>
 <td class="baseTD">
  <p class="bottomBoxEven">Geylang Methodist School (Primary) <br>கேலாங் மெதடிஸ்ட் தொடக்கப்பள்ளி
 </p> 
 </td>
+<td class="baseTD ">
+  <p class="bottomBoxOdd"> Bedok Green Primary School<br>பிடோக் கிரீன் தொடக்கப்பள்ளி</p></td>
 </tr>
   <tr>
     <td> 
@@ -206,16 +205,13 @@ width:25%
 		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S16M"  class="btnInfo">More info</a>
     </td>
     <td>
-	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S17M"  class="btnInfo">More info</a>
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S9T"  class="btnInfo">More info</a>
     </td>
     <td>
-   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S9T"  class="btnInfo">More info</a>
+   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S10T"  class="btnInfo">More info</a>
     </td>
   </tr>
   <tr>
-  <td class="baseTD tdHead">
-   <b>Snap The Characters Away</b><br>
-  </td>
   <td class="baseTD tdHead"> <b>Once upon a time….</b><br>
   </td>
   <td class="baseTD tdHead"> <b>Click- Think- Connect ICT enabled process for harnessing students’ content acquisition through Critical Thinking. </b><br>
@@ -224,8 +220,6 @@ width:25%
   </td>
 </tr>
 <tr>
-<td class="baseTD ">
-  <p class="bottomBoxOdd"> Bedok Green Primary School<br>பிடோக் கிரீன் தொடக்கப்பள்ளி</p></td>
  
 <td class="baseTD ">
    <p class="bottomBoxEven">Greendale Primary School<br>கிரீன்டேல் உயர்நிலைப்பள்ளி  </p> </td>
@@ -239,9 +233,6 @@ width:25%
 </td>
 </tr>
   <tr>
-    <td> 
-	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S10T"  class="btnInfo">More info</a>
-    </td>
     <td> 
 		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S11T"  class="btnInfo">More info</a>
     </td>
@@ -258,16 +249,5 @@ width:25%
   </td>
   
 </tr>
-<tr>
-<td class="baseTD ">
-  <p class="bottomBoxOdd"> Princess Elizabeth Primary School</p></td>
- 
-</tr>
-  <tr>
-    <td> 
-	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S17T"  class="btnInfo">More info</a>
-    </td>
-   
-  </tr>
   
 </table> 
