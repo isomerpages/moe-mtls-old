@@ -173,5 +173,28 @@ width:25%
    	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c4"  class="btnInfo">More info</a>
     </td>
   </tr>
+  <tr>
+  <td class="baseTD tdHead">
+   <b>Differentiated Approach in the Learning of Mother Tongue Languages</b><br>
+  </td>
+  <td class="baseTD tdHead"> <b>Integrated approach to teaching and learning of MTL leveraging the MK total curriculum</b><br>
+  </td>
+</tr>
+<tr>
+<td class="baseTD ">
+  <p class="bottomBoxOdd"> MOE Kindergarten @ Blangah Rise</p></td>
+ 
+<td class="baseTD ">
+   <p class="bottomBoxEven">MOE Kindergarten @ Punggol Cove </p> </td>
+ 
+</tr>
+  <tr>
+    <td> 
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c1"  class="btnInfo">More info</a>
+    </td>
+    <td> 
+		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c2"  class="btnInfo">More info</a>
+    </td>
+  </tr>
   
 </table> 
