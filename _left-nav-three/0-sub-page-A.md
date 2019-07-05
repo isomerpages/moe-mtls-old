@@ -164,7 +164,7 @@ width:25%
 	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=PS9M"  class="btnInfo">More info</a>
     </td>
     <td> 
-		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=PS10M"  class="btnInfo">More info</a>
+		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=CP10M"  class="btnInfo">More info</a>
     </td>
     <td>
 	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=PS7T"  class="btnInfo">More info</a>
