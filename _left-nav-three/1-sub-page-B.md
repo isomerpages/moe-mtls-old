@@ -80,16 +80,16 @@ width:25%
 </tr>
   <tr>
     <td> 
-	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c1"  class="btnInfo">More info</a>
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S1C"  class="btnInfo">More info</a>
     </td>
     <td> 
-		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c2"  class="btnInfo">More info</a>
+		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S2C"  class="btnInfo">More info</a>
     </td>
     <td>
-	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c3"  class="btnInfo">More info</a>
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S3C"  class="btnInfo">More info</a>
     </td>
     <td>
-   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c4"  class="btnInfo">More info</a>
+   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S4C"  class="btnInfo">More info</a>
     </td>
   </tr>
   <tr>
@@ -120,16 +120,16 @@ width:25%
 </tr>
   <tr>
     <td> 
-	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c1"  class="btnInfo">More info</a>
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S5C"  class="btnInfo">More info</a>
     </td>
     <td> 
-		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c2"  class="btnInfo">More info</a>
+		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S12C"  class="btnInfo">More info</a>
     </td>
     <td>
-	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c3"  class="btnInfo">More info</a>
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S15C"  class="btnInfo">More info</a>
     </td>
     <td>
-   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c4"  class="btnInfo">More info</a>
+   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S17C"  class="btnInfo">More info</a>
     </td>
   </tr>
   <tr>
@@ -160,16 +160,16 @@ width:25%
 </tr>
   <tr>
     <td> 
-	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c1"  class="btnInfo">More info</a>
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S6M"  class="btnInfo">More info</a>
     </td>
     <td> 
-		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c2"  class="btnInfo">More info</a>
+		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S7M"  class="btnInfo">More info</a>
     </td>
     <td>
-	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c3"  class="btnInfo">More info</a>
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S8M"  class="btnInfo">More info</a>
     </td>
     <td>
-   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c4"  class="btnInfo">More info</a>
+   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S13M"  class="btnInfo">More info</a>
     </td>
   </tr>
   <tr>
@@ -200,16 +200,16 @@ width:25%
 </tr>
   <tr>
     <td> 
-	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c1"  class="btnInfo">More info</a>
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S15M"  class="btnInfo">More info</a>
     </td>
     <td> 
-		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c2"  class="btnInfo">More info</a>
+		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S16M"  class="btnInfo">More info</a>
     </td>
     <td>
-	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c3"  class="btnInfo">More info</a>
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S17M"  class="btnInfo">More info</a>
     </td>
     <td>
-   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c4"  class="btnInfo">More info</a>
+   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S9T"  class="btnInfo">More info</a>
     </td>
   </tr>
   <tr>
@@ -240,16 +240,16 @@ width:25%
 </tr>
   <tr>
     <td> 
-	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c1"  class="btnInfo">More info</a>
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S10T"  class="btnInfo">More info</a>
     </td>
     <td> 
-		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c2"  class="btnInfo">More info</a>
+		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S11T"  class="btnInfo">More info</a>
     </td>
     <td>
-	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c3"  class="btnInfo">More info</a>
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S14T"  class="btnInfo">More info</a>
     </td>
     <td>
-   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c4"  class="btnInfo">More info</a>
+   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S15T"  class="btnInfo">More info</a>
     </td>
   </tr>
   <tr>
@@ -265,7 +265,7 @@ width:25%
 </tr>
   <tr>
     <td> 
-	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c1"  class="btnInfo">More info</a>
+	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S17T"  class="btnInfo">More info</a>
     </td>
    
   </tr>
