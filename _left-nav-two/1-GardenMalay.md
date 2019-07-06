@@ -61,7 +61,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>4.15pm - 4.25pm
-    <br>Malay Drama by Students
+    <br><b>Title: </b>Malay Drama by Students
     <br><b>Performing Group: </b>Admiralty Primary
     </td>
   </tr>
