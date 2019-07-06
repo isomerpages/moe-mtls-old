@@ -5,6 +5,7 @@ permalink: /discovery-land/
 breadcrumb: Discovery Land
 --- 
 
+<img src="/images/DiscoveryLandTop.png" alt=""  />
 
 #### Discovery Land
 
