@@ -6,73 +6,78 @@ breadcrumb: Tamil Performances
 collection_name: left-nav-two
 ---
 
+
+ #### Performance Schedule
+
+ 
+
 <table class="table-h">
   <tr>
     <td COLSPAN="2">
-    1.55pm - 2.05pm
-    <br>Spreading the Spirit of Tamil (Preschool Tamil Dance)
-    <br>Khalsa Kindergarten
+    <b>Time: </b>1.55pm - 2.05pm
+    <br><b>Title: </b>Spreading the Spirit of Tamil (Preschool Tamil Dance)
+    <br><b>Performing Group: </b>Khalsa Kindergarten
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
-    2.05pm - 2.15pm
-    <br>Story Telling 
-    <br>St. Stephen's School
+    <b>Time: </b>2.05pm - 2.15pm
+    <br><b>Title: </b>Story Telling 
+    <br><b>Performing Group: </b>St. Stephen's School
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
-    2.15pm - 2.25pm
-    <br>Big Book reading 
-    <br>MOE Kindergarten @ Northoaks
+    <b>Time: </b>2.15pm - 2.25pm
+    <br><b>Title: </b>Big Book reading 
+    <br><b>Performing Group: </b>MOE Kindergarten @ Northoaks
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
-    2.25pm - 2.35pm
-    <br>Play - Sang Nila Utama
-    <br>Athipathi International Theatre(vendor) (NHB)
+    <b>Time: </b>2.25pm - 2.35pm
+    <br><b>Title: </b>Play - Sang Nila Utama
+    <br><b>Performing Group: </b>Athipathi International Theatre(vendor) (NHB)
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
-    2.35pm - 2.55pm
-    <br>Quiz Time
+    <b>Time: </b>2.35pm - 2.55pm
+    <br><b>Title: </b>Quiz Time
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
-    6.00pm - 6.10pm
-    <br>Dramatised Storytelling - Rani Kalah Kadhai Neram
+    <b>Time: </b>6.00pm - 6.10pm
+    <br><b>Title: </b>Dramatised Storytelling - Rani Kalah Kadhai Neram
     <br>AKT
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
-    6.10pm - 6.20pm
+    <b>Time: </b>6.10pm - 6.20pm
     <br>Skit Presentation Using masks
-    <br>Corporation Primary School
+    <br><b>Performing Group: </b>Corporation Primary School
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
-    6.20pm - 6.30pm
-    <br>Using Self-made puppets and jingles in Story telling
-    <br>Xing Hua Primary School
+    <b>Time: </b>6.20pm - 6.30pm
+    <br><b>Title: </b>Using Self-made puppets and jingles in Story telling
+    <br><b>Performing Group: </b>Xing Hua Primary School
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
-    6.30pm - 6.40pm
-    <br>Interactive Activities
-    <br>NIE Dip-in-Ed Students
+    <b>Time: </b>6.30pm - 6.40pm
+    <br><b>Title: </b>Interactive Activities
+    <br><b>Performing Group: </b>NIE Dip-in-Ed Students
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
-    6.40pm - 6.50pm
-    <br>Quiz Time
+    <b>Time: </b>6.40pm - 6.50pm
+    <br><b>Title: </b>Quiz Time
     </td>
   </tr>
 </table>
