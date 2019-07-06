@@ -137,7 +137,7 @@ width:25%
 <p class="bottomBoxEven">National Heritage Board <br />新加坡国家文物局</p>
 </td>
 <td class="baseTD ">
-<p class="bottomBoxOdd">The Esplanade Co Ltd<br />滨海艺术中心<br />எஸ்பிளனேட்</p>
+<p class="bottomBoxOdd">The Esplanade Co Ltd<br />滨海艺术中心<br />Esplanade – Teater di Persisiran<br/> எஸ்பிளனேட்</p>
 </td>
 <td class="baseTD">
 <p class="bottomBoxEven">Umar Pulavar Tamil Language Centre (UPTLC) <br />உமறுப்புலவர் தமிழ்மொழி நிலையம்</p>
