@@ -6,9 +6,8 @@ breadcrumb: Malay Performances
 collection_name: left-nav-two
 ---
 
+#### Performance Schedule
 
- #### Performance Schedule
- 
  
 <table class="table-h">
   <tr>
@@ -70,7 +69,7 @@ collection_name: left-nav-two
     <td COLSPAN="2">
     <b>Time: </b>4.25pm - 4.35pm
     <br><b>Title: </b>Sing and Dance - Bangau oh Bangau
-    <br>The Bambini SG
+    <br><b>Performing Group: </b>The Bambini SG
     </td>
   </tr>
   <tr>
