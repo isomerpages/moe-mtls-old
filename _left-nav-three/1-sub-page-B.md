@@ -178,7 +178,7 @@ width:25%
   </td>
   <td class="baseTD tdHead"> <b></b><br>
   </td>
-  <td class="baseTD tdHead"><b>Enthuse A Primary Classroom with MK small readers!</b><br>
+  <td class="baseTD tdHead"><b>Enthuse a Primary Classroom With MK Small readers!</b><br>
   </td>
 <td class="baseTD tdHead">
    <b>Snap The Characters Away</b><br>
