@@ -6,11 +6,9 @@ breadcrumb: Tamil Performances
 collection_name: left-nav-two
 ---
 
-
- #### Performance Schedule
+#### Performance Schedule
 
  
-
 <table class="table-h">
   <tr>
     <td COLSPAN="2">
@@ -50,7 +48,7 @@ collection_name: left-nav-two
     <td COLSPAN="2">
     <b>Time: </b>6.00pm - 6.10pm
     <br><b>Title: </b>Dramatised Storytelling - Rani Kalah Kadhai Neram
-    <br>AKT
+    <br><b>Performing Group: </b>AKT
     </td>
   </tr>
    <tr>
