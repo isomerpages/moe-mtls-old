@@ -124,14 +124,14 @@ width:25%
 </tr>
   
 <tr>
-<td class="baseTD tdHead"><strong>M3@NeeSoon</strong><br></td>
+	<td class="baseTD tdHead"><strong>M<sup>3</sup>@NeeSoon</strong><br></td>
 <td class="baseTD tdHead"><strong> National Heritage Board </strong> <br></td>
 <td class="baseTD tdHead"><strong>Esplanade &ndash; Theatres on the Bay </strong><br> </td>
 <td class="baseTD tdHead"><strong>Cultural Immersion through Engaged and Experiential Learning</strong><br></td>
 </tr>
 <tr>
 <td class="baseTD ">
-<p class="bottomBoxOdd">M3@NeeSoon</p>
+<p class="bottomBoxOdd">M<sup>3</sup>@NeeSoon</p>
 </td>
 <td class="baseTD ">
 <p class="bottomBoxEven">National Heritage Board <br />新加坡国家文物局</p>
