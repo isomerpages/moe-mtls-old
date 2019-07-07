@@ -20,7 +20,7 @@ collection_name: left-nav-one
   <tr>
     <td>
     </td>
-    <td><b>Speaker:</b> Dr Shamiah Abdul Razak <br><b>Topic:</b> Embedding Language Learning in Everyday Life <br><b>Format: Sharing</b><br><b>Time:</b> 1.45pm - 2.45pm <br><b>Venue:</b> Room 311
+    <td><b>Speaker:</b> Ms Shamiah Abdul Razak <br><b>Topic:</b> Embedding Language Learning in Everyday Life <br><b>Format: Sharing</b><br><b>Time:</b> 1.45pm - 2.45pm <br><b>Venue:</b> Room 311
   </td>
    <td>
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=E2"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
@@ -47,9 +47,9 @@ collection_name: left-nav-one
       <tr>
     <td>
     </td>
-    <td><b>Speaker:</b> Lee Wei Hui (Ms)
-      <br>Michelle Lee Qiaorou (Ms)
-      <br>Chua Yinghan (Ms)
+    <td><b>Speaker:</b> Ms Lee Wei Hui 
+      <br> Ms Michelle Lee Qiaorou 
+      <br> Ms Chua Yinghan
 <br><b>Topic:</b> Understanding 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese <br><b>Format: Sharing</b><br><b>Time:</b> 5.30pm - 6.30pm <br><b>Venue:</b> Room 311
 </td>
    <td>
