@@ -23,14 +23,16 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>11.40am - 11.50am
-    <br><b>Title: </b>“彰德武少年”武术表演<br> Zhangde Wushu Warriors 
+    <br><table>
+<tr><td><b>Title: </b></td><td>“彰德武少年”武术表演</td></tr><tr><td></td><td>Zhangde Wushu Warriors</td></tr>
+</table>
     <br><b>Performing Group: </b>Zhangde Primary School
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>11.50am - 12.00pm
-    <br><b>Title: </b>有奖竞赛<br> Quiz Time
+    <br><b>Title: </b>有奖竞赛<br>&nbsp&nbsp&nbsp&nbsp Quiz Time
     </td>
   </tr>
   <tr>
