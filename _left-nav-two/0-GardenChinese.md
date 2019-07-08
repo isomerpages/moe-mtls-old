@@ -43,7 +43,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>12.10pm - 12.25pm
-    <br><b>Title: </b>（待定）<br><span style="padding-left:62px;">Performance</p>　
+    <br><b>Title: </b>（待定）<br><p style="padding-left:62px;">Performance</p>　
     </td>
   </tr>
   <tr>
@@ -118,7 +118,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>5.15pm - 5.25pm
-    <br><b>Title: </b>（待定）<br><span style="padding-left:62px;">Family-Child Talent Performance </p>
+    <br><b>Title: </b>（待定）<br><p style="padding-left:62px;">Family-Child Talent Performance </p>
     <b>Performing Group: </b>Finalists of Speak Mandarin Campaign Family Talent Compeition 2019 
     </td>
   </tr>
@@ -132,14 +132,14 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>5.35pm - 5.50pm
-    <br><b>Title: </b>Cross Talk “语文学习乐”相声表演<br><span style="padding-left:50px;">Cross Talk</p> 
+    <br><b>Title: </b>Cross Talk “语文学习乐”相声表演<br><p style="padding-left:50px;">Cross Talk</p> 
     <b>Performing Group: </b>Singfeng Cross Talk
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>5.50pm - 6.00pm
-    <br><b>Title: </b>有奖竞赛 <br><span style="padding-left:53px;">Quiz Time</p>　
+    <br><b>Title: </b>有奖竞赛 <br><p style="padding-left:53px;">Quiz Time</p>　
     </td>
   </tr>
 </table>
