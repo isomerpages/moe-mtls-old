@@ -139,7 +139,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>5.50pm - 6.00pm
-    <br><b>Title: </b>有奖竞赛 <br><p style="padding-left:53px;">Quiz Time</p>　
+    <br><b>Title: </b>有奖竞赛 <br><p style="padding-left:53px;margin:0px;">Quiz Time</p>　
     </td>
   </tr>
 </table>
