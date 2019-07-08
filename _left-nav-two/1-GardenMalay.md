@@ -6,6 +6,8 @@ breadcrumb: Malay Performances
 collection_name: left-nav-two
 ---
 
+<img src="/images/17_Singing mascots-02.png" alt="" />
+
 #### Performance Schedule
 
  
