@@ -15,69 +15,69 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>1.55pm - 2.05pm
-    <br><b>Title: </b> நடனம்- சங்கே முழங்கு<br>Spreading the Spirit of Tamil 
-    <br><b>Performing Group: </b>Khalsa Kindergarten
+    <br><b>Title: </b> நடனம்- சங்கே முழங்கு<p style=" padding-left:53px;margin:0px;">Spreading the Spirit of Tamil </p>
+   <b>Performing Group: </b>Khalsa Kindergarten
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>2.05pm - 2.15pm
-    <br><b>Title: </b> நன்னெறிக் கதைகள் சொல்லும் நேரம் <br>Story Telling     
-    <br><b>Performing Group: </b>St. Stephen's School
+    <br><b>Title: </b> நன்னெறிக் கதைகள் சொல்லும் நேரம் <p style=" padding-left:53px;margin:0px;">Story Telling </p>    
+   <b>Performing Group: </b>St. Stephen's School
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>2.15pm - 2.25pm
-    <br><b>Title: </b>பெரிய புத்தக வாசிப்பு <br>Big Book reading 
-    <br><b>Performing Group: </b>MOE Kindergarten @ Northoaks
+    <br><b>Title: </b>பெரிய புத்தக வாசிப்பு <p style=" padding-left:53px;margin:0px;">Big Book reading </p>
+   <b>Performing Group: </b>MOE Kindergarten @ Northoaks
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>2.25pm - 2.35pm
-    <br><b>Title: </b>   நாடகம் - சாங் நீல உத்தமன் <br>Play - Sang Nila Utama
-    <br><b>Performing Group: </b>Athipathi International Theatre(vendor) (NHB)
+    <br><b>Title: </b>   நாடகம் - சாங் நீல உத்தமன் <p style=" padding-left:53px;margin:0px;">Play - Sang Nila Utama</p>
+   <b>Performing Group: </b>Athipathi International Theatre(vendor) (NHB)
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>2.35pm - 2.55pm
-    <br><b>Title: </b>புதிர் நேரம்<br>Quiz Time
+    <br><b>Title: </b>புதிர் நேரம்<p style=" padding-left:53px;margin:0px;">Quiz Time</p>
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
     <b>Time: </b>6.00pm - 6.10pm
-    <br><b>Title: </b>வில்லுப்பாட்டு – சாங் நிலா உத்தமனின் கதை <br>Villupaattu – The story of Sang Nila Uttama
-    <br><b>Performing Group: </b>AKT
+    <br><b>Title: </b>வில்லுப்பாட்டு – சாங் நிலா உத்தமனின் கதை <p style=" padding-left:53px;margin:0px;">Villupaattu – The story of Sang Nila Uttama</p>
+   <b>Performing Group: </b>AKT
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
     <b>Time: </b>6.10pm - 6.20pm
-    <br><b>Title: </b>தமிழில் பேசுவோம்!<br> Let’s speak in Tamil!
-    <br><b>Performing Group: </b>Corporation Primary School
+    <br><b>Title: </b>தமிழில் பேசுவோம்!<p style=" padding-left:53px;margin:0px;"> Let’s speak in Tamil!</p>
+   <b>Performing Group: </b>Corporation Primary School
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
     <b>Time: </b>6.20pm - 6.30pm
-    <br><b>Title: </b>   கைப்பாவையைப் பயன்படுத்திக்  கதை சொல்லும் நேரம் <br>Story Telling using hand made puppets
-    <br><b>Performing Group: </b>Xing Hua Primary School
+    <br><b>Title: </b>   கைப்பாவையைப் பயன்படுத்திக்  கதை சொல்லும் நேரம் <p style=" padding-left:53px;margin:0px;">Story Telling using hand made puppets</p>
+   <b>Performing Group: </b>Xing Hua Primary School
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
     <b>Time: </b>6.30pm - 6.40pm
-    <br><b>Title: </b>  கேள்வி-பதில் அங்கம் <br>Interactive Activities
-    <br><b>Performing Group: </b>NIE Dip-in-Ed Students
+    <br><b>Title: </b>  கேள்வி-பதில் அங்கம் <p style=" padding-left:53px;margin:0px;">Interactive Activities</p>
+   <b>Performing Group: </b>NIE Dip-in-Ed Students
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
     <b>Time: </b>6.40pm - 6.50pm
-    <br><b>Title: </b>புதிர் நேரம்<br>Quiz Time
+    <br><b>Title: </b>புதிர் நேரம்<p style=" padding-left:53px;margin:0px;">Quiz Time</p>
     </td>
   </tr>
 </table>
