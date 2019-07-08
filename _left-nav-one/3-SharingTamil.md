@@ -32,8 +32,8 @@ collection_name: left-nav-one
     <td>
     </td>
     <td><b>Speaker:</b> S Seethalaksmy 
-      <br>Illamaran 
       <br>Elamaran Natarajan
+      <br>Prasanna Ramesh
 <br><b>Topic:</b> Learning Tamil through Songs <br><b>Time:</b> 3.00pm - 4.00pm <br><b>Venue:</b> Room 300
 </td>
       <td>
