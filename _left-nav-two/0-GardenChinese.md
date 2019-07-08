@@ -84,7 +84,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>3.40pm - 3.50pm
-    <br>“游戏王国之旅”戏剧表演 <br><span style="padding-left:55px;">Drama Skit</span>
+  <br><b>Title: </b>“游戏王国之旅”戏剧表演 <br><span style="padding-left:55px;">Drama Skit</span>
     <br><b>Performing Group: </b>Nan Hua Primary School
     </td>
   </tr>
@@ -98,7 +98,7 @@ collection_name: left-nav-two
    <tr>
     <td COLSPAN="2">
     <b>Time: </b>4.00pm - 4.05pm
-    <br><b>Title: </b>有奖竞赛 <br><span style="padding-left:55px;">Quiz Time　
+    <br><b>Title: </b>有奖竞赛 <br><span style="padding-left:55px;">Quiz Time</span>　
     </td>
   </tr>
    <tr>
@@ -132,7 +132,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>5.35pm - 5.50pm
-    <br><b>Title: </b>Cross Talk “语文学习乐”相声表演<br><span style="padding-left:55px;">Cross Talk</span> 
+    <br><b>Title: </b>Cross Talk “语文学习乐”相声表演<br><span style="padding-left:50px;">Cross Talk</span> 
     <br><b>Performing Group: </b>Singfeng Cross Talk
     </td>
   </tr>
