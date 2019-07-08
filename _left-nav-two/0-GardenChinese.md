@@ -16,54 +16,54 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>11.30am - 11.40am
-      <br><b>Title: </b>Family-Child Talent Performance
+      <br><b>Title: </b>（待定）Family-Child Talent Performance Finalists of Speak Mandarin Campaign Family Talent Competition 2019
       <br><b>Performing Group: </b>Finalists of Speak Mandarin Campaign Family Talent Competition 2019
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>11.40am - 11.50am
-    <br><b>Title: </b>Zhangde Wushu Warriors
+    <br><b>Title: </b>“彰德武少年”武术表演 Zhangde Wushu Warriors 
     <br><b>Performing Group: </b>Zhangde Primary School
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>11.50am - 12.00pm
-    <br><b>Title: </b>Quiz Time
+    <br><b>Title: </b>有奖竞赛 Quiz Time
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>12.00pm - 12.10pm
-    <br><b>Title: </b>Hunting for Treasure
+    <br><b>Title: </b>“闯关寻宝”舞狮表演 Hunting for Treasure 
     <br><b>Performing Group: </b>Telok Kurau Primary School
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>12.10pm - 12.25pm
-    <br><b>Title: </b>SPS Performance
+    <br><b>Title: </b>（待定）Performance　
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
    <b>Time: </b> 12.25pm - 12.40pm
-    <br><b>Title: </b>Cross Talk 
+    <br><b>Title: </b>“语文学习乐”相声表演 Cross Talk  
     <br><b>Performing Group: </b>Singfeng Cross Talk
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>2.55pm - 3.05pm
-    <br><b>Title: </b>Qing Fei Wu Yang (Tradition Fan Dance)
+    <br><b>Title: </b>“轻舞飞扬”扇子舞表演 Qing Wu Fei Yang (Tradition Fan Dance)
     <br><b>Performing Group: </b>Beacon Primary School
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>3.05pm - 3.15pm
-    <br><b>Title: </b>Street Dance 
+    <br><b>Title: </b>“爱上华文”街头舞表演 Street Dance
     <br><b>Performing Group: </b>River Valley Primary School
     </td>
   </tr>
@@ -76,69 +76,69 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>3.30pm - 3.40pm
-    <br><b>Title: </b>'The Little Black Fish called 'Swimmy'(Interactive Story Telling)
+    <br><b>Title: </b>小黑鱼的故事' The Little Black Fish called 'Swimmy'(Interactive Story Telling)  
     <br><b>Performing Group: </b>PCF Sparkletots Preschool @ Nee Soon Central Blk 646
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>3.40pm - 3.50pm
-    <br>《游戏王国之旅》Drama Skit
+    <br>“游戏王国之旅”戏剧表演 Drama Skit
     <br><b>Performing Group: </b>Nan Hua Primary School
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>3.50pm - 4.00pm
-    <br><b>Title: </b>Cross Talk 
+    <br><b>Title: </b>“语文学习乐”相声表演 Cross Talk
     <br><b>Performing Group: </b>Singfeng Cross Talk
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
     <b>Time: </b>4.00pm - 4.05pm
-    <br><b>Title: </b>Quiz Time
+    <br><b>Title: </b>有奖竞赛 Quiz Time　
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
     <b>Time: </b>4.55pm - 5.05pm
-    <br><b>Title: </b>A Gu Zheng Performance
+    <br><b>Title: </b>华艺表演 A Gu Zheng and Poem Recital Performance 
     <br><b>Performing Group: </b>Endeavour Primary
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
     <b>Time: </b>5.05pm - 5.15pm
-    <br><b>Title: </b>Little Fox Garden (Story Telling with dramatisation)
+    <br><b>Title: </b>小狐狸的花园 Little Fox Garden (Story Telling with dramatisation)  
     <br><b>Performing Group: </b>PCF Sparkletots Preschool @ Eunos Blk 629
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>5.15pm - 5.25pm
-    <br><b>Title: </b>Family-Child Talent Performance
+    <br><b>Title: </b>（待定）Family-Child Talent Performance 
     <br><b>Performing Group: </b>Finalists of Speak Mandarin Campaign Family Talent Compeition 2019 
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>5.25pm - 5.35pm
-    <br><b>Title: </b>A Joyful Medley (Mother Tongue Songs Medley by P2 Pupils)
+    <br><b>Title: </b>“欢乐协奏曲”歌唱表演 A Joyful Medley (Mother Tongue Songs Medley by P2 Pupils)  
     <br><b>Performing Group: </b>Bedok Green Primary School
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>5.35pm - 5.50pm
-    <br><b>Title: </b>Cross Talk 
+    <br><b>Title: </b>Cross Talk “语文学习乐”相声表演 Cross Talk 
     <br><b>Performing Group: </b>Singfeng Cross Talk
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>5.50pm - 6.00pm
-    <br><b>Title: </b>Quiz Time
+    <br><b>Title: </b>有奖竞赛 Quiz Time　
     </td>
   </tr>
 </table>
