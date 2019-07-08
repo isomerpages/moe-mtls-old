@@ -16,7 +16,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>11.30am - 11.40am
-      <br><b>Title: </b>（待定）<br><p style=" padding-left:63px;margin:0px;">Family-Child Talent Performance Finalists of Speak Mandarin Campaign Family Talent Competition 2019</p>
+      <br><b>Title: </b>（待定）<br><p style=" padding-left:63px;margin:0px;">Family-Child Talent </p>
        <b>Performing Group: </b>Finalists of Speak Mandarin Campaign Family Talent Competition 2019
     </td>
   </tr>
