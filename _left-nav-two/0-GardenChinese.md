@@ -16,16 +16,14 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>11.30am - 11.40am
-      <br><b>Title: </b>（待定）<br>Family-Child Talent Performance Finalists of Speak Mandarin Campaign Family Talent Competition 2019
+      <br><b>Title: </b>（待定）<br><span style="padding-left:55px;">Family-Child Talent Performance Finalists of Speak Mandarin Campaign Family Talent Competition 2019</span>
       <br><b>Performing Group: </b>Finalists of Speak Mandarin Campaign Family Talent Competition 2019
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>11.40am - 11.50am
-    <br><table>
-<tr><td><b>Title: </b></td><td>“彰德武少年”武术表演</td></tr><tr><td></td><td>Zhangde Wushu Warriors</td></tr>
-</table>
+    <br> <br><b>Title: </b>“彰德武少年”武术表演<br><span style="padding-left:55px;">Zhangde Wushu Warriors</span>
     <br><b>Performing Group: </b>Zhangde Primary School
     </td>
   </tr>
@@ -38,34 +36,34 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>12.00pm - 12.10pm
-    <br><b>Title: </b>“闯关寻宝”舞狮表演 <br>Hunting for Treasure 
+     <br><b>Title: </b>“闯关寻宝”舞狮表演 <br><span style="padding-left:55px;">Hunting for Treasure</span>
     <br><b>Performing Group: </b>Telok Kurau Primary School
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>12.10pm - 12.25pm
-    <br><b>Title: </b>（待定）<br>Performance　
+    <br><b>Title: </b>（待定）<br><span style="padding-left:55px;">Performance</span>　
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
    <b>Time: </b> 12.25pm - 12.40pm
-    <br><b>Title: </b>“语文学习乐”相声表演 <br>Cross Talk  
+    <br><b>Title: </b>“语文学习乐”相声表演 <br><span style="padding-left:55px;">Cross Talk  </span>
     <br><b>Performing Group: </b>Singfeng Cross Talk
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>2.55pm - 3.05pm
-    <br><b>Title: </b>“轻舞飞扬”扇子舞表演<br> Qing Wu Fei Yang (Tradition Fan Dance)
+    <br><b>Title: </b>“轻舞飞扬”扇子舞表演<br><span style="padding-left:55px;"> Qing Wu Fei Yang (Tradition Fan Dance)</span>
     <br><b>Performing Group: </b>Beacon Primary School
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>3.05pm - 3.15pm
-    <br><b>Title: </b>“爱上华文”街头舞表演 <br>Street Dance
+    <br><b>Title: </b>“爱上华文”街头舞表演 <br><span style="padding-left:55px;">Street Dance</span>
     <br><b>Performing Group: </b>River Valley Primary School
     </td>
   </tr>
@@ -78,7 +76,8 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>3.30pm - 3.40pm
-    <br><b>Title: </b>小黑鱼的故事'<br> The Little Black Fish called 'Swimmy'(Interactive Story Telling)  
+    <br><b>Title: </b>小黑鱼的故事'<br>
+     <span style="padding-left:55px;"> The Little Black Fish called 'Swimmy'(Interactive Story Telling)</span>  
     <br><b>Performing Group: </b>PCF Sparkletots Preschool @ Nee Soon Central Blk 646
     </td>
   </tr>
