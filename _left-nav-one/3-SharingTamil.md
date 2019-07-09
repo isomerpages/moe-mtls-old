@@ -10,9 +10,7 @@ collection_name: left-nav-one
   <tr>
     <td>
     </td>
-    <td><b>Speaker:</b> Usha Janarth  
-      <br>Sukuna S.Vijayadevar 
-      <br>Karkuzhali 
+    <td><b>Speaker:</b> Usha Janarth, Sukuna S.Vijayadevar, Karkuzhali 
 <br><b>Topic:</b> Learning MTL Through Purposeful Play from School to Home <br><b>Time:</b> 12.30pm - 1.30pm <br><b>Venue:</b> Room 300
 </td>
     <td>
@@ -31,9 +29,7 @@ collection_name: left-nav-one
     <tr>
     <td>
     </td>
-    <td><b>Speaker:</b> S Seethalaksmy 
-      <br>Elamaran Natarajan
-      <br>Prasanna Ramesh
+    <td><b>Speaker:</b> S Seethalaksmy, Elamaran Natarajan, Prasanna Ramesh
 <br><b>Topic:</b> Learning Tamil through Songs <br><b>Time:</b> 3.00pm - 4.00pm <br><b>Venue:</b> Room 300
 </td>
       <td>
