@@ -137,7 +137,9 @@ width:25%
 <p class="bottomBoxOdd">M<sup>3</sup>@NeeSoon</p>
 </td>
 <td class="baseTD ">
-<p class="bottomBoxEven">National Heritage Board  <br><br />新加坡国家文物局</p>
+<p class="bottomBoxEven">National Heritage Board  <br><br />新加坡国家文物局
+ <br>Lembaga Warisan Negara
+ <br> தேசிய மரபுடைமைக் கழகம்</p>
 </td>
 <td class="baseTD ">
 <p class="bottomBoxOdd">The Esplanade Co Ltd<br /> <br>滨海艺术中心<br />Esplanade – Teater di Persisiran<br/> எஸ்பிளனேட்</p>
