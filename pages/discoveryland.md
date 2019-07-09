@@ -34,7 +34,7 @@ Join us at the Fruit Orchard and match the fruits to the correct trees using int
 <img src="/images/Discoveryland_Safari.png" alt="" style="width:350px;" />
 
 <p align="justify">
-In the Forest there are all kinds of birds and animals. Some are on the trees while others are on the ground. Enter the Forest to spot and identify what animals there are on the observation deck.
+In the Forest there are all kinds of birds and animals. Some are on the trees while others are on the ground. Enter the Forest to spot and identify the animals on the observation deck.
 </p>
 
 #### Ecopond
