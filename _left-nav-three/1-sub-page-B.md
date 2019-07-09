@@ -12,20 +12,24 @@ collection_name: left-nav-three
    
  
 }
-.bottomBoxOdd{
-background-color: #5c3b96;
-padding: 7px;
-color: #ffffff;
-  
-line-height :1.5rem !important;
-}
-.bottomBoxEven{
-  background-color: #8d3278;
-  padding: 7px;
-  color: #ffffff;
-  
-  line-height :1.5rem !important;
-}
+
+    .bottomBoxOdd {
+        background-color: #5c3b96;
+        padding: 7px;
+        color: #ffffff;
+        height: 260px;
+        line-height: 1.5rem !important;
+        font-size: 16px !important;
+    }
+
+    .bottomBoxEven {
+        background-color: #8d3278;
+        padding: 7px;
+        color: #ffffff;
+        height: 260px;
+        line-height: 1.5rem !important;
+        font-size: 16px !important;
+    }
 .baseTD{
 width:25%
 }
