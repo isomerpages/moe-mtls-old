@@ -39,7 +39,7 @@ collection_name: left-nav-one
       <tr>
     <td>
     </td>
-   <td><b>Speaker(s):</b> Rani Kannan <br><b>Topic:</b> Making Bedtime Reading Fun for Children Aged  (0-3) & (4-6) <br><b>Time:</b> 4.15pm - 5.15pm <br><b>Venue:</b> Room 300
+   <td><b>Speaker(s):</b> Rani Kanna <br><b>Topic:</b> Making Bedtime Reading Fun for Children Aged  (0-3) & (4-6) <br><b>Time:</b> 4.15pm - 5.15pm <br><b>Venue:</b> Room 300
 </td>
         <td>
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=T4"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More<br>info</a>
