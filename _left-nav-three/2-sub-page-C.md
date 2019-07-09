@@ -15,7 +15,7 @@ collection_name: left-nav-three
         background-color: #5c3b96;
         padding: 7px;
         color: #ffffff;
-        height: 210px;
+        height: 250px;
         line-height: 1.5rem !important;
         font-size: 16px !important;
     }
@@ -24,7 +24,7 @@ collection_name: left-nav-three
         background-color: #8d3278;
         padding: 7px;
         color: #ffffff;
-        height: 210px;
+        height: 250px;
         line-height: 1.5rem !important;
         font-size: 16px !important;
     }
