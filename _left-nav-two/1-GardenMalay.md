@@ -55,7 +55,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>4.05pm - 4.15pm
-    <br><b>Title: </b>Mari Menari  -  'Tari Tualang Tiga'<p style=" padding-left:50px;margin:0px;">Let’s  Dance - ‘ Tari Tualang Tiga' </p>
+    <br><b>Title: </b>Mari Menari  -  'Tari Tualang Tiga'<p style=" padding-left:50px;margin:0px;">Let’s  Dance - ‘Tari Tualang Tiga' </p>
     <b>Performing Group: </b>Yishun Primary School
     </td>
   </tr>
