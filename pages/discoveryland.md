@@ -40,5 +40,5 @@ In the Forest there are all kinds of birds and animals. Some are on the trees wh
 #### Ecopond
 <img src="/images/Discoveryland_Wetland.png" alt="" style="width:350px;" />
 <p align="justify">
-Walk along the Ecopond and discover various hidden insects among the rocks, trees and plants. You have to lift, turn and slide to uncover the hidden insects, so take your time to discover and learn the insect’s name in mother tongues.
+Walk along the Ecopond and discover various hidden insects among the rocks, trees and plants. Lift, turn and slide to uncover the hidden insects. So take your time to discover and learn the names of these insects in your mother tongues.
 </p>
