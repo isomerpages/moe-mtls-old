@@ -15,7 +15,7 @@ collection_name: left-nav-three
 }
 
     .bottomBoxOdd {
-        background-color: #5c3b96;
+        background-color: #ff14d0;
         padding: 7px;
         color: #ffffff;
         height: 260px;
@@ -24,7 +24,7 @@ collection_name: left-nav-three
     }
 
     .bottomBoxEven {
-        background-color: #8d3278;
+        background-color:#ffb3f4;
         padding: 7px;
         color: #ffffff;
         height: 260px;
