@@ -73,13 +73,13 @@ width:25%
   <p class="bottomBoxOdd"> Pat's Schoolhouse Sembawang </p></td>
  
 <td class="baseTD ">
-   <p class="bottomBoxEven"> Presbyterian Community Services (Yishun Centre)<br>长老会社区服务义顺托儿所 </p> </td>
+   <p class="bottomBoxEven"> Presbyterian Community Services (Yishun Centre)<br><br>长老会社区服务义顺托儿所 </p> </td>
  
 <td class="baseTD ">
- <p class="bottomBoxOdd">TOUCH Child Care (Clementi)<br>触爱托儿中心<br>（金文泰）
+ <p class="bottomBoxOdd">TOUCH Child Care (Clementi)<br><br>触爱托儿中心<br><br>（金文泰）
 </p></td>
 <td class="baseTD">
- <p class="bottomBoxEven"> EtonHouse Zhong Hua Pre-School<br>伊顿中华幼儿园
+ <p class="bottomBoxEven"> EtonHouse Zhong Hua Pre-School<br><br>伊顿中华幼儿园
 </p> 
 </td>
 </tr>
@@ -110,10 +110,10 @@ width:25%
 </tr>
 <tr>
 <td class="baseTD ">
-  <p class="bottomBoxOdd"> MOE Kindergarten @ Blangah Rise<br>教育部幼儿园<br>（布兰雅坡）</p></td>
+  <p class="bottomBoxOdd"> MOE Kindergarten @ Blangah Rise<br><br>教育部幼儿园<br><br>（布兰雅坡）</p></td>
  
 <td class="baseTD ">
-   <p class="bottomBoxEven"> MOE Kindergarten @ Punggol Cove<br>教育部幼儿园<br>（湾景）</p> </td>
+   <p class="bottomBoxEven"> MOE Kindergarten @ Punggol Cove<br><br>教育部幼儿园<br><br>（湾景）</p> </td>
  
 <td class="baseTD ">
  <p class="bottomBoxOdd">My First Skool at Blk 803 Tampines
