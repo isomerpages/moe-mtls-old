@@ -43,7 +43,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>1.25pm - 1.35pm
-    <br><b>Title: </b>Masa Untuk Kuiz<p style=" padding-left:50px;margin:0px;">Quiz Time</p>
+    <br><b>Title: </b>Masa untuk Kuiz<p style=" padding-left:50px;margin:0px;">Quiz Time</p>
     </td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>4.05pm - 4.15pm
-    <br><b>Title: </b>'Mari Menari  -  'Tari Tualang Tiga'<p style=" padding-left:50px;margin:0px;">Let’s  Dance - ‘ Tari Tualang Tiga' </p>
+    <br><b>Title: </b>Mari Menari  -  'Tari Tualang Tiga'<p style=" padding-left:50px;margin:0px;">Let’s  Dance - ‘ Tari Tualang Tiga' </p>
     <b>Performing Group: </b>Yishun Primary School
     </td>
   </tr>
@@ -83,7 +83,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>4.45pm - 4.55pm
-    <br><b>Title: </b>Masa Untuk Kuiz<p style=" padding-left:50px;margin:0px;">Quiz Time</p>
+    <br><b>Title: </b>Masa untuk Kuiz<p style=" padding-left:50px;margin:0px;">Quiz Time</p>
     </td>
   </tr>
 </table>
