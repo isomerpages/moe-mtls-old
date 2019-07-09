@@ -16,7 +16,7 @@ collection_name: left-nav-two
     <td COLSPAN="2">
     <b>Time: </b>12.40pm - 12.50pm
     <br><b>Title: </b>Pelayaran Takjub Sang Nila Utama (Lagu Rakyat)<p style=" padding-left:50px;margin:0px;">Sang Nila Utama’s Amazing Voyage (Folk Song) </p>
-    <b>Performing Group: </b>Punngol View Primary School
+    <b>Performing Group: </b>Punggol View Primary School
     </td>
   </tr>
   <tr>
@@ -57,20 +57,20 @@ collection_name: left-nav-two
     <td COLSPAN="2">
     <b>Time: </b>4.05pm - 4.15pm
     <br><b>Title: </b>'Mari Menari  -  'Tari Tualang Tiga'<p style=" padding-left:50px;margin:0px;">Let’s  Dance - ‘ Tari Tualang Tiga' </p>
-    <b>Performing Group: </b>Yishun Primary
+    <b>Performing Group: </b>Yishun Primary School
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>4.15pm - 4.25pm
     <br><b>Title: </b>Arnab dan Kura-kura<p style=" padding-left:50px;margin:0px;">The Tortoise and The Hare</p>
-    <b>Performing Group: </b>Admiralty Primary
+    <b>Performing Group: </b>Admiralty Primary School
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>4.25pm - 4.35pm
-    <br><b>Title: </b>Sing and Dance - Bangau oh Bangau<p style=" padding-left:50px;margin:0px;">Mari  Berhibur  dan  Bernyanyi  -  Bangau,  Oh Banga</p>
+    <br><b>Title: </b>Mari  Berhibur  dan  Bernyanyi  -  Bangau,  Oh Bangau <p style=" padding-left:50px;margin:0px;">Sing and Dance - Bangau, Oh Bangau</p>
     <b>Performing Group: </b>The Bambini SG
     </td>
   </tr>
