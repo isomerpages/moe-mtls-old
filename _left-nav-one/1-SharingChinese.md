@@ -22,8 +22,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Wee Khang Ping 
-         <br>Ju Shiying<br>
+      <td><b>Speaker:</b> Wee Khang Ping, Ju Shiying<br>
          <b>Topic:</b> Learning of CL Through Parent-child Activities <br>
          <b>Time:</b> 12.30pm - 1.30pm <br>
          <b>Venue:</b> Room 310
@@ -35,8 +34,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Cheryl Yap Xinhui
-         <br> Li Hongyu <br>
+      <td><b>Speaker:</b> Cheryl Yap Xinhui, Li Hongyu <br>
          <b>Topic:</b> Learning Chinese in a Fun Way! <br>
          <b>Time:</b> 12.30pm - 1.30pm <br>
          <b>Venue:</b> Room 308
@@ -72,10 +70,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Lee Keng Chin 
-         <br>Liu Ying 
-         <br>  Zhang Shan 
-         <br>  Dr Lin An-chi <br>
+      <td><b>Speaker:</b> Lee Keng Chin, Liu Ying, Zhang Shan, Dr Lin An-chi <br>
          <b>Topic:</b> Learning MTL through Purposeful Play <br>
          <b>Time:</b> 1.45pm - 2.45pm <br>
          <b>Venue:</b> Room 308
@@ -87,9 +82,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Dr Cheng Wan-ni
-         <br>Dr Wu Yung-sen
-         <br> Zheng Yingjiang<br>
+      <td><b>Speaker:</b> Dr Cheng Wan-ni, Dr Wu Yung-sen, Zheng Yingjiang<br>
          <b>Topic:</b> Run! Jump! Bump! Learn Mandarin by Integrating Physical Rhythm and Interactive Games <br>
          <b>Time:</b> 1.45pm - 2.45pm <br>
          <b>Venue:</b> Room 309
@@ -113,9 +106,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Xu Jinhong
-         <br> Fang Fang
-         <br> Yang Wenxia <br>
+      <td><b>Speaker:</b> Xu Jinhong, Fang Fang, Yang Wenxia <br>
          <b>Topic:</b> Understanding 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese.<br>
          <b>Time:</b> 3.00pm - 4.00pm <br>
          <b>Venue:</b> Room 309
@@ -127,7 +118,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Kate Pang and Andie Chen <br>
+      <td><b>Speaker:</b> Kate Pang, Andie Chen <br>
          <b>Topic:</b> Chinese Language Is Easy to Master <br>
          <b>Time:</b> 3.00pm - 4.00pm <br>
          <b>Venue:</b> Room 303 - 304
@@ -163,9 +154,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Jing Yan 
-         <br> Li Yanli 
-         <br> Wang Junyi <br>
+      <td><b>Speaker:</b> Jing Yan, Li Yanli, Wang Junyi <br>
          <b>Topic:</b> The Illusion and Reality through Interesting Stories - “Let’s Read, Dramatize <br>
          <b>Time:</b> 4.15pm - 5.15pm <br>
          <b>Venue:</b> Room 309
@@ -201,7 +190,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Kate Pang and Andie Chen <br>
+      <td><b>Speaker:</b> Kate Pang, Andie Chen <br>
          <b>Topic:</b> Chinese Language Is Easy to Master <br>
          <b>Time:</b> 4.15pm - 5.15pm <br>
          <b>Venue:</b> Room 303 - 304
