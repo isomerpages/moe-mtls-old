@@ -12,7 +12,7 @@ collection_name: left-nav-three
     }
 
     .bottomBoxOdd {
-        background-color: #64d164;
+        background-color: #32c949;
         padding: 7px;
         color: #ffffff;
         height: 260px;
@@ -21,7 +21,7 @@ collection_name: left-nav-three
     }
 
     .bottomBoxEven {
-        background-color: #53f553;
+        background-color: #4dc960;
         padding: 7px;
         color: #ffffff;
         height: 260px;
@@ -34,7 +34,7 @@ collection_name: left-nav-three
     }
 
     .btnInfo {
-        background: #096e08;
+        background: #08961d;
         color: #fff !important;
         display: block;
         padding: 20px 10px;
@@ -52,7 +52,7 @@ collection_name: left-nav-three
     }
 
         .btnInfo:hover {
-            background: #583399;
+            background: #3c8546;
         }
 </style>
 <table style="width:100%;" cellspacing="20" cellpadding="20">
