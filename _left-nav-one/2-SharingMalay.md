@@ -11,9 +11,7 @@ collection_name: left-nav-one
   <tr>
     <td>
     </td>
-    <td><b>Speaker:</b> Haslindah Mispan
-<br>Dr Raudhah Yahya
-<br>Aimuniliyana 
+    <td><b>Speaker:</b> Haslindah Mispan, Dr Raudhah Yahya, Aimuniliyana 
 <br><b>Topic:</b> Learning MTL Through Purposeful Play from School to Home <br><b>Time:</b> 12.30pm - 1.30pm <br><b>Venue:</b> Room 302
 </td>
     <td>
@@ -77,8 +75,7 @@ collection_name: left-nav-one
         <tr>
     <td>
     </td>
-    <td><b>Speaker:</b> Salina Bte Saiman 
-<br>Rafidah Alias 
+    <td><b>Speaker:</b> Salina Bte Saiman, Rafidah Alias 
 <br><b>Topic:</b> A Contextual Approach to Develop  Oracy <br><b>Time:</b> 5.30pm - 6.30pm <br><b>Venue:</b> Room 302
 
 </td>
