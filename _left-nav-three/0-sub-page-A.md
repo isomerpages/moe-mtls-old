@@ -52,7 +52,7 @@ width:25%
     -o-border-radius: 20px;
 }
 .btnInfo:hover {
-    background: #583399;
+    background: #a83e80;
 }
 </style>
 <table style="width:100%;" cellspacing="20" cellpadding="20">
