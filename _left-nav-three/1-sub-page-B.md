@@ -69,16 +69,16 @@ width:25%
 </tr>
 <tr>
 <td class="baseTD ">
-  <p class="bottomBoxOdd">Rosyth School<br>乐赛学校 </p></td>
+  <p class="bottomBoxOdd">Rosyth School<br><br>乐赛学校 </p></td>
  
 <td class="baseTD ">
-   <p class="bottomBoxEven">Marsiling Primary School<br>马西岭小学 </p> </td>
+   <p class="bottomBoxEven">Marsiling Primary School<br><br>马西岭小学 </p> </td>
  
 <td class="baseTD ">
- <p class="bottomBoxOdd">Hong Wen School<br>宏文学校
+ <p class="bottomBoxOdd">Hong Wen School<br><br>宏文学校
 </p></td>
 <td class="baseTD">
- <p class="bottomBoxEven">Xingnan Primary School<br>醒南小学
+ <p class="bottomBoxEven">Xingnan Primary School<br><br>醒南小学
 </p> 
 </td>
 </tr>
@@ -109,13 +109,13 @@ width:25%
 </tr>
 <tr>
 <td class="baseTD ">
-  <p class="bottomBoxOdd">St Hilda’s Primary School<br> 圣希尔达小学 </p></td>
+  <p class="bottomBoxOdd">St Hilda’s Primary School<br><br> 圣希尔达小学 </p></td>
  
 <td class="baseTD ">
-   <p class="bottomBoxEven">Evergreen Secondary School<br>永青中学 </p> </td>
+   <p class="bottomBoxEven">Evergreen Secondary School<br><br>永青中学 </p> </td>
  
 <td class="baseTD ">
- <p class="bottomBoxOdd">Pre-U<br>高中
+ <p class="bottomBoxOdd">Pre-U<br><br>高中
 </p></td>
 <td class="baseTD">
  <p class="bottomBoxEven">Princess Elizabeth Primary School
@@ -226,10 +226,10 @@ width:25%
 <tr>
  
 <td class="baseTD ">
-   <p class="bottomBoxEven">Greendale Primary School<br>கிரீன்டேல் உயர்நிலைப்பள்ளி  </p> </td>
+   <p class="bottomBoxEven">Greendale Primary School<br><br>கிரீன்டேல் உயர்நிலைப்பள்ளி  </p> </td>
  
 <td class="baseTD ">
- <p class="bottomBoxOdd">Chua Chu Kang Secondary<br>சுவா சூ காங் உயர்நிலைப் பள்ளி
+ <p class="bottomBoxOdd">Chua Chu Kang Secondary<br><br>சுவா சூ காங் உயர்நிலைப் பள்ளி
 </p></td>
 <td class="baseTD">
  <p class="bottomBoxEven">Pre-U CL/ML/TL
