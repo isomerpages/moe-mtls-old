@@ -110,13 +110,13 @@ width:25%
 <p class="bottomBoxOdd">Mediacorp<br/> <br>新传媒</p>
 </td>
 <td class="baseTD ">
-<p class="bottomBoxEven">Singapore Press Holdings - Tamil Murasu <br/><br/>தமிழ் முரசு </p>
+<p class="bottomBoxEven">SPH Publications: Tamil Murasu <br/><br/>தமிழ் முரசு </p>
 </td>
 <td class="baseTD ">
 <p class="bottomBoxOdd">SPH Students’ Publications: Berita Harian  <br><br />Penerbitan Pelajar, SPH: Berita Harian</p>
 </td>
 <td class="baseTD">
-<p class="bottomBoxEven">Junior/Thumbs Up Little Junior <br><br />新加坡报业控股</p>
+<p class="bottomBoxEven">SPH ZbCOMMA/ Thumbs Up/ Thumbs Up Junior/ Thumbs Up Little Junior<br><br />新加坡报业控股</p>
 </td>
 </tr>
 <tr>
