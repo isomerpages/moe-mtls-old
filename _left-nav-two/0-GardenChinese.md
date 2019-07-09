@@ -16,7 +16,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>11.30am - 11.40am
-      <br><b>Title: </b>（待定）<br><p style=" padding-left:63px;margin:0px;">Family-Child Talent </p>
+      <br><b>Title: </b>（待定）<br><p style=" padding-left:63px;margin:0px;">Family-Child Talent Performance </p>
        <b>Performing Group: </b>Finalists of Speak Mandarin Campaign Family Talent Competition 2019
     </td>
   </tr>
@@ -70,14 +70,14 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
    <b>Time: </b> 3.15pm - 3.30pm
-    <br><b>Title: </b>SPS Performance
+    <br><b>Title: </b>TBC
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>3.30pm - 3.40pm
-    <br><b>Title: </b>小黑鱼的故事'<br>
-     <p style=" padding-left:55px;margin:0px;"> The Little Black Fish called 'Swimmy'(Interactive Story Telling)</p>  
+    <br><b>Title: </b>小黑鱼的故事<br>
+     <p style=" padding-left:55px;margin:0px;"> The Little Black Fish called 'Swimmy' (Interactive Story Telling)</p>  
     <b>Performing Group: </b>PCF Sparkletots Preschool @ Nee Soon Central Blk 646
     </td>
   </tr>
@@ -105,13 +105,13 @@ collection_name: left-nav-two
     <td COLSPAN="2">
     <b>Time: </b>4.55pm - 5.05pm
     <br><b>Title: </b>华艺表演 <br><p style=" padding-left:55px;margin:0px;">A Gu Zheng and Poem Recital Performance</p> 
-    <b>Performing Group: </b>Endeavour Primary
+    <b>Performing Group: </b>Endeavour Primary School
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
     <b>Time: </b>5.05pm - 5.15pm
-    <br><b>Title: </b>小狐狸的花园 <br><p style=" padding-left:55px;margin:0px;">Little Fox Garden (Story Telling with dramatisation)</p>  
+    <br><b>Title: </b>小狐狸的花园 <br><p style=" padding-left:55px;margin:0px;">Little Fox Garden (Story Telling with Dramatisation)</p>  
     <b>Performing Group: </b>PCF Sparkletots Preschool @ Eunos Blk 629
     </td>
   </tr>
