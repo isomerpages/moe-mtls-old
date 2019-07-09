@@ -49,8 +49,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>1.35pm - 1.55pm
-    <br><b>Title: </b>Interactive Skit: Junction Tree Act
-    <br/><b>Performing Group: </b>Mediacorp (by LKYFB)
+    <br><b>Title: </b>Interactive Skit: Junction Tree Act    
     </td>
   </tr>
   <tr>
