@@ -20,7 +20,7 @@ There are many things you can do at the Garden for Joyful Discovery. Join us for
 <img src="/images/Discoveryland_Floral nursery.png" alt="" style="width:350px;" />
 
 <p align="justify">
-Be amaze at the Flower Maze, where it is blooming with beautiful and exotic flowers. Discover the different shapes and colours of these flowers and learn their names in Mother Tongue Languages!
+Be amazed at the Flower Maze, where it is blooming with beautiful and enchanting flowers. Discover the different shapes and colours of these flowers and learn their names in your mother tongues!
 </p>
 
 #### Fruit Orchard
