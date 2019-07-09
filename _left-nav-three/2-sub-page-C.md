@@ -68,20 +68,20 @@ width:25%
 </tr>
 <tr>
 <td class="baseTD ">
-  <p class="bottomBoxOdd">   <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c1" >    Committee to Promote Chinese Language Learning
-	  <br>推广华文学习委员会 </a></p></td>
+  <p class="bottomBoxOdd">    Committee to Promote Chinese Language Learning
+	 <br> <br>推广华文学习委员会 </p></td>
  
 <td class="baseTD ">
-   <p class="bottomBoxEven">       Malay Language and Promotion Committee
-    <br>Jawatankuasa Pembelajaran   dan Penggalakkan Penggunaan Bahasa Melayu </p> </td>
+   <p class="bottomBoxEven">       Malay Language Learning and Promotion Committee
+     <br><br>Jawatankuasa Pembelajaran   dan Penggalakan Penggunaan Bahasa Melayu </p> </td>
  
 <td class="baseTD ">
- <p class="bottomBoxOdd">      Tamil Language and Promotion Committee
-    <br>தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு 
+ <p class="bottomBoxOdd">      Tamil Language Learning and Promotion Committee
+     <br><br>தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு 
 </p></td>
 <td class="baseTD">
- <p class="bottomBoxEven"> Lee Kuan Yew Fund for Bilingualism (LKYFB)
-    <br>李光耀双语基金
+ <p class="bottomBoxEven"> Lee Kuan Yew Fund for Bilingualism
+     <br><br>李光耀双语基金
 </p> 
 </td>
 </tr>
@@ -107,16 +107,16 @@ width:25%
 </tr>
 <tr>
 <td class="baseTD ">
-<p class="bottomBoxOdd">Mediacorp<br />新传媒</p>
+<p class="bottomBoxOdd">Mediacorp<br/> <br>新传媒</p>
 </td>
 <td class="baseTD ">
-<p class="bottomBoxEven">Singapore Press Holdings (SPH)- (Tamil Murasu) </p>
+<p class="bottomBoxEven">Singapore Press Holdings - (Tamil Murasu) </p>
 </td>
 <td class="baseTD ">
-<p class="bottomBoxOdd">SPH Students’ Publications: Berita Harian <br />Penerbitan Pelajar, SPH: Berita Harian</p>
+<p class="bottomBoxOdd">SPH Students’ Publications: Berita Harian  <br><br />Penerbitan Pelajar, SPH: Berita Harian</p>
 </td>
 <td class="baseTD">
-<p class="bottomBoxEven">Junior/Thumbs Up Little Junior<br />新加坡报业控股</p>
+<p class="bottomBoxEven">Junior/Thumbs Up Little Junior <br><br />新加坡报业控股</p>
 </td>
 </tr>
 <tr>
@@ -137,13 +137,13 @@ width:25%
 <p class="bottomBoxOdd">M<sup>3</sup>@NeeSoon</p>
 </td>
 <td class="baseTD ">
-<p class="bottomBoxEven">National Heritage Board <br />新加坡国家文物局</p>
+<p class="bottomBoxEven">National Heritage Board  <br><br />新加坡国家文物局</p>
 </td>
 <td class="baseTD ">
-<p class="bottomBoxOdd">The Esplanade Co Ltd<br />滨海艺术中心<br />Esplanade – Teater di Persisiran<br/> எஸ்பிளனேட்</p>
+<p class="bottomBoxOdd">The Esplanade Co Ltd<br /> <br>滨海艺术中心<br />Esplanade – Teater di Persisiran<br/> எஸ்பிளனேட்</p>
 </td>
 <td class="baseTD">
-<p class="bottomBoxEven">Umar Pulavar Tamil Language Centre (UPTLC) <br />உமறுப்புலவர் தமிழ்மொழி நிலையம்</p>
+<p class="bottomBoxEven">Umar Pulavar Tamil Language Centre <br> <br />உமறுப்புலவர் தமிழ்மொழி நிலையம்</p>
 </td>
 </tr>
 <tr>
@@ -160,16 +160,16 @@ width:25%
 </tr>
 <tr>
 <td class="baseTD ">
-<p class="bottomBoxOdd">National Library Board <br />国家图书馆管理局</p>
+<p class="bottomBoxOdd">National Library Board  <br><br />国家图书馆管理局</p>
 </td>
 <td class="baseTD ">
-<p class="bottomBoxEven">National Institute of Education (NIE)<br />国立教育学院</p>
+<p class="bottomBoxEven">National Institute of Education <br><br />国立教育学院</p>
 </td>
 <td class="baseTD ">
-<p class="bottomBoxOdd">Wildlife Reserves Singapore<br />新加坡野生动物保育集团</p>
+<p class="bottomBoxOdd">Wildlife Reserves Singapore <br><br />新加坡野生动物保育集团</p>
 </td>
 <td class="baseTD">
-<p class="bottomBoxEven">Singapore Centre for Chinese Language(SCCL)<br />新加坡华文教研中心</p>
+<p class="bottomBoxEven">Singapore Centre for Chinese Language <br><br />新加坡华文教研中心</p>
 </td>
 </tr>
 <tr>
