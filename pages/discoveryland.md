@@ -27,7 +27,7 @@ Be amazed at the Flower Maze, where it is blooming with beautiful and enchanting
 <img src="/images/Discoveryland_Fruit orchard.png" alt="" style="width:350px;" />
 
 <p align="justify">
-Join us at the Fruit Orchard and match the fruits to the correct trees using interactive technology. You will get to learn how you can write the names of the fruits using your mother tongue.
+Join us at the Fruit Orchard and match the fruits to the correct trees using interactive technology. You will get to learn how you can write the names of the fruits using your mother tongues.
 </p>
 
 #### Forest
