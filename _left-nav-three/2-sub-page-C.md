@@ -181,7 +181,7 @@ collection_name: left-nav-three
             </p>
         </td>
         <td class="baseTD ">
-            <p class="bottomBoxOdd">Wildlife Reserves Singapore <br><br />新加坡野生动物保育集团</p>
+            <p class="bottomBoxOdd">Wildlife Reserves Singapore <br><br />新加坡野生动物保育集团<br><br>சிங்கப்பூர் வனவிலங்குக் காப்பகம்</p>
         </td>
         <td class="baseTD">
             <p class="bottomBoxEven">Singapore Centre for Chinese Language <br><br />新加坡华文教研中心</p>
