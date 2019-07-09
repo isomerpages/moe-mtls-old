@@ -10,7 +10,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Dr Connie Lum <br>
+      <td><b>Speaker(s):</b> Dr Connie Lum <br>
          <b>Topic:</b> Language Immersion Through Play-based Learning <br>
          <b>Time:</b> 12.30pm - 1.30pm <br>
          <b>Venue:</b> Room 310
@@ -22,7 +22,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Wee Khang Ping, Ju Shiying<br>
+      <td><b>Speaker(s):</b> Wee Khang Ping, Ju Shiying<br>
          <b>Topic:</b> Learning of CL Through Parent-child Activities <br>
          <b>Time:</b> 12.30pm - 1.30pm <br>
          <b>Venue:</b> Room 310
@@ -34,7 +34,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Cheryl Yap Xinhui, Li Hongyu <br>
+      <td><b>Speaker(s):</b> Cheryl Yap Xinhui, Li Hongyu <br>
          <b>Topic:</b> Learning Chinese in a Fun Way! <br>
          <b>Time:</b> 12.30pm - 1.30pm <br>
          <b>Venue:</b> Room 308
@@ -46,7 +46,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Kuo Jian Hong <br>
+      <td><b>Speaker(s):</b> Kuo Jian Hong <br>
          <b>Topic:</b> From Function to Fun: Fostering Meaningful Engagement with Chinese <br>
          <b>Time:</b> 12.30pm - 1.30pm <br>
          <b>Venue:</b> Room 303 - 304
@@ -58,7 +58,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Dr Connie Lum <br>
+      <td><b>Speaker(s):</b> Dr Connie Lum <br>
          <b>Topic:</b> Language Immersion Through Play-based Learning <br>
          <b>Time:</b> 1.45pm - 2.45pm <br>
          <b>Venue:</b> Room 310
@@ -70,7 +70,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Lee Keng Chin, Liu Ying, Zhang Shan, Dr Lin An-chi <br>
+      <td><b>Speaker(s):</b> Lee Keng Chin, Liu Ying, Zhang Shan, Dr Lin An-chi <br>
          <b>Topic:</b> Learning MTL through Purposeful Play <br>
          <b>Time:</b> 1.45pm - 2.45pm <br>
          <b>Venue:</b> Room 308
@@ -82,7 +82,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Dr Cheng Wan-ni, Dr Wu Yung-sen, Zheng Yingjiang<br>
+      <td><b>Speaker(s):</b> Dr Cheng Wan-ni, Dr Wu Yung-sen, Zheng Yingjiang<br>
          <b>Topic:</b> Run! Jump! Bump! Learn Mandarin by Integrating Physical Rhythm and Interactive Games <br>
          <b>Time:</b> 1.45pm - 2.45pm <br>
          <b>Venue:</b> Room 309
@@ -94,7 +94,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Liang Huiyu<br>
+      <td><b>Speaker(s):</b> Liang Huiyu<br>
          <b>Topic:</b> Making Bedtime Reading Fun for Children Aged 4-6 <br>
          <b>Time:</b> 1.45pm - 2.45pm <br>
          <b>Venue:</b> Room 308
@@ -106,7 +106,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Xu Jinhong, Fang Fang, Yang Wenxia <br>
+      <td><b>Speaker(s):</b> Xu Jinhong, Fang Fang, Yang Wenxia <br>
          <b>Topic:</b> Understanding 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese.<br>
          <b>Time:</b> 3.00pm - 4.00pm <br>
          <b>Venue:</b> Room 309
@@ -118,7 +118,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Kate Pang, Andie Chen <br>
+      <td><b>Speaker(s):</b> Kate Pang, Andie Chen <br>
          <b>Topic:</b> Chinese Language Is Easy to Master <br>
          <b>Time:</b> 3.00pm - 4.00pm <br>
          <b>Venue:</b> Room 303 - 304
@@ -130,7 +130,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Dr Aw Guat Poh <br>
+      <td><b>Speaker(s):</b> Dr Aw Guat Poh <br>
          <b>Topic:</b> Learning how to Learn in Chinese Language –Sharing of Research-based Self-directed Reading Strategies <br>
          <b>Time:</b> 3.00pm - 4.00pm<br>
          <b>Venue:</b> Room 308
@@ -142,7 +142,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Yu Liang<br>
+      <td><b>Speaker(s):</b> Yu Liang<br>
          <b>Topic:</b> Expanding Your Imagination and Creativity through Drama and Games <br>
          <b>Time:</b> 3.00pm - 4.00pm <br>
          <b>Venue:</b> Room 310
@@ -154,7 +154,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Jing Yan, Li Yanli, Wang Junyi <br>
+      <td><b>Speaker(s):</b> Jing Yan, Li Yanli, Wang Junyi <br>
          <b>Topic:</b> The Illusion and Reality through Interesting Stories - “Let’s Read, Dramatize <br>
          <b>Time:</b> 4.15pm - 5.15pm <br>
          <b>Venue:</b> Room 309
@@ -166,7 +166,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Yu Liang <br>
+      <td><b>Speaker(s):</b> Yu Liang <br>
          <b>Topic:</b> Expanding Your Imagination and Creativity through Drama and Games <br>
          <b>Time:</b> 4.15pm - 5.15pm <br>
          <b>Venue:</b> Room 310
@@ -178,7 +178,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Dr Aw Guat Poh <br>
+      <td><b>Speaker(s):</b> Dr Aw Guat Poh <br>
          <b>Topic:</b> Learning how to Learn in Chinese Language –Sharing of  Research-based Self-directed Reading Strategies <br>
          <b>Time:</b> 4.15pm - 5.15pm <br>
          <b>Venue:</b> Room 308
@@ -190,7 +190,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Kate Pang, Andie Chen <br>
+      <td><b>Speaker(s):</b> Kate Pang, Andie Chen <br>
          <b>Topic:</b> Chinese Language Is Easy to Master <br>
          <b>Time:</b> 4.15pm - 5.15pm <br>
          <b>Venue:</b> Room 303 - 304
@@ -202,7 +202,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Alicia Lim <br>
+      <td><b>Speaker(s):</b> Alicia Lim <br>
          <b>Topic:</b> Virtues: The Way to Character-building <br>
          <b>Time:</b> 5.30pm - 6.30pm <br>
          <b>Venue:</b> Room 310
@@ -214,7 +214,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Lim Kwee Hua<br>
+      <td><b>Speaker(s):</b> Lim Kwee Hua<br>
          <b>Topic:</b> Enjoy Wonderful Parent-child Reading Time <br>
          <b>Time:</b> 5.30pm - 6.30pm <br>
          <b>Venue:</b> Room 309
@@ -226,7 +226,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Tan Pek Kian<br>
+      <td><b>Speaker(s):</b> Tan Pek Kian<br>
          <b>Topic:</b> Planting a Story Tree With Your Child <br>
          <b>Time:</b> 5.30pm - 6.30pm <br>
          <b>Venue:</b> Room 308
@@ -238,7 +238,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker:</b> Dr Sun Baoqi <br>
+      <td><b>Speaker(s):</b> Dr Sun Baoqi <br>
          <b>Topic:</b> Reading in Two Languages: What We Need to Know and How We Can Support <br>
          <b>Time:</b> 5.30pm - 6.30pm <br>
          <b>Venue:</b> Room 303 - 304
