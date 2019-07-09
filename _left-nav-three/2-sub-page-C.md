@@ -54,7 +54,7 @@ width:25%
 
 <tr>
   <td class="baseTD tdHead">
-   <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c1" ><b>Committee to Promote Chinese Language Learning</b></a>
+<b>Committee to Promote Chinese Language Learning</b>
 	   <br>
   </td>
   <td class="baseTD tdHead"> <b> Finesse Our Culture </b><br>
@@ -66,8 +66,8 @@ width:25%
 </tr>
 <tr>
 <td class="baseTD ">
-  <p class="bottomBoxOdd">    Committee to Promote Chinese Language Learning
-    <br>推广华文学习委员会 </p></td>
+  <p class="bottomBoxOdd">   <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c1" >    Committee to Promote Chinese Language Learning
+	  <br>推广华文学习委员会 </a></p></td>
  
 <td class="baseTD ">
    <p class="bottomBoxEven">       Malay Language and Promotion Committee
