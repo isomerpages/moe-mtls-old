@@ -54,13 +54,14 @@ width:25%
 
 <tr>
   <td class="baseTD tdHead">
-   <b>Committee to Promote Chinese Language Learning</b><br>
+   <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c1" ><b>Committee to Promote Chinese Language Learning</b></a>
+	   <br>
   </td>
   <td class="baseTD tdHead"> <b> Finesse Our Culture </b><br>
   </td>
   <td class="baseTD tdHead"> <b>Tamil Language and Promotion Committee </b><br>
   </td>
-  <td class="baseTD tdHead"><b>Fun with our Mother Tongue Languages</b><br>
+  <td class="baseTD tdHead"><b>Fun with Our Mother Tongue Languages</b><br>
   </td>
 </tr>
 <tr>
