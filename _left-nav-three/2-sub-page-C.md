@@ -10,7 +10,6 @@ collection_name: left-nav-three
         vertical-align: top;
         padding: 7px;
     }
-
     .bottomBoxOdd {
         background-color: #5c3b96;
         padding: 7px;
@@ -19,7 +18,6 @@ collection_name: left-nav-three
         line-height: 1.5rem !important;
         font-size: 16px !important;
     }
-
     .bottomBoxEven {
         background-color: #8d3278;
         padding: 7px;
@@ -28,11 +26,9 @@ collection_name: left-nav-three
         line-height: 1.5rem !important;
         font-size: 16px !important;
     }
-
     .baseTD {
         width: 25%;
     }
-
     .btnInfo {
         background: #ab81f5;
         color: #fff !important;
@@ -43,14 +39,12 @@ collection_name: left-nav-three
         width: 200px;
         border-radius: 20px !important;
     }
-
     .btnInfo {
         -webkit-border-radius: 20px;
         -moz-border-radius: 20px;
         -ms-border-radius: 20px;
         -o-border-radius: 20px;
     }
-
         .btnInfo:hover {
             background: #583399;
         }
@@ -78,14 +72,12 @@ collection_name: left-nav-three
                 <br> <br>推广华文学习委员会
             </p>
         </td>
-
         <td class="baseTD ">
             <p class="bottomBoxEven">
                 Malay Language Learning and Promotion Committee
                 <br><br>Jawatankuasa Pembelajaran   dan Penggalakan Penggunaan Bahasa Melayu
             </p>
         </td>
-
         <td class="baseTD ">
             <p class="bottomBoxOdd">
                 Tamil Language Learning and Promotion Committee
@@ -139,7 +131,6 @@ collection_name: left-nav-three
         <td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c7">More info</a></td>
         <td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c8">More info</a></td>
     </tr>
-
     <tr>
         <td class="baseTD tdHead"><strong>M<sup>3</sup>@NeeSoon</strong><br></td>
         <td class="baseTD tdHead"><strong> National Heritage Board </strong> <br></td>
@@ -153,8 +144,8 @@ collection_name: left-nav-three
         <td class="baseTD ">
             <p class="bottomBoxEven">
                 National Heritage Board  <br><br />新加坡国家文物局
-                <br>Lembaga Warisan Negara
-                <br> தேசிய மரபுடைமைக் கழகம்
+                <br><br>Lembaga Warisan Negara
+                <br><br> தேசிய மரபுடைமைக் கழகம்
             </p>
         </td>
         <td class="baseTD ">
