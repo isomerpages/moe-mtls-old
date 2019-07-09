@@ -35,7 +35,7 @@ width:25%
 }
  
 .btnInfo {
-    background: #ab81f5;
+    background: #096e08;
     color: #fff !important;
     display: block;
     padding: 20px 10px;
