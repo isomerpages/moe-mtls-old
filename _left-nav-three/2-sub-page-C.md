@@ -18,6 +18,7 @@ padding: 7px;
 color: #ffffff;
 height:210px; 
 line-height :1.5rem !important;
+font-size:16px!important;
 }
 .bottomBoxEven{
   background-color: #8d3278;
@@ -25,6 +26,7 @@ line-height :1.5rem !important;
   color: #ffffff;
   height:210px;
   line-height :1.5rem !important;
+  font-size:16px!important;
 }
 .baseTD{
 width:25%
