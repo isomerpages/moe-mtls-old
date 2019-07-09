@@ -47,9 +47,7 @@ collection_name: left-nav-one
       <tr>
     <td>
     </td>
-    <td><b>Speaker:</b>  Lee Wei Hui 
-      <br>  Michelle Lee Qiaorou 
-      <br>  Chua Yinghan
+    <td><b>Speaker:</b>  Lee Wei Hui, Michelle Lee Qiaorou, Chua Yinghan
 <br><b>Topic:</b> Understanding 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese <br><b>Time:</b> 5.30pm - 6.30pm <br><b>Venue:</b> Room 311
 </td>
    <td>
