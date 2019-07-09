@@ -23,7 +23,7 @@ collection_name: left-nav-two
     <td COLSPAN="2">
     <b>Time: </b>2.05pm - 2.15pm
     <br><b>Title: </b> நன்னெறிக் கதைகள் சொல்லும் நேரம் <p style=" padding-left:53px;margin:0px;">Story Telling </p>    
-   <b>Performing Group: </b>St. Stephen's School
+   <b>Performing Group: </b>St Stephen's School
     </td>
   </tr>
   <tr>
@@ -37,7 +37,7 @@ collection_name: left-nav-two
     <td COLSPAN="2">
     <b>Time: </b>2.25pm - 2.35pm
     <br><b>Title: </b>   நாடகம் - சாங் நீல உத்தமன் <p style=" padding-left:53px;margin:0px;">Play - Sang Nila Utama</p>
-   <b>Performing Group: </b>Athipathi International Theatre(vendor) (NHB)
+   <b>Performing Group: </b>Athipathi International Theatre
     </td>
   </tr>
   <tr>
@@ -49,29 +49,29 @@ collection_name: left-nav-two
    <tr>
     <td COLSPAN="2">
     <b>Time: </b>6.00pm - 6.10pm
-    <br><b>Title: </b>வில்லுப்பாட்டு – சாங் நிலா உத்தமனின் கதை <p style=" padding-left:53px;margin:0px;">Villupaattu – The story of Sang Nila Uttama</p>
+    <br><b>Title: </b>வில்லுப்பாட்டு – சாங் நிலா உத்தமனின் கதை <p style=" padding-left:53px;margin:0px;">Villupaattu – The Story of Sang Nila Utama</p>
    <b>Performing Group: </b>AKT
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
     <b>Time: </b>6.10pm - 6.20pm
-    <br><b>Title: </b>தமிழில் பேசுவோம்!<p style=" padding-left:53px;margin:0px;"> Let’s speak in Tamil!</p>
+    <br><b>Title: </b>தமிழில் பேசுவோம்!<p style=" padding-left:53px;margin:0px;"> Let’s Speak in Tamil!</p>
    <b>Performing Group: </b>Corporation Primary School
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
     <b>Time: </b>6.20pm - 6.30pm
-    <br><b>Title: </b>   கைப்பாவையைப் பயன்படுத்திக்  கதை சொல்லும் நேரம் <p style=" padding-left:53px;margin:0px;">Story Telling using hand made puppets</p>
-   <b>Performing Group: </b>Xing Hua Primary School
+    <br><b>Title: </b>   கைப்பாவையைப் பயன்படுத்திக்  கதை சொல்லும் நேரம் <p style=" padding-left:53px;margin:0px;">Story Telling Using handmade puppets</p>
+   <b>Performing Group: </b>Xinghua Primary School
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
     <b>Time: </b>6.30pm - 6.40pm
     <br><b>Title: </b>  கேள்வி-பதில் அங்கம் <p style=" padding-left:53px;margin:0px;">Interactive Activities</p>
-   <b>Performing Group: </b>NIE Dip-in-Ed Students
+   <b>Performing Group: </b>NIE Diploma in Education Students
     </td>
   </tr>
    <tr>
