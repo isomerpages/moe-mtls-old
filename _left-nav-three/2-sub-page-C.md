@@ -110,7 +110,7 @@ width:25%
 <p class="bottomBoxOdd">Mediacorp<br/> <br>新传媒</p>
 </td>
 <td class="baseTD ">
-<p class="bottomBoxEven">Singapore Press Holdings - (Tamil Murasu) </p>
+<p class="bottomBoxEven">Singapore Press Holdings - (Tamil Murasu தமிழ் முரசு) </p>
 </td>
 <td class="baseTD ">
 <p class="bottomBoxOdd">SPH Students’ Publications: Berita Harian  <br><br />Penerbitan Pelajar, SPH: Berita Harian</p>
