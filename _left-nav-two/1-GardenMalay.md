@@ -69,7 +69,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>4.25pm - 4.35pm
-    <br><b>Title: </b>Mari  Berhibur  dan  Bernyanyi  -  Bangau,  Oh Bangau <p style=" padding-left:50px;margin:0px;">Sing and Dance - Bangau, Oh Bangau</p>
+    <br><b>Title: </b>Mari  Berhibur  dan  Bernyanyi  -  'Bangau,  Oh Bangau' <p style=" padding-left:50px;margin:0px;">Sing and Dance - Bangau, Oh Bangau</p>
     <b>Performing Group: </b>The Bambini SG
     </td>
   </tr>
