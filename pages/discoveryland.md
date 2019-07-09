@@ -10,7 +10,7 @@ breadcrumb: Discovery Land
 #### Discovery Land
 
 <p align="justify">
-One day, Kavin, Sani, Peppy and Xiaotao went on a journey and discovered a beautiful garden with fruit trees, lovely floral, unusual insects, animals and birds living on it. The four friends like the garden so much that they decided to declare it as their Garden City. 
+One day, Kavin, Sani, Peppy and Xiao Tao went on a journey and discovered a beautiful garden with fruit trees, lovely floral, unusual insects, animals and birds living on it. The four friends liked the garden so much that they decided to declare it as their Garden City. 
 </p>
 <p align="justify">
 There are many things you can do at the Garden for Joyful Discovery. Join us for a fun and exciting experience as we discover various birds, animals, fruits, flowers and insects together!
