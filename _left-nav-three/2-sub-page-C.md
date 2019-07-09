@@ -16,14 +16,14 @@ collection_name: left-nav-three
 background-color: #5c3b96;
 padding: 7px;
 color: #ffffff;
-  
+height:210px; 
 line-height :1.5rem !important;
 }
 .bottomBoxEven{
   background-color: #8d3278;
   padding: 7px;
   color: #ffffff;
-  
+  height:210px;
   line-height :1.5rem !important;
 }
 .baseTD{
