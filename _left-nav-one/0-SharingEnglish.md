@@ -8,12 +8,12 @@ collection_name: left-nav-one
 
 <table>
   
-  <tr>
+<tr>
     <td>
     </td>
-  <td><b>Speaker:</b> Dr Jennifer Tsai <br><b>Topic:</b> Have Fun with Exploring Mandarin through Multi-Sensory Learning<br><b>Time:</b> 12.30pm - 1.30pm<br><b>Venue:</b> Room 311
+    <td><b>Speaker:</b> Dr Jennifer Tsai <br><b>Topic:</b> Have Fun with Exploring Mandarin through Multi-Sensory Learning <br><b>Time:</b> 12.30pm - 1.30pm <br><b>Venue:</b> Room 311
 </td>
- <td>
+    <td>
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=E1"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
   </tr>
