@@ -193,7 +193,7 @@ collection_name: left-nav-three
             <b>MTL Language Elective Programmes at the JC Level</b><br>
         </td>
         <td class="baseTD tdHead">
-            <b></b><br>
+            <b>Pre-school and Primary</b><br>
         </td>
         <td class="baseTD tdHead">
             <b>Enthuse a Primary Classroom With MK Small readers!</b><br>
