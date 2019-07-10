@@ -10,18 +10,6 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker(s):</b> Dr Connie Lum <br>
-         <b>Topic:</b> Language Immersion Through Play-Based Learning <br>
-         <b>Time:</b> 12.30pm - 1.30pm <br>
-         <b>Venue:</b> Room 310
-      </td>
-      <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C16"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
-  </td>
-   </tr>
-   <tr>
-      <td>
-      </td>
       <td><b>Speaker(s):</b> Wee Khang Ping, Ju Shiying<br>
          <b>Topic:</b> Learning of CL Through Parent-Child Activities <br>
          <b>Time:</b> 12.30pm - 1.30pm <br>
@@ -101,6 +89,18 @@ collection_name: left-nav-one
       </td>
       <td>
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=C7"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+  </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
+      <td><b>Speaker(s):</b> Dr Connie Lum <br>
+         <b>Topic:</b> Language Immersion Through Play-Based Learning <br>
+         <b>Time:</b> 3.00pm - 4.00pm <br>
+         <b>Venue:</b> Room 310
+      </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C16"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
