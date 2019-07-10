@@ -13,7 +13,6 @@ collection_name: left-nav-three
    
  
 }
-
     .bottomBoxOdd {
         background-color: #cc1285;
         padding: 7px;
@@ -22,7 +21,6 @@ collection_name: left-nav-three
         line-height: 1.5rem !important;
         font-size: 16px !important;
     }
-
     .bottomBoxEven {
         background-color:#ed2ba3;
         padding: 7px;
@@ -103,7 +101,7 @@ width:25%
   </td>
   <td class="baseTD tdHead"> <b> Integrated Approach to Teaching and Learning of MTL Leveraging the MK Total Curriculum</b><br>
   </td>
-  <td class="baseTD tdHead"> <b>Love Our Malay Languages through the Past and Present Games</b><br>
+  <td class="baseTD tdHead"> <b>Love Our Malay Languages Through the Past and Present Games</b><br>
   </td>
   <td class="baseTD tdHead"><b>Language in the Wild</b><br>
   </td>
@@ -138,9 +136,9 @@ width:25%
     </td>
   </tr>
   <tr>
-  <td class="baseTD tdHead"> <b>Learning Tamil through Fun-Filled Activities</b><br>
+  <td class="baseTD tdHead"> <b>Learning Tamil Through Fun-Filled Activities</b><br>
   </td>
-  <td class="baseTD tdHead"><b>Learning Tamil through traditional activities</b><br>
+  <td class="baseTD tdHead"><b>Learning Tamil Through Traditional activities</b><br>
   </td>
 </tr>
 <tr>
