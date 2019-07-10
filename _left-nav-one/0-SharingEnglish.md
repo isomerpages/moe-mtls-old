@@ -11,7 +11,7 @@ collection_name: left-nav-one
 <tr>
     <td>
     </td>
-    <td><b>Speaker(s):</b> Dr Jennifer Tsai <br><b>Topic:</b> Have Fun with Exploring Mandarin through Multi-Sensory Learning <br><b>Time:</b> 12.30pm - 1.30pm <br><b>Venue:</b> Room 311
+    <td><b>Speaker(s):</b> Dr Jennifer Tsai <br><b>Topic:</b> Have Fun with Exploring Mandarin Through Multi-Sensory Learning <br><b>Time:</b> 12.30pm - 1.30pm <br><b>Venue:</b> Room 311
 </td>
     <td>
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=E1"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
@@ -29,7 +29,7 @@ collection_name: left-nav-one
     <tr>
     <td>
     </td>
-    <td><b>Speaker(s):</b> Dr Anitha Devi Pillai <br><b>Topic:</b> How do You Encourage Literacy in Young Children (and Beyond)?<br><b>Time:</b> 3.00pm - 4.00pm <br><b>Venue:</b> Room 311
+    <td><b>Speaker(s):</b> Dr Anitha Devi Pillai <br><b>Topic:</b> How Do You Encourage Literacy in Young Children (and Beyond)?<br><b>Time:</b> 3.00pm - 4.00pm <br><b>Venue:</b> Room 311
   </td>
    <td>
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=E3"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
