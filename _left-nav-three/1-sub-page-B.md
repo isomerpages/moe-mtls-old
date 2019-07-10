@@ -10,7 +10,6 @@ collection_name: left-nav-three
         vertical-align: top;
         padding: 7px;
     }
-
     .bottomBoxOdd {
         background-color: #32c949;
         padding: 7px;
@@ -19,7 +18,6 @@ collection_name: left-nav-three
         line-height: 1.5rem !important;
         font-size: 16px !important;
     }
-
     .bottomBoxEven {
         background-color: #4dc960;
         padding: 7px;
@@ -28,11 +26,9 @@ collection_name: left-nav-three
         line-height: 1.5rem !important;
         font-size: 16px !important;
     }
-
     .baseTD {
         width: 25%;
     }
-
     .btnInfo {
         background: #08961d;
         color: #fff !important;
@@ -43,14 +39,12 @@ collection_name: left-nav-three
         width: 200px;
         border-radius: 20px !important;
     }
-
     .btnInfo {
         -webkit-border-radius: 20px;
         -moz-border-radius: 20px;
         -ms-border-radius: 20px;
         -o-border-radius: 20px;
     }
-
         .btnInfo:hover {
             background: #3c8546;
         }
@@ -74,11 +68,9 @@ collection_name: left-nav-three
         <td class="baseTD ">
             <p class="bottomBoxOdd">Rosyth School<br><br>乐赛学校 </p>
         </td>
-
         <td class="baseTD ">
             <p class="bottomBoxEven">Marsiling Primary School<br><br>马西岭小学 </p>
         </td>
-
         <td class="baseTD ">
             <p class="bottomBoxOdd">
                 Hong Wen School<br><br>宏文学校
@@ -106,7 +98,7 @@ collection_name: left-nav-three
     </tr>
     <tr>
         <td class="baseTD tdHead">
-            <b>Developing Confident Communicators Through An Enriched Global Education</b><br>
+            <b>Developing Confident Communicators Through an Enriched Global Education</b><br>
         </td>
         <td class="baseTD tdHead">
             <b>Nurturing Confident Writers</b><br>
@@ -122,11 +114,9 @@ collection_name: left-nav-three
         <td class="baseTD ">
             <p class="bottomBoxOdd">St Hilda’s Primary School<br><br> 圣希尔达小学 </p>
         </td>
-
         <td class="baseTD ">
             <p class="bottomBoxEven">Evergreen Secondary School<br><br>永青中学 </p>
         </td>
-
         <td class="baseTD ">
             <p class="bottomBoxOdd">
                 Pre-U<br><br>高中
@@ -170,11 +160,9 @@ collection_name: left-nav-three
         <td class="baseTD ">
             <p class="bottomBoxOdd">Clementi Primary School<br><br>Sekolah Rendah Clementi </p>
         </td>
-
         <td class="baseTD ">
             <p class="bottomBoxEven"> Tampines Primary School<br><br>Sekolah Rendah Tampines</p>
         </td>
-
         <td class="baseTD ">
             <p class="bottomBoxOdd">
                 Shuqun Primary School<br><br>Sekolah Rendah Shuqun
@@ -218,7 +206,6 @@ collection_name: left-nav-three
         <td class="baseTD ">
             <p class="bottomBoxOdd">Pre-U<br><br>Pra-U </p>
         </td>
-
         <td class="baseTD ">
             <p class="bottomBoxEven"> MOE-HQ CPDD MTLB Curriculum Booth*</p>
         </td>
@@ -257,11 +244,9 @@ collection_name: left-nav-three
         </td>
     </tr>
     <tr>
-
         <td class="baseTD ">
             <p class="bottomBoxEven">Greendale Primary School<br><br>கிரீன்டேல் உயர்நிலைப்பள்ளி  </p>
         </td>
-
         <td class="baseTD ">
             <p class="bottomBoxOdd">
                 Chua Chu Kang Secondary<br><br>சுவா சூ காங் உயர்நிலைப் பள்ளி
