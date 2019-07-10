@@ -153,7 +153,7 @@ collection_name: left-nav-three
             <b>Fun Learning @ Shuqun</b><br>
         </td>
         <td class="baseTD tdHead">
-            <b>Enhancing Oral Competencies through Interactive Games </b><br>
+            <b>Enhancing Oral Competencies Through Interactive Games </b><br>
         </td>
     </tr>
     <tr>
