@@ -167,7 +167,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Yu Liang <br>
-         <b>Topic:</b> Expanding Your Imagination and Creativity through Drama and Games <br>
+         <b>Topic:</b> Unpacking Picture Books Through Dramatisation <br>
          <b>Time:</b> 4.15pm - 5.15pm <br>
          <b>Venue:</b> Room 310
       </td>
