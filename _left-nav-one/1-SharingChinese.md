@@ -10,8 +10,20 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
+      <td><b>Speaker(s):</b> Xu Jinhong, Fang Fang, Yang Wenxia <br>
+         <b>Topic:</b> Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese<br>
+         <b>Time:</b> 12.30pm - 1.30pm <br>
+         <b>Venue:</b> Room 309
+      </td>
+      <td>
+   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C13"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+  </td>
+   </tr>
+   <tr>
+      <td>
+      </td>
       <td><b>Speaker(s):</b> Wee Khang Ping, Ju Shiying<br>
-         <b>Topic:</b> Learning of CL Through Parent-Child Activities <br>
+         <b>Topic:</b> Learning of Chinese Through Parent-Child Activities <br>
          <b>Time:</b> 12.30pm - 1.30pm <br>
          <b>Venue:</b> Room 310
       </td>
@@ -22,7 +34,7 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker(s):</b> Cheryl Yap Xinhui, Li Hongyu <br>
+      <td><b>Speaker(s):</b> Li Hongyu, Cheryl Yap<br>
          <b>Topic:</b> Learning Chinese in a Fun Way! <br>
          <b>Time:</b> 12.30pm - 1.30pm <br>
          <b>Venue:</b> Room 308
@@ -47,7 +59,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Dr Connie Lum <br>
-         <b>Topic:</b> Language Immersion Through Play-Based Learning <br>
+         <b>Topic:</b> Language Immersion Through Play-Based Learning(Session 1) <br>
          <b>Time:</b> 1.45pm - 2.45pm <br>
          <b>Venue:</b> Room 310
       </td>
@@ -70,8 +82,8 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker(s):</b> Dr Cheng Wan-ni, Dr Wu Yung-sen, Zheng Yingjiang<br>
-         <b>Topic:</b> Run! Jump! Bump! Learn Mandarin by Integrating Physical Rhythm and Interactive Games <br>
+      <td><b>Speaker(s):</b> Dr Cheng Wan-Ni, Dr Wu Yung-Sen, Zheng Yingjiang<br>
+         <b>Topic:</b> Run! Jump! Bump! Learn Chinese by Integrating Physical Rhythm and Interactive Games <br>
          <b>Time:</b> 1.45pm - 2.45pm <br>
          <b>Venue:</b> Room 309
       </td>
@@ -95,7 +107,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Dr Connie Lum <br>
-         <b>Topic:</b> Language Immersion Through Play-Based Learning <br>
+         <b>Topic:</b> Language Immersion Through Play-Based Learning(Session 2) <br>
          <b>Time:</b> 3.00pm - 4.00pm <br>
          <b>Venue:</b> Room 310
       </td>
@@ -106,20 +118,8 @@ collection_name: left-nav-one
    <tr>
       <td>
       </td>
-      <td><b>Speaker(s):</b> Xu Jinhong, Fang Fang, Yang Wenxia <br>
-         <b>Topic:</b> Understanding 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese.<br>
-         <b>Time:</b> 3.00pm - 4.00pm <br>
-         <b>Venue:</b> Room 309
-      </td>
-      <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C13"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
-  </td>
-   </tr>
-   <tr>
-      <td>
-      </td>
       <td><b>Speaker(s):</b> Kate Pang, Andie Chen <br>
-         <b>Topic:</b> Chinese Language Is Easy to Master <br>
+         <b>Topic:</b> Chinese Language Is Easy to Master(Session 1) <br>
          <b>Time:</b> 3.00pm - 4.00pm <br>
          <b>Venue:</b> Room 303 - 304
       </td>
@@ -131,7 +131,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Dr Aw Guat Poh <br>
-         <b>Topic:</b> Learning How to Learn in Chinese Language –Sharing of Research-Based Self-Directed Reading Strategies <br>
+         <b>Topic:</b> Learning How to Learn in Chinese Language –Sharing of Research-Based Self-Directed Reading Strategies (Session 1)<br>
          <b>Time:</b> 3.00pm - 4.00pm<br>
          <b>Venue:</b> Room 308
       </td>
@@ -179,7 +179,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Dr Aw Guat Poh <br>
-         <b>Topic:</b> Learning How To Learn in Chinese Language –Sharing of  Research-Based Self-Directed Reading Strategies <br>
+         <b>Topic:</b> Learning How To Learn in Chinese Language –Sharing of  Research-Based Self-Directed Reading Strategies(Session 2)<br>
          <b>Time:</b> 4.15pm - 5.15pm <br>
          <b>Venue:</b> Room 308
       </td>
@@ -191,7 +191,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Kate Pang, Andie Chen <br>
-         <b>Topic:</b> Chinese Language Is Easy to Master <br>
+         <b>Topic:</b> Chinese Language Is Easy to Master(Session 2)<br>
          <b>Time:</b> 4.15pm - 5.15pm <br>
          <b>Venue:</b> Room 303 - 304
       </td>
@@ -215,7 +215,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Lim Kwee Hua<br>
-         <b>Topic:</b> Enjoy Wonderful Parent-Child Reading Time <br>
+         <b>Topic:</b> Enjoying Wonderful Parent-Child Reading Time <br>
          <b>Time:</b> 5.30pm - 6.30pm <br>
          <b>Venue:</b> Room 309
       </td>
