@@ -237,7 +237,7 @@ collection_name: left-nav-three
             <b>Once Upon a Time...</b><br>
         </td>
         <td class="baseTD tdHead">
-            <b>Click- Think- Connect ICT enabled process for harnessing students’ content acquisition through Critical Thinking. </b><br>
+            <b>Click-Think-Connect. ICT Enabled Process for Harnessing Student’ Content Acquisition Through Critical Thinking.</b><br>
         </td>
         <td class="baseTD tdHead">
             <b>MTL Language Elective Programmes at the JC Level</b><br>
