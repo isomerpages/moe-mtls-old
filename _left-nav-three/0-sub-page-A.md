@@ -158,11 +158,4 @@ width:25%
    	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=PS8T"  class="btnInfo">More info</a>
     </td>
   </tr>
-  <tr>
-  <td class="baseTD tdHead">
-   <b>Differentiated Approach in the Learning of Mother Tongue Languages</b><br>
-  </td>
-  <td class="baseTD tdHead"> <b>Integrated approach to teaching and learning of MTL leveraging the MK total curriculum</b><br>
-  </td>
-</tr>
 </table> 
