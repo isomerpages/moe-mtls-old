@@ -119,7 +119,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Kate Pang, Andie Chen <br>
-         <b>Topic:</b> Chinese Language Is Easy to Master (Session 1) <br>
+         <b>Topic:</b> Chinese Language is Easy to Master (Session 1) <br>
          <b>Time:</b> 3.00pm - 4.00pm <br>
          <b>Venue:</b> Room 303 - 304
       </td>
@@ -191,7 +191,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Kate Pang, Andie Chen <br>
-         <b>Topic:</b> Chinese Language Is Easy to Master (Session 2)<br>
+         <b>Topic:</b> Chinese Language is Easy to Master (Session 2)<br>
          <b>Time:</b> 4.15pm - 5.15pm <br>
          <b>Venue:</b> Room 303 - 304
       </td>
