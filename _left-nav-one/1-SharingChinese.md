@@ -227,7 +227,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Tan Pek Kian<br>
-         <b>Topic:</b> Planting a Story Tree With Your Child <br>
+         <b>Topic:</b> Planting a Story Tree with Your Child <br>
          <b>Time:</b> 5.30pm - 6.30pm <br>
          <b>Venue:</b> Room 308
       </td>
