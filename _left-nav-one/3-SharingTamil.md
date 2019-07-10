@@ -57,7 +57,7 @@ collection_name: left-nav-one
         <tr>
     <td>
     </td>
-    <td><b>Speaker(s):</b> Anandha Kannan<br><b>Topic:</b> Joyful Learning Of Tamil through Stories <br><b>Time:</b> 5.30pm - 6.30pm <br><b>Venue:</b> Room 300
+    <td><b>Speaker(s):</b> Anandha Kannan<br><b>Topic:</b> Joyful Learning of Tamil Through Stories <br><b>Time:</b> 5.30pm - 6.30pm <br><b>Venue:</b> Room 300
 </td>
            <td>
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=T5"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More<br>info</a>
