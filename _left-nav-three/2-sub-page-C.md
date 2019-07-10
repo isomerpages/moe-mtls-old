@@ -119,7 +119,7 @@ collection_name: left-nav-three
             <p class="bottomBoxEven">SPH Publications: Tamil Murasu <br /><br />தமிழ் முரசு </p>
         </td>
         <td class="baseTD ">
-            <p class="bottomBoxOdd">SPH Students’ Publications: Berita Harian  <br><br />Penerbitan Pelajar, SPH: Berita Harian</p>
+            <p class="bottomBoxOdd">SPH Students’ Publications: Berita Harian/ Gen G  <br><br />Penerbitan Pelajar, SPH: Berita Harian/ Gen G</p>
         </td>
         <td class="baseTD">
             <p class="bottomBoxEven">SPH ZbCOMMA/ Thumbs Up/ Thumbs Up Junior/ Thumbs Up Little Junior<br><br />新加坡报业控股</p>
