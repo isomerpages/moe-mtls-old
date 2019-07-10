@@ -11,7 +11,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Dr Connie Lum <br>
-         <b>Topic:</b> Language Immersion Through Play-based Learning <br>
+         <b>Topic:</b> Language Immersion Through Play-Based Learning <br>
          <b>Time:</b> 12.30pm - 1.30pm <br>
          <b>Venue:</b> Room 310
       </td>
@@ -59,7 +59,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Dr Connie Lum <br>
-         <b>Topic:</b> Language Immersion Through Play-based Learning <br>
+         <b>Topic:</b> Language Immersion Through Play-Based Learning <br>
          <b>Time:</b> 1.45pm - 2.45pm <br>
          <b>Venue:</b> Room 310
       </td>
