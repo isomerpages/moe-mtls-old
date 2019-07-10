@@ -138,7 +138,7 @@ width:25%
   <tr>
   <td class="baseTD tdHead"> <b>Learning Tamil Through Fun-Filled Activities</b><br>
   </td>
-  <td class="baseTD tdHead"><b>Learning Tamil Through Traditional activities</b><br>
+  <td class="baseTD tdHead"><b>Learning Tamil Through Traditional Activities</b><br>
   </td>
 </tr>
 <tr>
