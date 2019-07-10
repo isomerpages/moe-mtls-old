@@ -131,7 +131,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Dr Aw Guat Poh <br>
-         <b>Topic:</b> Learning how to Learn in Chinese Language –Sharing of Research-based Self-directed Reading Strategies <br>
+         <b>Topic:</b> Learning How to Learn in Chinese Language –Sharing of Research-Based Self-Directed Reading Strategies <br>
          <b>Time:</b> 3.00pm - 4.00pm<br>
          <b>Venue:</b> Room 308
       </td>
@@ -143,7 +143,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Yu Liang<br>
-         <b>Topic:</b> Expanding Your Imagination and Creativity through Drama and Games <br>
+         <b>Topic:</b> Expanding Your Imagination and Creativity Through Drama and Games <br>
          <b>Time:</b> 3.00pm - 4.00pm <br>
          <b>Venue:</b> Room 310
       </td>
@@ -155,7 +155,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Jing Yan, Li Yanli, Wang Junyi <br>
-         <b>Topic:</b> The Illusion and Reality through Interesting Stories - “Let’s Read, Dramatize <br>
+         <b>Topic:</b> The Illusion and Reality Through Interesting Stories - “Let’s Read, Dramatize <br>
          <b>Time:</b> 4.15pm - 5.15pm <br>
          <b>Venue:</b> Room 309
       </td>
