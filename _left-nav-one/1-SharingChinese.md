@@ -155,7 +155,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Jing Yan, Li Yanli, Wang Junyi <br>
-         <b>Topic:</b> The Illusion and Reality Through Interesting Stories - “Let’s Read, Dramatize <br>
+         <b>Topic:</b> Bridging Illusions and Reality Through Interesting stories - “Read, Dramatize and Speak!” <br>
          <b>Time:</b> 4.15pm - 5.15pm <br>
          <b>Venue:</b> Room 309
       </td>
@@ -239,7 +239,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Dr Sun Baoqi <br>
-         <b>Topic:</b> Reading in Two Languages: What We Need to Know and How We Can Support <br>
+         <b>Topic:</b> Reading in Two Languages: What We Need to Know and How We Can Support It<br>
          <b>Time:</b> 5.30pm - 6.30pm <br>
          <b>Venue:</b> Room 303 - 304
       </td>
