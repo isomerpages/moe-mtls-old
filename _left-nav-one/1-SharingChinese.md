@@ -23,7 +23,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Wee Khang Ping, Ju Shiying<br>
-         <b>Topic:</b> Learning of CL Through Parent-child Activities <br>
+         <b>Topic:</b> Learning of CL Through Parent-Child Activities <br>
          <b>Time:</b> 12.30pm - 1.30pm <br>
          <b>Venue:</b> Room 310
       </td>
@@ -71,7 +71,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Lee Keng Chin, Liu Ying, Zhang Shan, Dr Lin An-chi <br>
-         <b>Topic:</b> Learning MTL through Purposeful Play <br>
+         <b>Topic:</b> Learning MTL Through Purposeful Play <br>
          <b>Time:</b> 1.45pm - 2.45pm <br>
          <b>Venue:</b> Room 308
       </td>
@@ -179,7 +179,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Dr Aw Guat Poh <br>
-         <b>Topic:</b> Learning how to Learn in Chinese Language –Sharing of  Research-based Self-directed Reading Strategies <br>
+         <b>Topic:</b> Learning How To Learn in Chinese Language –Sharing of  Research-Based Self-Directed Reading Strategies <br>
          <b>Time:</b> 4.15pm - 5.15pm <br>
          <b>Venue:</b> Room 308
       </td>
@@ -203,7 +203,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Alicia Lim <br>
-         <b>Topic:</b> Virtues: The Way to Character-building <br>
+         <b>Topic:</b> Virtues: The Way to Character-Building <br>
          <b>Time:</b> 5.30pm - 6.30pm <br>
          <b>Venue:</b> Room 310
       </td>
@@ -215,7 +215,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Lim Kwee Hua<br>
-         <b>Topic:</b> Enjoy Wonderful Parent-child Reading Time <br>
+         <b>Topic:</b> Enjoy Wonderful Parent-Child Reading Time <br>
          <b>Time:</b> 5.30pm - 6.30pm <br>
          <b>Venue:</b> Room 309
       </td>
