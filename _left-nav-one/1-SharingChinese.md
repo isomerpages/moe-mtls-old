@@ -59,7 +59,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Dr Connie Lum <br>
-         <b>Topic:</b> Language Immersion Through Play-Based Learning(Session 1) <br>
+         <b>Topic:</b> Language Immersion Through Play-Based Learning (Session 1) <br>
          <b>Time:</b> 1.45pm - 2.45pm <br>
          <b>Venue:</b> Room 310
       </td>
@@ -107,7 +107,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Dr Connie Lum <br>
-         <b>Topic:</b> Language Immersion Through Play-Based Learning(Session 2) <br>
+         <b>Topic:</b> Language Immersion Through Play-Based Learning (Session 2) <br>
          <b>Time:</b> 3.00pm - 4.00pm <br>
          <b>Venue:</b> Room 310
       </td>
@@ -119,7 +119,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Kate Pang, Andie Chen <br>
-         <b>Topic:</b> Chinese Language Is Easy to Master(Session 1) <br>
+         <b>Topic:</b> Chinese Language Is Easy to Master (Session 1) <br>
          <b>Time:</b> 3.00pm - 4.00pm <br>
          <b>Venue:</b> Room 303 - 304
       </td>
@@ -179,7 +179,7 @@ collection_name: left-nav-one
       <td>
       </td>
       <td><b>Speaker(s):</b> Dr Aw Guat Poh <br>
-         <b>Topic:</b> Learning How To Learn in Chinese Language –Sharing of  Research-Based Self-Directed Reading Strategies(Session 2)<br>
+         <b>Topic:</b> Learning How To Learn in Chinese Language –Sharing of  Research-Based Self-Directed Reading Strategies (Session 2)<br>
          <b>Time:</b> 4.15pm - 5.15pm <br>
          <b>Venue:</b> Room 308
       </td>
