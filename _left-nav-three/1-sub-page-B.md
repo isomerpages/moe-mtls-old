@@ -190,9 +190,6 @@ collection_name: left-nav-three
     </tr>
     <tr>
         <td class="baseTD tdHead">
-            <b>MTL Language Elective Programmes at the JC Level</b><br>
-        </td>
-        <td class="baseTD tdHead">
             <b>Pre-school and Primary</b><br>
         </td>
         <td class="baseTD tdHead">
@@ -201,11 +198,11 @@ collection_name: left-nav-three
         <td class="baseTD tdHead">
             <b>Snap The Characters Away</b><br>
         </td>
+        <td class="baseTD tdHead">
+            <b>Once Upon a Time...</b><br>
+        </td>
     </tr>
     <tr>
-        <td class="baseTD ">
-            <p class="bottomBoxOdd">Pre-U<br><br>Pra-U </p>
-        </td>
         <td class="baseTD ">
             <p class="bottomBoxEven"> MOE-HQ CPDD MTLB Curriculum Booth*</p>
         </td>
@@ -217,11 +214,11 @@ collection_name: left-nav-three
         <td class="baseTD ">
             <p class="bottomBoxOdd"> Bedok Green Primary School<br><br>பிடோக் கிரீன் தொடக்கப்பள்ளி</p>
         </td>
+        <td class="baseTD ">
+            <p class="bottomBoxEven">Greendale Primary School<br><br>கிரீன்டேல் உயர்நிலைப்பள்ளி  </p>
+        </td>
     </tr>
     <tr>
-        <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S15M" class="btnInfo">More info</a>
-        </td>
         <td>
             <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S16M" class="btnInfo">More info</a>
         </td>
@@ -231,42 +228,25 @@ collection_name: left-nav-three
         <td>
             <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S10T" class="btnInfo">More info</a>
         </td>
+        <td>
+            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S11T" class="btnInfo">More info</a>
+        </td>
     </tr>
     <tr>
-        <td class="baseTD tdHead">
-            <b>Once Upon a Time...</b><br>
-        </td>
         <td class="baseTD tdHead">
             <b>Click-Think-Connect. ICT Enabled Process for Harnessing Student’ Content Acquisition Through Critical Thinking.</b><br>
         </td>
-        <td class="baseTD tdHead">
-            <b>MTL Language Elective Programmes at the JC Level</b><br>
-        </td>
     </tr>
     <tr>
-        <td class="baseTD ">
-            <p class="bottomBoxEven">Greendale Primary School<br><br>கிரீன்டேல் உயர்நிலைப்பள்ளி  </p>
-        </td>
         <td class="baseTD ">
             <p class="bottomBoxOdd">
                 Chua Chu Kang Secondary<br><br>சுவா சூ காங் உயர்நிலைப் பள்ளி
             </p>
         </td>
-        <td class="baseTD">
-            <p class="bottomBoxEven">
-                Pre-U CL/ML/TL
-            </p>
-        </td>
     </tr>
     <tr>
         <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S11T" class="btnInfo">More info</a>
-        </td>
-        <td>
             <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S14T" class="btnInfo">More info</a>
-        </td>
-        <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S15T" class="btnInfo">More info</a>
         </td>
     </tr>
 </table>
