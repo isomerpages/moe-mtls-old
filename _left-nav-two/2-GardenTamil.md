@@ -49,7 +49,7 @@ collection_name: left-nav-two
    <tr>
     <td COLSPAN="2">
     <b>Time: </b>6.00pm - 6.10pm
-    <br><b>Title: </b>சாங்நீலஉத்தமனின்கதத <p style=" padding-left:53px;margin:0px;">Villupaattu – The Story of Sang Nila Utama</p>
+    <br><b>Title: </b>சாங் நீல உத்தமனின் கதை <p style=" padding-left:53px;margin:0px;">Villupaattu – The Story of Sang Nila Utama</p>
    <b>Performing Group: </b>AKT Creations
     </td>
   </tr>
