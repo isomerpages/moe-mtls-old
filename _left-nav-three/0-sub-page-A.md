@@ -101,7 +101,7 @@ width:25%
   </td>
   <td class="baseTD tdHead"> <b> Integrated Approach to Teaching and Learning of MTL Leveraging the MK Total Curriculum</b><br>
   </td>
-  <td class="baseTD tdHead"> <b>Love Our Malay Languages Through the Past and Present Games</b><br>
+  <td class="baseTD tdHead"> <b>Love Our Malay Language Through the Past and Present Games</b><br>
   </td>
   <td class="baseTD tdHead"><b>Language in the Wild</b><br>
   </td>
