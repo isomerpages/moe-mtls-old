@@ -119,7 +119,7 @@ collection_name: left-nav-three
         </td>
         <td class="baseTD ">
             <p class="bottomBoxOdd">
-                Pre-U<br><br>高中
+                Pre-U<br><br>高中<br><br>Pra-U
             </p>
         </td>
         <td class="baseTD">
@@ -193,7 +193,7 @@ collection_name: left-nav-three
             <b>Pre-school and Primary</b><br>
         </td>
         <td class="baseTD tdHead">
-            <b>Enthuse a Primary Classroom With MK Small readers!</b><br>
+            <b>Enthuse a Primary Classroom With MK Small Readers!</b><br>
         </td>
         <td class="baseTD tdHead">
             <b>Snap The Characters Away</b><br>
