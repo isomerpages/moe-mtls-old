@@ -234,7 +234,7 @@ collection_name: left-nav-three
     </tr>
     <tr>
         <td class="baseTD tdHead">
-            <b>Click-Think-Connect. ICT Enabled Process for Harnessing Student’ Content Acquisition Through Critical Thinking.</b><br>
+            <b>Click-Think-Connect. ICT Enabled Process for Harnessing Students’ Content Acquisition Through Critical Thinking.</b><br>
         </td>
     </tr>
     <tr>
