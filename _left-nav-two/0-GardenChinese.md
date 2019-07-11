@@ -104,7 +104,7 @@ collection_name: left-nav-two
    <tr>
     <td COLSPAN="2">
     <b>Time: </b>4.55pm - 5.05pm
-    <br><b>Title: </b>华艺表演 <br><p style=" padding-left:55px;margin:0px;">A Gu Zheng and Poem Recital Performance</p> 
+    <br><b>Title: </b>华艺表演 <br><p style=" padding-left:55px;margin:0px;">Gu Zheng and Poem Recital Performance</p> 
     <b>Performing Group: </b>Endeavour Primary School
     </td>
   </tr>
@@ -132,7 +132,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>5.35pm - 5.50pm
-    <br><b>Title: </b>Cross Talk “语文学习乐”相声表演<br><p style="padding-left:50px;margin:0px;">Cross Talk</p> 
+    <br><b>Title: </b>Cross Talk “语文学习乐”相声表演<br><p style="padding-left:50px;margin:0px;"></p> 
     <b>Performing Group: </b>Singfeng Cross Talk
     </td>
   </tr>
