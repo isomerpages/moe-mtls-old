@@ -58,7 +58,7 @@ collection_name: left-nav-three
             <b>Joy in Reading</b><br>
         </td>
         <td class="baseTD tdHead">
-            <b>Chinese Language Camp; Cultural Fortnight</b><br>
+            <b>Chinese Language and Cultural Fortnight</b><br>
         </td>
         <td class="baseTD tdHead">
             <b>CL eXcite - Joy of Learning</b><br>
