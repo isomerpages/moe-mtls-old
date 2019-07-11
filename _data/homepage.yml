@@ -11,37 +11,14 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/Title FA-01.png
 
 # Hero Banner 
-hero-title: Our Mother Tongues as Living Languages
-hero-banner: /images/HomeHero.jpg
-
-#Call to Action Button
-//button:
-//  - text: Register Now
-//    url: https://google.com
-//   external: true
-
-##################################
-#                                #
-# WOHOO!
-#                                #
-##################################
-
-# Favicon
-favicon: /images/favicon-isomer.ico
-
-# Agency logo
-agency-logo: /images/Title FA-01.png
-
-# Hero Banner 
-hero-title: MTLS 2019
 fontsize: 200pt
 hero-banner: /images/HomeHero.jpg
 
 #Call to Action Button
-//button:
-//  - text: Register Now
-//    url: https://google.com
-//   external: true
+#button:
+#  - text: Register Now
+#    url: https://google.com
+#   external: true
 
 key-highlights:
 
@@ -60,4 +37,3 @@ careers-title:
 careers-subtitle: SHARING SESSIONS
 careers-description: 
 careers-more-button: More
-
