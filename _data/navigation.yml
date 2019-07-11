@@ -4,47 +4,47 @@
 #                                #
 ##################################
 
-- title: Our Journey
-  url: /our-journey/
-
-- title: Neighborhood Hero
-  url: /neighborhood-hero/
-
+- title: About Us
+  url: /about-us/
+  
 - title: Sharing Sessions
-  url: /left-nav-one/userful-tips/
+  url: /sharesessions/
   sub-links:
   - title: English
-    url: /left-nav-one/sub-page-A/
+    url: /sharesessions/English/
   - title: Chinese
-    url: /left-nav-one/sub-page-B/
+    url: /sharesessions/Chinese/
   - title: Malay
-    url: /left-nav-one/sub-page-C/
+    url: /sharesessions/Malay/
   - title: Tamil
-    url: /left-nav-one/sub-page-D/
+    url: /sharesessions/Tamil/
 
-- title: Performances
-  url: /left-nav-two/sub-page-C/
-  sub-links:
-  - title: Chinese
-    url: /left-nav-two/sub-page-A/
-  - title: Malay
-    url: /left-nav-two/sub-page-B/
-  - title: Tamil
-    url: /left-nav-two/sub-page-C/
-  - title: Junction Tree
-    url: /left-nav-two/sub-page-D/
+- title: Discovery Land
+  url: /discovery-land/
 
-- title: Booths
+- title: Carnival
   url: /left-nav-three/sub-page-C/
   sub-links:
-  - title: Pre-School
+  - title: Pre-schools
     url: /left-nav-three/sub-page-A/
   - title: Schools
     url: /left-nav-three/sub-page-B/
   - title: Community Partners
     url: /left-nav-three/sub-page-C/
-  - title: MTL Bookstore
-    url: /left-nav-three/sub-page-D/
 
-- title: Award
-  url: /award/
+
+  
+- title: Garden Ensemble
+  url: /GardenEnsemble/Chinese/
+  sub-links:
+  - title: Chinese Performances
+    url: /GardenEnsemble/Chinese/
+  - title: Malay Performances
+    url: /GardenEnsemble/Malay/
+  - title: Tamil Performances
+    url: /GardenEnsemble/Tamil/
+
+- title: <span style="color:#ff69b4">Register Now</span>
+  url: https://event-reg.biz/Registration/eventReg.aspx?Event=RegisterSharingSessions
+  external: true
+

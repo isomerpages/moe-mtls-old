@@ -2,7 +2,7 @@ title: Mother Tongue Languages Symposium 2019
 title-abbreviated: Mother Tongue Languages Symposium 2019
 description: >- # this means to ignore newlines until "baseurl:"
   Description
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.mtls.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
@@ -25,7 +25,8 @@ paginate: 12
 
 # Homepage sections
 homepage_hero_i_want_to: false
-homepage_resources: true
+homepage_resources: false
+homepage_careers: true
 
 # Feedback Form URL
 feedback_form_url: "https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335"
