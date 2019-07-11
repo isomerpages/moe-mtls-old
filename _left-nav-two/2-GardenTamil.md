@@ -36,7 +36,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>2.25pm - 2.35pm
-    <br><b>Title: </b>   சாங்நீலஉத்தமன் <p style=" padding-left:53px;margin:0px;">Play - Sang Nila Utama</p>
+    <br><b>Title: </b>   சாங் நீல உத்தமன்<p style=" padding-left:53px;margin:0px;">Play - Sang Nila Utama</p>
    <b>Performing Group: </b>Athipathi International Theatre
     </td>
   </tr>
