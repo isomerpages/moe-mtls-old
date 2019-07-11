@@ -190,7 +190,7 @@ collection_name: left-nav-three
     </tr>
     <tr>
         <td class="baseTD tdHead">
-            <b>Pre-school and Primary</b><br>
+            <b>MTL Education at the Pre-school and Primary Levels</b><br>
         </td>
         <td class="baseTD tdHead">
             <b>Enthuse a Primary Classroom With MK Small Readers!</b><br>
@@ -204,7 +204,7 @@ collection_name: left-nav-three
     </tr>
     <tr>
         <td class="baseTD ">
-            <p class="bottomBoxEven"> MOE-HQ CPDD MTLB Curriculum Booth*</p>
+            <p class="bottomBoxEven"> Ministry of Education</p>
         </td>
         <td class="baseTD">
             <p class="bottomBoxEven">
