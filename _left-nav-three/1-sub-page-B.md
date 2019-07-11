@@ -101,7 +101,7 @@ collection_name: left-nav-three
             <b>Developing Confident Communicators Through an Enriched Global Education</b><br>
         </td>
         <td class="baseTD tdHead">
-            <b>Nurturing Confident Writers</b><br>
+            <b>Enthuse, Excite, Engage: Nurturing Confident Writers</b><br>
         </td>
         <td class="baseTD tdHead">
             <b>MTL Education at the Pre-U Level</b><br>
