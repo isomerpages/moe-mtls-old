@@ -119,7 +119,7 @@ collection_name: left-nav-three
         </td>
         <td class="baseTD ">
             <p class="bottomBoxOdd">
-                Pre-U<br><br>高中<br><br>Pra-U
+                Ministry of Education
             </p>
         </td>
         <td class="baseTD">
