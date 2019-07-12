@@ -63,7 +63,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>3.05pm - 3.15pm
-    <br><b>Title: </b>“爱上华文”街头舞表演 <br><p style=" padding-left:55px;margin:0px;">Street Dance</p>
+    <br><b>Title: </b>“爱上华文”街舞表演 <br><p style=" padding-left:55px;margin:0px;">Street Dance</p>
     <b>Performing Group: </b>River Valley Primary School
     </td>
   </tr>
