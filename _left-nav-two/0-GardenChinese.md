@@ -16,8 +16,8 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>11.30am - 11.40am
-      <br><b>Title: </b>（待定）<br><p style=" padding-left:63px;margin:0px;">Family-Child Talent Performance </p>
-       <b>Performing Group: </b>Finalists of Speak Mandarin Campaign Family Talent Competition 2019
+      <br><b>Title: </b>“打败小恶魔” 戏剧表演<br><p style=" padding-left:63px;margin:0px;">Defeating the Little Demon </p>
+       <b>Performing Group: </b>Mr Cai Yiqing, Mdm Ru Yi, Ms Cai Yiyun Evely and Ms Cai Yifan Eavan
     </td>
   </tr>
   <tr>
@@ -43,7 +43,8 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>12.10pm - 12.25pm
-    <br><b>Title: </b>（待定）<br><p style="padding-left:62px;margin:0px;">Performance</p>　
+    <br><b>Title: </b>（待定）<br><p style="padding-left:62px;margin:0px;">Performance</p>
+     <b>Performing Group: </b>Tao Nan School
     </td>
   </tr>
   <tr>
@@ -70,7 +71,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
    <b>Time: </b> 3.15pm - 3.30pm
-    <br><b>Title: </b>TBC
+    <br><b>Title: </b>有奖竞赛<br><p style=" padding-left:55px;margin:0px;">Quiz Time</p>
     </td>
   </tr>
   <tr>
@@ -118,8 +119,8 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>5.15pm - 5.25pm
-    <br><b>Title: </b>（待定）<br><p style="padding-left:62px;margin:0px;">Family-Child Talent Performance </p>
-    <b>Performing Group: </b>Finalists of Speak Mandarin Campaign Family Talent Compeition 2019 
+    <br><b>Title: </b>“有味道的超级英雄” 戏剧表演<br><p style="padding-left:62px;margin:0px;">A Hero with a Smell </p>
+    <b>Performing Group: </b>Mdm Evelyn Shim and Mr Amos Wee 
     </td>
   </tr>
   <tr>
