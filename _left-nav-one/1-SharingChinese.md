@@ -13,7 +13,7 @@ collection_name: left-nav-one
       <td><b>Speaker(s):</b> Xu Jinhong, Fang Fang, Yang Wenxia <br>
          <b>Topic:</b> Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese<br>
          <b>Time:</b> 12.30pm - 1.30pm <br>
-         <b>Venue:</b> Room 309
+         <b>Venue:</b> Room 310
       </td>
       <td>
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=C13"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
@@ -25,7 +25,7 @@ collection_name: left-nav-one
       <td><b>Speaker(s):</b> Wee Khang Ping, Ju Shiying<br>
          <b>Topic:</b> Learning of Chinese Through Parent-Child Activities <br>
          <b>Time:</b> 12.30pm - 1.30pm <br>
-         <b>Venue:</b> Room 310
+         <b>Venue:</b> Room 309
       </td>
       <td>
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=C11"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
@@ -73,7 +73,7 @@ collection_name: left-nav-one
       <td><b>Speaker(s):</b> Lee Keng Chin, Liu Ying, Zhang Shan, Dr Lin An-chi <br>
          <b>Topic:</b> Learning MTL Through Purposeful Play <br>
          <b>Time:</b> 1.45pm - 2.45pm <br>
-         <b>Venue:</b> Room 308
+         <b>Venue:</b> Room 303 - 304
       </td>
       <td>
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=C2"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
@@ -145,7 +145,7 @@ collection_name: left-nav-one
       <td><b>Speaker(s):</b> Yu Liang<br>
          <b>Topic:</b> Expanding Your Imagination and Creativity Through Drama and Games <br>
          <b>Time:</b> 3.00pm - 4.00pm <br>
-         <b>Venue:</b> Room 310
+         <b>Venue:</b> Room 309
       </td>
       <td>
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=C18"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
@@ -157,7 +157,7 @@ collection_name: left-nav-one
       <td><b>Speaker(s):</b> Jing Yan, Li Yanli, Wang Junyi <br>
          <b>Topic:</b> Bridging Illusions and Reality Through Interesting stories - “Read, Dramatize and Speak!” <br>
          <b>Time:</b> 4.15pm - 5.15pm <br>
-         <b>Venue:</b> Room 309
+         <b>Venue:</b> Room 310
       </td>
  <td>
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=C14"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
@@ -169,7 +169,7 @@ collection_name: left-nav-one
       <td><b>Speaker(s):</b> Yu Liang <br>
          <b>Topic:</b> Unpacking Picture Books Through Dramatisation <br>
          <b>Time:</b> 4.15pm - 5.15pm <br>
-         <b>Venue:</b> Room 310
+         <b>Venue:</b> Room 309
       </td>
       <td>
    <a href="https://event-reg.biz/Registration/MTLSSession?Session=C19"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
