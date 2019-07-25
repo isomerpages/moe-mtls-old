@@ -43,7 +43,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>12.10pm - 12.25pm
-    <br><b>Title: </b>单口讲故事<br><p style="padding-left:62px;margin:0px;">Story-telling</p>
+    <br><b>Title: </b>单口讲故事<br><p style="padding-left:55px;margin:0px;">Story-telling</p>
      <b>Performing Group: </b>Tao Nan School
     </td>
   </tr>
