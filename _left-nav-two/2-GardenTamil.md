@@ -29,7 +29,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>2.15pm - 2.25pm
-    <br><b>Title: </b>பெரிய புத்தக வாசிப்பு <p style=" padding-left:53px;margin:0px;">Big Book reading </p>
+    <br><b>Title: </b>பெரிய புத்தக வாசிப்பு <p style=" padding-left:53px;margin:0px;">Big Book Reading </p>
    <b>Performing Group: </b>MOE Kindergarten @ Northoaks
     </td>
   </tr>
