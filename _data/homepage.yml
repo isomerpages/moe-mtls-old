@@ -20,6 +20,9 @@ hero-banner: /images/HomeBackground_11.jpg
 #    url: https://google.com
 #   external: true
 
+#Google Analytics
+google-analytics: UA-144573140-1
+
 key-highlights:
 
   - title: Register your Interest
