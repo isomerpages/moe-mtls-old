@@ -215,7 +215,7 @@ collection_name: left-nav-three
             <p class="bottomBoxOdd"> Bedok Green Primary School<br><br>பிடோக் கிரீன் தொடக்கப்பள்ளி</p>
         </td>
         <td class="baseTD ">
-            <p class="bottomBoxEven">Greendale Primary School<br><br>கிரீன்டேல் உயர்நிலைப்பள்ளி  </p>
+            <p class="bottomBoxEven">Greendale Primary School<br><br>கிரீன்டேல் தொடக்கப்பள்ளிி  </p>
         </td>
     </tr>
     <tr>
