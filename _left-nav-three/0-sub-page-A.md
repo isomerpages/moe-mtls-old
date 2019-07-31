@@ -63,7 +63,7 @@ width:25%
   </td>
   <td class="baseTD tdHead"> <b>Language Alive – The Experiential Approach </b><br>
   </td>
-  <td class="baseTD tdHead"><b>Exploring :Chinese Cultural Arts - Chinese Opera</b><br>
+  <td class="baseTD tdHead"><b>Exploring Chinese Cultural Arts - Chinese Opera</b><br>
   </td>
 </tr>
 <tr>
