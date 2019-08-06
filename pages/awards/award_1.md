@@ -68,7 +68,7 @@ breadcrumb: Madam Chong Pou Khwai
 
 <div class="wrapper">
         <div class="item1">
-            <img style="border-radius: 50%; width: 80%;" src="/images/Madam Chong Pou Khwai_square.jpg">
+            <img style="border-radius: 50%; width: 100%;" src="/images/Madam Chong Pou Khwai_square.jpg">
         </div>
 
    <div class="item2">
