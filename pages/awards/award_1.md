@@ -12,7 +12,7 @@ breadcrumb: Madam Chong Pou Khwai
         margin-left: 100px;
         margin-right: 100px;
         grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
-        grid-template-rows: auto auto auto ;
+        grid-template-rows: 100px 100px auto ;
     }
 
    .item1 {
