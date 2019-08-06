@@ -104,7 +104,7 @@ breadcrumb: Awards
             Tampines Changkat Blk 358</p>
     </div>
 
-   <div class="item">
+   <div class="item" onclick="location.href='award_2'" style="cursor:pointer">
         <img class="profileImage" src="./../images/Madam Dharmaraj Pushpalatha_square.jpg">
         <p style="text-align: center; font-weight: bold; margin-bottom: 0;">
             Madam Dharmaraj Pushpalatha<br />
@@ -115,7 +115,7 @@ breadcrumb: Awards
             Ang Mo Kio - Hougang Blk 929</p>
     </div>
 
-   <div class="item">
+   <div class="item" onclick="location.href='award_3'" style="cursor:pointer">
         <img class="profileImage" src="./../images/Madam Valliappan Meenatchi_square.jpg">
         <p style="text-align: center; font-weight: bold; margin-bottom: 0;">
             Madam Valliappan Meenatchi<br />
@@ -125,7 +125,7 @@ breadcrumb: Awards
             Paya Lebar Blk 23</p>
     </div>
 
-   <div class="item">
+   <div class="item" onclick="location.href='award_4'" style="cursor:pointer">
         <img class="profileImage" src="./../images/Madam Zhou Shaojuan_square.jpg">
         <p style="text-align: center; font-weight: bold; margin-bottom: 0;">
             Madam Zhou Shaojuan<br />
@@ -136,7 +136,7 @@ breadcrumb: Awards
         </p>
     </div>
 
-   <div class="item">
+   <div class="item" onclick="location.href='award_5'" style="cursor:pointer">
         <img class="profileImage" src="./../images/Ms Kamilah Binte Kamis_square.jpg">
         <p style="text-align: center; font-weight: bold; margin-bottom: 0;">
             Ms Kamilah Binte Kamis</p>
@@ -145,7 +145,7 @@ breadcrumb: Awards
             Bukit Batok East Blk 241</p>
     </div>
 
-   <div class="item">
+   <div class="item" onclick="location.href='award_6'" style="cursor:pointer">
         <img class="profileImage" src="./../images/Ms Ni Xuejing_square.jpg">
         <p style="text-align: center; font-weight: bold; margin-bottom: 0;">
             Ms Ni Xuejing<br />
