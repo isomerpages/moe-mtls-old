@@ -72,7 +72,7 @@ breadcrumb: Madam Chong Pou Khwai
         </div>
 
    <div class="item2">
-                <p style="font-weight: bold;">Name</p>
+                <p style="font-weight: bold;margin-bottom: 0;">Name</p>
                 <p>Madam Chong Pou Khwai<br>
                 钟宝葵女士</p>
         </div>
