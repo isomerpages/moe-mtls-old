@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Awards
-permalink: /awards/
+permalink: /awards/award_1/
 breadcrumb: Awards
 ---
 
