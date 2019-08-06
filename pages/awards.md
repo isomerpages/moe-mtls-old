@@ -5,7 +5,80 @@ permalink: /awards/
 breadcrumb: Awards
 ---
 
+<style>
+    .wrapper1 {
+        display: grid;
+        margin-top: 50px;
+        grid-template-columns: 33% 33% 33%;
+        grid-template-rows: auto auto auto;
+        /* height: 800px; */
+    }
 
+   .item {
+        /* grid-column-start: 1;
+        grid-column-end: 4; */
+        /* background-color: lightblue; */
+        text-align: center;
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+
+   .profileImage {
+        border-radius: 50%;
+        width: 60%;
+    }
+
+   .wrapper2 {
+        display: grid;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        grid-template-columns: 12.5% ;
+        grid-template-rows: auto ;
+    }
+
+   .item1 {
+        grid-column-start: 1;
+        grid-column-end: 3;
+        text-align: center;
+    }
+
+   .item2 {
+        grid-column-start: 3;
+        grid-column-end: 5;
+        text-align: center;
+    }
+
+   .item3 {
+        grid-column-start: 5;
+        grid-column-end: 7;
+        text-align: center;
+    }
+
+   .item4 {
+        grid-column-start: 7;
+        grid-column-end: 9;
+        text-align: center;
+    }
+
+   .item5 {
+        grid-column-start: 2;
+        grid-column-end: 4;
+        text-align: center;
+    }
+
+   .item6 {
+        grid-column-start: 4;
+        grid-column-end: 6;
+        text-align: center;
+    }
+
+   .item7 {
+        grid-column-start: 6;
+        grid-column-end: 8;
+        text-align: center;
+    }
+
+</style>
 
 <center><img class="avia_image" src="/sitedata/wp-content/uploads/2018/06/award-title-1030x337.png" alt=""
     title="award-title" height="337"></center>
