@@ -50,7 +50,7 @@ breadcrumb: Madam Chong Pou Khwai
 
    .item5 {
         grid-column-start: 1;
-        grid-column-end: 5;
+        grid-column-end: 6;
         grid-row-start: 3;
         grid-row-end: 4;
         margin-top: 50px;
@@ -59,7 +59,7 @@ breadcrumb: Madam Chong Pou Khwai
 
    .item6 {
         grid-column-start: 6;
-        grid-column-end: 10;
+        grid-column-end: 11;
         grid-row-start: 3;
         grid-row-end: 4;
         margin-top: 50px;
@@ -88,12 +88,12 @@ breadcrumb: Madam Chong Pou Khwai
    </div>
 
    <div class="item5">
-            <p>Children learn naturally through play. It motivates them towards self-directed learning. I believe that children enjoy learning when they are given the right support and environment. As an early childhood educator, I am inspired to stimulate the children’s interest in learning the Chinese language through play. 
+            <p style="margin-right: 10px;font-size: 16px;">Children learn naturally through play. It motivates them towards self-directed learning. I believe that children enjoy learning when they are given the right support and environment. As an early childhood educator, I am inspired to stimulate the children’s interest in learning the Chinese language through play. 
                 </p>
         </div>
 
    <div class="item6">
-                <p>爱玩是幼儿的天性，兴趣是最好的老师。在教学中，我会通过游戏激发幼儿对学习华文华语的兴趣，让幼儿主动积极地学习华文，并有机会与同伴互动，使用华语沟通。
+                <p style="margin-right: 10px;font-size: 16px;">爱玩是幼儿的天性，兴趣是最好的老师。在教学中，我会通过游戏激发幼儿对学习华文华语的兴趣，让幼儿主动积极地学习华文，并有机会与同伴互动，使用华语沟通。
                     </p>
         </div>
 </div>
