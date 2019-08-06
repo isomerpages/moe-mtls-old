@@ -40,45 +40,56 @@ breadcrumb: Awards
         grid-column-start: 1;
         grid-column-end: 3;
         text-align: center;
+        margin-left: 10px;
+        margin-right: 10px;
     }
 
    .item2 {
         grid-column-start: 3;
         grid-column-end: 5;
         text-align: center;
+        margin-left: 10px;
+        margin-right: 10px;
     }
 
    .item3 {
         grid-column-start: 5;
         grid-column-end: 7;
         text-align: center;
-       
+        margin-left: 10px;
+        margin-right: 10px;
     }
 
    .item4 {
         grid-column-start: 7;
         grid-column-end: 9;
         text-align: center;
+        margin-left: 10px;
+        margin-right: 10px;
     }
 
    .item5 {
         grid-column-start: 2;
         grid-column-end: 4;
         text-align: center;
-     
+        margin-left: 10px;
+        margin-right: 10px;
     }
 
    .item6 {
         grid-column-start: 4;
         grid-column-end: 6;
         text-align: center;
-       
+        margin-left: 10px;
+        margin-right: 10px;
     }
 
    .item7 {
         grid-column-start: 6;
         grid-column-end: 8;
         text-align: center;
+        margin-left: 10px;
+        margin-right: 10px;
     }
 
 </style>
