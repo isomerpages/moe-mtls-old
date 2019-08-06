@@ -21,11 +21,12 @@ breadcrumb: Madam Chong Pou Khwai
         grid-row-start: 1;
         grid-row-end: 3;
         /* text-align: center; */
+        margin-right: 10px;
     }
 
    .item2 {
         grid-column-start: 4;
-        grid-column-end: 10;
+        grid-column-end: 9;
         grid-row-start: 1;
         grid-row-end: 2;
         /* text-align: center; */
@@ -68,7 +69,7 @@ breadcrumb: Madam Chong Pou Khwai
 
 <div class="wrapper">
         <div class="item1">
-            <img style="border-radius: 50%; width: 100%;margin-right: 10px;" src="/images/Madam Chong Pou Khwai_square.jpg">
+            <img style="border-radius: 50%; width: 100%;" src="/images/Madam Chong Pou Khwai_square.jpg">
         </div>
 
    <div class="item2">
