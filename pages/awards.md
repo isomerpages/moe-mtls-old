@@ -164,20 +164,20 @@ breadcrumb: Awards
 <div class="wrapper2">
     <div class="item1">
         <img class="profileImage" src="./../images/Madam Liu Cuixian_square.jpg">
-        <p style="text-align: center; font-weight: bold; margin-bottom: 0;">
+        <p style="text-align: center; font-weight: bold; ">
             Madam Liu Cuixian
         </p>
     </div>
 
    <div class="item2">
         <img class="profileImage" src="./../images/Madam Raudhah binte Alias_square.jpg">
-        <p style="text-align: center; font-weight: bold; margin-bottom: 0;">
+        <p style="text-align: center; font-weight: bold; ">
             Madam Raudhah binte Alias</p>
     </div>
 
    <div class="item3">
         <img class="profileImage" src="./../images/Madam Siti Fadila bte Manaf_square.jpg">
-        <p style="text-align: center; font-weight: bold; margin-bottom: 0;">
+        <p style="text-align: center; font-weight: bold; ">
             Madam Siti Fadila bte Manaf</p>
     </div>
 
