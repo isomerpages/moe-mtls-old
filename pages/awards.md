@@ -40,18 +40,21 @@ breadcrumb: Awards
         grid-column-start: 1;
         grid-column-end: 3;
         text-align: center;
+        margin-right: 15px;
     }
 
    .item2 {
         grid-column-start: 3;
         grid-column-end: 5;
         text-align: center;
+        margin-right: 15px;
     }
 
    .item3 {
         grid-column-start: 5;
         grid-column-end: 7;
         text-align: center;
+        margin-right: 15px;
     }
 
    .item4 {
@@ -64,12 +67,14 @@ breadcrumb: Awards
         grid-column-start: 2;
         grid-column-end: 4;
         text-align: center;
+        margin-right: 15px;
     }
 
    .item6 {
         grid-column-start: 4;
         grid-column-end: 6;
         text-align: center;
+        margin-right: 15px;
     }
 
    .item7 {
