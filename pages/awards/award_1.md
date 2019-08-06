@@ -72,14 +72,14 @@ breadcrumb: Madam Chong Pou Khwai
         </div>
 
    <div class="item2">
-                <p style="font-weight: bold;margin-bottom: 0;">Name</p>
-                <p>Madam Chong Pou Khwai<br>
+                <p style="font-weight: bold;margin-bottom: 0px;">Name</p>
+                <p style="margin-top: 0px;">Madam Chong Pou Khwai<br>
                 钟宝葵女士</p>
         </div>
 
    <div class="item3">
-                <p style="font-weight: bold;">SCHOOL/ORAGNISATION</p>
-                <p>PCF Sparkletots Preschool @ Tampines Changkat Blk 358</p>
+                <p style="font-weight: bold;margin-bottom: 0px;">SCHOOL/ORAGNISATION</p>
+                <p style="margin-top: 0px;">PCF Sparkletots Preschool @ Tampines Changkat Blk 358</p>
         </div>
 
    <div class="item4">
