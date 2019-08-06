@@ -160,43 +160,43 @@ breadcrumb: Awards
     <div class="item1">
         <img class="profileImage" src="./../images/Madam Liu Cuixian_square.jpg">
         <p style="text-align: center; font-weight: bold; margin-bottom: 0;">
-            Madam Liu Cuixian<br><br>
+            Madam Liu Cuixian
         </p>
     </div>
 
    <div class="item2">
         <img class="profileImage" src="./../images/Madam Raudhah binte Alias_square.jpg">
         <p style="text-align: center; font-weight: bold; margin-bottom: 0;">
-            Madam Raudhah binte Alias<br><br></p>
+            Madam Raudhah binte Alias</p>
     </div>
 
    <div class="item3">
         <img class="profileImage" src="./../images/Madam Siti Fadila bte Manaf_square.jpg">
         <p style="text-align: center; font-weight: bold; margin-bottom: 0;">
-            Madam Siti Fadila bte Manaf<br><br></p>
+            Madam Siti Fadila bte Manaf</p>
     </div>
 
    <div class="item4">
         <img class="profileImage" src="./../images/Madam Sumathi Mani_square.jpg">
         <p style="text-align: center; font-weight: bold; margin-bottom: 0;">
-            Madam Sumathi Mani<br><br></p>
+            Madam Sumathi Mani</p>
     </div>
 
    <div class="item5">
         <img class="profileImage" src="./../images/Madam Tan Suan Eng_square.jpg">
         <p style="text-align: center; font-weight: bold; margin-bottom: 0;">
-            Madam Tan Suan Eng<br><br></p>
+            Madam Tan Suan Eng</p>
     </div>
 
    <div class="item6">
         <img class="profileImage" src="./../images/Ms Guo Jiaying_square.jpg">
         <p style="text-align: center; font-weight: bold; margin-bottom: 0;">
-            Ms Guo Jiaying<br><br></p>
+            Ms Guo Jiaying</p>
     </div>
 
    <div class="item7">
         <img class="profileImage" src="/images/Ms Zhao Yan Dong_square.jpg">
         <p style="text-align: center; font-weight: bold; margin-bottom: 0;">
-            Ms Zhao Yan Dong<br><br></p>
+            Ms Zhao Yan Dong</p>
     </div>
 </div>
