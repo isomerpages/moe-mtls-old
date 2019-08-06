@@ -17,15 +17,15 @@ breadcrumb: Madam Chong Pou Khwai
 
    .item1 {
         grid-column-start: 1;
-        grid-column-end: 3;
+        grid-column-end: 4;
         grid-row-start: 1;
         grid-row-end: 3;
         /* text-align: center; */
     }
 
    .item2 {
-        grid-column-start: 3;
-        grid-column-end: 9;
+        grid-column-start: 4;
+        grid-column-end: 10;
         grid-row-start: 1;
         grid-row-end: 3;
         /* text-align: center; */
@@ -34,7 +34,7 @@ breadcrumb: Madam Chong Pou Khwai
  
 
    .item4 {
-        grid-column-start: 9;
+        grid-column-start: 10;
         grid-column-end: 11;
         grid-row-start: 1;
         grid-row-end: 3;
