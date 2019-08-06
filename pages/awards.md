@@ -25,7 +25,7 @@ breadcrumb: Awards
 
    .profileImage {
         border-radius: 50%;
-        width: 30%;
+        width: 60%;
     }
 
    .wrapper2 {
