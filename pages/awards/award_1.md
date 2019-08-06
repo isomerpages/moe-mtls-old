@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Awards
+title: Madam Chong Pou Khwai
 permalink: /awards/award_1/
-breadcrumb: Awards
+breadcrumb: Madam Chong Pou Khwai
 ---
 
 <style>
