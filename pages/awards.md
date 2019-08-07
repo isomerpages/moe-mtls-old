@@ -44,7 +44,7 @@ breadcrumb: Awards
         text-align: center;
         margin-left: 10px;
         margin-right: 10px;
-        font-size: 2vw;
+        font-size: 0.85em;
     }
 
    .item2 {
@@ -53,7 +53,7 @@ breadcrumb: Awards
         text-align: center;
         margin-left: 10px;
         margin-right: 10px;
-        font-size: 2vw;
+        font-size: 0.85em;
     }
 
    .item3 {
