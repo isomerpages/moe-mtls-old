@@ -105,7 +105,7 @@ breadcrumb: Awards
 <div class="wrapper1">
     <div class="item" onclick="location.href='award_1'" style="cursor:pointer">
         <img class="profileImage" src="./../images/Madam Chong Pou Khwai_square.jpg">
-        <p style="text-align: center; font-weight: bold; margin-bottom: 0;font-size: 0.85em;">
+        <p style="text-align: center; font-weight: bold; margin-bottom: 0; margin-top: 0;font-size: 0.85em;">
             Madam Chong Pou Khwai<br />
             钟宝葵女士
         </p>
@@ -116,7 +116,7 @@ breadcrumb: Awards
 
    <div class="item" onclick="location.href='award_2'" style="cursor:pointer">
         <img class="profileImage" src="./../images/Madam Dharmaraj Pushpalatha_square.jpg">
-        <p style="text-align: center; font-weight: bold; margin-bottom: 0;font-size: 0.85em;">
+        <p style="text-align: center; font-weight: bold; margin-bottom: 0; margin-top: 0;font-size: 0.85em;">
             Madam Dharmaraj Pushpalatha<br />
             திருவாட்டி தர்மராஜ் புஷ்பலதா
         </p>
@@ -127,7 +127,7 @@ breadcrumb: Awards
 
    <div class="item" onclick="location.href='award_3'" style="cursor:pointer">
         <img class="profileImage" src="./../images/Madam Valliappan Meenatchi_square.jpg">
-        <p style="text-align: center; font-weight: bold; margin-bottom: 0;font-size: 0.85em;">
+        <p style="text-align: center; font-weight: bold; margin-bottom: 0; margin-top: 0;font-size: 0.85em;">
             Madam Valliappan Meenatchi<br />
             திருவாட்டி வள்ளியப்பன் மீனாட்சி</p>
         <p style="text-align: center; margin-top: 0; font-size: 0.85em; line-height: 1.5;">
