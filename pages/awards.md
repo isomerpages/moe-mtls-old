@@ -22,8 +22,6 @@ breadcrumb: Awards
         margin-left: 15px;
         margin-right: 15px;
         text-align: center;
-       
-       
     }
 
    .profileImage {
@@ -45,7 +43,6 @@ breadcrumb: Awards
         text-align: center;
         margin-left: 10px;
         margin-right: 10px;
-        font-size: 0.85em;
     }
 
    .item2 {
@@ -54,7 +51,6 @@ breadcrumb: Awards
         text-align: center;
         margin-left: 10px;
         margin-right: 10px;
-        font-size: 0.85em;
     }
 
    .item3 {
@@ -63,7 +59,6 @@ breadcrumb: Awards
         text-align: center;
         margin-left: 10px;
         margin-right: 10px;
-        font-size: 1vw;
     }
 
    .item4 {
@@ -72,7 +67,6 @@ breadcrumb: Awards
         text-align: center;
         margin-left: 10px;
         margin-right: 10px;
-        font-size: 1vw;
     }
 
    .item5 {
@@ -81,7 +75,6 @@ breadcrumb: Awards
         text-align: center;
         margin-left: 10px;
         margin-right: 10px;
-        font-size: 1vw;
     }
 
    .item6 {
@@ -90,7 +83,6 @@ breadcrumb: Awards
         text-align: center;
         margin-left: 10px;
         margin-right: 10px;
-        font-size: 1vw;
     }
 
    .item7 {
@@ -99,7 +91,6 @@ breadcrumb: Awards
         text-align: center;
         margin-left: 10px;
         margin-right: 10px;
-        font-size: 1vw;
     }
 
 </style>
