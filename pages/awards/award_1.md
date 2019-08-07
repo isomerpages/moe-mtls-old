@@ -74,13 +74,15 @@ breadcrumb: Madam Chong Pou Khwai
 
    <div class="item2">
                 <p style="font-weight: bold;margin-bottom: 0px;font-size: 16px">Name</p>
-                <p style="margin-top: 0px;font-size: 14px;">Madam Chong Pou Khwai<br>
+                <p style="margin-top: 0px;font-size: 14px;line-height: 1.5;">
+                    Madam Chong Pou Khwai<br>
                 钟宝葵女士</p>
         </div>
 
    <div class="item3">
                 <p style="font-weight: bold;margin-bottom: 0px;font-size: 16px">SCHOOL/ORAGNISATION</p>
-                <p style="margin-top: 0px;font-size: 14px;">PCF Sparkletots Preschool @ Tampines Changkat Blk 358</p>
+                <p style="margin-top: 0px;font-size: 14px;line-height: 1.5;">
+                    PCF Sparkletots Preschool @ Tampines Changkat Blk 358</p>
         </div>
 
    <div class="item4">
@@ -88,12 +90,12 @@ breadcrumb: Madam Chong Pou Khwai
    </div>
 
    <div class="item5">
-            <p style="margin-right: 10px;font-size: 16px;">Children learn naturally through play. It motivates them towards self-directed learning. I believe that children enjoy learning when they are given the right support and environment. As an early childhood educator, I am inspired to stimulate the children’s interest in learning the Chinese language through play. 
+            <p style="margin-right: 10px;font-size: 16px;line-height: 1.5;">Children learn naturally through play. It motivates them towards self-directed learning. I believe that children enjoy learning when they are given the right support and environment. As an early childhood educator, I am inspired to stimulate the children’s interest in learning the Chinese language through play. 
                 </p>
         </div>
 
    <div class="item6">
-                <p style="margin-right: 10px;font-size: 16px;">爱玩是幼儿的天性，兴趣是最好的老师。在教学中，我会通过游戏激发幼儿对学习华文华语的兴趣，让幼儿主动积极地学习华文，并有机会与同伴互动，使用华语沟通。
+                <p style="margin-right: 10px;font-size: 16px;line-height: 1.5;">爱玩是幼儿的天性，兴趣是最好的老师。在教学中，我会通过游戏激发幼儿对学习华文华语的兴趣，让幼儿主动积极地学习华文，并有机会与同伴互动，使用华语沟通。
                     </p>
         </div>
 </div>
