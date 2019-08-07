@@ -19,6 +19,8 @@ breadcrumb: Awards
         /* grid-column-start: 1;
         grid-column-end: 4; */
         /* background-color: lightblue; */
+        margin-left: 15px;
+        margin-right: 15px;
         text-align: center;
        font-size: smaller;
        
