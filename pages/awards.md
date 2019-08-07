@@ -112,7 +112,7 @@ breadcrumb: Awards
 <div class="wrapper1">
     <div class="item" onclick="location.href='award_1'" style="cursor:pointer">
         <img class="profileImage" src="./../images/Madam Chong Pou Khwai_square.jpg">
-        <p style="text-align: center; font-weight: bold; margin-bottom: 0;font-size: 0.85em;">
+        <p style="text-align: center; font-weight: bold; margin-bottom: 0;">
             Madam Chong Pou Khwai<br />
             钟宝葵女士
         </p>
