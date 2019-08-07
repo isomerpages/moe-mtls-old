@@ -22,7 +22,7 @@ breadcrumb: Awards
         margin-left: 15px;
         margin-right: 15px;
         text-align: center;
-       font-size: 0.85em;
+       
        
     }
 
@@ -114,7 +114,7 @@ breadcrumb: Awards
 <div class="wrapper1">
     <div class="item" onclick="location.href='award_1'" style="cursor:pointer">
         <img class="profileImage" src="./../images/Madam Chong Pou Khwai_square.jpg">
-        <p style="text-align: center; font-weight: bold; margin-bottom: 0;">
+        <p style="text-align: center; font-weight: bold; margin-bottom: 0;font-size: 0.85em;">
             Madam Chong Pou Khwai<br />
             钟宝葵女士
         </p>
@@ -125,7 +125,7 @@ breadcrumb: Awards
 
    <div class="item" onclick="location.href='award_2'" style="cursor:pointer">
         <img class="profileImage" src="./../images/Madam Dharmaraj Pushpalatha_square.jpg">
-        <p style="text-align: center; font-weight: bold; margin-bottom: 0;">
+        <p style="text-align: center; font-weight: bold; margin-bottom: 0;font-size: 0.85em;">
             Madam Dharmaraj Pushpalatha<br />
             திருவாட்டி தர்மராஜ் புஷ்பலதா
         </p>
