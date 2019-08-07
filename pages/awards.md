@@ -22,7 +22,7 @@ breadcrumb: Awards
         margin-left: 15px;
         margin-right: 15px;
         text-align: center;
-       font-size: smaller;
+       font-size: 0.85em;
        
     }
 
