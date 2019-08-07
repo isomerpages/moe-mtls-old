@@ -8,7 +8,7 @@ breadcrumb: Awards
 <style>
     .wrapper1 {
         display: grid;
-        min-width:600px;
+        min-width:800px;
         margin-top: 50px;
         grid-template-columns: 33% 33% 33%;
         grid-template-rows: auto auto auto;
