@@ -63,7 +63,7 @@ breadcrumb: Awards
         text-align: center;
         margin-left: 10px;
         margin-right: 10px;
-        font-size: 2vw;
+        font-size: 1vw;
     }
 
    .item4 {
@@ -72,7 +72,7 @@ breadcrumb: Awards
         text-align: center;
         margin-left: 10px;
         margin-right: 10px;
-        font-size: 2vw;
+        font-size: 1vw;
     }
 
    .item5 {
@@ -81,7 +81,7 @@ breadcrumb: Awards
         text-align: center;
         margin-left: 10px;
         margin-right: 10px;
-        font-size: 2vw;
+        font-size: 1vw;
     }
 
    .item6 {
@@ -90,7 +90,7 @@ breadcrumb: Awards
         text-align: center;
         margin-left: 10px;
         margin-right: 10px;
-        font-size: 2vw;
+        font-size: 1vw;
     }
 
    .item7 {
@@ -99,7 +99,7 @@ breadcrumb: Awards
         text-align: center;
         margin-left: 10px;
         margin-right: 10px;
-        font-size: 2vw;
+        font-size: 1vw;
     }
 
 </style>
