@@ -22,7 +22,6 @@ breadcrumb: Awards
         margin-left: 15px;
         margin-right: 15px;
         text-align: center;
-        line-height: 1.5;
     }
 
    .profileImage {
@@ -138,7 +137,7 @@ breadcrumb: Awards
 
    <div class="item" onclick="location.href='award_4'" style="cursor:pointer">
         <img class="profileImage" src="./../images/Madam Zhou Shaojuan_square.jpg">
-        <p style="text-align: center; font-weight: bold; margin-bottom: 0;font-size: 0.85em;">
+        <p style="text-align: center; font-weight: bold; margin-bottom: 0;line-height: 1.5;font-size: 0.85em;">
             Madam Zhou Shaojuan<br />
             周绍娟女士</p>
         <p style="text-align: center; margin-top: 0; font-size: 0.85em; line-height: 1.5;">
@@ -149,7 +148,7 @@ breadcrumb: Awards
 
    <div class="item" onclick="location.href='award_5'" style="cursor:pointer">
         <img class="profileImage" src="./../images/Ms Kamilah Binte Kamis_square.jpg">
-        <p style="text-align: center; font-weight: bold; margin-bottom: 0;font-size: 0.85em;">
+        <p style="text-align: center; font-weight: bold; margin-bottom: 0;line-height: 1.5;font-size: 0.85em;">
             Ms Kamilah Binte Kamis</p>
         <p style="text-align: center; margin-top: 0; font-size: 0.85em; line-height: 1.5;">
             PCF Sparkletots Preschool @<br />
@@ -158,7 +157,7 @@ breadcrumb: Awards
 
    <div class="item" onclick="location.href='award_6'" style="cursor:pointer">
         <img class="profileImage" src="./../images/Ms Ni Xuejing_square.jpg">
-        <p style="text-align: center; font-weight: bold; margin-bottom: 0;font-size: 0.85em;">
+        <p style="text-align: center; font-weight: bold; margin-bottom: 0;line-height: 1.5;font-size: 0.85em;">
             Ms Ni Xuejing<br />
             倪学静女士</p>
         <p style="text-align: center; margin-top: 0; font-size: 0.85em; line-height: 1.5;">
@@ -182,37 +181,37 @@ breadcrumb: Awards
 
    <div class="item2">
         <img class="profileImage" src="./../images/Madam Raudhah binte Alias_square.jpg">
-        <p style="text-align: center; font-weight: bold; font-size: 0.85em;">
+        <p style="text-align: center; font-weight: bold; line-height: 1.5;font-size: 0.85em;">
             Madam Raudhah binte Alias</p>
     </div>
 
    <div class="item3">
         <img class="profileImage" src="./../images/Madam Siti Fadila bte Manaf_square.jpg">
-        <p style="text-align: center; font-weight: bold; font-size: 0.85em;">
+        <p style="text-align: center; font-weight: bold;line-height: 1.5; font-size: 0.85em;">
             Madam Siti Fadila bte Manaf</p>
     </div>
 
    <div class="item4">
         <img class="profileImage" src="./../images/Madam Sumathi Mani_square.jpg">
-        <p style="text-align: center; font-weight: bold; font-size: 0.85em;">
+        <p style="text-align: center; font-weight: bold; line-height: 1.5;font-size: 0.85em;">
             Madam Sumathi Mani</p>
     </div>
 
    <div class="item5">
         <img class="profileImage" src="./../images/Madam Tan Suan Eng_square.jpg">
-        <p style="text-align: center; font-weight: bold; font-size: 0.85em;">
+        <p style="text-align: center; font-weight: bold; line-height: 1.5;font-size: 0.85em;">
             Madam Tan Suan Eng</p>
     </div>
 
    <div class="item6">
         <img class="profileImage" src="./../images/Ms Guo Jiaying_square.jpg">
-        <p style="text-align: center; font-weight: bold; font-size: 0.85em;">
+        <p style="text-align: center; font-weight: bold; line-height: 1.5;font-size: 0.85em;">
             Ms Guo Jiaying</p>
     </div>
 
    <div class="item7">
         <img class="profileImage" src="/images/Ms Zhao Yan Dong_square.jpg">
-        <p style="text-align: center; font-weight: bold; font-size: 0.85em;">
+        <p style="text-align: center; font-weight: bold; line-height: 1.5;font-size: 0.85em;">
             Ms Zhao Yan Dong</p>
     </div>
 </div>
