@@ -22,6 +22,7 @@ breadcrumb: Awards
         margin-left: 15px;
         margin-right: 15px;
         text-align: center;
+        line-height: 1.5;
     }
 
    .profileImage {
