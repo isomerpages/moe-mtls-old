@@ -12,6 +12,7 @@ breadcrumb: Awards
         margin-right: auto;
         border-radius: 50%;
         width: 200px;
+        height: 200px;
     }
 
    .nameLabel {
