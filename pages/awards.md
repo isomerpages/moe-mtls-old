@@ -44,11 +44,11 @@ breadcrumb: Awards
         <td>
             <div onclick="location.href='award_1.html'" style="cursor:pointer;">
                 <img class="profileImage" src="./../images/Madam Chong Pou Khwai_square.jpg">
-                <p class="nameLabel">
+                <p class="nameLabel" style="line-height: 1.5;">
                     Madam Chong Pou Khwai<br />
                     钟宝葵女士
                 </p>
-                <p class="centerLabel">
+                <p class="centerLabel" style="line-height: 1.5;">
                     PCF Sparkletots Preschool @<br />
                     Tampines Changkat Blk 358</p>
             </div>
@@ -56,11 +56,11 @@ breadcrumb: Awards
         <td>
             <div onclick="location.href='award_2.html'" style="cursor:pointer;">
                 <img class="profileImage" src="./../images/Madam Dharmaraj Pushpalatha_square.jpg">
-                <p class="nameLabel">
+                <p class="nameLabel" style="line-height: 1.5;">
                     Madam Dharmaraj Pushpalatha<br />
                     திருவாட்டி தர்மராஜ் புஷ்பலதா
                 </p>
-                <p class="centerLabel">
+                <p class="centerLabel" style="line-height: 1.5;">
                     PCF Sparkletots Preschool @<br />
                     Paya Lebar Blk 23</p>
             </div>
@@ -68,10 +68,10 @@ breadcrumb: Awards
         <td>
             <div onclick="location.href='award_3.html'" style="cursor:pointer;">
                 <img class="profileImage" src="./../images/Madam Valliappan Meenatchi_square.jpg">
-                <p class="nameLabel">
+                <p class="nameLabel" style="line-height: 1.5;">
                     Madam Valliappan Meenatchi<br />
                     திருவாட்டி வள்ளியப்பன் மீனாட்சி</p>
-                <p class="centerLabel">
+                <p class="centerLabel" style="line-height: 1.5;">
                     PCF Sparkletots Preschool @<br />
                     Ang Mo Kio - Hougang Blk 929</p>
             </div>
@@ -81,10 +81,10 @@ breadcrumb: Awards
         <td>
             <div onclick="location.href='award_4.html'" style="cursor:pointer;">
                 <img class="profileImage" src="./../images/Madam Zhou Shaojuan_square.jpg">
-                <p class="nameLabel">
+                <p class="nameLabel" style="line-height: 1.5;">
                     Madam Zhou Shaojuan<br />
                     周绍娟女士</p>
-                <p class="centerLabel">
+                <p class="centerLabel" style="line-height: 1.5;">
                     My First Skool at<br />
                     Blk 742 Woodlands Circle
                 </p>
@@ -93,9 +93,9 @@ breadcrumb: Awards
         <td>
             <div onclick="location.href='award_5.html'" style="cursor:pointer;">
                 <img class="profileImage" src="./../images/Ms Kamilah Binte Kamis_square.jpg">
-                <p class="nameLabel">
+                <p class="nameLabel" style="line-height: 1.5;">
                     Ms Kamilah Binte Kamis</p>
-                <p class="centerLabel">
+                <p class="centerLabel" style="line-height: 1.5;">
                     PCF Sparkletots Preschool @<br />
                     Bukit Batok East Blk 241</p>
             </div>
@@ -103,10 +103,10 @@ breadcrumb: Awards
         <td>
             <div onclick="location.href='award_6.html'" style="cursor:pointer;">
                 <img class="profileImage" src="./../images/Ms Ni Xuejing_square.jpg">
-                <p class="nameLabel">
+                <p class="nameLabel" style="line-height: 1.5;">
                     Ms Ni Xuejing<br />
                     倪学静女士</p>
-                <p class="centerLabel">
+                <p class="centerLabel" style="line-height: 1.5;">
                     My First Skool at<br />
                     51 Fernvale Link</p>
             </div>
