@@ -125,11 +125,11 @@ breadcrumb: Awards
         <td>
             <div>
                 <img class="profileImage" src="./../images/Madam Liu Cuixian_square.jpg">
-                <p class="nameLabel">
+                <p class="nameLabel" style="line-height: 1.5;">
                     Madam Liu Cuixian<br />
                     刘翠娴女士
                 </p>
-                <p class="centerLabel">
+                <p class="centerLabel" style="line-height: 1.5;">
                         MOE Kindergarten @<br />
                         Blangah Rise</p>
             </div>
@@ -137,10 +137,10 @@ breadcrumb: Awards
         <td>
             <div>
                 <img class="profileImage" src="./../images/Madam Raudhah binte Alias_square.jpg">
-                <p class="nameLabel">
+                <p class="nameLabel" style="line-height: 1.5;">
                     Madam Raudhah binte Alias<br />
                 </p>
-                <p class="centerLabel">
+                <p class="centerLabel" style="line-height: 1.5;">
                         PCF Sparkletots Preschool @<br />
                         Kebun Baru Blk 172</p>
             </div>
@@ -148,10 +148,10 @@ breadcrumb: Awards
         <td>
             <div>
                 <img class="profileImage" src="./../images/Madam Siti Fadila bte Manaf_square.jpg">
-                <p class="nameLabel">
+                <p class="nameLabel" style="line-height: 1.5;">
                     Madam Siti Fadila bte Manaf<br />
                 </p>
-                <p class="centerLabel">
+                <p class="centerLabel" style="line-height: 1.5;">
                         PCF Sparkletots Preschool @<br />
                         Pasir Ris West Blk 738</p>
             </div>
@@ -159,11 +159,11 @@ breadcrumb: Awards
         <td>
             <div>
                 <img class="profileImage" src="./../images/Madam Sumathi Mani_square.jpg">
-                <p class="nameLabel">
+                <p class="nameLabel" style="line-height: 1.5;">
                     Madam Sumathi Mani<br />
                     திருவாட்டி சுமதி மணி
                 </p>
-                <p class="centerLabel">
+                <p class="centerLabel" style="line-height: 1.5;">
                         PCF Sparkletots Preschool @  <br />
                         Keat Hong Blk 295</p>
             </div>
@@ -177,11 +177,11 @@ breadcrumb: Awards
         <td>
             <div>
                 <img class="profileImage" src="./../images/Madam Tan Suan Eng_square.jpg">
-                <p class="nameLabel">
+                <p class="nameLabel" style="line-height: 1.5;">
                     Madam Tan Suan Eng<br />
                     陈传英女士
                 </p>
-                <p class="centerLabel">
+                <p class="centerLabel" style="line-height: 1.5;">
                         PCF Sparkletots Preschool @ <br />
                         Bukit Panjang Blk 412</p>
             </div>
@@ -189,11 +189,11 @@ breadcrumb: Awards
         <td>
             <div>
                 <img class="profileImage" src="./../images/Ms Guo Jiaying_square.jpg">
-                <p class="nameLabel">
+                <p class="nameLabel" style="line-height: 1.5;">
                     Ms Guo Jiaying<br />
                     郭嘉颖女士
                 </p>
-                <p class="centerLabel">
+                <p class="centerLabel" style="line-height: 1.5;">
                         PCF Sparkletots Preschool @ <br />
                         Boon Lay Blk 262</p>
             </div>
@@ -201,11 +201,11 @@ breadcrumb: Awards
         <td>
             <div>
                 <img class="profileImage" src="./../images/Ms Zhao Yan Dong_square.jpg">
-                <p class="nameLabel">
+                <p class="nameLabel" style="line-height: 1.5;">
                     Ms Zhao Yan Dong<br />
                     赵艳冬女士
                 </p>
-                <p class="centerLabel">
+                <p class="centerLabel" style="line-height: 1.5;">
                         My First Skool at<br />
                         Jurong Point</p>
             </div>
