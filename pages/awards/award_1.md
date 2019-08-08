@@ -90,12 +90,14 @@ breadcrumb: Madam Chong Pou Khwai
    </div>
 
    <div class="item5">
-            <p style="margin-right: 10px;font-size: 16px;line-height: 1.5;">Children learn naturally through play. It motivates them towards self-directed learning. I believe that children enjoy learning when they are given the right support and environment. As an early childhood educator, I am inspired to stimulate the children’s interest in learning the Chinese language through play. 
+            <p style="margin-right: 10px;font-size: 16px;line-height: 1.5;">
+                Madam Chong Pou Khwai is an experienced and dedicated pre-school Chinese language educator who has remained passionate about education despite having been in the service for 22 years.  She is both patient and nurturing towards her children and goes all out to design comprehensive packages to encourage and motivate them to converse in Mandarin and learn about the Chinese culture. Madam Chong uses strategies such as puppetry, role play, games, systematic reading strategy to engage her learners. She also utilizes teaching aids and picture books to create a positive and conducive environment for the learning of Chinese language, making learning meaningful for the children. A life-long learner, Madam Chong is open to acquiring new pedagogies and continues to attend courses to hone her teaching skills.
                 </p>
         </div>
 
    <div class="item6">
-                <p style="margin-right: 10px;font-size: 16px;line-height: 1.5;">爱玩是幼儿的天性，兴趣是最好的老师。在教学中，我会通过游戏激发幼儿对学习华文华语的兴趣，让幼儿主动积极地学习华文，并有机会与同伴互动，使用华语沟通。
+                <p style="margin-right: 10px;font-size: 16px;line-height: 1.5;">
+                    虽然已经当了22年的学前华文教师，钟宝葵老师却依然保持着当初的热忱。钟老师对幼儿关怀备至，耐心呵护。她用各种方法，包括皮影戏、角色扮演、游戏等激发幼儿对华语和华族文化的兴趣。钟老师善用教材、绘本，营造丰富多彩的华文学习环境。钟老师也是一位终身学习者，抱着虚心向学的心态，她不但向同事们请教，也经常报名参加课程，充实自己，努力使自己成为更优秀的华文教师。
                     </p>
         </div>
 </div>
