@@ -12,7 +12,7 @@ breadcrumb: Madam Chong Pou Khwai
         margin-left: 100px;
         margin-right: 100px;
         grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
-        grid-template-rows: 100px 100px auto ;
+        grid-template-rows: 100px 100px auto auto;
     }
 
    .item1 {
@@ -50,7 +50,7 @@ breadcrumb: Madam Chong Pou Khwai
 
    .item5 {
         grid-column-start: 1;
-        grid-column-end: 6;
+        grid-column-end: 11;
         grid-row-start: 3;
         grid-row-end: 4;
         margin-top: 50px;
@@ -58,10 +58,10 @@ breadcrumb: Madam Chong Pou Khwai
     }
 
    .item6 {
-        grid-column-start: 6;
+        grid-column-start: 1;
         grid-column-end: 11;
-        grid-row-start: 3;
-        grid-row-end: 4;
+        grid-row-start: 4;
+        grid-row-end: 5;
         margin-top: 50px;
         /* text-align: center; */
     }
