@@ -209,17 +209,5 @@ breadcrumb: Awards
                         Jurong Point</p>
             </div>
         </td>
-        <td>
-            <div>
-                <img class="profileImage" src="./../images/Ms Zhao Yan Dong_square.jpg">
-                <p class="nameLabel">
-                    Ms Zhao Yan Dong<br />
-                    赵艳冬女士
-                </p>
-                <p class="centerLabel">
-                        My First Skool at<br />
-                        Jurong Point</p>
-            </div>
-        </td>
     </tr>
 </table>
