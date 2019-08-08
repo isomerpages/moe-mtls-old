@@ -50,7 +50,7 @@ breadcrumb: Ms Kamilah Binte Kamis
 
    .item5 {
         grid-column-start: 1;
-        grid-column-end: 6;
+        grid-column-end: 11;
         grid-row-start: 3;
         grid-row-end: 4;
         margin-top: 50px;
@@ -58,10 +58,10 @@ breadcrumb: Ms Kamilah Binte Kamis
     }
 
    .item6 {
-        grid-column-start: 6;
+        grid-column-start: 1;
         grid-column-end: 11;
-        grid-row-start: 3;
-        grid-row-end: 4;
+        grid-row-start: 4;
+        grid-row-end: 5;
         margin-top: 50px;
         /* text-align: center; */
     }
@@ -73,15 +73,15 @@ breadcrumb: Ms Kamilah Binte Kamis
         </div>
 
    <div class="item2">
-                <p style="font-weight: bold;margin-bottom: 0px;font-size: 16px">Name</p>
-                <p style="margin-top: 0px;font-size: 14px;">
+                <p style="font-weight: bold;margin-bottom: 0px;font-size: 16px;line-height: 1.5;">Name</p>
+                <p style="margin-top: 0px;font-size: 14px;line-height: 1.5;">
                   Ms Kamilah Binte Kamis
                   </p>
         </div>
 
    <div class="item3">
-                <p style="font-weight: bold;margin-bottom: 0px;font-size: 16px">SCHOOL/ORAGNISATION</p>
-                <p style="margin-top: 0px;font-size: 14px;">
+                <p style="font-weight: bold;margin-bottom: 0px;font-size: 16px;line-height: 1.5;">SCHOOL/ORAGNISATION</p>
+                <p style="margin-top: 0px;font-size: 14px;line-height: 1.5;">
                   PCF Sparkletots Preschool @ Bukit Batok East
   </p>
         </div>
@@ -91,14 +91,22 @@ breadcrumb: Ms Kamilah Binte Kamis
    </div>
 
    <div class="item5">
-            <p style="margin-right: 10px;font-size: 16px;">
-              As an early childhood educator, I would like to inspire my children to love the Malay language. I am always motivated to design interactive and interesting Malay lessons so that my children will stay positive and active towards the learning of Malay language. I believe that every child has their own strength and it is my duty to uncover it and cultivate it along with positive values.
+            <p style="margin-right: 10px;font-size: 16px;line-height: 1.5;">
+             Ms Kamilah has demonstrated the ability to develop a detailed, developmentally appropriate lesson plan. She conducts her lesson with enthusiasm and successfully sustained her children’s interest throughout the lesson. She incorporates the principle ‘Children are active learners in her lesson and ensures that each activity is succinct, engaging and relevant.
+
+She demonstrates warmth and enthusiasm and establishes good rapport with the children. In spite of that, she is able to enforce rules and routines effectively. Her lesson is well-paced throughout and her delivery is superb, clear and confident. Ms Kamilah is able to seamlessly move from one activity to another especially during group work. Her command of the Malay language is impeccable and she is able to explain concepts to the children using simple terms. 
+
+A reflective educator, she possesses the ability to clearly explain her thought process during her interview session and even offers possible alternatives to enhance her lesson. She also ensures that Malay values are imbibed into the lessons which help her guide the children, leveraging on teachable moments, through her play and learn session.
 </p>
         </div>
 
    <div class="item6">
-                <p style="margin-right: 10px;font-size: 16px;">
-                  Saya ingin menjadi sumber inspirasi buat murid-murid saya untuk mencintai Bahasa Melayu. Saya selalu terdorong untuk menyampaikan pembelajaran Bahasa Melayu yang menarik dan interaktif supaya murid-murid saya kekal positif dan aktif terhadap pembelajaran Bahasa Melayu. Saya percaya bahawa semua pelajar mempunyai kemampuan tersendiri. Justeru, ia merupakan tugas saya untuk mencungkil kekuatan pelajar dan mencoraknya dengan nilai-nilai murni. 
+                <p style="margin-right: 10px;font-size: 16px;line-height: 1.5;">
+                 Cik Kamilah sering membina rancangan pelajaran yang terperinci dan bersesuaian dengan perkembangan kanak-kanak. Beliau menjalankan pengajarannya dengan penuh semangat dan berjaya menarik minat serta penyertaan aktif kanak-kanak di pusat prasekolahnya.  Berpegang prinsip ‘kanak-kanak sebagai pelajar aktif’ beliau memastikan setiap aktiviti pembelajaran yang dilaksanakan ringkas, menarik dan relevan. 
+
+Kemesraan dan semangat Cik Kamilah ketika menjalankan pengajaran amat ketara. Beliau mejalin hubungan baik dengan kanak-kanak walaupun peraturan dan rutin dipraktikkan di dalam bilik darjah. Pengajaran beliau jelas dan disampaikan dengan yakin. Malahan, Cik Kamilah mampu beralih dari satu aktiviti ke aktiviti yang lain dengan lancar terutama sekali semasa kerja kumpulan. Penguasaan Bahasa Melayu beliau baik dan beliau mampu menjelaskan sesuatu konsep kepada murid-muridnya dengan menggunakan istilah yang mudah difahami.
+
+Seorang pendidik yang reflektif, Cik Kamilah dapat menjelaskan proses pemikiran beliau dan menyarankan beberapa alternatif untuk meningkatkan pengajarannya sewaktu diwawancara. Beliau juga memastikan bahawa nilai-nilai murni masyarakat Melayu disulam ke dalam pengajarannya melalui saat boleh didik dan semasa sesi belajar dan bermain.
 </p>
         </div>
 </div>
