@@ -173,7 +173,6 @@ breadcrumb: Awards
 
 <table style="width:100%;" cellspacing="20" cellpadding="20">
     <tr>
-        <td></td>
         <td>
             <div>
                 <img class="profileImage" src="./../images/Madam Tan Suan Eng_square.jpg">
@@ -210,6 +209,5 @@ breadcrumb: Awards
                         Jurong Point</p>
             </div>
         </td>
-        <td></td>
     </tr>
 </table>
