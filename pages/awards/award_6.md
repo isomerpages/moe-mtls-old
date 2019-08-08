@@ -67,6 +67,15 @@ breadcrumb: Ms Ni Xuejing
     }
 </style>
 
+<script>
+        function goBack() {
+          window.history.back();
+        }
+        </script>
+
+<input type="image" name="btnBack" id="btnBack" onclick="goBack()" src="https://event-reg.biz/DefaultBanner/images/MTLS2019/btnBack.png" style="height:70px;">
+
+
 <div class="wrapper">
         <div class="item1">
             <img style="border-radius: 50%; width: 100%;" src="/images/Ms Ni Xuejing_square.jpg">
