@@ -12,7 +12,7 @@ breadcrumb: Ms Kamilah Binte Kamis
         margin-left: 100px;
         margin-right: 100px;
         grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
-        grid-template-rows: 100px 100px auto ;
+        grid-template-rows: 100px 100px auto auto auto;
     }
 
    .item1 {
@@ -54,7 +54,8 @@ breadcrumb: Ms Kamilah Binte Kamis
         grid-row-start: 3;
         grid-row-end: 4;
         margin-top: 50px;
-        /* text-align: center; */
+        position:relative;
+        padding-top:56.25%;
     }
 
    .item6 {
@@ -62,6 +63,15 @@ breadcrumb: Ms Kamilah Binte Kamis
         grid-column-end: 11;
         grid-row-start: 4;
         grid-row-end: 5;
+        margin-top: 50px;
+        /* text-align: center; */
+    }
+    
+   .item7 {
+        grid-column-start: 1;
+        grid-column-end: 11;
+        grid-row-start: 5;
+        grid-row-end: 6;
         margin-top: 50px;
         /* text-align: center; */
     }
@@ -101,6 +111,10 @@ breadcrumb: Ms Kamilah Binte Kamis
    </div>
 
    <div class="item5">
+                <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </div>
+   
+   <div class="item6">
             <p style="margin-right: 10px;font-size: 16px;line-height: 1.5;">
              Ms Kamilah has demonstrated the ability to develop a detailed, developmentally appropriate lesson plan. She conducts her lesson with enthusiasm and successfully sustained her children’s interest throughout the lesson. She incorporates the principle ‘Children are active learners in her lesson and ensures that each activity is succinct, engaging and relevant.
 
@@ -110,7 +124,7 @@ A reflective educator, she possesses the ability to clearly explain her thought 
 </p>
         </div>
 
-   <div class="item6">
+   <div class="item7">
                 <p style="margin-right: 10px;font-size: 16px;line-height: 1.5;">
                  Cik Kamilah sering membina rancangan pelajaran yang terperinci dan bersesuaian dengan perkembangan kanak-kanak. Beliau menjalankan pengajarannya dengan penuh semangat dan berjaya menarik minat serta penyertaan aktif kanak-kanak di pusat prasekolahnya.  Berpegang prinsip ‘kanak-kanak sebagai pelajar aktif’ beliau memastikan setiap aktiviti pembelajaran yang dilaksanakan ringkas, menarik dan relevan. 
 
