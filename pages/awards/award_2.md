@@ -12,7 +12,7 @@ breadcrumb: Madam Dharmaraj Pushpalatha
         margin-left: 100px;
         margin-right: 100px;
         grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
-        grid-template-rows: 100px 100px auto ;
+        grid-template-rows: 100px 100px auto auto auto;
     }
 
    .item1 {
@@ -54,10 +54,20 @@ breadcrumb: Madam Dharmaraj Pushpalatha
         grid-row-start: 3;
         grid-row-end: 4;
         margin-top: 50px;
+        position:relative;
+        padding-top:56.25%;
+    }
+    
+   .item6 {
+        grid-column-start: 1;
+        grid-column-end: 11;
+        grid-row-start: 3;
+        grid-row-end: 4;
+        margin-top: 50px;
         /* text-align: center; */
     }
 
-   .item6 {
+   .item7 {
         grid-column-start: 1;
         grid-column-end: 11;
         grid-row-start: 4;
@@ -99,6 +109,10 @@ breadcrumb: Madam Dharmaraj Pushpalatha
    </div>
 
    <div class="item5">
+                <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/XO_-4oDcpkA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    
+   <div class="item6">
             <p style="margin-right: 10px;font-size: 16px;line-height: 1.5;">
               Madam Dharmaraj Pushpalatha’s storytelling technique of using self-made props is innovative and it helps to arouse and capture the children’s attention. The planned activity is about Singapore, its multicultural ethnicity and the different ethnic themes related to food, clothes and language spoken. She is able to draw the children’s attention by showing pictures that are familiar to them. She uses her tone and paces herself to engage the children effectively.
 
@@ -108,7 +122,7 @@ Mdm Pushpalatha is an enthusiastic teacher who seeks every opportunity to work w
                 </p>
         </div>
 
-   <div class="item6">
+   <div class="item7">
                 <p style="margin-right: 10px;font-size: 16px;line-height: 1.5;">
                   திருவாட்டி தர்மராஜ் புஷ்பலதாவின் புத்தாக்கமிக்க கதை சொல்லும் உத்திமுறைகள் பிள்ளைகளின் ஆர்வத்தைத் தூண்டக்கூடியவையாக உள்ளன.  இவர் சிங்கப்பூரைப்பற்றியும் அதன் பல்லின பண்பாடு, வேறுபட்ட பல்லினப் பண்பாட்டு உணவு, உடை, பேசும் மொழி என்பவை அவர் பிள்ளைகளுக்காகத் திட்டமிட்ட நடவடிக்கைகள் ஆகும். 
 
