@@ -12,7 +12,7 @@ breadcrumb: Madam Zhou Shaojuan
         margin-left: 100px;
         margin-right: 100px;
         grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
-        grid-template-rows: 100px 100px auto ;
+        grid-template-rows: 100px 100px auto auto auto;
     }
 
    .item1 {
@@ -48,13 +48,14 @@ breadcrumb: Madam Zhou Shaojuan
         /* text-align: center; */
     }
     
-    .item5 {
+   .item5 {
         grid-column-start: 1;
         grid-column-end: 11;
         grid-row-start: 3;
         grid-row-end: 4;
         margin-top: 50px;
-        /* text-align: center; */
+        position:relative;
+        padding-top:56.25%;
     }
 
    .item6 {
@@ -62,6 +63,15 @@ breadcrumb: Madam Zhou Shaojuan
         grid-column-end: 11;
         grid-row-start: 4;
         grid-row-end: 5;
+        margin-top: 50px;
+        /* text-align: center; */
+    }
+    
+   .item7 {
+        grid-column-start: 1;
+        grid-column-end: 11;
+        grid-row-start: 5;
+        grid-row-end: 6;
         margin-top: 50px;
         /* text-align: center; */
     }
@@ -99,7 +109,11 @@ breadcrumb: Madam Zhou Shaojuan
                 <img style="border-radius: 50%; width: 200px;" src="/images/Outstanding.PNG">
    </div>
 
-   <div class="item5">
+<div class="item5">
+                <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/cgFm18CNzfY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </div>
+   
+   <div class="item6">
             <p style="margin-right: 10px;font-size: 16px;line-height: 1.5;">
               Madam Zhou Shaojuan is a passionate and sincere teacher who ignites her children’s interest in learning through well organised lessons. She utilises teaching aids to develop the children’s observational skills, as well as asking good guiding questions to stimulate their thinking. Videos have also been used effectively to help her children better understand a topic. 
 
@@ -107,7 +121,7 @@ Madam Zhou uses stories to train the children’s listening skills. She engages 
               </p>
         </div>
 
-   <div class="item6">
+   <div class="item7">
                 <p style="margin-right: 10px;font-size: 16px;line-height: 1.5;">
                   周绍娟老师以热情与诚恳的态度投入华文教学工作，她细心备课，善用教具与资源，教学方法多样化。周老师以图片引导幼儿观察，以提问激发幼儿思考，以视频帮助幼儿理解。她通过讲述故事训练幼儿的聆听能力，以有趣的情境扮演让全体幼儿参与活动。为了帮助幼儿学习华文，她还根据幼儿不同的家庭语言背景和学习能力，调整活动要求，帮助幼儿建立自信。周老师虚心向学，不断摸索、反思，帮助幼儿全面发展，用心陪伴幼儿度过美好的幼年时光。
                   </p>
