@@ -61,8 +61,8 @@ breadcrumb: Madam Dharmaraj Pushpalatha
    .item6 {
         grid-column-start: 1;
         grid-column-end: 11;
-        grid-row-start: 3;
-        grid-row-end: 4;
+        grid-row-start: 4;
+        grid-row-end: 5;
         margin-top: 50px;
         /* text-align: center; */
     }
@@ -70,8 +70,8 @@ breadcrumb: Madam Dharmaraj Pushpalatha
    .item7 {
         grid-column-start: 1;
         grid-column-end: 11;
-        grid-row-start: 4;
-        grid-row-end: 5;
+        grid-row-start: 5;
+        grid-row-end: 6;
         margin-top: 50px;
         /* text-align: center; */
     }
