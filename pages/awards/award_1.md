@@ -56,7 +56,6 @@ breadcrumb: Madam Chong Pou Khwai
         margin-top: 50px;
         position:relative;
         padding-top:56.25%;
-        /* text-align: center; */
     }
 
    .item6 {
