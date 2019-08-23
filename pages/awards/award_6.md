@@ -12,7 +12,7 @@ breadcrumb: Ms Ni Xuejing
         margin-left: 100px;
         margin-right: 100px;
         grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
-        grid-template-rows: 100px 100px auto ;
+        grid-template-rows: 100px 100px auto auto auto;
     }
 
    .item1 {
@@ -54,7 +54,8 @@ breadcrumb: Ms Ni Xuejing
         grid-row-start: 3;
         grid-row-end: 4;
         margin-top: 50px;
-        /* text-align: center; */
+        position:relative;
+        padding-top:56.25%;
     }
 
    .item6 {
@@ -62,6 +63,15 @@ breadcrumb: Ms Ni Xuejing
         grid-column-end: 11;
         grid-row-start: 4;
         grid-row-end: 5;
+        margin-top: 50px;
+        /* text-align: center; */
+    }
+    
+   .item7 {
+        grid-column-start: 1;
+        grid-column-end: 11;
+        grid-row-start: 5;
+        grid-row-end: 6;
         margin-top: 50px;
         /* text-align: center; */
     }
@@ -99,7 +109,12 @@ breadcrumb: Ms Ni Xuejing
                 <img style="border-radius: 50%; width: 200px;" src="/images/Outstanding.PNG">
    </div>
 
+
    <div class="item5">
+                <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/2bx6xRAawaM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </div>
+   
+   <div class="item6">
             <p style="margin-right: 10px;font-size: 16px;line-height: 1.5;">
               Ms Ni Xuejing firmly believes in continuous learning. She is cognizant that a classroom teacher needs to remain keen in her observations over her children, and be able to discover the interests of her charges in a timely manner. In this way, she can then seize the right opportunity to motivate the children and help them develop a love for the Chinese language. 
 
@@ -107,7 +122,7 @@ Ms Ni’s good classroom management skills enables her to create a positive lear
 </p>
         </div>
 
-   <div class="item6">
+   <div class="item7">
                 <p style="margin-right: 10px;font-size: 16px;line-height: 1.5;">
                   倪学静老师深信只要坚持自己对学习的信念，保持敏锐的观察力，及时发现幼儿的兴趣，便能在日常生活中，捉住每一个机会，启发幼儿学习与热爱华文。除了备课充分，设计的教学活动有效，倪老师的课室管理技巧也运用得当。她所创造出的积极的课堂氛围，使幼儿敢于发言、乐于发言。在教具制作方面，她不断尝试，越来越得心应手。倪老师也借助参加课程及学习之旅，提高自己的教学素养，以确保能持续地激发幼儿学习华文的兴趣。
  </p>
