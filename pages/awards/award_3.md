@@ -12,7 +12,7 @@ breadcrumb: Madam Valliappan Meenatchi
         margin-left: 100px;
         margin-right: 100px;
         grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
-        grid-template-rows: 100px 100px auto ;
+        grid-template-rows: 100px 100px auto auto auto;
     }
 
    .item1 {
@@ -54,7 +54,8 @@ breadcrumb: Madam Valliappan Meenatchi
         grid-row-start: 3;
         grid-row-end: 4;
         margin-top: 50px;
-        /* text-align: center; */
+        position:relative;
+        padding-top:56.25%;
     }
 
    .item6 {
@@ -62,6 +63,15 @@ breadcrumb: Madam Valliappan Meenatchi
         grid-column-end: 11;
         grid-row-start: 4;
         grid-row-end: 5;
+        margin-top: 50px;
+        /* text-align: center; */
+    }
+    
+   .item7 {
+        grid-column-start: 1;
+        grid-column-end: 11;
+        grid-row-start: 5;
+        grid-row-end: 6;
         margin-top: 50px;
         /* text-align: center; */
     }
@@ -98,7 +108,11 @@ breadcrumb: Madam Valliappan Meenatchi
                 <img style="border-radius: 50%; width: 200px;" src="/images/Outstanding.PNG">
    </div>
 
-   <div class="item5">
+<div class="item5">
+                <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/6aX1Ht8sy0E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </div>
+   
+   <div class="item6">
             <p style="margin-right: 10px;font-size: 16px;line-height: 1.5;">
               Mdm Valliappan Meenatchi puts in great effort in ensuring that her lessons take her children’s prior knowledge into consideration.  For the topic on butterflies and caterpillars, she seamlessly weaved the knowledge into a well-structured lesson and her children were able to transit smoothly from one experience to another.
 
@@ -111,7 +125,7 @@ The children are attached to Madam Valliappan Meenatchi who is a caring teacher.
                 </p>
         </div>
 
-   <div class="item6">
+   <div class="item7">
                 <p style="margin-right: 10px;font-size: 16px;line-height: 1.5;">
                   திருவாட்டி வள்ளியப்பன் மீனாட்சி, தமது பாடங்கள் பிள்ளைகளின் வயதிற்கும் அனுபவத்திற்கும் உட்பட்டதாக இருக்க வேண்டும் என்பதற்காக பெரும் முயற்சி செய்பவர். பட்டாம் பூச்சிகள், கம்பளிப்பூச்சிகள்பற்றிய பாடங்களை நன்கு திட்டமிட்டு அவை தொடர்பான அறிவைப் பிள்ளைகள் நன்கு புரிந்துகொண்டும் அனுபவபூர்வமாக உணரும் வகையிலும் கற்பித்தார்.
 
