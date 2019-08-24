@@ -52,7 +52,7 @@ collection_name: left-nav-three
 <table style="width:100%;" cellspacing="20" cellpadding="20">
     <tr>
         <td class="baseTD tdHead">
-            <b>Mother Tongue Communications Come Alive with SLS!</b><br>
+            <b>Written Communications Come Alive with SLS!</b><br>
         </td>
         <td class="baseTD tdHead">
             <b>Joy in Reading</b><br>

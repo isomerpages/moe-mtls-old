@@ -18,6 +18,9 @@
     url: /sharesessions/Malay/
   - title: Tamil
     url: /sharesessions/Tamil/
+    
+- title: Award
+  url: /awards/
 
 - title: Discovery Land
   url: /discovery-land/
