@@ -30,7 +30,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>11.50am - 12.00pm
-    <br><b>Title: </b>有奖竞赛<br><p style=" padding-left:55px;margin:0px;">Quiz Time</p>
+    <br><b>Title: </b>有奖问答<br><p style=" padding-left:55px;margin:0px;">Quiz Time</p>
     </td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>12.10pm - 12.25pm
-    <br><b>Title: </b>单口讲故事<br><p style="padding-left:55px;margin:0px;">Story-telling</p>
+    <br><b>Title: </b>“娓娓道来”故事表演<br><p style="padding-left:55px;margin:0px;">Story-telling</p>
      <b>Performing Group: </b>Tao Nan School
     </td>
   </tr>
@@ -71,13 +71,13 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
    <b>Time: </b> 3.15pm - 3.30pm
-    <br><b>Title: </b>有奖竞赛<br><p style=" padding-left:55px;margin:0px;">Quiz Time</p>
+    <br><b>Title: </b>有奖问答<br><p style=" padding-left:55px;margin:0px;">Quiz Time</p>
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>3.30pm - 3.40pm
-    <br><b>Title: </b>小黑鱼的故事<br>
+    <br><b>Title: </b>“小黑鱼”故事表演<br>
      <p style=" padding-left:55px;margin:0px;"> The Little Black Fish called 'Swimmy' (Interactive Story Telling)</p>  
     <b>Performing Group: </b>PCF Sparkletots Preschool @ Nee Soon Central Blk 646
     </td>
@@ -93,26 +93,26 @@ collection_name: left-nav-two
     <td COLSPAN="2">
     <b>Time: </b>3.50pm - 4.00pm
     <br><b>Title: </b>“语文学习乐”相声表演 <br><p style=" padding-left:55px;margin:0px;">Cross Talk</p>
-    <b>Performing Group: </b>Singfeng Cross Talk
+    <b>Performing Group: </b>Sin Feng Xiang Sheng Society
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
     <b>Time: </b>4.00pm - 4.05pm
-    <br><b>Title: </b>有奖竞赛 <br><p style=" padding-left:55px;margin:0px;">Quiz Time</p>　
+    <br><b>Title: </b>有奖问答<br><p style=" padding-left:55px;margin:0px;">Quiz Time</p>　
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
     <b>Time: </b>4.55pm - 5.05pm
-    <br><b>Title: </b>华艺表演 <br><p style=" padding-left:55px;margin:0px;">Gu Zheng and Poem Recital Performance</p> 
+    <br><b>Title: </b>“但愿人长久”华艺表演<br><p style=" padding-left:55px;margin:0px;">Gu Zheng and Poem Recital Performance</p> 
     <b>Performing Group: </b>Endeavour Primary School
     </td>
   </tr>
    <tr>
     <td COLSPAN="2">
     <b>Time: </b>5.05pm - 5.15pm
-    <br><b>Title: </b>小狐狸的花园 <br><p style=" padding-left:55px;margin:0px;">Little Fox Garden (Story Telling with Dramatisation)</p>  
+    <br><b>Title: </b>“小狐狸的花园”故事表演<br><p style=" padding-left:55px;margin:0px;">Little Fox Garden (Story Telling with Dramatisation)</p>  
     <b>Performing Group: </b>PCF Sparkletots Preschool @ Eunos Blk 629
     </td>
   </tr>
@@ -126,7 +126,7 @@ collection_name: left-nav-two
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>5.25pm - 5.35pm
-    <br><b>Title: </b>“欢乐协奏曲”歌唱表演<br><p style=" padding-left:55px;margin:0px;">A Joyful Medley (Mother Tongue Songs Medley by P2 Pupils)</p>  
+    <br><b>Title: </b>“欢乐协奏曲”歌唱表演<br><p style=" padding-left:55px;margin:0px;">A Joyful Medley (Mother Tongue Song Medley)</p>  
     <b>Performing Group: </b>Bedok Green Primary School
     </td>
   </tr>
@@ -134,13 +134,13 @@ collection_name: left-nav-two
     <td COLSPAN="2">
     <b>Time: </b>5.35pm - 5.50pm
     <br><b>Title: </b>Cross Talk “语文学习乐”相声表演<br><p style="padding-left:50px;margin:0px;"></p> 
-    <b>Performing Group: </b>Singfeng Cross Talk
+    <b>Performing Group: </b>Sin Feng Xiang Sheng Society
     </td>
   </tr>
   <tr>
     <td COLSPAN="2">
     <b>Time: </b>5.50pm - 6.00pm
-    <br><b>Title: </b>有奖竞赛 <br><p style="padding-left:53px;margin:0px;">Quiz Time</p>　
+    <br><b>Title: </b>有奖问答<br><p style="padding-left:53px;margin:0px;">Quiz Time</p>　
     </td>
   </tr>
 </table>
