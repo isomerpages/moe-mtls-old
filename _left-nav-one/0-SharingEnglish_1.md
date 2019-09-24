@@ -10,4 +10,4 @@ Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Y
 2015年小学华文课程知多少
 Format: Sharing
 
-<input type="image" name="btnBack" id="btnBack" onclick="goBack()" src="btnBack.png" style="height:70px;">
+<input type="image" name="btnBack" id="btnBack" onclick="goBack()" src="/images/btnBack.png" style="height:70px;">
