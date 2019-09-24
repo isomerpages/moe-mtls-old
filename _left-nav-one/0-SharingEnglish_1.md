@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Understanding 
+title: Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese 
 permalink: /sharesessions/English/0-SharingEnglish_1/
 breadcrumb: English Sessions 1
 collection_name: left-nav-one
