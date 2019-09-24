@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: English Sessions
-permalink: /sharesessions/English/1
+permalink: /sharesessions/English/0-SharingEnglish_1/
 breadcrumb: English Sessions 1
 collection_name: left-nav-one
 ---
