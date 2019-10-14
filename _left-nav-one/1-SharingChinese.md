@@ -40,7 +40,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 308
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C6"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="0-SharingChinese_3.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
