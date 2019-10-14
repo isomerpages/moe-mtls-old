@@ -14,6 +14,17 @@ Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Y
 2015年小学华文课程知多少
 Format: Sharing
 
+<style>
+        .divSPMain {
+            padding: 20px;
+            padding-top: 20px;
+            text-align: justify;
+            border-radius: 20px;
+        }
+        .divSPInfo {
+            padding-top: 1px;
+        }
+    </style>
 
 <div id="PanelSess">
             <div class="container SiteContent">
@@ -49,7 +60,7 @@ Format: Sharing
                         Sharing</span>
                 </div>
                 <h2 style="text-decoration: underline; padding-left: 20px; padding-top: 10px;">
-                    <img src="/images/HDerSpeakers.png"
+                    <img src="/images/sessions/HDerSpeakers.png"
                         style="height: 60px;" />
                 </h2>
                 <div class="row divSPMain">
