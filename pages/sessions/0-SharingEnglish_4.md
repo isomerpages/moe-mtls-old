@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Raising Bilingual Children: Challenges, Opportunities and Strategies for Success
+title: Raising Bilingual Children - Challenges, Opportunities and Strategies for Success
 permalink: /sharesessions/English/0-SharingEnglish_4/
 breadcrumb: English Sessions 4
 collection_name: left-nav-one
