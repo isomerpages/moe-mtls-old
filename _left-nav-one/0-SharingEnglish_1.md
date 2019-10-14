@@ -43,7 +43,7 @@ collection_name: left-nav-one
     </div>
     <div class="row divSPMain">
         <h2 style="text-decoration: underline; padding-left: 20px;">
-            <img src="/images/sessions/HDerSpeakers.png" style="height: 60px;max-width:100%;" />
+            <img src="/images/sessions/HDerSpeakers.png" style="height: 60px;max-width:100%;" /></h2>
             <div class="col-md-2">
             </div>
     </div>
