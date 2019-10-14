@@ -128,6 +128,8 @@ collection_name: left-nav-one
     </div>
     <div class="row divSPMain">
         <img src="/images/sessions/HderSynopsis.png" style="height: 60px;max-width:100%;" />
+        <div class="col-md-2">
+                    </div>
     </div>    
         <h2 style="text-decoration: underline; padding-left: 20px;">
             <img src="/images/sessions/HderSynopsis.png" style="height: 60px;max-width:100%;" /></h2>
