@@ -9,8 +9,7 @@ collection_name: left-nav-one
 
 
 <input type="image" name="btnBack" id="btnBack" onclick="goBack()" src="/images/btnBack.png" style="height:70px;">
-<input type="image" name="btnRegister" id="btnRegister" src="/images/btnClosed.png"
-    style="height:70px;padding-left: 50px;" />
+<input type="image" name="btnRegister" id="btnRegister" src="/images/btnClosed.png" style="height:70px;padding-left: 50px;" />
 
 <link href="/misc/bootstrap.min.css" rel="stylesheet" />
 <link href="/misc/Site.css" rel="stylesheet" />
@@ -127,7 +126,6 @@ collection_name: left-nav-one
             </div>
         </div>
     </div>
-    <div class="row divSPMain">
         <h2 style="text-decoration: underline; padding-left: 20px;">
             <img src="/images/sessions/HderSynopsis.png" style="height: 60px;" /></h2>
         <div class="col-md-2">
@@ -149,6 +147,6 @@ collection_name: left-nav-one
                     id="lblSynosis_OL">2015年，《欢乐伙伴》小学华文课程开始在一年级使用，至今已经推展到五年级。课程旨在培养学生有效使用华语与人沟通、认识自己的华族文化，并与世界各地的华族社群接轨的能力。教育部课程规划员将分享孩子们在课堂上如何利用这套教材学习华文以及学校如何协助孩子从学前过渡到小学。家长可以与孩子一起参与活动，学习帮助孩子学好华文的有趣点子。</span>
             </div>
         </div>
-    </div>
+    
 </div>
-</div>
+
