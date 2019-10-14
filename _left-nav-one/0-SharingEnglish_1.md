@@ -14,6 +14,8 @@ Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Y
 2015年小学华文课程知多少
 Format: Sharing
 
+<link href="/misc/bootstrap.min.css" rel="stylesheet" />
+<link href="/misc/Site.css" rel="stylesheet" />
 <style>
         .divSPMain {
             padding: 20px;
