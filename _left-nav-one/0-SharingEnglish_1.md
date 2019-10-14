@@ -49,13 +49,13 @@ Format: Sharing
                         Sharing</span>
                 </div>
                 <h2 style="text-decoration: underline; padding-left: 20px; padding-top: 10px;">
-                    <img src="https://event-reg.biz/DefaultBanner/images/MTLS2019/HDerSpeakers.png"
+                    <img src="/images/HDerSpeakers.png"
                         style="height: 60px;" />
                 </h2>
                 <div class="row divSPMain">
                     <div class="col-md-2">
                         <img id="RptSpeaker_Img_0"
-                            src="https://event-reg.biz/DefaultBanner/images/MTLS2019/Speaker/C131.png"
+                            src="/images/sessions/C131.png"
                             style="float: left; width: 150px;" />
                     </div>
                     <div class="divSPInfo col-md-10">
@@ -85,7 +85,7 @@ Format: Sharing
                 <div class="row divSPMain">
                     <div class="col-md-2">
                         <img id="RptSpeaker_Img_1"
-                            src="https://event-reg.biz/DefaultBanner/images/MTLS2019/Speaker/C132.png"
+                            src="/images/sessions/C132.png"
                             style="float: left; width: 150px;" />
                     </div>
                     <div class="divSPInfo col-md-10">
@@ -114,7 +114,7 @@ Format: Sharing
                 <div class="row divSPMain">
                     <div class="col-md-2">
                         <img id="RptSpeaker_Img_2"
-                            src="https://event-reg.biz/DefaultBanner/images/MTLS2019/Speaker/C133.png"
+                            src="/images/sessions/C133.png"
                             style="float: left; width: 150px;" />
                     </div>
                     <div class="divSPInfo col-md-10">
@@ -143,7 +143,7 @@ Format: Sharing
                 </div>
                 <div class="row divSPMain">
                     <h2 style="text-decoration: underline; padding-left: 20px;">
-                        <img src="https://event-reg.biz/DefaultBanner/images/MTLS2019/HderSynopsis.png"
+                        <img src="/images/sessions/HderSynopsis.png"
                             style="height: 60px;" /></h2>
                     <div class="col-md-2">
                     </div>
