@@ -32,7 +32,7 @@ collection_name: left-nav-one
     <td><b>Speaker(s):</b> Dr Anitha Devi Pillai <br><b>Topic:</b> How Do You Encourage Literacy in Young Children (and Beyond)?<br><b>Time:</b> 3.00pm - 4.00pm <br><b>Venue:</b> Room 311
   </td>
    <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=E3"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="0-SharingEnglish_3.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
   </tr>  
    <tr>
@@ -41,7 +41,7 @@ collection_name: left-nav-one
     <td><b>Speaker(s):</b> Dr Leher Singh <br><b>Topic:</b> Raising Bilingual Children: Challenges, Opportunities and Strategies for Success <br><b>Time:</b> 4.15pm - 5.15pm <br><b>Venue:</b> Room 311
    </td>
   <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=E4"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="0-SharingEnglish_4.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
   </tr>
       <tr>
@@ -51,7 +51,7 @@ collection_name: left-nav-one
 <br><b>Topic:</b> Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese in School<br><b>Time:</b> 5.30pm - 6.30pm <br><b>Venue:</b> Room 311
 </td>
    <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=E5"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="0-SharingEnglish_5.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
   </tr>
 </table>
