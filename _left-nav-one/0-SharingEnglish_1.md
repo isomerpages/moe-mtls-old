@@ -40,9 +40,7 @@ collection_name: left-nav-one
         <span id="tblFormat" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;"><b>Format:</b>
             Sharing</span>
     </div>
-    <h2 style="text-decoration: underline; padding-left: 20px; padding-top: 10px;">
-        <img src="/images/sessions/HDerSpeakers.png" style="height: 60px;max-width:100%;" />
-    </h2>
+        <img src="/images/sessions/HDerSpeakers.png" style="height: 60px;max-width:100%;padding-left: 20px; padding-top: 10px;" />
     <div class="row divSPMain">
         <div class="col-md-2">
             <img id="RptSpeaker_Img_0" src="/images/sessions/C131.png" style="float: left; width: 150px;" />
