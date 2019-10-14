@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese 
+title: Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese
 permalink: /sharesessions/English/0-SharingEnglish_1/
 breadcrumb: English Sessions 1
 collection_name: left-nav-one
@@ -9,7 +9,8 @@ collection_name: left-nav-one
 
 
 <input type="image" name="btnBack" id="btnBack" onclick="goBack()" src="/images/btnBack.png" style="height:70px;">
-<input type="image" name="btnRegister" id="btnRegister" src="/images/btnClosed.png" style="height:70px;padding-left: 50px;" />
+<input type="image" name="btnRegister" id="btnRegister" src="/images/btnClosed.png"
+    style="height:70px;padding-left: 50px;" />
 
 <link href="/misc/bootstrap.min.css" rel="stylesheet" />
 <link href="/misc/Site.css" rel="stylesheet" />
@@ -40,9 +41,12 @@ collection_name: left-nav-one
         <span id="tblFormat" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;"><b>Format:</b>
             Sharing</span>
     </div>
-    <h2 style="text-decoration: underline; padding-left: 20px; padding-top: 10px;">
-        <img src="/images/sessions/HDerSpeakers.png" style="height: 60px;max-width:100%;" />
-    </h2>
+    <div class="row divSPMain">
+        <h2 style="text-decoration: underline; padding-left: 20px;">
+            <img src="/images/sessions/HDerSpeakers.png" style="height: 60px;max-width:100%;" />
+            <div class="col-md-2">
+            </div>
+    </div>
     <div class="row divSPMain">
         <div class="col-md-2">
             <img id="RptSpeaker_Img_0" src="/images/sessions/C131.png" style="float: left; width: 150px;" />
@@ -130,29 +134,26 @@ collection_name: left-nav-one
         <h2 style="text-decoration: underline; padding-left: 20px;">
             <img src="/images/sessions/HderSynopsis.png" style="height: 60px;max-width:100%;" /></h2>
         <div class="col-md-2">
-                    </div>
-    </div>    
-        <h2 style="text-decoration: underline; padding-left: 20px;">
-            <img src="/images/sessions/HderSynopsis.png" style="height: 60px;max-width:100%;" /></h2>
-        <div class="col-md-2">
         </div>
-        <div class="divSPInfo col-md-10">
-            <div class="col-md-12">
-                <span id="lblSynosis_EL">The 2015 Primary Chinese Language Curriculum was implemented at
-                    Primary One in 2015 and rolled out to Primary Five this year. The curriculum aims to
-                    enable students to communicate in Chinese, better appreciate Chinese culture and connect
-                    with Chinese communities in Asia and beyond. Our curriculum planners will provide an
-                    insight into how the 2015 Curriculum enables young children to learn Chinese in class
-                    and how schools support their students in the transition from pre-school to primary
-                    school. Hands-on activities will be conducted for parents and their children to provide
-                    ideas on how parents can better support their children in learning Chinese in fun and
-                    engaging ways. </span>
-            </div>
-            <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                <span
-                    id="lblSynosis_OL">2015年，《欢乐伙伴》小学华文课程开始在一年级使用，至今已经推展到五年级。课程旨在培养学生有效使用华语与人沟通、认识自己的华族文化，并与世界各地的华族社群接轨的能力。教育部课程规划员将分享孩子们在课堂上如何利用这套教材学习华文以及学校如何协助孩子从学前过渡到小学。家长可以与孩子一起参与活动，学习帮助孩子学好华文的有趣点子。</span>
-            </div>
+    </div>
+    <div class="col-md-2">
+    </div>
+    <div class="divSPInfo col-md-10">
+        <div class="col-md-12">
+            <span id="lblSynosis_EL">The 2015 Primary Chinese Language Curriculum was implemented at
+                Primary One in 2015 and rolled out to Primary Five this year. The curriculum aims to
+                enable students to communicate in Chinese, better appreciate Chinese culture and connect
+                with Chinese communities in Asia and beyond. Our curriculum planners will provide an
+                insight into how the 2015 Curriculum enables young children to learn Chinese in class
+                and how schools support their students in the transition from pre-school to primary
+                school. Hands-on activities will be conducted for parents and their children to provide
+                ideas on how parents can better support their children in learning Chinese in fun and
+                engaging ways. </span>
         </div>
-    
-</div>
+        <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
+            <span
+                id="lblSynosis_OL">2015年，《欢乐伙伴》小学华文课程开始在一年级使用，至今已经推展到五年级。课程旨在培养学生有效使用华语与人沟通、认识自己的华族文化，并与世界各地的华族社群接轨的能力。教育部课程规划员将分享孩子们在课堂上如何利用这套教材学习华文以及学校如何协助孩子从学前过渡到小学。家长可以与孩子一起参与活动，学习帮助孩子学好华文的有趣点子。</span>
+        </div>
+    </div>
 
+</div>
