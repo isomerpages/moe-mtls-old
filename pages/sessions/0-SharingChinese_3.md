@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese
-permalink: /sharesessions/chinese/0-SharingChinese_1/
-breadcrumb: Chinese Sessions 1
+title: Learning Chinese in a Fun Way!
+permalink: /sharesessions/chinese/0-SharingChinese_3/
+breadcrumb: Chinese Sessions 3
 collection_name: left-nav-one
 ---
 
@@ -30,11 +30,11 @@ collection_name: left-nav-one
     <div class="col-md-12" style="padding-top: 40px;">
         <b>
             <span id="lblTitle_EL" style="font-weight: bold; font-size: 23px; letter-spacing: 2px; color: #525252">
-                Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese</span></b>
+                Learning Chinese in a Fun Way!</span></b>
     </div>
     <div class="col-md-12" style="padding-top: 10px;">
         <span id="lblTitle_OL" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;">
-        2015年小学华文课程知多少</span>
+        华文这样学</span>
     </div>
     <div class="col-md-12" style="padding-top: 10px;">
         <span id="tblFormat" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;"><b>Format:</b>
@@ -48,67 +48,45 @@ collection_name: left-nav-one
     </div>
 <div class="row divSPMain">
                             <div class="col-md-2">
-                                <img id="RptSpeaker_Img_0" src="/images/sessions/C131.png" style="float: left; width: 150px;" />
+                                <img id="RptSpeaker_Img_0" src="/images/sessions/C61.png" style="float: left; width: 150px;" />
                             </div>
                             <div class="divSPInfo col-md-10">
                                 <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblName_0">Mdm Xu Jinhong (徐金红)</span>
+                                    <span id="RptSpeaker_lblName_0">Mdm Li Hongyu (李红玉)</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px; font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_EL_0">Mother Tongue Languages Branch, Curriculum Planning and Development Division, Ministry of Education  </span>
+                                    <span id="RptSpeaker_lblOrg_EL_0">West View Primary School</span>
                                 </div>
                                 <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_OL_0">新加坡教育部课程规划与发展司（第一司）母语处华文课程组</span>
+                                    <span id="RptSpeaker_lblOrg_OL_0">维新小学</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px;">
-                                    <span id="RptSpeaker_Label1_0">Mdm Xu Jinhong is a Senior Specialist at the Curriculum Planning and Development Division, Ministry of Education with 28 years of experience in the Education Service. She is involved in the planning and development of the 2015 Primary Chinese Language Curriculum, research for the Primary Chinese Language Curriculum and training of primary school teachers.</span>
+                                    <span id="RptSpeaker_Label1_0">Mdm Li Hongyu actively explores new teaching strategies for Chinese. These include experiential learning which has greatly benefitted her students and allowed them to master Chinese; and rekindling her students' interest in learning Chinese through reading, speech and drama, and the singing of Xinyao songs. Students under her charge have won many championships in the National Chinese Speech and Storytelling competitions and have also made great progress in the Chinese Language classroom. Most importantly, they have enjoyed themselves tremendously in the process</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                                    <span id="RptSpeaker_Label2_0">徐金红老师是教育部课程规划与发展司的高级专科督导，从事教育工作已有二十八年。她目前负责“2015年小学华文课程”的规划与编写，也参与小学华文课程的咨询与研究工作，以及小学教师的专业培训。</span>
+                                    <span id="RptSpeaker_Label2_0">除了教学，李老师也参与教育部的新教材研究，并担任“欢乐伙伴列车长”，带领老师们开展教学研究。她多次在各种平台分享教学经验，并在2018年被评为“全国杰出华文教师”。<br/> 李红玉老师在华文教学中善于尝试和探索新的方法，让学生以体验式的学习，从实践中获得知识与技能。为了激发学生的学习兴趣，李老师通过朗诵、演讲、儿童剧表演、唱本地新谣等方式引领学生学习华文。她的学生多次在全国华语演讲比赛、讲故事比赛中获得冠军。</span>
                                 </div>
                             </div>
                         </div>
                         <div class="row divSPMain">
                             <div class="col-md-2">
-                                <img id="RptSpeaker_Img_1" src="/images/sessions/C132.png" style="float: left; width: 150px;" />
+                                <img id="RptSpeaker_Img_1" src="/images/sessions/C62.png" style="float: left; width: 150px;" />
                             </div>
                             <div class="divSPInfo col-md-10">
                                 <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblName_1">Ms Fang Fang (方芳)</span>
+                                    <span id="RptSpeaker_lblName_1">Mdm Cheryl Yap (叶心慧)</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px; font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_EL_1">Punggol Green Primary School</span>
+                                    <span id="RptSpeaker_lblOrg_EL_1">Holy Innocents’ Primary School</span>
                                 </div>
                                 <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_OL_1">培林小学</span>
+                                    <span id="RptSpeaker_lblOrg_OL_1">圣婴小学</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px;">
-                                    <span id="RptSpeaker_Label1_1">Ms Fang Fang graduated with a second-class honours (upper) degree and has 6 years of experience in the Education Service. She believes in the importance of being a role model for her students. In order to help her students learn better, she constantly seeks to enhance her professional knowledge. This includes taking part in action research projects on the effectiveness of flipped classrooms.</span>
+                                    <span id="RptSpeaker_Label1_1">Mdm Cheryl Yap is a teacher with 13 years of teaching experience and a mother of three young children. She understands the difficulty and challenges faced by teachers and parents alike in the teaching of Chinese to young children.   A firm believer in making learning Chinese fun for her pupils and children, Cheryl was also awarded the Distinguished Chinese Language Teacher Award in 2018.</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                                    <span id="RptSpeaker_Label2_1">方芳老师是一名荣誉学士学位得主，从事教育工作已有六年。她坚信“言传身教”在教育中的力量。为了让学生受益更多，她也一直努力地提高自己的专业知识，如参加华文翻转课室的行动研究。</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row divSPMain">
-                            <div class="col-md-2">
-                                <img id="RptSpeaker_Img_2" src="/images/sessions/C133.png" style="float: left; width: 150px;" />
-                            </div>
-                            <div class="divSPInfo col-md-10">
-                                <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblName_2">Mdm Yang Wenxia (杨文侠)</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px; font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_EL_2">Punggol Green Primary School</span>
-                                </div>
-                                <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_OL_2">培林小学</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px;">
-                                    <span id="RptSpeaker_Label1_2">Mdm Yang Wenxia is Senior Teacher for Chinese Language and has 8 years of experience in the Education Service. She is experienced in effective class teaching as well as creating effective learning packages. She was involved in the pilot of the 2015 Primary Chinese Language Curriculum teaching materials for three years and has worked with different teams and shared effective strategies on the teaching and learning of Chinese in primary schools on a variety of platforms.</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                                    <span id="RptSpeaker_Label2_2">杨文侠老师是一名华文高级教师，从事教育工作已有八年。她在安排有效的课堂教学和设计辅助学习配套方面很有经验。她曾连续三年参加2015小学华文教材的试教，也参加过不同的教研团队，并在很多场合分享过小学华文的教学策略。</span>
+                                    <span id="RptSpeaker_Label2_1">叶心慧老师拥有十三年的教学经验。身为三个幼儿的母亲，叶老师理解家长在英语环境中教导孩子学习华文的困难。因此，她通过游戏的方式，让孩子们快乐地学习华文，从而爱上华文、华语。叶老师也是2018年“全国杰出华文教师奖”的得奖者之一。</span>
                                 </div>
                             </div>
                         </div>
@@ -122,10 +100,10 @@ collection_name: left-nav-one
     </div>
     <div class="divSPInfo col-md-10">
                         <div class="col-md-12">
-                            <span id="lblSynosis_EL">The 2015 Primary Chinese Language Curriculum was implemented at Primary One in 2015 and rolled out to Primary Five this year.   The curriculum aims to enable students to communicate in Chinese, better appreciate Chinese culture and connect with Chinese communities in Asia and beyond.   Our curriculum planners will provide an insight into how the 2015 Curriculum enables young children to learn Chinese in class and how schools support their students in the transition from pre-school to primary school.   Hands-on activities will be conducted for parents and their children to provide ideas on how parents can better support their children in learning Chinese in fun and engaging ways. </span>
+                            <span id="lblSynosis_EL">The teaching of Chinese requires constant exploration and experimentation.  Teachers need to bring new learning experiences to students in order to hone their memory and deepen their understanding of the vocabulary they have acquired.  In this session, teachers will learn to design interesting activities based on the Chinese Language textbook to help students use Chinese proficiently in their daily lives.  Participants will also learn how to self-reflect and how to provide effective feedback to help students grow and experience the joy of success in learning Chinese.  Through reading, speech and drama, the singing of Xinyao songs and the utilisation of ICT, the teaching of Chinese can be both engaging and fun.  This will further enhance the interaction between teachers and students, thus motivating students to become more passionate and confident in the use of Chinese. </span>
                         </div>
                         <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                            <span id="lblSynosis_OL">2015年，《欢乐伙伴》小学华文课程开始在一年级使用，至今已经推展到五年级。课程旨在培养学生有效使用华语与人沟通、认识自己的华族文化，并与世界各地的华族社群接轨的能力。教育部课程规划员将分享孩子们在课堂上如何利用这套教材学习华文以及学校如何协助孩子从学前过渡到小学。家长可以与孩子一起参与活动，学习帮助孩子学好华文的有趣点子。</span>
+                            <span id="lblSynosis_OL">华文教学需要不断地探索与创新，提供学生全新的华文学习体验，从而加深他们的记忆和理解。在主体课程中，教师们可以利用《欢乐伙伴》中的“生活看板”或“生活运用”，结合生活实际情况，拓展和延伸课程内容。教师们也可以设计学生感兴趣的活动，让他们从实践中学习语言，并强调学生的反思与评价，让他们从中体验成功的喜悦。在辅助课程中，教师们可以通过朗诵、演讲、儿童剧表演、唱本地新谣等方式让学生体会学习的快乐。除此之外，现代资讯科技是必不可少的学习工具，教师们可以提供“线上课程”，让学生更加灵活和方便地学习华文，增强师生之间的互动，让学生真正成为学习的主人。</span>
                         </div>
                     </div>
 
