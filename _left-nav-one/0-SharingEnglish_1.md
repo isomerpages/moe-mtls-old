@@ -41,7 +41,7 @@ collection_name: left-nav-one
             Sharing</span>
     </div>
     <h2 style="text-decoration: underline; padding-left: 20px; padding-top: 10px;">
-        <img src="/images/sessions/HDerSpeakers.png"  />
+        <img src="/images/sessions/HDerSpeakers.png" style="height: 60px;max-width:100%;" />
     </h2>
     <div class="row divSPMain">
         <div class="col-md-2">
@@ -126,6 +126,9 @@ collection_name: left-nav-one
             </div>
         </div>
     </div>
+    <div class="row divSPMain">
+        <img src="/images/sessions/HderSynopsis.png" style="height: 60px;max-width:100%;" />
+    </div>    
         <h2 style="text-decoration: underline; padding-left: 20px;">
             <img src="/images/sessions/HderSynopsis.png" style="height: 60px;max-width:100%;" /></h2>
         <div class="col-md-2">
