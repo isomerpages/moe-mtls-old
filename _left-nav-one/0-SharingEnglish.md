@@ -23,7 +23,7 @@ collection_name: left-nav-one
     <td><b>Speaker(s):</b>  Shamiah Bafadhal <br><b>Topic:</b> Embedding Language Learning in Everyday Life <br><b>Time:</b> 1.45pm - 2.45pm <br><b>Venue:</b> Room 311
   </td>
    <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=E2"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="0-SharingEnglish_2.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
   </tr>
     <tr>
