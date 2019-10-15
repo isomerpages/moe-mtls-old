@@ -76,7 +76,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 303 - 304
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C2"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="1-SharingChinese_6.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -88,7 +88,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 309
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C12"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="1-SharingChinese_7.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -100,7 +100,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 308
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C7"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="1-SharingChinese_8.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -112,7 +112,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 310
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C16"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="1-SharingChinese_9.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -124,7 +124,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 303 - 304
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C3"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="1-SharingChinese_10.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -136,7 +136,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 308
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C8"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="1-SharingChinese_11.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -148,7 +148,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 309
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C18"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="1-SharingChinese_12.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -160,7 +160,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 310
       </td>
  <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C14"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="1-SharingChinese_13.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -172,7 +172,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 309
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C19"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="1-SharingChinese_14.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -184,7 +184,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 308
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C9"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="1-SharingChinese_15.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -196,7 +196,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 303 - 304
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C4"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="1-SharingChinese_16.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -208,7 +208,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 310
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C20"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="1-SharingChinese_17.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -220,7 +220,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 309
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C15"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="1-SharingChinese_18.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -232,7 +232,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 308
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C10"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="1-SharingChinese_19.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -244,7 +244,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 303 - 304
       </td>
       <td>
-   <a href="https://event-reg.biz/Registration/MTLSSession?Session=C5"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="1-SharingChinese_20.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    

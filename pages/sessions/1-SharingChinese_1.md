@@ -26,6 +26,13 @@ collection_name: left-nav-one
     }
 </style>
 
+<script>
+        function goBack() {
+          window.history.back();
+        }
+        </script>
+        
+        
 <div id="PanelSess">
     <div class="col-md-12" style="padding-top: 40px;">
         <b>

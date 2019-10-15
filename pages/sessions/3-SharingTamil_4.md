@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese
-permalink: /sharesessions/tamil/3-SharingTamil_1/
-breadcrumb: Tamil Sessions 1
+title: Making Bedtime Reading Fun for Children Aged 0-3 & 4-6
+permalink: /sharesessions/tamil/3-SharingTamil_4/
+breadcrumb: Tamil Sessions 4
 collection_name: left-nav-one
 ---
 
@@ -25,16 +25,21 @@ collection_name: left-nav-one
         padding-top: 1px;
     }
 </style>
-
+<script>
+        function goBack() {
+          window.history.back();
+        }
+        </script>
+        
 <div id="PanelSess">
     <div class="col-md-12" style="padding-top: 40px;">
         <b>
             <span id="lblTitle_EL" style="font-weight: bold; font-size: 23px; letter-spacing: 2px; color: #525252">
-                Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese</span></b>
+                Making Bedtime Reading Fun for Children Aged 0-3 & 4-6</span></b>
     </div>
     <div class="col-md-12" style="padding-top: 10px;">
         <span id="lblTitle_OL" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;">
-        2015年小学华文课程知多少</span>
+        0-3 & 4-6 வயதினருக்கு மகிழ்வூட்டும் வாசிப்பு</span>
     </div>
     <div class="col-md-12" style="padding-top: 10px;">
         <span id="tblFormat" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;"><b>Format:</b>
@@ -46,70 +51,28 @@ collection_name: left-nav-one
         <div class="col-md-2">
         </div>
     </div>
-<div class="row divSPMain">
+ <div class="row divSPMain">
                             <div class="col-md-2">
-                                <img id="RptSpeaker_Img_0" src="/images/sessions/C131.png" style="float: left; width: 150px;" />
+                                <img id="RptSpeaker_Img_0" src="https://event-reg.biz/DefaultBanner/images/MTLS2019/Speaker/T41.png" style="float: left; width: 150px;" />
                             </div>
+
                             <div class="divSPInfo col-md-10">
                                 <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblName_0">Mdm Xu Jinhong (徐金红)</span>
+                                    <span id="RptSpeaker_lblName_0">Ms Rani Kanna (ராணி கண்ணா)</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px; font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_EL_0">Mother Tongue Languages Branch, Curriculum Planning and Development Division, Ministry of Education  </span>
+                                    <span id="RptSpeaker_lblOrg_EL_0">AKT Creations</span>
                                 </div>
                                 <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_OL_0">新加坡教育部课程规划与发展司（第一司）母语处华文课程组</span>
+                                    <span id="RptSpeaker_lblOrg_OL_0">ஏ கே டி கிரியேஷன்ஸ்</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px;">
-                                    <span id="RptSpeaker_Label1_0">Mdm Xu Jinhong is a Senior Specialist at the Curriculum Planning and Development Division, Ministry of Education with 28 years of experience in the Education Service. She is involved in the planning and development of the 2015 Primary Chinese Language Curriculum, research for the Primary Chinese Language Curriculum and training of primary school teachers.</span>
+                                    <span id="RptSpeaker_Label1_0">Ms Rani Kanna is a professional storyteller, art educator and actor. Ms Rani was an ex-MOE teacher who completed her degree in Tamil Literature in India. She also has a master’s degree in applied linguistics and hands-on experience with traditional art forms in India. She has participated in many storytelling festivals in Singapore and overseas.  Her narrations, being detailed with actions and voices, are full of life. Ms Rani has been teaching students traditional arts, while infusing the learning of Tamil. Ms Rani has been directing and acting in pre-school musicals since 2014. She is passionate about making the learning of Tamil fun for young children.</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                                    <span id="RptSpeaker_Label2_0">徐金红老师是教育部课程规划与发展司的高级专科督导，从事教育工作已有二十八年。她目前负责“2015年小学华文课程”的规划与编写，也参与小学华文课程的咨询与研究工作，以及小学教师的专业培训。</span>
+                                    <span id="RptSpeaker_Label2_0">திருமதி ராணிகண்ணா முழு நேரமாக கலைக் கல்வித்துறையில் ஈடுபட்டு வருகிறார். இவர் ஒரு முன்னாள் தமிழாசிரியர்.  சிங்கையிலும் மற்ற நாடுகளில் நடக்கும் கதை சொல்லும் விழாக்களிலும் பங்கேற்று வருகிறார். இவரது கதை சொல்லும் பாணி மாணவர்களை எளிதில் ஈர்க்கக் கூடிய வகையில் அமைந்திருக்கும். சிங்கப்பூர்த் தேசிய கல்விக்கழகத்தில் ஆசிரியர் பயிற்சியையும் சென்னைப் பல்கலைக்கழகத்தில் இளங்கலையும் முதுகலையும் முடித்துள்ளார். மரபுக்கலைகளின்வழி எவ்வாறு தமிழ்மொழி  கற்றலை ஊக்குவிக்கலாம் என்பதையொட்டிய ஆய்வை மேற்கொண்டு வருகிறார்.  சிங்கையில் தமிழ் மாணவர்களுக்கு மரபுக்கலையையும் தமிழையும் ஒன்றிணைத்துக் கற்பித்து வருகிறார். 2014 ஆம் ஆண்டிலிருந்து பாலர்பள்ளி மாணவர்களுக்காக இசை நாடகத்தை வடிவமைத்து, இயக்கி, அதில் நடித்தும் வருகிறார். இந்நாடகங்கள் சிங்கையில் பல்வேறு பகுதிகளில் அரங்கேறியிருக்கின்றன. மாணவர்கள் மகிழ்வுறும் வகையில் தமிழ் மொழியைக் கற்க வேண்டும் என்பதே ராணியின் இலக்கு.</span>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="row divSPMain">
-                            <div class="col-md-2">
-                                <img id="RptSpeaker_Img_1" src="/images/sessions/C132.png" style="float: left; width: 150px;" />
-                            </div>
-                            <div class="divSPInfo col-md-10">
-                                <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblName_1">Ms Fang Fang (方芳)</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px; font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_EL_1">Punggol Green Primary School</span>
-                                </div>
-                                <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_OL_1">培林小学</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px;">
-                                    <span id="RptSpeaker_Label1_1">Ms Fang Fang graduated with a second-class honours (upper) degree and has 6 years of experience in the Education Service. She believes in the importance of being a role model for her students. In order to help her students learn better, she constantly seeks to enhance her professional knowledge. This includes taking part in action research projects on the effectiveness of flipped classrooms.</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                                    <span id="RptSpeaker_Label2_1">方芳老师是一名荣誉学士学位得主，从事教育工作已有六年。她坚信“言传身教”在教育中的力量。为了让学生受益更多，她也一直努力地提高自己的专业知识，如参加华文翻转课室的行动研究。</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row divSPMain">
-                            <div class="col-md-2">
-                                <img id="RptSpeaker_Img_2" src="/images/sessions/C133.png" style="float: left; width: 150px;" />
-                            </div>
-                            <div class="divSPInfo col-md-10">
-                                <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblName_2">Mdm Yang Wenxia (杨文侠)</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px; font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_EL_2">Punggol Green Primary School</span>
-                                </div>
-                                <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_OL_2">培林小学</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px;">
-                                    <span id="RptSpeaker_Label1_2">Mdm Yang Wenxia is Senior Teacher for Chinese Language and has 8 years of experience in the Education Service. She is experienced in effective class teaching as well as creating effective learning packages. She was involved in the pilot of the 2015 Primary Chinese Language Curriculum teaching materials for three years and has worked with different teams and shared effective strategies on the teaching and learning of Chinese in primary schools on a variety of platforms.</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                                    <span id="RptSpeaker_Label2_2">杨文侠老师是一名华文高级教师，从事教育工作已有八年。她在安排有效的课堂教学和设计辅助学习配套方面很有经验。她曾连续三年参加2015小学华文教材的试教，也参加过不同的教研团队，并在很多场合分享过小学华文的教学策略。</span>
-                                </div>
+
                             </div>
                         </div>
     <div class="row divSPMain">
@@ -120,12 +83,13 @@ collection_name: left-nav-one
     </div>
     <div class="col-md-2">
     </div>
-    <div class="divSPInfo col-md-10">
+     <div class="divSPInfo col-md-10">
+
                         <div class="col-md-12">
-                            <span id="lblSynosis_EL">The 2015 Primary Chinese Language Curriculum was implemented at Primary One in 2015 and rolled out to Primary Five this year.   The curriculum aims to enable students to communicate in Chinese, better appreciate Chinese culture and connect with Chinese communities in Asia and beyond.   Our curriculum planners will provide an insight into how the 2015 Curriculum enables young children to learn Chinese in class and how schools support their students in the transition from pre-school to primary school.   Hands-on activities will be conducted for parents and their children to provide ideas on how parents can better support their children in learning Chinese in fun and engaging ways. </span>
+                            <span id="lblSynosis_EL">Ms Rani will be sharing many interesting ways for young children to develop the habit of reading.  Her sharing will cover the benefits of learning to read early, pre-reading skills to help kids develop an interest in reading, repetition of words through songs and stories, and strategies such as intonation, voice modulation and pauses.  Moreover, she will be sharing storytelling techniques for parents to keep their child's attention, improve word recognition, enhance vocabulary, develop fluency and choose suitable books and engaging stories.   . </span>
                         </div>
                         <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                            <span id="lblSynosis_OL">2015年，《欢乐伙伴》小学华文课程开始在一年级使用，至今已经推展到五年级。课程旨在培养学生有效使用华语与人沟通、认识自己的华族文化，并与世界各地的华族社群接轨的能力。教育部课程规划员将分享孩子们在课堂上如何利用这套教材学习华文以及学校如何协助孩子从学前过渡到小学。家长可以与孩子一起参与活动，学习帮助孩子学好华文的有趣点子。</span>
+                            <span id="lblSynosis_OL">1-3 வயதுடைய பிள்ளைகளை இளவயது முதலே வாசித்தலில் ஈடுபடுத்துவது பல்வேறு பயன்களை அவர்களுக்குக் கொண்டு சேர்க்கும்.   பிள்ளைகளுக்கு வாசிப்பில் ஆர்வத்தை அதிகரிக்கவும் அவர்களைத் தொடர்ந்து வாசிக்க ஊக்குவிக்கவும் தேவையான உத்திகளை இப்பகிர்வங்கத்தின் வாயிலாகப் பெற்றோர்கள் அறிந்துகொள்ளலாம். 4-6 வயதுடைய பிள்ளைகளுக்கு வாசிப்பின் வழியே சொல்வளத்தைப் பெருக்கவும் அவர்களது மொழியாற்றலை வளர்க்கவும் தேவையான வழிவகைகளைப் பெற்றோர்கள் தெரிந்துகொள்வர். மேலும், வாசிப்பின் போது கவனத்தில்கொள்ளவேண்டிய கூறுகள், பொருத்தமான புத்தகங்களைத் தேர்ந்தெடுத்தல் போன்ற நுணுக்கங்களையும் இப்பகிர்வரங்கின் வாயிலாக அறிந்துகொள்ளலாம். </span>
                         </div>
                     </div>
 

@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese
-permalink: /sharesessions/tamil/3-SharingTamil_1/
-breadcrumb: Tamil Sessions 1
+title: Joyful Learning of Tamil Through Stories
+permalink: /sharesessions/tamil/3-SharingTamil_6/
+breadcrumb: Tamil Sessions 6
 collection_name: left-nav-one
 ---
 
@@ -25,20 +25,25 @@ collection_name: left-nav-one
         padding-top: 1px;
     }
 </style>
-
+<script>
+        function goBack() {
+          window.history.back();
+        }
+        </script>
+        
 <div id="PanelSess">
     <div class="col-md-12" style="padding-top: 40px;">
         <b>
             <span id="lblTitle_EL" style="font-weight: bold; font-size: 23px; letter-spacing: 2px; color: #525252">
-                Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese</span></b>
+                Joyful Learning of Tamil Through Stories</span></b>
     </div>
     <div class="col-md-12" style="padding-top: 10px;">
         <span id="lblTitle_OL" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;">
-        2015年小学华文课程知多少</span>
+        கதைகள்வழி இன்பமான கற்றல்</span>
     </div>
     <div class="col-md-12" style="padding-top: 10px;">
         <span id="tblFormat" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;"><b>Format:</b>
-            Sharing</span>
+            Workshop</span>
     </div>
     <div class="row divSPMain">
         <h2 style="text-decoration: underline; padding-left: 20px;">
@@ -46,70 +51,28 @@ collection_name: left-nav-one
         <div class="col-md-2">
         </div>
     </div>
-<div class="row divSPMain">
+  <div class="row divSPMain">
                             <div class="col-md-2">
-                                <img id="RptSpeaker_Img_0" src="/images/sessions/C131.png" style="float: left; width: 150px;" />
+                                <img id="RptSpeaker_Img_0" src="https://event-reg.biz/DefaultBanner/images/MTLS2019/Speaker/T51.png" style="float: left; width: 150px;" />
                             </div>
+
                             <div class="divSPInfo col-md-10">
                                 <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblName_0">Mdm Xu Jinhong (徐金红)</span>
+                                    <span id="RptSpeaker_lblName_0">Mr Anandha Kannan (திரு ஆனந்த கண்ணன்)</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px; font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_EL_0">Mother Tongue Languages Branch, Curriculum Planning and Development Division, Ministry of Education  </span>
+                                    <span id="RptSpeaker_lblOrg_EL_0">AKT Creations</span>
                                 </div>
                                 <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_OL_0">新加坡教育部课程规划与发展司（第一司）母语处华文课程组</span>
+                                    <span id="RptSpeaker_lblOrg_OL_0">ஏ கே டி கிரியேஷன்ஸ்</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px;">
-                                    <span id="RptSpeaker_Label1_0">Mdm Xu Jinhong is a Senior Specialist at the Curriculum Planning and Development Division, Ministry of Education with 28 years of experience in the Education Service. She is involved in the planning and development of the 2015 Primary Chinese Language Curriculum, research for the Primary Chinese Language Curriculum and training of primary school teachers.</span>
+                                    <span id="RptSpeaker_Label1_0">An avid explorer of the theatre and fine arts since childhood, Mr Anandha Kannan is a gregarious, animated and engaging artist. He is the Founder Director of AK Theatre Limited (Singapore), a theatre which stages plays for children; Creative Director of Anandha Koothu Trust and Artistic Director of AKT Creations. A Singapore Film Commission scholar, he is a passionate performer keen to share his vast knowledge, insights and love for the theatre with students from all walks of life. He has been awarded the International Youth Icon at the World Universities Youth Conference (2008), Best Actor in Television Actors Guild Awards (South India, 2008) and Best Anchor Pradhana Vizha 2012 (Singapore TV Awards).</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                                    <span id="RptSpeaker_Label2_0">徐金红老师是教育部课程规划与发展司的高级专科督导，从事教育工作已有二十八年。她目前负责“2015年小学华文课程”的规划与编写，也参与小学华文课程的咨询与研究工作，以及小学教师的专业培训。</span>
+                                    <span id="RptSpeaker_Label2_0">நாடகக் கலைஞர் ஆனந்த கண்ணன் அவர்கள் தமிழ் மரபு நிகழ்கலை, நாடகம், கூத்துப் போன்ற கலைகளின் மீது அதீத ஆர்வம் கொண்டவர். அவற்றைக் கற்கவும், கற்பித்ததைப் பகிர்ந்துகொள்ளவும் மிகுந்த ஆவலுடன் செயற்பட்டு வருகிறார். இவர் AK தியேட்டர் லிமிடெட் (சிங்கப்பூர்) ,ஆனந்தக் கூத்து டிரஸ்ட்(இந்தியா) ஆகிய நிறுவனங்களின் இயக்குநராகப் பொறுப்பேற்றுள்ளார். நாடகங்களை இயக்குவது, பயிலரங்குகளை   வடிவமைப்பது போன்றவற்றில் இவர் ஈடுபட்டு வருகிறார். மகிழ்வூட்டும் வகையில் கல்வி கற்கப் பல வழிகளுண்டு என்பதை நிகழ்கலைகளைக் கொண்டு உணர்த்த முடியும் என்பது இவர் கொண்டுள்ள சித்தாந்தமாகும். இவர் சிங்கப்பூர் "ஃபிலிம் கமிஷன்" ஆதரவில் பட்டப்படிப்பை முடித்தவர். தென்னிந்திய தொலைக்காட்சி நடிகர்கள் சங்கம் நடத்திய போட்டியில் விருது பெற்ற பெருமையும் இவருக்கு உண்டு. 2008-ஆம் ஆண்டில் இண்டர்நேஷனல் "யூத் ஐகான்" என்ற அங்கீகாரம் இவருக்குக் கிடைத்தது. மேலும் 2012-ஆம் ஆண்டு பிரதான விழாவில் சிறந்த நிகழ்ச்சிப் படைப்பாளர் என்னும் விருதையும் இவர் பெற்றிருப்பது குறிப்பிடத்தக்கது.</span>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="row divSPMain">
-                            <div class="col-md-2">
-                                <img id="RptSpeaker_Img_1" src="/images/sessions/C132.png" style="float: left; width: 150px;" />
-                            </div>
-                            <div class="divSPInfo col-md-10">
-                                <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblName_1">Ms Fang Fang (方芳)</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px; font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_EL_1">Punggol Green Primary School</span>
-                                </div>
-                                <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_OL_1">培林小学</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px;">
-                                    <span id="RptSpeaker_Label1_1">Ms Fang Fang graduated with a second-class honours (upper) degree and has 6 years of experience in the Education Service. She believes in the importance of being a role model for her students. In order to help her students learn better, she constantly seeks to enhance her professional knowledge. This includes taking part in action research projects on the effectiveness of flipped classrooms.</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                                    <span id="RptSpeaker_Label2_1">方芳老师是一名荣誉学士学位得主，从事教育工作已有六年。她坚信“言传身教”在教育中的力量。为了让学生受益更多，她也一直努力地提高自己的专业知识，如参加华文翻转课室的行动研究。</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row divSPMain">
-                            <div class="col-md-2">
-                                <img id="RptSpeaker_Img_2" src="/images/sessions/C133.png" style="float: left; width: 150px;" />
-                            </div>
-                            <div class="divSPInfo col-md-10">
-                                <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblName_2">Mdm Yang Wenxia (杨文侠)</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px; font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_EL_2">Punggol Green Primary School</span>
-                                </div>
-                                <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_OL_2">培林小学</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px;">
-                                    <span id="RptSpeaker_Label1_2">Mdm Yang Wenxia is Senior Teacher for Chinese Language and has 8 years of experience in the Education Service. She is experienced in effective class teaching as well as creating effective learning packages. She was involved in the pilot of the 2015 Primary Chinese Language Curriculum teaching materials for three years and has worked with different teams and shared effective strategies on the teaching and learning of Chinese in primary schools on a variety of platforms.</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                                    <span id="RptSpeaker_Label2_2">杨文侠老师是一名华文高级教师，从事教育工作已有八年。她在安排有效的课堂教学和设计辅助学习配套方面很有经验。她曾连续三年参加2015小学华文教材的试教，也参加过不同的教研团队，并在很多场合分享过小学华文的教学策略。</span>
-                                </div>
+
                             </div>
                         </div>
     <div class="row divSPMain">
@@ -121,11 +84,12 @@ collection_name: left-nav-one
     <div class="col-md-2">
     </div>
     <div class="divSPInfo col-md-10">
+
                         <div class="col-md-12">
-                            <span id="lblSynosis_EL">The 2015 Primary Chinese Language Curriculum was implemented at Primary One in 2015 and rolled out to Primary Five this year.   The curriculum aims to enable students to communicate in Chinese, better appreciate Chinese culture and connect with Chinese communities in Asia and beyond.   Our curriculum planners will provide an insight into how the 2015 Curriculum enables young children to learn Chinese in class and how schools support their students in the transition from pre-school to primary school.   Hands-on activities will be conducted for parents and their children to provide ideas on how parents can better support their children in learning Chinese in fun and engaging ways. </span>
+                            <span id="lblSynosis_EL">Mr Anandha Kannan believes that language can be taught in many creative ways.  He believes that the more we integrate arts into learning, the easier it will be for the child to understand the language.  His sharing will focus on the teaching of and spreading of joy for Tamil through the performing arts.  He will be using drama to inspire children to speak in Tamil.  This student-centric approach is not only practical; it has been proven to engage more students.  When students learn through a creative process, they will come up with original ideas and insights, which leads to improved conversational skills.  Infusing drama into lessons provides experiences, which enhances the four essential skills of reading, speaking, writing and listening.  Such sessions broaden communication channels so that language acquisition becomes easier. </span>
                         </div>
                         <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                            <span id="lblSynosis_OL">2015年，《欢乐伙伴》小学华文课程开始在一年级使用，至今已经推展到五年级。课程旨在培养学生有效使用华语与人沟通、认识自己的华族文化，并与世界各地的华族社群接轨的能力。教育部课程规划员将分享孩子们在课堂上如何利用这套教材学习华文以及学校如何协助孩子从学前过渡到小学。家长可以与孩子一起参与活动，学习帮助孩子学好华文的有趣点子。</span>
+                            <span id="lblSynosis_OL">மொழியைப் பல புத்தாக்க வழிகளில் கற்பிக்கலாம். அவ்வகையில் நிகழ்கலையைப் பயன்படுத்தி மொழியைக் கற்பித்தல் மாணவர்களுக்குச் சுலபமாக இருக்கும் என்பது இவரது நம்பிக்கையாகும். எனவே, நிகழ்கலையைப் பயன்படுத்தித் தமிழை மகிழ்வூட்டும் வகையில் கற்பிக்கலாம் என்பதைப்பற்றியே இவரது பகிர்வும் அமையும். இவர் நாடக உத்தியைப் பயன்படுத்தி மாணவர்களைத் தமிழில் பேச ஊக்குவித்து வருகிறார்.  இந்த உத்தி மாணவர்களை மையப்படுத்தி அமையப்பெற்றிருப்பதால், அவர்களிடையே மொழி ஈடுபாட்டை எளிதில் வளர்க்க உதவுகிறது. இதன்மூலம் மாணவர்களின் சுய சிந்தனையும் கற்பனை ஆற்றலும் வளர்க்கப்படுகின்றன. மேலும், புத்தாக்க முறையில் கருத்துப்பரிமாற்றத் திறனை வளர்க்கவும் இந்த உத்தி உறுதுணையாக அமைகிறது. படித்தல், பேசுதல், எழுதுதல், கேட்டல்  ஆகிய திறன்கள் அனைத்தையும் நாடகத்தின் வழியே படிப்படியாகக் கற்பிக்க முடியும் என்பது இவரது திண்ணமான நம்பிக்கையாகும்.</span>
                         </div>
                     </div>
 

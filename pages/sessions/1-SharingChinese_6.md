@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese
-permalink: /sharesessions/chinese/1-SharingChinese_1/
-breadcrumb: Chinese Sessions 1
+title: Learning MTL Through Purposeful Play
+permalink: /sharesessions/chinese/1-SharingChinese_6/
+breadcrumb: Chinese Sessions 6
 collection_name: left-nav-one
 ---
 
@@ -25,20 +25,25 @@ collection_name: left-nav-one
         padding-top: 1px;
     }
 </style>
-
+<script>
+        function goBack() {
+          window.history.back();
+        }
+        </script>
+        
 <div id="PanelSess">
     <div class="col-md-12" style="padding-top: 40px;">
         <b>
             <span id="lblTitle_EL" style="font-weight: bold; font-size: 23px; letter-spacing: 2px; color: #525252">
-                Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese</span></b>
+                Learning MTL Through Purposeful Play</span></b>
     </div>
     <div class="col-md-12" style="padding-top: 10px;">
         <span id="lblTitle_OL" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;">
-        2015年小学华文课程知多少</span>
+        通过有意义的游戏学习母语</span>
     </div>
     <div class="col-md-12" style="padding-top: 10px;">
         <span id="tblFormat" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;"><b>Format:</b>
-            Sharing</span>
+            Panel Discussion</span>
     </div>
     <div class="row divSPMain">
         <h2 style="text-decoration: underline; padding-left: 20px;">
@@ -48,68 +53,104 @@ collection_name: left-nav-one
     </div>
 <div class="row divSPMain">
                             <div class="col-md-2">
-                                <img id="RptSpeaker_Img_0" src="/images/sessions/C131.png" style="float: left; width: 150px;" />
+                                <img id="RptSpeaker_Img_0" src="/images/sessions/HDerSpeakers.png" style="float: left; width: 150px;" />
                             </div>
+
                             <div class="divSPInfo col-md-10">
                                 <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblName_0">Mdm Xu Jinhong (徐金红)</span>
+                                    <span id="RptSpeaker_lblName_0">Ms Liu Ying  (刘瑛)</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px; font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_EL_0">Mother Tongue Languages Branch, Curriculum Planning and Development Division, Ministry of Education  </span>
+                                    <span id="RptSpeaker_lblOrg_EL_0">MyFirstSkool McNair / NTUC First Campus </span>
                                 </div>
                                 <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_OL_0">新加坡教育部课程规划与发展司（第一司）母语处华文课程组</span>
+                                    <span id="RptSpeaker_lblOrg_OL_0">优乐园麦奈雅中心</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px;">
-                                    <span id="RptSpeaker_Label1_0">Mdm Xu Jinhong is a Senior Specialist at the Curriculum Planning and Development Division, Ministry of Education with 28 years of experience in the Education Service. She is involved in the planning and development of the 2015 Primary Chinese Language Curriculum, research for the Primary Chinese Language Curriculum and training of primary school teachers.</span>
+                                    <span id="RptSpeaker_Label1_0">Ms Liu Ying is currently the Lead Chinese Teacher at My First Skool McNair Centre.  She was the recipient of the Outstanding Pre-school Mother Tongue Language Teacher Award for Chinese in 2018. She received her bachelor’s degree in pre-school Chinese education from the Singapore University of Social Sciences (SUSS) and was awarded the SUSS MY World Preschool Gold Award in 2016. With 12 years of teaching experience, Liu Ying believes that by creating a relaxed and lively learning environment she will help children learn Chinese. She has also provided children with opportunities to learn through play by creating a variety of fun games and hands-on activities. She is a strong believer of life-long learning and recently graduated with a second bachelor’s degree in Chinese Language and Literature from SUSS in 2018.</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                                    <span id="RptSpeaker_Label2_0">徐金红老师是教育部课程规划与发展司的高级专科督导，从事教育工作已有二十八年。她目前负责“2015年小学华文课程”的规划与编写，也参与小学华文课程的咨询与研究工作，以及小学教师的专业培训。</span>
+                                    <span id="RptSpeaker_Label2_0">刘瑛老师现任职于总优儿学府麦奈雅中心，是该中心的主导华文教师。她拥有新跃社科大学学前华文教育及汉语言双学士学位。刘瑛老师从事幼教工作十二年，她认为营造一个宽松活泼的学习环境能够帮助幼儿学习华语。在教学活动中，她为幼儿提供在实践中学习的机会，创设各种有趣的游戏活动，让幼儿在玩中学。同时，她也积极创设各种不同的情境活动，让幼儿活用华语，乐用华语，努力培养幼儿终身学习华语的兴趣。刘瑛老师曾获得2016年新跃社科大学 MY World Preschool Gold Award， 也是2018年杰出学前母语教师奖得主。</span>
                                 </div>
+
                             </div>
                         </div>
+
+                    
                         <div class="row divSPMain">
                             <div class="col-md-2">
-                                <img id="RptSpeaker_Img_1" src="/images/sessions/C132.png" style="float: left; width: 150px;" />
+                                <img id="RptSpeaker_Img_1" src="/images/sessions/HDerSpeakers.png" style="float: left; width: 150px;" />
                             </div>
+
                             <div class="divSPInfo col-md-10">
                                 <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblName_1">Ms Fang Fang (方芳)</span>
+                                    <span id="RptSpeaker_lblName_1">Mdm Zhang Shan (张珊)</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px; font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_EL_1">Punggol Green Primary School</span>
+                                    <span id="RptSpeaker_lblOrg_EL_1">MOE Kindergarten @ Punggol View</span>
                                 </div>
                                 <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_OL_1">培林小学</span>
+                                    <span id="RptSpeaker_lblOrg_OL_1">教育部幼儿园（培景）</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px;">
-                                    <span id="RptSpeaker_Label1_1">Ms Fang Fang graduated with a second-class honours (upper) degree and has 6 years of experience in the Education Service. She believes in the importance of being a role model for her students. In order to help her students learn better, she constantly seeks to enhance her professional knowledge. This includes taking part in action research projects on the effectiveness of flipped classrooms.</span>
+                                    <span id="RptSpeaker_Label1_1">Mdm Zhang Shan is a Senior Teacher at MOE Kindergarten @ Punggol View. She has 10 years of experience in pre-school education. During this time, she has noticed a rise in the standard of pre-school education in Singapore, as more stakeholders see the value of quality pre-school education. She believes that pre-school children learn best from experiencing nature and through social interaction and games. In her teaching, she places great emphasis on children’s participation and experience. She is a firm believer that learning through purposeful play is the most effective way to learn</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                                    <span id="RptSpeaker_Label2_1">方芳老师是一名荣誉学士学位得主，从事教育工作已有六年。她坚信“言传身教”在教育中的力量。为了让学生受益更多，她也一直努力地提高自己的专业知识，如参加华文翻转课室的行动研究。</span>
+                                    <span id="RptSpeaker_Label2_1">张珊老师是教育部幼儿园（培景）的一名资深华文老师。张老师献身于学前教育行业十年，深知学前的幼儿往往是在经验、社会交往和游戏中学习。在教学中，她重视幼儿的参与和体验，坚信有意义的游戏活动是最直接有效的学习途径。</span>
                                 </div>
+
                             </div>
                         </div>
+
+                    
                         <div class="row divSPMain">
                             <div class="col-md-2">
-                                <img id="RptSpeaker_Img_2" src="/images/sessions/C133.png" style="float: left; width: 150px;" />
+                                <img id="RptSpeaker_Img_2" src="/images/sessions/HDerSpeakers.png" style="float: left; width: 150px;" />
                             </div>
+
                             <div class="divSPInfo col-md-10">
                                 <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblName_2">Mdm Yang Wenxia (杨文侠)</span>
+                                    <span id="RptSpeaker_lblName_2">Mdm Lee Keng Chin (李琼君)</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px; font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_EL_2">Punggol Green Primary School</span>
+                                    <span id="RptSpeaker_lblOrg_EL_2">Mother Tongue Languages Branch, Curriculum Planning and Development Division, Ministry of Education  </span>
                                 </div>
                                 <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_OL_2">培林小学</span>
+                                    <span id="RptSpeaker_lblOrg_OL_2">新加坡教育部课程规划与发展司（第一司）母语处华文课程组</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px;">
-                                    <span id="RptSpeaker_Label1_2">Mdm Yang Wenxia is Senior Teacher for Chinese Language and has 8 years of experience in the Education Service. She is experienced in effective class teaching as well as creating effective learning packages. She was involved in the pilot of the 2015 Primary Chinese Language Curriculum teaching materials for three years and has worked with different teams and shared effective strategies on the teaching and learning of Chinese in primary schools on a variety of platforms.</span>
+                                    <span id="RptSpeaker_Label1_2">Mdm Lee Keng Chin is a Senior Curriculum Planning Officer at the Mother Tongue Languages Branch, Curriculum Planning and Development Division, Ministry of Education. Her work focuses on the planning and development of teaching resources for the pre-school and pre-university Chinese Language (CL) curriculum. She has 20 years of experience in the Education Service and was awarded the Inspiring Chinese Language Teacher Award in 2017. </span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                                    <span id="RptSpeaker_Label2_2">杨文侠老师是一名华文高级教师，从事教育工作已有八年。她在安排有效的课堂教学和设计辅助学习配套方面很有经验。她曾连续三年参加2015小学华文教材的试教，也参加过不同的教研团队，并在很多场合分享过小学华文的教学策略。</span>
+                                    <span id="RptSpeaker_Label2_2">李琼君老师是教育部课程规划与发展司母语处的高级课程规划员，从事教育工作已有二十年，目前参与规划与编写学前和高中华文课程的工作。她曾荣获2017年的全国模范华文教师奖。</span>
                                 </div>
+
+                            </div>
+                        </div>
+
+                    
+                        <div class="row divSPMain">
+                            <div class="col-md-2">
+                                <img id="RptSpeaker_Img_3" src="/images/sessions/HDerSpeakers.png" style="float: left; width: 150px;" />
+                            </div>
+
+                            <div class="divSPInfo col-md-10">
+                                <div class="col-md-12" style="font-weight: bold;">
+                                    <span id="RptSpeaker_lblName_3">Dr Lin An-Chi (林安琪博士)</span>
+                                </div>
+                                <div class="col-md-12" style="padding-top: 20px; font-weight: bold;">
+                                    <span id="RptSpeaker_lblOrg_EL_3">NIEC (SEED)</span>
+                                </div>
+                                <div class="col-md-12" style="font-weight: bold;">
+                                    <span id="RptSpeaker_lblOrg_OL_3">国立幼儿培育教育学院</span>
+                                </div>
+                                <div class="col-md-12" style="padding-top: 20px;">
+                                    <span id="RptSpeaker_Label1_3">Dr Lin An-Chi is a full-time lecturer at the National Institute of Early Childhood Development and holds a PhD in curriculum and instruction, specialising in early childhood education from Arizona State University, USA. She has held professional portfolios as a teacher, academic director and faculty member in Taiwan, the United States and Singapore. Her research interests include young children’s development and learning, language development, social and emotional development, play education and parenting education. An-Chi is passionate about working for young children; she hopes to empower pre-service and in-service teachers to become proactive early childhood educators.</span>
+                                </div>
+                                <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
+                                    <span id="RptSpeaker_Label2_3">林安琪博士是国立幼儿培育教育学院的全职讲师。林博士在美国亚利桑那州立大学主修学前教育，之后在幼教领域深耕二十年。她曾在台湾及美国担任幼儿园主任及第一线幼教老师，在美国、台湾、新加坡等地教授幼教课程，并多次在国际研讨会上发表幼教学术报告。林博士的研究兴趣包括儿童发展与学习、学前儿童语文发展、社会情绪发展、游戏教育、亲职教育等。她关注、热爱幼儿，鼓励家长及幼教老师为幼儿营造愉快的学习氛围。</span>
+                                </div>
+
                             </div>
                         </div>
     <div class="row divSPMain">
@@ -121,11 +162,12 @@ collection_name: left-nav-one
     <div class="col-md-2">
     </div>
     <div class="divSPInfo col-md-10">
+
                         <div class="col-md-12">
-                            <span id="lblSynosis_EL">The 2015 Primary Chinese Language Curriculum was implemented at Primary One in 2015 and rolled out to Primary Five this year.   The curriculum aims to enable students to communicate in Chinese, better appreciate Chinese culture and connect with Chinese communities in Asia and beyond.   Our curriculum planners will provide an insight into how the 2015 Curriculum enables young children to learn Chinese in class and how schools support their students in the transition from pre-school to primary school.   Hands-on activities will be conducted for parents and their children to provide ideas on how parents can better support their children in learning Chinese in fun and engaging ways. </span>
+                            <span id="lblSynosis_EL">Purposeful play is an integral part of children’s learning.  Children learn when they are engaged in play that is enjoyable and thoughtfully planned.  In this session, early childhood experts and practitioners will share the different aspects and benefits of purposeful play, including how purposeful play can stimulate children’s thinking and creativity, so that they enjoy using their MTL. </span>
                         </div>
                         <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                            <span id="lblSynosis_OL">2015年，《欢乐伙伴》小学华文课程开始在一年级使用，至今已经推展到五年级。课程旨在培养学生有效使用华语与人沟通、认识自己的华族文化，并与世界各地的华族社群接轨的能力。教育部课程规划员将分享孩子们在课堂上如何利用这套教材学习华文以及学校如何协助孩子从学前过渡到小学。家长可以与孩子一起参与活动，学习帮助孩子学好华文的有趣点子。</span>
+                            <span id="lblSynosis_OL">有意义的游戏是幼儿学习的重要组成部分。这些游戏能赋予幼儿愉快的学习体验，让他们在玩中学习。我们欢迎家长参与本次的对话会，从不同的层面了解有意义的游戏，并学习如何通过有意义的游戏培养幼儿的想象力和创造力，同时也在游戏中享受说华语、用华文的乐趣。</span>
                         </div>
                     </div>
 

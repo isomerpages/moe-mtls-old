@@ -83,7 +83,7 @@ breadcrumb: Madam Chong Pou Khwai
         }
         </script>
 
-<input type="image" name="btnBack" id="btnBack" onclick="goBack()" src="https://event-reg.biz/DefaultBanner/images/MTLS2019/btnBack.png" style="height:70px;">
+<input type="image" name="btnBack" id="btnBack" onclick="goBack()" src="/images/btnBack.png" style="height:70px;">
 
 
 <div class="wrapper">

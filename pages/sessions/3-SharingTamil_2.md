@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese
-permalink: /sharesessions/tamil/3-SharingTamil_1/
-breadcrumb: Tamil Sessions 1
+title: Effective Use of Tamil Language- Activity Based Communication (ABC) for Spoken Tamil
+permalink: /sharesessions/tamil/3-SharingTamil_2/
+breadcrumb: Tamil Sessions 2
 collection_name: left-nav-one
 ---
 
@@ -25,16 +25,21 @@ collection_name: left-nav-one
         padding-top: 1px;
     }
 </style>
-
+<script>
+        function goBack() {
+          window.history.back();
+        }
+        </script>
+        
 <div id="PanelSess">
     <div class="col-md-12" style="padding-top: 40px;">
         <b>
             <span id="lblTitle_EL" style="font-weight: bold; font-size: 23px; letter-spacing: 2px; color: #525252">
-                Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese</span></b>
+                Effective Use of Tamil Language- Activity Based Communication (ABC) for Spoken Tamil</span></b>
     </div>
     <div class="col-md-12" style="padding-top: 10px;">
         <span id="lblTitle_OL" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;">
-        2015年小学华文课程知多少</span>
+        ஆக்ககரமான வழியில் தமிழ்மொழியின் பயன்பாடு -நடவடிக்கைகளின்வழியே பேச்சுத்தமிழின் புழக்கத்தை வளர்த்தல்</span>
     </div>
     <div class="col-md-12" style="padding-top: 10px;">
         <span id="tblFormat" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;"><b>Format:</b>
@@ -48,68 +53,26 @@ collection_name: left-nav-one
     </div>
 <div class="row divSPMain">
                             <div class="col-md-2">
-                                <img id="RptSpeaker_Img_0" src="/images/sessions/C131.png" style="float: left; width: 150px;" />
+                                <img id="RptSpeaker_Img_0" src="/images/sessions/T21.png" style="float: left; width: 150px;" />
                             </div>
+
                             <div class="divSPInfo col-md-10">
                                 <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblName_0">Mdm Xu Jinhong (徐金红)</span>
+                                    <span id="RptSpeaker_lblName_0">Mrs Sarojini Padmanathan</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px; font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_EL_0">Mother Tongue Languages Branch, Curriculum Planning and Development Division, Ministry of Education  </span>
+                                    <span id="RptSpeaker_lblOrg_EL_0">Health Science Authority </span>
                                 </div>
                                 <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_OL_0">新加坡教育部课程规划与发展司（第一司）母语处华文课程组</span>
+                                    <span id="RptSpeaker_lblOrg_OL_0">திருமதி சரோஜினி பத்மநாதன்</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px;">
-                                    <span id="RptSpeaker_Label1_0">Mdm Xu Jinhong is a Senior Specialist at the Curriculum Planning and Development Division, Ministry of Education with 28 years of experience in the Education Service. She is involved in the planning and development of the 2015 Primary Chinese Language Curriculum, research for the Primary Chinese Language Curriculum and training of primary school teachers.</span>
+                                    <span id="RptSpeaker_Label1_0">Mrs Sarojini is passionate about public speaking and firmly believes in sharing with fellow parents on the topic of educating children and maintaining a happy marriage. She has conducted hundreds of talks and workshops at schools, community clubs and Voluntary Welfare Organisations in Singapore over the last 25 years, sat on several panel discussions, and spoken at national conferences and congresses. Mrs Sarojini is a public sector employee and specialises in Human Resources. She has an MBA in training and development and a diploma in family life education.</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                                    <span id="RptSpeaker_Label2_0">徐金红老师是教育部课程规划与发展司的高级专科督导，从事教育工作已有二十八年。她目前负责“2015年小学华文课程”的规划与编写，也参与小学华文课程的咨询与研究工作，以及小学教师的专业培训。</span>
+                                    <span id="RptSpeaker_Label2_0">திருமதி சரோஜினி பத்மநாதன் அவர்கள் ஒரு  தன்முனைப்புப் பேச்சாளர். இவர்  பிள்ளை வளர்ப்புப் பற்றியும்  திருமண வாழ்வு  பற்றியும் மக்களிடையே எடுத்துரைப்பதில் நாட்டம் கொண்டவர்.  மனிதவளத் துறையில் நிபுணத்துவம் பெற்றவராகத் திகழும் திருமதி சரோஜினி அரசாங்கப் பொதுச் சேவையில் உள்ளார். திருமதி சரோஜனி அவர்கள் பயிற்சி மற்றும் மேம்பாட்டுத் துறையில் முதுகலைப்பட்டம் பெற்றவர்.  இவர் குடும்ப வாழ்வுத்துறை சார்ந்த பட்டயக்கல்விச் சான்றிதழையும் பெற்றுள்ளார். இவர்  கடந்த இருபத்தைந்து ஆண்டுகளாக, பள்ளி, சமூக மன்றங்கள், தன்னார்வப் பொதுநல அமைப்புகள் ஆகியவற்றில்  நூற்றுக்கணக்கான பகிர்வுகளையும் பயிலரங்குகளையையும் நிகழ்த்தியிருக்கிறார். மேலும், தேசிய அளவிலான கருத்தாடல் அங்கங்களிலும் பொதுக்கூடங்களிலும் கலந்துகொண்ட அனுபவம் கொண்டவர்.</span>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="row divSPMain">
-                            <div class="col-md-2">
-                                <img id="RptSpeaker_Img_1" src="/images/sessions/C132.png" style="float: left; width: 150px;" />
-                            </div>
-                            <div class="divSPInfo col-md-10">
-                                <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblName_1">Ms Fang Fang (方芳)</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px; font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_EL_1">Punggol Green Primary School</span>
-                                </div>
-                                <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_OL_1">培林小学</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px;">
-                                    <span id="RptSpeaker_Label1_1">Ms Fang Fang graduated with a second-class honours (upper) degree and has 6 years of experience in the Education Service. She believes in the importance of being a role model for her students. In order to help her students learn better, she constantly seeks to enhance her professional knowledge. This includes taking part in action research projects on the effectiveness of flipped classrooms.</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                                    <span id="RptSpeaker_Label2_1">方芳老师是一名荣誉学士学位得主，从事教育工作已有六年。她坚信“言传身教”在教育中的力量。为了让学生受益更多，她也一直努力地提高自己的专业知识，如参加华文翻转课室的行动研究。</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row divSPMain">
-                            <div class="col-md-2">
-                                <img id="RptSpeaker_Img_2" src="/images/sessions/C133.png" style="float: left; width: 150px;" />
-                            </div>
-                            <div class="divSPInfo col-md-10">
-                                <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblName_2">Mdm Yang Wenxia (杨文侠)</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px; font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_EL_2">Punggol Green Primary School</span>
-                                </div>
-                                <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_OL_2">培林小学</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px;">
-                                    <span id="RptSpeaker_Label1_2">Mdm Yang Wenxia is Senior Teacher for Chinese Language and has 8 years of experience in the Education Service. She is experienced in effective class teaching as well as creating effective learning packages. She was involved in the pilot of the 2015 Primary Chinese Language Curriculum teaching materials for three years and has worked with different teams and shared effective strategies on the teaching and learning of Chinese in primary schools on a variety of platforms.</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                                    <span id="RptSpeaker_Label2_2">杨文侠老师是一名华文高级教师，从事教育工作已有八年。她在安排有效的课堂教学和设计辅助学习配套方面很有经验。她曾连续三年参加2015小学华文教材的试教，也参加过不同的教研团队，并在很多场合分享过小学华文的教学策略。</span>
-                                </div>
+
                             </div>
                         </div>
     <div class="row divSPMain">
@@ -120,12 +83,13 @@ collection_name: left-nav-one
     </div>
     <div class="col-md-2">
     </div>
-    <div class="divSPInfo col-md-10">
+   <div class="divSPInfo col-md-10">
+
                         <div class="col-md-12">
-                            <span id="lblSynosis_EL">The 2015 Primary Chinese Language Curriculum was implemented at Primary One in 2015 and rolled out to Primary Five this year.   The curriculum aims to enable students to communicate in Chinese, better appreciate Chinese culture and connect with Chinese communities in Asia and beyond.   Our curriculum planners will provide an insight into how the 2015 Curriculum enables young children to learn Chinese in class and how schools support their students in the transition from pre-school to primary school.   Hands-on activities will be conducted for parents and their children to provide ideas on how parents can better support their children in learning Chinese in fun and engaging ways. </span>
+                            <span id="lblSynosis_EL">This talk is aimed at equipping parents of very young children with simple and effective ways to use spoken Tamil in their daily lives.  The speaker will be focusing on the need for parents to use spoken Tamil at home.   She will also demonstrate how to effectively and proactively useTamil with the help of materials that can be found within the home.   Parents will be given practical tips.  These include activity-based learning which is essential for motivating early learners to take the initiative in using the language as they gain confidence and mastery over time.   The session will enable parents to apply the tips shared and create their own resources aimed at increasing opportunities for interaction in spoken Tamil. </span>
                         </div>
                         <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                            <span id="lblSynosis_OL">2015年，《欢乐伙伴》小学华文课程开始在一年级使用，至今已经推展到五年级。课程旨在培养学生有效使用华语与人沟通、认识自己的华族文化，并与世界各地的华族社群接轨的能力。教育部课程规划员将分享孩子们在课堂上如何利用这套教材学习华文以及学校如何协助孩子从学前过渡到小学。家长可以与孩子一起参与活动，学习帮助孩子学好华文的有趣点子。</span>
+                            <span id="lblSynosis_OL">இப்பகிர்வரங்கின்வழியே பிள்ளைகளின் தமிழ்மொழியாற்றலை மேம்படுவதற்குப்  பெற்றோர்கள் பின்பற்றவேண்டிய வழிவகைகளைப்பற்றி அறிந்துகொள்ளலாம். எளிய, அன்றாட வாழ்வோடு தொடர்புடைய உத்திமுறைகளைப் பயன்படுத்தி வீட்டுச்சூழலில் பிள்ளைகளின் மொழியாற்றலைப் பெற்றோர்கள் எவ்வாறு வளர்க்கலாம் என்பதைப்பற்றியும் பேச்சாளர் விளக்குவார். நடவடிக்கை சார்ந்த கற்றல் என்பது ஆரம்பகால மொழி கற்றலுக்கு இன்றியமையாத ஒன்றாகும். இது பிள்ளைகளுக்கு நம்பிக்கையூட்டிச்   சுய கற்றலுக்குத் தேவையான  அடிப்படைகளை அமைத்துக்கொள்ள வழிவகை செய்கிறது. இந்நிகழ்வின் மூலம் பெற்றோர்கள் பிள்ளைககளின் மொழியாற்றலை அதிகரிக்க வழிசெய்யும்  கற்றல்  வளங்களைச் சுயமாக உருவாக்கவும் அறிந்துகொள்வர். "செந்தமிழும் நாப்பழக்கம்" என்பதற்கிணங்க, அன்றாட வாழ்வில் தமிழ்மொழியினைப் பயன்படுத்துவதன்வழிப் பிள்ளைகளின் மொழியாற்றலை எவ்வகையில் மேம்படுத்தலாம் என்பன போன்ற தகவல்களும் இப்பகிர்வில் பகிர்ந்துகொள்ளப்படும். </span>
                         </div>
                     </div>
 
