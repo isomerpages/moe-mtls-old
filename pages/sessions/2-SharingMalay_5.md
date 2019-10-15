@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Lull the Little One with a Storybook 
-permalink: /sharesessions/malay/2-SharingMalay__5/
+permalink: /sharesessions/malay/2-SharingMalay_5/
 breadcrumb: Malay Sessions 5
 collection_name: left-nav-one
 ---

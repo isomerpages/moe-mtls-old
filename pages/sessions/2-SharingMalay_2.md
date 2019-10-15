@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Inventions with Recycled Materials Through Purposeful Play Learning
-permalink: /sharesessions/malay/2-SharingMalay__2/
+permalink: /sharesessions/malay/2-SharingMalay_2/
 breadcrumb: Malay Sessions 2
 collection_name: left-nav-one
 ---

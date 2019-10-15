@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Embrace Your Language, My Child!
-permalink: /sharesessions/malay/2-SharingMalay__7/
+permalink: /sharesessions/malay/2-SharingMalay_7/
 breadcrumb: Malay Sessions 7
 collection_name: left-nav-one
 ---

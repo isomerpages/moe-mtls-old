@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: A Contextual Approach to Develop Oracy
-permalink: /sharesessions/malay/2-SharingMalay__8/
+permalink: /sharesessions/malay/2-SharingMalay_8/
 breadcrumb: Malay Sessions 8
 collection_name: left-nav-one
 ---

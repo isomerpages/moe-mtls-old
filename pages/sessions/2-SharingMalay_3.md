@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Doodling as a Tool for Language Learning
-permalink: /sharesessions/malay/2-SharingMalay__3/
+permalink: /sharesessions/malay/2-SharingMalay_3/
 breadcrumb: Malay Sessions 3
 collection_name: left-nav-one
 ---

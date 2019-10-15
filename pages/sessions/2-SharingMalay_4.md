@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Speech & Drama: The Haven for Imagination Exploration
-permalink: /sharesessions/malay/2-SharingMalay__4/
+permalink: /sharesessions/malay/2-SharingMalay_4/
 breadcrumb: Malay Sessions 4
 collection_name: left-nav-one
 ---

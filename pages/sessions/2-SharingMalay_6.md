@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: StoryWalk® at the Malay Heritage Centre
-permalink: /sharesessions/malay/2-SharingMalay__6/
+permalink: /sharesessions/malay/2-SharingMalay_6/
 breadcrumb: Malay Sessions 6
 collection_name: left-nav-one
 ---
