@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Learn MTL Through Purposeful Play from School to Home
-permalink: /sharesessions/malay/2-SharingMalay__1/
+permalink: /sharesessions/Malay/2-SharingMalay__1/
 breadcrumb: Malay Sessions 1
 collection_name: left-nav-one
 ---
