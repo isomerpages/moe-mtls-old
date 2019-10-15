@@ -69,8 +69,7 @@ collection_name: left-nav-one
                                     <span id="RptSpeaker_Label1_0">Mr Yu Liang graduated from the Shanghai Theatre Academy, with a master's degree in theatre directing. Mr Yu heads the Department of Management at the Malanhua Performing Arts School for Children and the Department of Performance Teaching and Research at the China National Theatre. Mr Yu is currently teaching at the Malanhua Performing Arts School, China Cultural Centre, Singapore. He has directed the following plays for children: Idiom Rubik's Cube, Dual Gates and Crazy Night at the Supermarket", and many others.</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                                    <span id="RptSpeaker_Label2_0">于凉先生毕业于上海戏剧学院，考获戏剧导演专业硕士学位。他是中国儿童艺术剧院马兰花艺校管理部和表演教研室的负责人。于先生目前但任新加坡“中国儿艺马兰花艺校”教师。他主要导演的作品包括儿童剧《成语魔方（第五部）<画蛇添足>》、都市情感话剧《两重门》和话剧《超市疯狂夜》等。 
-                                    </span>
+                                    <span id="RptSpeaker_Label2_0">于凉先生毕业于上海戏剧学院，考获戏剧导演专业硕士学位。他是中国儿童艺术剧院马兰花艺校管理部和表演教研室的负责人。于先生目前但任新加坡“中国儿艺马兰花艺校”教师。他主要导演的作品包括儿童剧《成语魔方（第五部）<画蛇添足>》、都市情感话剧《两重门》和话剧《超市疯狂夜》等。</span>
                                 </div>
                             </div>
                         </div>
