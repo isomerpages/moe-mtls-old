@@ -123,16 +123,16 @@ width:25%
 </tr>
   <tr>
     <td> 
-	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=PS9C"  class="btnInfo">More info</a>
+	    <a href="0-sub-page-A_5.html"  class="btnInfo">More info</a>
     </td>
     <td> 
-		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=PS10C"  class="btnInfo">More info</a>
+		<a href="0-sub-page-A_6.html"  class="btnInfo">More info</a>
     </td>
     <td>
-	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=PS5M"  class="btnInfo">More info</a>
+	    <a href="0-sub-page-A_7.html"  class="btnInfo">More info</a>
     </td>
     <td>
-   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=PS6M"  class="btnInfo">More info</a>
+   	    <a href="0-sub-page-A_8.html"  class="btnInfo">More info</a>
     </td>
   </tr>
   <tr>
@@ -152,10 +152,10 @@ width:25%
 </tr>
   <tr>
     <td>
-	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=PS7T"  class="btnInfo">More info</a>
+	    <a href="0-sub-page-A_9.html"  class="btnInfo">More info</a>
     </td>
     <td>
-   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=PS8T"  class="btnInfo">More info</a>
+   	    <a href="0-sub-page-A_10.html"  class="btnInfo">More info</a>
     </td>
   </tr>
 </table> 
