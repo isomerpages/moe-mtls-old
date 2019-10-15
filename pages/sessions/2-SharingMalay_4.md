@@ -55,7 +55,6 @@ collection_name: left-nav-one
                             <div class="col-md-2">
                                 <img id="RptSpeaker_Img_0" src="/images/sessions/M21.png" style="float: left; width: 150px;" />
                             </div>
-
                             <div class="divSPInfo col-md-10">
                                 <div class="col-md-12" style="font-weight: bold;">
                                     <span id="RptSpeaker_lblName_0">Mdm Jumaini Binte Ariff</span>
@@ -72,7 +71,6 @@ collection_name: left-nav-one
                                 <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
                                     <span id="RptSpeaker_Label2_0">Mdm Jumaini Ariff merupakan seorang penulis buku kanak-kanak dan pencerita yang terkenal dalam bidang kesusasteraan Singapura. Turut dikenali melalui watak Nek Selampit; seorang penglipur lara, Jumaini secara aktif melibatkan diri dalam pelbagai kempen-kempen bahasa dan budaya di peringkat nasional, dan festival bercerita antarabangsa. Melalui Storyscribblers yang ditubuhkan pada 2015, Jumaini mengendalikan program-program bahasa yang menarik dan berkualiti tinggi berdasarkan buku-buku yang ditulisnya. Pada tahun 2017, Jumaini telah dilantik sebagai Duta Bahasa Melayu. Semenjak itu, dia bergiat secara berterusan dengan badan-badan bahasa dan budaya untuk melestarikan penggunaan bahasa Melayu di peringkat prasekolah dan sekolah rendah.</span>
                                 </div>
-
                             </div>
                         </div>
     <div class="row divSPMain">
@@ -84,7 +82,6 @@ collection_name: left-nav-one
     <div class="col-md-2">
     </div>
     <div class="divSPInfo col-md-10">
-
                         <div class="col-md-12">
                             <span id="lblSynosis_EL">Speech and drama creates a safe space for children to imagine, explore and wonder beyond reality.  In this workshop, Jumaini will share strategies on how to spark children’s imagination and guide them to embark on imaginative adventures using simple children’s narratives as a springboard. </span>
                         </div>

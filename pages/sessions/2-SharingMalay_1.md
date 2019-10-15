@@ -75,7 +75,7 @@ collection_name: left-nav-one
                         </div>
                         <div class="row divSPMain">
                             <div class="col-md-2">
-                                <img id="RptSpeaker_Img_1" src="/images/sessions/M41.png" style="float: left; width: 150px;" />
+                                <img id="RptSpeaker_Img_1" src="h/images/sessions/M41.png" style="float: left; width: 150px;" />
                             </div>
                             <div class="divSPInfo col-md-10">
                                 <div class="col-md-12" style="font-weight: bold;">
@@ -117,7 +117,7 @@ collection_name: left-nav-one
                                 </div>
                             </div>
                         </div>
-<div class="row divSPMain">
+    <div class="row divSPMain">
         <h2 style="text-decoration: underline; padding-left: 20px;">
             <img src="/images/sessions/HderSynopsis.png" style="height: 60px;width:199px;" /></h2>
         <div class="col-md-2">
@@ -125,7 +125,7 @@ collection_name: left-nav-one
     </div>
     <div class="col-md-2">
     </div>
-                    <div class="divSPInfo col-md-10">
+<div class="divSPInfo col-md-10">
                         <div class="col-md-12">
                             <span id="lblSynosis_EL">Play is an excellent way for young children to explore the world around them.  It is through play that children primarily explore their surroundings.  It is also through play that they are able to build the necessary language skills to communicate with each other in their Mother Tongue Language (MTL).  Studies show that children's learning is optimised when they are given the freedom to learn through guided and purposeful play.  They are motivated to learn while having a great time.  Purposeful play involves intentional planning and facilitation of children’s play to achieve intended learning outcomes.  When these play experiences continue from school to home, the learning continues effortlessly and seamlessly.  Ms Aimuniliyana will share useful tips on how to use purposeful play both at home and school to encourage children to use their MTL. </span>
                         </div>
@@ -133,6 +133,4 @@ collection_name: left-nav-one
                             <span id="lblSynosis_OL">Bermain merupakan kegiatan yang amat baik bagi kanak-kanak untuk meneroka dunia di sekeliling mereka.  Kegiatan ini memberi mereka peluang untuk meneroka persekitaran mereka.  Melalui bermain, mereka berupaya untuk membina kemahiran bahasa untuk  berkomunikasi sesama sendiri dalam bahasa ibunda. Kajian menunjukkan bahawa pembelajaran kanak-kanak dapat dioptimumkan apabila mereka diberikan kebebasan untuk bermain secara terarah. Mereka akan terangsang untuk belajar dan pada masa yang sama, menikmati keseronokan.  Bermain secara terarah memerlukan perancangan yang rapi agar dapat menjadi penggerak untuk kanak-kanak mencapai hasil pembelajaran yang diingini.  Apabila pengalaman bermain ini dilanjutkan dari sekolah ke rumah, pembelajaran akan berterusan dengan mudah dan lancar.  Aimuniliyana akan berkongsi tip-tip yang berguna untuk menjadikan bermain secara terarah ini dapat dilakukan di rumah dan sekolah dalam usaha menggalakkan penggunaan bahasa ibunda dalam kalangan kanak-kanak.</span>
                         </div>
                     </div>
-               
-
 </div>
