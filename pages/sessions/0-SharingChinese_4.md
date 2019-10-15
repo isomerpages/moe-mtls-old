@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese
-permalink: /sharesessions/chinese/0-SharingChinese_1/
-breadcrumb: Chinese Sessions 1
+title: From Function to Fun - Fostering Meaningful Engagement with Chinese
+permalink: /sharesessions/chinese/0-SharingChinese_4/
+breadcrumb: Chinese Sessions 4
 collection_name: left-nav-one
 ---
 
@@ -30,11 +30,11 @@ collection_name: left-nav-one
     <div class="col-md-12" style="padding-top: 40px;">
         <b>
             <span id="lblTitle_EL" style="font-weight: bold; font-size: 23px; letter-spacing: 2px; color: #525252">
-                Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese</span></b>
+                From Function to Fun: Fostering Meaningful Engagement with Chinese</span></b>
     </div>
     <div class="col-md-12" style="padding-top: 10px;">
         <span id="lblTitle_OL" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;">
-        2015年小学华文课程知多少</span>
+        把功能性学习变有趣：让孩子对华语的接触更有意义</span>
     </div>
     <div class="col-md-12" style="padding-top: 10px;">
         <span id="tblFormat" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;"><b>Format:</b>
@@ -48,67 +48,23 @@ collection_name: left-nav-one
     </div>
 <div class="row divSPMain">
                             <div class="col-md-2">
-                                <img id="RptSpeaker_Img_0" src="/images/sessions/C131.png" style="float: left; width: 150px;" />
+                                <img id="RptSpeaker_Img_0" src="/images/sessions/C11.png" style="float: left; width: 150px;" />
                             </div>
                             <div class="divSPInfo col-md-10">
                                 <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblName_0">Mdm Xu Jinhong (徐金红)</span>
+                                    <span id="RptSpeaker_lblName_0">Ms Kuo Jian Hong (郭践红)</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px; font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_EL_0">Mother Tongue Languages Branch, Curriculum Planning and Development Division, Ministry of Education  </span>
+                                    <span id="RptSpeaker_lblOrg_EL_0">The Theatre Practice</span>
                                 </div>
                                 <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_OL_0">新加坡教育部课程规划与发展司（第一司）母语处华文课程组</span>
+                                    <span id="RptSpeaker_lblOrg_OL_0">实践剧场</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px;">
-                                    <span id="RptSpeaker_Label1_0">Mdm Xu Jinhong is a Senior Specialist at the Curriculum Planning and Development Division, Ministry of Education with 28 years of experience in the Education Service. She is involved in the planning and development of the 2015 Primary Chinese Language Curriculum, research for the Primary Chinese Language Curriculum and training of primary school teachers.</span>
+                                    <span id="RptSpeaker_Label1_0">Ms Kuo Jian Hong serves as the Artistic Director of The Theatre Practice (“Practice”). An award-winning theatre director, lighting and set designer and independent filmmaker, Jian Hong has always taken on multi-faceted roles within the arts. Jian Hong’s artistic vision encompasses the broad spectrum of Practice’s artistic output, which transcends theme, genre and form. She is best known for being a pioneer in the Chinese language musical genre with such beloved works as “If There’re Seasons”. Her advocacy for the development of theatre for young audiences has led to her creating award-winning works such as The wee Question Mark series and The Nursery Rhymes Project, a three-part initiative.</span>
                                 </div>
                                 <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                                    <span id="RptSpeaker_Label2_0">徐金红老师是教育部课程规划与发展司的高级专科督导，从事教育工作已有二十八年。她目前负责“2015年小学华文课程”的规划与编写，也参与小学华文课程的咨询与研究工作，以及小学教师的专业培训。</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row divSPMain">
-                            <div class="col-md-2">
-                                <img id="RptSpeaker_Img_1" src="/images/sessions/C132.png" style="float: left; width: 150px;" />
-                            </div>
-                            <div class="divSPInfo col-md-10">
-                                <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblName_1">Ms Fang Fang (方芳)</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px; font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_EL_1">Punggol Green Primary School</span>
-                                </div>
-                                <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_OL_1">培林小学</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px;">
-                                    <span id="RptSpeaker_Label1_1">Ms Fang Fang graduated with a second-class honours (upper) degree and has 6 years of experience in the Education Service. She believes in the importance of being a role model for her students. In order to help her students learn better, she constantly seeks to enhance her professional knowledge. This includes taking part in action research projects on the effectiveness of flipped classrooms.</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                                    <span id="RptSpeaker_Label2_1">方芳老师是一名荣誉学士学位得主，从事教育工作已有六年。她坚信“言传身教”在教育中的力量。为了让学生受益更多，她也一直努力地提高自己的专业知识，如参加华文翻转课室的行动研究。</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row divSPMain">
-                            <div class="col-md-2">
-                                <img id="RptSpeaker_Img_2" src="/images/sessions/C133.png" style="float: left; width: 150px;" />
-                            </div>
-                            <div class="divSPInfo col-md-10">
-                                <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblName_2">Mdm Yang Wenxia (杨文侠)</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px; font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_EL_2">Punggol Green Primary School</span>
-                                </div>
-                                <div class="col-md-12" style="font-weight: bold;">
-                                    <span id="RptSpeaker_lblOrg_OL_2">培林小学</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px;">
-                                    <span id="RptSpeaker_Label1_2">Mdm Yang Wenxia is Senior Teacher for Chinese Language and has 8 years of experience in the Education Service. She is experienced in effective class teaching as well as creating effective learning packages. She was involved in the pilot of the 2015 Primary Chinese Language Curriculum teaching materials for three years and has worked with different teams and shared effective strategies on the teaching and learning of Chinese in primary schools on a variety of platforms.</span>
-                                </div>
-                                <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                                    <span id="RptSpeaker_Label2_2">杨文侠老师是一名华文高级教师，从事教育工作已有八年。她在安排有效的课堂教学和设计辅助学习配套方面很有经验。她曾连续三年参加2015小学华文教材的试教，也参加过不同的教研团队，并在很多场合分享过小学华文的教学策略。</span>
+                                    <span id="RptSpeaker_Label2_0">郭践红是新加坡历史悠久的专业双语剧团——实践剧场的艺术总监。她是一名获奖剧场导演、灯光与舞台设计与独立制片人，也是一位全方位的艺术创作者。郭总监将艺术理念体现在实践剧场的作品当中，涵盖的范围广泛，超越了主题、体裁和形式。她是本地众多 华语音乐剧的幕后功臣，制作了广受欢迎的音乐剧，如《天冷就回来》及《聊斋》等等。同时，她也积极地发展及推广青少年剧场。她创作的《小问号》系列获得了奖项肯定，而她也主催了由三个项目组成的《儿歌新唱计划》。</span>
                                 </div>
                             </div>
                         </div>
@@ -122,10 +78,10 @@ collection_name: left-nav-one
     </div>
     <div class="divSPInfo col-md-10">
                         <div class="col-md-12">
-                            <span id="lblSynosis_EL">The 2015 Primary Chinese Language Curriculum was implemented at Primary One in 2015 and rolled out to Primary Five this year.   The curriculum aims to enable students to communicate in Chinese, better appreciate Chinese culture and connect with Chinese communities in Asia and beyond.   Our curriculum planners will provide an insight into how the 2015 Curriculum enables young children to learn Chinese in class and how schools support their students in the transition from pre-school to primary school.   Hands-on activities will be conducted for parents and their children to provide ideas on how parents can better support their children in learning Chinese in fun and engaging ways. </span>
+                            <span id="lblSynosis_EL">Kuo Jian Hong, Artistic Director of Singapore’s longest-standing bilingual arts institution, The Theatre Practice (“Practice”), will share how Practice can inculcate a love for Chinese language and culture in today’s students by shifting their exposure to the language from the merely functional to having fun.  Join her as she highlights Practice’s various endeavours including The Nursery Rhymes Project, a three-part initiative that playfully reintroduces classic Mandarin nursery rhymes to a new generation through an illustrated lyric book, album recording and a series of jukebox musicals.  With children today increasingly losing touch with both their mother tongue and culture, The Nursery Rhymes Project is a quality resource for parents and teachers alike that facilitates meaningful inter-generational engagement and continues the tradition of nursery rhymes at home and in schools. </span>
                         </div>
                         <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
-                            <span id="lblSynosis_OL">2015年，《欢乐伙伴》小学华文课程开始在一年级使用，至今已经推展到五年级。课程旨在培养学生有效使用华语与人沟通、认识自己的华族文化，并与世界各地的华族社群接轨的能力。教育部课程规划员将分享孩子们在课堂上如何利用这套教材学习华文以及学校如何协助孩子从学前过渡到小学。家长可以与孩子一起参与活动，学习帮助孩子学好华文的有趣点子。</span>
+                            <span id="lblSynosis_OL">郭总监将与与会者分享实践剧场如何通过让学生们接触语言，把功能性转变为趣味性，并熏陶他们，让他们爱上华语与华文文化。郭总监将分享实践剧场旗下的项目，包括让新一代新加坡小朋友认识华语儿歌乐趣的《儿歌新唱计划》。这个计划包括三个部分：歌词绘本、CD专辑，以及一系列的迷你音乐剧演出。有鉴于当今孩子们对于母语及华文文化越来越陌生，《儿歌新唱计划》是个能促进家长和教师们与下一代进行有意义的互动，并继续在家里和学校里传承儿歌的优质资源。</span>
                         </div>
                     </div>
 
