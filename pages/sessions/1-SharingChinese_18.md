@@ -53,7 +53,7 @@ collection_name: left-nav-one
     </div>
  <div class="row divSPMain">
                             <div class="col-md-2">
-                                <img id="RptSpeaker_Img_0" src="/images/sessions/HDerSpeakers.png" style="float: left; width: 150px;" />
+                                <img id="RptSpeaker_Img_0" src="/images/sessions/C151.png" style="float: left; width: 150px;" />
                             </div>
 
                             <div class="divSPInfo col-md-10">

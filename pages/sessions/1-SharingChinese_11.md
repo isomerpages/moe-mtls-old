@@ -53,9 +53,8 @@ collection_name: left-nav-one
     </div>
 <div class="row divSPMain">
                             <div class="col-md-2">
-                                <img id="RptSpeaker_Img_0" src="/images/sessions/HDerSpeakers.png" style="float: left; width: 150px;" />
+                                <img id="RptSpeaker_Img_0" src="/images/sessions/C81.png" style="float: left; width: 150px;" />
                             </div>
-
                             <div class="divSPInfo col-md-10">
                                 <div class="col-md-12" style="font-weight: bold;">
                                     <span id="RptSpeaker_lblName_0">Dr Aw Guat Poh (胡月宝博士)</span>
@@ -72,7 +71,6 @@ collection_name: left-nav-one
                                 <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
                                     <span id="RptSpeaker_Label2_0">胡月宝博士是新加坡南洋理工大学国立教育学院副教授，亚洲语言文化学部助理主任（中文）。胡博士是新加坡资深的教育工作者，也是知名的作家，发表过不少小说和散文。多年来，胡博士结合理论与实践，致力于培养和提高学生对华文的学习兴趣，尤其是在阅读与写作方面。</span>
                                 </div>
-
                             </div>
                         </div>
     <div class="row divSPMain">
@@ -84,7 +82,6 @@ collection_name: left-nav-one
     <div class="col-md-2">
     </div>
    <div class="divSPInfo col-md-10">
-
                         <div class="col-md-12">
                             <span id="lblSynosis_EL">Learning how to learn is one of the core competencies in 21st century education, and learning how to learn Chinese is particularly important as it is a second language for many Singaporean children.  In short, independent learning skills are the foundation to learning Chinese.  These include word recognition and comprehension skills, which form the basis for reading.  The speaker will share independent reading strategies, including one-second word recognition, one-minute comprehension reading and ‘year-long’ reading strategies.  These have been developed based on A/P Aw’s years of research and experience.  In addition, she will be introducing the latest technological tools to enhance independent reading in children. </span>
                         </div>

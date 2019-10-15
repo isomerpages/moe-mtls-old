@@ -1,8 +1,8 @@
 ---
 layout: simple-page
 title: Bridging Illusions and Reality Through Interesting stories - “Read, Dramatize and Speak!”
-permalink: /sharesessions/chinese/1-SharingChinese_1/
-breadcrumb: Chinese Sessions 1
+permalink: /sharesessions/chinese/1-SharingChinese_13/
+breadcrumb: Chinese Sessions 13
 collection_name: left-nav-one
 ---
 
@@ -53,9 +53,8 @@ collection_name: left-nav-one
     </div>
 <div class="row divSPMain">
                             <div class="col-md-2">
-                                <img id="RptSpeaker_Img_0" src="/images/sessions/HDerSpeakers.png" style="float: left; width: 150px;" />
+                                <img id="RptSpeaker_Img_0" src="/images/sessions/C143.png" style="float: left; width: 150px;" />
                             </div>
-
                             <div class="divSPInfo col-md-10">
                                 <div class="col-md-12" style="font-weight: bold;">
                                     <span id="RptSpeaker_lblName_0">Ms Wang Junyi (王君旖)</span>
@@ -79,7 +78,7 @@ collection_name: left-nav-one
                     
                         <div class="row divSPMain">
                             <div class="col-md-2">
-                                <img id="RptSpeaker_Img_1" src="/images/sessions/HDerSpeakers.png" style="float: left; width: 150px;" />
+                                <img id="RptSpeaker_Img_1" src="/images/sessions/C142.png" style="float: left; width: 150px;" />
                             </div>
 
                             <div class="divSPInfo col-md-10">
@@ -105,7 +104,7 @@ collection_name: left-nav-one
                     
                         <div class="row divSPMain">
                             <div class="col-md-2">
-                                <img id="RptSpeaker_Img_2" src="/images/sessions/HDerSpeakers.png" style="float: left; width: 150px;" />
+                                <img id="RptSpeaker_Img_2" src="/images/sessions/C141.png" style="float: left; width: 150px;" />
                             </div>
 
                             <div class="divSPInfo col-md-10">

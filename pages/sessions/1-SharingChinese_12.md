@@ -1,8 +1,8 @@
 ---
 layout: simple-page
 title: Expanding Your Imagination and Creativity Through Drama and Games
-permalink: /sharesessions/chinese/1-SharingChinese_1/
-breadcrumb: Chinese Sessions 1
+permalink: /sharesessions/chinese/1-SharingChinese_12/
+breadcrumb: Chinese Sessions 12
 collection_name: left-nav-one
 ---
 
@@ -53,9 +53,8 @@ collection_name: left-nav-one
     </div>
 <div class="row divSPMain">
                             <div class="col-md-2">
-                                <img id="RptSpeaker_Img_0" src="src="/images/sessions/HDerSpeakers.png" style="float: left; width: 150px;" />
+                                <img id="RptSpeaker_Img_0" src="/images/sessions/C181.png" style="float: left; width: 150px;" />
                             </div>
-
                             <div class="divSPInfo col-md-10">
                                 <div class="col-md-12" style="font-weight: bold;">
                                     <span id="RptSpeaker_lblName_0">Mr Yu Liang (于凉)</span>
@@ -72,7 +71,6 @@ collection_name: left-nav-one
                                 <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
                                     <span id="RptSpeaker_Label2_0">于凉先生毕业于上海戏剧学院，考获戏剧导演专业硕士学位。他是中国儿童艺术剧院马兰花艺校管理部和表演教研室的负责人。于先生目前但任新加坡“中国儿艺马兰花艺校”教师。他主要导演的作品包括儿童剧《成语魔方（第五部）<画蛇添足>》、都市情感话剧《两重门》和话剧《超市疯狂夜》等。</span>
                                 </div>
-
                             </div>
                         </div>
     <div class="row divSPMain">
@@ -84,7 +82,6 @@ collection_name: left-nav-one
     <div class="col-md-2">
     </div>
     <div class="divSPInfo col-md-10">
-
                         <div class="col-md-12">
                             <span id="lblSynosis_EL">What would you get if you were given a story, fun drama techniques and a stage on which to let your imagination run wild? You would put them together to present a theatrical play on stage! This workshop will trigger participants’ innate pro-activeness, imagination and creativity to learn Chinese the fun way! Be prepared to level up both your collaborative skills and your parent-child relationship!(Please note that this workshop is open to parents only)</span>
                         </div>
