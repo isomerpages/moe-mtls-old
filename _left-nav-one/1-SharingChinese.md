@@ -16,7 +16,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 310
       </td>
       <td>
-   <a href="0-SharingChinese_1.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="1-SharingChinese_1.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -28,7 +28,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 309
       </td>
       <td>
-   <a href="0-SharingChinese_2.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="1-SharingChinese_2.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -40,7 +40,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 308
       </td>
       <td>
-   <a href="0-SharingChinese_3.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="1-SharingChinese_3.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -52,7 +52,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 303 - 304
       </td>
    <td>
-   <a href="0-SharingChinese_4.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="1-SharingChinese_4.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>
@@ -64,7 +64,7 @@ collection_name: left-nav-one
          <b>Venue:</b> Room 310
       </td>
       <td>
-   <a href="0-SharingChinese_5.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
+   <a href="1-SharingChinese_5.html"  style="  background-color: #6031b6; color: white;padding: 14px 25px;text-align: center; text-decoration: none;display: inline-block;">More info</a>
   </td>
    </tr>
    <tr>

@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese
-permalink: /sharesessions/chinese/0-SharingChinese_1/
+permalink: /sharesessions/chinese/1-SharingChinese_1/
 breadcrumb: Chinese Sessions 1
 collection_name: left-nav-one
 ---

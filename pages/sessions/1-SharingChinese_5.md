@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Language Immersion Through Play-based Learning
-permalink: /sharesessions/chinese/0-SharingChinese_5/
+permalink: /sharesessions/chinese/1-SharingChinese_5/
 breadcrumb: Chinese Sessions 5
 collection_name: left-nav-one
 ---

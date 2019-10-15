@@ -83,7 +83,7 @@ width:25%
 </tr>
   <tr>
     <td> 
-	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=PS1C"  class="btnInfo">More info</a>
+	    <a href="0-sub-page-A_1.html"  class="btnInfo">More info</a>
     </td>
     <td> 
 		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=PS2C"  class="btnInfo">More info</a>

@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: From Function to Fun - Fostering Meaningful Engagement with Chinese
-permalink: /sharesessions/chinese/0-SharingChinese_4/
+permalink: /sharesessions/chinese/1-SharingChinese_4/
 breadcrumb: Chinese Sessions 4
 collection_name: left-nav-one
 ---

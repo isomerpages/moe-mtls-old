@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Learning of Chinese Through Parent-Child Activities
-permalink: /sharesessions/chinese/0-SharingChinese_2/
+permalink: /sharesessions/chinese/1-SharingChinese_2/
 breadcrumb: Chinese Sessions 2
 collection_name: left-nav-one
 ---

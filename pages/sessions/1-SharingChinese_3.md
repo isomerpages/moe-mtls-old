@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Learning Chinese in a Fun Way!
-permalink: /sharesessions/chinese/0-SharingChinese_3/
+permalink: /sharesessions/chinese/1-SharingChinese_3/
 breadcrumb: Chinese Sessions 3
 collection_name: left-nav-one
 ---
