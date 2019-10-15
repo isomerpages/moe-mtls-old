@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Virtues: The Way to Character-Building
+title: Virtues - The Way to Character-Building
 permalink: /sharesessions/chinese/1-SharingChinese_17/
 breadcrumb: Chinese Sessions 17
 collection_name: left-nav-one

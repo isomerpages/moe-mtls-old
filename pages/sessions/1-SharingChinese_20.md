@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Reading in Two Languages: What We Need to Know and How We Can Support It
+title: Reading in Two Languages - What We Need to Know and How We Can Support It
 permalink: /sharesessions/chinese/1-SharingChinese_20/
 breadcrumb: Chinese Sessions 20
 collection_name: left-nav-one
