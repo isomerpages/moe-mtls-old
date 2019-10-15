@@ -39,11 +39,15 @@ collection_name: left-nav-three
                     <b style="font-size: 17px; color: #525252; display: none;">SCHOOL / ORGANISATION</b><br />
                     <span id="lblOrg_EL" style="font-weight: bold; font-size: 15px; letter-spacing: 1px; color: #7f7f7f">Malay Language and Promotion Committee <br>Jawatankuasa Pembelajaran   dan Penggalakan Penggunaan Bahasa Melayu</span>
                 </div>
+    <div class="row divSPMain">
+        <h2 style="text-decoration: underline; padding-left: 20px;">
+            <img src="/images/sessions/HderSynopsis.png" style="height: 60px;width:199px;" /></h2>
+        <div class="col-md-2">
+        </div>
     </div>
     <div class="col-md-2">
     </div>
  <div class="divSPInfo col-md-10">
-
                         <div class="col-md-12">
                             <span id="lblSynosis_EL"><p>Discover Malay finesse through this simulation of social and cultural settings. Learn about Malay finesse through the Malay community’s day-to-day interactions and the symbolism of movement in Malay dance. The various aspects of Malay finesse showcased include sitting etiquette, appropriate manners for giving and receiving items, as well as appropriate body language in daily life. Visitors will be delighted by this joyful discovery of finesse in Malay culture and will learn values that they can apply in their own lives.</p></span>
                         </div>

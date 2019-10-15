@@ -31,6 +31,7 @@ collection_name: left-nav-three
         </script>
         
 <div id="PanelSess">
+<div class="col-md-12" style="padding-top: 40px;">
          <span id="lblTitle_EL" style="font-weight: bold; font-size: 20px; letter-spacing: 2px; color: #525252">Fun Learning Chinese<br>乐学华文</span>
                 </div>
                 <div class="col-md-12" style="padding-top: 30px;">
