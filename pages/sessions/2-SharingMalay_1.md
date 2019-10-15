@@ -125,9 +125,7 @@ collection_name: left-nav-one
     </div>
     <div class="col-md-2">
     </div>
-
                     <div class="divSPInfo col-md-10">
-
                         <div class="col-md-12">
                             <span id="lblSynosis_EL">Play is an excellent way for young children to explore the world around them.  It is through play that children primarily explore their surroundings.  It is also through play that they are able to build the necessary language skills to communicate with each other in their Mother Tongue Language (MTL).  Studies show that children's learning is optimised when they are given the freedom to learn through guided and purposeful play.  They are motivated to learn while having a great time.  Purposeful play involves intentional planning and facilitation of children’s play to achieve intended learning outcomes.  When these play experiences continue from school to home, the learning continues effortlessly and seamlessly.  Ms Aimuniliyana will share useful tips on how to use purposeful play both at home and school to encourage children to use their MTL. </span>
                         </div>
