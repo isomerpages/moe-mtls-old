@@ -55,7 +55,6 @@ collection_name: left-nav-one
                             <div class="col-md-2">
                                 <img id="RptSpeaker_Img_0" src="/images/sessions/T71.png" style="float: left; width: 150px;" />
                             </div>
-
                             <div class="divSPInfo col-md-10">
                                 <div class="col-md-12" style="font-weight: bold;">
                                     <span id="RptSpeaker_lblName_0">Ms Juliana Jaysree D/O Peter (ஜூலியானா ஜெயஸ்ரீ)</span>
@@ -72,7 +71,6 @@ collection_name: left-nav-one
                                 <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
                                     <span id="RptSpeaker_Label2_0">ஜூலியானா பத்தொன்பது வயதில் தமது ஆசிரியப் பணியைத் தொடங்கினார். இவர் PCF-பாலர் பள்ளியில் ஏழு ஆண்டுகளாகப் பணியாற்றிவருகிறார். பாலர் கல்வியில் இவர் பெற்ற அனுபவம் வாயிலாக  மொழிக்கல்வியின்பால் மாணவர்களது ஆர்வத்தை ஊக்குவிக்கவும், எளிய முறையில் மொழியைக் கற்பிப்பதற்குமான உத்திமுறைகளையும் கைவரப்பெற்றவர். தம் இருபத்து நான்காவது  வயதில், கல்வி அமைச்சின் ஏற்பாட்டில் நடந்தேறிய  தாய்மொழிகளின் கருத்தரங்கில் தலைசிறந்த ஆசிரியருக்கான விருதினைப் பெற்றார்.  குழந்தைகளின் கற்றல் அனுபவமென்பது ஆசிரியரின் தொடர் கற்றலின் மூலமாக மேம்படுகிறது என்பது இவரது கருத்து. பாலர் கல்வி ஆண்டுகளில் குழந்தைகளின் முழுமையான வளர்ச்சியின் அடையாளம் வலுவான குடும்பம்-பள்ளி கூட்டுமுயற்சியிலிருந்து தொடங்குகிறது என்று இவர் உறுதியாக நம்புகிறார்.</span>
                                 </div>
-
                             </div>
                         </div>
     <div class="row divSPMain">
@@ -84,7 +82,6 @@ collection_name: left-nav-one
     <div class="col-md-2">
     </div>
    <div class="divSPInfo col-md-10">
-
                         <div class="col-md-12">
                             <span id="lblSynosis_EL">Educators across the nation have long professed the importance of family involvement in children’s education.  Many researchers have also shown positive effects of collaboration between schools and parents when they continuously work hand-in-hand to support children’s learning and development.  Parents are their child’s first teacher.  When the school system values and respect parents as equal partners in their child’s education, opportunities are created to influence a child to live a positive and fulfilling life.  Through this session, participants will be able to explore various strategies that one can use at home to foster the child’s learning as well as explore creative ways to provide opportunities for children to learn Mother Tongue Language through play at home. </span>
                         </div>
