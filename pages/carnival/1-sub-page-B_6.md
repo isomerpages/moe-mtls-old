@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Enthuse, Excite, Engage: Nurturing Confident Writers
+title: Enthuse, Excite, Engage - Nurturing Confident Writers
 permalink: /left-nav-three/sub-page-B/1-sub-page-B_6/
 breadcrumb: Schools 6 
 collection_name: left-nav-three
