@@ -93,16 +93,16 @@ collection_name: left-nav-three
     </tr>
     <tr>
         <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c1" class="btnInfo">More info</a>
+            <a href="2-sub-page-C_1.html" class="btnInfo">More info</a>
         </td>
         <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c2" class="btnInfo">More info</a>
+            <a href="2-sub-page-C_2.html" class="btnInfo">More info</a>
         </td>
         <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c3" class="btnInfo">More info</a>
+            <a href="2-sub-page-C_3.html" class="btnInfo">More info</a>
         </td>
         <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c4" class="btnInfo">More info</a>
+            <a href="2-sub-page-C_4.html" class="btnInfo">More info</a>
         </td>
     </tr>
     <tr>
@@ -126,10 +126,10 @@ collection_name: left-nav-three
         </td>
     </tr>
     <tr>
-        <td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c5">More info</a></td>
-        <td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c6">More info</a></td>
-        <td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c7">More info</a></td>
-        <td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c8">More info</a></td>
+        <td><a class="btnInfo" href="2-sub-page-C_5.html">More info</a></td>
+        <td><a class="btnInfo" href="2-sub-page-C_6.html">More info</a></td>
+        <td><a class="btnInfo" href="2-sub-page-C_7.html">More info</a></td>
+        <td><a class="btnInfo" href="2-sub-page-C_8.html">More info</a></td>
     </tr>
     <tr>
         <td class="baseTD tdHead"><strong>M<sup>3</sup>@NeeSoon</strong><br></td>
@@ -156,10 +156,10 @@ collection_name: left-nav-three
         </td>
     </tr>
     <tr>
-        <td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c9">More info</a></td>
-        <td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c10">More info</a></td>
-        <td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c11">More info</a></td>
-        <td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c12">More info</a></td>
+        <td><a class="btnInfo" href="2-sub-page-C_9.html">More info</a></td>
+        <td><a class="btnInfo" href="2-sub-page-C_10.html">More info</a></td>
+        <td><a class="btnInfo" href="2-sub-page-C_11.html">More info</a></td>
+        <td><a class="btnInfo" href="2-sub-page-C_12.html">More info</a></td>
     </tr>
     <tr>
         <td class="baseTD tdHead"><strong>Seeding a Reading Culture</strong><br> </td>
@@ -188,9 +188,9 @@ collection_name: left-nav-three
         </td>
     </tr>
     <tr>
-        <td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c13">More info</a></td>
-        <td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c14">More info</a></td>
-        <td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c15">More info</a></td>
-        <td><a class="btnInfo" href="https://event-reg.biz/Registration/MTLSSynopsis?Session=c16">More info</a></td>
+        <td><a class="btnInfo" href="2-sub-page-C_13.html">More info</a></td>
+        <td><a class="btnInfo" href="2-sub-page-C_14.html">More info</a></td>
+        <td><a class="btnInfo" href="2-sub-page-C_15.html">More info</a></td>
+        <td><a class="btnInfo" href="2-sub-page-C_16.html">More info</a></td>
     </tr>
 </table>
