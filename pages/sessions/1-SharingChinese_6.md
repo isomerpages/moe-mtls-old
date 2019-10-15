@@ -53,9 +53,8 @@ collection_name: left-nav-one
     </div>
 <div class="row divSPMain">
                             <div class="col-md-2">
-                                <img id="RptSpeaker_Img_0" src="/images/sessions/HDerSpeakers.png" style="float: left; width: 150px;" />
+                                <img id="RptSpeaker_Img_0" src="/images/sessions/C22.png" style="float: left; width: 150px;" />
                             </div>
-
                             <div class="divSPInfo col-md-10">
                                 <div class="col-md-12" style="font-weight: bold;">
                                     <span id="RptSpeaker_lblName_0">Ms Liu Ying  (刘瑛)</span>
@@ -72,16 +71,12 @@ collection_name: left-nav-one
                                 <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
                                     <span id="RptSpeaker_Label2_0">刘瑛老师现任职于总优儿学府麦奈雅中心，是该中心的主导华文教师。她拥有新跃社科大学学前华文教育及汉语言双学士学位。刘瑛老师从事幼教工作十二年，她认为营造一个宽松活泼的学习环境能够帮助幼儿学习华语。在教学活动中，她为幼儿提供在实践中学习的机会，创设各种有趣的游戏活动，让幼儿在玩中学。同时，她也积极创设各种不同的情境活动，让幼儿活用华语，乐用华语，努力培养幼儿终身学习华语的兴趣。刘瑛老师曾获得2016年新跃社科大学 MY World Preschool Gold Award， 也是2018年杰出学前母语教师奖得主。</span>
                                 </div>
-
                             </div>
                         </div>
-
-                    
                         <div class="row divSPMain">
                             <div class="col-md-2">
-                                <img id="RptSpeaker_Img_1" src="/images/sessions/HDerSpeakers.png" style="float: left; width: 150px;" />
+                                <img id="RptSpeaker_Img_1" src="/images/sessions/C23.png" style="float: left; width: 150px;" />
                             </div>
-
                             <div class="divSPInfo col-md-10">
                                 <div class="col-md-12" style="font-weight: bold;">
                                     <span id="RptSpeaker_lblName_1">Mdm Zhang Shan (张珊)</span>
@@ -98,16 +93,12 @@ collection_name: left-nav-one
                                 <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
                                     <span id="RptSpeaker_Label2_1">张珊老师是教育部幼儿园（培景）的一名资深华文老师。张老师献身于学前教育行业十年，深知学前的幼儿往往是在经验、社会交往和游戏中学习。在教学中，她重视幼儿的参与和体验，坚信有意义的游戏活动是最直接有效的学习途径。</span>
                                 </div>
-
                             </div>
                         </div>
-
-                    
                         <div class="row divSPMain">
                             <div class="col-md-2">
-                                <img id="RptSpeaker_Img_2" src="/images/sessions/HDerSpeakers.png" style="float: left; width: 150px;" />
+                                <img id="RptSpeaker_Img_2" src="/images/sessions/C21.png" style="float: left; width: 150px;" />
                             </div>
-
                             <div class="divSPInfo col-md-10">
                                 <div class="col-md-12" style="font-weight: bold;">
                                     <span id="RptSpeaker_lblName_2">Mdm Lee Keng Chin (李琼君)</span>
@@ -124,16 +115,12 @@ collection_name: left-nav-one
                                 <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
                                     <span id="RptSpeaker_Label2_2">李琼君老师是教育部课程规划与发展司母语处的高级课程规划员，从事教育工作已有二十年，目前参与规划与编写学前和高中华文课程的工作。她曾荣获2017年的全国模范华文教师奖。</span>
                                 </div>
-
                             </div>
                         </div>
-
-                    
                         <div class="row divSPMain">
                             <div class="col-md-2">
-                                <img id="RptSpeaker_Img_3" src="/images/sessions/HDerSpeakers.png" style="float: left; width: 150px;" />
+                                <img id="RptSpeaker_Img_3" src="/images/sessions/C24.png" style="float: left; width: 150px;" />
                             </div>
-
                             <div class="divSPInfo col-md-10">
                                 <div class="col-md-12" style="font-weight: bold;">
                                     <span id="RptSpeaker_lblName_3">Dr Lin An-Chi (林安琪博士)</span>
@@ -150,7 +137,6 @@ collection_name: left-nav-one
                                 <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
                                     <span id="RptSpeaker_Label2_3">林安琪博士是国立幼儿培育教育学院的全职讲师。林博士在美国亚利桑那州立大学主修学前教育，之后在幼教领域深耕二十年。她曾在台湾及美国担任幼儿园主任及第一线幼教老师，在美国、台湾、新加坡等地教授幼教课程，并多次在国际研讨会上发表幼教学术报告。林博士的研究兴趣包括儿童发展与学习、学前儿童语文发展、社会情绪发展、游戏教育、亲职教育等。她关注、热爱幼儿，鼓励家长及幼教老师为幼儿营造愉快的学习氛围。</span>
                                 </div>
-
                             </div>
                         </div>
     <div class="row divSPMain">
@@ -162,7 +148,6 @@ collection_name: left-nav-one
     <div class="col-md-2">
     </div>
     <div class="divSPInfo col-md-10">
-
                         <div class="col-md-12">
                             <span id="lblSynosis_EL">Purposeful play is an integral part of children’s learning.  Children learn when they are engaged in play that is enjoyable and thoughtfully planned.  In this session, early childhood experts and practitioners will share the different aspects and benefits of purposeful play, including how purposeful play can stimulate children’s thinking and creativity, so that they enjoy using their MTL. </span>
                         </div>
