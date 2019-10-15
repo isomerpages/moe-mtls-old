@@ -32,7 +32,7 @@ collection_name: left-nav-three
         </script>
         
 <div id="PanelSess">
-   div class="col-md-12" style="padding-top: 40px;">
+   <div class="col-md-12" style="padding-top: 40px;">
                     <span id="lblTitle_EL" style="font-weight: bold; font-size: 20px; letter-spacing: 2px; color: #525252">Using Short Stories to Teach Malay Language<br>Menggunakan Cerpen dalam Pengajaran Bahasa Melayu</span>
                 </div>
                 <div class="col-md-12" style="padding-top: 30px;">
