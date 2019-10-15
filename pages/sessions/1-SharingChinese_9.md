@@ -53,9 +53,8 @@ collection_name: left-nav-one
     </div>
 <div class="row divSPMain">
                             <div class="col-md-2">
-                                <img id="RptSpeaker_Img_0" src="/images/sessions/HDerSpeakers.png" style="float: left; width: 150px;" />
+                                <img id="RptSpeaker_Img_0" src="/images/sessions/C161.png" style="float: left; width: 150px;" />
                             </div>
-
                             <div class="divSPInfo col-md-10">
                                 <div class="col-md-12" style="font-weight: bold;">
                                     <span id="RptSpeaker_lblName_0">Dr Connie Lum (林美莲博士)</span>
@@ -72,7 +71,6 @@ collection_name: left-nav-one
                                 <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
                                     <span id="RptSpeaker_Label2_0">林美莲博士是职总优儿学府母语课程策划总监，在课程设计、教学和培训等方面拥有近二十年的经验，她也是新加坡推广华文学习委员会学前华文教育支援组的主要委员。林博士多次在国内外的各大平台上讲学，分享学前教育的心得。</span>
                                 </div>
-
                             </div>
                         </div>
     <div class="row divSPMain">
@@ -84,7 +82,6 @@ collection_name: left-nav-one
     <div class="col-md-2">
     </div>
 <div class="divSPInfo col-md-10">
-
                         <div class="col-md-12">
                             <span id="lblSynosis_EL">With the increasing trend of Singaporeans using English as their home language, the teaching of Mother Tongue Languages has become more challenging.  The learning that takes place between the ages of three to six is critical, as it has a long-term impact on children’s intellectual and linguistic development. In this session, the speaker will explain how play-based learning can be used in both classrooms and at home to support pre-school children’s development in oracy skills.  The speaker will also demonstrate key steps in setting up a conducive learning environment and utilising teaching aids and a story stage to make Mother Tongue Language learning fun for children. </span>
                         </div>

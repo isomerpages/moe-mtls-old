@@ -53,9 +53,8 @@ collection_name: left-nav-one
     </div>
 <div class="row divSPMain">
                             <div class="col-md-2">
-                                <img id="RptSpeaker_Img_0" src="/images/sessions/HDerSpeakers.png" style="float: left; width: 150px;" />
+                                <img id="RptSpeaker_Img_0" src="/images/sessions/C71.png" style="float: left; width: 150px;" />
                             </div>
-
                             <div class="divSPInfo col-md-10">
                                 <div class="col-md-12" style="font-weight: bold;">
                                     <span id="RptSpeaker_lblName_0">Ms Liang Huiyu (梁慧瑜)</span>
@@ -72,10 +71,8 @@ collection_name: left-nav-one
                                 <div class="col-md-12" style="padding-top: 20px; font-size: 13px;">
                                     <span id="RptSpeaker_Label2_0">梁慧瑜是一名积极推广华文阅读，尤其是亲子阅读的教育工作者。她曾受邀参与不少本地与海外教育相关的活动，包括亚洲少儿读物节、读吧！新加坡、讲华语运动、职总U Care公益活动—开学乐展销会、新加坡书展等活动，也到过超过80所本地学府开展故事与阅读活动。</span>
                                 </div>
-
                             </div>
                         </div>
-
     <div class="row divSPMain">
         <h2 style="text-decoration: underline; padding-left: 20px;">
             <img src="/images/sessions/HderSynopsis.png" style="height: 60px;width:199px;" /></h2>
@@ -85,7 +82,6 @@ collection_name: left-nav-one
     <div class="col-md-2">
     </div>
     <div class="divSPInfo col-md-10">
-
                         <div class="col-md-12">
                             <span id="lblSynosis_EL">Need advice and ideas on how to make bedtime reading fun and enjoyable for the little ones? Join this workshop where experienced educator Ms Liang Huiyu teaches and demonstrates how parents can read effectively to their little ones and inspire them in learning their Mother Tongue Language through bedtime storytelling!  Ms Liang Huiyu will also be sharing on how parents can pick the books most suitable for developing their children’s interest in reading. </span>
                         </div>
