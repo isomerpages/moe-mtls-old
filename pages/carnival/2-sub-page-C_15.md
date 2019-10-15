@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: The Joy of Learning Chinese
-permalink: /left-nav-three/sub-page-C/2-sub-page-C_1/
-breadcrumb: Community Partners 1 
+title: Neighbours in the Wild
+permalink: /left-nav-three/sub-page-C/2-sub-page-C_15/
+breadcrumb: Community Partners 15 
 collection_name: left-nav-three
 ---
 
@@ -31,22 +31,12 @@ collection_name: left-nav-three
         </script>
         
 <div id="PanelSess">
-    <div class="col-md-12" style="padding-top: 40px;">
-        <b>
-            <span id="lblTitle_EL" style="font-weight: bold; font-size: 23px; letter-spacing: 2px; color: #525252">
-                The Joy of Learning Chinese</span></b>
-    </div>
-    <div class="col-md-12" style="padding-top: 10px;">
-        <span id="lblTitle_OL" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;">
-        趣味华文</span>
-    </div>
-    <div class="col-md-12" style="padding-top: 10px;">
-        <span id="tblFormat" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;"><b></b>
-            </span>
-    </div>
-    <div class="col-md-12" style="padding-top: 30px;">
+      <div class="col-md-12" style="padding-top: 40px;">
+                    <span id="lblTitle_EL" style="font-weight: bold; font-size: 20px; letter-spacing: 2px; color: #525252">Neighbours in the Wild<br>我们的野生邻居<br>Jiran di Alam Liar<br>வனத்தில் நண்பர்கள்</span>
+                </div>
+                <div class="col-md-12" style="padding-top: 30px;">
                     <b style="font-size: 17px; color: #525252; display: none;">SCHOOL / ORGANISATION</b><br />
-                    <span id="lblOrg_EL" style="font-weight: bold; font-size: 15px; letter-spacing: 1px; color: #7f7f7f">Pat's Schoolhouse Sembawang</span>
+                    <span id="lblOrg_EL" style="font-weight: bold; font-size: 15px; letter-spacing: 1px; color: #7f7f7f">Wildlife Reserves Singapore<br>新加坡野生动物保育集团<br>சிங்கப்பூர் வனவிலங்குக் காப்பகம்</span>
                 </div>
     <div class="row divSPMain">
         <h2 style="text-decoration: underline; padding-left: 20px;">
@@ -56,12 +46,13 @@ collection_name: left-nav-three
     </div>
     <div class="col-md-2">
     </div>
-<div class="divSPInfo col-md-10">
+  <div class="divSPInfo col-md-10">
+
                         <div class="col-md-12">
-                            <span id="lblSynosis_EL">Through a series of fun and exploratory activities, students at Pat’s Schoolhouse Sembawang experience the fun of learning Chinese in their daily lives.  In order to extend the joy of learning of Chinese beyond school, the pre-school also seeks to establish a favourable home learning environment with parents through home-learning projects.<br><br>As part of the K2 children’s discovery theme on “The Little Red Dot”, teachers lead the K2s to explore Chinese culture, food, costumes and art via field trips.  In small group discussions, they design and create their very own menu and prepare a variety of Chinese food and cultural items for sale to their parents.  These fun activities help to develop students’ collaborative skills, and provide them with a platform to use Chinese in their daily lives.<br><br>After a term of exploring the discovery theme on "The Wonders of Water" through various fun water-related science experiments, teachers take the opportunity  to extend the learning to from home for both parents and children.  They are involved in a home-learning project to explore float and sink concept with common home items, as well as to discuss the uses of water and ways to save water. </span>
+                            <span id="lblSynosis_EL">Wildlife Reserves Singapore prides itself on creating unique Living Classrooms. Visit their booth for a Living Classroom experience in learning the Mother Tongue Languages. Discover with your child some of the wild animals that live in Singapore through close encounters with animal specimens. Find out how to coexist and protect these “wild Singaporeans” by getting your child engaged in a conversation using their Mother Tongue Language!</span>
                         </div>
                         <div class="col-md-12" style="padding-top: 20px;">
-                            <span id="lblSynosis_OL">Pat’s Schoolhouse Sembawang 以生动有趣的方式，让幼儿充分体验学习华文的乐趣。此外，为了鼓励幼儿在日常生活中使用华语，学校也与家长携手营造有利于学习华语的环境。<br><br>教师根据“小红点”的主题，带领大班的幼儿探索华族文化，通过实地考察，让幼儿认识华族饮食文化、服饰文化和艺术等。教师布置不同的学习任务，让幼儿以小组的形式讨论、设计和制作菜单，准备丰富的食物，并设立摊位售卖食品。这些活动为幼儿提供了在供日常生活中使用华语的平台，让他们在探索中学习，并培养协作能力。<br><br>教师也邀请中班的幼儿和家长参加以“水”为主题的科学实验。通过家庭学习活动，家长和幼儿一起探讨水的沉与于浮的概念， 了解水的重要性。这些活动为家长和幼儿创造机会，让他们在家中也能用华语沟通。</span>
+                            <span id="lblSynosis_OL">快来感受新加坡野生动物保育集团（WRS）独特的《户外教室》体验，了解如何让母语学习更加真实有趣！新加坡野生动物保育集团将展示一些本土野生动物标本，让你和你的孩子近距离观察它们。通过母语对话，和你的孩子一起学习如何保护这些‘野生邻居’吧！<br><br>Wildlife Reserves Singapore (WRS) bangga dengan usaha yang dijalankan mencipta Living Classrooms, pengalaman pembelajaran yang hidup dan unik untuk pendidik dan murid-murid. Lawati reruai WRS bersama anak-anak untuk mengalami suasana pembelajaran Bahasa Ibunda yang hidup. Kenali jenis-jenis hidupan liar yang ada di Singapura melalui spesimen haiwan-haiwan tempatan. Ketahui juga cara untuk melindungi mereka dan saling wujud bersama mereka dengan selamat. Marilah menimba ilmu dan berinteraksi bersama pegawai WRS dalam bahasa ibunda.<br><br>புதுமையானதும் உயிர்ப்புள்ளதுமான    வகுப்பறைகளை உருவாக்குவதில் சிங்கப்பூர் வனவிலங்குக் காப்பகம் (Wildlife Reserves) பெருமை கொள்கிறது. தாய்மொழிகளைக் கற்றுக்கொள்ள உயிர்ப்புமிக்க வகுப்பறை அனுபவத்திற்கு இவர்களது காட்சிக்கூடத்தை நாடலாம். தாய்மொழி கற்றல் குறித்த வாழ்நாள் அனுபவத்தைப் பெறுவதற்கு இக்கூடத்திற்கு வருகை தாருங்கள். சிங்கப்பூரில் வாழும் விலங்குகளில் சிலவற்றைப்பற்றி  விலங்கு மாதிரிகளின் மூலம் கண்டறியலாம். தாய்மொழியைப் பயன்படுத்தி  இவர்களுடன் உரையாடலில் ஈடுபடுவதன் மூலம் இந்த  ‘சிங்கைவாழ் காட்டுவிலங்குகளுடன்’ எவ்வாறு இணைந்து வாழ்வது என்பதையும் அவற்றை எவ்வாறு  பாதுகாப்பது என்பதையும் அறிந்துகொள்ளலாம்.<br></span>
                         </div>
                     </div>
 

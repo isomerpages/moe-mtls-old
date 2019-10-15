@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: The Joy of Learning Chinese
-permalink: /left-nav-three/sub-page-B/1-sub-page-B_1/
-breadcrumb: Schools 1 
+title: MTL education in Pre-University
+permalink: /left-nav-three/sub-page-B/1-sub-page-B_7/
+breadcrumb: Schools 7 
 collection_name: left-nav-three
 ---
 
@@ -33,21 +33,11 @@ collection_name: left-nav-three
         
 <div id="PanelSess">
     <div class="col-md-12" style="padding-top: 40px;">
-        <b>
-            <span id="lblTitle_EL" style="font-weight: bold; font-size: 23px; letter-spacing: 2px; color: #525252">
-                The Joy of Learning Chinese</span></b>
-    </div>
-    <div class="col-md-12" style="padding-top: 10px;">
-        <span id="lblTitle_OL" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;">
-        趣味华文</span>
-    </div>
-    <div class="col-md-12" style="padding-top: 10px;">
-        <span id="tblFormat" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;"><b></b>
-            </span>
-    </div>
-    <div class="col-md-12" style="padding-top: 30px;">
+                    <span id="lblTitle_EL" style="font-weight: bold; font-size: 20px; letter-spacing: 2px; color: #525252">MTL education in Pre-University<br>高中母语课程<br>Pendidikan Bahasa Ibunda pada Peringkat Prauniversiti<br>பல்கலைக்கழகப் புகுமுகநிலையில் தாய்மொழிக்கல்வி</span>
+                </div>
+                <div class="col-md-12" style="padding-top: 30px;">
                     <b style="font-size: 17px; color: #525252; display: none;">SCHOOL / ORGANISATION</b><br />
-                    <span id="lblOrg_EL" style="font-weight: bold; font-size: 15px; letter-spacing: 1px; color: #7f7f7f">Pat's Schoolhouse Sembawang</span>
+                    <span id="lblOrg_EL" style="font-weight: bold; font-size: 15px; letter-spacing: 1px; color: #7f7f7f"></span>
                 </div>
     <div class="row divSPMain">
         <h2 style="text-decoration: underline; padding-left: 20px;">
@@ -58,11 +48,12 @@ collection_name: left-nav-three
     <div class="col-md-2">
     </div>
 <div class="divSPInfo col-md-10">
+
                         <div class="col-md-12">
-                            <span id="lblSynosis_EL">Through a series of fun and exploratory activities, students at Pat’s Schoolhouse Sembawang experience the fun of learning Chinese in their daily lives.  In order to extend the joy of learning of Chinese beyond school, the pre-school also seeks to establish a favourable home learning environment with parents through home-learning projects.<br><br>As part of the K2 children’s discovery theme on “The Little Red Dot”, teachers lead the K2s to explore Chinese culture, food, costumes and art via field trips.  In small group discussions, they design and create their very own menu and prepare a variety of Chinese food and cultural items for sale to their parents.  These fun activities help to develop students’ collaborative skills, and provide them with a platform to use Chinese in their daily lives.<br><br>After a term of exploring the discovery theme on "The Wonders of Water" through various fun water-related science experiments, teachers take the opportunity  to extend the learning to from home for both parents and children.  They are involved in a home-learning project to explore float and sink concept with common home items, as well as to discuss the uses of water and ways to save water. </span>
+                            <span id="lblSynosis_EL">The learning of MTL is a lifelong endeavour. The Pre-University MTL education continues to cater to students with different learning needs and aspirations in their MTLs.<br><br>In Pre-University, students can offer a variety of MTL subjects, e.g. H1 MTL, MTL ‘B’, H2 Mother Tongue Language and Literature, H2 China Studies in Chinese (H2 CSC) and H2 Translation (Chinese).<br><br>Beyond curriculum subjects, students can also enrol in MTL Special Programmes to participate in a wide range of enrichment activities such as camps, immersion programmes, internships and lectures. These include the respective Chinese/Malay/Tamil Language Elective Programme (LEP) and the Bicultural Studies Programme (BSP).<br><br>Parents are welcomed to visit the booth to find out more about the Pre-University MTL education.</span>
                         </div>
                         <div class="col-md-12" style="padding-top: 20px;">
-                            <span id="lblSynosis_OL">Pat’s Schoolhouse Sembawang 以生动有趣的方式，让幼儿充分体验学习华文的乐趣。此外，为了鼓励幼儿在日常生活中使用华语，学校也与家长携手营造有利于学习华语的环境。<br><br>教师根据“小红点”的主题，带领大班的幼儿探索华族文化，通过实地考察，让幼儿认识华族饮食文化、服饰文化和艺术等。教师布置不同的学习任务，让幼儿以小组的形式讨论、设计和制作菜单，准备丰富的食物，并设立摊位售卖食品。这些活动为幼儿提供了在供日常生活中使用华语的平台，让他们在探索中学习，并培养协作能力。<br><br>教师也邀请中班的幼儿和家长参加以“水”为主题的科学实验。通过家庭学习活动，家长和幼儿一起探讨水的沉与于浮的概念， 了解水的重要性。这些活动为家长和幼儿创造机会，让他们在家中也能用华语沟通。</span>
+                            <span id="lblSynosis_OL">母语学习是终身学习的一部分。在高中阶段，学生能够根据自己的学习需要和志向，选择适当的母语课程。<br><br>学生在初级学院或高级中学能够修读的华文相关科目包括：H1 华文、华文B、H2 华文与文学、H2 中国通识以及H2翻译。<br><br>除了以上学科，学生也能够加入华文语文特选课程或双文化课程，通过学习营、海外浸濡、实习计划、专题讲座等丰富多彩的深广活动，提升华文水平，以及深化对于华文文学或东西方文化的认识。<br><br>欢迎家长到“高中母语课程”的展台获取更多和高中母语科目及特别课程有关的信息。<br><br>Pembelajaran Bahasa Ibunda merupakan pembelajaran sepanjang hayat. Pendidikan Bahasa Ibunda pada peringkat prauniversiti bertujuan untuk terus memenuhi keperluan pembelajaran dan aspirasi pelajar yang pelbagai dalam bahasa ibunda mereka.<br><br>Pada peringkat prauniversiti, pelajar boleh mempelajari pelbagai subjek Bahasa Ibunda, contohnya, Bahasa Ibunda H1, Bahasa Ibunda ‘B’ dan  Bahasa dan Kesusasteraan dalam Bahasa Ibunda H2.<br><br>Selain subjek akademik, pelajar juga boleh menyertai Program Khas Bahasa Ibunda yang menawarkan pelbagai aktiviti pengayaan seperti perkhemahan, program penyerapan, pengalaman bekerja dan ceramah. Program yang ditawarkan termasuk Program Elektif Bahasa Melayu/Cina/Tamil (LEP) dan Program Pengajian Dwibudaya (Cina).<br><br>Ibu bapa dipersilakan untuk berkunjung ke reruai untuk mengetahui dengan lebih lanjut lagi tentang Pendidikan Bahasa Ibunda pada Peringkat Prauniversiti.<br><br>தாய்மொழி  கற்றல் என்பது   வாழ்நாள் கடப்பாடாகும்.  பல்கலைக்கழகப் புகுமுகநிலையில் தாய்மொழிக் கல்வியானது தொடர்ந்து மாணவர்களின் வேறுபட்ட தேவைகளையும் விருப்பங்களையும் அறிந்து அதற்கேற்ற வகையில் வழங்கப்படுகிறது.<br><br>பல்கலைக்கழகப் புகுமுகநிலையில் மாணவர்கள்  தமிழ்மொழிப் பாடங்களைப் பல நிலைகளில் தெரிவுசெய்து கற்கலாம். (எ.கா; தமிழ்மொழி உயர்தரம்1, தமிழ்மொழி ‘B’, உயர்தரம் 2 தமிழ்மொழி இலக்கியம்)<br><br>பாடக்கலைத்திட்டத்தைச் சார்ந்து வழங்கப்படும் பாடங்களுக்கு அப்பால் மாணவர்கள் தாய்மொழிச்  சிறப்புத் திட்டங்கள் வழியாகவும் பலதரப்பட்ட வளமூட்டும் நடவடிக்கைகள், மொழிமுகாம்கள், கற்றல் பயணங்கள் வேலை இணைப்புத் திட்டம், விரிவுரைகள் போன்றவற்றில் கலந்துகொண்டு பயன்பெறலாம். இவை தமிழ்மொழி விருப்பப்பாடத்திட்டத்தையும் உள்ளடக்கும்.<br><br>பல்கலைக்கழகப் புகுமுக நிலையில் வழங்கப்படும் தாய்மொழிக்கல்வி குறித்து மேலும் அறிந்துகொள்ளப் பெற்றோர்கள் எங்கள் கூடத்திற்கு வருகையளிக்கவும்.</span>
                         </div>
                     </div>
 

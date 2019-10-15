@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: The Joy of Learning Chinese
-permalink: /left-nav-three/sub-page-C/2-sub-page-C_1/
-breadcrumb: Community Partners 1 
+title: Seeding a Reading Culture
+permalink: /left-nav-three/sub-page-C/2-sub-page-C_13/
+breadcrumb: Community Partners 13 
 collection_name: left-nav-three
 ---
 
@@ -31,22 +31,12 @@ collection_name: left-nav-three
         </script>
         
 <div id="PanelSess">
-    <div class="col-md-12" style="padding-top: 40px;">
-        <b>
-            <span id="lblTitle_EL" style="font-weight: bold; font-size: 23px; letter-spacing: 2px; color: #525252">
-                The Joy of Learning Chinese</span></b>
-    </div>
-    <div class="col-md-12" style="padding-top: 10px;">
-        <span id="lblTitle_OL" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;">
-        趣味华文</span>
-    </div>
-    <div class="col-md-12" style="padding-top: 10px;">
-        <span id="tblFormat" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;"><b></b>
-            </span>
-    </div>
-    <div class="col-md-12" style="padding-top: 30px;">
+     <div class="col-md-12" style="padding-top: 40px;">
+                    <span id="lblTitle_EL" style="font-weight: bold; font-size: 20px; letter-spacing: 2px; color: #525252">Seeding a Reading Culture<br>播下阅读的种子，让孩子爱上阅读<br>Menyemai Budaya Membaca<br>வாசிப்புக் கலாசாரத்தை வளர்ப்போம்</span>
+                </div>
+                <div class="col-md-12" style="padding-top: 30px;">
                     <b style="font-size: 17px; color: #525252; display: none;">SCHOOL / ORGANISATION</b><br />
-                    <span id="lblOrg_EL" style="font-weight: bold; font-size: 15px; letter-spacing: 1px; color: #7f7f7f">Pat's Schoolhouse Sembawang</span>
+                    <span id="lblOrg_EL" style="font-weight: bold; font-size: 15px; letter-spacing: 1px; color: #7f7f7f">National Library Board<br>国家图书馆管理局</span>
                 </div>
     <div class="row divSPMain">
         <h2 style="text-decoration: underline; padding-left: 20px;">
@@ -57,11 +47,12 @@ collection_name: left-nav-three
     <div class="col-md-2">
     </div>
 <div class="divSPInfo col-md-10">
+
                         <div class="col-md-12">
-                            <span id="lblSynosis_EL">Through a series of fun and exploratory activities, students at Pat’s Schoolhouse Sembawang experience the fun of learning Chinese in their daily lives.  In order to extend the joy of learning of Chinese beyond school, the pre-school also seeks to establish a favourable home learning environment with parents through home-learning projects.<br><br>As part of the K2 children’s discovery theme on “The Little Red Dot”, teachers lead the K2s to explore Chinese culture, food, costumes and art via field trips.  In small group discussions, they design and create their very own menu and prepare a variety of Chinese food and cultural items for sale to their parents.  These fun activities help to develop students’ collaborative skills, and provide them with a platform to use Chinese in their daily lives.<br><br>After a term of exploring the discovery theme on "The Wonders of Water" through various fun water-related science experiments, teachers take the opportunity  to extend the learning to from home for both parents and children.  They are involved in a home-learning project to explore float and sink concept with common home items, as well as to discuss the uses of water and ways to save water. </span>
+                            <span id="lblSynosis_EL"><p>The National Library Board (NLB) promotes reading in Mother Tongue Languages through its interactive programmes, varied services and comprehensive Mother Tongue Language collection in the public libraries. The booth showcases the recent efforts by NLB to make reading and learning more fun and meaningful. Signature programmes include the MTL reading clubs for children, Raise-A-Reader workshops and resource guides for parents. Through these efforts, we hope that the love for reading in the Mother Tongue Languages will be sown.</p></span>
                         </div>
                         <div class="col-md-12" style="padding-top: 20px;">
-                            <span id="lblSynosis_OL">Pat’s Schoolhouse Sembawang 以生动有趣的方式，让幼儿充分体验学习华文的乐趣。此外，为了鼓励幼儿在日常生活中使用华语，学校也与家长携手营造有利于学习华语的环境。<br><br>教师根据“小红点”的主题，带领大班的幼儿探索华族文化，通过实地考察，让幼儿认识华族饮食文化、服饰文化和艺术等。教师布置不同的学习任务，让幼儿以小组的形式讨论、设计和制作菜单，准备丰富的食物，并设立摊位售卖食品。这些活动为幼儿提供了在供日常生活中使用华语的平台，让他们在探索中学习，并培养协作能力。<br><br>教师也邀请中班的幼儿和家长参加以“水”为主题的科学实验。通过家庭学习活动，家长和幼儿一起探讨水的沉与于浮的概念， 了解水的重要性。这些活动为家长和幼儿创造机会，让他们在家中也能用华语沟通。</span>
+                            <span id="lblSynosis_OL"><p>国家图书馆管理局致力于推广母语阅读，通过有趣的活动、多种服务和丰富的图书馆藏，培养儿童对母语阅读的热爱。图书馆展台将集中展示图书馆近年来在积极推广母语阅读和欢乐学习方面所取得的成果，如儿童读书会、家长讲座、亲子阅读工作坊以及启蒙阅读指南。图书馆局不遗余力地推广阅读，就是希望能在孩子的心里种下热爱母语阅读的种子。</p><p>Lembaga Perpustakaan Negara (NLB) menggalakkan amalan membaca bahan-bahan bahasa ibunda menerusi pelbagai program interaktif serta penyediaan koleksi bahan bacaan bahasa ibunda yang menyeluruh di perpustakaan-perpustakaan awam. Reruai ini mempamerkan pelbagai usaha terbaharu NLB untuk menjadikan kegiatan membaca dan pembelajaran bahasa ibunda lebih seronok dan bermakna.  Antara program-program unggul termasuk kelab-kelab membaca dalam bahasa ibunda untuk kanak-kanak, bengkel-bengkel Memupuk Minat Membaca dan panduan sumber-sumber untuk ibu bapa.  Menerusi pelbagai inisiatif ini, kami harap cinta terhadap amalan membaca bahan-bahan bahasa ibunda terus mekar dalam kalangan masyarakat kita.</p><p>தேசிய நூலக வாரியம் தாய்மொழியில் வாசிக்கும் பழக்கத்தை ஊக்குவிக்கப் பல்வேறு நிகழ்வுகளுக்கு ஏற்பாடு செய்திருக்கிறது.  இருவழித் தொடர்பை மையமாகக் கொண்ட நிகழ்ச்சிகள், பல தரப்பட்ட சேவைகள், பொது நூலகங்களிலுள்ள விரிவான நூல் தொகுப்புகள் ஆகியவற்றின்வழி  வாசிக்கும் பழக்கத்தை அது ஊக்குவித்து வருகிறது. வாசிப்பையும் கற்றலையும் மகிழ்வுமிக்கதாகவும்  அர்த்தமுள்ளதாகவும் அமைக்கத் தேசிய நூலக வாரியம் மேற்கொண்டு வரும்  முயற்சிகளை விளக்கும் வகையில் இக்காட்சிக்கூடம் அமைக்கப்பட்டுள்ளது. எங்களது முக்கிய நிகழ்ச்சிகளான சிறுவர்கள் வாசிப்பு மன்றங்கள், ‘வாசகர் ஒருவரை உருவாக்குங்கள்’ பட்டறைகள், குதூகலக் கதை நேரம் ஆகியவற்றின் புகைப்படங்களை இக்கூடத்தில் காணலாம். பெற்றோர்கள் நூல்வளக் கையேடுகளையும் பெற்றுக்கொள்ளலாம். இந்த முயற்சிகளின் வழியே  பிள்ளைகளிடம் தாய்மொழியில் வாசிப்பதில் நாட்டத்தை வளர்த்திடத் தேசிய நூலக வாரியம் முனைப்புக் காட்டுகிறது.</p></span>
                         </div>
                     </div>
 

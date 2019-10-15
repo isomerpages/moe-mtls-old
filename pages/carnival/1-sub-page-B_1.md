@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: The Joy of Learning Chinese
+title: Written Communications Come Alive with SLS!
 permalink: /left-nav-three/sub-page-B/1-sub-page-B_1/
 breadcrumb: Schools 1 
 collection_name: left-nav-three
@@ -33,22 +33,13 @@ collection_name: left-nav-three
         
 
 <div id="PanelSess">
-    <div class="col-md-12" style="padding-top: 40px;">
-        <b>
-            <span id="lblTitle_EL" style="font-weight: bold; font-size: 23px; letter-spacing: 2px; color: #525252">
-                The Joy of Learning Chinese</span></b>
-    </div>
-    <div class="col-md-12" style="padding-top: 10px;">
-        <span id="lblTitle_OL" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;">
-        趣味华文</span>
-    </div>
-    <div class="col-md-12" style="padding-top: 10px;">
-        <span id="tblFormat" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;"><b></b>
-            </span>
-    </div>
-    <div class="col-md-12" style="padding-top: 30px;">
+   <div class="col-md-12" style="padding-top: 40px;">
+                    <span id="lblTitle_EL" style="font-weight: bold; font-size: 20px; letter-spacing: 2px; color: #525252">Written Communications Come Alive with SLS!<br/>
+通过“新加坡学生学习平台” 让书面互动活起来！</span>
+                </div>
+                <div class="col-md-12" style="padding-top: 30px;">
                     <b style="font-size: 17px; color: #525252; display: none;">SCHOOL / ORGANISATION</b><br />
-                    <span id="lblOrg_EL" style="font-weight: bold; font-size: 15px; letter-spacing: 1px; color: #7f7f7f">Pat's Schoolhouse Sembawang</span>
+                    <span id="lblOrg_EL" style="font-weight: bold; font-size: 15px; letter-spacing: 1px; color: #7f7f7f">Rosyth School<br>乐赛学校</span>
                 </div>
     <div class="row divSPMain">
         <h2 style="text-decoration: underline; padding-left: 20px;">
@@ -59,11 +50,12 @@ collection_name: left-nav-three
     <div class="col-md-2">
     </div>
 <div class="divSPInfo col-md-10">
+
                         <div class="col-md-12">
-                            <span id="lblSynosis_EL">Through a series of fun and exploratory activities, students at Pat’s Schoolhouse Sembawang experience the fun of learning Chinese in their daily lives.  In order to extend the joy of learning of Chinese beyond school, the pre-school also seeks to establish a favourable home learning environment with parents through home-learning projects.<br><br>As part of the K2 children’s discovery theme on “The Little Red Dot”, teachers lead the K2s to explore Chinese culture, food, costumes and art via field trips.  In small group discussions, they design and create their very own menu and prepare a variety of Chinese food and cultural items for sale to their parents.  These fun activities help to develop students’ collaborative skills, and provide them with a platform to use Chinese in their daily lives.<br><br>After a term of exploring the discovery theme on "The Wonders of Water" through various fun water-related science experiments, teachers take the opportunity  to extend the learning to from home for both parents and children.  They are involved in a home-learning project to explore float and sink concept with common home items, as well as to discuss the uses of water and ways to save water. </span>
+                            <span id="lblSynosis_EL">The Student Learning Space (SLS) supports self-directed learning as well as provides opportunities for students to learn from their peers. This develops students’ ability to express themselves and build confidence in using Chinese with their classmates. To promote the joy of learning, Rosyth School designs lessons in the SLS for Primary 3 to 5 students that encourage the use of Chinese in authentic settings. Lessons are designed so that students can retrieve information from authentic texts such as advertisements, and then apply what they have learnt during their daily interaction with others.<br><br>Using a “Flipped Lesson Approach”, students first view videos produced by teachers in the SLS. Music and rap are incorporated into the videos to strengthen students’ understanding. Students’ learning is then further reinforced through other teacher-designed activities on the SLS such as discussion boards and quizzes. Students also use rubrics for self-assessment and peer feedback. Lastly, students apply what they have learnt by completing assignments such as crafting an email or note. These lessons enable students to experience the use of Chinese as a communication tool in a way that is relevant to their daily lives.</span>
                         </div>
                         <div class="col-md-12" style="padding-top: 20px;">
-                            <span id="lblSynosis_OL">Pat’s Schoolhouse Sembawang 以生动有趣的方式，让幼儿充分体验学习华文的乐趣。此外，为了鼓励幼儿在日常生活中使用华语，学校也与家长携手营造有利于学习华语的环境。<br><br>教师根据“小红点”的主题，带领大班的幼儿探索华族文化，通过实地考察，让幼儿认识华族饮食文化、服饰文化和艺术等。教师布置不同的学习任务，让幼儿以小组的形式讨论、设计和制作菜单，准备丰富的食物，并设立摊位售卖食品。这些活动为幼儿提供了在供日常生活中使用华语的平台，让他们在探索中学习，并培养协作能力。<br><br>教师也邀请中班的幼儿和家长参加以“水”为主题的科学实验。通过家庭学习活动，家长和幼儿一起探讨水的沉与于浮的概念， 了解水的重要性。这些活动为家长和幼儿创造机会，让他们在家中也能用华语沟通。</span>
+                            <span id="lblSynosis_OL">乐赛学校利用“新加坡学生学习平台”(SLS)，并配合“先说、后写、再查”的教学步骤设计活动，让小三至小五的学生在充满乐趣的氛围下学习如何从真实语料（如 ：广告）中摘取信息，激励学生与他人交流、沟通，把课堂所学运用到生活中，以进一步巩固、学习和体会语言的实用价值。<br><br>教师结合“翻转教学”，先让学生通过平台看录像自学。录像融入了音乐和浅白的说唱，加强学生的理解。接着，学生在平台内进行讨论和游戏等活动巩固所学。他们用核查清单写作、并给予同学修改建议。最后，学生以电邮或便条的形式呈交作品，体验用华文交流的实用性。</span>
                         </div>
                     </div>
 

@@ -86,13 +86,13 @@ width:25%
 	    <a href="0-sub-page-A_1.html"  class="btnInfo">More info</a>
     </td>
     <td> 
-		<a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=PS2C"  class="btnInfo">More info</a>
+		<a href="0-sub-page-A_2.html"  class="btnInfo">More info</a>
     </td>
     <td>
-	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=PS3C"  class="btnInfo">More info</a>
+	    <a href="0-sub-page-A_3.html"  class="btnInfo">More info</a>
     </td>
     <td>
-   	    <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=PS4C"  class="btnInfo">More info</a>
+   	    <a href="0-sub-page-A_4.html"  class="btnInfo">More info</a>
     </td>
   </tr>
   <tr>

@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: The Joy of Learning Chinese
-permalink: /left-nav-three/sub-page-B/1-sub-page-B_1/
-breadcrumb: Schools 1 
+title: Active Learning, Joyful Learners through the use of ICT Platforms
+permalink: /left-nav-three/sub-page-B/1-sub-page-B_8/
+breadcrumb: Schools 8
 collection_name: left-nav-three
 ---
 
@@ -32,23 +32,14 @@ collection_name: left-nav-three
         </script>
         
 <div id="PanelSess">
-    <div class="col-md-12" style="padding-top: 40px;">
-        <b>
-            <span id="lblTitle_EL" style="font-weight: bold; font-size: 23px; letter-spacing: 2px; color: #525252">
-                The Joy of Learning Chinese</span></b>
-    </div>
-    <div class="col-md-12" style="padding-top: 10px;">
-        <span id="lblTitle_OL" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;">
-        趣味华文</span>
-    </div>
-    <div class="col-md-12" style="padding-top: 10px;">
-        <span id="tblFormat" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;"><b></b>
-            </span>
-    </div>
-    <div class="col-md-12" style="padding-top: 30px;">
-                    <b style="font-size: 17px; color: #525252; display: none;">SCHOOL / ORGANISATION</b><br />
-                    <span id="lblOrg_EL" style="font-weight: bold; font-size: 15px; letter-spacing: 1px; color: #7f7f7f">Pat's Schoolhouse Sembawang</span>
+     <div class="col-md-12" style="padding-top: 40px;">
+                    <span id="lblTitle_EL" style="font-weight: bold; font-size: 20px; letter-spacing: 2px; color: #525252">Active Learning, Joyful Learners through the use of ICT Platforms<br>乐学善用平台的使用<br>Pelajar Ceria, Pembelajaran Aktif melalui Penggunaan Platform ICT<br>தொழில்நுட்பத் தளங்களின்வழித் துடிப்பான கற்றலில் மகிழ்வுடன் ஈடுபடுபவர்கள்”</span>
                 </div>
+                <div class="col-md-12" style="padding-top: 30px;">
+                    <b style="font-size: 17px; color: #525252; display: none;">SCHOOL / ORGANISATION</b><br />
+                    <span id="lblOrg_EL" style="font-weight: bold; font-size: 15px; letter-spacing: 1px; color: #7f7f7f">Princess Elizabeth Primary School</span>
+                </div>
+
     <div class="row divSPMain">
         <h2 style="text-decoration: underline; padding-left: 20px;">
             <img src="/images/sessions/HderSynopsis.png" style="height: 60px;width:199px;" /></h2>
@@ -57,12 +48,13 @@ collection_name: left-nav-three
     </div>
     <div class="col-md-2">
     </div>
-<div class="divSPInfo col-md-10">
+ <div class="divSPInfo col-md-10">
+
                         <div class="col-md-12">
-                            <span id="lblSynosis_EL">Through a series of fun and exploratory activities, students at Pat’s Schoolhouse Sembawang experience the fun of learning Chinese in their daily lives.  In order to extend the joy of learning of Chinese beyond school, the pre-school also seeks to establish a favourable home learning environment with parents through home-learning projects.<br><br>As part of the K2 children’s discovery theme on “The Little Red Dot”, teachers lead the K2s to explore Chinese culture, food, costumes and art via field trips.  In small group discussions, they design and create their very own menu and prepare a variety of Chinese food and cultural items for sale to their parents.  These fun activities help to develop students’ collaborative skills, and provide them with a platform to use Chinese in their daily lives.<br><br>After a term of exploring the discovery theme on "The Wonders of Water" through various fun water-related science experiments, teachers take the opportunity  to extend the learning to from home for both parents and children.  They are involved in a home-learning project to explore float and sink concept with common home items, as well as to discuss the uses of water and ways to save water. </span>
+                            <span id="lblSynosis_EL">At Princess Elizabeth Primary School, students are given opportunities to experience the joy of learning in Mother Tongue Languages through the use of ICT platforms such as the Student Learning Space(SLS) and iMTL portal.<br><br>Leveraging on the Student Learning Space (SLS), “Making Thinking Visible” thinking routines are integrated into lesson packages that teaches students to observe, discuss, reflect and provide feedback on contemporary issues through the use of news video-clips. Learning is authentic and interactive. To develop students’ competency to read fluently and expressively, teachers also make use of the “Reading Aloud” and “Audio response” features in iMTL portal. Students create their own recordings and playback to capture their own performance. Students also support one another’s learning by providing feedback and encouragement to their peers.<br><br>These ICT experiences effectively promote both self-directed and collaborative learning among students. Students develop proficiency and gain confidence in using Mother Tongue Languages in daily interactions.</span>
                         </div>
                         <div class="col-md-12" style="padding-top: 20px;">
-                            <span id="lblSynosis_OL">Pat’s Schoolhouse Sembawang 以生动有趣的方式，让幼儿充分体验学习华文的乐趣。此外，为了鼓励幼儿在日常生活中使用华语，学校也与家长携手营造有利于学习华语的环境。<br><br>教师根据“小红点”的主题，带领大班的幼儿探索华族文化，通过实地考察，让幼儿认识华族饮食文化、服饰文化和艺术等。教师布置不同的学习任务，让幼儿以小组的形式讨论、设计和制作菜单，准备丰富的食物，并设立摊位售卖食品。这些活动为幼儿提供了在供日常生活中使用华语的平台，让他们在探索中学习，并培养协作能力。<br><br>教师也邀请中班的幼儿和家长参加以“水”为主题的科学实验。通过家庭学习活动，家长和幼儿一起探讨水的沉与于浮的概念， 了解水的重要性。这些活动为家长和幼儿创造机会，让他们在家中也能用华语沟通。</span>
+                            <span id="lblSynosis_OL">在伊丽沙白公主小学，学生有机会通过“学生学习空间”（SLS）和“乐学善用平台“（iMTL）等网上平台体验学习的快乐。<br><br>教师利用 SLS 将思维可视化(MTV)教学融入到学习配套中，让学生观察新闻短片后进行讨论、反思并提供反馈。如此一来，学习不仅贴近生活，也更具互动性。教师也利用了iMTL平台中的 “朗读” 与 “录音作答” 功能来激发学生朗读文章的兴趣。学生在录音后，小伙伴们可通过反馈给予鼓励。<br><br>这些学习经验不仅有效地促进了学生的自主学习和协作学习，也培养了学生的自信心<br><br>Di Sekolah Rendah Princess Elizabeth, murid-murid berpeluang untuk mengalami keseronokan dalam pembelajaran melalui penggunaan platform ICT seperti Ruang Belajar Pelajar (SLS) dan portal iMTL.<br><br>Dengan memanfaatkan SLS, rutin berfikir ‘Menjadikan Pemikiran Jelas’ (MTV) telah diintegrasikan dalam pakej pengajaran yang menggalakkan murid untuk menonton, berbincang, membuat refleksi dan memberi maklum balas mengenai isu kontemporari melalui penggunaan klip video. Pembelajaran dibuat secara interaktif dan autentik. Bagi membina kecekapan murid untuk membaca dengan lancar dan ekspresif, guru juga menggunakan ciri ‘Bacaan Lantang’ dan ‘Respons Audio’ yang terdapat dalam portal iMTL. Murid merakamkan bacaan mereka sendiri dan dapat mendengar bacaan itu semula untuk mengenal pasti kekuatan dan kelemahan bacaan masing-masing. Selepas mendengar rakaman rakan-rakan, murid juga dapat memberi galakan kepada rakan-rakan dengan memberi maklum balas dan kata-kata perangsang.<br><br>Pengalaman menggunakan ICT ini dapat menggalakkan pembelajaran kendiri dan pembelajaran kolaboratif dalam kalangan murid. Pada masa yang sama, murid juga dapat meningkatkan kemahiran dan memperoleh keyakinan dalam menggunakan bahasa Ibunda sebagai sebahagian daripada interaksi harian mereka.<br><br>பிரின்ஸஸ் எலிஸபெத் தொடக்கப்பள்ளி,  மாணவர் கற்றல் தளத்தையும் (SLS) இருவழித்தொடர்புத் தளத்தையும்(iMTL) பயன்படுத்துவதன்வழி மாணவர்களுக்கு மகிழ்வூட்டும் கற்றல்   வாய்ப்புகளை ஏற்படுத்தித் தருகிறது.<br><br>மாணவர் கற்றல் தளத்தில் ‘சிந்தனையைக் காட்சிப்படுத்துதல்’ (‘Making Thinking Visible’) என்னும் உத்திமுறையின் சிந்தனை வழமைகளால்   ஒருங்கிணைக்கப்பட்ட பாடத்தொகுப்புகள்  பதிவேற்றம் செய்யப்படுகின்றன. அவற்றை மாணவர்கள் கூர்ந்து கவனிக்கவும், கலந்துரையாடவும், சிந்தனைப் பிரதிபலிப்பில்   ஈடுபடவும் இத்தளம்  வழிவகுக்கிறது. இதனால் இருவழித்தொடர்பை ஊக்குவிக்கும் வகையில் கற்றல் சூழல் அமையப் பெறுகிறது.<br><br>மாணவர்கள் சரளமாகவும் உணர்ச்சியுடனும் வாசிப்பதை ஊக்குவிக்க இருவழித் தொடர்புத்தளத்தில் உள்ள ‘வாய்விட்டு வாசித்தல்’ (Reading Aloud), ‘ஒலிப்பதிவுக்கான பதில் குறிப்பு ’ (Audio Response) முதலிய கூறுகள் பயன்படுத்தப்படுகின்றன. மாணவர்கள் தங்கள் வாசிப்பை ஒலிப்பதிவு செய்வர். பின் அதைக் கேட்டுத் தங்கள் வாசிப்பைப்பற்றிச் சிந்தனைப் பிரதிபலிப்பில் ஈடுபடுகிறார்கள்.   மேலும் சக மாணவர்களின் பதிவைக் கேட்டுக் கருத்துப்பரிமாற்றத்தில் ஈடுபட்டு ஒருவருக்கொருவர் ஆதரவு அளிக்கின்றனர்.<br><br>இவ்வாறு தகவல் தொழில்நுட்பத்தின்வழிப் பெறும் அனுபவங்கள் சுய கற்றலையும் கூடிக்கற்றலையும் மாணவர்களிடையே வலுப்படுத்துகின்றன. இவற்றின் மூலம் மாணவர்கள் தங்கள் அன்றாட கருத்துப்பரிமாற்றத்திற்குத் தேவையான மொழித்திறனையும் தன்னம்பிக்கையையும்  பெறுகிறார்கள்.</span>
                         </div>
                     </div>
 

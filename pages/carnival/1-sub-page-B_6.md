@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: The Joy of Learning Chinese
-permalink: /left-nav-three/sub-page-B/1-sub-page-B_1/
-breadcrumb: Schools 1 
+title: Enthuse, Excite, Engage: Nurturing Confident Writers
+permalink: /left-nav-three/sub-page-B/1-sub-page-B_6/
+breadcrumb: Schools 6 
 collection_name: left-nav-three
 ---
 
@@ -32,22 +32,12 @@ collection_name: left-nav-three
         </script>
         
 <div id="PanelSess">
-    <div class="col-md-12" style="padding-top: 40px;">
-        <b>
-            <span id="lblTitle_EL" style="font-weight: bold; font-size: 23px; letter-spacing: 2px; color: #525252">
-                The Joy of Learning Chinese</span></b>
-    </div>
-    <div class="col-md-12" style="padding-top: 10px;">
-        <span id="lblTitle_OL" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;">
-        趣味华文</span>
-    </div>
-    <div class="col-md-12" style="padding-top: 10px;">
-        <span id="tblFormat" style="font-weight: bold; font-size: 20px; letter-spacing: 1px;"><b></b>
-            </span>
-    </div>
-    <div class="col-md-12" style="padding-top: 30px;">
+   <div class="col-md-12" style="padding-top: 40px;">
+                    <span id="lblTitle_EL" style="font-weight: bold; font-size: 20px; letter-spacing: 2px; color: #525252">Enthuse, Excite, Engage: Nurturing Confident Writers<br>“悦写”越自信</span>
+                </div>
+                <div class="col-md-12" style="padding-top: 30px;">
                     <b style="font-size: 17px; color: #525252; display: none;">SCHOOL / ORGANISATION</b><br />
-                    <span id="lblOrg_EL" style="font-weight: bold; font-size: 15px; letter-spacing: 1px; color: #7f7f7f">Pat's Schoolhouse Sembawang</span>
+                    <span id="lblOrg_EL" style="font-weight: bold; font-size: 15px; letter-spacing: 1px; color: #7f7f7f">Evergreen Secondary School<br>永青中学</span>
                 </div>
     <div class="row divSPMain">
         <h2 style="text-decoration: underline; padding-left: 20px;">
@@ -58,11 +48,12 @@ collection_name: left-nav-three
     <div class="col-md-2">
     </div>
 <div class="divSPInfo col-md-10">
+
                         <div class="col-md-12">
-                            <span id="lblSynosis_EL">Through a series of fun and exploratory activities, students at Pat’s Schoolhouse Sembawang experience the fun of learning Chinese in their daily lives.  In order to extend the joy of learning of Chinese beyond school, the pre-school also seeks to establish a favourable home learning environment with parents through home-learning projects.<br><br>As part of the K2 children’s discovery theme on “The Little Red Dot”, teachers lead the K2s to explore Chinese culture, food, costumes and art via field trips.  In small group discussions, they design and create their very own menu and prepare a variety of Chinese food and cultural items for sale to their parents.  These fun activities help to develop students’ collaborative skills, and provide them with a platform to use Chinese in their daily lives.<br><br>After a term of exploring the discovery theme on "The Wonders of Water" through various fun water-related science experiments, teachers take the opportunity  to extend the learning to from home for both parents and children.  They are involved in a home-learning project to explore float and sink concept with common home items, as well as to discuss the uses of water and ways to save water. </span>
+                            <span id="lblSynosis_EL">Writing well is a valuable skill with tremendous positive impact upon the learning of the Chinese Language. To allow students to master this skill, Evergreen Secondary School CL teachers has created a comprehensive framework to help scaffold this learning process. It is known as the “Yummy Compo(sition) Menu”, and comes in three sections; namely, Appetizer, Main Course and Dessert. Each section encompasses one domain of composition writing. In each domain, the different skills for writing are distilled into individual, actionable items.<br><br>The Menu allows teachers to differentiate and customize the skills required for each student and thus level up their writing skills.competencies. This learning experience allows students to become more confident in the use of the Chinese Language.</span>
                         </div>
                         <div class="col-md-12" style="padding-top: 20px;">
-                            <span id="lblSynosis_OL">Pat’s Schoolhouse Sembawang 以生动有趣的方式，让幼儿充分体验学习华文的乐趣。此外，为了鼓励幼儿在日常生活中使用华语，学校也与家长携手营造有利于学习华语的环境。<br><br>教师根据“小红点”的主题，带领大班的幼儿探索华族文化，通过实地考察，让幼儿认识华族饮食文化、服饰文化和艺术等。教师布置不同的学习任务，让幼儿以小组的形式讨论、设计和制作菜单，准备丰富的食物，并设立摊位售卖食品。这些活动为幼儿提供了在供日常生活中使用华语的平台，让他们在探索中学习，并培养协作能力。<br><br>教师也邀请中班的幼儿和家长参加以“水”为主题的科学实验。通过家庭学习活动，家长和幼儿一起探讨水的沉与于浮的概念， 了解水的重要性。这些活动为家长和幼儿创造机会，让他们在家中也能用华语沟通。</span>
+                            <span id="lblSynosis_OL">永青中学为了让学生“悦写”越精彩，设计了一套全面性的写作指导框架“美味作文”，让学生按照自己的喜好与能力，炒一道“美味作文”。教师在每一次的作文课时反复使用这套“菜单”，提醒学生在作文中增加好词、描写细致的句子、精心策划故事及减少啰嗦和错误的表达、枯燥乏味的陈述和毫无新意的布局谋篇。<br><br>“美味作文”除了使用差异教学中的菜单策略，同时也运用了分层教学的方法，为不同程度的学生提供更为细致的自检参考练习，使每位学生都能从中受益。同时，永青中学也为学生营造轻松、自主的课室环境，以学生的自省、互助为主，老师指导为辅，将主动权还给学生，以期最佳的学习效果。</span>
                         </div>
                     </div>
 
