@@ -84,16 +84,16 @@ collection_name: left-nav-three
     </tr>
     <tr>
         <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S1C" class="btnInfo">More info</a>
+            <a href="1-sub-page-B_1.html" class="btnInfo">More info</a>
         </td>
         <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S2C" class="btnInfo">More info</a>
+            <a href="1-sub-page-B_2.html" class="btnInfo">More info</a>
         </td>
         <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S3C" class="btnInfo">More info</a>
+            <a href="1-sub-page-B_3.html" class="btnInfo">More info</a>
         </td>
         <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S4C" class="btnInfo">More info</a>
+            <a href="1-sub-page-B_4.html" class="btnInfo">More info</a>
         </td>
     </tr>
     <tr>
@@ -130,16 +130,16 @@ collection_name: left-nav-three
     </tr>
     <tr>
         <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S5C" class="btnInfo">More info</a>
+            <a href="1-sub-page-B_5.html" class="btnInfo">More info</a>
         </td>
         <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S12C" class="btnInfo">More info</a>
+            <a href="1-sub-page-B_6.html" class="btnInfo">More info</a>
         </td>
         <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S15C" class="btnInfo">More info</a>
+            <a href="1-sub-page-B_7.html" class="btnInfo">More info</a>
         </td>
         <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S17C" class="btnInfo">More info</a>
+            <a href="1-sub-page-B_8.html" class="btnInfo">More info</a>
         </td>
     </tr>
     <tr>
@@ -176,16 +176,16 @@ collection_name: left-nav-three
     </tr>
     <tr>
         <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S6M" class="btnInfo">More info</a>
+            <a href="1-sub-page-B_9.html" class="btnInfo">More info</a>
         </td>
         <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S7M" class="btnInfo">More info</a>
+            <a href="1-sub-page-B_10.html" class="btnInfo">More info</a>
         </td>
         <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S8M" class="btnInfo">More info</a>
+            <a href="1-sub-page-B_11.html" class="btnInfo">More info</a>
         </td>
         <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S13M" class="btnInfo">More info</a>
+            <a href="1-sub-page-B_12.html" class="btnInfo">More info</a>
         </td>
     </tr>
     <tr>
@@ -220,16 +220,16 @@ collection_name: left-nav-three
     </tr>
     <tr>
         <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S16M" class="btnInfo">More info</a>
+            <a href="1-sub-page-B_13.html" class="btnInfo">More info</a>
         </td>
         <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S9T" class="btnInfo">More info</a>
+            <a href="1-sub-page-B_14.html" class="btnInfo">More info</a>
         </td>
         <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S10T" class="btnInfo">More info</a>
+            <a href="1-sub-page-B_15.html" class="btnInfo">More info</a>
         </td>
         <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S11T" class="btnInfo">More info</a>
+            <a href="1-sub-page-B_16.html" class="btnInfo">More info</a>
         </td>
     </tr>
     <tr>
@@ -246,7 +246,7 @@ collection_name: left-nav-three
     </tr>
     <tr>
         <td>
-            <a href="https://event-reg.biz/Registration/MTLSSynopsis?Session=S14T" class="btnInfo">More info</a>
+            <a href="1-sub-page-B_17.html" class="btnInfo">More info</a>
         </td>
     </tr>
 </table>
