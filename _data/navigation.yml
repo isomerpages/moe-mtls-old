@@ -11,43 +11,34 @@
   url: /sharesessions/
   sub-links:
   - title: English
-    url: /sharesessions/English/
+ 
   - title: Chinese
-    url: /sharesessions/Chinese/
+ 
   - title: Malay
-    url: /sharesessions/Malay/
+  
   - title: Tamil
-    url: /sharesessions/Tamil/
-    
+  
 - title: Award
-  url: /awards/
+ 
 
 - title: Discovery Land
-  url: /discovery-land/
+  
 
-- title: Carnival
-  url: /left-nav-three/sub-page-C/
+- title: Carnival 
   sub-links:
   - title: Pre-schools
-    url: /left-nav-three/sub-page-A/
-  - title: Schools
-    url: /left-nav-three/sub-page-B/
-  - title: Community Partners
-    url: /left-nav-three/sub-page-C/
+     
+  - title: Schools 
+  - title: Community Partners 
 
 
   
-- title: Garden Ensemble
-  url: /GardenEnsemble/Chinese/
+- title: Garden Ensemble 
   sub-links:
-  - title: Chinese Performances
-    url: /GardenEnsemble/Chinese/
-  - title: Malay Performances
-    url: /GardenEnsemble/Malay/
-  - title: Tamil Performances
-    url: /GardenEnsemble/Tamil/
+  - title: Chinese Performances 
+  - title: Malay Performances 
+  - title: Tamil Performances 
 
-- title: REGISTER NOW (CLOSED)
-  url: https://www.mtls.sg/
+- title: REGISTER NOW (CLOSED) 
  
 
