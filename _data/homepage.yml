@@ -23,16 +23,6 @@ hero-banner: /MTLS_UnderConstruction.jpg
 #Google Analytics
 google-analytics: UA-124401955-1
 
-key-highlights:
-
-  - title: Register your Interest
-    description: 
- 
-    external: true
-  - title: Register for Sharing Sessions
-    description: 
- 
-    external: true
     
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
