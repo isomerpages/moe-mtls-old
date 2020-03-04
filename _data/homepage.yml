@@ -23,14 +23,7 @@ hero-banner: /MTLS_UnderConstruction.jpg
 #Google Analytics
 google-analytics: UA-124401955-1
 
-key-highlights:
-
-  - title: Register your Interestq
-    description: 
- 
-    external: true
-  - title: Register for Sharing Sessionsq
-    description:     
+     
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
 careers-title:  
