@@ -12,7 +12,7 @@ agency-logo: /images/Title FA-01.png
 
 # Hero Banner 
 fontsize: 200pt
-hero-banner: /MTLS_UnderConstruction.jpg
+hero-banner: /images/MTLS_UnderConstruction.jpg
 
 #Call to Action Button
 #button:
@@ -23,8 +23,17 @@ hero-banner: /MTLS_UnderConstruction.jpg
 #Google Analytics
 google-analytics: UA-124401955-1
 
+key-highlights:
 
-     
+  - title: Register your Interest
+    description: 
+    url: https://event-reg.biz/Registration/eventReg.aspx?Event=RegisterYourInterest
+    external: true
+  - title: Register for Sharing Sessions
+    description: 
+    url: https://event-reg.biz/Registration/eventReg.aspx?Event=RegisterSharingSessions
+    external: true
+    
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
 careers-title:  
