@@ -26,7 +26,7 @@ paginate: 12
 # Homepage sections
 homepage_hero_i_want_to: false
 homepage_resources: false
-homepage_careers: true
+homepage_careers: false
 
 # Feedback Form URL
 feedback_form_url: "https://form.gov.sg/5d2d8ef9690755001137db53"
