@@ -25,12 +25,4 @@ google-analytics: UA-124401955-1
 
 key-highlights:
 
-  - title: _
-    description: 
-    url: https://event-reg.biz/Registration/eventReg.aspx?Event=RegisterYourInterest
-    external: true
-  - title: _ 
-    description: 
-    url: https://event-reg.biz/Registration/eventReg.aspx?Event=RegisterSharingSessions
-    external: true
- 
+
