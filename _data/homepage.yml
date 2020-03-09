@@ -25,18 +25,12 @@ google-analytics: UA-124401955-1
 
 key-highlights:
 
-  - title: Register your Interest now
+  - title: _
     description: 
     url: https://event-reg.biz/Registration/eventReg.aspx?Event=RegisterYourInterest
     external: true
-  - title: Register for Sharing Sessions
+  - title: _ 
     description: 
     url: https://event-reg.biz/Registration/eventReg.aspx?Event=RegisterSharingSessions
     external: true
-    
-# Careers Section
-# To edit the careers details, go to careers-stories.yml
-careers-title:  
-careers-subtitle: SHARING SESSIONS
-careers-description: 
-careers-more-button: More
+ 
