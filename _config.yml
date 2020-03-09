@@ -1,3 +1,8 @@
+title: Mother Tongue Languages Symposium 2019
+title-abbreviated: the MTLS Team
+description: >- # this means to ignore newlines until "baseurl:"
+  Description
+url: "https://www.mtls.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
@@ -16,13 +21,19 @@ breadcrumbs:
     image: false # Show image or title text
 
 # Resource Room and Pagination
-paginate: 12 
+paginate: 12
 
 # Homepage sections
 homepage_hero_i_want_to: false
 homepage_resources: false
-homepage_careers: false
+homepage_careers: true
 
+# Feedback Form URL
+feedback_form_url: "https://form.gov.sg/5d2d8ef9690755001137db53"
+
+# FAQ URL
+faq_url: "/faq/"
+faq_url_external: false
 
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
