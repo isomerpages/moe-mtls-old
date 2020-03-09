@@ -4,50 +4,5 @@
 #                                #
 ##################################
 
-- title: About Us
-  url: /about-us/
-  
-- title: Sharing Sessions
-  url: /sharesessions/
-  sub-links:
-  - title: English
-    url: /sharesessions/English/
-  - title: Chinese
-    url: /sharesessions/Chinese/
-  - title: Malay
-    url: /sharesessions/Malay/
-  - title: Tamil
-    url: /sharesessions/Tamil/
-    
-- title: Award
-  url: /awards/
-
-- title: Discovery Land
-  url: /discovery-land/
-
-- title: Carnival
-  url: /left-nav-three/sub-page-C/
-  sub-links:
-  - title: Pre-schools
-    url: /left-nav-three/sub-page-A/
-  - title: Schools
-    url: /left-nav-three/sub-page-B/
-  - title: Community Partners
-    url: /left-nav-three/sub-page-C/
-
-
-  
-- title: Garden Ensemble
-  url: /GardenEnsemble/Chinese/
-  sub-links:
-  - title: Chinese Performances
-    url: /GardenEnsemble/Chinese/
-  - title: Malay Performances
-    url: /GardenEnsemble/Malay/
-  - title: Tamil Performances
-    url: /GardenEnsemble/Tamil/
-
-- title: <span style="color:#ff69b4">Register Now</span>
-  url: https://event-reg.biz/Registration/eventReg.aspx?Event=RegisterSharingSessions
-  external: true
+ 
 
