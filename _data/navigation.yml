@@ -1,3 +1,14 @@
 
 logo: '/images/Title FA-01.png'
-links: []
+links: 
+- title: Sharing Sessions
+  url: /sharesessions/
+  sub-links:
+  - title: English
+    url: /sharesessions/English/
+  - title: Chinese
+    url: /sharesessions/Chinese/
+  - title: Malay
+    url: /sharesessions/Malay/
+  - title: Tamil
+    url: /sharesessions/Tamil/
