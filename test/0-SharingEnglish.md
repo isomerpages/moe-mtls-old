@@ -13,11 +13,8 @@ breadcrumb: 'English Sessions'
   <tr>
     <td>
       <iframe width="380" height="315" src="https://www.youtube.com/embed/GlJU3U2eDwA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </td>
-   </tr>
-   <tr>
-    <td>
+      <br/><br/>
       <a href="test/TestingPDFDownload.pdf" download>PDF Downloads</a>
     </td>
-  </tr>
+   </tr>
 </table>
