@@ -4,7 +4,7 @@ permalink: /sharesessions/English/
 breadcrumb: 'English Sessions'
 
 ---
-<table>
+<table border="0">
   <tr>
     <td rowspan="3">
       <img src="images/website-exhibitor-template-01-02.jpg">
