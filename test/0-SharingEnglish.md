@@ -1,6 +1,6 @@
 ---
 title: 'English Sessions'
-permalink: /sharesessions/English/
+permalink: /test/
 breadcrumb: 'English Sessions'
 
 ---
@@ -14,7 +14,7 @@ breadcrumb: 'English Sessions'
     <td>
       <iframe width="380" height="315" src="https://www.youtube.com/embed/GlJU3U2eDwA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <br/><br/>
-      <a href="test/TestingPDFDownload.pdf" download>PDF Downloads</a>
+      <a href="TestingPDFDownload.pdf" download>PDF Downloads</a>
     </td>
    </tr>
 </table>
