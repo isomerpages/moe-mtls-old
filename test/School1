@@ -1,1 +1,16 @@
 
+---
+layout: leftnav-page-content
+title: School1
+permalink: /test/School1/
+breadcrumb: School1
+collection_name: School1
+
+---
+
+<div>
+Testing school1 page.
+</div>
+  
+    
+</section>
