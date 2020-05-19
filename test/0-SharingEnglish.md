@@ -17,7 +17,7 @@ breadcrumb: 'English Sessions'
    </tr>
    <tr>
     <td>
-      [PDF Downloads](test/TestingPDFDownload.pdf)
+      <a href="test/TestingPDFDownload.pdf" download>PDF Downloads</a>
     </td>
   </tr>
 </table>
