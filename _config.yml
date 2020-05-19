@@ -12,14 +12,11 @@ paginate: 12
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 collections:
-    left-nav-one:
-        collection-name: School1
+    School1:
         output: true
-    left-nav-two:
-        collection-name: School2
+    School2:
         output: true
-    left-nav-three:
-        collection-name: School3
+    School3:
         output: true
 resources_name: resource-room
 favicon: /images/favicon-isomer.ico
