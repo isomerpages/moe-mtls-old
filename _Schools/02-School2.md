@@ -1,10 +1,8 @@
 ---
-layout: leftnav-page-content
-title: "School2"
+title: 'School2'
 permalink: /Schools/School2/
+breadcrumb: 'School2'
 collection_name: Schools
-second_nav_title: "School2"
-
 ---
 
 <div>
