@@ -4,12 +4,10 @@ permalink: /test/
 breadcrumb: 'English Sessions'
 
 ---
+
+![alt text - Poster](/images/01website-exhibitor-template-poster.jpg)
 <table border="0">
-  <tr>
-    <td>
-      ![](/images/01website-exhibitor-template-poster.jpg)
-    </td>
-  </tr>
+  
   <tr>
     <td>
       <iframe width="380" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
