@@ -6,7 +6,7 @@ breadcrumb: 'English Sessions'
 ---
 <table border="0">
   <tr>
-    <td rowspan="3">
+    <td>
       <img src="images/01website-exhibitor-template-poster.jpg">
     </td>
   </tr>
