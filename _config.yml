@@ -12,12 +12,9 @@ paginate: 12
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 collections:
-    School1:
+    Schools:
         output: true
-    School2:
-        output: true
-    School3:
-        output: true
+    
 resources_name: resource-room
 favicon: /images/favicon-isomer.ico
 google-analytics: UA-124401955-1
