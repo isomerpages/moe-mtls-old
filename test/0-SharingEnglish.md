@@ -7,7 +7,7 @@ breadcrumb: 'English Sessions'
 <table border="0">
   <tr>
     <td>
-      ![alt text - poster](/images/01website-exhibitor-template-poster.jpg)
+      ![](/images/01website-exhibitor-template-poster.jpg)
     </td>
   </tr>
   <tr>
