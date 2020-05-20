@@ -1,6 +1,6 @@
 ---
 title: 'English Sessions'
-permalink: /Schools/School1/
+permalink: /Schools/English-Sessions/
 breadcrumb: 'English Sessions'
 collection_name: Schools
 ---
