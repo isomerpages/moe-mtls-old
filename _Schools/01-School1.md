@@ -1,6 +1,6 @@
 ---
 title: 'School1'
-permalink: /Schools/School1/
+permalink: /School1/
 breadcrumb: 'School1'
 collection_name: Schools
 ---
