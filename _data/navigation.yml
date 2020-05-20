@@ -14,6 +14,7 @@ links:
     url: /sharesessions/Tamil/
 - title: Testing2
   url: /test/
+  collection: Schools
   sub-links:
   - title: English
     url: /sharesessions/English/
