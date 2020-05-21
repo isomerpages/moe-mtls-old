@@ -5,7 +5,7 @@ breadcrumb: 'English Sessions'
 collection_name: Schools
 ---
 
-![alt text - Poster](/images/01website-exhibitor-template-poster.jpg)
+![alt text - Poster](/images/02website-exhibitor-template-poster.jpg)
 <table border="0">
   
   <tr>
