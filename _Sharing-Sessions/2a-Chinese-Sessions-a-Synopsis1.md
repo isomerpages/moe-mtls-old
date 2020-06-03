@@ -8,5 +8,5 @@ third_nav_title: 'Chinese Sessions'
 
 <div>
   This is Synopsis1 of Chinese Sessions.<br />
-  ![alt text - Chinese Sessions](/images/testcontentimage_chinese.jpg)
 </div>
+![alt text - Chinese Sessions](/images/testcontentimage_chinese.jpg)
