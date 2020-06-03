@@ -7,5 +7,7 @@ third_nav_title: 'Malay Sessions'
 ---
 
 <div>
-This is Synopsis2 of Malay Sessions.
+  This is Synopsis2 of Malay Sessions.
+  <br/>
+  ![alt text - Malay](/images/testcontentimage_Malay.jpg)
 </div>
