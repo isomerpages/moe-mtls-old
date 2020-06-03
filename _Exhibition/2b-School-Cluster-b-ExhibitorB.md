@@ -7,7 +7,5 @@ third_nav_title: 'School Cluster'
 ---
 
 <div>
-  
-        This is Malay content.
-      
+  This is Malay content.      
 </div>
