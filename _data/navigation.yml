@@ -12,6 +12,9 @@ links:
     url: /sharesessions/Malay/
   - title: Tamil
     url: /sharesessions/Tamil/
+- title: Sharing Sessions
+  url: /Sharing-Sessions/
+  collection: Sharing-Sessions
 - title: Testing2
   url: /test/
   collection: Schools
