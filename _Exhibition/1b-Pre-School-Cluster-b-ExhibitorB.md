@@ -8,4 +8,7 @@ third_nav_title: 'Pre-School Cluster'
 
 <div>
 This is ExhibitorB of Pre-School Cluster.
+ <a href="/Exhibition/Pre-School-Cluster-b/ExhibitorB/">Chinese</a>
+ <a href="/Exhibition/Pre-School-Cluster-b/ExhibitorB/">Malay</a>
+ <a href="/Exhibition/Pre-School-Cluster-b/ExhibitorB/">Tamil</a>
 </div>
