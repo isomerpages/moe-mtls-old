@@ -1,7 +1,7 @@
 ---
-title: 'Exhibitor A'
+title: 'Pre-School Cluster'
 permalink: /Exhibition/01-ExhibitorA/
-breadcrumb: 'Exhibitor A'
+breadcrumb: 'Pre-School Cluster'
 collection_name: Exhibition
 second_nav_title: Pre-School Cluster
 ---
