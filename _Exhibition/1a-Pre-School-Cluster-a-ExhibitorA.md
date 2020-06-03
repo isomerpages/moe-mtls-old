@@ -7,7 +7,8 @@ third_nav_title: 'Pre-School Cluster'
 ---
 
 <div>
-This is ExhibitorA of Pre-School Cluster.
-  
-   <a href="/Exhibition/Pre-School-Cluster-b/ExhibitorB/"><image src="/images/MTLS-Logo.png" style="wdith:200px;"/></a> 
+This is ExhibitorA of Pre-School Cluster.<br/><br/>
+<a href="/Exhibition/Pre-School-Cluster-b/ExhibitorB/"><div style="display:inline-block;padding: 10px 20px;text-align:center;text-decoration:none;color:#ffffff;background-color:#7aa8b7;border-radius:6px;outline:none;cursor:pointer;">Chinese</div></a>
+ <a href="/Exhibition/Pre-School-Cluster-b/ExhibitorB/"><div style="display:inline-block;padding: 10px 20px;text-align:center;text-decoration:none;color:#ffffff;background-color:#7aa8b7;border-radius:6px;outline:none;cursor:pointer;">Malay</div></a>
+ <a href="/Exhibition/Pre-School-Cluster-b/ExhibitorB/"><div style="display:inline-block;padding: 10px 20px;text-align:center;text-decoration:none;color:#ffffff;background-color:#7aa8b7;border-radius:6px;outline:none;cursor:pointer;">Tamil</div></a> 
 </div>
