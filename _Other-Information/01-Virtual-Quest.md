@@ -1,8 +1,8 @@
 ---
 title: 'Virtual Quest'
-permalink: /OtherInformation/Virtual-Quest/
+permalink: /Other-Information/Virtual-Quest/
 breadcrumb: 'Virtual Quest'
-collection_name: OtherInformation
+collection_name: Other-Information
 ---
 
 <div>
