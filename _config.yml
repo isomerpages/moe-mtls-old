@@ -16,7 +16,8 @@ collections:
         output: true
     OtherInformation:
         output: true
-    
+    Exhibition:
+        output: true
 resources_name: resource-room
 favicon: /images/favicon-isomer.ico
 google-analytics: UA-124401955-1
