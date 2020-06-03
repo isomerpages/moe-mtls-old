@@ -1,7 +1,7 @@
 ---
 title: 'Exhibitor B'
-permalink: /Exhibition/Pre-School-Cluster/ExhibitorB/
-breadcrumb: 'Exhibitor B'
+permalink: /Exhibition/Pre-School-Cluster-b/ExhibitorB/
+breadcrumb: 'Pre-School Cluster'
 collection_name: Exhibition
 third_nav_title: 'Pre-School Cluster'
 ---
