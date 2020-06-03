@@ -1,6 +1,6 @@
 ---
 title: 'Virtual Quest'
-permalink: /Other-Information/Virtual-Quest/
+permalink: /OtherInformation/Virtual-Quest/
 breadcrumb: 'Virtual Quest'
 collection_name: OtherInformation
 ---
