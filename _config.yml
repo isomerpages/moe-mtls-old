@@ -14,6 +14,8 @@ custom_print_css_path: /assets/css/print.css
 collections:
     Schools:
         output: true
+    OtherInformation:
+        output: true
     
 resources_name: resource-room
 favicon: /images/favicon-isomer.ico
