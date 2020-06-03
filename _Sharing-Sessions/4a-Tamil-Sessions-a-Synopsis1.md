@@ -8,5 +8,6 @@ third_nav_title: 'Tamil Sessions'
 
 <div>
   This is Synopsis1 of Tamil Sessions.<br />
-  ![alt text - Tamil Sessions](/images/testcontentimage_Tamil.jpg)
 </div>
+![alt text - Tamil Sessions](/images/testcontentimage_Tamil.jpg)
+
