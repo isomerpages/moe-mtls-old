@@ -6,5 +6,5 @@ collection_name: Other-Information
 ---
 
 <div>
-This is Virtual Quest.
+This is Virtual Quest testing.
 </div>
