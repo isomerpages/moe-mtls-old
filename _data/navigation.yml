@@ -1,8 +1,8 @@
 
 logo: '/images/MTLS-Logo.png'
 links: 
-- title: Sharing Sessions
-  url: /sharesessions/
+- title: About Us & Past Symposiums
+  url: /About-Us-And-Past-Symposiums/
   sub-links:
   - title: English
     url: /sharesessions/English/
