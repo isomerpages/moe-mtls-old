@@ -30,6 +30,9 @@ links:
    sub-links:
   - title: Pre-School Cluster
     url: /Exhibition/Pre-School Cluster
+    sub-links:
+  - title: Schools Cluster
+    url: /Exhibition/Schools Cluster
 - title: Other Information
   url: /Other-Information/
   collection: Other-Information
