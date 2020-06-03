@@ -1,6 +1,6 @@
 ---
 title: 'MOE Curriculum'
-permalink: /Exhibition/MOE-Curriculum/
+permalink: /Exhibition/MOE-Curriculum4/
 breadcrumb: 'MOE Curriculum'
 collection_name: Exhibition
 ---
