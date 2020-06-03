@@ -8,4 +8,6 @@ third_nav_title: 'Pre-School Cluster'
 
 <div>
 This is ExhibitorA of Pre-School Cluster.
+  
+   <a href="/Exhibition/Pre-School-Cluster-a/ExhibitorA/">Exh B</a> 
 </div>
