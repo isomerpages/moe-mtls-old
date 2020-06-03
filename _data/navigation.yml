@@ -24,6 +24,9 @@ links:
     url: /sharesessions/Malay/
   - title: Tamil
     url: /sharesessions/Tamil/
+- title: Exhibition
+  url: /Exhibition/
+  collection: Exhibition
 - title: Other Information
   url: /OtherInformation/
   collection: OtherInformation
