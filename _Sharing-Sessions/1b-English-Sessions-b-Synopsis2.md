@@ -7,5 +7,7 @@ third_nav_title: 'English Sessions'
 ---
 
 <div>
-This is Synopsis2 of English Sessions.
+  This is Synopsis2 of English Sessions.
+  <br/>
+  ![alt text - English](/images/testcontentimage_English.jpg)
 </div>
