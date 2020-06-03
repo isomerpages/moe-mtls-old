@@ -1,7 +1,7 @@
 ---
-title: 'Centrepiece Activity(Tentative)'
+title: 'Centrepiece Activity (Tentative)'
 permalink: /Exhibition/Centrepiece-Activity-5/
-breadcrumb: 'Centrepiece Activity(Tentative)'
+breadcrumb: 'Centrepiece Activity (Tentative)'
 collection_name: Exhibition
 ---
 
