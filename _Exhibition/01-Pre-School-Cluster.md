@@ -1,9 +1,9 @@
 ---
-title: 'Pre-School Cluster'
-permalink: /Exhibition/01-ExhibitorA/
-breadcrumb: 'Pre-School Cluster'
+title: 'Exhibitor A'
+permalink: /Exhibition/ExhibitorA/
+breadcrumb: 'Exhibitor A'
 collection_name: Exhibition
-second_nav_title: 'Pre-School Cluster'
+third_nav_title: 'Pre-School Cluster'
 ---
 
 <div>
