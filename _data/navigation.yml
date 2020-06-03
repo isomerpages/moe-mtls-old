@@ -27,7 +27,7 @@ links:
 - title: Exhibition
   url: /Exhibition/
   collection: Exhibition
-   sub-links:
+  sub-links:
   - title: Pre-School Cluster
     url: /Exhibition/Pre-School Cluster
   - title: Schools Cluster
