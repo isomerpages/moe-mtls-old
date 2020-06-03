@@ -1,6 +1,6 @@
 ---
 title: 'Exhibitor B'
-permalink: /Exhibition/ExhibitorB/
+permalink: /Exhibition/Pre-School-Cluster/ExhibitorB/
 breadcrumb: 'Exhibitor B'
 collection_name: Exhibition
 third_nav_title: 'Pre-School Cluster'
