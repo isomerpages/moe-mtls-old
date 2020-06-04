@@ -7,7 +7,6 @@ third_nav_title: 'Pre-School Cluster'
 ---
 
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
-
+![alt text - Chinese Sessions](/images/ExhibitorChinese-template.jpg)
 </div>
 
-<p>![alt text - Chinese Sessions](/images/ExhibitorChinese-template.jpg)</p>
