@@ -371,4 +371,13 @@ $desktop: 960px + (2 * $gap) !default;
 .tab div:target {
   display: block;
 }
+.btnClass{
+  display:inline-block;
+  padding: 10px 20px;
+  text-align:center;
+  text-decoration:none;
+  color:#ffffff;
+  background-color:#4372d6;
+  
+}
 
