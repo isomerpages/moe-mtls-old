@@ -373,7 +373,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 .btnClass{
   display:inline-block;
-  padding: 12px 10px;
+  padding: 20px 20px;
   text-align:center;
   text-decoration:none;
   color:#ffffff;
@@ -382,6 +382,6 @@ $desktop: 960px + (2 * $gap) !default;
   outline:none;
   cursor:pointer;
   margin-right: 10px;
-  width: 100px;
+  width: 150px;
 }
 
