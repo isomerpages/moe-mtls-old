@@ -15,12 +15,12 @@ This is ExhibitorA of Pre-School Cluster.<br/><br/>
   <tr>
     <td>
      <div style=" overflow: hidden; margin: 15px auto; max-width: 880px;">
-      <iframe width="380" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="iframe1" style="border:none;"></iframe></div>
+      <iframe width="380" height="315" src="/Exhibition/Pre-School-Cluster-b/ExhibitorB/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="iframe1" style="border:none;"></iframe></div>
     </td>
    </tr>
   <tr>
    <td>
-    <a href="https://www.youtube.com/embed/d6fmLlW8eoE" target="iframe1"><div style="display:inline-block;padding: 10px 20px;text-align:center;text-decoration:none;color:#ffffff;background-color:#4372d6;border-radius:6px;outline:none;cursor:pointer;margin-right: 20px;width: 150px;">Chinese</div></a>
+    <a href="/Exhibition/Pre-School-Cluster-b/ExhibitorB/" target="iframe1"><div style="display:inline-block;padding: 10px 20px;text-align:center;text-decoration:none;color:#ffffff;background-color:#4372d6;border-radius:6px;outline:none;cursor:pointer;margin-right: 20px;width: 150px;">Chinese</div></a>
    </td>
  </tr>
 </table>
