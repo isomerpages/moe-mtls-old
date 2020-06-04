@@ -10,11 +10,12 @@ third_nav_title: 'School Cluster'
 This is ExhibitorB of Pre-School Cluster.<br/><br/>
  <a href="/Exhibition/Pre-School-Cluster-b/ExhibitorB/"><div style="display:inline-block;padding: 10px 20px;text-align:center;text-decoration:none;color:#ffffff;background-color:#4372d6;border-radius:6px;outline:none;cursor:pointer;margin-right: 20px;width: 150px;">Chinese</div></a>
   <a href="/Exhibition/Pre-School-Cluster-b/ExhibitorB/"><div style="display:inline-block;padding: 10px 20px;text-align:center;text-decoration:none;color:#ffffff;background-color:#4372d6;border-radius:6px;outline:none;cursor:pointer;margin-right: 20px;width: 150px;">Malay</div></a>
-  <a href="#"><div class="btnExhibitor">Tamil</div></a>
+  <a href="#"><div class="btnExhibitor">Tamilsdfsdf</div></a>
 <br/><br/>
 <div class="tab">
   <a href="#targ_1">Collapse 1</a>
   <a href="#targ_2">Collapse 2</a>
+  <a href="#targ_3"><div class="btnExhibitor">Collapse 3</div></a>
   <div id="targ_1"><br/>
   <p><img src="/images/exhibitorchinese-template.jpg" alt="exh chinese"></p>
  </div>
