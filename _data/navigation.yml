@@ -25,8 +25,9 @@ links:
     url: /Exhibition/Schools Cluster
 - title: Outstanding Pre-School MTL Teacher Award 2020
   url: /Outstanding-Pre-School-MTL-Teacher-Award-2020/
+  collection:  /Outstanding-Pre-School-MTL-Teacher-Award-2020/
 - title: Other Information
   url: /Other-Information/
   collection: Other-Information
 - title: Contact Us
-  url: /Contact-Us/
+  url: /Contact-Us/ 
