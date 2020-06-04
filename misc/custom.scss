@@ -363,10 +363,13 @@ $desktop: 960px + (2 * $gap) !default;
 .bp-hero-body {
 	background: unset;
 }
+
 .tab div {
   display: none;
 }
+
 .tab div:target {
   display: block;
+  position: relative;
 }
 
