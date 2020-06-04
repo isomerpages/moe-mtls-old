@@ -378,6 +378,10 @@ $desktop: 960px + (2 * $gap) !default;
   text-decoration:none;
   color:#ffffff;
   background-color:#4372d6;
-  
+  border-radius:6px;
+  outline:none;
+  cursor:pointer;
+  margin-right: 20px;
+  width: 150px;
 }
 
