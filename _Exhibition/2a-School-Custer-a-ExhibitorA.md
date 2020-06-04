@@ -14,6 +14,6 @@ This is ExhibitorB of Pre-School Cluster.<br/><br/>
  
 <div class="collapse">
   <a href="#targ_1">Collapse 1</a>
-  <div id="targ_1">Content 1....</div>
+  <div id="targ_1" style="display:none;">Content 1....</div>
 </div>
 </div>
