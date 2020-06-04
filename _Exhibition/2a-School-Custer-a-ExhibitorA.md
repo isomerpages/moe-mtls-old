@@ -17,13 +17,13 @@ This is ExhibitorB of Pre-School Cluster.<br/><br/>
   <a href="#targ_2">Collapse 2</a>
   <a href="#targ_3"><div style="display:block;" class="btnClass">Tamilsdfsdf</div></a>
   <div id="targ_1"><br/>
-  <p><img src="/images/exhibitorchinese-template.jpg" alt="exh chinese"></p>
+  <p><img src="/images/ExhibitorEnglish-template.jpg" ></p>
  </div>
   <div id="targ_2" class="content"><br/>
- <p><img src="/images/exhibitorchinese-template.jpg" alt="exh chinese"></p></div>
+ <p><img src="/images/exhibitorchinese-template.jpg" ></p></div>
  
  <div id="targ_3"><br/>
-  <p><img src="/images/exhibitorchinese-template.jpg" alt="exh chinese"></p>
+  <p><img src="/images/ExhibitorMalay-template.jpg" ></p>
  </div>
  
 </div>
