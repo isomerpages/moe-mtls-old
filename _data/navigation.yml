@@ -15,18 +15,6 @@ links:
 - title: Sharing Sessions
   url: /Sharing-Sessions/
   collection: Sharing-Sessions
-- title: Testing2
-  url: /test/
-  collection: Schools
-  sub-links:
-  - title: English
-    url: /sharesessions/English/
-  - title: Chinese
-    url: /sharesessions/Chinese/
-  - title: Malay
-    url: /sharesessions/Malay/
-  - title: Tamil
-    url: /sharesessions/Tamil/
 - title: Exhibition
   url: /Exhibition/
   collection: Exhibition
