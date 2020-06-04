@@ -363,3 +363,14 @@ $desktop: 960px + (2 * $gap) !default;
 .bp-hero-body {
 	background: unset;
 }
+.collapse a{
+  display: block;
+  background: #cdf;
+}
+.collapse > div{
+  display:none;
+}
+.collapse > div:target{
+  display:block; 
+}
+
