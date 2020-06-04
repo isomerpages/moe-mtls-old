@@ -12,8 +12,6 @@ paginate: 12
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 collections:
-    Schools:
-        output: true
     Other-Information:
         output: true
     Exhibition:
