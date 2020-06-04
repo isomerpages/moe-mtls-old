@@ -11,7 +11,7 @@ third_nav_title: 'School Cluster'
   <a href="#targ_1"><div style="display:inline-block;" class="btnClass">English</div></a>
   <a href="#targ_2"><div style="display:inline-block;" class="btnClass">Chinese</div></a>
   <a href="#targ_3"><div style="display:inline-block;" class="btnClass">Malay</div></a>
- 
+  <a href="#targ_4"><div style="display:inline-block;" class="btnClass">Tamil</div></a>
   <div id="targ_1"><br/>
   <p><img src="/images/ExhibitorEnglish-template.jpg" ></p>
  </div>
@@ -22,6 +22,9 @@ third_nav_title: 'School Cluster'
   <p><img src="/images/ExhibitorMalay-template.jpg" ></p>
  </div>
  
+ <div id="targ_4"><br/>
+  <p>No content currently.</p>
+ </div>
  
  
 </div>
