@@ -1,9 +1,9 @@
 ---
 title: 'Tamil Section'
-permalink: /test/
+permalink: /exhibition/pre-school-cluster-a/exhibitora/
 breadcrumb: 'Tamil Section'
 ---
 
 <div>
-This is Chinese Section.
+This is Tamil Section testing.
 </div>
