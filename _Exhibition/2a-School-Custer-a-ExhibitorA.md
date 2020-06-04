@@ -20,8 +20,10 @@ This is ExhibitorB of Pre-School Cluster.<br/><br/>
 <div class="tab" id="exhC">
   <a href="#targ_2">Collapse 2</a>
   
-  <div id="targ_2">Content 2....<br/>
- <p>![alt text - Poster](/images/01website-exhibitor-template-poster.jpg)</p>
+  <div id="targ_2" class="content">Content 2....<br/>
+ <p>
+ <img src="/images/exhibitorchinese-template.jpg" alt="exh chinese">
+ </p>
 </div>
 </div>
 </div>
