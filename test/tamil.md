@@ -1,6 +1,6 @@
 ---
 title: 'Tamil Section'
-permalink: /exhibition/pre-school-cluster-a/exhibitora/
+permalink: /test/
 breadcrumb: 'Tamil Section'
 ---
 
