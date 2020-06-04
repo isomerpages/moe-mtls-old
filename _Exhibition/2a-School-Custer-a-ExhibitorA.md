@@ -1,6 +1,6 @@
 ---
 title: 'Exhibitor A'
-permalink: /Exhibition/School-Cluster-a/ExhibitorA/#Exh-Eng
+permalink: /Exhibition/School-Cluster-a/ExhibitorA/
 breadcrumb: 'School Cluster'
 collection_name: Exhibition
 third_nav_title: 'School Cluster'
