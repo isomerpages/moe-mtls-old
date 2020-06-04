@@ -132,13 +132,3 @@ a.confAccordionHeaderTextStyle:hover
     font-size:small;
     font-weight:bold;
 }
-.collapse a{
-  display: block;
-  background: #cdf;
-}
-.collapse > div{
-  display:none;
-}
-.collapse > div:target{
-  display:block; 
-}
