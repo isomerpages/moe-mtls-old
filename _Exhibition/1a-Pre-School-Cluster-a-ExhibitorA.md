@@ -27,9 +27,9 @@ third_nav_title: 'Pre-School Cluster'
 <p style="float:left;"><a href="/Exhibition/Website-exhibitor-template-pdf.pdf" download>PDF Downloads</a></p>
 </div>
  
- <div id="Exh-Malay"><br/>
-  <p><img src="/images/ExhibitorMalay-template.jpg" ></p><br/>
-  <p class="video-container">
+<div id="Exh-Malay"><br/>
+<p><img src="/images/ExhibitorMalay-template.jpg" ></p><br/>
+<p class="video-container">
 <iframe src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;    picture-in-picture" allowfullscreen></iframe></p>
 <p style="float:left;"><a href="/Exhibition/Website-exhibitor-template-pdf.pdf" download>PDF Downloads</a></p>
 </div>
@@ -39,8 +39,7 @@ third_nav_title: 'Pre-School Cluster'
 <p class="video-container">
 <iframe src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;    picture-in-picture" allowfullscreen></iframe></p>
 <p style="float:left;"><a href="/Exhibition/Website-exhibitor-template-pdf.pdf" download>PDF Downloads</a></p>
-  
- </div>
+</div>
  
 </div>
 </div>
