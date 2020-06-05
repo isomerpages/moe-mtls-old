@@ -31,9 +31,12 @@ third_nav_title: 'Community Partners Cluster'
  
  <div id="Exh-Tamil"><br/>
 <p><img src="/images/ExhibitorTamil-template.jpg" ></p><br/>
-<p><iframe width="650" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
- <p><a href="/Exhibition/Website-exhibitor-template-pdf.pdf" download>PDF Downloads</a></p>
- </div>
+  
+<div class="video-container">
+  <iframe width="650" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+ <p><a href="/Exhibition/Website-exhibitor-template-pdf.pdf" download>PDF Downloads</a>
+</div>
+</div>
  
  
 </div>
