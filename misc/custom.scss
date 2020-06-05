@@ -367,7 +367,9 @@ $desktop: 960px + (2 * $gap) !default;
 .tab div {
   display: none;
 }
-
+.tab:target ~ .a{
+  display: none;
+}
 .tab div:target {
   display: block;
 }
