@@ -6,7 +6,7 @@ collection_name: Sharing-Sessions
 third_nav_title: 'English Sessions'
 ---
 
-![alt text - Poster](/images/exhibitorchinese-template.jpg)
+![alt text - Poster](/images/ExhibitorEnglish-template.jpg)
 <table border="0">
   
   <tr>
