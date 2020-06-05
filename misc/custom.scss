@@ -371,7 +371,7 @@ $desktop: 960px + (2 * $gap) !default;
 .tab div:target {
   display: block;
 }
-.tabs div:target > a { background-color: red; }
+.tab div:target > a { background-color: red; }
 
 .btnClass{
   display:inline-block;
