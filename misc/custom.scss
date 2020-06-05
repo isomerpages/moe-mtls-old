@@ -387,4 +387,8 @@ $desktop: 960px + (2 * $gap) !default;
 .btnClass:hover {
     background: #8991a2;
 }
+.btnClass:visited {
+    background: #8991a2;
+}
+
 
