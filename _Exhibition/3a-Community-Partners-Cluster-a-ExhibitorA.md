@@ -23,6 +23,6 @@ third_nav_title: 'Community Partners Cluster'
  </div>
  
  <div id="Exh-Tamil"><br/>
-  <p>No content currently.</p>
+  <p><img src="/images/ExhibitorTamil-template.jpg" ></p>
  </div>
 
