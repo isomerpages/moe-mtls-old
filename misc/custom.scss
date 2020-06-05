@@ -364,12 +364,14 @@ $desktop: 960px + (2 * $gap) !default;
 	background: unset;
 }
 
-.tabs div{
-    display: none;
+.tab div {
+  display: none;
 }
-.tabs div:target {
-    display: block;
+
+.tab div:target {
+  display: block;
 }
+
 .btnClass{
   display:inline-block;
   padding: 18px 20px;
