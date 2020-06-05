@@ -12,26 +12,26 @@ third_nav_title: 'Pre-School Cluster'
   <a href="#Exh-Chinese"><div style="display:inline-block;" class="btnClass">Chinese</div></a>
   <a href="#Exh-Malay"><div style="display:inline-block;" class="btnClass">Malay</div></a>
   <a href="#Exh-Tamil"><div style="display:inline-block;" class="btnClass">Tamil</div></a>
-  <div id="Exh-Eng" style="display:block;"><br/>
+  <div id="Exh-Eng"><br/>
   <p><img src="/images/ExhibitorEnglish-template.jpg" ></p><br/>
-   <p><iframe width="380" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+   <p><iframe width="650" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
  <p><a href="/Exhibition/Website-exhibitor-template-pdf.pdf" download>PDF Downloads</a></p>
  </div>
   <div id="Exh-Chinese" class="content"><br/>
  <p><img src="/images/exhibitorchinese-template.jpg" ></p><br/>
- <p><iframe width="380" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+ <p><iframe width="650" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
  <p><a href="/Exhibition/Website-exhibitor-template-pdf.pdf" download>PDF Downloads</a></p>
  </div>
  
  <div id="Exh-Malay"><br/>
   <p><img src="/images/ExhibitorMalay-template.jpg" ></p>
-  <p><iframe width="380" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+  <p><iframe width="650" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
  <p><a href="/Exhibition/Website-exhibitor-template-pdf.pdf" download>PDF Downloads</a></p>
  </div>
  
  <div id="Exh-Tamil"><br/>
 <p><img src="/images/ExhibitorTamil-template.jpg" ></p><br/>
-<p><iframe width="380" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><iframe width="650" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
  <p><a href="/Exhibition/Website-exhibitor-template-pdf.pdf" download>PDF Downloads</a></p>
  </div>
  
