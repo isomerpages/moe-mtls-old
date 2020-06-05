@@ -17,6 +17,7 @@ third_nav_title: 'Pre-School Cluster'
  </div>
   <div id="Exh-Chinese" class="content"><br/>
  <p><img src="/images/exhibitorchinese-template.jpg" ></p><br/>
+ <p><iframe width="380" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p><br/>
  <p><a href="01-website-exhibitor-template-pdf.pdf" download>PDF Downloads</a></p>
  </div>
  
