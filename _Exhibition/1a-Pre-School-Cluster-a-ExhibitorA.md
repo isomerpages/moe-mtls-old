@@ -14,7 +14,8 @@ third_nav_title: 'Pre-School Cluster'
   <a href="#Exh-Tamil"><div style="display:inline-block;" class="btnClass">Tamil</div></a>
   <div id="Exh-Eng"><br/>
   <p><img src="/images/ExhibitorEnglish-template.jpg" ></p><br/>
-   <p><iframe width="650" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    <div class="video-container">
+  <iframe src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
  <p><a href="/Exhibition/Website-exhibitor-template-pdf.pdf" download>PDF Downloads</a></p>
  </div>
   <div id="Exh-Chinese" class="content"><br/>
