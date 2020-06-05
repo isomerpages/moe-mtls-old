@@ -363,15 +363,10 @@ $desktop: 960px + (2 * $gap) !default;
 .bp-hero-body {
 	background: unset;
 }
+.tab#Exh-Eng { display:block; }
 
-.tab div {
-  display: none;
-}
-
-.tab div:target {
-  display: block;
-}
-.tab div:target > .btnClass { background-color: red; }
+.tab:not(:target) { display:none; }
+.tab:target ~ #Exh-Eng { display:none; }
 
 .btnClass{
   display:inline-block;
