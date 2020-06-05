@@ -6,7 +6,7 @@ collection_name: Exhibition
 third_nav_title: 'Pre-School Cluster'
 ---
 
-<div style="margin-top:auto;margin-bottom:auto;text-align:center;">
+<div>
 <div class="tab">
   <a href="#Exh-Eng"><div style="display:inline-block;" class="btnClass">English</div></a>
   <a href="#Exh-Chinese"><div style="display:inline-block;" class="btnClass">Chinese</div></a>
