@@ -17,14 +17,14 @@ third_nav_title: 'Pre-School Cluster'
 <p><img src="/images/ExhibitorEnglish-template.jpg"></p><br/>
 <p class="video-container">
 <iframe src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;    picture-in-picture" allowfullscreen></iframe></p>
-<p><a href="/Exhibition/Website-exhibitor-template-pdf.pdf" download>PDF Downloads</a></p>
+<p style="float:left;"><a href="/Exhibition/Website-exhibitor-template-pdf.pdf" download>PDF Downloads</a></p>
 </div>
   
 <div id="Exh-Chinese"><br/>
 <p><img src="/images/exhibitorchinese-template.jpg" ></p><br/>
 <p class="video-container">
 <iframe src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;    picture-in-picture" allowfullscreen></iframe></p>
-<p><a href="/Exhibition/Website-exhibitor-template-pdf.pdf" download>PDF Downloads</a></p>
+<p style="float:left;"><a href="/Exhibition/Website-exhibitor-template-pdf.pdf" download>PDF Downloads</a></p>
 </div>
  
  <div id="Exh-Malay"><br/>
