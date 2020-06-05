@@ -364,10 +364,10 @@ $desktop: 960px + (2 * $gap) !default;
 	background: unset;
 }
 
-.tabs > div{
+.tabs div{
     display: none;
 }
-.tabs > div:target {
+.tabs div:target {
     display: block;
 }
 .btnClass{
