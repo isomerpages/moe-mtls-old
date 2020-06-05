@@ -14,24 +14,28 @@ third_nav_title: 'Community Partners Cluster'
   <a href="#Exh-Tamil"><div style="display:inline-block;" class="btnClass">Tamil</div></a>
   <div id="Exh-Eng"><br/>
   <p><img src="/images/ExhibitorEnglish-template.jpg" ></p><br/>
-  <p><iframe width="380" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p><br/>
+   <p><iframe width="380" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p><br/>
  <p><a href="01-website-exhibitor-template-pdf.pdf" download>PDF Downloads</a></p>
  </div>
   <div id="Exh-Chinese" class="content"><br/>
  <p><img src="/images/exhibitorchinese-template.jpg" ></p><br/>
  <p><iframe width="380" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p><br/>
  <p><a href="01-website-exhibitor-template-pdf.pdf" download>PDF Downloads</a></p>
-  </div>
+ </div>
  
  <div id="Exh-Malay"><br/>
-  <p><img src="/images/ExhibitorMalay-template.jpg" ></p></br>
- <p><iframe width="380" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p><br/>
+  <p><img src="/images/ExhibitorMalay-template.jpg" ></p>
+  <p><iframe width="380" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p><br/>
  <p><a href="01-website-exhibitor-template-pdf.pdf" download>PDF Downloads</a></p>
  </div>
  
  <div id="Exh-Tamil"><br/>
-  <p><img src="/images/ExhibitorTamil-template.jpg" ></p><br/>
- <p><iframe width="380" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p><br/>
+<p><img src="/images/ExhibitorTamil-template.jpg" ></p><br/>
+<p><iframe width="380" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p><br/>
  <p><a href="01-website-exhibitor-template-pdf.pdf" download>PDF Downloads</a></p>
- </div> </div></div>
+ </div>
+ 
+ 
+</div>
+</div>
 
