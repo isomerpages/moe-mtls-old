@@ -13,6 +13,13 @@ third_nav_title: 'School Cluster'
   <a href="#Exh-Malay"><div style="display:inline-block;" class="btnClass">Malay</div></a>
   <a href="#Exh-Tamil"><div style="display:inline-block;" class="btnClass">Tamil</div></a>
 
+<div id="Exh-Eng"><br/>
+<p><img src="/images/ExhibitorEnglish-template.jpg"></p><br/>
+<p class="video-container">
+<iframe src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;    picture-in-picture" allowfullscreen></iframe></p>
+<p style="float:left;"><a href="/Exhibition/Website-exhibitor-template-pdf.pdf" download>PDF Downloads</a></p>
+</div>
+
 <div id="Exh-Chinese"><br/>
 <p><img src="/images/exhibitorchinese-template.jpg" ></p><br/>
 <p class="video-container">
@@ -29,13 +36,6 @@ third_nav_title: 'School Cluster'
  
 <div id="Exh-Tamil"><br/>
 <p><img src="/images/ExhibitorTamil-template.jpg" ></p><br/>
-<p class="video-container">
-<iframe src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;    picture-in-picture" allowfullscreen></iframe></p>
-<p style="float:left;"><a href="/Exhibition/Website-exhibitor-template-pdf.pdf" download>PDF Downloads</a></p>
-</div>
-
-<div id="Exh-Eng"><br/>
-<p><img src="/images/ExhibitorEnglish-template.jpg"></p><br/>
 <p class="video-container">
 <iframe src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;    picture-in-picture" allowfullscreen></iframe></p>
 <p style="float:left;"><a href="/Exhibition/Website-exhibitor-template-pdf.pdf" download>PDF Downloads</a></p>
