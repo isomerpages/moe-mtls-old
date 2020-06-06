@@ -412,7 +412,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 .default-tab {display:block}
 
-.tabs:target ~ .default-tab {display:none}
+.tabs:not(:target) { display:none; }
 
 .tabs:target {
   display: block;
