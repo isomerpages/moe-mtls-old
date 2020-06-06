@@ -8,12 +8,12 @@ third_nav_title: 'Community Partners Cluster'
 
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
 <div class="abc">
-  <a id="t1"><div style="display:inline-block;" class="btnClass">English</div></a>
-  <a id="t2"><div style="display:inline-block;" class="btnClass">Chinese</div></a>
-  <a id="t3"><div style="display:inline-block;" class="btnClass">Malay</div></a>
+  <a href="#t1"><div style="display:inline-block;" class="btnClass">English</div></a>
+  <a href="#t2"><div style="display:inline-block;" class="btnClass">Chinese</div></a>
+  <a href="#t3"><div style="display:inline-block;" class="btnClass">Malay</div></a>
  
   
-<div class="tab1 default-tab"><br/>
+<div class="tab1"><br/>
 <p><img src="/images/ExhibitorEnglish-template.jpg"></p><br/>
 <p class="video-container">
 <iframe src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;    picture-in-picture" allowfullscreen></iframe></p>
