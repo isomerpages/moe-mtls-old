@@ -412,9 +412,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 .default-tab {display:block;}
 :target ~ .default-tab {display:none;}
-#tab1:target ~ .tab1,
-#tab2:target ~ .tab2, 
-#tab3:target ~ .tab3 {
+.abc div:target {
   display: block;
 }
 
