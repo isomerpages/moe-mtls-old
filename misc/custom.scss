@@ -408,10 +408,9 @@ $desktop: 960px + (2 * $gap) !default;
     height: 100%;
 }
 
-.tabs {display:none;}
-.default-tab {display:block;}
-
-.tabs:target {
+.tabs, .tabs:target ~ #t1  {
+  display: none;
+}
+#t1, .tabs:target {
   display: block;
 }
-.tabs:target ~ .default-tab {display:none;}
