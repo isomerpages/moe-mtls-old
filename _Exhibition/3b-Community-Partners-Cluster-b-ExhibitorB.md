@@ -13,7 +13,7 @@ third_nav_title: 'Community Partners Cluster'
   <a href="#t3"><div style="display:inline-block;" class="btnClass">Malay</div></a>
  
   
-<div class="tabs" id="t1"><br/>
+<div class="tabs default-tab" id="t1"><br/>
 <p><img src="/images/ExhibitorEnglish-template.jpg"></p><br/>
 <p class="video-container">
 <iframe src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;    picture-in-picture" allowfullscreen></iframe></p>
