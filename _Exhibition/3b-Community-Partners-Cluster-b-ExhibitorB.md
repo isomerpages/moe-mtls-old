@@ -7,7 +7,7 @@ third_nav_title: 'Community Partners Cluster'
 ---
 
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
-<div>
+<div class="abc">
   <a href="#tab1"><div style="display:inline-block;" class="btnClass">English</div></a>
   <a href="#tab2"><div style="display:inline-block;" class="btnClass">Chinese</div></a>
   <a href="#tab3"><div style="display:inline-block;" class="btnClass">Malay</div></a>
