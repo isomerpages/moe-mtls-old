@@ -408,7 +408,7 @@ $desktop: 960px + (2 * $gap) !default;
     height: 100%;
 }
 
-.abc {display:none;}
+.abc div {display:none;}
 
 .default-tab {display:block;}
 :target ~ .default-tab {display:none;}
