@@ -15,7 +15,7 @@ links:
 - title: Sharing Sessions
   url: /Sharing-Sessions/
   collection: Sharing-Sessions
-- title: Exhibition
+- title: Gallery
   url: /Exhibition/
   collection: Exhibition
   sub-links:
@@ -23,7 +23,7 @@ links:
     url: /Exhibition/Pre-School Cluster
   - title: Schools Cluster
     url: /Exhibition/Schools Cluster
-- title: Gallery
+- title: Outstanding Pre-School MTL Teacher Award 2020
   url: /Schools/
   collection:  Schools
 - title: OPMTL
