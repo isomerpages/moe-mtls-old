@@ -5,7 +5,7 @@ breadcrumb: About Us & Past Symposiums
 ---
 
 ![alt text - Poster](/images/01website-exhibitor-template-poster.jpg)
-testing
+Than's testing
 <table border="0">
   
   <tr>
