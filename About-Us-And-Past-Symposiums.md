@@ -17,12 +17,12 @@ breadcrumb: About Us & Past Symposiums
    </tr>
    <tr>
     <td>
-      <div class="video-container">
+      
         <iframe src="https://players.brightcove.net/5742226969001/default_default/index.html?videoId=6160769806001"
-        allowfullscreen
-        webkitallowfullscreen
-        mozallowfullscreen></iframe>
-      </div>
+        allowfullscreen=""
+        webkitallowfullscreen=""
+        mozallowfullscreen=""></iframe>
+      
     </td>
    </tr>
 </table>
