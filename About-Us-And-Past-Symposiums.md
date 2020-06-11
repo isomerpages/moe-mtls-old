@@ -15,11 +15,5 @@ breadcrumb: About Us & Past Symposiums
       <a href="/Sharing-Sessions/01-website-exhibitor-template-pdf.pdf" download>PDF Downloads</a>
     </td>
    </tr>
-   <tr>
-    <td>
-      <div class="video-container">
-        <iframe src="https://players.brightcove.net/5742226969001/default_default/index.html?videoId=6160769806001" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
-    </td>
-   </tr>
+   
 </table>
