@@ -18,7 +18,11 @@ breadcrumb: About Us & Past Symposiums
    <tr>
     <td>
       <div class="video-container">
-  <iframe src="https://players.brightcove.net/5742226969001/default_default/index.html?videoId=6160769806001" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        <iframe src="https://players.brightcove.net/5742226969001/default_default/index.html?videoId=6160769806001"
+        allowfullscreen
+        webkitallowfullscreen
+        mozallowfullscreen></iframe>
+      </div>
     </td>
    </tr>
 </table>
