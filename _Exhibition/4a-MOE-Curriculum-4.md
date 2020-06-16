@@ -4,7 +4,7 @@ permalink: /Exhibition/MOE-Curriculum-4/
 breadcrumb: 'Chinese'
 collection_name: Exhibition
 ---
-## Chinese
+## MOE Curriculum
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
 <div class="tab">
   <a href="#Prech"><div style="display:inline-block;" class="btnClass">Pre Sch</div></a>
