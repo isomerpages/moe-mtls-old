@@ -1,5 +1,5 @@
 ---
-title: 'Chinese'
+title: 'Chinese01'
 permalink: /Exhibition/MOE-Curriculum-4/
 breadcrumb: 'Chinese'
 collection_name: Exhibition
