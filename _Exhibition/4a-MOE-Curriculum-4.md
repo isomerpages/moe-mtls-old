@@ -7,7 +7,7 @@ collection_name: Exhibition
 ## MOE Curriculum
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
 <div class="tab">
-  <a href="#Prech"><div style="display:inline-block;" class="btnClass">Prech</div></a>
+  <a href="#Prech"><div style="display:inline-block;" class="btnClass">Pre Sch</div></a>
   <a href="#Pri"><div style="display:inline-block;" class="btnClass">Pri</div></a>
   <a href="#Sec"><div style="display:inline-block;" class="btnClass">Sec</div></a>
   <a href="#PreU"><div style="display:inline-block;" class="btnClass">PreU</div></a>
