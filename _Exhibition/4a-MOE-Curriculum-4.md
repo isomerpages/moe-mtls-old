@@ -1,7 +1,7 @@
 ---
-title: 'MOE Curriculum'
+title: 'Chinese'
 permalink: /Exhibition/MOE-Curriculum-4/
-breadcrumb: 'MOE Curriculum'
+breadcrumb: 'Chinese'
 collection_name: Exhibition
 ---
 ## Chinese
