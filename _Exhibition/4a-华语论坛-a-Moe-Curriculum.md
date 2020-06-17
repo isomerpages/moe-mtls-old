@@ -1,9 +1,9 @@
 ---
 title: 'MOE Curriculum'
-permalink: /Exhibition/Chinese-a/Moe-Curriculum/
-breadcrumb: 'Chinese'
+permalink: /Exhibition/华语论坛-a/Moe-Curriculum/
+breadcrumb: '华语论坛'
 collection_name: Exhibition
-third_nav_title: 'Chinese'
+third_nav_title: '华语论坛'
 ---
 
 ## MOE Curriculum
