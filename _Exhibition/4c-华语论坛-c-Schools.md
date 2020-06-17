@@ -1,9 +1,9 @@
 ---
 title: 'Schools'
-permalink: /Exhibition/Chinese-c/Schools/
-breadcrumb: 'Chinese'
+permalink: /Exhibition/华语论坛-c/Schools/
+breadcrumb: '华语论坛'
 collection_name: Exhibition
-third_nav_title: 'Chinese'
+third_nav_title: '华语论坛'
 ---
 
 ## Schools
