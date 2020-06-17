@@ -1,9 +1,9 @@
 ---
 title: 'Community Partners'
-permalink: /Exhibition/Chinese-d/Community-Partners/
-breadcrumb: 'Chinese'
+permalink: /Exhibition/华语论坛-d/Community-Partners/
+breadcrumb: '华语论坛'
 collection_name: Exhibition
-third_nav_title: 'Chinese'
+third_nav_title: '华语论坛'
 ---
 
 ## Community Partners
