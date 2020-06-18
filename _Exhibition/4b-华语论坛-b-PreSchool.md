@@ -48,7 +48,7 @@ td, th {
     <td>
     <span style="color:blue">Exhibitor A</span>
     <p>
-    <img border="0" src="/images/Cover-FY2018.jpg" style="width:247px; height:354px;">
+    <img border="0" src="/Exhibitor/Block01.jpg" style="width:247px; height:354px;">
     </p>
    </td>
     <td>
