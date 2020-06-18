@@ -40,25 +40,36 @@ td, th {
   text-align: left;
   padding: 8px;
 }
+.imagebox {
+  width: 50%;
+  float: left;
+}
+
+.textbox {
+  width: 50%;
+  float: right;
+  text-align: center;
+  padding-top: 20px;
+  background-color: #666;
+  color: #fff;
+}
 </style>
 </head>
 <body>
 <table>
- <tr>
-    <td>
-    <span style="color:blue">Exhibitor A</span>
-    <p>
-    <img border="0" src="/images/Block01.jpg" style="width:247px; height:354px;">
-    </p>
-   </td>
-    <td>
-   <p>
-Look out for us at the upcoming Mother Tongue Languages Symposium 2020. The Mother Tongue Languages Symposium (MTLS) is an annual event jointly organised by the Ministry of Education (MOE), the Committee to Promote Chinese Language Learning (CPCLL), the Malay Language Learning and Promotion Committee (MLLPC) and the Tamil Language Learning and Promotion Committee (TLLPC).
-MTLS focuses on how children learn, grow and thrive in a vibrant and immersive MTL environment and develop a keen sense of life-long learning for our Mother Tongue Languages.
-<br/>	
-The Fund has launched a series of short videos in its continuous drive to encourage the use of Mother Tongue languages among Singaporeans, especially young children. Building on the Fund’s efforts over the past six years in promoting the teaching and learning of Mother Tongue languages, the video series highlights the importance of our Mother Tongue in connecting users’ hearts and minds, by bringing people closer to one another.
-   </p>
-   </td>
+<tr>
+<td>
+<div class="imagebox">
+<img src="/images/eventSub.png" width="100%" height="auto" />
+</div>
+
+<div class="textbox">
+<h2>Title Here</h2>
+<p>Look out for us at the upcoming Mother Tongue Languages Symposium 2020. The Mother Tongue Languages Symposium (MTLS) is an annual event jointly organised by the Ministry of Education (MOE), the Committee to Promote Chinese Language Learning (CPCLL), the Malay Language Learning and Promotion Committee (MLLPC) and the Tamil Language Learning and Promotion Committee (TLLPC).
+MTLS focuses on how children learn, grow and thrive in a vibrant and immersive MTL environment and develop a keen sense of life-long learning for our Mother Tongue Languages.</p>
+</div>
+
+</td>
  </tr> 
   
   <tr>
