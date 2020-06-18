@@ -42,7 +42,7 @@ td, th {
    <p><img border="0" src="/images/Cover-FY2016.png" style="width:247px; height:354px;"></p>
    </td>
     <td>
-   <p>this is content for exhibitor B.></p>
+   <p>this is content for exhibitor B.</p>
    </td>
  </tr> 
  
