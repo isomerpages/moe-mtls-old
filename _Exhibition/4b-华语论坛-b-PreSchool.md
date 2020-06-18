@@ -65,7 +65,21 @@ td, th {
 </div>
 
 <div class="textbox">
-<h2>Title Here</h2>
+<h2>Exhibitor A</h2>
+<p>Look out for us at the upcoming Mother Tongue Languages Symposium 2020. The Mother Tongue Languages Symposium (MTLS) is an annual event jointly organised by the Ministry of Education (MOE), the Committee to Promote Chinese Language Learning (CPCLL), the Malay Language Learning and Promotion Committee (MLLPC) and the Tamil Language Learning and Promotion Committee (TLLPC).
+MTLS focuses on how children learn, grow and thrive in a vibrant and immersive MTL environment and develop a keen sense of life-long learning for our Mother Tongue Languages.</p>
+</div>
+</td>
+</tr> 
+
+<tr>
+<td>
+<div class="imagebox">
+<img src="/images/Block01.png" width="100%" height="auto" />
+</div>
+
+<div class="textbox">
+<h2>Exhibitor B</h2>
 <p>Look out for us at the upcoming Mother Tongue Languages Symposium 2020. The Mother Tongue Languages Symposium (MTLS) is an annual event jointly organised by the Ministry of Education (MOE), the Committee to Promote Chinese Language Learning (CPCLL), the Malay Language Learning and Promotion Committee (MLLPC) and the Tamil Language Learning and Promotion Committee (TLLPC).
 MTLS focuses on how children learn, grow and thrive in a vibrant and immersive MTL environment and develop a keen sense of life-long learning for our Mother Tongue Languages.</p>
 </div>
