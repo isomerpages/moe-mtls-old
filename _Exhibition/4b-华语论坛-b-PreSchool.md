@@ -60,7 +60,7 @@ td, th {
   cursor: pointer;
   width: 50%; 
   display: block;
-  
+  margin-bottom: 10px;
 }
 
 .btn-group button:not(:last-child) {
