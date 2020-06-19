@@ -48,6 +48,24 @@ td, th {
   background-color: #666;
   color: #fff;
 }
+.btn-group button {
+  background-color: #4CAF50; 
+  border: 1px solid green;
+  color: white;
+  padding: 10px 24px; 
+  cursor: pointer;
+  width: 50%; 
+  display: block;
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; 
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
 </style>
 </head>
 <body>
@@ -55,11 +73,10 @@ td, th {
   
 <tr>
 <td>
-<div class="imagebox">
- <a href="#Prech"><div style="display:inline-block;" class="btnClass">Pre Sch</div></a>
- <a href="#Pri"><div style="display:inline-block;" class="btnClass">Pri</div></a>
- <a href="#Sec"><div style="display:inline-block;" class="btnClass">Sec</div></a>
- <a href="#PreU"><div style="display:inline-block;" class="btnClass">PreU</div></a>
+<div class="btn-group">
+  <button>Apple</button>
+  <button>Samsung</button>
+  <button>Sony</button>
 </div>
 
 <div class="textbox">
