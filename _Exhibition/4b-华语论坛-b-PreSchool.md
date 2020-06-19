@@ -43,6 +43,7 @@ td, th {
     width: 50%;
     text-align:center;
     float: left;
+    margin:0 auto;
   }
 
 .textbox {
