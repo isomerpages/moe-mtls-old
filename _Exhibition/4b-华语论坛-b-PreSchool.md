@@ -82,8 +82,8 @@ td, th {
 <tr>
 <td>
 <div class="btn-group">
-  <button>Btn A</button>
-  <button>Btn B</button>
+  <button>Btn Aa</button>
+  <button>Btn Bb</button>
   <button>Btn C</button>
   <button>Btn D</button>
 </div>
