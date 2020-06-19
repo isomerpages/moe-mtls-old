@@ -56,7 +56,10 @@ td, th {
 <tr>
 <td>
 <div class="imagebox">
-<img src="/images/eventSub.png" width="100%" height="auto" />
+ <a href="#Prech"><div style="display:inline-block;" class="btnClass">Pre Sch</div></a>
+ <a href="#Pri"><div style="display:inline-block;" class="btnClass">Pri</div></a>
+ <a href="#Sec"><div style="display:inline-block;" class="btnClass">Sec</div></a>
+ <a href="#PreU"><div style="display:inline-block;" class="btnClass">PreU</div></a>
 </div>
 
 <div class="textbox">
