@@ -39,6 +39,10 @@ td, th {
   width: 50%;
   float: left;
 }
+  .btn-group {
+    width: 50%;
+    float: left;
+  }
 
 .textbox {
   width: 50%;
@@ -56,6 +60,7 @@ td, th {
   cursor: pointer;
   width: 50%; 
   display: block;
+  
 }
 
 .btn-group button:not(:last-child) {
