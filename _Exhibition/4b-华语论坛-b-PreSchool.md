@@ -41,6 +41,7 @@ td, th {
 }
   .btn-group {
     width: 50%;
+    text-align:center;
     float: left;
   }
 
@@ -61,6 +62,7 @@ td, th {
   width: 50%; 
   display: block;
   margin-bottom: 10px;
+  margin: .2rem;
 }
 
 .btn-group button:not(:last-child) {
