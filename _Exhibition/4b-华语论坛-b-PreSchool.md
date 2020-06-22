@@ -36,7 +36,7 @@ td, th {
   padding: 8px;
 }
 .imagebox {
-  width: 50%;
+  //width: 50%;
   float: left;
 }
   .btn-group {
@@ -102,7 +102,7 @@ MTLS focuses on how children learn, grow and thrive in a vibrant and immersive M
 <tr>
 <td>
 <div class="imagebox">
-<img src="/images/eventSub.png" width="100%" style="width:100px;height:100px;" />
+<img src="/images/eventSub.png" style="width:100px;height:100px;" />
 </div>
 
 <div class="textbox">
