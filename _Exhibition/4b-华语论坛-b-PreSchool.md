@@ -66,6 +66,7 @@ td, th {
   display: block;
   margin-bottom: 10px;
   margin: .2rem;
+  width: 160px;
 }
 
 .btn-group button:not(:last-child) {
