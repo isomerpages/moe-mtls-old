@@ -36,7 +36,7 @@ td, th {
   padding: 8px;
 }
 .imagebox {
-  //width: 50%;
+  width: 30%;
   float: left;
 }
   .btn-group {
@@ -49,7 +49,7 @@ td, th {
   }
 
 .textbox {
-  width: 50%;
+  width: 70%;
   float: right;
   text-align: center;
   padding-top: 20px;
