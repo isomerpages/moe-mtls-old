@@ -57,7 +57,7 @@ td, th {
   color: #fff;
 }
 .btn-group button {
-  background-color: #4CAF50; 
+  background-color: #4372d6; 
   border: 1px solid green;
   color: white;
   padding: 10px 24px; 
