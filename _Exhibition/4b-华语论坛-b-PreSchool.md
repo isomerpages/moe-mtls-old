@@ -85,7 +85,7 @@ td, th {
 <tr>
 <td>
 <div class="btn-group">
-  <button>Exhibitor Name</button>
+  <button>Exhibitor Name <br/> Asian Languages and Cultures Academic Group, National Institute of Education</button>
 </div>
 
 <div class="textbox">
