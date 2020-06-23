@@ -45,7 +45,7 @@ td, th {
     float: left;
     margin:0 auto;
     position:absolute;
-    top: 20%;
+    /* top: 20%; */
   }
 
 .textbox {
