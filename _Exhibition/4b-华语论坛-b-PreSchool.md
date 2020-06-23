@@ -90,8 +90,8 @@ td, th {
 
 <div class="textbox">
 <h2>Exhibitor A</h2>
-<p>Look out for us at the upcoming Mother Tongue Languages Symposium 2020. The Mother Tongue Languages Symposium (MTLS) is an annual event jointly organised by the Ministry of Education (MOE), the Committee to Promote Chinese Language Learning (CPCLL), the Malay Language Learning and Promotion Committee (MLLPC) and the Tamil Language Learning and Promotion Committee (TLLPC).
-MTLS focuses on how children learn, grow and thrive in a vibrant and immersive MTL environment and develop a keen sense of life-long learning for our Mother Tongue Languages.</p>
+<p>故事对于孩子学习语言及接触语言背后的文化与价值体系是极其重要的。孩子们不仅能通过故事接触语言，还能吸收其中的文化元素。熟悉文化所凸显的价值观，则会提高孩子对文化的重视及对语言的认识。国立教育学院亚洲语言文化学部为家长提供了视频资源与贴士，帮助家长通过故事让孩子学习母语及其文化。贴士范围包括如何挑选故事，如何讲故事以及如何进行后续讨论。我们希望家长能充分利用故事，引起孩子们在家中学习母语及母族文化的兴趣，并让他们沉浸在乐趣无穷的学习氛围中。<br/> testing
+</p>
 </div>
 </td>
 </tr> 
