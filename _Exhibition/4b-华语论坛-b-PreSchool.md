@@ -84,9 +84,10 @@ td, th {
   
 <tr>
 <td>
+<a href="#">
 <div class="btn-group">
-  <button>Exhibitor Name <br/> Asian Languages and Cultures Academic Group, National Institute of Education</button>
-</div>
+  Exhibitor Name <br/> Asian Languages and Cultures Academic Group, National Institute of Education
+</div></a>
 
 <div class="textbox">
 <h4>故事天地——乐趣无穷的语言学习和价值传承<br/>
