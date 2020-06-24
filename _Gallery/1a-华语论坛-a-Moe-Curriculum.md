@@ -1,8 +1,8 @@
 ---
 title: 'MOE Curriculum'
-permalink: /Exhibition/华语论坛-a/Moe-Curriculum/
+permalink: /Gallery/华语论坛-a/Moe-Curriculum/
 breadcrumb: '华语论坛'
-collection_name: Exhibition
+collection_name: Gallery
 third_nav_title: '华语论坛'
 ---
 
