@@ -1,6 +1,6 @@
 ---
 title: 'Poster 01'
-permalink: /test/
+permalink: /test/Chinese-poster/
 breadcrumb: 'Poster 01'
 ---
 
