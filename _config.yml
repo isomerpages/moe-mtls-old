@@ -14,7 +14,7 @@ custom_print_css_path: /assets/css/print.css
 collections:
     Other-Information:
         output: true
-    Exhibition:
+    Gallery:
         output: true
     Sharing-Sessions:
         output: true
