@@ -53,8 +53,8 @@ td, th {
   float: right;
   text-align: center;
   padding-top: 20px;
-  background-color: #666;
-  color: #fff;
+  /* background-color: #666;
+  color: #fff; */
 }
 .btn-group button {
   background-color: #4372d6; 
