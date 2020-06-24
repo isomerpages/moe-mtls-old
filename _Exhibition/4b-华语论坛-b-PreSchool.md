@@ -84,7 +84,7 @@ td, th {
   
 <tr>
 <td>
-<a href="#">
+<a href="/test/Chinese-poster/">
 <div style="display:inline-block;" class="btnClass">
   Exhibitor Name <br/> Asian Languages and Cultures Academic Group, National Institute of Education
 </div></a>
