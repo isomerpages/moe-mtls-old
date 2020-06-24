@@ -1,8 +1,8 @@
 ---
 title: 'PreSchool'
-permalink: /Exhibition/华语论坛-b/PreSchool/
+permalink: /Gallery/华语论坛-b/PreSchool/
 breadcrumb: '华语论坛'
-collection_name: Exhibition
+collection_name: Gallery
 third_nav_title: '华语论坛'
 ---
 ## Pre School
