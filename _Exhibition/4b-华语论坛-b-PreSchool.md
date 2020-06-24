@@ -85,7 +85,7 @@ td, th {
 <tr>
 <td>
 <a href="#">
-<div class="btn-group">
+<div style="display:inline-block;" class="btnClass">
   Exhibitor Name <br/> Asian Languages and Cultures Academic Group, National Institute of Education
 </div></a>
 
