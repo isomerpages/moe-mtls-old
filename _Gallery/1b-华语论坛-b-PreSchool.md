@@ -77,9 +77,10 @@ third_nav_title: '华语论坛'
 </div>
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">Tab 1</label>
+      <label for="tab-2">Tab 2</label>
       <div class="tab-content">
         <p>
+          this is for tab 2
          Should the pace attack? 
           Our pulled nurse breathes the snow.
           Does the subroutine bubble? 
