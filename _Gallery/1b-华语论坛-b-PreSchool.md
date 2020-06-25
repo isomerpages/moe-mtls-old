@@ -40,7 +40,17 @@ third_nav_title: '华语论坛'
   transform: rotate(90deg);
 }
 /* [THE CONTENTS] */
-
+.tab-content {
+  overflow: hidden;
+  background: #ccdef9;
+  /* CSS animation will not work with auto height */
+  /* This is why we use max-height */
+  transition: max-height 0.4s; 
+  max-height: 0;
+}
+.tab-content p {
+  margin: 20px;
+}
 </style>
 </head>
 <body>
