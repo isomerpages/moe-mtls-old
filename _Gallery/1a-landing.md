@@ -1,7 +1,6 @@
 ---
 title: 'Landing Page'
 permalink: /Gallery/Landing/
-breadcrumb: 'Landing Page'
 ---
 
 <div>
