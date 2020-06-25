@@ -67,7 +67,7 @@ third_nav_title: '华语论坛'
   
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1">Tab 1</label>
+      <label for="tab-1">Asian Languages and Culture Academic Group, National Institute of Education</label>
       <div class="tab-content">
         <p>
          Should the pace attack? 
@@ -81,16 +81,21 @@ third_nav_title: '华语论坛'
 </div>
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">Tab 2</label>
+      <label for="tab-2">Exhibitor 2</label>
       <div class="tab-content">
         <p>
-          this is for tab 2
-         Should the pace attack? 
-          Our pulled nurse breathes the snow.
-          Does the subroutine bubble? 
-          The poison bankrupts a cabinet powder. 
-          The worked pupil smells past the literature. 
-          The shoulder hires the rare neighbor.
+          This is the content for Exhibitor 3.
+        </p>
+      </div>
+</div>
+
+<div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+      <label for="tab-2">Exhibitor 3</label>
+      <div class="tab-content">
+        <p>
+         This is the content for Exhibitor 3.
+        
         </p>
       </div>
 </div>
