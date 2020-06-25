@@ -36,8 +36,7 @@ third_nav_title: '华语论坛'
   display: block;
   transition: all 0.4s;
 }
-.atab input[type=checkbox]:checked + label::after,
-.atab input[type=radio]:checked + label::after {
+.atab input[type=checkbox]:checked + label::after {
   transform: rotate(90deg);
 }
 /* [THE CONTENTS] */
