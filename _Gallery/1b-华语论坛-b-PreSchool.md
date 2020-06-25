@@ -17,6 +17,22 @@ third_nav_title: '华语论坛'
 .atab input:checked ~ .tab-content {
   display: block;
 }
+.tab label {
+  display: block;
+  background: #2d5faf;
+  color: #fff;
+  font-weight: bold;
+  padding: 10px;
+  cursor: pointer;
+}
+.tab label::after {
+  content: "\25b6";
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  display: block;
+  transition: all 0.4s;
+}
 </style>
 </head>
 <body>
