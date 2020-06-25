@@ -14,6 +14,9 @@ third_nav_title: '华语论坛'
   overflow: hidden;
   display: none;
 }
+.atab{
+      margin-bottom: 5px;
+}
 .atab input:checked ~ .tab-content {
   display: block;
 }
