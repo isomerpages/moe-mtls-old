@@ -1,8 +1,8 @@
 ---
 title: 'PreSchool'
-permalink: /Exhibition/Malay-b/PreSchool/
+permalink: /Gallery/Malay-b/PreSchool/
 breadcrumb: 'Malay'
-collection_name: Exhibition
+collection_name: Gallery
 third_nav_title: 'Malay'
 ---
 
