@@ -51,6 +51,11 @@ third_nav_title: '华语论坛'
 .tab-content p {
   margin: 20px;
 }
+.atab input:checked ~ .tab-content {
+  /* Set the max-height to a large number */
+  /* Or 100% viewport height */
+  max-height: 100vh;
+}
 </style>
 </head>
 <body>
