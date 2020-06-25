@@ -76,20 +76,6 @@ third_nav_title: '华语论坛'
       </div>
 </div>
 
-<div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">Tab 2</label>
-      <div class="tab-content">
-        <p>
-         this is tab b.
-          Should the pace attack? 
-          Our pulled nurse breathes the snow.
-          Does the subroutine bubble? 
-          The poison bankrupts a cabinet powder. 
-          The worked pupil smells past the literature. 
-          The shoulder hires the rare neighbor.
-        </p>
-      </div>
-</div>
+
   
 </body>
