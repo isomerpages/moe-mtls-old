@@ -17,6 +17,9 @@ third_nav_title: '华语论坛'
 .atab input:checked ~ .tab-content {
   display: block;
 }
+.tab input {
+  display: none;
+}
 .tab label {
   display: block;
   background: #2d5faf;
