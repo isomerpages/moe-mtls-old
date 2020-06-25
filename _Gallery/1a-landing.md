@@ -2,7 +2,6 @@
 title: 'Landing Page'
 permalink: /Gallery/Landing/
 breadcrumb: 'Landing Page'
-collection_name: Gallery
 ---
 
 <div>
