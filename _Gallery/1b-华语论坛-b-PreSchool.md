@@ -77,12 +77,13 @@ Stories are a great way to engage children in language learning and exposing the
         </p>
       </div>
 </div>
+
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2">Exhibitor 2</label>
       <div class="tab-content">
         <p>
-          This is the content for Exhibitor 3.
+          This is the content for Exhibitor 2.
         </p>
       </div>
 </div>
@@ -92,12 +93,7 @@ Stories are a great way to engage children in language learning and exposing the
       <label for="tab-3">Exhibitor 3</label>
       <div class="tab-content">
         <p>
-         This is the content for Exhibitor 3.
-        
-        </p>
-      </div>
+         This is the content for Exhibitor 3
+        </p></div>
 </div>
-
-
-  
 </body>
