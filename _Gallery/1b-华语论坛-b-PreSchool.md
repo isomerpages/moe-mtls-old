@@ -10,7 +10,7 @@ third_nav_title: '华语论坛'
 <html>
 <head>
 <style>
-.tab-content {
+.atab-content {
   overflow: hidden;
   display: none;
 }
