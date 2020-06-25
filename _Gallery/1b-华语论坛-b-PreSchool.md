@@ -49,9 +49,7 @@ third_nav_title: '华语论坛'
   transition: max-height 0.4s; 
   max-height: 0;
 }
-.tab-content p {
-  margin: 20px;
-}
+
 .atab input:checked ~ .tab-content {
   /* Set the max-height to a large number */
   /* Or 100% viewport height */
