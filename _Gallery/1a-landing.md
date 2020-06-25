@@ -4,5 +4,5 @@ permalink: /Gallery/Landing/
 ---
 
 <div>
-This is Virtual Quest testing.
+This is landing page.
 </div>
