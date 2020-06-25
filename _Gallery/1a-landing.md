@@ -1,5 +1,5 @@
 ---
-title: 'Landing Page'
+title: ' '
 permalink: /Gallery/Landing/
 ---
 
