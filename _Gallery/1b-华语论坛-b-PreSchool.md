@@ -25,7 +25,7 @@ third_nav_title: '华语论坛'
   background: #2d5faf;
   color: #fff;
   font-weight: bold;
-  padding: 10px;
+  padding: 30px;
   cursor: pointer;
 }
 .atab label::after {
