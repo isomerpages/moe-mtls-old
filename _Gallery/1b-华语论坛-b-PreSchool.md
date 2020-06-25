@@ -41,7 +41,6 @@ third_nav_title: '华语论坛'
   transform: rotate(90deg);
 }
   
-/* [THE CONTENTS] */
 .tab-content {
   overflow: hidden;
   background: #ccdef9;
