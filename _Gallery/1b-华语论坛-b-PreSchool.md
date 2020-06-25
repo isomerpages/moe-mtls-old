@@ -51,7 +51,12 @@ third_nav_title: '华语论坛'
       <label for="tab-1">Tab 1</label>
       <div class="tab-content">
         <p>
-         this is tab a.
+         Should the pace attack? 
+          Our pulled nurse breathes the snow.
+          Does the subroutine bubble? 
+          The poison bankrupts a cabinet powder. 
+          The worked pupil smells past the literature. 
+          The shoulder hires the rare neighbor.
         </p>
       </div>
 </div>
@@ -62,6 +67,12 @@ third_nav_title: '华语论坛'
       <div class="tab-content">
         <p>
          this is tab b.
+          Should the pace attack? 
+          Our pulled nurse breathes the snow.
+          Does the subroutine bubble? 
+          The poison bankrupts a cabinet powder. 
+          The worked pupil smells past the literature. 
+          The shoulder hires the rare neighbor.
         </p>
       </div>
 </div>
