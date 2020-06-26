@@ -23,7 +23,7 @@ collections:
 resources_name: resource-room
 favicon: /images/favicon-isomer.ico
 google-analytics: UA-124401955-1
-is_government: false
+is_government: true
 permalink: none
 baseurl: ""
 defaults:
