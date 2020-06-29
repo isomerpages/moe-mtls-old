@@ -43,8 +43,9 @@ third_nav_title: '华语论坛'
 }
 .atab input[type=checkbox]:checked + label::after,
 .atab input[type=radio]:checked + label::after {
-  background: transparent url(/images/arrow_down.png) no-repeat center center;
-  transform: rotate(90deg);
+  transition: .3s all;
+  transform: rotate(0deg);
+  /* transform: rotate(90deg); */
 }
   
 .atab input:checked + label:hover:after{
