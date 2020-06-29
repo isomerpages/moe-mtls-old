@@ -17,10 +17,10 @@ third_nav_title: '华语论坛'
 .atab{
       margin-bottom: 5px;
   width:700px;
-  
+  display:inline;
 }
 .atab input:checked ~ .tab-content {
-  display: block;
+  display: inline-block;
 }
 .atab input {
   display: none;
