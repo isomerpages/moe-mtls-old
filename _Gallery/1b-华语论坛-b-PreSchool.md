@@ -43,8 +43,8 @@ third_nav_title: '华语论坛'
 }
 .atab input[type=checkbox]:checked + label::after,
 .atab input[type=radio]:checked + label::after {
-  animation: 0.45s normal ease-in-out both 1;
   transform:rotate(-225deg);
+   /* transform: rotate(90deg); */
 }
   
 .tab-content {
@@ -84,6 +84,7 @@ third_nav_title: '华语论坛'
 </p>
       </div>
 </div>
+<a href="#"><div style="display:inline-block;" class="btnClass">Click here</div></a>
 
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
