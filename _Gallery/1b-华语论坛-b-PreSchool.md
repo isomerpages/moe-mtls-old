@@ -17,6 +17,7 @@ third_nav_title: '华语论坛'
 .atab{
       margin-bottom: 5px;
   width:700px;
+  display:inline-block;
 }
 .atab input:checked ~ .tab-content {
   display: block;
@@ -84,7 +85,7 @@ third_nav_title: '华语论坛'
 </p>
       </div>
 </div>
-<a href="#"><div style="display:inline-block;" class="btnClass">Click here</div></a>
+<a href="#"><div style="display:inline-block;padding: 11px 10px;" class="btnClass">Click here</div></a>
 
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
