@@ -67,7 +67,7 @@ third_nav_title: '华语论坛'
 </head>
 <body>
   
-<div class="atab">
+<div class="atab" style="width:700px">
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1">Asian Languages and Culture Academic Group, National Institute of Education</label>
       <div class="tab-content">
@@ -84,7 +84,7 @@ third_nav_title: '华语论坛'
       </div>
 </div>
 
-<div class="atab">
+<div class="atab" style="width:700px">
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2">Exhibitor 2</label>
       <div class="tab-content">
@@ -94,7 +94,7 @@ third_nav_title: '华语论坛'
       </div>
 </div>
 
-<div class="atab">
+<div class="atab" style="width:700px">
       <input id="tab-3" type="checkbox" name="tab">
       <label for="tab-3">Exhibitor 3</label>
       <div class="tab-content">
