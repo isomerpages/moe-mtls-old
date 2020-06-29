@@ -48,10 +48,6 @@ third_nav_title: '华语论坛'
   /* transform: rotate(90deg); */
 }
   
-.atab input:checked + label:hover:after{
-	background-image: url(/images/arrow_up.png);
-}
-  
 .tab-content {
   overflow: hidden;
   margin-top: 0px;
