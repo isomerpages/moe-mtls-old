@@ -43,9 +43,8 @@ third_nav_title: '华语论坛'
 }
 .atab input[type=checkbox]:checked + label::after,
 .atab input[type=radio]:checked + label::after {
-  animation: accordionIn 0.45s normal ease-in-out both 1;
+  animation: 0.45s normal ease-in-out both 1;
   transform:rotate(-225deg);
-  /* transform: rotate(90deg); */
 }
   
 .tab-content {
