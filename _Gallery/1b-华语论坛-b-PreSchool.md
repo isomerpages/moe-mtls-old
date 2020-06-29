@@ -96,7 +96,7 @@ third_nav_title: '华语论坛'
 
 <div class="atab" style="width:700px">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3">Exhibitor 3</label>
+      <label for="tab-3">Exhibitor 123</label>
       <div class="tab-content">
         <p>
          This is the content for Exhibitor 3
