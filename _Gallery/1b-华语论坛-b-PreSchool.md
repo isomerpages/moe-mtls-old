@@ -85,7 +85,7 @@ third_nav_title: '华语论坛'
 </p>
       </div>
 </div>
-<a href="#"><div style="display:inline-block;padding: 11px 10px;width:100px;" class="btnClass">Click here</div></a>
+<a href="#"><div style="display:inline-block;padding: 11px 10px;width:100px;" class="btnClass">Click</div></a>
 
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
