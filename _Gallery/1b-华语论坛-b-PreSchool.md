@@ -72,7 +72,7 @@ third_nav_title: '华语论坛'
   
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1">Asian Languages and Culture Academic Group, National Institute of Education</label>
+      <label for="tab-1" style="display:inline;">Asian Languages and Culture Academic Group, National Institute of Education</label>
       <div class="tab-content">
       <h3>故事天地——乐趣无穷的语言学习和价值传承</h3>
       <p>
@@ -86,11 +86,11 @@ third_nav_title: '华语论坛'
 </p>
       </div>
 </div>
-<a href="#"><div style="display:inline-block;padding: 11px 10px;width:100px;" class="btnClass">Click 11111</div></a>
+<a href="#"><div style="display:inline-block;padding: 11px 10px;width:100px;" class="btnClass">Click</div></a>
 
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">Exhibitor 2</label>
+      <label for="tab-2" style="display:inline;">Exhibitor 2</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
