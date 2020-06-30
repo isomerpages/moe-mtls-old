@@ -30,6 +30,9 @@ third_nav_title: '华语论坛'
     margin:0;
     border-collapse: collapse;
 }
+    .tbl td{
+    border:0 none;padding: 0; margin:0;
+}
 .tbl a {
     position:absolute;
     margin-left: -100px;
