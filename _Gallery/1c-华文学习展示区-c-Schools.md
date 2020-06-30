@@ -1,5 +1,5 @@
 ---
-title: 'Schools'
+title: 'c.	中小学 (Schools)'
 permalink: /Gallery/华文学习展示区-c/Schools/
 breadcrumb: '华文学习展示区'
 collection_name: Gallery
