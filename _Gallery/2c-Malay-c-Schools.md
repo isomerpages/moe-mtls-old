@@ -6,7 +6,7 @@ collection_name: Exhibition
 third_nav_title: 'Malay'
 ---
 
-## c.	Sekolah (Schools)
+## Sekolah  (Schools)
 <html>
 <head>
 <style>
