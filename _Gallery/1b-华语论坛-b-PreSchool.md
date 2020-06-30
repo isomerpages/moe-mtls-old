@@ -11,7 +11,7 @@ third_nav_title: '华语论坛'
 <head>
 <style>
 .tbl{
-    border: 0px;
+    border:0 none;
     padding:0; 
     margin:0;
     border-collapse: collapse;
