@@ -70,6 +70,20 @@ third_nav_title: '华语论坛'
   /* max-height: 100vh; */
   height: 100%;
 }
+.hl{
+    display: inline-block;
+    padding: 12px 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #4372d6;
+    border-radius: 6px;
+    outline: 0;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-bottom: 7px;
+    width: 120px;
+}
 </style>
 </head>
 <body>
@@ -96,7 +110,7 @@ third_nav_title: '华语论坛'
 
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-<a href="/test/Chinese-poster/" style="position:absolute;margin-left: -100px;"><div class="btnClass">Click A</div></a>
+<a href="/test/Chinese-poster/" style="position:absolute;margin-left: -100px;"><div class="hl">Click A</div></a>
 </td>
 </tr>
 <tr>
@@ -112,7 +126,7 @@ third_nav_title: '华语论坛'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/" style="position:absolute;margin-left: -100px;"><div class="btnClass">Click B</div></a>
+ <a href="/test/Chinese-poster/" style="position:absolute;margin-left: -100px;"><div class="hl">Click B</div></a>
 </td>
 </tr>
 </table>
