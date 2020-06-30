@@ -101,7 +101,7 @@ td {
 
 </td>
 <td>
-<a href="/test/Chinese-poster/" style="float:right;">Click 1</a>
+<a href="/test/Chinese-poster/" style="float:right;">Click here</a>
 </td>
 </tr>
 <tr>
@@ -117,7 +117,7 @@ td {
 </div>
 </td>
 <td>
- <a href="/test/Chinese-poster/" style="float:right;">Click B</a>
+ <a href="/test/Chinese-poster/" style="float:right;">Click here</a>
 </td>
 </tr>
 </table>
