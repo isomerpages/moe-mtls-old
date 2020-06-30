@@ -134,5 +134,22 @@ third_nav_title: '华文学习展示区'
  <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
 </td>
 </tr>
+
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+      <label for="tab-2">李光耀双语基金<br/>Lee Kuan Yew Fund for Bilingualism</label>
+      <div class="tab-content">
+        <p>
+          This is the content for Exhibitor 2.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;">
+ <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+</td>
+</tr>
 </table>
 </body>
