@@ -151,5 +151,69 @@ third_nav_title: '华文学习展示区'
  <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
 </td>
 </tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+      <label for="tab-2">联合早报<br/>LianheZaobao</label>
+      <div class="tab-content">
+        <p>
+          This is the content for Exhibitor 2.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;">
+ <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+</td>
+</tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+      <label for="tab-2">国家文物局<br/>National Heritage Board</label>
+      <div class="tab-content">
+        <p>
+          This is the content for Exhibitor 2.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;">
+ <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+</td>
+</tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+      <label for="tab-2">国立教育学院（亚洲语言文化学部<br/>National Institute of Education (Asian Languages and Cultures Academic Group)</label>
+      <div class="tab-content">
+        <p>
+          This is the content for Exhibitor 2.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;">
+ <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+</td>
+</tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+      <label for="tab-2">国家图书馆管理局<br/>National Library Board</label>
+      <div class="tab-content">
+        <p>
+          This is the content for Exhibitor 2.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;">
+ <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+</td>
+</tr>
 </table>
 </body>
