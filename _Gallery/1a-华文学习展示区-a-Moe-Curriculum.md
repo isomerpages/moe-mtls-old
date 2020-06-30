@@ -1,5 +1,5 @@
 ---
-title: '华文学习展示区    ( MOE Curriculum )'
+title: '华文学习展示区  ( MOE Curriculum aa)'
 permalink: /Gallery/华文学习展示区-a/Moe-Curriculum/
 breadcrumb: '华文学习展示区'
 collection_name: Gallery
