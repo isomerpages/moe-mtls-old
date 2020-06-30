@@ -18,8 +18,6 @@ third_nav_title: '华语论坛'
 }
 .tdNone {
     border:0 none;
-    padding:0; 
-    margin:0;
 }
 .tab-content {
   overflow: hidden;
@@ -103,7 +101,7 @@ third_nav_title: '华语论坛'
 
 </td>
 <td class="tdNone">
-<a href="/test/Chinese-poster/" style="float:right;">Click A</a>
+<a href="/test/Chinese-poster/" style="float:right;">Click 1</a>
 </td>
 </tr>
 <tr>
@@ -119,7 +117,7 @@ third_nav_title: '华语论坛'
 </div>
 </td>
 <td class="tdNone">
- <a href="/test/Chinese-poster/" style="float:right;">Click B</a>
+ <a href="/test/Chinese-poster/" style="float:right;">Click 2</a>
 </td>
 </tr>
 </table>
