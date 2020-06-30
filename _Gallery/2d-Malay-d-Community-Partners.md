@@ -137,7 +137,88 @@ third_nav_title: 'Malay'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">	Lembaga Warisan Negara<br/>National Heritage Board</label>
+      <label for="tab-2">Lembaga Warisan Negara<br/>National Heritage Board</label>
+      <div class="tab-content">
+        <p>
+          This is the content for Exhibitor 2.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;">
+ <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+</td>
+</tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+      <label for="tab-2">Institut Pendidikan Nasional (Kumpulan Akademik Bahasa dan Kebudayaan Asia)<br/>National Institute of Education(Asian Languages and Cultures Academic Group)</label>
+      <div class="tab-content">
+        <p>
+          This is the content for Exhibitor 2.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;">
+ <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+</td>
+</tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+      <label for="tab-2">Lembaga Perpustakaan Negara<br/>National Library Board</label>
+      <div class="tab-content">
+        <p>
+          This is the content for Exhibitor 2.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;">
+ <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+</td>
+</tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+      <label for="tab-2">M Kuasa Tiga (M3) Nee Soon	<br/>M3 @ Nee Soon</label>
+      <div class="tab-content">
+        <p>
+          This is the content for Exhibitor 2.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;">
+ <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+</td>
+</tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+      <label for="tab-2">Jawatankuasa Pembelajaran dan Penggalakkan Penggunaan Bahasa Melayu <br/>Malay Language Learning and Promotion Committee</label>
+      <div class="tab-content">
+        <p>
+          This is the content for Exhibitor 2.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;">
+ <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+</td>
+</tr>
+
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+      <label for="tab-2">Wildlife Reserves Singapore	<br/>Wildlife Reserves Singapore</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
