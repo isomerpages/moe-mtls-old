@@ -114,7 +114,7 @@ third_nav_title: '华语论坛'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/" style="position:absolute;margin-left: -60px;">Click here</a>
+ <a href="/test/Chinese-poster/" style="position:absolute;margin-left: -100px;">Click A</a>
 </td>
 </tr>
 </table>
