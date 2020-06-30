@@ -10,6 +10,12 @@ third_nav_title: '华语论坛'
 <html>
 <head>
 <style>
+.content table th {
+    /* border: 1px solid #d6d6d6;*/
+    border-width: 0 0 1px;
+    /* padding: .5em .75em; */
+    vertical-align: top;
+}
 .tbl{
     border:0 none;
     padding:0; 
