@@ -25,9 +25,8 @@ third_nav_title: '华语论坛'
   display: none;
 }
 .atab{
-      margin-bottom: 5px;
-  width:700px;
-  
+  margin-bottom: 5px;
+  width:700px;  
 }
 .atab input:checked ~ .tab-content {
   display: inline-block;
@@ -54,7 +53,7 @@ third_nav_title: '华语论坛'
 }
 .atab input[type=checkbox]:checked + label::after,
 .atab input[type=radio]:checked + label::after {
-    content: '-';
+    content: 'x';
     right: 14px;
     top: 3px;
   //transform:rotate(-225deg);
