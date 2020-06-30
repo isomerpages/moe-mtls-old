@@ -69,6 +69,10 @@ third_nav_title: '华语论坛'
 </head>
 <body>
   
+  
+<table>
+<tr>
+<td>
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1">Asian Languages and Culture Academic Group, National Institute of Education</label>
@@ -81,20 +85,16 @@ third_nav_title: '华语论坛'
 
 <h3>The World of Stories – Fun in Language Learning and Values Inculcation</h3>
 <p>Stories are a great way to engage children in language learning and exposing them to the value system of a culture behind the language.  Children immerse themselves in the language while enjoying the stories and pick up cultural nuances embedded in them.  Being acquainted with the way values are highlighted will help children have deeper appreciation for the culture and better understanding of the language.  The Asian Languages and Cultures Academic Group from the National Institute of Education is providing video resources and tips for parents to help their children learn their MTL and the corresponding cultures through story-telling, covering the whole process from selection of stories, the actual story-telling process and post story-telling discussion.  This will help parents gain a better understanding of how to fully tap onto story-telling to help their children learn MTL and their values in a fun and engaging way at home. <br/>
-<a href="/test/Chinese-poster/" style="float:right;">Click here to visit the exhibition.</a>
+
 </p>
       </div>
 </div>
 
-<div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">Exhibitor 2</label>
-      <div class="tab-content">
-        <p>
-          This is the content for Exhibitor 2.
-        </p>
-      </div>
-</div>
-
+</td>
+<td>
+<a href="/test/Chinese-poster/" style="float:right;">Click here</a>
+</td>
+</tr>
+</table>
 
 </body>
