@@ -36,6 +36,7 @@ third_nav_title: '华语论坛'
   display: none;
 }
 .atab label {
+  position: relative;
   display: block;
   background: #4372d6;
   color: #fff;
@@ -44,15 +45,19 @@ third_nav_title: '华语论坛'
   cursor: pointer;
 }
 .atab label::after {
-  content: "\25b6";
+  content: "+";
+  font-size: 22px;
   position: absolute;
   right: 10px;
-  top: 10px;
+  top: 2px;
   transition: all 0.4s;
 }
 .atab input[type=checkbox]:checked + label::after,
 .atab input[type=radio]:checked + label::after {
-  transform:rotate(-225deg);
+    content: '-';
+    right: 14px;
+    top: 3px;
+  //transform:rotate(-225deg);
    /* transform: rotate(90deg); */
 }
   
