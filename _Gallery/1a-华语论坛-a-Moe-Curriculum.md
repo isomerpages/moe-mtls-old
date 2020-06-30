@@ -114,13 +114,51 @@ third_nav_title: '华语论坛'
       <label for="tab-2">小学	<br/>Primary School</label>
       <div class="tab-content">
         <p>
-          This is the content for Exhibitor 2.
+          This is the content for 小学.
         </p>
       </div>
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
  <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+</td>
+    <td style="border:0 none;padding: 0; margin:0;">
+<a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+</td>
+</tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+      <label for="tab-2">中学	<br/>Secondary School</label>
+      <div class="tab-content">
+        <p>
+          This is the content for 中学.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;">
+ <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+</td>
+</tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+      <label for="tab-2">iv.	高中<br/>Pre-University</label>
+      <div class="tab-content">
+        <p>
+          This is the content for iv.	高中	.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;">
+ <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+</td>
+    <td style="border:0 none;padding: 0; margin:0;">
+<a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
 </td>
 </tr>
 </table>
