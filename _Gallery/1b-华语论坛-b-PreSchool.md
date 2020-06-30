@@ -102,12 +102,12 @@ third_nav_title: '华语论坛'
 </div>
 
 </td>
-<td>
+<td class="tdNone">
 <a href="/test/Chinese-poster/" style="float:right;">Click A</a>
 </td>
 </tr>
 <tr>
-<td>
+<td class="tdNone">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2">Exhibitor 2</label>
@@ -118,7 +118,7 @@ third_nav_title: '华语论坛'
       </div>
 </div>
 </td>
-<td>
+<td class="tdNone">
  <a href="/test/Chinese-poster/" style="float:right;">Click B</a>
 </td>
 </tr>
