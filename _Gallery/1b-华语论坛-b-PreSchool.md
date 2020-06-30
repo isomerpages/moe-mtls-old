@@ -16,11 +16,10 @@ third_nav_title: '华语论坛'
     margin:0;
     border-collapse: collapse;
 }
-td {
+.tdNone {
     border:0 none;
     padding:0; 
     margin:0;
-    border-collapse: collapse;
 }
 .tab-content {
   overflow: hidden;
@@ -84,7 +83,7 @@ td {
   
 <table class="tbl">
 <tr>
-<td>
+<td class="tdNone">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1">Asian Languages and Culture Academic Group, National Institute of Education</label>
