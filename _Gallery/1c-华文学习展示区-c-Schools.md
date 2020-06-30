@@ -1,9 +1,9 @@
 ---
 title: 'Schools'
-permalink: /Gallery/华语论坛-c/Schools/
-breadcrumb: '华语论坛'
+permalink: /Gallery/华文学习展示区-c/Schools/
+breadcrumb: '华文学习展示区'
 collection_name: Gallery
-third_nav_title: '华语论坛'
+third_nav_title: '华文学习展示区'
 ---
 
 ## Schools
