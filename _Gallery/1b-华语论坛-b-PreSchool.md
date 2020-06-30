@@ -16,7 +16,7 @@ third_nav_title: '华语论坛'
     margin:0;
     border-collapse: collapse;
 }
- th, td {
+td {
     padding: 0;
 }
 .tab-content {
