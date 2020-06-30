@@ -13,6 +13,8 @@ third_nav_title: '华文学习展示区'
   <a href="#Pri"><div style="display:inline-block;" class="btnClass">Pri</div></a>
   <a href="#Sec"><div style="display:inline-block;" class="btnClass">Sec</div></a>
   <a href="#PreU"><div style="display:inline-block;" class="btnClass">PreU</div></a><div id="Prech"><br/>
+
+<div id="Prech"><br/>
 <p>This is the content for Prech.</p><br/>
 </div>
 <div id="Pri"><br/>
@@ -20,9 +22,11 @@ third_nav_title: '华文学习展示区'
 </div>
 <div id="Sec"><br/>
 <p>This is the content for Sec.</p><br/>
-div id="PreU"><br/>
+</div>
+<div id="PreU"><br/>
 <p>This is the content for PreU.</p><br/>
-</div></div>
+</div>
+</div>
 <table border="0">
 
   <tr>
@@ -33,3 +37,4 @@ div id="PreU"><br/>
     </td>
    </tr>
 </table>
+</div>
