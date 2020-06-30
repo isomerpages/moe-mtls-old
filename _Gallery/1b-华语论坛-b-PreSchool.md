@@ -16,9 +16,6 @@ third_nav_title: '华语论坛'
     margin:0;
     border-collapse: collapse;
 }
-.tdNone {
-    border:0 none;
-}
 .tab-content {
   overflow: hidden;
   display: none;
@@ -81,7 +78,7 @@ third_nav_title: '华语论坛'
   
 <table class="tbl">
 <tr>
-<td class="tdNone">
+<td style="border:0 none;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1">Asian Languages and Culture Academic Group, National Institute of Education</label>
@@ -100,12 +97,12 @@ third_nav_title: '华语论坛'
 </div>
 
 </td>
-<td class="tdNone">
+<td style="border:0 none;">
 <a href="/test/Chinese-poster/" style="float:right;">Click 1</a>
 </td>
 </tr>
 <tr>
-<td class="tdNone">
+<td>
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2">Exhibitor 2</label>
@@ -116,7 +113,7 @@ third_nav_title: '华语论坛'
       </div>
 </div>
 </td>
-<td class="tdNone">
+<td>
  <a href="/test/Chinese-poster/" style="float:right;">Click 2</a>
 </td>
 </tr>
