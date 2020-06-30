@@ -1,5 +1,5 @@
 ---
-title: '华文学习展示区  ( MOE Curriculum aa)'
+title: '华文学习展示区  ( MOE Curriculum )'
 permalink: /Gallery/华文学习展示区-a/Moe-Curriculum/
 breadcrumb: '华文学习展示区'
 collection_name: Gallery
@@ -27,6 +27,9 @@ third_nav_title: '华文学习展示区'
 <p>This is the content for PreU.</p><br/>
 </div>
 </div>
+
+</div>
+
 <table border="0">
 
   <tr>
@@ -37,4 +40,4 @@ third_nav_title: '华文学习展示区'
     </td>
    </tr>
 </table>
-</div>
+
