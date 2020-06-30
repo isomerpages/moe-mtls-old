@@ -78,20 +78,6 @@ third_nav_title: '华语论坛'
   /* max-height: 100vh; */
   height: 100%;
 }
-.hl{
-    display: inline-block;
-    padding: 12px 20px;
-    text-align: center;
-    text-decoration: none;
-    color: #fff;
-    background-color: #4372d6;
-    border-radius: 6px;
-    outline: 0;
-    cursor: pointer;
-    margin-right: 10px;
-    margin-bottom: 7px;
-    width: 120px;
-}
 </style>
 </head>
 <body>
