@@ -16,6 +16,9 @@ third_nav_title: '华语论坛'
     margin:0;
     border-collapse: collapse;
 }
+ th, td {
+    padding: 0;
+}
 .tab-content {
   overflow: hidden;
   display: none;
@@ -98,7 +101,7 @@ third_nav_title: '华语论坛'
 
 </td>
 <td>
-<a href="/test/Chinese-poster/" style="float:right;">Click A</a>
+<a href="/test/Chinese-poster/" style="float:right;">Click 1</a>
 </td>
 </tr>
 <tr>
