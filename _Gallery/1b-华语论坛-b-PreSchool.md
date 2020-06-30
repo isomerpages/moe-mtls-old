@@ -48,7 +48,6 @@ third_nav_title: '华语论坛'
   position: absolute;
   right: 10px;
   top: 10px;
-  display: block;
   transition: all 0.4s;
 }
 .atab input[type=checkbox]:checked + label::after,
