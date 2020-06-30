@@ -92,7 +92,23 @@ third_nav_title: '华语论坛'
 
 </td>
 <td>
-<a href="/test/Chinese-poster/" style="float:right;">Click here</a>
+<a href="/test/Chinese-poster/" style="float:right;">Click here1</a>
+</td>
+</tr>
+<tr>
+<td>
+<div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+      <label for="tab-2">Exhibitor 2</label>
+      <div class="tab-content">
+        <p>
+          This is the content for Exhibitor 2.
+        </p>
+      </div>
+</div>
+</td>
+<td>
+ <a href="/test/Chinese-poster/" style="float:right;">Click here2</a>
 </td>
 </tr>
 </table>
