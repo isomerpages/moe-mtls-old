@@ -16,6 +16,10 @@ third_nav_title: '华语论坛'
     margin:0;
     border-collapse: collapse;
 }
+.tbl a {
+    position:absolute;
+    margin-left: -100px;
+}
 .tab-content {
   overflow: hidden;
   display: none;
@@ -110,7 +114,7 @@ third_nav_title: '华语论坛'
 
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-<a href="/test/Chinese-poster/" style="position:absolute;margin-left: -100px;"><div class="hl">Click A</div></a>
+<a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
 </td>
 </tr>
 <tr>
@@ -126,7 +130,7 @@ third_nav_title: '华语论坛'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/" style="position:absolute;margin-left: -100px;"><div class="hl">Click B</div></a>
+ <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
 </td>
 </tr>
 </table>
