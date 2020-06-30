@@ -96,7 +96,7 @@ third_nav_title: '华语论坛'
 
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-<a href="/test/Chinese-poster/" style="position:absolute;margin-left: -100px;">Click here</a>
+<a href="/test/Chinese-poster/" style="position:absolute;margin-left: -100px;"><div class="btnClass">Click A</div></a>
 </td>
 </tr>
 <tr>
@@ -112,7 +112,7 @@ third_nav_title: '华语论坛'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/" style="position:absolute;margin-left: -100px;">Click here</a>
+ <a href="/test/Chinese-poster/" style="position:absolute;margin-left: -100px;"><div class="btnClass">Click B</div></a>
 </td>
 </tr>
 </table>
