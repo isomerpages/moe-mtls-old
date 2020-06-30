@@ -1,5 +1,5 @@
 ---
-title: 'Community Partners'
+title: '社区合作伙伴 (Community Partners)'
 permalink: /Gallery/华文学习展示区-d/Community-Partners/
 breadcrumb: '华文学习展示区'
 collection_name: Gallery
