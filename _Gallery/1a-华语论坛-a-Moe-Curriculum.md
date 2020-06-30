@@ -104,7 +104,7 @@ third_nav_title: '华语论坛'
 <td>
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1">Asian Languages and Culture Academic Group, National Institute of Education</label>
+      <label for="tab-1">学前教育中心 <br/>Preschool</label>
       <div class="tab-content">
       <h3>故事天地——乐趣无穷的语言学习和价值传承</h3>
       <p>
