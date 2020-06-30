@@ -1,7 +1,7 @@
 title: 'PreSchool'
-permalink: /Exhibition/Tamil-a/Moe-Curriculum/
+permalink: /Gallery/Tamil-a/PreSchool/
 breadcrumb: 'Tamil'
-collection_name: Exhibition
+collection_name: Gallery
 third_nav_title: 'Tamil'
 ---
 
