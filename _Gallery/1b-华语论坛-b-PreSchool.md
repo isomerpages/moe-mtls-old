@@ -10,6 +10,12 @@ third_nav_title: '华语论坛'
 <html>
 <head>
 <style>
+.tbl{
+    border: 0px;
+    padding:0; 
+    margin:0;
+    border-collapse: collapse;
+}
 .tab-content {
   overflow: hidden;
   display: none;
@@ -70,7 +76,7 @@ third_nav_title: '华语论坛'
 <body>
   
   
-<table style="border-style: none;">
+<table class="tbl">
 <tr>
 <td>
 <div class="atab">
@@ -92,7 +98,7 @@ third_nav_title: '华语论坛'
 
 </td>
 <td>
-<a href="/test/Chinese-poster/" style="float:right;">Click 1</a>
+<a href="/test/Chinese-poster/" style="float:right;">Click A</a>
 </td>
 </tr>
 <tr>
@@ -108,7 +114,7 @@ third_nav_title: '华语论坛'
 </div>
 </td>
 <td>
- <a href="/test/Chinese-poster/" style="float:right;">Click 2</a>
+ <a href="/test/Chinese-poster/" style="float:right;">Click B</a>
 </td>
 </tr>
 </table>
