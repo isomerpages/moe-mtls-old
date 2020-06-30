@@ -111,7 +111,7 @@ third_nav_title: '华语论坛'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">Exhibitor 2</label>
+      <label for="tab-2">小学	<br/>Primary School</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
