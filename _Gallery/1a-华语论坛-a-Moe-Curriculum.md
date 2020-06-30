@@ -10,7 +10,7 @@ third_nav_title: '华语论坛'
 <html>
 <head>
 <style>
-    .hl{
+.hl{
     display: inline-block;
     padding: 12px 20px;
     text-align: center;
@@ -30,7 +30,7 @@ third_nav_title: '华语论坛'
     margin:0;
     border-collapse: collapse;
 }
-    .tbl td{
+.tbl td{
     border:0 none;padding: 0; margin:0;
 }
 .tbl a {
@@ -42,9 +42,8 @@ third_nav_title: '华语论坛'
   display: none;
 }
 .atab{
-      margin-bottom: 5px;
-  width:700px;
-  
+  margin-bottom: 5px;
+  width:700px;  
 }
 .atab input:checked ~ .tab-content {
   display: inline-block;
@@ -71,7 +70,7 @@ third_nav_title: '华语论坛'
 }
 .atab input[type=checkbox]:checked + label::after,
 .atab input[type=radio]:checked + label::after {
-    content: '-';
+    content: 'x';
     right: 14px;
     top: 3px;
   //transform:rotate(-225deg);
@@ -102,10 +101,10 @@ third_nav_title: '华语论坛'
   
 <table class="tbl">
 <tr>
-<td style="border:0 none;padding: 0; margin:0;">
+<td>
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1">学前教育中心<br/>Preschool</label>
+      <label for="tab-1">Asian Languages and Culture Academic Group, National Institute of Education</label>
       <div class="tab-content">
       <h3>故事天地——乐趣无穷的语言学习和价值传承</h3>
       <p>
@@ -120,15 +119,15 @@ third_nav_title: '华语论坛'
 </div>
 
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td>
 <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
 </td>
 </tr>
 <tr>
-<td style="border:0 none;padding: 0; margin:0;">
+<td>
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">小学	<br/>Primary School</label>
+      <label for="tab-2">小学 <br/>Primary School</label>
       <div class="tab-content">
         <p>
           This is the content for 小学.
@@ -136,42 +135,9 @@ third_nav_title: '华语论坛'
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td>
  <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
 </td>
-</tr>
-<tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">中学	<br/>Secondary School</label>
-      <div class="tab-content">
-        <p>
-          This is the content for 中学.
-        </p>
-      </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
-</td>
-</tr>
-<tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">高中<br/>Pre-University</label>
-      <div class="tab-content">
-        <p>
-          This is the content for 高中	.
-        </p>
-      </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
-</td>
-   
 </tr>
 </table>
 
