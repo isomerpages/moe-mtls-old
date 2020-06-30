@@ -16,7 +16,6 @@ third_nav_title: '华语论坛'
 }
 .atab{
       margin-bottom: 5px;
-  display:inline;
   width:700px;
   
 }
