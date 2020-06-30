@@ -92,7 +92,7 @@ third_nav_title: '华语论坛'
 
 </td>
 <td>
-<a href="/test/Chinese-poster/" style="float:right;">Click here1</a>
+<a href="/test/Chinese-poster/" style="float:right;">Click 1</a>
 </td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ third_nav_title: '华语论坛'
 </div>
 </td>
 <td>
- <a href="/test/Chinese-poster/" style="float:right;">Click here2</a>
+ <a href="/test/Chinese-poster/" style="float:right;">Click 2</a>
 </td>
 </tr>
 </table>
