@@ -6,7 +6,7 @@ collection_name: Gallery
 third_nav_title: '华文学习展示区'
 ---
 
-## Community Partners
+## 	社区合作伙伴 (Community Partners)
 <html>
 <head>
 <style>
