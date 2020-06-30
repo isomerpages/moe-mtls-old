@@ -70,7 +70,7 @@ third_nav_title: '华语论坛'
 <body>
   
   
-<table>
+<table style="border: none;border-style: none;">
 <tr>
 <td>
 <div class="atab">
