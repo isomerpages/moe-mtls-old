@@ -10,6 +10,20 @@ third_nav_title: '华文学习展示区'
 <html>
 <head>
 <style>
+ div.btntop {
+ position:fixed;
+ float:right;
+ bottom:20px;
+ right:80px;
+ z-index:99;
+ boder:none;
+ background-color:blue;
+ cursor:pointer;
+ padding:15px;
+  boder-radius:4px;
+  color:white;
+  font-weight:600;
+    }
 .hl{
     display: inline-block;
     padding: 12px 20px;
@@ -129,6 +143,6 @@ third_nav_title: '华文学习展示区'
 </td>
 </tr>
 </table>
-<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:black"><b>Top</b></span></a></div>
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
 
 </body>
