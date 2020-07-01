@@ -17,7 +17,7 @@ div.btntop {
  right:80px;
  z-index:99;
  boder:none;
- background-color:blue;
+ background-color:#4169e1;
  cursor:pointer;
  padding:15px;
   boder-radius:4px;
