@@ -1,9 +1,9 @@
 ---
-title: 'PreSchool'
-permalink: /Gallery/Malay-b/PreSchool/
-breadcrumb: 'Malay'
+title: 'Prasekolah (PreSchool)'
+permalink: /Gallery/Pameran-Bahasa-Melayu-b/PreSchool/
+breadcrumb: 'Pameran- Bahasa- Melayu'
 collection_name: Gallery
-third_nav_title: 'Malay'
+third_nav_title: 'Pameran Bahasa Melayu'
 ---
 ##  Prasekolah  (PreSchool)
 <html>
