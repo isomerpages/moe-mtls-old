@@ -33,7 +33,7 @@ third_nav_title: 'Malay'
     position:absolute;
     margin-left: -100px;
 }
-  .tab-content {
+ .tab-content {
   overflow: hidden;
   display: none;
 }
@@ -55,14 +55,6 @@ third_nav_title: 'Malay'
   font-weight: bold;
   padding: 10px;
   cursor: pointer;
-}
-   .atab input[type=checkbox]:checked + label::after,
-.atab input[type=radio]:checked + label::after {
-    content: 'x';
-    right: 14px;
-    top: 3px;
-  //transform:rotate(-225deg);
-   /* transform: rotate(90deg); */
 }
   
 .tab-content {
