@@ -57,14 +57,6 @@ third_nav_title: '华文学习展示区'
   padding: 10px;
   cursor: pointer;
 }
-.atab label::after {
-  content: "+";
-  font-size: 22px;
-  position: absolute;
-  right: 10px;
-  top: 2px;
-  transition: all 0.4s;
-}
   .atab input[type=checkbox]:checked + label::after,
 .atab input[type=radio]:checked + label::after {
     content: 'x';
