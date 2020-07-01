@@ -407,4 +407,12 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
     height: 100%;
 }
+.atab label::after {
+  content: "+";
+  font-size: 22px;
+  position: absolute;
+  right: 10px;
+  top: 2px;
+  transition: all 0.4s;
+}
 
