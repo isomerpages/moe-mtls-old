@@ -1,9 +1,9 @@
 ---
-title: 'Community Partners'
-permalink: /Exhibition/Tamil-d/Community-Partners/
-breadcrumb: 'Tamil'
-collection_name: Exhibition
-third_nav_title: 'Tamil'
+title: 'சமூகப் பங்காளர்கள் (Community Partners)'
+permalink: /Gallery/கல்வி-அமைச்சின்-பாடக்கலைத்திட்டம்-d/Community-Partners/
+breadcrumb: 'கல்வி-அமைச்சின்-பாடக்கலைத்திட்டம்'
+collection_name: Gallery
+third_nav_title: 'கல்வி அமைச்சின் பாடக்கலைத்திட்டம்'
 ---
 
 ## 	சமூகப் பங்காளர்கள்  (Community Partners)
