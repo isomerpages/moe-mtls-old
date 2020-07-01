@@ -6,7 +6,7 @@ collection_name: Exhibition
 third_nav_title: 'Malay'
 ---
 
-## a.	Reruai Kurikulum Kementerian Pendidikan Singapura (MOE) (MOE Curriculum)
+## Reruai Kurikulum Kementerian Pendidikan Singapura (MOE) (MOE Curriculum)
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
 <div class="tab">
   <a href="#Prech"><div style="display:inline-block;" class="btnClass">Pre Sch</div></a>
