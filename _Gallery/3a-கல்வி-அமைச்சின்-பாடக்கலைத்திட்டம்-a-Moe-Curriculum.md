@@ -1,5 +1,5 @@
 ---
-title: 'MOE Curriculum'
+title: 'கல்வி அமைச்சின் பாடக்கலைத்திட்டம் (MOE Curriculum)'
 permalink: /Exhibition/Tamil-a/Moe-Curriculum/
 breadcrumb: 'Tamil'
 collection_name: Exhibition
