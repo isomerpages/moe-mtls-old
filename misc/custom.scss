@@ -415,4 +415,12 @@ $desktop: 960px + (2 * $gap) !default;
   top: 18px;
   transition: all 0.4s;
 }
+.atab input[type=checkbox]:checked + label::after,
+.atab input[type=radio]:checked + label::after {
+    content: 'x';
+    right: 14px;
+    top: 18px;
+  //transform:rotate(-225deg);
+   /* transform: rotate(90deg); */
+}
 
