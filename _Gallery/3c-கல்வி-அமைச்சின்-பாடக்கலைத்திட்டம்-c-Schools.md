@@ -1,9 +1,9 @@
 ---
-title: 'Schools'
-permalink: /Exhibition/Tamil-c/Schools/
-breadcrumb: 'Tamil'
-collection_name: Exhibition
-third_nav_title: 'Tamil'
+title: 'பள்ளிகள் (Schools)'
+permalink: /Gallery/கல்வி-அமைச்சின்-பாடக்கலைத்திட்டம்-c/Schools/
+breadcrumb: 'கல்வி-அமைச்சின்-பாடக்கலைத்திட்டம்'
+collection_name: Gallery
+third_nav_title: 'கல்வி அமைச்சின் பாடக்கலைத்திட்டம்'
 ---
 
 ##  பள்ளிகள்  (Schools)
