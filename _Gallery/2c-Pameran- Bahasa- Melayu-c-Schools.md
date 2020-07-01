@@ -1,9 +1,9 @@
 ---
-title: 'Schools'
-permalink: /Exhibition/Malay-c/Schools/
-breadcrumb: 'Malay'
-collection_name: Exhibition
-third_nav_title: 'Malay'
+title: 'Sekolah (Schools)'
+permalink: /Gallery/Pameran- Bahasa- Melayu-c/Schools/
+breadcrumb: 'Pameran- Bahasa- Melayu'
+collection_name: Gallery
+third_nav_title: 'Pameran Bahasa Melayu'
 ---
 
 ## Sekolah  (Schools)
