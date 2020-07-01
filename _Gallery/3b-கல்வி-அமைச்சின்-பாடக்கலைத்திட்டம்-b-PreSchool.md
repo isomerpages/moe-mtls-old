@@ -149,3 +149,5 @@ third_nav_title: 'கல்வி அமைச்சின் பாடக்க
  <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
 </td>
 </tr>
+</table>
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
