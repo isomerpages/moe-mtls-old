@@ -153,7 +153,7 @@ third_nav_title: 'Tamil'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">iv.	ஊட்லண்ட்ஸ் உயர்நிலைப்பள்ளி<br/>Woodlands Secondary School</label>
+      <label for="tab-2">	ஊட்லண்ட்ஸ் உயர்நிலைப்பள்ளி<br/>Woodlands Secondary School</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
