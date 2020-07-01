@@ -6,7 +6,7 @@ collection_name: Gallery
 third_nav_title: '华文学习展示区'
 ---
 
-## MOE Curriculum
+##  	教育部课程  (MOE Curriculum)
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
 <div class="tab">
   <a href="#Prech"><div style="display:inline-block;" class="btnClass">Pre Sch</div></a>
