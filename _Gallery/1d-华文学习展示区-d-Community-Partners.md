@@ -211,7 +211,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">新加坡华文教研中心<br/>Singapore Centre for ChineseLanguage</label>
+      <label for="tab-2">新加坡华文教研中心<br/>Singapore Centre for Chinese Language</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
