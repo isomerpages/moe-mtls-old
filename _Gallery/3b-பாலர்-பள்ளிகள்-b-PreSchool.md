@@ -1,9 +1,9 @@
 ---
 title: 'PreSchool'
-permalink: /Gallery/Tamil-b/PreSchool/
-breadcrumb: 'Tamil'
+permalink: /Gallery/பாலர்-பள்ளிகள்-b/PreSchool/
+breadcrumb: 'கல்வி-அமைச்சின்-பாடக்கலைத்திட்டம்'
 collection_name: Gallery
-third_nav_title: 'Tamil'
+third_nav_title: 'கல்வி-அமைச்சின்-பாடக்கலைத்திட்டம்'
 ---
 
 ##  Prasekolah (PreSchool)
