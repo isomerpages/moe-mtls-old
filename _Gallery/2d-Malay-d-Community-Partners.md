@@ -153,7 +153,7 @@ third_nav_title: 'Malay'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">Institut Pendidikan Nasional (Kumpulan Akademik Bahasa dan Kebudayaan Asia)<br/>National Institute of Education(Asian Languages and Cultures Academic Group)</label>
+      <label for="tab-2">Institut Pendidikan Nasional  (Kumpulan Akademik Bahasa dan Kebudayaan Asia)<br/>National Institute of Education(Asian Languages and Cultures Academic Group)</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
