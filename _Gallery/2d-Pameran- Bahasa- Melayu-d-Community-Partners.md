@@ -1,9 +1,9 @@
 ---
-title: 'Community Partners'
-permalink: /Exhibition/Malay-d/Community-Partners/
-breadcrumb: 'Malay'
-collection_name: Exhibition
-third_nav_title: 'Malay'
+title: 'Rakan Kerjasama Masyarakat (Community Partner)'
+permalink: /Gallery/Pameran- Bahasa- Melayu-d/Community-Partners/
+breadcrumb: 'Pameran- Bahasa- Melayu'
+collection_name: Gallery
+third_nav_title: 'Pameran Bahasa Melayu'
 ---
 
 ## 	Rakan Kerjasama Masyarakat  (Community Partners)
