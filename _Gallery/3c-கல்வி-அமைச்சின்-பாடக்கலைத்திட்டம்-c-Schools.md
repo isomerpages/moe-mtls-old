@@ -10,6 +10,20 @@ third_nav_title: 'கல்வி அமைச்சின் பாடக்க
 <html>
 <head>
 <style>
+ div.btntop {
+ position:fixed;
+ float:right;
+ bottom:20px;
+ right:80px;
+ z-index:99;
+ boder:none;
+ background-color:#4169e1;
+ cursor:pointer;
+ padding:15px;
+  boder-radius:4px;
+  color:white;
+  font-weight:600;
+}
 .hl{
     display: inline-block;
     padding: 12px 20px;
@@ -165,3 +179,5 @@ third_nav_title: 'கல்வி அமைச்சின் பாடக்க
  <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
 </td>
 </tr>
+</table>
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
