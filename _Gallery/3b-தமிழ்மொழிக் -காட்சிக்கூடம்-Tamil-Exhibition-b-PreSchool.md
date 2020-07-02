@@ -71,7 +71,7 @@ div.btntop {
 
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-<a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+<a href="/test/Chinese-poster/"><div class="hl">கிளிக் செய்யுங்கள்</div></a>
 </td>
 </tr>
 <tr>
