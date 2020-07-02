@@ -1,6 +1,6 @@
 ---
-title: 'தமிழ்மொழிக் -காட்சிக்கூடம் (MOE Curriculum)'
-permalink: /Gallery/தமிழ்மொழிக் -காட்சிக்கூடம்-Tamil-Exhibition-a/Moe-Curriculum/
+title: 'தமிழ்மொழிக் காட்சிக்கூடம் (MOE Curriculum)'
+permalink: /Gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-Tamil-Exhibition-a/Moe-Curriculum/
 breadcrumb: '	தமிழ்மொழிக் -காட்சிக்கூடம்-Tamil-Exhibition'
 collection_name: Gallery
 third_nav_title: 'தமிழ்மொழிக் காட்சிக்கூடம் Tamil Exhibition'
