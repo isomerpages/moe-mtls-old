@@ -71,7 +71,7 @@ div.btntop {
 
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-<a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+<a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
 </td>
 </tr>
 <tr>
@@ -87,7 +87,7 @@ div.btntop {
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
 </td>
 </tr>
 <tr>
@@ -103,7 +103,7 @@ div.btntop {
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
 </td>
 </tr>
 <tr>
@@ -119,7 +119,7 @@ div.btntop {
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
 </td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@ div.btntop {
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
 </td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ div.btntop {
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
 </td>
 </tr>
 <tr>
@@ -167,7 +167,7 @@ div.btntop {
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
 </td>
 </tr>
 <tr>
@@ -183,7 +183,7 @@ div.btntop {
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
 </td>
 </tr>
 <tr>
@@ -199,7 +199,7 @@ div.btntop {
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
 </td>
 </tr>
 </table>
