@@ -1,9 +1,9 @@
 ---
 title: 'பாலர் பள்ளிகள் (PreSchool)'
-permalink: /Gallery/கல்வி-அமைச்சின்-பாடக்கலைத்திட்டம்-b/PreSchool/
-breadcrumb: 'கல்வி-அமைச்சின்-பாடக்கலைத்திட்டம்'
+permalink: /Gallery/கல்வி-அமைச்சின்-பாடக்கலைத்திட்டம்-Tamil-Exhibition-b/PreSchool/
+breadcrumb: 'கல்வி-அமைச்சின்-பாடக்கலைத்திட்டம்-Tamil-Exhibition'
 collection_name: Gallery
-third_nav_title: 'கல்வி அமைச்சின் பாடக்கலைத்திட்டம்'
+third_nav_title: 'கல்வி அமைச்சின் பாடக்கலைத்திட்டம் Tamil Exhibition'
 ---
 
 ##  Prasekolah (PreSchool)
