@@ -1,9 +1,9 @@
 ---
 title: 'சமூகப் பங்காளர்கள் (Community Partners)'
-permalink: /Gallery/கல்வி-அமைச்சின்-பாடக்கலைத்திட்டம்-d/Community-Partners/
-breadcrumb: 'கல்வி-அமைச்சின்-பாடக்கலைத்திட்டம்'
+permalink: /Gallery/கல்வி-அமைச்சின்-பாடக்கலைத்திட்டம்-Tamil-Exhibition-d/Community-Partners/
+breadcrumb: 'கல்வி-அமைச்சின்-பாடக்கலைத்திட்டம்-Tamil-Exhibition'
 collection_name: Gallery
-third_nav_title: 'கல்வி அமைச்சின் பாடக்கலைத்திட்டம்'
+third_nav_title: 'கல்வி அமைச்சின் பாடக்கலைத்திட்டம் Tamil Exhibition'
 ---
 
 ## 	சமூகப் பங்காளர்கள்  (Community Partners)
