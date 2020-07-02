@@ -56,7 +56,7 @@ div.btntop {
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1">கல்வி அமைச்சின் பாலர் பள்ளி (ஃபேரர் பார்க்)<br/>MK@Farrer Park</label>
+      <label for="tab-1">கல்விஅமைச்சின்பாலர்பள்ளி (ஃபேரர்பார்க்)<br/>MK@Farrer Park</label>
       <div class="tab-content">
       <h3>கதைகளின் உலகம் – மகிழ்வூட்டும் மொழி கற்றலும்  விழுமியங்கள் கற்பித்தலும் </h3>
       <p>
@@ -78,7 +78,7 @@ div.btntop {
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">கல்வி அமைச்சின் பாலர் பள்ளி (வோட்டர்வே)<br/>MK@Waterway</label>
+      <label for="tab-2">கல்விஅமைச்சின்பாலர்பள்ளி (வோட்டர்வே)<br/>MK@Waterway</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
