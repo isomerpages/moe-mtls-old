@@ -1,9 +1,9 @@
 ---
-title: 'கல்வி அமைச்சின் பாடக்கலைத்திட்டம் (MOE Curriculum)'
-permalink: /Gallery/கல்வி-அமைச்சின்-பாடக்கலைத்திட்டம்-Tamil-Exhibition-a/Moe-Curriculum/
-breadcrumb: '	கல்வி-அமைச்சின்-பாடக்கலைத்திட்டம்-Tamil-Exhibition'
+title: 'தமிழ்மொழிக் -காட்சிக்கூடம் (MOE Curriculum)'
+permalink: /Gallery/தமிழ்மொழிக் -காட்சிக்கூடம்-Tamil-Exhibition-a/Moe-Curriculum/
+breadcrumb: '	தமிழ்மொழிக் -காட்சிக்கூடம்-Tamil-Exhibition'
 collection_name: Gallery
-third_nav_title: 'கல்வி அமைச்சின் பாடக்கலைத்திட்டம் Tamil Exhibition'
+third_nav_title: 'தமிழ்மொழிக் காட்சிக்கூடம் Tamil Exhibition'
 ---
 
 ## கல்வி அமைச்சின் பாடக்கலைத்திட்டம் (MOE Curriculum)
