@@ -56,47 +56,6 @@ third_nav_title: '华文学习展示区 Chinese Exhibition'
   margin-bottom: 5px;
   width:700px;  
 }
-.atab input:checked ~ .tab-content {
-  display: inline-block;
-}
-.atab input {
-  display: none;
-}
-.atab label {
-  position: relative;
-  display: block;
-  background: #4372d6;
-  color: #fff;
-  font-weight: bold;
-  padding: 10px;
-  cursor: pointer;
-}
-.atab input[type=checkbox]:checked + label::after,
-.atab input[type=radio]:checked + label::after {
-    content: 'x';
-    right: 14px;
-    top: 3px;
-  //transform:rotate(-225deg);
-   /* transform: rotate(90deg); */
-}
-  
-.tab-content {
-  overflow: hidden;
-  margin-top: 0px;
-  /* CSS animation will not work with auto height */
-  /* This is why we use max-height */
-  transition: max-height 0.4s; 
-  height: auto;
-}
-.tab-content p {
-  margin: 20px;
-}
-.atab input:checked ~ .tab-content {
-  /* Set the max-height to a large number */
-  /* Or 100% viewport height */
-  /* max-height: 100vh; */
-  height: 100%;
-}
 </style>
 </head>
 <body>
