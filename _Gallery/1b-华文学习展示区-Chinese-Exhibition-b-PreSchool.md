@@ -1,9 +1,9 @@
 ---
 title: '学前教育中心 (PreSchool)'
-permalink: /Gallery/华文学习展示区-b/PreSchool/
-breadcrumb: '华文学习展示区'
+permalink: /Gallery/华文学习展示区-Chinese-Exhibition-b/PreSchool/
+breadcrumb: '华文学习展示区-Chinese-Exhibition'
 collection_name: Gallery
-third_nav_title: '华文学习展示区'
+third_nav_title: '华文学习展示区 Chinese Exhibition'
 ---
 ## 	学前教育中心 (Pre School)
 
