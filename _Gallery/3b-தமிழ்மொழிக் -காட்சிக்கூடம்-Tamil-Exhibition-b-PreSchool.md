@@ -6,7 +6,7 @@ collection_name: Gallery
 third_nav_title: 'தமிழ்மொழிக் காட்சிக்கூடம் Tamil Exhibition'
 ---
 
-##  Prasekolah (PreSchool)
+## 	பாலர் பள்ளிகள் (PreSchool)
 <html>
 <head>
 <style>
