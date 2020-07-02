@@ -1,9 +1,9 @@
 ---
 title: '中小学 (Schools)'
-permalink: /Gallery/华文学习展示区-c/Schools/
-breadcrumb: '华文学习展示区'
+permalink: /Gallery/华文学习展示区-Chinese-Exhibition-c/Schools/
+breadcrumb: '华文学习展示区-Chinese-Exhibition'
 collection_name: Gallery
-third_nav_title: '华文学习展示区'
+third_nav_title: '华文学习展示区 Chinese-Exhibition'
 ---
 
 ##  中小学  (Schools)
