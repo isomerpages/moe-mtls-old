@@ -8,8 +8,7 @@ collection_name: Sharing-Sessions
   <p><u>Series 1</u><br/>
   <u>English Session</u><br/>
   10:00 am – 11:00 am <br/>
-  Panel Discussion<br/>
-  Topic:</p></div>
+  Panel Discussion Topic:</p></div>
   <hr/>
   <div>
   <p><u>Series 2 </u><br/>
