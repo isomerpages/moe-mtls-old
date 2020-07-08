@@ -3,15 +3,6 @@ logo: '/images/MTLS-Logo.png'
 links: 
 - title: About Us & Past Symposiums
   url: /About-Us-And-Past-Symposiums/
-  sub-links:
-  - title: English
-    url: /sharesessions/English/
-  - title: Chinese
-    url: /sharesessions/Chinese/
-  - title: Malay
-    url: /sharesessions/Malay/
-  - title: Tamil
-    url: /sharesessions/Tamil/
 - title: Sharing Sessions
   url: /Sharing-Sessions/
   collection: Sharing-Sessions
@@ -24,8 +15,7 @@ links:
 - title: OPMTL Award 2020
   url: /Schools/
   collection:  Schools
-- title: Other Information
-  url: /Other-Information/
-  collection: Other-Information
+- title: Online Quest
+  url: /Online-Quest/
 - title: Contact Us
   url: /Contact-Us/ 
