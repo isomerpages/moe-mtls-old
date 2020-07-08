@@ -5,17 +5,16 @@ breadcrumb: 'Livestreaming Sessions'
 collection_name: Sharing-Sessions
 ---
 <div>
-<h4><u>Series 1</u></h4>
-<h4><u>English Session</u></h4> 
-  <p>10:00 am – 11:00 am  - Panel Discussion</p>
-  <p style="text-align:center;"> Topic:</p></div>
+  <p><u>Series 1</u><br/>
+  <u>English Session</u><br/>
+  10:00 am – 11:00 am <br/>
+  Panel Discussion<br/>
+  Topic:</p></div>
   <hr/>
   <div>
-<h4><u>Series 2 </u></h4>
-<h4><u>Chinese Session</u></h4> 
-  <p>12:30 am – 01:30 am  - Speaker</p>
-<p style="text-align:center;">
-     Topic:</p></div>
+  <p><u>Series 2 </u><br/>
+  <u>Chinese Session</u><br/>
+  12:30 am – 01:30 am <br/>
+  Speaker Topic:</p></div>
   <hr/>
-
 
