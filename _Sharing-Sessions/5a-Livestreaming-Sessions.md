@@ -3,7 +3,6 @@ title: 'Livestreaming Sessions'
 permalink: /Exhibition/Livestreaming-Sessions/
 breadcrumb: 'Livestreaming Sessions'
 collection_name: Sharing-Sessions
-third_nav_title: 'Livestreaming Sessions'
 ---
 <div>
 <h4><u>Series 1</u></h4>
