@@ -33,6 +33,25 @@ collection_name: Gallery
  </div>
  </td>
  
+ <td>
+ Malay
+ <div>
+ <a href="#"><div  class="btnClass">MOE Curriculum</div></a><br/>
+  <a href="#"><div class="btnClass">PreSchool</div></a><br/>
+  <a href="#"><div  class="btnClass">Schools</div></a><br/>
+  <a href="#"><div class="btnClass">Community Partners</div></a><br/>
+ </div>
+ </td>
+ <td>
+ Tamil
+ <div>
+ <a href="#"><div  class="btnClass">MOE Curriculum</div></a><br/>
+  <a href="#"><div class="btnClass">PreSchool</div></a><br/>
+  <a href="#"><div  class="btnClass">Schools</div></a><br/>
+  <a href="#"><div class="btnClass">Community Partners</div></a><br/>
+ </div>
+ </td>
+ 
 </tr>
 </table>
 </body>
