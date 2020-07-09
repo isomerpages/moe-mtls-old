@@ -16,10 +16,10 @@ collection_name: Gallery
  <td>
  Chinese
  <div>
- <a href="#"><div style="display:inline-block;" class="btnClass">MOE Curriculum</div></a>
-  <a href="#"><div style="display:inline-block;" class="btnClass">PreSchool</div></a>
-  <a href="#"><div style="display:inline-block;" class="btnClass">Schools</div></a>
-  <a href="#"><div style="display:inline-block;" class="btnClass">Community Partners</div></a>
+ <a href="#"><div  class="btnClass">MOE Curriculum</div></a>
+  <a href="#"><div class="btnClass">PreSchool</div></a>
+  <a href="#"><div  class="btnClass">Schools</div></a>
+  <a href="#"><div class="btnClass">Community Partners</div></a>
  </div>
  </td>
  
