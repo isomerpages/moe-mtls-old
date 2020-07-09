@@ -9,14 +9,6 @@ collection_name: Gallery
 <html>
 <head>
 <style>
-.container {
-    /* display: flex;             establish flex container */
-    flex-direction: column;     /* stack flex items vertically */
-    justify-content: center;    /* center items vertically, in this case */
-    align-items: center;        /* center items horizontally, in this case */
-    height: 300px;
-    // border: 1px solid black;
-}
 </style>
 </head>
 <body>
@@ -24,7 +16,7 @@ collection_name: Gallery
  <tr>
      
  <td>
- Chinese
+ <h3>Chinese</h3>
  <div>
  <a href="#"><div  class="btnClass">MOE Curriculum</div></a><br/>
   <a href="#"><div class="btnClass">PreSchool</div></a><br/>
