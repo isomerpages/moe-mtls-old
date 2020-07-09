@@ -14,12 +14,12 @@ collection_name: Gallery
  <table>
  <tr>
  <td>
- Chinese 01
+ Chinese 0111
  <div>
- <a href="#"><div  class="btnClass">MOE Curriculum</div></a>
-  <a href="#"><div class="btnClass">PreSchool</div></a>
-  <a href="#"><div  class="btnClass">Schools</div></a>
-  <a href="#"><div class="btnClass">Community Partners</div></a>
+ <a href="#"><div  class="btnClass">MOE Curriculum</div></a><br/>
+  <a href="#"><div class="btnClass">PreSchool</div></a><br/>
+  <a href="#"><div  class="btnClass">Schools</div></a><br/>
+  <a href="#"><div class="btnClass">Community Partners</div></a><br/>
  </div>
  </td>
  
