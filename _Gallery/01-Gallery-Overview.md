@@ -26,7 +26,7 @@ collection_name: Gallery
  </td>
  
  <td>
- Malay
+ <h3>Malay</h3>
  <div>
  <a href="#"><div  class="btnClass">MOE Curriculum</div></a><br/>
   <a href="#"><div class="btnClass">PreSchool</div></a><br/>
@@ -35,7 +35,7 @@ collection_name: Gallery
  </div>
  </td>
  <td>
- Tamil
+ <h3>Tamil</h3>
  <div>
  <a href="#"><div  class="btnClass">MOE Curriculum</div></a><br/>
   <a href="#"><div class="btnClass">PreSchool</div></a><br/>
