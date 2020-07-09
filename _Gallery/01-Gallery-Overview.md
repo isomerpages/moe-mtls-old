@@ -14,7 +14,7 @@ collection_name: Gallery
  <table>
  <tr>
  <td>
- Chinese
+ Chinese 01
  <div>
  <a href="#"><div  class="btnClass">MOE Curriculum</div></a>
   <a href="#"><div class="btnClass">PreSchool</div></a>
