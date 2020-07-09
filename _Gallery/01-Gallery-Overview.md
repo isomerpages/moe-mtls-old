@@ -25,7 +25,7 @@ collection_name: Gallery
      
  <td>
  Chinese
- <div class="container">
+ <div>
  <a href="#"><div  class="btnClass">MOE Curriculum</div></a><br/>
   <a href="#"><div class="btnClass">PreSchool</div></a><br/>
   <a href="#"><div  class="btnClass">Schools</div></a><br/>
