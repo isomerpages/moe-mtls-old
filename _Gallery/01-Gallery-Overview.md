@@ -10,12 +10,12 @@ collection_name: Gallery
 <head>
 <style>
 .container {
-    display: flex;              /* establish flex container */
+    /* display: flex;             establish flex container */
     flex-direction: column;     /* stack flex items vertically */
     justify-content: center;    /* center items vertically, in this case */
     align-items: center;        /* center items horizontally, in this case */
     height: 300px;
-    border: 1px solid black;
+    // border: 1px solid black;
 }
 </style>
 </head>
