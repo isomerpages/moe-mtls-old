@@ -14,6 +14,7 @@ collection_name: Gallery
  <table>
  <tr>
  <td>
+ Chinese
  <div>
  <a href="#"><div style="display:inline-block;" class="btnClass">MOE Curriculum</div></a>
   <a href="#"><div style="display:inline-block;" class="btnClass">PreSchool</div></a>
@@ -27,11 +28,23 @@ collection_name: Gallery
  <tr>
  <td>
  Malay
+ <div>
+ <a href="#"><div style="display:inline-block;" class="btnClass">MOE Curriculum</div></a>
+  <a href="#"><div style="display:inline-block;" class="btnClass">PreSchool</div></a>
+  <a href="#"><div style="display:inline-block;" class="btnClass">Schools</div></a>
+  <a href="#"><div style="display:inline-block;" class="btnClass">Community Partners</div></a>
+ </div>
  </td>
  </tr>
  <tr>
  <td>
  Tamil
+ <div>
+ <a href="#"><div style="display:inline-block;" class="btnClass">MOE Curriculum</div></a>
+  <a href="#"><div style="display:inline-block;" class="btnClass">PreSchool</div></a>
+  <a href="#"><div style="display:inline-block;" class="btnClass">Schools</div></a>
+  <a href="#"><div style="display:inline-block;" class="btnClass">Community Partners</div></a>
+ </div>
  </td>
  </tr>
 </table>
