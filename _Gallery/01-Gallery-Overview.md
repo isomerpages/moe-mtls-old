@@ -23,7 +23,16 @@ collection_name: Gallery
  <table>
  <tr>
  <td>
- Chinese 0111
+ Chinese
+ <div class="container">
+ <a href="#"><div  class="btnClass">MOE Curriculum</div></a><br/>
+  <a href="#"><div class="btnClass">PreSchool</div></a><br/>
+  <a href="#"><div  class="btnClass">Schools</div></a><br/>
+  <a href="#"><div class="btnClass">Community Partners</div></a><br/>
+ </div>
+ </td>
+ <td>
+Malay
  <div class="container">
  <a href="#"><div  class="btnClass">MOE Curriculum</div></a><br/>
   <a href="#"><div class="btnClass">PreSchool</div></a><br/>
@@ -32,29 +41,16 @@ collection_name: Gallery
  </div>
  </td>
  
- </tr>
+ <td>
+Tamil
+ <div class="container">
+ <a href="#"><div  class="btnClass">MOE Curriculum</div></a><br/>
+  <a href="#"><div class="btnClass">PreSchool</div></a><br/>
+  <a href="#"><div  class="btnClass">Schools</div></a><br/>
+  <a href="#"><div class="btnClass">Community Partners</div></a><br/>
+ </div>
+ </td>
  
- <tr>
- <td>
- Malay
- <div class="container">
- <a href="#"><div class="btnClass">MOE Curriculum</div></a>
-  <a href="#"><div class="btnClass">PreSchool</div></a>
-  <a href="#"><div class="btnClass">Schools</div></a>
-  <a href="#"><div class="btnClass">Community Partners</div></a>
- </div>
- </td>
- </tr>
- <tr>
- <td>
- Tamil
- <div class="container">
- <a href="#"><div style="display:inline-block;" class="btnClass">MOE Curriculum</div></a>
-  <a href="#"><div style="display:inline-block;" class="btnClass">PreSchool</div></a>
-  <a href="#"><div style="display:inline-block;" class="btnClass">Schools</div></a>
-  <a href="#"><div style="display:inline-block;" class="btnClass">Community Partners</div></a>
- </div>
- </td>
  </tr>
 </table>
 </body>
