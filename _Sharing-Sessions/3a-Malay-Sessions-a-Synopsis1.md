@@ -69,7 +69,40 @@ td, th {
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1">MY 学前教育中心 <br/> MY World Preschool</label>
       <div class="tab-content">
-        <p>This is Topic 1</p>      
+       <table>
+  <tr>
+    <th>S/N</th>
+    <th>Speaker</th>
+    <th>Title</th>
+    <th>Synopsis</th>
+    <th>Remarks</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td><strong>Associate Professor Mariam Aljunied</strong><br/><br/>
+    Special Educational Needs Division Ltd  </td>
+    <td>Children’s neuro-psychological development: myths and facts     </td>
+    <td>Early intervention is important. Parents are often seeking ways and efforts to maximise the learning and developmental potential of their children. Neuro-psychological research in these last few decades have found several important facts about the cognitive development of young children. However, myths and mis-conceptions regarding brain development still persist. In this talk, A/P Mariam Aljunied will help dispel these myths and clarify the facts about children’s neuro-psychological development. She will provide insights on the cognitive effects of growing up bilingual, and in particular, why the learning of two or more languages can enhance cognition. Several tips for parents will be shared on what they can do to facilitate and enhance children’s language and communication abilities, as well as what parents should do if children show early warning signs of language and communication difficulties.
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><strong>Ms Salna Bte Saiman& Ms Ganda Sari Binte </strong><br/><br/>
+   CPDD, Sembawang Primary School </td>
+    <td>The Thinking Reader in the Digital World  </td>
+     <td>‘There are many little ways to enlarge your child’s world. Love of books is the best of all’. In this unprecedented time, where teaching and learning has taken on new forms and ways. In easing ourselves into the new normal, this quote from Jacqueline Kennedy is more relevant than ever. This session hopes to provide parents and teachers with an opportunity to look at the learning of reading critically in MTL for children in a different way. There are no limits to the curricular strategies and learning tools that teachers and parents can leverage on as we go about guiding our little chargers to continue enjoy reading in MTL. 
+</td>
+ <td></td>
+  </tr>
+  <tr>
+  <td>3</td>
+  <td><strong>Hazliana Md Lahir</strong><br/><br/>
+  Singapore Sports School</td>
+  <td>Parents and their involvement in supporting early literacy at home</td>
+<td>Home is the first school, and parents are the first teachers. Parent involvement helps extend teaching outside the classroom, creates a more positive experience for children and helps children perform better when they are in school. It is essential for parents to support the learning that happens in preschool settings at home as well. Through this session, participants will gain insight on how to create a literacy-rich home environment as they explore fun and practical strategies, they can use to inculcate the love for language learning at home.  </td>
+  </tr>
+  </table>     
 </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
