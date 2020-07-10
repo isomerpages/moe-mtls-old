@@ -88,7 +88,7 @@ div.btntop {
     <li style="font-size:16px">Part 2: The importance of being a noob (菜） </li>
     <li style="font-size:16px">Part 3: Follow their interests</li>
      <li style="font-size:16px">Part 4: The power of languages </li>
-     </ul></div>
+     </ul>
     </td>
     <td></td>
   </tr>
