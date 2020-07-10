@@ -47,13 +47,6 @@ third_nav_title: 'English Sessions'
     margin-left: -100px;
 }
  
-.atab{
- content: "+";
- font-size:22px;
- position:absolute;
- right:10px;
- top:16px;
- }
 </style>
 </head>
 <body>
