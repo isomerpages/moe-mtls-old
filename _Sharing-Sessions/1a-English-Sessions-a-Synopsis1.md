@@ -80,8 +80,7 @@ third_nav_title: 'English Sessions'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-<div class="video-container">
-  <a href="https://www.youtube.com/embed/d6fmLlW8eoE"><div class="hl">Click here</div></div></a>
+  <a href="https://www.youtube.com/embed/d6fmLlW8eoE"><div class="hl">Click here</div></a>
 </td>
 </tr>
 </table>
