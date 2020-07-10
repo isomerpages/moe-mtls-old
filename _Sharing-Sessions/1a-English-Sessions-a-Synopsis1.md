@@ -81,7 +81,7 @@ third_nav_title: 'English Sessions'
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="video-container">
-  <a><iframe src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><div class="hl">Click here</div></div></a>
+  <a href="https://www.youtube.com/embed/d6fmLlW8eoE"><div class="hl">Click here</div></div></a>
 </td>
 </tr>
 </table>
