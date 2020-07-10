@@ -21,9 +21,6 @@ td, th {
   padding: 8px;
 }
 
-tr:nth-child(even) {
-  
-}
  div.btntop {
  position:fixed;
  float:right;
@@ -73,7 +70,7 @@ tr:nth-child(even) {
       <label for="tab-1">MY 学前教育中心 <br/> MY World Preschool</label>
       <div class="tab-content">
        <table>
-  <tr style= " background-color: white">
+  <tr>
     <th>S/N</th>
     <th>Speaker</th>
     <th>Title</th>
@@ -101,8 +98,7 @@ tr:nth-child(even) {
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2">爱加倍小小学府实龙岗分校 <br/> Agape Little Uni @ Upper Serangoon</label>
       <div class="tab-content">      
-  <p>This is Topic 2</p>
-        
+       <p>This is Topic 2</p>      
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
