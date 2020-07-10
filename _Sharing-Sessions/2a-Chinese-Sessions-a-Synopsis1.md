@@ -109,7 +109,7 @@ div.btntop {
     <td></td>
   </tr>
   <tr>
-    <td>4</td>
+   <td><strong>4</strong></td>
     <td>Yet to confirm</td>
     <td></td>
      <td></td>
