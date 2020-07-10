@@ -20,6 +20,9 @@ td, th {
   text-align: left;
   padding: 8px;
 }
+.list{
+font-size: 15px;
+}
 div.btntop {
  position:fixed;
  float:right;
@@ -58,9 +61,7 @@ div.btntop {
     position:absolute;
     margin-left: -100px;
 }
-.list{
-font-size: 15px;
-}
+
 </style>
 </head>
   <body>  
