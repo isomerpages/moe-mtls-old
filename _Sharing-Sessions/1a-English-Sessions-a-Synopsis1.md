@@ -45,6 +45,9 @@ third_nav_title: 'English Sessions'
 .tbl a {
     position:absolute;
     margin-left: -100px;
+    right: 10px;
+    top: 16px;
+   font-size: 22px;
 }
  
 </style>
