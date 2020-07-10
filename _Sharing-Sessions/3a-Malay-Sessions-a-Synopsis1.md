@@ -78,7 +78,7 @@ td, th {
     <th>Remarks</th>
   </tr>
   <tr>
-    <td>1</td>
+   <td><strong>1</strong></td>
     <td><strong>Associate Professor Mariam Aljunied</strong><br/><br/>
     Special Educational Needs Division Ltd  </td>
     <td>Children’s neuro-psychological development: myths and facts     </td>
@@ -87,7 +87,7 @@ td, th {
     <td></td>
   </tr>
   <tr>
-    <td>2</td>
+   <td><strong>2</strong></td>
     <td><strong>Ms Salna Bte Saiman & Ms Ganda Sari Binte </strong><br/><br/>
    CPDD, Sembawang Primary School </td>
     <td>The Thinking Reader in the Digital World  </td>
@@ -96,7 +96,7 @@ td, th {
  <td></td>
   </tr>
   <tr>
-  <td>3</td>
+   <td><strong>3</strong></td>
   <td><strong>Hazliana Md Lahir</strong><br/><br/>
   Singapore Sports School</td>
   <td>Parents and their involvement in supporting early literacy at home</td>
