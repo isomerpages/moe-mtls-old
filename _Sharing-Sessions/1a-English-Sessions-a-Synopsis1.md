@@ -80,7 +80,9 @@ third_nav_title: 'English Sessions'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><div class="hl">
+  <div class="video-container">
+  <iframe src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Click here</div></div></a>
 </td>
 </tr>
 </table>
