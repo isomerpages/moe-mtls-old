@@ -87,11 +87,7 @@ tr:nth-child(even) {
     <td> Multimodal Approaches to Developing Oracy</td>
     <td><p>Integrating multimodal experiences, coupled with specific learning objectives and age-appropriate activities, has been one of the common pedagogies used in early childhood education. In order to better recognise and support the diverse abilities and interests of our young learners, opportunities for lively and authentic expression should also be plentiful within the early years environment.  By supporting learning experiences which involve various modes of expression, children can engage based on their developmental characteristics and learning preferences and in turn, encourage them to communicate in their mother tongue and effectively drive their own learning.  In this sharing, we will be exploring multimodal approaches in developing oracy, such as using manipulatives in games, finger puppet activities, paired discussion and storytelling activities, and incorporating movement elements in music activities which involve verbal communication.</p></td>
     <td></td>
-  </tr>
-  
-    
-</table>
-      </div>
+  </tr>    
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -103,11 +99,9 @@ tr:nth-child(even) {
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2">爱加倍小小学府实龙岗分校 <br/> Agape Little Uni @ Upper Serangoon</label>
-      <div class="tab-content">
-      
+      <div class="tab-content">      
   <p>This is Topic 2</p>
-    
-     
+        
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -117,4 +111,3 @@ tr:nth-child(even) {
 </table>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
 
-</body>
