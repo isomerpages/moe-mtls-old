@@ -9,6 +9,21 @@ third_nav_title: 'English Sessions'
 <html>
 <head>
 <style>
+ table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  
+}
  div.btntop {
  position:fixed;
  float:right;
@@ -57,9 +72,25 @@ third_nav_title: 'English Sessions'
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1">MY 学前教育中心 <br/> MY World Preschool</label>
       <div class="tab-content">
-        <p>
-          This is the content for Exhibitor 2.
-        </p>
+       <table>
+  <tr style= " background-color: white">
+    <th>S/N</th>
+    <th>Speaker</th>
+    <th>Title</th>
+    <th>Synopsis</th>
+    <th>Remarks</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td><strong>Dr Connie Lum</strong><br/><br/>
+    NTUC First Campus</td>
+    <td> Multimodal Approaches to Developing Oracy</td>
+    <td><p>Integrating multimodal experiences, coupled with specific learning objectives and age-appropriate activities, has been one of the common pedagogies used in early childhood education. In order to better recognise and support the diverse abilities and interests of our young learners, opportunities for lively and authentic expression should also be plentiful within the early years environment.  By supporting learning experiences which involve various modes of expression, children can engage based on their developmental characteristics and learning preferences and in turn, encourage them to communicate in their mother tongue and effectively drive their own learning.  In this sharing, we will be exploring multimodal approaches in developing oracy, such as using manipulatives in games, finger puppet activities, paired discussion and storytelling activities, and incorporating movement elements in music activities which involve verbal communication.</p></td>
+    <td></td>
+  </tr>
+  
+    
+</table>
       </div>
 </div>
 </td>
@@ -73,10 +104,10 @@ third_nav_title: 'English Sessions'
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2">爱加倍小小学府实龙岗分校 <br/> Agape Little Uni @ Upper Serangoon</label>
       <div class="tab-content">
-        <p>
-          This is the content for Exhibitor 2.
-        </p>
-      </div>
+      
+  <p>This is Topic 2</p>
+    
+     
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
