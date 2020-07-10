@@ -79,7 +79,7 @@ div.btntop {
     <th>Remarks</th>
   </tr>
   <tr>
-    <td>1</td>
+   <td><strong>1</strong></td>
    <td><strong>Woo Yen Yen</strong><br/><br/>
     Yumcha Studios Pte Ltd </td>
     <td>“I TORE UP MY CHINESE BOOK!” An English teacher’s journey towards getting her daughter to learn Chinese. </td>
@@ -93,7 +93,7 @@ div.btntop {
     <td></td>
   </tr>
   <tr>
-    <td>2</td>
+   <td><strong>2</strong></td>
     <td><strong>Xu Jinhong </strong> <br/><br/>
     Mother Tongue Languages Branch, Curriculum Planning and Development Division, Ministry of Education  </td>
     <td>Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese </td>
@@ -101,7 +101,7 @@ div.btntop {
  <td></td>
   </tr>
   <tr>
-    <td>3</td>
+   <td><strong>3</strong></td>
    <td><strong>Lim Kwee Hua </strong> <br/><br/>
     Academy of Singapore Teachers</td>
     <td>Happy Reading and Storytelling with young children  </td>
