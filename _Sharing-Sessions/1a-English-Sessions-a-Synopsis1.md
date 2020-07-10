@@ -5,7 +5,6 @@ breadcrumb: 'English Sessions'
 collection_name: Sharing-Sessions
 third_nav_title: 'English Sessions'
 ---
-
 <html>
 <head>
 <style>
@@ -57,7 +56,7 @@ third_nav_title: 'English Sessions'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1">Topic 1</label>
+      <label for="tab-1">MY 学前教育中心 <br/> MY World Preschool</label>
       <div class="tab-content">
       <h3>故事天地——乐趣无穷的语言学习和价值传承</h3>
       <p>
@@ -80,7 +79,7 @@ third_nav_title: 'English Sessions'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">Tpoic 2</label>
+      <label for="tab-2">爱加倍小小学府实龙岗分校 <br/> Agape Little Uni @ Upper Serangoon</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -96,3 +95,4 @@ third_nav_title: 'English Sessions'
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
 
 </body>
+
