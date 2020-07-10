@@ -64,10 +64,8 @@ div.btntop {
 <h3>The World of Stories – Fun in Language Learning and Values Inculcation</h3>
 <p>Stories are a great way to engage children in language learning and exposing them to the value system of a culture behind the language.  Children immerse themselves in the language while enjoying the stories and pick up cultural nuances embedded in them.  Being acquainted with the way values are highlighted will help children have deeper appreciation for the culture and better understanding of the language.  The Asian Languages and Cultures Academic Group from the National Institute of Education is providing video resources and tips for parents to help their children learn their MTL and the corresponding cultures through story-telling, covering the whole process from selection of stories, the actual story-telling process and post story-telling discussion.  This will help parents gain a better understanding of how to fully tap onto story-telling to help their children learn MTL and their values in a fun and engaging way at home.
 
-</p>
-      </div>
+</p>    
 </div>
-
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
 <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
