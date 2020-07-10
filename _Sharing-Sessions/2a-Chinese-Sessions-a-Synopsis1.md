@@ -16,7 +16,7 @@ third_nav_title: 'Chinese Sessions'
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  border: 1px solid gray;
   text-align: left;
   padding: 8px;
 }
