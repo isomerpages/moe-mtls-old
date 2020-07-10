@@ -36,6 +36,10 @@ third_nav_title: 'English Sessions'
     margin-bottom: 7px;
     width: 120px;
 }
+ .atab {
+ margin-bottom:5px;
+ width:680px;
+ }
 .tbl{
     border:0 none;
     padding:0; 
