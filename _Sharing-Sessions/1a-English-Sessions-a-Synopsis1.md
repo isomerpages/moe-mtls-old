@@ -69,4 +69,23 @@ third_nav_title: 'English Sessions'
 <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
 </td>
 </tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+      <label for="tab-2">爱加倍小小学府实龙岗分校 <br/> Agape Little Uni @ Upper Serangoon</label>
+      <div class="tab-content">
+        <p>
+          This is the content for Exhibitor 2.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;">
+ <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+</td>
+</tr>
+</table>
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
 
+</body>
