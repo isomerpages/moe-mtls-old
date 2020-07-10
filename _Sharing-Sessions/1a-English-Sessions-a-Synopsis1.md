@@ -78,7 +78,7 @@ td, th {
     <th>Remarks</th>
   </tr>
   <tr>
-    <td>1</td>
+   <td><strong>1</strong></td>
     <td><strong>Dr Connie Lum</strong><br/><br/>
     NTUC First Campus</td>
     <td> Multimodal Approaches to Developing Oracy</td>
