@@ -106,7 +106,7 @@ td, th {
 </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/video/"><div class="hl">Click here</div></a>
+  <a href="/test/ML-video/"><div class="hl">Click here</div></a>
 </td>
 </tr>
   <tr>
@@ -119,7 +119,7 @@ td, th {
 </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/video/"><div class="hl">Click here</div></a>
+  <a href="/test/ML-video/"><div class="hl">Click here</div></a>
 </td>
 </tr>
 </table>
