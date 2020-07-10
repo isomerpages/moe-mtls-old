@@ -36,10 +36,6 @@ third_nav_title: 'English Sessions'
     margin-bottom: 7px;
     width: 120px;
 }
- .atab {
- margin-bottom:5px;
- width:680px;
- }
 .tbl{
     border:0 none;
     padding:0; 
@@ -60,7 +56,7 @@ third_nav_title: 'English Sessions'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1">Tpoic 1</label>
+      <label for="tab-1">Topic 1</label>
       <div class="tab-content">
       <h3>故事天地——乐趣无穷的语言学习和价值传承</h3>
       <p>
