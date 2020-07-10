@@ -20,9 +20,6 @@ td, th {
   text-align: left;
   padding: 8px;
 }
-.list{
-font-size: 15px;
-}
 div.btntop {
  position:fixed;
  float:right;
@@ -87,11 +84,10 @@ div.btntop {
     Yumcha Studios Pte Ltd </td>
     <td>“I TORE UP MY CHINESE BOOK!” An English teacher’s journey towards getting her daughter to learn Chinese. </td>
     <td>Former New York-based professor and “ang mohpai” English teacher Dr. Woo Yen Yen went from being that student who ripped up her Chinese textbook to writing Chinese comics and a giant musical that toured 25 cities in China. She shares her journey and tips for getting her American-born daughter with zero Chinese to thrive in an all-Chinese instruction Taiwanese public school.
-    <div class="list">
-     <ul><li>Part 1: "But my Chinese is so bad!"</li>
-    <li>Part 2: The importance of being a noob (菜） </li>
-    <li>Part 3: Follow their interests</li>
-     <li>Part 4: The power of languages </li>
+     <ul><li style="font-size:15px">Part 1: "But my Chinese is so bad!"</li>
+    <li style="font-size:15px">Part 2: The importance of being a noob (菜） </li>
+    <li style="font-size:15px">Part 3: Follow their interests</li>
+     <li style="font-size:15px">Part 4: The power of languages </li>
      </ul></div>
     </td>
     <td></td>
