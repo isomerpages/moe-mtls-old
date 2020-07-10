@@ -88,7 +88,7 @@ td, th {
   </tr>
   <tr>
     <td>2</td>
-    <td><strong>Ms Salna Bte Saiman& Ms Ganda Sari Binte </strong><br/><br/>
+    <td><strong>Ms Salna Bte Saiman & Ms Ganda Sari Binte </strong><br/><br/>
    CPDD, Sembawang Primary School </td>
     <td>The Thinking Reader in the Digital World  </td>
      <td>‘There are many little ways to enlarge your child’s world. Love of books is the best of all’. In this unprecedented time, where teaching and learning has taken on new forms and ways. In easing ourselves into the new normal, this quote from Jacqueline Kennedy is more relevant than ever. This session hopes to provide parents and teachers with an opportunity to look at the learning of reading critically in MTL for children in a different way. There are no limits to the curricular strategies and learning tools that teachers and parents can leverage on as we go about guiding our little chargers to continue enjoy reading in MTL. 
