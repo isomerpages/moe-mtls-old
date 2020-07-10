@@ -79,7 +79,7 @@ div.btntop {
   </tr>
   <tr>
     <td>1</td>
-    <td>Woo Yen Yen<br/>
+    <td>Woo Yen Yen<br/><br/>
     Yumcha Studios Pte Ltd </td>
     <td>“I TORE UP MY CHINESE BOOK!” An English teacher’s journey towards getting her daughter to learn Chinese. </td>
     <td><p>Former New York-based professor and “ang mohpai” English teacher Dr. Woo Yen Yen went from being that student who ripped up her Chinese textbook to writing Chinese comics and a giant musical that toured 25 cities in China. She shares her journey and tips for getting her American-born daughter with zero Chinese to thrive in an all-Chinese instruction Taiwanese public school. </p>
@@ -93,7 +93,7 @@ div.btntop {
   </tr>
   <tr>
     <td>2</td>
-    <td>Xu Jinhong <br/>
+    <td>Xu Jinhong <br/><br/>
     Mother Tongue Languages Branch, Curriculum Planning and Development Division, Ministry of Education  </td>
     <td>Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese </td>
      <td><p>The 2015 Primary Chinese Language Curriculum was implemented at Primary One in 2015 and rolled out to Primary Six this year.  The curriculum aims to enable students to communicate in Chinese, better appreciate Chinese culture and connect with Chinese communities in Asia and beyond.   Our curriculum planners will provide an insight into how the 2015 Curriculum enables young children to learn Chinese in class and how schools support their students in the transition from pre-school to primary schooland to provide ideas on how parents can better support their children in learning Chinese in fun and engaging ways. </p></td>
@@ -101,7 +101,7 @@ div.btntop {
   </tr>
   <tr>
     <td>3</td>
-    <td>Lim Kwee Hua <br/>
+    <td>Lim Kwee Hua <br/><br/>
     Academy of Singapore Teachers</td>
     <td>Happy Reading and Storytelling with young children  </td>
     <td><p>Cultivating good reading habits and developing an interest in reading for young children at early age is important. As many young children are not able to read independently, they need adults’ support and help to develop habits to read. The speaker will be sharing different strategies and tips on reading and storytelling, on ways to select suitable reading materials, and to relate post reading activities to children’s daily life.  Thus, make reading fun and get children to be passionate towards reading and Chinese language learning. </p></td>
