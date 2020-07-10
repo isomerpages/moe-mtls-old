@@ -89,8 +89,8 @@ font-size:15px;
     <div class="list"><ul><li>Part 1: "But my Chinese is so bad!"</li>
     <li>Part 2: The importance of being a noob (菜） </li>
     <li>Part 3: Follow their interests</li>
-     <li>Part 4: The power of languages </li></div>
-     </ul>
+     <li>Part 4: The power of languages </li>
+     </ul></div>
     </td>
     <td></td>
   </tr>
