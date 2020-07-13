@@ -13,7 +13,6 @@ sections:
         title: Infobar title
         subtitle: Subtitle
         description:
-        button: Button text
         url: /faq/
 
 ---
