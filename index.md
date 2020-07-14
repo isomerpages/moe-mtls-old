@@ -13,6 +13,7 @@ sections:
         title: Resource Room Sample
         subtitle: Resource Room Testing
         button: Read our Stories  
+        url: /Gallery/
     - infobar:
         title: 
         subtitle: 
