@@ -9,6 +9,10 @@ sections:
             background: /MTLS_Home2.jpg
     -
         carousel: []
+    - resources:
+        title: Resource Room Sample
+        subtitle: Resource Room Testing
+        button: Read our Stories  
     - infobar:
         title: 
         subtitle: 
