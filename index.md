@@ -10,7 +10,7 @@ sections:
     -
         carousel: []
     - resources:
-        title: Resource Room Sample
+        title: resource-room
         subtitle: Resource Room Testing
         button: Read our Stories  
         url: /Gallery/
