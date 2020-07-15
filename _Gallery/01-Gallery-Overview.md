@@ -9,45 +9,61 @@ collection_name: Gallery
 <html>
 <head>
 <style>
+ div.btntop {
+ position:fixed;
+ float:right;
+ bottom:20px;
+ right:80px;
+ z-index:99;
+ boder:none;
+ background-color:#4169e1;
+ cursor:pointer;
+ padding:15px;
+  boder-radius:4px;
+  color:white;
+  font-weight:600;
+}
  .btn{
  width: 200px;
  }
 </style>
 </head>
 <body>
- <table>
+ <div style="margin-top:auto;margin-bottom:auto;text-align:left;">
+  <table>
  <tr>
-     
- <td>
- <h4>Chinese</h4>
- <div>
- <a href="#"><div  class="btnClass btn">MOE Curriculum</div></a><br/>
-  <a href="#"><div class="btnClass btn">PreSchool</div></a><br/>
-  <a href="#"><div  class="btnClass btn">Schools</div></a><br/>
-  <a href="#"><div class="btnClass btn">Community Partners</div></a><br/>
- </div>
- </td>
+ <td><h4>Chinese</h4>
  
- <td>
- <h4>Malay</h4>
- <div>
- <a href="#"><div  class="btnClass btn">MOE Curriculum</div></a><br/>
-  <a href="#"><div class="btnClass btn">PreSchool</div></a><br/>
-  <a href="#"><div  class="btnClass btn">Schools</div></a><br/>
-  <a href="#"><div class="btnClass btn">Community Partners</div></a><br/>
- </div>
- </td>
- <td>
- <h4>Tamil</h4>
- <div>
- <a href="#"><div  class="btnClass btn">MOE Curriculum</div></a><br/>
-  <a href="#"><div class="btnClass btn">PreSchool</div></a><br/>
-  <a href="#"><div  class="btnClass btn">Schools</div></a><br/>
-  <a href="#"><div class="btnClass btn">Community Partners</div></a><br/>
- </div>
- </td>
- 
+<div class="tab">
+  <a href="#"><div style="display:inline-block;" class="btnClass">MOE Curriculum</div></a>
+  <a href="#"><div style="display:inline-block;" class="btnClass">PreSchool</div></a>
+  <a href="#"><div style="display:inline-block;" class="btnClass">Schools</div></a>
+  <a href="#"><div style="display:inline-block;" class="btnClass">Community Partners</div></a><br/><br/>
+</div>
+</td>
 </tr>
+<tr>
+ <td><h4>Malay</h4>
+<div class="tab">
+  <a href="#"><div style="display:inline-block;" class="btnClass">MOE Curriculum</div></a>
+  <a href="#"><div style="display:inline-block;" class="btnClass">PreSchool</div></a>
+  <a href="#"><div style="display:inline-block;" class="btnClass">Schools</div></a>
+  <a href="#"><div style="display:inline-block;" class="btnClass">Community Partners</div></a><br/><br/>
+</div>
+</td>
+</tr>
+<tr>
+ <td><h4>Malay</h4>
+<div class="tab">
+  <a href="#"><div style="display:inline-block;" class="btnClass">MOE Curriculum</div></a>
+  <a href="#"><div style="display:inline-block;" class="btnClass">PreSchool</div></a>
+  <a href="#"><div style="display:inline-block;" class="btnClass">Schools</div></a>
+  <a href="#"><div style="display:inline-block;" class="btnClass">Community Partners</div></a><br/><br/>
+</div>
+</td>
+</tr>
+    
 </table>
+
 </body>
  
