@@ -27,8 +27,9 @@ collection_name: Gallery
  width: 200px;
  }
  .btnClass{
-  width=180px;
-  height=70px;
+  width :180px;
+ padding:15px 2px; 
+
  }
 </style>
 </head>
