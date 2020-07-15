@@ -26,6 +26,10 @@ collection_name: Gallery
  .btn{
  width: 200px;
  }
+ .btnClass{
+  width=180px;
+  height=70px;
+ }
 </style>
 </head>
 <body>
