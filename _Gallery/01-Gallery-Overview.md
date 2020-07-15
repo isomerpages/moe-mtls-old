@@ -65,5 +65,5 @@ collection_name: Gallery
     
 </table>
 
-</body>
+
  
