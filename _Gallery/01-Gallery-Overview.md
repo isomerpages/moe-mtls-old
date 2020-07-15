@@ -35,7 +35,7 @@ collection_name: Gallery
  <td><h4>Chinese</h4>
  
 <div class="tab">
-  <a href="#"><div style="display:inline-block;" class="btnClass">MOE Curriculum</div></a>
+  <a href="#"><div style="display:inline-block;" class="btnClass" height="70px">MOE Curriculum</div></a>
   <a href="#"><div style="display:inline-block;" class="btnClass">PreSchool</div></a>
   <a href="#"><div style="display:inline-block;" class="btnClass">Schools</div></a>
   <a href="#"><div style="display:inline-block;" class="btnClass">Community Partners</div></a><br/><br/>
