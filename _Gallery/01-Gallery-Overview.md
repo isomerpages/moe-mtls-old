@@ -53,7 +53,7 @@ collection_name: Gallery
 </td>
 </tr>
 <tr>
- <td><h4>Malay</h4>
+ <td><h4>Tamil</h4>
 <div class="tab">
   <a href="#"><div style="display:inline-block;" class="btnClass">MOE Curriculum</div></a>
   <a href="#"><div style="display:inline-block;" class="btnClass">PreSchool</div></a>
