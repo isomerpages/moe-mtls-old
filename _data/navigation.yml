@@ -16,7 +16,7 @@ links:
   url: /Schools/
   collection:  Schools
 - title: Online Quest
-  url: /Online-Quest/
+  url: /Online-Quest/MTL-Challenge
   sublinks:
       - title: MTL Challenge
         url: /Online-Quest/MTL-Challenge/
