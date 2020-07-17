@@ -48,8 +48,10 @@ max-width:50%;
      Time<br/>
  <a href="/test/video/">Link to video</a>
     </p>
-  </div>
+  </div><br/>
+  
   <hr>
+  
 <div class="row">
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
