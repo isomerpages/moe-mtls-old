@@ -46,7 +46,9 @@ collection_name: Sharing-Sessions
  <a href="/test/video/">Link to video</a>
     </p>
   </div>
+  </div>
   <hr>
+  <div class="row">
    <div class="column">
      <img src="images/cropped-person-icon-8-2.png" style="width:100%">
      <p style= "text-align:center">Speaker Name <br/>
@@ -55,6 +57,7 @@ collection_name: Sharing-Sessions
  <a href="/test/video/">Link to video</a>
 </p>
   </div>
+    <div class="row">
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png"  style="width:100%">
     <p style= "text-align:center">Speaker Name <br/>
@@ -71,6 +74,7 @@ collection_name: Sharing-Sessions
  <a href="/test/video/">Link to video</a>
     </p>
   </div>
+    </div>
   <hr>
   <div class="column">
      <img src="images/cropped-person-icon-8-2.png" style="width:100%">
