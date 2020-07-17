@@ -30,7 +30,7 @@ max-width:50%;
      <p style= "text-align:center">Speaker Name <br/>
      Topic Title<br/>
      Time<br/>
- <a href="#">Link to video</a>
+ <a href="/test/video/">Link to video</a>
 </p>
   </div>
   <div class="column">
@@ -38,7 +38,7 @@ max-width:50%;
     <p style= "text-align:center">Speaker Name <br/>
      Topic Title<br/>
      Time<br/>
- <a href="#">Link to video</a>
+ <a href="/test/video/">Link to video</a>
     </p>
   </div>
   <div class="column">
@@ -46,7 +46,7 @@ max-width:50%;
     <p style= "text-align:center">Speaker Name <br/>
      Topic Title<br/>
      Time<br/>
- <a href="#">Link to video</a>
+ <a href="/test/video/">Link to video</a>
     </p>
   </div>
 
