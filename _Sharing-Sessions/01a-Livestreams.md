@@ -16,10 +16,7 @@ collection_name: Sharing-Sessions
   width: 33.33%;
   padding: 5px;
 }
-img {
-height:auto;
-max-width:50%;
-}
+
 
 </style>
 </head>
