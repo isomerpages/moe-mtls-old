@@ -16,13 +16,11 @@ collection_name: Sharing-Sessions
   width: 33.33%;
   padding: 5px;
 }
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
+img {
+height:auto;
+max-width:50px;
 }
+
 </style>
 </head>
 <body>
