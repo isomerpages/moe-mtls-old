@@ -1,7 +1,7 @@
 ---
-title: 'Livestreaming Sessions'
-permalink: /Exhibition/Livestreaming-Sessions/
-breadcrumb: 'Livestreaming Sessions'
+title: 'Livestreams'
+permalink: /Exhibition/Livestreams/
+breadcrumb: 'Livestreams'
 collection_name: Sharing-Sessions
 ---
 <div>
