@@ -4,18 +4,54 @@ permalink: /Exhibition/Livestreams/
 breadcrumb: 'Livestreams'
 collection_name: Sharing-Sessions
 ---
-<div>
-  <p><u>Series 1</u><br/>
-  <u>English Session</u><br/>
-  10:00 am – 11:00 am <br/>
-  Panel Discussion <br/>
-   &nbsp; &nbsp;Topic:</p></div>
-  <hr/>
-  <div>
-  <p><u>Series 2 </u><br/>
-  <u>Chinese Session</u><br/>
-  12:30 am – 01:30 am <br/>
-  Speaker <br/>
-   &nbsp; &nbsp;Topic:</p></div>
-  <hr/>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+<div class="row">
+  <div class="column">
+    <img src="images/cropped-person-icon-8-2.png" style="width:100%">
+     <p style= "text-align:center">Speaker Name <br/>
+     Topic Title<br/>
+     Time<br/>
+ <a href="#">Link to video</a>
+</p>
+  </div>
+  <div class="column">
+    <img src="images/cropped-person-icon-8-2.png"  style="width:100%">
+    <p style= "text-align:center">Speaker Name <br/>
+     Topic Title<br/>
+     Time<br/>
+ <a href="#">Link to video</a>
+  </div>
+  <div class="column">
+  
+   <img src="images/cropped-person-icon-8-2.png" style="width:100%">
+    <p style= "text-align:center">Speaker Name <br/>
+     Topic Title<br/>
+     Time<br/>
+ <a href="#">Link to video</a>
+  </div>
+</div>
+
+</body>
+</html>
 
