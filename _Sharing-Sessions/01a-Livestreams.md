@@ -18,7 +18,7 @@ collection_name: Sharing-Sessions
 }
 img {
 height:auto;
-max-width:50px;
+max-width:50%;
 }
 
 </style>
