@@ -16,7 +16,10 @@ collection_name: Sharing-Sessions
   width: 33.33%;
   padding: 5px;
 }
-
+img {
+height:auto;
+max-width:50%;
+}
 
 </style>
 </head>
@@ -76,6 +79,7 @@ collection_name: Sharing-Sessions
   </div>
     </div>
   <hr>
+     <div class="row">
   <div class="column">
      <img src="images/cropped-person-icon-8-2.png" style="width:100%">
      <p style= "text-align:center">Speaker Name <br/>
