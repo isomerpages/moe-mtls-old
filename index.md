@@ -5,7 +5,7 @@ permalink: /
 sections:
     -
         hero:
-            background: /MTLS Hero Banner Test 1.jpg
+            background: /MTLS Hero Banner Test 2.jpg
     -
         carousel: []
     - resources:
