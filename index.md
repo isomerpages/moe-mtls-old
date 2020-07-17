@@ -5,7 +5,7 @@ permalink: /
 sections:
     -
         hero:
-            background: /MTLS_Home2.jpg
+            background: /MTLS_Web_BannersV1(15July2020)_1280x720.jpg
     -
         carousel: []
     - resources:
