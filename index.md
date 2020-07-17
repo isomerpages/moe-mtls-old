@@ -2,7 +2,6 @@
 layout: homepage
 title: 'Mother Tongue Language Symposium'
 permalink: /
-notification: 'This website is in beta - your valuable <a href="https://www.google.com">feedback</a> will help us in improving it.'
 sections:
     -
         hero:
