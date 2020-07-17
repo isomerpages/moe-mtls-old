@@ -1,6 +1,6 @@
 ---
-title: MTL Challenge
-permalink: /Online-Quest/MTL-Challenge
+title: 'MTL Challenge'
+permalink: /Online-Quest/MTL-Challenge/
 breadcrumb: 'MTL Challenge'
 collection_name: Online Quest
 ---
