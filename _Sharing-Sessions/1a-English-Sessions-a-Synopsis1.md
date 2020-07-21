@@ -132,6 +132,31 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 <td style="border:0 none;padding: 0; margin:0;">
   <a href="/test/video/"><div class="hl">Click here</div></a>
 </td>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+      <label for="tab-2">Raising Bilingual Children: What does the science say? 
+ <br/> Leher SINGH
 
+</label>
+      <div class="tab-content">      
+       <br/>
+  <div class="row">
+ <div class="column">
+<img src="images/cropped-person-icon-8-2.png" style="width:100%">
+   </div>
+   <p> Leher SINGH
+    <br/> National University of Singapore
+</p>
+   </div>
+  <h4> Synposis</h4>  
+ <p>Raising bilingual children opens children up to tremendous opportunities. At the same time, families often experience stress in knowing how best to raise children to become bilingual. What works and what doesn't? What does the science say? This sharing session will focus on how bilingualism can be expected to impact a child’s development, as well as some of the common challenges that parents face and on research-based strategies to support bilingualism in young children.
+</p>
+ </div></div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;">
+  <a href="/test/video/"><div class="hl">Click here</div></a>
+</td>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
 
