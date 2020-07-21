@@ -75,7 +75,7 @@ max-width:40%;
       <div class="tab-content">
   <div class="row">
  <div class="column">
- <div> <img src="images/cropped-person-icon-8-2.png" style="width:100%">
+<img src="images/cropped-person-icon-8-2.png" style="width:100%">
    </div>
    <p> Dr Connie Lum <br/> NTUC First Campus <br/>
    Multimodal Approaches to Developing Oracy </p>
