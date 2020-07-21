@@ -84,7 +84,7 @@ max-width:40%;
   <h4> Synposis</h4>
   <p>Early intervention is important. Parents are often seeking ways and efforts to maximise the learning and developmental potential of their children. Neuro-psychological research in these last few decades have found several important facts about the cognitive development of young children. However, myths and mis-conceptions regarding brain development still persist. In this talk, A/P Mariam Aljunied will help dispel these myths and clarify the facts about children’s neuro-psychological development. She will provide insights on the cognitive effects of growing up bilingual, and in particular, why the learning of two or more languages can enhance cognition. Several tips for parents will be shared on what they can do to facilitate and enhance children’s language and communication abilities, as well as what parents should do if children show early warning signs of language and communication difficulties. </p>
  </div>
-<hr>
+
 
    <div class="row">
   <div class="column">
@@ -96,7 +96,7 @@ max-width:40%;
   <h4> Synposis</h4>
   <p>‘There are many little ways to enlarge your child’s world. Love of books is the best of all’. In this unprecedented time, where teaching and learning has taken on new forms and ways. In easing ourselves into the new normal, this quote from Jacqueline Kennedy is more relevant than ever. This session hopes to provide parents and teachers with an opportunity to look at the learning of reading critically in MTL for children in a different way. There are no limits to the curricular strategies and learning tools that teachers and parents can leverage on as we go about guiding our little chargers to continue enjoy reading in MTL. </p>
  </div>
-  <hr>
+ 
 
   <div class="row">
   <div class="column">
