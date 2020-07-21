@@ -104,11 +104,16 @@ max-width:40%;
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
   </div>
-    <p><strong>Ms Salna Bte Saiman & Ms Ganda Sari Binte </strong> <br/> CPDD, Sembawang Primary School  <br/>
-   The Thinking Reader in the Digital World  </p>
+    <p><strong>Ms Salna Bte Saiman & Ms Ganda Sari Binte </strong> <br/> Pre-recorded  </p>
        </div>
-  <h4> Synposis</h4>
-  <p>‘There are many little ways to enlarge your child’s world. Love of books is the best of all’. In this unprecedented time, where teaching and learning has taken on new forms and ways. In easing ourselves into the new normal, this quote from Jacqueline Kennedy is more relevant than ever. This session hopes to provide parents and teachers with an opportunity to look at the learning of reading critically in MTL for children in a different way. There are no limits to the curricular strategies and learning tools that teachers and parents can leverage on as we go about guiding our little chargers to continue enjoy reading in MTL. </p>
+  <h4> ML Profile of Speaker</h4> 
+ <p>Puan Salina merupakan Pakar Kanan Bahasa Melayu di Unit Bahasa Melayu, Bahagian Perancangan dan Pembangunan Kurikulum (CPDD), Kementerian Pendidikan Singapura (MOE). Beliau mempunyai 20 tahun pengalaman mengajar Bahasa Melayu di sekolah. Sebagai pakar kanan, beliau terlibat dalam semakan kurikulum, perancangan dan mengetuai kumpulan kurikulum dalam pembinaan dan implementasi bahan pengajaran dan pembelajaran Bahasa Melayu. Puan Salina juga terlibat dalam latihan guru-guru sekolah rendah dan pakar rujuk Kurikulum Bahasa Melayu Sekolah Rendah.<br/>
+ Puan Ganda merupakan guru yang mempunyai pengalaman mengajar di sekolah rendah dan sekolah menengah selama 13 tahun. Puan Ganda juga pernah berkhidmat sebagai Pegawai Pembangunan Kurikulum di Unit Bahasa Melayu, Bahagian Perancangan dan Pembangunan Kurikulum (CPDD) selama lima tahun. Kini, Puan Ganda bertugas sebagai Ketua Subjek Bahasa Ibunda di Sekolah Rendah Sembawang. Dalam bidang tugasnya sebagai guru dan pegawai kurikulum, Puan Ganda,  membina bahan-bahan pengajaran  dan strategi pengajaran dan  pembelajaran Bahasa Melayu.</p>
+    <h4> ML Title & Synopsis</h4>
+ <h4><strong>Pembaca yang Berfikir dalam Dunia Digital</strong></h4>
+  <p>‘Terdapat pelbagai cara untuk meluaskan dunia kanak-kanak, dan membaca merupakan cara yang paling baik’.  
+Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal baharu sehingga memerlukan bentuk dan cara pengajaran dan pembelajaran yang berbeza. Sesi perkongsian ini diharap akan dapat memberikan ibu bapa dan guru-guru ruang untuk menilai semula pemerolehan kemahiran membaca kanak-kanak secara kritis dan dalam pelbagai cara agar kanak-kanak akan terus berminat untuk membaca dalam bahasa ibunda.
+ </p>
 <hr>
   <div class="row">
   <div class="column">
@@ -117,7 +122,7 @@ max-width:40%;
     <p> <strong>Hazliana Md Lahir </strong> <br/> Singapore Sports School  <br/>
    Parents and their involvement in supporting early literacy at home </p>
    </div>
-  <h4> Synposis</h4>
+    <h4> ML Title & Synopsis</h4>
   <p>Home is the first school, and parents are the first teachers. Parent involvement helps extend teaching outside the classroom, creates a more positive experience for children and helps children perform better when they are in school. It is essential for parents to support the learning that happens in preschool settings at home as well. Through this session, participants will gain insight on how to create a literacy-rich home environment as they explore fun and practical strategies, they can use to inculcate the love for language learning at home. </p>
 </div>
 <td style="border:0 none;padding: 0; margin:0;">
