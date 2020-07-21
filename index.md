@@ -15,11 +15,15 @@ sections:
     - infobar:
         title: HIGHLIGHTS
         subtitle: 
-        description: <div>SHARING SESSIONS</div> <div>SHARING SESSIONS AA</div>
+        description: <div>SHARING SESSIONS</div> <div>EXHIBITORS</div> <div>OPMTL 2020</div>
     - infobar:
         title: KNOW OUR SPEAKERS
         subtitle: 
         description: TESTING FOR SPEAKER
+    - infobar:
+        title: LET'S PLAY!
+        subtitle: 
+        description:   GAME INTRO
 ---
 
 
