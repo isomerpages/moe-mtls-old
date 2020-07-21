@@ -26,7 +26,7 @@ collection_name: Gallery
  .btn{
  width: 200px;
  }
- .btnClass{
+ .btn{
  padding:15px 2px; 
 
  }
@@ -39,10 +39,10 @@ collection_name: Gallery
  <td><h4>Chinese</h4>
  
 <div>
-  <a href="#"><div style="display:inline-block;" class="btnClass"><img src="/images/moecurriculumbtn.png"></div></a>
-  <a href="#"><div style="display:inline-block;" class="btnClass"><img src="/images/preSchoolbtn.png"></div></a>
-  <a href="#"><div style="display:inline-block;" class="btnClass"><img src="/images/schoolbtn.png"></div></a>
-  <a href="#"><div style="display:inline-block;" class="btnClass"><img src="/images/communitypartnerbtn.png"></div></a><br/><br/>
+  <a href="#"><div style="display:inline-block;" class="btn"><img src="/images/moecurriculumbtn.png"></div></a>
+  <a href="#"><div style="display:inline-block;" class="btn"><img src="/images/preSchoolbtn.png"></div></a>
+  <a href="#"><div style="display:inline-block;" class="btn"><img src="/images/schoolbtn.png"></div></a>
+  <a href="#"><div style="display:inline-block;" class="btn"><img src="/images/communitypartnerbtn.png"></div></a><br/><br/>
 </div>
 </td>
 </tr>
