@@ -17,7 +17,7 @@ sections:
         subtitle: 
         description: <div>SHARING SESSIONS</div> <div>SHARING SESSIONS AA</div>
     - infobar:
-        title: SPEAKERS
+        title: KNOW OUR SPEAKERS
         subtitle: 
         description: TESTING FOR SPEAKER
 ---
