@@ -24,7 +24,7 @@ sections:
     - infobar:
         title: LET'S PLAY!
         subtitle: 
-        description:   <div style="display:inline-block;">Thank you for your interest in joining the SG MTLS! If you have signed up, you will be invited to join our outreach channels to receive the latest updates. If there is a good match, we will be in touch with you via email or phone call to confirm your enlistment to the Corps, and to link you up with the institution that can benefit from your help. Stay tuned, share this opportunity to #standby4SG, and keep well.</div> <div style="display:inline-block;"><img alt="" src="/images/qrSample.jpg"> </div>
+        description:   <div style="display:inline-block;">Thank you for your interest in joining the SG MTLS! If you have signed up, you will be invited to join our outreach channels to receive the latest updates. </div> <div style="display:inline-block;"><img alt="" src="/images/qrSample.jpg"> </div>
 ---
 
 
