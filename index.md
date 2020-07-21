@@ -10,10 +10,24 @@ sections:
         title: Livestreams
         subtitle: 
         description: <iframe width="560" height="315" src="https://www.youtube.com/embed/SlPhMPnQ58k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    - infobar:
-        title: KNOW OUR SPEAKERS
+    - infopic:
+        title: Spearker 01
         subtitle: 
-        description: TESTING FOR SPEAKER
+        description:
+        image: /images/speaker01.png
+        alt: Spearker 01
+    - infopic:
+        title: Spearker 02
+        subtitle: 
+        description:
+        image: /images/speaker02.png
+        alt: Spearker 02
+    - infopic:
+        title: Spearker 03
+        subtitle: 
+        description:
+        image: /images/speaker03.png
+        alt: Spearker 03
     - infopic:
         title: LET'S PLAY!
         subtitle: 
