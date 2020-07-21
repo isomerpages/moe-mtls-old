@@ -84,6 +84,7 @@ max-width:40%;
   <h4> Synposis</h4>
   <p>Early intervention is important. Parents are often seeking ways and efforts to maximise the learning and developmental potential of their children. Neuro-psychological research in these last few decades have found several important facts about the cognitive development of young children. However, myths and mis-conceptions regarding brain development still persist. In this talk, A/P Mariam Aljunied will help dispel these myths and clarify the facts about children’s neuro-psychological development. She will provide insights on the cognitive effects of growing up bilingual, and in particular, why the learning of two or more languages can enhance cognition. Several tips for parents will be shared on what they can do to facilitate and enhance children’s language and communication abilities, as well as what parents should do if children show early warning signs of language and communication difficulties. </p>
  </div></div>
+<hr>
 
    <div class="row">
   <div class="column">
