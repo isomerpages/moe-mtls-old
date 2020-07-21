@@ -16,6 +16,10 @@ sections:
         title: HIGHLIGHTS
         subtitle: 
         description: <div style="display:inline-block;">SHARING SESSIONS</div> <div style="display:inline-block;">EXHIBITORS</div> <div style="display:inline-block;">OPMTL 2020</div>
+    - resources:
+        title: News and Media
+        subtitle: Media Releases
+        button: View more 
     - infobar:
         title: KNOW OUR SPEAKERS
         subtitle: 
@@ -26,10 +30,6 @@ sections:
         description:   <div style="display:inline-block;">Thank you for your interest in joining the SG MTLS! If you have signed up, you will be invited to join our outreach channels to receive the latest updates. </div>
         image: /images/qrSample.jpg
         alt: QR Code
-    - resources:
-        title: News and Media
-        subtitle: Media Releases
-        button: View more 
         
 
 ---
