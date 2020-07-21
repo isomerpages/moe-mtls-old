@@ -109,7 +109,8 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">爱加倍小小学府实龙岗分校 <br/> Agape Little Uni @ Upper Serangoon</label>
+      <label for="tab-2">Multimodal Approaches to Developing Oracy [3.30pm – 4.30pm]  <br/> Dr Connie Lum
+</label>
       <div class="tab-content">      
        <p>This is Topic 2</p>      
 </div></div>
