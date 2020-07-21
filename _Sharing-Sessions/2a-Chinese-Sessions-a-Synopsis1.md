@@ -121,8 +121,7 @@ max-width:40%;
    <p>Happy Reading and Storytelling with young children </p>
   <h4> Synopsis</h4> 
  <p>Cultivating good reading habits and developing an interest in reading for young children at early age is important. As many young children are not able to read independently, they need adults’ support and help to develop habits to read. The speaker will be sharing different strategies and tips on reading and storytelling, on ways to select suitable reading materials, and to relate post reading activities to children’s daily life.  Thus, make reading fun and get children to be passionate towards reading and Chinese language learning.</p>
-   
-  </div>
+    </div>
 <td style="border:0 none;padding: 0; margin:0;">
   <a href="/test/CL-video/"><div class="hl">Click here</div></a>
 </td>
