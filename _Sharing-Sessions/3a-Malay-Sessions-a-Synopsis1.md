@@ -59,6 +59,10 @@ td, th {
     position:absolute;
     margin-left: -100px;
 }
+img {
+height:auto;
+max-width:40%;
+}
 </style>
 </head>
 <body>  
