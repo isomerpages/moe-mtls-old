@@ -59,6 +59,10 @@ td, th {
     position:absolute;
     margin-left: -100px;
 }
+img {
+height:auto;
+max-width:50%;
+}
 </style>
 </head>
   <body>  
@@ -69,24 +73,16 @@ td, th {
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1">MY 学前教育中心 <br/> MY World Preschool</label>
       <div class="tab-content">
-       <table>
-  <tr>
-    <th>S/N</th>
-    <th>Speaker</th>
-    <th>Title</th>
-    <th>Synopsis</th>
-    <th>Remarks</th>
-  </tr>
-  <tr>
-   <td><strong>1</strong></td>
-    <td><strong>Dr Connie Lum</strong><br/><br/>
-    NTUC First Campus</td>
-    <td> Multimodal Approaches to Developing Oracy</td>
-    <td>Integrating multimodal experiences, coupled with specific learning objectives and age-appropriate activities, has been one of the common pedagogies used in early childhood education. In order to better recognise and support the diverse abilities and interests of our young learners, opportunities for lively and authentic expression should also be plentiful within the early years environment.  By supporting learning experiences which involve various modes of expression, children can engage based on their developmental characteristics and learning preferences and in turn, encourage them to communicate in their mother tongue and effectively drive their own learning.  In this sharing, we will be exploring multimodal approaches in developing oracy, such as using manipulatives in games, finger puppet activities, paired discussion and storytelling activities, and incorporating movement elements in music activities which involve verbal communication.</td>
-   <td></td>
-  </tr></table>
+  <div class="row">
+ <div class="column">
+     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
+   </div>
+   <p> Dr Connie Lum <br/> NTUC First Campus <br/>
+   Multimodal Approaches to Developing Oracy </p>
+   </div>
+  <h4> Synposis</h4>
+  <p>Integrating multimodal experiences, coupled with specific learning objectives and age-appropriate activities, has been one of the common pedagogies used in early childhood education. In order to better recognise and support the diverse abilities and interests of our young learners, opportunities for lively and authentic expression should also be plentiful within the early years environment. By supporting learning experiences which involve various modes of expression, children can engage based on their developmental characteristics and learning preferences and in turn, encourage them to communicate in their mother tongue and effectively drive their own learning. In this sharing, we will be exploring multimodal approaches in developing oracy, such as using manipulatives in games, finger puppet activities, paired discussion and storytelling activities, and incorporating movement elements in music activities which involve verbal communication.</p>
        </div></div>
-</td>
 <td style="border:0 none;padding: 0; margin:0;">
   <a href="/test/video/"><div class="hl">Click here</div></a>
 </td>
