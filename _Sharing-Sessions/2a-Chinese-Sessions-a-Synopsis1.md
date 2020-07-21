@@ -111,7 +111,7 @@ max-width:40%;
   <h4> Synopsis</h4> 
  <p>Cultivating good reading habits and developing an interest in reading for young children at early age is important. As many young children are not able to read independently, they need adults’ support and help to develop habits to read. The speaker will be sharing different strategies and tips on reading and storytelling, on ways to select suitable reading materials, and to relate post reading activities to children’s daily life.  Thus, make reading fun and get children to be passionate towards reading and Chinese language learning.</p>
    <hr>
-   div class="row">
+   <div class="row">
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
   </div>
