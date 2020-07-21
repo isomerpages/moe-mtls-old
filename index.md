@@ -15,7 +15,7 @@ sections:
     - infobar:
         title: HIGHLIGHTS
         subtitle: 
-        description: <div>SHARING SESSIONS</div>
+        description: <div>SHARING SESSIONS</div> <div>SHARING SESSIONS AA</div>
 ---
 
 
