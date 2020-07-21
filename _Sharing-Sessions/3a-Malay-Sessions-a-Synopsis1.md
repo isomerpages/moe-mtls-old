@@ -99,8 +99,7 @@ max-width:40%;
        <h4>Peranan Ibu Bapa dalam Memupuk Budaya Celik Literasi di Rumah</h4>    
   <p>Ibu bapa memainkan peranan yang penting sebagai guru pertama kepada anak-anak mereka. Pelibatan ibu bapa dalam pendidikan anak-anak menyumbang kepada pembinaan pengalaman pembelajaran yang lebih positif untuk anak-anak mereka. Melalui sesi perkongsian ini, para peserta akan dapat mempelajari cara-cara untuk memupuk budaya celik literasi di rumah. Di samping itu, para peserta juga akan didedahkan kepada strategi yang mudah dan praktikal bagi menanam minat dan cinta kepada bahasa dalam diri anak-anak. </p>
 <hr>
-  
- <div class="row">
+  <div class="row">
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
   </div>
@@ -115,15 +114,36 @@ max-width:40%;
 Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal baharu sehingga memerlukan bentuk dan cara pengajaran dan pembelajaran yang berbeza. Sesi perkongsian ini diharap akan dapat memberikan ibu bapa dan guru-guru ruang untuk menilai semula pemerolehan kemahiran membaca kanak-kanak secara kritis dan dalam pelbagai cara agar kanak-kanak akan terus berminat untuk membaca dalam bahasa ibunda.
  </p>
 <hr>
+       <div class="row">
+  <div class="column">
+    <img src="images/cropped-person-icon-8-2.png" style="width:100%">
+  </div>
+    <p> <strong>Mr Haniman Boniran </strong> <br/> Live streaming</p>
+   </div>
+         <h4> ML Profile of Speaker</h4> 
+       <p>Encik Haniman Boniran ialah Pengurus Pendidikan di Wildlife Reserves Singapore (WRS). Minat beliau dalam pendidikan alam berputik semasa menjadi sukarelawan di Taman Haiwan Singapura pada tahun 2001. Sejak sedekad yang lalu, beliau menceburi bidang pendidikan yang merangkumi pendidikan awal kanak-kanak, pendidikan bahasa Melayu dan pengendalian bengkel bahasa Melayu untuk guru prasekolah sebagai sebahagian daripada pembelajaran pengalaman autentik yang ditawarkan di WRS. Beliau juga bekerjasama dengan para pendidik untuk menghasilkan strategi-strategi pengajaran yangbaik bagi memperkukuh penggunaan bahasa Melayu dalam kalangan masyarakat muda Singapura. Encik Haniman yang gemar berinteraksi bersama ibu bapa dan masyarakat juga telah diiktiraf sebagai seorang pendidik bagi orang dewasa oleh Institut Pembelajaran Dewasa (IAL).</p>
+    <h4> ML Title & Synopsis</h4>
+       <h4><strong>Ayuh, Teroka Taman Haiwan Singapura…Melalui Alam Siber!</strong></h4>
+  <p>Dengan perkembangan teknologi, pembelajaran bahasa ibunda boleh menjadi lebih mudah dan seronok dengan kaedah pembelajaran teradun. 
+Melalui sesi perkongsian Webinar ini, peserta dapat belajar cara menggunakan topik-topik tentang haiwan dalam pengajaran dan pembelajaran bahasa Melayu. Peserta akan dibawa ke alam maya Taman Haiwan Singapura untuk berjumpa dengan duta haiwan. Penggunaan gambar, video dan buku audio yang telah direka khas Taman Haiwan Singapura diharap dapat menarik perhatian peserta, khususnya kanak-kanak.  Peserta juga akan didedahkan kepada konsep pendidikan berpusatkan kanak-kanak bagi mencungkil sifat ingin tahu mereka. 
+Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik darjah. Pengajaran dan pembelajaran secara autentik ini dapat membina kemahiran asas bahasa dan literasi yang terdapat  dalam Rangka Kerja Bahasa Ibunda MOE dan ECDA.
+ </p>
+       <hr>
   <div class="row">
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
   </div>
-    <p> <strong>Hazliana Md Lahir </strong> <br/> Singapore Sports School  <br/>
-   Parents and their involvement in supporting early literacy at home </p>
+    
+   <h4></h4>
+    <p> <strong>Ms Asnida Daud </strong> <br/> Live streaming</p>
    </div>
+   <h4> ML Profile of Speaker</h4> 
+   <p>Cikgu Asnida Daud mempunyai pengalaman lebih daripada 20 tahun dalam pengajaran Bahasa Melayu. Cikgu Asnida merupakan Pakar Kanan di cawangan Reka Bentuk Media untuk Pembelajaran pada tahun 2020. Sejak 2011, beliau menghasilkan dan menerbitkan video dan audio pendidikan dari peringkat prasekolah hingga prauniversiti. Sebagai Duta Bahasa, beliaumenyemarakkan cinta akan budaya dan bahasa Melayu dalam kalangan masyarakat umum. Kini, beliau meneroka bidang motivasi untuk mengekalkan minat pelajar dalam pembelajaran Bahasa Ibunda menerusi media kreatif.</p>
     <h4> ML Title & Synopsis</h4>
-  <p>Home is the first school, and parents are the first teachers. Parent involvement helps extend teaching outside the classroom, creates a more positive experience for children and helps children perform better when they are in school. It is essential for parents to support the learning that happens in preschool settings at home as well. Through this session, participants will gain insight on how to create a literacy-rich home environment as they explore fun and practical strategies, they can use to inculcate the love for language learning at home. </p>
+    <h4><strong>Didik Hibur: 
+Bahan Rangsangan untuk Menggalakkan Pelajar dalam Pembelajaran Bahasa Melayu
+</strong></h4>
+  <p>Kajian neurosains telah membuktikan bahawa pembelajaran akan berhenti apabila keseronokan terhenti. Cara pembelajaran dan pengajaran bahasa yang aktif dan berkesan sangat penting bagi pelajar pada peringkat awal. Salah satu kaedah adalah melalui pendekatan didik hibur yang mengandungi sejumlah aktiviti seperti nyanyian, bercerita, lakonan atau puisi. Pendekatan didik hibur memupuk minat belajar dan sikap positif terhadap pembelajaran bahasa, khususnya untuk mengatasi kesukaran pelajar menguasai kemahiran membaca dan menulis. Perkongsian ini memanfaatkan pengalaman dan kepakaran penceramah bukan hanya sebagai perancang media pendidikan tetapi turut meraih pengalaman beliau dalam seni kreatif sebagai penggiat, penyair dan pengamal budaya Melayu. Pada masa yang sama, perkongsian tersebut juga memberikan contoh pendekatan didik hibur yang diterapkan dalam bahanpendidikan yang telah dihasilkan.  </p>
 </div>
 <td style="border:0 none;padding: 0; margin:0;">
   <a href="/test/ML-video/"><div class="hl">Click here</div></a>
