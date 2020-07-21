@@ -16,6 +16,10 @@ sections:
         title: HIGHLIGHTS
         subtitle: 
         description: <div>SHARING SESSIONS</div> <div>SHARING SESSIONS AA</div>
+     - infobar:
+        title: KNOW OUR SPEAKERS
+        subtitle: 
+        description: <div>SPEAKER SESSION</div> 
 ---
 
 
