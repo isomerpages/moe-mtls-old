@@ -15,7 +15,7 @@ sections:
     - infobar:
         title: HIGHLIGHTS
         subtitle: 
-        description: <div>The SG Healthcare Corps is intended to provide support to our healthcare and community care professionals by referring additional healthcare professionals and lay extenders to areas of need. It is currently coordinated by the Ministry of Health, with support from our partner agencies, as well as institutions from public healthcare, primary, and community care sectors.</div>
+        description: <div>SHARING SESSIONS</div>
 ---
 
 
