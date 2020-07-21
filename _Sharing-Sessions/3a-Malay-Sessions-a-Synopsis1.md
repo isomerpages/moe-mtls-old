@@ -99,7 +99,7 @@ max-width:40%;
        <h4>Peranan Ibu Bapa dalam Memupuk Budaya Celik Literasi di Rumah</h4>    
   <p>Ibu bapa memainkan peranan yang penting sebagai guru pertama kepada anak-anak mereka. Pelibatan ibu bapa dalam pendidikan anak-anak menyumbang kepada pembinaan pengalaman pembelajaran yang lebih positif untuk anak-anak mereka. Melalui sesi perkongsian ini, para peserta akan dapat mempelajari cara-cara untuk memupuk budaya celik literasi di rumah. Di samping itu, para peserta juga akan didedahkan kepada strategi yang mudah dan praktikal bagi menanam minat dan cinta kepada bahasa dalam diri anak-anak. </p>
 <hr>
-  <div c
+  
  <div class="row">
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
