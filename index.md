@@ -13,7 +13,10 @@ sections:
         subtitle: 
         description: <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLMC9KNkIncKtGvr2kFRuXBVmBev6cAJ2u" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         url: /faq/
-
+     - infobar:
+         title: 
+         subtitle:
+         description: <p>SHARING SESSIONS</p> <p>EXHIBITORS</p> <p>OPMTL 2020</p>
 ---
 
 
