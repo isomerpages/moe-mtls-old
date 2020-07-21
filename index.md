@@ -24,7 +24,7 @@ sections:
     - infobar:
         title: LET'S PLAY!
         subtitle: 
-        description:   <div style="display:inline-block;"></div>
+        description:   <div style="display:inline-block;">GAME INTRO</div> <div style="display:inline-block;"><img alt="" src="/images/qrSample.jpg"> </div>
 ---
 
 
