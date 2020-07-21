@@ -24,7 +24,8 @@ sections:
     - infobar:
         title: LET'S PLAY!
         subtitle: 
-        description:   <div style="display:inline-block;">Thank you for your interest in joining the SG MTLS! If you have signed up, you will be invited to join our outreach channels to receive the latest updates. </div> <div style="display:inline-block;"><img alt="" src="/images/qrSample.jpg"> </div>
+        description:   <div style="display:inline-block;">Thank you for your interest in joining the SG MTLS! If you have signed up, you will be invited to join our outreach channels to receive the latest updates. </div>
+        url: /images/qrSample.jpg/
 ---
 
 
