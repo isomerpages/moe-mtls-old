@@ -39,7 +39,7 @@ collection_name: Gallery
  <tr>
  <td><h4>Chinese</h4>
  
-<div class="tab">
+<div>
   <a href="#"><div style="display:inline-block;"><img src="/images/moecurriculumbtn.png"></div></a>
   <a href="#"><div style="display:inline-block;" ><img src="/images/preSchoolbtn.png"></div></a>
   <a href="#"><div style="display:inline-block;" ><img src="/images/schoolbtn.png"></div></a>
@@ -49,11 +49,11 @@ collection_name: Gallery
 </tr>
 <tr>
  <td><h4>Malay</h4>
-<div class="tab">
-  <a href="#"><div style="display:inline-block;" class="btnClass">MOE Curriculum</div></a>
-  <a href="#"><div style="display:inline-block;" class="btnClass">PreSchool</div></a>
-  <a href="#"><div style="display:inline-block;" class="btnClass">Schools</div></a>
-  <a href="#"><div style="display:inline-block;" class="btnClass">Community Partners</div></a><br/><br/>
+<div>
+   <a href="#"><div style="display:inline-block;"><img src="/images/moecurriculumbtn.png"></div></a>
+  <a href="#"><div style="display:inline-block;" ><img src="/images/preSchoolbtn.png"></div></a>
+  <a href="#"><div style="display:inline-block;" ><img src="/images/schoolbtn.png"></div></a>
+  <a href="#"><div style="display:inline-block;" ><img src="/images/communitypartnerbtn.png"></div></a><br/><br/>
 </div>
 </td>
 </tr>
