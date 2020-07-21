@@ -19,7 +19,7 @@ sections:
      - infobar:
         title: KNOW OUR SPEAKERS
         subtitle: 
-        description: <div>SPEAKER SESSION</div> 
+        description: 
 ---
 
 
