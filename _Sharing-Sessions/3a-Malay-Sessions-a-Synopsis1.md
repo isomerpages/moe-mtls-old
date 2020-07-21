@@ -121,6 +121,5 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
   <a href="/test/ML-video/"><div class="hl">Click here</div></a>
 </td>
-</tr>
-</table>
+
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
