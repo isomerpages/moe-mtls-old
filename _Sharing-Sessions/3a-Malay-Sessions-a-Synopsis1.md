@@ -78,8 +78,7 @@ max-width:40%;
  <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
    </div>
-   <p><strong>Associate Professor Mariam Aljunied </strong> <br/> Special Educational Needs Division Ltd  <br/>
-   Children’s neuro-psychological development: myths and facts  </p>
+   <p><strong>Associate Professor Mariam Aljunied </strong> <br/> Pre-recorded </p>
    </div>
   <h4> ML Profile of Speaker</h4> 
        <p>Profesor Madya (A/P) Mariam Aljunied bertugas sebagai Pengetua Ahli Psikologi Pendidikan di Cawangan Pendidikan Keperluan Khas, Kementerian Pendidikan (MOE). Di samping tugas beliau di MOE, A/P Mariam juga merupakan Profesor Madya di Jabatan Psikologi, Universiti National Singapura dan Pengkaji Bersekutu di Jabatan Sains Bahasa dan Psikologi di Universiti Kolej London (UK). Dengan pengalaman lebih dari 25 tahun sebagai ahlipsikologi pendidikan bertauliah, beliau mempunyai kepakaran yang mendalam dalam bidang perkembangan kanak-kanak. Beliau telah menerajui beberapa kajian penting di peringkat nasional dalam bidang ini. A/P Mariam juga aktif dalam usaha-usaha membina kepakaran para pendidik, ahlipsikologi dan ibu bapa dalam bidang psikologi kanak-kanak dan pendidikan khas.</p>
@@ -108,7 +107,7 @@ max-width:40%;
   <h4> ML Profile of Speaker</h4> 
  <p>Puan Salina merupakan Pakar Kanan Bahasa Melayu di Unit Bahasa Melayu, Bahagian Perancangan dan Pembangunan Kurikulum (CPDD), Kementerian Pendidikan Singapura (MOE). Beliau mempunyai 20 tahun pengalaman mengajar Bahasa Melayu di sekolah. Sebagai pakar kanan, beliau terlibat dalam semakan kurikulum, perancangan dan mengetuai kumpulan kurikulum dalam pembinaan dan implementasi bahan pengajaran dan pembelajaran Bahasa Melayu. Puan Salina juga terlibat dalam latihan guru-guru sekolah rendah dan pakar rujuk Kurikulum Bahasa Melayu Sekolah Rendah.<br/>
  Puan Ganda merupakan guru yang mempunyai pengalaman mengajar di sekolah rendah dan sekolah menengah selama 13 tahun. Puan Ganda juga pernah berkhidmat sebagai Pegawai Pembangunan Kurikulum di Unit Bahasa Melayu, Bahagian Perancangan dan Pembangunan Kurikulum (CPDD) selama lima tahun. Kini, Puan Ganda bertugas sebagai Ketua Subjek Bahasa Ibunda di Sekolah Rendah Sembawang. Dalam bidang tugasnya sebagai guru dan pegawai kurikulum, Puan Ganda,  membina bahan-bahan pengajaran  dan strategi pengajaran dan  pembelajaran Bahasa Melayu.</p>
-    <h4> ML Title & Synopsis<br/>
+    <h4> ML Title & Synopsis <br/><br/>
  <strong>Pembaca yang Berfikir dalam Dunia Digital</strong></h4>
   <p>‘Terdapat pelbagai cara untuk meluaskan dunia kanak-kanak, dan membaca merupakan cara yang paling baik’.  
 Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal baharu sehingga memerlukan bentuk dan cara pengajaran dan pembelajaran yang berbeza. Sesi perkongsian ini diharap akan dapat memberikan ibu bapa dan guru-guru ruang untuk menilai semula pemerolehan kemahiran membaca kanak-kanak secara kritis dan dalam pelbagai cara agar kanak-kanak akan terus berminat untuk membaca dalam bahasa ibunda.
