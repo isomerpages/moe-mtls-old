@@ -88,7 +88,7 @@ max-width:40%;
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
   </div>
-    <p>Ms Salna Bte Saiman & Ms Ganda Sari Binte  <br/> CPDD, Sembawang Primary School  <br/>
+    <p><strong>Ms Salna Bte Saiman & Ms Ganda Sari Binte </strong> <br/> CPDD, Sembawang Primary School  <br/>
    The Thinking Reader in the Digital World  </p>
    </div>
   <h4> Synposis</h4>
@@ -98,7 +98,7 @@ max-width:40%;
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
   </div>
-    <p>Hazliana Md Lahir  <br/> Singapore Sports School  <br/>
+    <p> <strong>Hazliana Md Lahir </strong> <br/> Singapore Sports School  <br/>
    Parents and their involvement in supporting early literacy at home </p>
    </div>
   <h4> Synposis</h4>
