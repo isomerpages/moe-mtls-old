@@ -69,23 +69,18 @@ td, th {
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1">MY 学前教育中心 <br/> MY World Preschool</label>
       <div class="tab-content">
-       <table>
-  <tr>
-    <th>S/N</th>
-    <th>Speaker</th>
-    <th>Title</th>
-    <th>Synopsis</th>
-    <th>Remarks</th>
-  </tr>
-  <tr>
-   <td><strong>1</strong></td>
-    <td><strong>Associate Professor Mariam Aljunied</strong><br/><br/>
-    Special Educational Needs Division Ltd  </td>
-    <td>Children’s neuro-psychological development: myths and facts     </td>
-    <td>Early intervention is important. Parents are often seeking ways and efforts to maximise the learning and developmental potential of their children. Neuro-psychological research in these last few decades have found several important facts about the cognitive development of young children. However, myths and mis-conceptions regarding brain development still persist. In this talk, A/P Mariam Aljunied will help dispel these myths and clarify the facts about children’s neuro-psychological development. She will provide insights on the cognitive effects of growing up bilingual, and in particular, why the learning of two or more languages can enhance cognition. Several tips for parents will be shared on what they can do to facilitate and enhance children’s language and communication abilities, as well as what parents should do if children show early warning signs of language and communication difficulties.
-    </td>
-    <td></td>
-  </tr>
+       <br/>
+  <div class="row">
+ <div class="column">
+<img src="images/cropped-person-icon-8-2.png" style="width:100%">
+   </div>
+   <p><strong>Associate Professor Mariam Aljunied </strong> <br/> Special Educational Needs Division Ltd  <br/>
+   Children’s neuro-psychological development: myths and facts  </p>
+   </div>
+  <h4> Synposis</h4>
+  <p>Early intervention is important. Parents are often seeking ways and efforts to maximise the learning and developmental potential of their children. Neuro-psychological research in these last few decades have found several important facts about the cognitive development of young children. However, myths and mis-conceptions regarding brain development still persist. In this talk, A/P Mariam Aljunied will help dispel these myths and clarify the facts about children’s neuro-psychological development. She will provide insights on the cognitive effects of growing up bilingual, and in particular, why the learning of two or more languages can enhance cognition. Several tips for parents will be shared on what they can do to facilitate and enhance children’s language and communication abilities, as well as what parents should do if children show early warning signs of language and communication difficulties. </p>
+ </div></div></td>
+ <hr>
   <tr>
    <td><strong>2</strong></td>
     <td><strong>Ms Salna Bte Saiman & Ms Ganda Sari Binte </strong><br/><br/>
