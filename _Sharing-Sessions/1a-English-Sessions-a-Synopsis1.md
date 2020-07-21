@@ -72,7 +72,7 @@ max-width:40%;
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1">MY 学前教育中心 <br/> MY World Preschool</label>
-      <div class="tab-content">
+      <div class="tab-content"><br/>
   <div class="row">
  <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
