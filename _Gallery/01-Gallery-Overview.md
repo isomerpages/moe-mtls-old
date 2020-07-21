@@ -40,10 +40,10 @@ collection_name: Gallery
  <td><h4>Chinese</h4>
  
 <div class="tab">
-  <a href="#"><div style="display:inline-block;" class="btnClass">MOE Curriculum</div></a>
-  <a href="#"><div style="display:inline-block;" class="btnClass">PreSchool</div></a>
-  <a href="#"><div style="display:inline-block;" class="btnClass">Schools</div></a>
-  <a href="#"><div style="display:inline-block;" class="btnClass">Community Partners</div></a><br/><br/>
+  <a href="#"><div style="display:inline-block;" class="btnClass"><img src="/images/moecurriculumbtn.png"></div></a>
+  <a href="#"><div style="display:inline-block;" class="btnClass"><img src="/images/preSchoolbtn.png"></div></a>
+  <a href="#"><div style="display:inline-block;" class="btnClass"><img src="/images/schoolbtn.png"></div></a>
+  <a href="#"><div style="display:inline-block;" class="btnClass"><img src="/images/communitypartnerbtn.png"></div></a><br/><br/>
 </div>
 </td>
 </tr>
