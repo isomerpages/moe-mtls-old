@@ -104,11 +104,10 @@ max-width:40%;
   <h4> Synposis</h4>
   <p>Home is the first school, and parents are the first teachers. Parent involvement helps extend teaching outside the classroom, creates a more positive experience for children and helps children perform better when they are in school. It is essential for parents to support the learning that happens in preschool settings at home as well. Through this session, participants will gain insight on how to create a literacy-rich home environment as they explore fun and practical strategies, they can use to inculcate the love for language learning at home. </p>
 </div>
-
 <td style="border:0 none;padding: 0; margin:0;">
   <a href="/test/ML-video/"><div class="hl">Click here</div></a>
 </td>
-</tr>
+
   <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
