@@ -21,7 +21,7 @@ sections:
         title: KNOW OUR SPEAKERS
         subtitle: 
         description: TESTING FOR SPEAKER
-    - infobar:
+    - infopic:
         title: LET'S PLAY!
         subtitle: 
         description:   <div style="display:inline-block;">Thank you for your interest in joining the SG MTLS! If you have signed up, you will be invited to join our outreach channels to receive the latest updates. </div>
