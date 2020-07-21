@@ -15,7 +15,7 @@ sections:
     - infobar:
         title: HIGHLIGHTS
         subtitle: 
-        description: <div style="inline-block">SHARING SESSIONS</div> <div style="inline-block">EXHIBITORS</div> <div>OPMTL 2020</div>
+        description: <div style="display: inline-block;">SHARING SESSIONS</div> <div style="display: inline-block;">EXHIBITORS</div> <div>OPMTL 2020</div>
     - infobar:
         title: KNOW OUR SPEAKERS
         subtitle: 
