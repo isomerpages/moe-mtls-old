@@ -5,7 +5,8 @@ permalink: /
 sections:
     -
         hero:
-            background: /MTLS Hero Banner Test 2.jpg
+            background: /MTLS_Web_BannersV2(21July2020)1920x720.jpg
+
     -
         carousel: []
     - infobar:
