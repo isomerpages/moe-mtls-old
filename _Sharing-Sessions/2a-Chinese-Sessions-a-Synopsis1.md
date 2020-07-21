@@ -78,7 +78,8 @@ max-width:40%;
  <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
    </div>
-   <p><strong></strong> </p>
+   <p><strong>Shuhan C. Wang
+</strong> </p>
    </div>
  <h4> ELE Consulting International and Chinese Early Language and Immersion Network (CELIN) at Asia SocietySynopsis:
 </h4> 
