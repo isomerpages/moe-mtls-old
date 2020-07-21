@@ -16,7 +16,7 @@ sections:
      - infobar:
          title: 
          subtitle:
-         description: <p>SHARING SESSIONS</p> <p>EXHIBITORS</p> <p>OPMTL 2020</p>
+         description: TEST DESC
 ---
 
 
