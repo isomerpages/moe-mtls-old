@@ -13,10 +13,9 @@ sections:
               url: /funding/apply-for-grant/
             - title: OPMTL 2020
               url: /funding/our-impact/
-    -
-        carousel: []
+    
     - infobar:
-        title: 
+        title: Livestreams
         subtitle: 
         description: <iframe width="560" height="315" src="https://www.youtube.com/embed/SlPhMPnQ58k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     - infobar:
