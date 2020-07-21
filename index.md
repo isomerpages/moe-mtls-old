@@ -6,7 +6,6 @@ sections:
     -
         hero:
             background: /MTLS_Web_BannersV2(21July2020)1920x720.jpg
-
     -
         carousel: []
     - infobar:
@@ -27,6 +26,12 @@ sections:
         description:   <div style="display:inline-block;">Thank you for your interest in joining the SG MTLS! If you have signed up, you will be invited to join our outreach channels to receive the latest updates. </div>
         image: /images/qrSample.jpg
         alt: QR Code
+        
+# Resources Section
+resources-title: Media
+resources-subtitle: Be in the know
+resources-more-button: More Media
+resources-more-button-url: /media/?utm_source=media_homepage
 ---
 
 
