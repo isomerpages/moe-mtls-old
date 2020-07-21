@@ -97,7 +97,7 @@ Dr Sukuna S. Vijayadevar is a senior lecturer with NIEC SEED. She has served for
 <p>Danny Yeo
 <br/>Danny Yeo has 30 years of rich experience in various fields. He is a well-established veteran cross-media personality, a prolific theatre director-writer-actor, and remains active and passionate in various areas of involvement: such as events hosting, creative consulting and corporate training. A bilingual extraordinaire and an award-winning lecturer, he has anchored 15 info-entertainment television programmes (2015-2020), written 5 film scripts, authored 4 books in 2 languages and initiated numerous innovative theatrical ideas, particularly for interactive-immersive performances. In recent years, he has presented works on international stages including Shanghai, Macau and New York City. Danny has been a CPCLL committee member since 2008, serving as the vice group leader of the Outreach and Engagement group.
 </p>
-<p>Ben Yeo
+<p>Ben Yeo <br/>
 With years of experience in the television and entertainment industry, Ben Yeo is a renowned Mediacorp actor and host. Having starred in numerous productions and variety programmes, many may also regard Ben as a celebrity chef. Trained in SHATAC, Ben possesses excellent cooking skills and is well loved by many clients’ in the food industry. Over the years, Ben has also published two cookbooks and owned various businesses. A doting father to his sons, Ben divides his time between family, work, and cooking.
 <br/></p>
  </div></div></td>
