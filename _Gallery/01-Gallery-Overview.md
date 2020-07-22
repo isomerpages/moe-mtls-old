@@ -23,12 +23,10 @@ collection_name: Gallery
   color:white;
   font-weight:600;
 }
- .btn{
- width: 200px;
- }
- .btn{
- padding:15px 2px; 
-
+.btn{
+ padding:15px 5px; 
+ margin-left: 10px;
+ width: 130px;
  }
 </style>
 </head>
@@ -49,20 +47,20 @@ collection_name: Gallery
 <tr>
  <td><h4>Malay</h4>
 <div>
-   <a href="#"><div style="display:inline-block;"><img src="/images/moecurriculumbtn.png"></div></a>
-  <a href="#"><div style="display:inline-block;" ><img src="/images/preSchoolbtn.png"></div></a>
-  <a href="#"><div style="display:inline-block;" ><img src="/images/schoolbtn.png"></div></a>
-  <a href="#"><div style="display:inline-block;" ><img src="/images/communitypartnerbtn.png"></div></a><br/><br/>
+   <a href="#"><div style="display:inline-block; class="btn""><img src="/images/moecurriculumbtn.png"></div></a>
+  <a href="#"><div style="display:inline-block;" class="btn"><img src="/images/preSchoolbtn.png"></div></a>
+  <a href="#"><div style="display:inline-block;" class="btn"><img src="/images/schoolbtn.png"></div></a>
+  <a href="#"><div style="display:inline-block;" class="btn"><img src="/images/communitypartnerbtn.png"></div></a><br/><br/>
 </div>
 </td>
 </tr>
 <tr>
  <td><h4>Tamil</h4>
 <div class="tab">
-  <a href="#"><div style="display:inline-block;" class="btnClass">MOE Curriculum</div></a>
-  <a href="#"><div style="display:inline-block;" class="btnClass">PreSchool</div></a>
-  <a href="#"><div style="display:inline-block;" class="btnClass">Schools</div></a>
-  <a href="#"><div style="display:inline-block;" class="btnClass">Community Partners</div></a><br/><br/>
+  <a href="#"><div style="display:inline-block;" class="btn">MOE Curriculum</div></a>
+  <a href="#"><div style="display:inline-block;" class="btn">PreSchool</div></a>
+  <a href="#"><div style="display:inline-block;" class="btn">Schools</div></a>
+  <a href="#"><div style="display:inline-block;" class="btn">Community Partners</div></a><br/><br/>
 </div>
 </td>
 </tr>
