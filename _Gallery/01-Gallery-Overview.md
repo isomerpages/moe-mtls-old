@@ -47,7 +47,7 @@ collection_name: Gallery
 <tr>
  <td><h4>Malay</h4>
 <div>
-   <a href="#"><div style="display:inline-block; class="btn""><img src="/images/moecurriculumbtn.png"></div></a>
+   <a href="#"><div style="display:inline-block;" class="btn"><img src="/images/moecurriculumbtn.png"></div></a>
   <a href="#"><div style="display:inline-block;" class="btn"><img src="/images/preSchoolbtn.png"></div></a>
   <a href="#"><div style="display:inline-block;" class="btn"><img src="/images/schoolbtn.png"></div></a>
   <a href="#"><div style="display:inline-block;" class="btn"><img src="/images/communitypartnerbtn.png"></div></a><br/><br/>
