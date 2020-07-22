@@ -4,7 +4,7 @@ title: Contact Us
 permalink: /Contact-Us/
 agency_name: MTLS
 locations:
-  - title: Address <br/>Lee Kuan Yew Fund for Bilingualism
+  - title: Address 00111
     address:
         - 1. North Buona Vista Drive
         - Singapore 138675
