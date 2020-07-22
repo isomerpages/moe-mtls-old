@@ -161,7 +161,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 </td>
 </tr>
 </table>
-  
+  <br/>
   <div class="Image">
   <img src="images/footerBanner.png" width="1000" height="300">
   </div>
