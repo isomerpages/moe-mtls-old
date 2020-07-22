@@ -36,7 +36,14 @@ div.btntop {
 <p>This is the content for Prech.</p><br/>
 </div>
 <div id="Pri"><br/>
-<p>This is the content for Pri. sdfasdfasfasdfasdfasdfasddfasfasddsfsdfasfasdfsadfs</p><br/>
+<table>
+<tr>
+<td><img src="/images/footerBanner.png"></td>
+</tr>
+<tr>
+<td><p>Text in Slide 2</p></td>
+</tr>
+</table>
 </div>
 <div id="Sec"><br/>
 <p>This is the content for Sec.</p><br/>
