@@ -87,7 +87,7 @@ max-width:40%;
 Our speaker will be sharing a framework for MTL development in an educational ecosystem, drawing upon studies in early childhood development, heritage language education, bilingual and biliteracy development, and language immersion education. She offers practical strategies, applicable in daily life and learning, to guide students towards a healthy self-identity, high proficiency and literacy in MTL and English, and global competency for intergenerational connection and intercultural engagement.
 </p></div></div></td>  
  <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/video/"><div class="hl">Click here</div></a>
+  <a href="/test/CL-video-Shuhan/"><div class="hl">Click here</div></a>
 </td>
 </tr>
  <tr>
