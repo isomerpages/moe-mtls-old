@@ -57,12 +57,12 @@ div.btntop {
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1">	Tadika MOE (Farrer Park)<br/>MK@Farrer Park</label>
       <div class="tab-content">
-      <h3>Dunia penceritaan - seronok belajar bahasa sambil menghayati nilai</h3>
+      <h4>Membaca Mencipta Keajaiban</h4>
       <p>
-        Melalui penceritaan, kanak-kanak dapat mempelajari nilai-nilai murni masyarakat mereka. Bahasa pula menjadi peralatan utama dalam penyampaian nilai-nilai ini. Bak kata pepatah, tak kenal maka tak cinta. Melalui pengenalan terhadap nilai yang dipancarkan, kanak-kanak akan lebih memahami dan menghayati budaya serta bahasa mereka. Berdasarkan landasan penceritaan, Kumpulan Akademik Bahasa dan Kebudayaan Asia, Institut Pendidikan Nasional, menyediakan beberapa sumber video yang dapat digunakan oleh ibu bapa dalam memupuk nilai-nilai murni ini kepada anak-anak mereka. Selain daripada cerita dalam bentuk video, kami juga menyediakan langkah-langkah sebelum bercerita, bercerita, serta selepas bercerita yang sesuai sebagai panduan ibu bapa. Mereka dapat menggunakannya untuk membimbing anak-anak dalam mempelajari nilai-nilai murni budaya yang diingini. Melalui teknik penceritaan serta bimbingan ibu bapa, kanak-kanak dapat mempelajari Bahasa Melayu serta nilai murni budaya masyarakat dalam suasana santai dan menarik di rumah. </p>
+        Di Tadika MOE @ Farrer Park (MK Farrer Park), setiap kanak-kanak dipercayai boleh belajar dan menggunakan bahasa Ibunda sebagai alat komunikasi yang berkesan. Dengan berpandukan prinsip panduan ini, MK Farrer Park ingin memupuk minat dan  penghayatan kanak-kanak untuk membaca buku Bahasa Ibunda melalui inisiatif yang dijalankan, iaitu MK Book Club. Dengan memilih buku cerita mereka sendiri, kanak-kanak akan terdorong  untuk membaca dan belajar mengikut tahap kebolehan mereka. <br/>Untuk mengukuhkan amalan membaca di rumah pula, MK Farrer Park bekerjasama dengan ibu bapa untuk melibatkan anak-anak mereka dalam aktiviti membaca dan bercerita. Dengan mengadakan aktiviti keluarga yang bermakna, kanak-kanak dapat melanjutkan pembelajaran mereka di luar darjah dan meningkatkan keyakinan diri untuk bertutur dalam bahasa Ibunda. </p>
 
-<h3>The World of Stories – Fun in Language Learning and Values Inculcation</h3>
-<p>Stories are a great way to engage children in language learning and exposing them to the value system of a culture behind the language.  Children immerse themselves in the language while enjoying the stories and pick up cultural nuances embedded in them.  Being acquainted with the way values are highlighted will help children have deeper appreciation for the culture and better understanding of the language.  The Asian Languages and Cultures Academic Group from the National Institute of Education is providing video resources and tips for parents to help their children learn their MTL and the corresponding cultures through story-telling, covering the whole process from selection of stories, the actual story-telling process and post story-telling discussion.  This will help parents gain a better understanding of how to fully tap onto story-telling to help their children learn MTL and their values in a fun and engaging way at home.
+<h4>Reading Creates Wonders</h4>
+<p>MOE Kindergarten @ Farrer Park (MK) believes that every child can learn and use Mother Tongue Language (MTL) as an effective communication tool. Guided by this belief, the centre aims to cultivate MK children’s love for, and appreciation of reading of MTL books through their centre-based initiative, the MK Book Club. With a child-initiated choice of books, children are motivated to read at their own pace.<br/> To reinforce reading habits at home, the centre partners parents to engage their children in reading and storytelling. Coupled with meaningful family-based activities, this further extends their child’s learning beyond the classroom and builds their confidence in speaking MTL.  
 
 </p>
       </div>
@@ -79,8 +79,13 @@ div.btntop {
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2">Tadika MOE (Waterway)<br/>MK@Waterway</label>
       <div class="tab-content">
+       <h4>Seronoknya Berdrama</h4>
         <p>
-          This is the content for Exhibitor 2.
+         Pendekatan “Seronoknya Berdrama” adalah untuk menggalakkan pembelajaran Bahasa Ibunda melalui aktiviti main peranan di rumah. Pendekatan ini merangkumi proses tiga langkah; iaitu, Membaca, Menceritakan Semula dan Melakonkan (atau M3).<br/>Main peranan di rumah memberi kanak-kanak peluang yang menyeronokkan sewaktu berinteraksi dengan ahli keluarga mereka. Mereka boleh menggunakan alatan dan bahan-bahan sedia ada di rumah. Main peranan juga membolehkan kanak-kanak mengalami persekitaran rumah yang autentik, relevan dan bermakna buat mereka. Selain  mengukuhkan pertalian kekeluargaan dan membantu untuk membina daya kreativiti dan pemikiran kanak-kanak, pendekatan ini juga memperkukuh kemahiran bertutur dan keyakinan diri kanak-kanak untuk menggunakan Bahasa Ibunda.
+        </p>
+       <h4>Fun With Drama </h4>
+        <p>
+         “Fun With Drama” is about promoting the learning of Mother Tongue Languages (MTL) through the use of dramatic play at home. The approach features a 3-step process:  Read, Retell and Re-enact (or R3). <br/>Dramatic play at home is fun and provides enjoyable opportunities for children to interact with family members using household objects, props and authentic home settings that are real, relevant and meaningful to them.  Apart from promoting family bonding and children’s creativity and problem-solving skills, it also helps to strengthen their communication skills and confidence in using their respective Mother Tongue Languages. 
         </p>
       </div>
 </div>
