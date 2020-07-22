@@ -197,9 +197,10 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .bp-section.bp-section-pagetitle {
-  //background-color: $primary !important;
+   //background-color: $primary !important;
+    background-color: red;
    //background-image: url(images/testbanner.jpg);
-   background: url('/images/testbanner.jpg') no-repeat left 50%;
+   //background: url('/images/testbanner.jpg') no-repeat left 50%;
    -webkit-background-size: cover;
    background-size: cover;
 }
