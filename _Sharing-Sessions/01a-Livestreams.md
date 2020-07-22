@@ -120,8 +120,8 @@ Image{
  <a href="/test/video/">Link to video</a>
     </p>
   </div>
-  </div>
   <hr>
+  
   <div class="Image">
   <img src="images/footerBanner.png" width="1000" height="300">
   </div>
