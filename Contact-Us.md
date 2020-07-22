@@ -3,6 +3,12 @@ title: Contact Us
 permalink: /Contact-Us/
 breadcrumb: Contact Us
 agency_name: MTLS
+locations:
+  - title: Main Office
+    address:
+        - 31 Sesame Street
+        - Big Bird Building
+        - Singapore 123456
 contacts:
   - title: 
     content:
