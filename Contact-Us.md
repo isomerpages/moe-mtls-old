@@ -10,10 +10,8 @@ locations:
         - Singapore 138675
     maps_link: https://www.google.com/maps/place/1+N+Buona+Vista+Dr,+Singapore+138675/@1.3054075,103.7887384,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1a43b6c4fc13:0xe0f68e977a69968f!8m2!3d1.3054021!4d103.7909271!5m1!1e1
 contacts:
-  - title:
-    content:
-    - phone: +65 6879 6975
-    - email: moe_lkyfb@moe.gov.sg
+  - title: General Enquiries & Feedback
+    content: If you have any enquires, please contact us at picoevents01@pico.com 
+    - phone: 
+    - email: 
 ---
-
-<div class="btntop"><a href="#top" style="text-decoration:none;">Top teststast</a></div>
