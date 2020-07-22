@@ -120,9 +120,14 @@ Parents can find out more about the learning opportunities available for the you
       <input id="tab-4" type="checkbox" name="tab">
       <label for="tab-4">Institut Pendidikan Nasional  (Kumpulan Akademik Bahasa dan Kebudayaan Asia)<br/>National Institute of Education  (Asian Languages and Cultures Academic Group)</label>
       <div class="tab-content">
+         <h4>Dunia Penceritaan - Keseronokan dalam Pembelajaran Bahasa dan Penyemaian Nilai</h4>
         <p>
-          This is the content for Exhibitor 2.
+        Penceritaan merupakan cara terbaik untuk menarik minat kanak-kanak. Melalui penceritaan, kanak-kanak dapat mendalami bahasa ibunda mereka di samping mempelajari nilaibudaya masyarakat mereka. Bak kata pepatah, tak kenal maka tak cinta. Melalui pengenalan terhadap nilai yang diserlahkan, kanak-kanak akan lebih memahami dan menghayati budaya serta bahasa mereka. Melalui penceritaan, Kumpulan Akademik Bahasa dan Kebudayaan Asia, Institut Pendidikan Nasional (NIE), menyediakan beberapa buah video yang dapat digunakan oleh ibu bapa dalam mempelajari bahasa ibunda dan memupuk nilai-nilai murni dalam diri anak-anak mereka. Ibu bapa dapat mempelajari teknik bercerita untuk membantu anak-anak mereka mempelajari bahasa ibunda dan menyemai nilai budayadi rumah dengan  seronok dan menarik.
         </p>
+       <h4>The World of Stories – Fun in Language Learning and Values Inculcation</h4>
+       <p>Stories are a great way to engage children. Whilst enjoyinga good story, children become immersed  in the language and pick up cultural nuances embedded in the story.  
+To encourage the use of stories, the Asian Languages and Cultures Academic Group from the National Institute of Education is releasing  video resources and tips  onthe process of storytelling. These resources will  support children’s exposure to cultural values and encourage language learning by helping parents better understandhow to best tap on storytelling to help their children learn MTL and absorb cultural  values in a fun and engaging way at home.
+</p>
       </div>
 </div>
 </td>
