@@ -113,7 +113,7 @@ Our speaker will be sharing a framework for MTL development in an educational ec
 </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/video/"><div class="hl">Click here</div></a>
+  <a href="/test/CL-video-Sun/"><div class="hl">Click here</div></a>
 </td>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
