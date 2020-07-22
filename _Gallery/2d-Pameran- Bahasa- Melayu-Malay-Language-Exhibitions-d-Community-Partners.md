@@ -180,10 +180,14 @@ div.btntop {
       <input id="tab-8" type="checkbox" name="tab">
       <label for="tab-8">Wildlife Reserves Singapore	<br/>Wildlife Reserves Singapore</label>
       <div class="tab-content">
+       <h4>Keajaiban Alam Haiwan</h4>
         <p>
-          This is the content for Exhibitor 2.
+          Wildlife Reserves Singapore (WRS) mempersembahkan pameran bilik darjah Keajaiban Alam Haiwan dalam tiga bahasa Ibunda untuk peringkat tadika dan sekolah rendah. Dengan bertemakan haiwan, WRS meneroka idea-idea pengajaran yang sesuai untuk memupuk minat kanak-kanak dalam penggunaan bahasa Melayu harian mereka. Terdapat juga pelbagai bahan pendidikan elektronik yang sesuai untuk meningkatkan penguasaan kosa kata kanak-kanak tadika. WRS juga melancarkan buku audio bahasa Melayu yang memaparkan watak Kai Kai dan Jia Jia, kedua-dua ekor panda di River Safari. Bagi murid sekolah rendah, aktiviti dalam talian Jejak Nusantara memberi mereka peluang untuk berlatih menggunakan bahasa Melayu dan memperoleh kemahiran berfikir aras tinggi.
         </p>
-      </div>
+       <h4>Animal Wonderland</h4>
+       <p>Animal Wonderland by Wildlife Reserves Singapore presents a living classroom for all three Mother Tongue Languages (MTLs) targeted at both preschool and primary school. Explore pre-visit, in-park and post-visit animal-inspired lesson ideas that motivate children to use Malay in their daily lives. You will find e-teaching aids to help build a copious word bank for preschoolers. Audio story books featuring giant pandas, Kai Kai and Jia Jia, are now available in [CL/ML/TL]. Primary school students can embark on an e-trail in respective titles in MTLs, where they get to practise their MTLs and acquire higher order thinking skills.</p>
+        
+ </div>
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
