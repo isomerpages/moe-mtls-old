@@ -82,17 +82,19 @@ max-width:50%;
   </div>
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png"  style="width:100%">
-    <p style= "text-align:center">Ms ElakeyaaSelvaraji<br/>
-     Topic Title<br/>
-     Time<br/>
+    <p style= "text-align:center">Dr Sun Baoqi<br/>
+     National Institute of Education, Nanyang Technological University
+(CL)<br/>
+     2:00pm – 3:00pm<br/>
  <a href="/test/video/">Link to video</a>
     </p>
   </div>
   <div class="column">
   <img src="images/cropped-person-icon-8-2.png" style="width:100%">
-    <p style= "text-align:center">Speaker Name <br/>
-     Topic Title<br/>
-     Time<br/>
+    <p style= "text-align:center">Mr HanimanBoniran <br/>
+    Manager, Education Wildlife Reserves Singapore
+(ML)<br/>
+     2:00pm – 3:00pm<br/>
  <a href="/test/video/">Link to video</a>
     </p>
   </div>
@@ -101,9 +103,11 @@ max-width:50%;
 <div class="row">
  <div class="column">
      <img src="images/cropped-person-icon-8-2.png" style="width:100%">
-     <p style= "text-align:center">Speaker Name <br/>
-     Topic Title<br/>
-     Time<br/>
+     <p style= "text-align:center">Ms Rani Kanna& Mr Anandha Kannan <br/>
+     AKT Creations
+(TL)
+<br/>
+     2:00pm – 3:00pm<br/>
  <a href="/test/video/">Link to video</a>
 </p>
   </div>
