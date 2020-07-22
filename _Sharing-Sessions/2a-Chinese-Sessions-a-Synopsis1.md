@@ -115,6 +115,7 @@ Our speaker will be sharing a framework for MTL development in an educational ec
 <td style="border:0 none;padding: 0; margin:0;">
   <a href="/test/CL-video-Sun/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
+</tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
@@ -138,11 +139,12 @@ Part 2: The importance of being a noob (菜） <br/>
 Part 3: Follow their interests <br/>
 Part 4: The power of languages 
  </p>
-       </div></div>
+ </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
   <a href="/test/CL-video-Woo/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
+ </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
@@ -167,6 +169,7 @@ Part 4: The power of languages
 <td style="border:0 none;padding: 0; margin:0;">
   <a href="/test/CL-video-Xu/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
+ </tr>
  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
@@ -191,7 +194,7 @@ Part 4: The power of languages
   <a href="/test/CL-video-Lim/"> <img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
-
+</table>
   <hr/>
   <div class="Image">
   <img src="images/footerBanner.png" width="1000" height="300">
