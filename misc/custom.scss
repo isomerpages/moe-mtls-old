@@ -373,7 +373,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 
-.horizontal-scroll:target {
+.tab div:target {
   display: block;
 }
 
