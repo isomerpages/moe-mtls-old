@@ -95,9 +95,18 @@ div.btntop {
       <input id="tab-3" type="checkbox" name="tab">
       <label for="tab-3">Lembaga Warisan Negara<br/>National Heritage Board</label>
       <div class="tab-content">
-        <p>
-          This is the content for Exhibitor 2.
+       <h4>Lembaga Warisan Negara</h4>
+<p>
+          Kenali bahasa Ibunda menerusi warisan dan budaya bersama Lembaga Warisan Negara (NHB).
+Mari ketahui lebih lanjut tentang program-program, tip-tip bahasa dan bahan-bahan berguna yang diketengahkan oleh Kempen Bertutur Bahasa Mandarin, Majlis Bahasa Melayu Singapura dan Majlis Bahasa Tamil.
+Pelajari perihal institusi-institusi warisan seperti Pusat Warisan India, Taman Warisan Melayu dan Dewan Peringatan Nanyang Sun Yat Sen serta inisiatif-inisiatif pendidikan warisan yang dianjurkan oleh NHB seperti Khazanah Kecil Singapura, Program Peneroka Warisan dan Program Sudut Warisan Sekolah.
+Ibu bapa dapat mengetahui dengan lebih lanjut tentang peluang pembelajaran yang disediakan untuk anak-anak. Para guru dan pendidik juga boleh menimba ilmu tentang cara-cara meluaskan pembelajaran di luar bilik darjah.
         </p>
+           <h4>National Heritage Board</h4>
+               <p>Discover Mother Tongue Languages through heritage and culture with the National Heritage Board (NHB).
+Find out more about language programmes, tips and resources with the Speak Mandarin Campaign, the Malay Language Council, Singapore, and the Tamil Language Council.
+Learn more about the Heritage Institutions – Indian Heritage Centre, Malay Heritage Centre and Sun Yat Sen Nanyang Memorial Hall, and the NHB’s heritage education initiatives such as Singapore Little Treasures, Heritage Explorer Programme and School Heritage Corners Programme.
+Parents can find out more about the learning opportunities available for the young, while educators can explore opportunities to expand learning beyond the classroom.</p>
       </div>
 </div>
 </td>
