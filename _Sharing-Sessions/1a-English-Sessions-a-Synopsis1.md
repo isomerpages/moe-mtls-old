@@ -61,7 +61,7 @@ td, th {
 }
 img {
 height:auto;
-width:80px;
+max-width:40%;
 }
 </style>
 </head>
