@@ -19,13 +19,13 @@ sections:
         subtitle: 
         description:  NTUC First Campus <br/>Principal Curriculum Specialist
         image: /images/speaker03.png
-        alt: speaker01
+        alt: Dr Connie Lum
     - infopic:
-        title: SPEAKER 02
+        title: Leher SINGH
         subtitle: 
-        description: 
+        description: National University of Singapore
         image: /images/speaker04.png
-        alt: speaker02
+        alt: Leher SINGH
     - infopic:
         title: LET'S PLAY!
         subtitle: 
