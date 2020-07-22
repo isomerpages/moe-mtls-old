@@ -34,7 +34,10 @@ img {
 height:auto;
 max-width:50%;
 }
-
+Image{
+  max-width: 100%;
+  height: auto;
+}
 </style>
 </head>
 <body>
@@ -119,7 +122,7 @@ max-width:50%;
   </div>
   </div>
   <hr>
-  <div class="footerImage">
+  <div class="Image">
   <img src="images/footerBanner.png" width="1000" height="300">
   </div>
   
