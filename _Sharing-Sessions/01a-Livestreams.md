@@ -34,7 +34,7 @@ img {
 height:auto;
 max-width:50%;
 }
-div.footerImage{
+footerImage{
 height:auto;
 max-width:100%;
 }
