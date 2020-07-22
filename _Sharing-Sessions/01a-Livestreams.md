@@ -49,17 +49,19 @@ max-width:50%;
   </div>
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png"  style="width:100%">
-    <p style= "text-align:center">Speaker Name <br/>
-     Topic Title<br/>
-     Time<br/>
+    <p style= "text-align:center">Dr Wang Shuhan  <br/>
+     ELE Consulting Internaitonal and Chinese Early Language and Immersion Network (CELIN) at Asia Society
+(CL)<br/>
+     12:30pm – 1:30pm<br/>
  <a href="/test/video/">Link to video</a>
     </p>
   </div>
   <div class="column">
   <img src="images/cropped-person-icon-8-2.png" style="width:100%">
-    <p style= "text-align:center">Speaker Name <br/>
-     Topic Title<br/>
-     Time<br/>
+    <p style= "text-align:center">MdmAsinda<br/>
+     Senior Specialist, ETD, MOE(ML)
+<br/>
+     12:30pm – 1:30pm<br/>
  <a href="/test/video/">Link to video</a>
     </p>
   </div>
@@ -68,15 +70,19 @@ max-width:50%;
  <div class="row">
  <div class="column">
      <img src="images/cropped-person-icon-8-2.png" style="width:100%">
-     <p style= "text-align:center">Speaker Name <br/>
-     Topic Title<br/>
-     Time<br/>
+     <p style= "text-align:center">Ms ElakeyaaSelvaraji <br/>
+     Senior Manager, Ministry of Manpower
+(TL)
+
+(ML)
+<br/>
+     12:30pm – 1:30pm<br/>
  <a href="/test/video/">Link to video</a>
 </p>
   </div>
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png"  style="width:100%">
-    <p style= "text-align:center">Speaker Name <br/>
+    <p style= "text-align:center">Ms ElakeyaaSelvaraji<br/>
      Topic Title<br/>
      Time<br/>
  <a href="/test/video/">Link to video</a>
