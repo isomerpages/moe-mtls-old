@@ -163,6 +163,7 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
 <td style="border:0 none;padding: 0; margin:0;">
   <a href="/test/ML-video-Mariam/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
+ </tr>
  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
@@ -196,6 +197,7 @@ Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal b
 <td style="border:0 none;padding: 0; margin:0;">
   <a href="/test/ML-video-Salina/"><img class="btnImg" alt="Click here" src="/images/arrowMalay.png"></a>
 </td>
+ </tr>
   <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
@@ -229,7 +231,7 @@ Home is the first school, and parents are the first teachers. Parental involveme
 </td>
    </tr>
    </table>
- <br/>
+ <hr/>
   <div class="Image">
   <img src="images/footerBanner.png" width="1000" height="300">
   </div>      
