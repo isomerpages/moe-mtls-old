@@ -445,7 +445,7 @@ $desktop: 960px + (2 * $gap) !default;
 .atab label {
   position: relative;
   display: block;
-  background: #9b4490;
+  //background: #9b4490;
   color: #fff;
   font-weight: bold;
   padding: 10px;
@@ -453,14 +453,17 @@ $desktop: 960px + (2 * $gap) !default;
 }  
 
 .atab .lbeng {
-  position: relative;
-  display: block;
   background: #72c6e9;
-  color: #fff;
-  font-weight: bold;
-  padding: 10px;
-  cursor: pointer;
 } 
+.atab .lbCh {
+  background: #d84178;
+} 
+.atab .lbML {
+  background: #a3c864;
+}
+.atab .lbTM {
+  background: #9b4490;
+}
 .tab-content {
   overflow: hidden;
   margin-top: 0px;
