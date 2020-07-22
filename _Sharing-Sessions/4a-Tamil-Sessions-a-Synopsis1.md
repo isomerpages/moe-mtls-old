@@ -114,7 +114,6 @@ max-width:100%;
 <td style="border:0 none;padding: 0; margin:0;">
   <a href="/test/TL-video-Rani/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
- </td>
  </tr>
  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
