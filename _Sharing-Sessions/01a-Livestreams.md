@@ -42,6 +42,8 @@ div.Image{
 </head>
 <body>
   <table>
+    <tr>
+      <td>
 <div class="row">
  <div class="column">
      <img src="images/cropped-person-icon-8-2.png" style="width:100%">
@@ -51,6 +53,8 @@ div.Image{
  <a href="/test/video/">Link to video</a>
 </p>
   </div>
+  </td>
+        <td>
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png"  style="width:100%">
     <p style= "text-align:center"> <strong>Dr Wang Shuhan </strong> <br/>
@@ -60,6 +64,8 @@ div.Image{
  <a href="/test/video/">Link to video</a>
     </p>
   </div>
+      </td>
+      <td>
   <div class="column">
   <img src="images/cropped-person-icon-8-2.png" style="width:100%">
     <p style= "text-align:center"> <strong>MdmAsinda </strong><br/>
@@ -69,8 +75,13 @@ div.Image{
  <a href="/test/video/">Link to video</a>
     </p>
   </div>
+        <td>
   </div>
+    </tr>
+    
   <hr>
+  <tr>
+  <td>
  <div class="row">
  <div class="column">
      <img src="images/cropped-person-icon-8-2.png" style="width:100%">
@@ -81,6 +92,8 @@ div.Image{
  <a href="/test/video/">Link to video</a>
 </p>
   </div>
+   </td>
+    <td>
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png"  style="width:100%">
     <p style= "text-align:center"> <strong> Dr Sun Baoqi </strong><br/>
@@ -90,6 +103,8 @@ div.Image{
  <a href="/test/video/">Link to video</a>
     </p>
   </div>
+  </td>
+  <td>
   <div class="column">
   <img src="images/cropped-person-icon-8-2.png" style="width:100%">
     <p style= "text-align:center"> <strong> Mr HanimanBoniran </strong><br/>
@@ -99,8 +114,12 @@ div.Image{
  <a href="/test/video/">Link to video</a>
     </p>
   </div>
+  </td>
   </div>
+  </tr>
   <hr>
+  <tr>
+  <td>
 <div class="row">
  <div class="column">
      <img src="images/cropped-person-icon-8-2.png" style="width:100%">
@@ -111,6 +130,8 @@ div.Image{
  <a href="/test/video/">Link to video</a>
 </p>
   </div>
+  </td>
+    <td>
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png"  style="width:100%">
     <p style= "text-align:center"> <strong> Dr Connie Lum </strong><br/>
@@ -121,7 +142,9 @@ div.Image{
  <a href="/test/video/">Link to video</a>
     </p>
   </div>
+      <td>
   </div>
+  </tr>
   </table>
   <hr>
   
