@@ -34,7 +34,7 @@ img {
 height:auto;
 max-width:50%;
 }
-. column ima{
+.column img{
   max-width: 40%;
   height: auto;
 }
