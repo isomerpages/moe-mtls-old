@@ -22,7 +22,7 @@ allowfullscreen></iframe></div>
   </div>
     <p><strong>Woo Yen Yen
   </strong> <br/> Yumcha Studios Pte Ltd</p>
-       </div>
+      
   <h4> Synopsis</h4> 
  <p>Former New York-based professor and “ang moh pai” English teacher Dr. Woo Yen Yen went from being that student who ripped up her Chinese textbook to writing Chinese comics and a giant musical that toured 25 cities in China. She shares her journey and tips for getting her American-born daughter with zero Chinese to thrive in an all-Chinese instruction Taiwanese public school.<br/>
        Part 1: "But my Chinese is so bad!" <br/>
