@@ -42,24 +42,24 @@ max-width:50%;
  <div class="column">
      <img src="images/cropped-person-icon-8-2.png" style="width:100%">
      <p style= "text-align:center">
-     Creating an Immersive Environment for the Learning of Our Mother Tongue Languages(EL)<br/>
+     <strong> Creating an Immersive Environment for the Learning of Our Mother Tongue Languages(EL) </strong><br/>
      10:00am – 1:00am<br/>
  <a href="/test/video/">Link to video</a>
 </p>
   </div>
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png"  style="width:100%">
-    <p style= "text-align:center">Dr Wang Shuhan  <br/>
+    <p style= "text-align:center"> <strong>Dr Wang Shuhan </strong> <br/>
      ELE Consulting Internaitonal and Chinese Early Language and Immersion Network (CELIN) at Asia Society
-(CL)<br/>
+<strong> (CL) </strong> <br/>
      12:30pm – 1:30pm<br/>
  <a href="/test/video/">Link to video</a>
     </p>
   </div>
   <div class="column">
   <img src="images/cropped-person-icon-8-2.png" style="width:100%">
-    <p style= "text-align:center">MdmAsinda<br/>
-     Senior Specialist, ETD, MOE(ML)
+    <p style= "text-align:center"> <strong>MdmAsinda </strong><br/>
+     Senior Specialist, ETD, MOE <strong>(ML) </strong>
 <br/>
      12:30pm – 1:30pm<br/>
  <a href="/test/video/">Link to video</a>
@@ -70,30 +70,27 @@ max-width:50%;
  <div class="row">
  <div class="column">
      <img src="images/cropped-person-icon-8-2.png" style="width:100%">
-     <p style= "text-align:center">Ms ElakeyaaSelvaraji <br/>
+     <p style= "text-align:center"> <strong>Ms ElakeyaaSelvaraji </strong> <br/>
      Senior Manager, Ministry of Manpower
-(TL)
-
-(ML)
-<br/>
+<strong>(TL)</strong><br/>
      12:30pm – 1:30pm<br/>
  <a href="/test/video/">Link to video</a>
 </p>
   </div>
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png"  style="width:100%">
-    <p style= "text-align:center">Dr Sun Baoqi<br/>
+    <p style= "text-align:center"> <strong> Dr Sun Baoqi </strong><br/>
      National Institute of Education, Nanyang Technological University
-(CL)<br/>
+<strong> (CL) </strong><br/>
      2:00pm – 3:00pm<br/>
  <a href="/test/video/">Link to video</a>
     </p>
   </div>
   <div class="column">
   <img src="images/cropped-person-icon-8-2.png" style="width:100%">
-    <p style= "text-align:center">Mr HanimanBoniran <br/>
+    <p style= "text-align:center"> <strong> Mr HanimanBoniran </strong><br/>
     Manager, Education Wildlife Reserves Singapore
-(ML)<br/>
+<strong> (ML) </strong><br/>
      2:00pm – 3:00pm<br/>
  <a href="/test/video/">Link to video</a>
     </p>
@@ -103,9 +100,8 @@ max-width:50%;
 <div class="row">
  <div class="column">
      <img src="images/cropped-person-icon-8-2.png" style="width:100%">
-     <p style= "text-align:center">Ms Rani Kanna& Mr Anandha Kannan <br/>
-     AKT Creations
-(TL)
+     <p style= "text-align:center"> <strong> Ms Rani Kanna& Mr Anandha Kannan  </strong><br/>
+     AKT Creations <strong> (TL) </strong>
 <br/>
      2:00pm – 3:00pm<br/>
  <a href="/test/video/">Link to video</a>
@@ -113,9 +109,9 @@ max-width:50%;
   </div>
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png"  style="width:100%">
-    <p style= "text-align:center">Dr Connie Lum<br/>
+    <p style= "text-align:center"> <strong> Dr Connie Lum </strong><br/>
     Principal Curriculum Specialist, My First Skool
-(EL)
+ <strong>(EL)</strong>
 <br/>
     3:30pm – 4:30pm <br/>
  <a href="/test/video/">Link to video</a>
