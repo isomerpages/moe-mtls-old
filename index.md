@@ -15,7 +15,7 @@ sections:
         subtitle: 
         description:
     - infopic:
-        title: SPEAKER 01
+        title: Dr Connie Lum <br/> NTUC First Campus <br/>Principal Curriculum Specialist
         subtitle: 
         description: 
         image: /images/speaker03.png
