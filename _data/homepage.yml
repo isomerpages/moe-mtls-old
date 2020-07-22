@@ -9,11 +9,22 @@
 favicon: /images/favicon-isomer.ico
 
 # Agency logo
-agency-logo: /images/logo-eoa.png
+# agency-logo: /images/logo-eoa.png
 
 # Hero Banner
 hero-title: MTLS
-hero-banner: /images/MTLS_Web_BannersV2(21July2020)1920x720.jpg
+hero-banner: /images/MTLS_Web_Banner.jpg
 
 #Google Analytics
 google-analytics: UA-124401955-1
+
+key-highlights:
+
+  - title: Register your Interest
+    description: 
+    url: https://event-reg.biz/Registration/eventReg.aspx?Event=RegisterYourInterest
+    external: true
+  - title: Register for Sharing Sessions
+    description: 
+    url: https://event-reg.biz/Registration/eventReg.aspx?Event=RegisterSharingSessions
+    external: true
