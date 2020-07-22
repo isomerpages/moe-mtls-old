@@ -48,6 +48,7 @@ div.btntop {
  <tr><td>Text in Slide 8</td> <td>SLS Image (slide 8)<br/> iMTL Image (Slide 8)</td></tr>
  <tr><td colspan="2"><img src="/images/footerBanner.png"></td></tr>
  <tr><td colspan="2"><p>Text in Slide 9</p></td></tr>
+ <tr><td colspan="2"><img style="width:100%" src="/images/footerBanner.png"></td></tr>
 </table>
 </div>
 
