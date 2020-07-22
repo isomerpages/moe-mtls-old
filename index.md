@@ -5,7 +5,7 @@ permalink: /
 sections:
     -
         hero:
-            background: /MTLS_Web_BannersV2(21July2020)1920x720.jpg
+            background: /MTLS_Hero_Banner.jpg
     - infobar:
         title: Livestreams
         subtitle: 
