@@ -190,7 +190,9 @@ Part 4: The power of languages
 <td style="border:0 none;padding: 0; margin:0;">
   <a href="/test/CL-video-Lim/"> <img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
-<hr/>
+</tr>
+</table>
+  <hr/>
   <div class="Image">
   <img src="images/footerBanner.png" width="1000" height="300">
   </div>
