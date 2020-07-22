@@ -113,22 +113,6 @@ div.btntop {
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">联合早报<br/>Lianhe Zaobao</label>
-      <div class="tab-content">
-        <p>
-          This is the content for Exhibitor 2.
-        </p>
-      </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
-</td>
-</tr>
-<tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2">国家文物局<br/>National Heritage Board</label>
       <div class="tab-content">
         <p>
@@ -145,7 +129,7 @@ div.btntop {
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">国立教育学院（亚洲语言文化学部<br/>National Institute of Education (Asian Languages and Cultures Academic Group)</label>
+      <label for="tab-2">国立教育学院（亚洲语言文化学部）<br/>National Institute of Education (Asian Languages and Cultures Academic Group)</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -210,6 +194,22 @@ div.btntop {
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2">新加坡野生动物保育集团<br/>Wildlife Reserves Singapore  </label>
+      <div class="tab-content">
+        <p>
+          This is the content for Exhibitor 2.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;">
+ <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+</td>
+</tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+      <label for="tab-2">早报校园<br/>ZB Schools</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
