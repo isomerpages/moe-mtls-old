@@ -47,6 +47,10 @@ div.btntop {
     position:absolute;
     margin-left: -100px;
 }
+ Image{
+  max-width: 100%;
+  height: auto;
+}
 </style>
 </head>
   <body>
@@ -71,6 +75,11 @@ div.btntop {
 <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
 </td>
 </tr>
+<hr/>
+  <div class="Image">
+  <img src="images/footerBanner.png" width="1000" height="300">
+  </div>
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
   
   
   
