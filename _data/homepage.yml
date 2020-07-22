@@ -1,0 +1,19 @@
+  
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Favicon
+favicon: /images/favicon-isomer.ico
+
+# Agency logo
+agency-logo: /images/logo-eoa.png
+
+# Hero Banner
+hero-title: MTLS
+hero-banner: /images/MTLS_Web_BannersV2(21July2020)1920x720.jpg
+
+#Google Analytics
+google-analytics: UA-124401955-1
