@@ -34,7 +34,7 @@ img {
 height:auto;
 max-width:50%;
 }
-Image{
+div.Image{
   max-width: 100%;
   height: auto;
 }
