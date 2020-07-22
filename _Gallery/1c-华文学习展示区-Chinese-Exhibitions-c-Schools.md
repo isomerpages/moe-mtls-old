@@ -127,7 +127,7 @@ div.btntop {
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">圣尼各拉女校（中学）<br/>CHIJ St Nicholas Girls’ Secondary School</label>
+      <label for="tab-2">圣尼各拉女校（中学）<br/>CHIJ St Nicholas Girls’ School（Sec）</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
