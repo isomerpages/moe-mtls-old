@@ -27,10 +27,10 @@ div.btntop {
   </style>
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
 <div class="tab">
-  <a href="#Prech"><div style="display:inline-block;" class="btnClass">Pre Sch</div></a>
-  <a href="#Pri"><div style="display:inline-block;" class="btnClass">Pri</div></a>
-  <a href="#Sec"><div style="display:inline-block;" class="btnClass">Sec</div></a>
-  <a href="#PreU"><div style="display:inline-block;" class="btnClass">PreU</div></a><div id="Prech"><br/>
+  <a href="#Prech"><div style="display:inline-block;" class="btnClass">学前教育</div></a>
+  <a href="#Pri"><div style="display:inline-block;" class="btnClass">小学</div></a>
+  <a href="#Sec"><div style="display:inline-block;" class="btnClass">中学</div></a>
+  <a href="#PreU"><div style="display:inline-block;" class="btnClass">大学先修班</div></a><div id="Prech"><br/>
 
 <div id="Prech"><br/>
 <p>This is the content for Prech.</p><br/>
