@@ -61,7 +61,7 @@ td, th {
 }
 img {
 height:auto;
-width:200px;
+width:80px;
 margin: 0px;
 }
 </style>
