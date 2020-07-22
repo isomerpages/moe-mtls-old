@@ -61,7 +61,7 @@ div.btntop {
 }
 img {
 height:auto;
-max-width:60%;
+max-width:100%;
 }
 </style>
 </head>
@@ -162,4 +162,8 @@ together to support every step that the child takes to learn and develop his/her
 <td style="border:0 none;padding: 0; margin:0;">
   <a href="/test/video/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
+<hr/>
+  <div class="Image">
+  <img src="images/footerBanner.png" width="1000" height="300">
+  </div>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
