@@ -20,6 +20,12 @@ sections:
         description: 
         image: /images/speaker03.png
         alt: speaker01
+     - infopic:
+        title: SPEAKER 02
+        subtitle: 
+        description: 
+        image: /images/speaker04.png
+        alt: speaker02
     - infopic:
         title: LET'S PLAY!
         subtitle: 
