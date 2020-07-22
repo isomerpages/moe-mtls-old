@@ -19,7 +19,7 @@ allowfullscreen></iframe></div>
  <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
    </div>
-   <p> Xu Jinhong
+   <p> <strong> Xu Jinhong </strong>
 <br/>Ministy of Education
     <br/>Mother Tongue Languages Branch, Curriculum Planning and Development Division</p>
 
