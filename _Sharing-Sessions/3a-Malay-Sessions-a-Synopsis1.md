@@ -161,7 +161,7 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
 </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/video/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+  <a href="/test/ML-video-Mariam/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
