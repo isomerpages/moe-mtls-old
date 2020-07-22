@@ -88,7 +88,7 @@ max-width:40%;
 </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/TL-video/"><div class="hl">Click here</div></a>
+  <a href="/test/TL-video/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
 </tr><tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -111,7 +111,7 @@ max-width:40%;
 </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/TL-video/"><div class="hl">Click here</div></a>
+  <a href="/test/TL-video/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -136,7 +136,7 @@ together to support every step that the child takes to learn and develop his/her
  </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/video/"><div class="hl">Click here</div></a>
+  <a href="/test/video/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
   <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -160,6 +160,6 @@ together to support every step that the child takes to learn and develop his/her
  </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/video/"><div class="hl">Click here</div></a>
+  <a href="/test/video/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
