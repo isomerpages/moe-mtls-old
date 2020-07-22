@@ -57,7 +57,7 @@ td, th {
 }
   .tbl a {
     position:absolute;
-    margin-left: -100px;
+    margin-left: -130px;
 }
 img {
 height:auto;
