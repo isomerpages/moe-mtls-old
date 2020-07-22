@@ -102,7 +102,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 <br/></p>
  </div></div></td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/video/"><img src="/images/arrowEng.png"></a></div>
+  <a href="/test/video/"><img src="/images/arrowEng.png"></a>
 </td>
 </tr>
 <tr>
