@@ -38,7 +38,7 @@ div.btntop {
 <div id="Prech"><br/>
 <p>This is the content for Prech.</p><br/>
 </div>
-<div id="Pri">sadfasdfasf
+<div id="Pri" style="display:block;">
 <table>
 <tr><td colspan="2"><img src="/images/footerBanner.png"></td></tr>
 <tr><td colspan="2"><p>Text in Slide 2</p></td></tr>
