@@ -34,8 +34,8 @@ img {
 height:auto;
 max-width:50%;
 }
-div.Image{
-  max-width: 100%;
+. column ima{
+  max-width: 40%;
   height: auto;
 }
 </style>
