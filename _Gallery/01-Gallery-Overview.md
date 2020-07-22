@@ -56,11 +56,11 @@ collection_name: Gallery
 </tr>
 <tr>
  <td><h4>Tamil</h4>
-<div class="tab">
-  <a href="#"><div style="display:inline-block;" class="btn">MOE Curriculum</div></a>
-  <a href="#"><div style="display:inline-block;" class="btn">PreSchool</div></a>
-  <a href="#"><div style="display:inline-block;" class="btn">Schools</div></a>
-  <a href="#"><div style="display:inline-block;" class="btn">Community Partners</div></a><br/><br/>
+<div>
+  <a href="#"><div style="display:inline-block;" class="btn"><img src="/images/moecurriculumbtn.png"></div></a>
+  <a href="#"><div style="display:inline-block;" class="btn"><img src="/images/preSchoolbtn.png"></div></a>
+  <a href="#"><div style="display:inline-block;" class="btn"><img src="/images/schoolbtn.png"></div></a>
+  <a href="#"><div style="display:inline-block;" class="btn"><img src="/images/communitypartnerbtn.png"></div></a><br/><br/>
 </div>
 </td>
 </tr>
