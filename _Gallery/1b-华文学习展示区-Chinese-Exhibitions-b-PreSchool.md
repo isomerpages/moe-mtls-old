@@ -56,9 +56,8 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1"> i.	MY 学前教育中心<br/>MY World Preschool</label>
- 
-      <div class="tab-content">
+      <label for="tab-1">MY 学前教育中心<br/>MY World Preschool</label>
+     <div class="tab-content">
       <h3>故事天地——乐趣无穷的语言学习和价值传承</h3>
       <p>
         故事对于孩子学习语言及接触语言背后的文化与价值体系是极其重要的。孩子们不仅能通过故事接触语言，还能吸收其中的文化元素。熟悉文化所凸显的价值观，则会提高孩子对文化的重视及对语言
