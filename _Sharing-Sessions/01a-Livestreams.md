@@ -120,6 +120,7 @@ Image{
  <a href="/test/video/">Link to video</a>
     </p>
   </div>
+  </div>
   <hr>
   
   <div class="Image">
