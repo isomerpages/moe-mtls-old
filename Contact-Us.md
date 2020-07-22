@@ -12,6 +12,7 @@ locations:
 contacts:
   - title: General Enquiries & Feedback
     content: If you have any enquires, please contact us at picoevents01@pico.com 
-    - phone: 
-    - email: 
+    - phone: +65 6123 4567
+    - email: enquiries@abc.gov.sg
+    - other: Any text here <i>including HTML</i>
 ---
