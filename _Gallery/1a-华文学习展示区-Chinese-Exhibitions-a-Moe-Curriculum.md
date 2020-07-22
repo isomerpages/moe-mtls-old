@@ -37,12 +37,12 @@ div.btntop {
 </div>
 <div id="Pri"><br/>
 <table>
-<tr>
-<td><img src="/images/footerBanner.png"></td>
-</tr>
-<tr>
-<td><p>Text in Slide 2</p></td>
-</tr>
+<tr><td colspan="2"><img src="/images/footerBanner.png"></td></tr>
+<tr><td colspan="2"><p>Text in Slide 2</p></td></tr>
+ <tr><td>Vidoe 01</td> <td>Vidoe 01</td></tr>
+ <tr><td colspan="2"><p>Text in Slide 3</p></td></tr>
+ <tr><td colspan="2"><img src="/images/footerBanner.png"></td></tr>
+  <tr><td colspan="2"><img src="/images/footerBanner.png"></td></tr>
 </table>
 </div>
 <div id="Sec"><br/>
