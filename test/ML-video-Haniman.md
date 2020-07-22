@@ -23,7 +23,7 @@ max-width:20%;
  <br/> Wildlife Reserves Singapore
 <br/>
 Manager, Education</p>
- </div>
+ 
        <h4> Profile of Speaker:</h4>   
        <p>Encik Haniman Boniran ialah Pengurus Pendidikan di Wildlife Reserves Singapore (WRS). Minat beliau dalam pendidikan alam berputik semasa menjadi sukarelawan di Taman Haiwan Singapura pada tahun 2001. Sejak sedekad yang lalu, beliau menceburi bidang pendidikan yang merangkumi pendidikan awal kanak-kanak, pendidikan bahasa Melayu dan pengendalian bengkel bahasa Melayu untuk guru prasekolah sebagai sebahagian daripada pembelajaran pengalaman autentik yang ditawarkan di WRS. Beliau juga bekerjasama dengan para pendidik untuk menghasilkan strategi-strategi pengajaran yangbaik bagi memperkukuh penggunaan bahasa Melayu dalam kalangan masyarakat muda Singapura. Encik Haniman yang gemar berinteraksi bersama ibu bapa dan masyarakat juga telah diiktiraf sebagai seorang pendidik bagi orang dewasa oleh Institut Pembelajaran Dewasa (IAL).<br/>Mr Haniman Boniran is an Education Manager with Wildlife Reserves Singapore (WRS). He is a certified Institute of Adult Learning adult educator who enjoys interacting with parents and partners from the community.  <br/>
 His involvement in environmental education started when he was a school volunteer at the Singapore Zoo in 2001.  Over the last decade, he has branched into early childhood education, language-based education and teacher training through developingthe  authentic learning experiences offered at WRS. Mr Haniman has conducted workshops, co-created resources and organised in-park educational programmes for teachers and students while partnering with schools and language-based practitioners.
