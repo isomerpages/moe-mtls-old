@@ -445,12 +445,22 @@ $desktop: 960px + (2 * $gap) !default;
 .atab label {
   position: relative;
   display: block;
-  background: #72c6e9;
+  background: #9b4490;
   color: #fff;
   font-weight: bold;
   padding: 10px;
   cursor: pointer;
 }  
+
+.atab .lbeng {
+  position: relative;
+  display: block;
+  background: #72c6e9;
+  color: #fff;
+  font-weight: bold;
+  padding: 10px;
+  cursor: pointer;
+} 
 .tab-content {
   overflow: hidden;
   margin-top: 0px;
