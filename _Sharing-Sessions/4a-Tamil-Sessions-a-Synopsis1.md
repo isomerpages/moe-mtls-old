@@ -90,7 +90,8 @@ max-width:100%;
 <td style="border:0 none;padding: 0; margin:0;">
   <a href="/test/TL-video-Elakeyaa/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
-</tr><tr>
+</tr>
+ <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
@@ -113,6 +114,8 @@ max-width:100%;
 <td style="border:0 none;padding: 0; margin:0;">
   <a href="/test/TL-video-Rani/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
+ </td>
+ </tr>
  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
@@ -138,6 +141,7 @@ together to support every step that the child takes to learn and develop his/her
 <td style="border:0 none;padding: 0; margin:0;">
   <a href="/test/TL-video-Mohan/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
+ </tr>
   <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
