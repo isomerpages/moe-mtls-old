@@ -71,7 +71,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1">Didik Hibur: Bahan Rangsangan untuk Menggalakkan Pelajar dalam Pembelajaran Bahasa Melayu  <br/> [12.30pm – 1.30pm]
+      <label for="tab-1"  class="lbML">Didik Hibur: Bahan Rangsangan untuk Menggalakkan Pelajar dalam Pembelajaran Bahasa Melayu  <br/> [12.30pm – 1.30pm]
  <br/> Asnida Bte Daud
 </label>
       <div class="tab-content">
@@ -104,7 +104,7 @@ Mdm Asnida Daud has over 20 years of experience in Malay Language teaching. She 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">Ayuh, Teroka Taman Haiwan Singapura …Melalui Alam Siber! [2.00pm – 3.00pm] <br/> Let’s explore Singapore Zoo...through cyberspace!
+      <label for="tab-2"  class="lbML">Ayuh, Teroka Taman Haiwan Singapura …Melalui Alam Siber! [2.00pm – 3.00pm] <br/> Let’s explore Singapore Zoo...through cyberspace!
 <br/> Haniman Boniran
 </label>
       <div class="tab-content">      
@@ -137,7 +137,7 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3">Perkembangan Neuro-psikologi Kanak-kanak : Mitos dan Fakta 
+      <label for="tab-3"  class="lbML">Perkembangan Neuro-psikologi Kanak-kanak : Mitos dan Fakta 
  <br/> Children’s neuro-psychological development: myths and facts <br/>
        Mariam Aljunied
 </label>
@@ -167,7 +167,7 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4">Pembaca yang Berfikir dalam Dunia Digital
+      <label for="tab-4"  class="lbML">Pembaca yang Berfikir dalam Dunia Digital
 <br/> The Thinking Reader in the Digital World <br/>
     Salina Bte Saiman & Ganda Sari Binte
 </label>
@@ -200,7 +200,7 @@ Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal b
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5">Peranan Ibu Bapa dalam Memupuk Budaya Celik Literasi di Rumah
+      <label for="tab-5" class="lbML">Peranan Ibu Bapa dalam Memupuk Budaya Celik Literasi di Rumah
  <br/>Parents and their involvement in supporting early literacy at home
 <br/>Hazliana Md Lahir
 </label>
