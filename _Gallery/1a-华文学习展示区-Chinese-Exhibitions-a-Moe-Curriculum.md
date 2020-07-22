@@ -44,6 +44,9 @@ div.btntop {
 <tr><td colspan="2"><p>Text in Slide 2</p></td></tr>
  <tr><td>Vidoe 01</td> <td>Vidoe 01</td></tr>
  <tr><td colspan="2"><p>Text in Slide 3</p></td></tr>
+ <tr><td colspan="2"><img src="/images/footerBanner.png"></td></tr>
+<tr><td colspan="2"><img src="/images/footerBanner.png"></td></tr>
+ <tr><td colspan="2"><p>Text in Slide 6</p></td></tr>
 </table>
 </div>
 <div id="Sec"><br/>
