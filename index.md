@@ -10,6 +10,16 @@ sections:
         title: Livestreams
         subtitle: 
         description: <iframe width="560" height="315" src="https://www.youtube.com/embed/SlPhMPnQ58k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    - infobar:
+        title: KNOW OUR SPEAKERS
+        subtitle: 
+        description:
+    - infopic:
+        title: SPEAKER 01
+        subtitle: 
+        description: 
+        image: /images/speaker03.png
+        alt:
     - infopic:
         title: LET'S PLAY!
         subtitle: 
