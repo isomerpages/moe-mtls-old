@@ -97,7 +97,7 @@ Mdm Asnida Daud has over 20 years of experience in Malay Language teaching. She 
  </p>
  </div></div></td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/video/"><div class="hl">Click here</div></a>
+  <a href="/test/video/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
 <tr>
@@ -130,7 +130,7 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
 </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/video/"><div class="hl">Click here</div></a>
+  <a href="/test/video/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
  </tr>
  <tr>
@@ -161,7 +161,7 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
 </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/video/"><div class="hl">Click here</div></a>
+  <a href="/test/video/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -194,7 +194,7 @@ Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal b
         </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/video/"><div class="hl">Click here</div></a>
+  <a href="/test/video/"><img class="btnImg" alt="Click here" src="/images/arrowMalay.png"></a>
 </td>
   <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -225,7 +225,7 @@ Home is the first school, and parents are the first teachers. Parental involveme
         </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/video/"><div class="hl">Click here</div></a>
+  <a href="/test/video/"><img class="btnImg" alt="Click here" src="/images/arrowMalay.png"></a>
 </td>
        
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
