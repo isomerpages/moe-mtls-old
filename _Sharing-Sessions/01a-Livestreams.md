@@ -34,6 +34,10 @@ img {
 height:auto;
 max-width:50%;
 }
+div.footerImage{
+height:auto;
+max-width:100%;
+}
 
 </style>
 </head>
