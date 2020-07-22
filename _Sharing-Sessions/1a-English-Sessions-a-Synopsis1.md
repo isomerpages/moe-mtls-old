@@ -69,9 +69,9 @@ max-width:40%;
 <table class="tbl">
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
+<div class="atab" >
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1">Creating an Immersive Environment for the Learning of Our Mother Tongue Languages  <br/> [10.00am – 11.00am] <br/> Minister Ong Ye Kung
+      <label for="tab-1" style="background:#72c6e9">Creating an Immersive Environment for the Learning of Our Mother Tongue Languages  <br/> [10.00am – 11.00am] <br/> Minister Ong Ye Kung
 </label>
       <div class="tab-content"><br/>
   <div class="row">
