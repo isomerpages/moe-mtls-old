@@ -9,8 +9,23 @@ plugins:
     - jekyll-paginate
     - jekyll-sitemap
 paginate: 12
+
+# Breadcrumbs
+breadcrumbs:
+  root:
+    hide: false  # show breadcrumbs on root/home page
+    image: false # Show image or title text
+
+# Homepage sections
+homepage_hero_i_want_to: false
+homepage_programmes: true
+homepage_resources: false
+homepage_careers: false
+
+# Custom CSS file path
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
+
 collections:
     Gallery:
         output: true
