@@ -95,7 +95,7 @@ Mdm Asnida Daud has over 20 years of experience in Malay Language teaching. She 
       
   Neuroscience research informs us that when the fun stops, learning often stops too. Finding ways to make language teaching and learning active and effective for young learners is of great importance. One method is the use of an edutainment approach which contains a number of activities such as singing, storytelling, acting or poetry. The Edutainment approach nourishes interest in learning and develops a positive attitude towards learning language,  in particular, addressing students’ difficulties in mastering  reading and writing skills. This sharing draws on the speaker’s wealth of experience and expertise as an educational media designer and in the creative arts as a performer, poet and Malay culture practitioner. The sharing also provides examp of  the ways edutainment has been applied in educational resources.
  </p>
- /div></div></td>
+ </div></div></td>
 <td style="border:0 none;padding: 0; margin:0;">
   <a href="/test/video/"><div class="hl">Click here</div></a>
 </td>
