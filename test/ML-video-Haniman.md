@@ -1,7 +1,7 @@
 ---
 title: 'ML video Haniman'
-permalink: /test/ML-video-Haniman /
-breadcrumb: 'ML video Haniman '
+permalink: /test/ML-video-Haniman/
+breadcrumb: 'ML video Haniman'
 ---
 <html>
 <head>
