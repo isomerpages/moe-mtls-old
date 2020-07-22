@@ -113,17 +113,11 @@ max-width:50%;
   </div>
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png"  style="width:100%">
-    <p style= "text-align:center">Speaker Name <br/>
-     Topic Title<br/>
-     Time<br/>
- <a href="/test/video/">Link to video</a>
-    </p>
-  </div>
-  <div class="column">
-  <img src="images/cropped-person-icon-8-2.png" style="width:100%">
-    <p style= "text-align:center">Speaker Name <br/>
-     Topic Title<br/>
-     Time<br/>
+    <p style= "text-align:center">Dr Connie Lum<br/>
+    Principal Curriculum Specialist, My First Skool
+(EL)
+<br/>
+    3:30pm – 4:30pm <br/>
  <a href="/test/video/">Link to video</a>
     </p>
   </div>
