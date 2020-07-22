@@ -41,6 +41,7 @@ div.Image{
 </style>
 </head>
 <body>
+  <table>
 <div class="row">
  <div class="column">
      <img src="images/cropped-person-icon-8-2.png" style="width:100%">
@@ -121,6 +122,7 @@ div.Image{
     </p>
   </div>
   </div>
+  </table>
   <hr>
   
   <div class="Image">
