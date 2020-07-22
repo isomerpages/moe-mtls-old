@@ -133,10 +133,10 @@ $desktop: 960px + (2 * $gap) !default;
 	&-primary {
 		background-color: $primary !important;
 	}
-	&-secondary {
+	//&-secondary {
 		//background-color: $secondary !important;
-		background-color: #f896b0;
-	}
+	//	background-color: #f896b0;
+	//}
 }
 
 // Text color
