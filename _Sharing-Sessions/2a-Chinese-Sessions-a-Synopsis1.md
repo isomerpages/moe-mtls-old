@@ -191,7 +191,7 @@ Part 4: The power of languages
   <a href="/test/CL-video-Lim/"> <img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
-
+</table>
   <br/>
   <div class="Image">
   <img src="images/footerBanner.png" width="1000" height="300">
