@@ -165,6 +165,8 @@ together to support every step that the child takes to learn and develop his/her
 <td style="border:0 none;padding: 0; margin:0;">
   <a href="/test/TL-video-Darseni/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
+   </tr>
+ </table>
 <hr/>
   <div class="Image">
   <img src="images/footerBanner.png" width="1000" height="300">
