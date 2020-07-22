@@ -23,7 +23,6 @@ max-width:20%;
     <p><strong>Sun Baoqi
  </strong> <br/> National Institute of Education, Nanyang Technological University
 </p>
-       </div>
-     <h4> Synopsis</h4> 
+  <h4> Synopsis</h4> 
  <p>As home parenting and home-based learning become the new normal, parents are spending more time with their children at home. An oft-asked question is how to create a conducive Mother Tongue learning environment at home? Drawing on recent research findings and practices, the presenter will explicate the important role of home language environment in children’s language development. Some practical tips will also be shared with parents and caregivers on how to utilize online and offline resources to promote parent/caregiver-child engagement in Mother Tongue language. Moreover, based on language-specific features of Chinese, the presenter will provide some useful learning strategies.
 </p>
