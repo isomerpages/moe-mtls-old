@@ -71,7 +71,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab" >
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1">Creating an Immersive Environment for the Learning of Our Mother Tongue Languages  <br/> [10.00am – 11.00am] <br/> Minister Ong Ye Kung
+      <label for="tab-1" class="lbeng">Creating an Immersive Environment for the Learning of Our Mother Tongue Languages  <br/> [10.00am – 11.00am] <br/> Minister Ong Ye Kung
 </label>
       <div class="tab-content"><br/>
   <div class="row">
@@ -109,7 +109,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">Multimodal Approaches to Developing Oracy [3.30pm – 4.30pm]  <br/> Dr Connie Lum
+      <label class="lbeng" for="tab-2">Multimodal Approaches to Developing Oracy [3.30pm – 4.30pm]  <br/> Dr Connie Lum
 </label>
       <div class="tab-content">      
        <br/>
@@ -136,7 +136,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3">Raising Bilingual Children: What does the science say? 
+      <label for="tab-3" class="lbeng">Raising Bilingual Children: What does the science say? 
  <br/> Leher SINGH
 
 </label>
