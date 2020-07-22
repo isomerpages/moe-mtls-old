@@ -113,7 +113,7 @@ Mdm Asnida Daud has over 20 years of experience in Malay Language teaching. She 
  <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
    </div>
-   <p> Haniman Boniran
+   <p> <strong>Haniman Boniran </strong>
  <br/> Wildlife Reserves Singapore
 <br/>
 Manager, Education</p>
@@ -133,5 +133,67 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
   <a href="/test/video/"><div class="hl">Click here</div></a>
 </td>
  </tr>
-
+ <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-3" type="checkbox" name="tab">
+      <label for="tab-3">Perkembangan Neuro-psikologi Kanak-kanak : Mitos dan Fakta 
+ <br/> Children’s neuro-psychological development: myths and facts <br/>
+       Mariam Aljunied
+</label>
+      <div class="tab-content">      
+       <br/>
+  <div class="row">
+ <div class="column">
+<img src="images/cropped-person-icon-8-2.png" style="width:100%">
+   </div>
+   <p> <strong>Mariam Aljunied </strong>
+<br/> Special Education Needs Division Ltd
+    <br/>Associate Professor</p>
+   </div>
+   <h4> Profile of Speaker: </h4>  
+       <p>Profesor Madya (A/P) Mariam Aljunied bertugas sebagai Pengetua Ahli Psikologi Pendidikan di Cawangan Pendidikan Keperluan Khas, Kementerian Pendidikan (MOE). Di samping tugas beliau di MOE, A/P Mariam juga merupakan Profesor Madya di Jabatan Psikologi, Universiti National Singapura dan Pengkaji Bersekutu di Jabatan Sains Bahasa dan Psikologi di Universiti Kolej London (UK). Dengan pengalaman lebih dari 25 tahun sebagai ahli psikologi pendidikan bertauliah, beliau mempunyai kepakaran yang mendalam dalam bidang perkembangan kanak-kanak. Beliau telah menerajui beberapa kajian penting di peringkat nasional dalam bidang ini. A/P Mariam juga aktif dalam usaha-usaha membina kepakaran para pendidik, ahli psikologi dan ibu bapa dalam bidang psikologi kanak-kanak dan pendidikan khas.
+<br/>Associate Professor Mariam Aljunied is the Principal Educational Psychologist in MOE. Concurrently, she is an adjunct associate professor at the Department of Psychology in NUS, and Research Associate with University College London’s Department of Psychology and Language Sciences. With more than 25 years as a Chartered Educational Psychologist, A/P Mariam has deep expertise and is experienced in many aspects of child development. She has led several important research studies in the areas of educational and child development, and is also actively involved in efforts to build the capacity of educators, psychologists and parents in the areas of child psychology and special education.</p>
+  <h4> Synposis</h4>  
+       <p>Melentur buluh biarlah dari rebungnya. Ibu bapa sering mencari jalan dan berusaha untuk memaksimumkan potensi anak demi menjamin pembelajaran dan perkembangan yang baik. Kajian neuro-psikologi sejak beberapa dekad yang lalu telah menemukan beberapa fakta penting mengenai perkembangan awal minda kanak-kanak. Namun, masih lagi terdapat mitos dan salah faham yang berterusan dan mengelirukan mengenai perkembangan awal minda kanak-kanak. A/P Mariam Aljunied akan membantu untuk menghapuskan mitos-mitos yang ada dan memberikan fakta-fakta penting mengenai perkembangan neuro-psikologi kanak-kanak. Beliau akan memberikan pencerahan tentang kesan kognitif dwibahasa, khususnya, cara-cara mempelajari dua bahasa atau lebih untuk merangsang keupayaan minda kanak-kanak. Beberapa saranan penting yang boleh dilakukan oleh ibu bapa untuk meningkatkan kebolehan bahasa dan komunikasi anak-anak juga akan dikongsi.  Beliau juga akan berkongsi perkara-perkara yang harus dilakukan ibu bapa jika anak-anak menunjukkan tanda-tanda awal masalah bahasa dan komunikasi .
+<br/>Early intervention is important. Parents are often seeking ways to maximise the learning and developmental potential of their children. Over these last few decades, neuro-psychological research has established several important facts about the cognitive development of young children. However, myths and misconceptions regarding brain development still persist. In this talk, A/P Mariam Aljunied will help dispel these myths and clarify the facts about children’s neuro-psychological development. She will provide insights on the cognitive effects of growing up bilingual, and in particular, why the learning of two or more languages can enhance cognition. Several tips for parents will be shared as to what they can do to facilitate and enhance children’s language and communication abilities, as well as what parents should do if children show early warning signs of language and communication difficulties.
+</p>
+</div></div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;">
+  <a href="/test/video/"><div class="hl">Click here</div></a>
+</td>
+ <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-4" type="checkbox" name="tab">
+      <label for="tab-4">Pembaca yang Berfikir dalam Dunia Digital
+<br/> The Thinking Reader in the Digital World <br/>
+    Salina Bte Saiman & Ganda Sari Binte
+</label>
+      <div class="tab-content">      
+       <br/>
+  <div class="row">
+ <div class="column">
+<img src="images/cropped-person-icon-8-2.png" style="width:100%">
+   </div>
+   <p><strong> Salina Bte Saiman & Ganda Sari Binte </strong>
+<br/>Sembawang Primary School
+<br/> CPDD
+</p>
+   </div>
+  <h4> Profile of Speaker:
+</h4>  
+       <p>Puan Salina merupakan Pakar Kanan Bahasa Melayu di Unit Bahasa Melayu, Bahagian Perancangan dan Pembangunan Kurikulum (CPDD), Kementerian Pendidikan Singapura (MOE). Beliau mempunyai 20 tahun pengalaman mengajar Bahasa Melayu di sekolah. Sebagai pakar kanan, beliau terlibat dalam semakan kurikulum, perancangan dan mengetuai kumpulan kurikulum dalam pembinaan dan implementasi bahan pengajaran dan pembelajaran Bahasa Melayu. Puan Salina juga terlibat dalam latihan guru-guru sekolah rendah dan pakar rujuk Kurikulum Bahasa Melayu Sekolah Rendah. <br/>Puan Ganda merupakan guru yang mempunyai pengalaman mengajar di sekolah rendah dan sekolah menengah selama 13 tahun. Puan Ganda juga pernah berkhidmat sebagai Pegawai Pembangunan Kurikulum di Unit Bahasa Melayu, Bahagian Perancangan dan Pembangunan Kurikulum (CPDD) selama lima tahun. Kini, Puan Ganda bertugas sebagai Ketua Subjek Bahasa Ibunda di Sekolah Rendah Sembawang. Dalam bidang tugasnya sebagai guru dan pegawai kurikulum, Puan Ganda,  membina bahan-bahan pengajaran  dan strategi pengajaran dan  pembelajaran Bahasa Melayu.<br/>
+        Mdm Salina, a Senior Specialist for Malay Language with the Ministry of Education (MOE),  has 20 years of experience in teaching Malay Language in schools. As a senior specialist, Mdm Salina is involved in the review and planning of the Malay Language curriculum and leads a teams of curriculum officers in the development and implementation of primary school instructional packages and supporting materials. She has also been involved in the training of primary school teachers and provides consultation for the Primary Malay Language Curriculum.<br/>Ms Ganda has over 13 years of experience in Malay Language teaching in primary and secondary schools. She  also served as a Curriculum Resource Development Officer with the Malay Language Unit, of the  Curriculum Planning and Development Division of MOE  for five years. Currently, she is   Subject Head of Mother Tongue Languages at Sembawang Primary School. In her capacity as a teacher and curriculum resource developer, she is dedicated towards the advancement of teaching resources,  and teaching and learning methods  for the Malay Language.
+</p>
+  <h4> Synposis</h4> 
+       <p>‘Terdapat pelbagai cara untuk meluaskan dunia kanak-kanak, dan membaca merupakan cara yang paling baik’.  
+Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal baharu sehingga memerlukan bentuk dan cara pengajaran dan pembelajaran yang berbeza. Sesi perkongsian ini diharap akan dapat memberikan ibu bapa dan guru-guru ruang untuk menilai semula pemerolehan kemahiran membaca kanak-kanak secara kritis dan dalam pelbagai cara agar kanak-kanak akan terus berminat untuk membaca dalam bahasa ibunda.<br/>
+        ‘There are many little ways to enlarge a child’s world. A love of books is the best of all’. In this unprecedented time, teaching and learning has taken on new forms. As we ease ourselves into this new norm, this quotation from Jacqueline Kennedy is more relevant than ever. This session hopes to provide parents and teachers with an opportunity to look at how children  learn to read in MTL in a different and more critical way. There are no limits to the curricular strategies and learning tools that teachers and parents can leverage on as we guide our little charges to  enjoyreading in MTL.</p>
+        </div></div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;">
+  <a href="/test/video/"><div class="hl">Click here</div></a>
+</td>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
