@@ -165,7 +165,7 @@ Part 4: The power of languages
 </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/video/"><div class="hl">Click here</div></a>
+  <a href="/test/CL-video-Xu/"><div class="hl">Click here</div></a>
 </td>
  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
