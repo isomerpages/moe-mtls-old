@@ -20,7 +20,7 @@ sections:
         description: 
         image: /images/speaker03.png
         alt: speaker01
-     - infopic:
+    - infopic:
         title: SPEAKER 02
         subtitle: 
         description: 
