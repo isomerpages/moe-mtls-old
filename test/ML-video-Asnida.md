@@ -1,5 +1,5 @@
 ---
-title: 'ML video Asnida'
+title: 'ML video'
 permalink: /test/ML-video-Asnida/
 breadcrumb: 'ML video Asnida'
 ---
