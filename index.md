@@ -1,5 +1,5 @@
 ---
-layout: homepage
+layout: layout-default
 title: 'Mother Tongue Language Symposium'
 permalink: /
 sections:
