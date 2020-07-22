@@ -25,7 +25,7 @@ collection_name: Gallery
 }
 .btn{
  padding:15px 5px; 
- margin-left: 10px;
+ margin-left: 40px;
  width: 130px;
  }
 </style>
