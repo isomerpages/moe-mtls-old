@@ -111,7 +111,7 @@ max-width:100%;
 </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/TL-video/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
+  <a href="/test/TL-video-Rani/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
