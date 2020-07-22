@@ -102,7 +102,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 <br/></p>
  </div></div></td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <div><a href="/test/video/"><img src="/images/arrowEng.png"><div>Click here</div></a></div>
+  <a href="/test/video/"><img src="/images/arrowEng.png"></a></div>
 </td>
 </tr>
 <tr>
@@ -130,7 +130,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/video/"><div class="hl"><img src="/images/arrowEng.png"></div></a>
+  <a href="/test/video/"><div ><img src="/images/arrowEng.png"></div></a>
 </td>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -156,7 +156,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
  </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/video/"><div class="hl"><img src="/images/arrowEng.png"></div></a>
+  <a href="/test/video/"><div><img src="/images/arrowEng.png"></div></a>
 </td>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
 
