@@ -194,7 +194,7 @@ Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal b
         </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/video/"><img class="btnImg" alt="Click here" src="/images/arrowMalay.png"></a>
+  <a href="/test/ML-video-Salina/"><img class="btnImg" alt="Click here" src="/images/arrowMalay.png"></a>
 </td>
   <tr>
 <td style="border:0 none;padding: 0; margin:0;">
