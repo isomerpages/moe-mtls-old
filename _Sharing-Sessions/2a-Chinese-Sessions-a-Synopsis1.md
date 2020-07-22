@@ -87,7 +87,7 @@ max-width:40%;
 Our speaker will be sharing a framework for MTL development in an educational ecosystem, drawing upon studies in early childhood development, heritage language education, bilingual and biliteracy development, and language immersion education. She offers practical strategies, applicable in daily life and learning, to guide students towards a healthy self-identity, high proficiency and literacy in MTL and English, and global competency for intergenerational connection and intercultural engagement.
 </p></div></div></td>  
  <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/CL-video-Shuhan/"><div class="hl">Click here</div></a>
+  <a href="/test/CL-video-Shuhan/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
  <tr>
@@ -113,7 +113,7 @@ Our speaker will be sharing a framework for MTL development in an educational ec
 </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/CL-video-Sun/"><div class="hl">Click here</div></a>
+  <a href="/test/CL-video-Sun/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -141,7 +141,7 @@ Part 4: The power of languages
        </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/CL-video-Woo/"><div class="hl">Click here</div></a>
+  <a href="/test/CL-video-Woo/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -165,7 +165,7 @@ Part 4: The power of languages
 </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/CL-video-Xu/"><div class="hl">Click here</div></a>
+  <a href="/test/CL-video-Xu/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -188,7 +188,7 @@ Part 4: The power of languages
  </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/CL-video-Lim/"><div class="hl">Click here</div></a>
+  <a href="/test/CL-video-Lim/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
