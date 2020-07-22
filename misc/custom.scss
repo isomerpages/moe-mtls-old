@@ -372,7 +372,7 @@ $desktop: 960px + (2 * $gap) !default;
   display: none;
 }
 
- .tab div > target {
+ .tab > div:target {
   display: block;
 }
 
