@@ -1,7 +1,6 @@
 ---
 title: Contact Us
 permalink: /Contact-Us/
-breadcrumb: Contact Us
 agency_name: MTLS
 locations:
   - title: Main Office
@@ -15,3 +14,5 @@ contacts:
     - phone: +65 6879 6975
     - email: moe_lkyfb@moe.gov.sg
 ---
+
+<div class="btntop"><a href="#top" style="text-decoration:none;">Top</a></div>
