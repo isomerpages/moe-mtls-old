@@ -19,7 +19,7 @@ sections:
         subtitle: 
         description: 
         image: /images/speaker03.png
-        alt:
+        alt: speaker01
     - infopic:
         title: LET'S PLAY!
         subtitle: 
