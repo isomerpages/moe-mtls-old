@@ -12,6 +12,6 @@ locations:
 contacts:
   - title: General Enquiries & Feedback <br/> If you have any enquires, please contact us at: 
     content: 
-    - phone: 
+    - phone: +65 6879 6975
     - email: picoevents01@pico.com
 ---
