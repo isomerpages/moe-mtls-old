@@ -19,7 +19,7 @@ allowfullscreen></iframe></div>
 <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
    </div>
-   <p> Lim Kwee Hua
+  <p> <strong>Lim Kwee Hua </strong>
 <br/> Academy of Singapore Teachers</p>
 
  <h4> Synposis</h4>  
