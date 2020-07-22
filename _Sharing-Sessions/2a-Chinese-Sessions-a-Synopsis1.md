@@ -196,7 +196,7 @@ Part 4: The power of languages
 </tr>
 </table>
   <hr/>
-  <div class="Image">
-  <img src="images/footerBanner.png" width="1000" height="300">
-  </div>
+
+  <img src="images/footerBanner.png" class="Image" width="1000" height="300">
+
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
