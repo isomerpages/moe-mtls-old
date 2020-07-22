@@ -120,3 +120,4 @@ max-width:50%;
   </div>
   <hr>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
+![alt text - Poster](/images/footerBanner.png)
