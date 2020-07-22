@@ -35,7 +35,7 @@ div.btntop {
 <div id="Prech"><br/>
 <p>This is the content for Prech.</p><br/>
 </div>
-<div id="Pri"><br/>
+<div id="Pri" style="display:block;"><br/>
 <p>This is the content for Pri. sdfasdfasfasdfasdfasdfasddfasfasddsfsdfasfasdfsadfs</p><br/>
 </div>
 <div id="Sec"><br/>
