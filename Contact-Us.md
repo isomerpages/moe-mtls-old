@@ -2,7 +2,6 @@
 title: Contact Us
 permalink: /Contact-Us/
 agency_name: MTLS
-agency_name: Lee Kuan Yew Fund for Bilingualism
 locations:
   - title: Address <br/>Lee Kuan Yew Fund for Bilingualism
     address:
