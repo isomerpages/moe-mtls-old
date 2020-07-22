@@ -136,8 +136,14 @@ Parents can find out more about the learning opportunities available for the you
       <input id="tab-5" type="checkbox" name="tab">
       <label for="tab-5">Lembaga Perpustakaan Negara<br/>National Library Board</label>
       <div class="tab-content">
+       <h4>Lembaga Perpustakaan Negara</h4>
         <p>
-          This is the content for Exhibitor 2.
+         Lembaga Perpustakaan Negara (NLB) menggalakkan amalan membaca dalam bahasa Ibunda menerusi pelbagai program menarik dan koleksi buku yang luas dan menyeluruh. NLB menawarkan pelbagai kandungan digital yang merangkumi cara-cara baharu dan menarik untuk berinteraksi dengan menggunakan bahasa Ibunda.  Selain itu, ketersediaan kandungan digital menjadikan kegiatan membaca dan pembelajaran mudah diakses dan lebih inklusif. Sesi bercerita berbentuk video yang disampaikan oleh para pustakawan dan sukarelawan menghidupkan lagi penceritaan  sekali gus merangsang daya imaginasi kanak-kanak yang menonton. Usaha ini juga merupakan cara alternatif untuk ibu bapa meluangkan masa dan mempererat hubungan bersama anak-anak mereka.
+        </p>
+       <h4>National Library Board </h4>
+        <p>
+         
+NLB promotes reading in the Mother Tongue Languages through its engaging programmes and extensive collection of books. NLB’s digital offerings not only provide readers with new and compelling ways to interact with MTLs but also make reading and learning more accessible and inclusive - all in the comfort of their homes. Digital storytelling videos presented by librarians and other reading advocates bring stories alive and spark children’s imagination while offering parents an alternative way to spend quality time with their children and strengthen the bonds with them.
         </p>
       </div>
 </div>
@@ -152,9 +158,12 @@ Parents can find out more about the learning opportunities available for the you
       <input id="tab-6" type="checkbox" name="tab">
       <label for="tab-6">M Kuasa Tiga (M3) Nee Soon	<br/>M3 @ Nee Soon</label>
       <div class="tab-content">
+       <h4>Kelas Matematika M3@Nee Soon</h4>
         <p>
-          This is the content for Exhibitor 2.
+          Pameran maya Kelas Matematika bertujuan untuk berkongsi strategi yang boleh diguna pakai oleh ibu bapa yang mempunyai anak-anak kecil berusia antara 4 hingga 7 tahun. Program-program yang dikendalikan oleh M3@Nee Soon ini sesuai dijalankan di rumah. M3@Nee Soon akan berkongsi strategi yang boleh digunakan oleh ibu bapa untuk menerangkan konsep-konsep Matematik dengan menggunakan bahasa Melayu. Melalui klip-klip video yang disediakan, M3@Nee Soon berharap agar ibu bapa dapat menggunakan daya kreativiti mereka untuk menyokong pembelajaran anak-anak di rumah, sekali gus menjadikan ibu bapa lebih aktif dalam pembelajaran anak-anak mereka.
         </p>
+        <h4>Kelas Matematika M3@Nee Soon</h4>
+       <p>The Kelas Matematika Booth would like to share strategies and the programmes at M3@Nee Soon with parents of children aged between 4 to 7 years. Parents can use these strategies and programmes  to clarify mathematical concepts at home, using Malay language as the medium of communication. Our videoswill show parents how to become  advocates of creative thinking and active stakeholders in their child’s learning journey.</p>
       </div>
 </div>
 </td>
