@@ -35,10 +35,7 @@ div.btntop {
   <a href="#Sec"><div style="display:inline-block;" class="btnClass">中学</div></a>
   <a href="#PreU"><div style="display:inline-block;" class="btnClass">大学先修班</div></a><br/>
 
-<div id="Prech"><br/>
-<p>This is the content for Prech.</p><br/>
-</div>
-<div id="Pri">
+<div id="Pri" style="display:block;">
  <p>This is the content for Pri.</p><br/>
 <table>
 <tr><td colspan="2"><img src="/images/footerBanner.png"></td></tr>
@@ -50,12 +47,7 @@ div.btntop {
  <tr><td colspan="2"><p>Text in Slide 6</p></td></tr>
 </table>
 </div>
-<div id="Sec"><br/>
-<p>This is the content for Sec.</p><br/>
-</div>
-<div id="PreU"><br/>
-<p>This is the content for PreU.</p><br/>
-</div>
+
 </div>
 
 </div>
