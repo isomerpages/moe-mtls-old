@@ -24,6 +24,9 @@ div.btntop {
   color:white;
   font-weight:600;
 }
+ .tab img{
+   width: 50%;
+ }
   </style>
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
 <div class="tab">
