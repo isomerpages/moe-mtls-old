@@ -201,7 +201,6 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
  <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
 </td>
 </tr>
-
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
@@ -214,8 +213,27 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
         </p>
        <h4>Animal Wonderland</h4>
        <p>Animal Wonderland by Wildlife Reserves Singapore presents a living classroom for all three Mother Tongue Languages (MTLs) targeted at both preschool and primary school. Explore pre-visit, in-park and post-visit animal-inspired lesson ideas that motivate children to use Malay in their daily lives. You will find e-teaching aids to help build a copious word bank for preschoolers. Audio story books featuring giant pandas, Kai Kai and Jia Jia, are now available in [CL/ML/TL]. Primary school students can embark on an e-trail in respective titles in MTLs, where they get to practise their MTLs and acquire higher order thinking skills.</p>
-        
- </div>
+  </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;">
+ <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+</td>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-9" type="checkbox" name="tab">
+      <label for="tab-9">ESPLANADE	<br/>ESPLANADE</label>
+      <div class="tab-content">
+       <h4>Esplanade- Teater di Persisiran</h4>
+       <p>Sebagai pusat persembahan seni kebangsaan Singapura, Esplanade – Teater di Persisiran ingin memastikan setiap lapisan masyarakat berpeluang untuk menikmati karya seni.<br/>
+Esplanade ingin mewujudkan kesedaran tentang cara mereka mendidik  dan memberikan pendedahan kepada  golongan muda mengenai seni persembahan melalui pelbagai bentuk seni yang ditampilkan Esplanade pada sepanjang tahun. Dengan cara ini, Esplanade memberikan peluang dan ruang kepada anak-anak muda untuk mengekspresikan kreativiti dan imaginasi mereka.<br/>
+Para pelajar juga berpeluang untuk mengetahui lebih lanjut mengenai beraneka bentuk seni secara dalam talian menerusi bahan-bahan yang disediakan dalam bahagian Keluarga dan Sekolah di Esplanade Offstage. Bahan pengajaran ini telah dicipta untuk menggalakkan pemerolehan bahasa dalam kalangan anak-anak muda agar mereka mengenali budaya dan tradisi yang berbeza dengan lebih mendalam.  </p>
+       <h4>Esplanade – Theatres on the Bay</h4>
+       <p>As Singapore’s national performing arts centre, Esplanade ­– Theatres on the Bay believes in making the arts accessible to everyone.<br/>
+       We want to create an awareness of how Esplanade exposes and educates our young to the performing arts through the different art forms we present at the centre all year round, offering children opportunities and space to express their creativity and imagination. <br/>
+       Students can also learn more about the various art forms online through resources provided on the Family and Schools section on Esplanade Offstage. These resources encourage language acquisition as well as discovery of different cultures and traditions.</p>
+</div>
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
