@@ -188,7 +188,7 @@ Part 4: The power of languages
  </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/CL-video-Lim/"><img class="btnImg" src="/images/arrowChinese.png"></a>
+  <a href="/test/CL-video-Lim/"> <img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
