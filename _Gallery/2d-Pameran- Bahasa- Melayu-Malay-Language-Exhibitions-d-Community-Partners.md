@@ -159,11 +159,11 @@ div.btntop {
 <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
       <label for="tab-7">Jawatankuasa Pembelajaran dan Penggalakkan Penggunaan Bahasa Melayu <br/>Malay Language Learning and Promotion Committee</label>
-      <div class="tab-content">
+      <div class="tab-content"><br/>
        <h4>Jawatankuasa Pembelajaran dan Penggalakkan Penggunaan Bahasa Melayu</h4>
         <p>
           Mari ikuti pengembaraan Nabil dan Nabilah meneroka sebahagian warisan Melayu merentas zaman melalui pantun dan simpulan bahasa.  Pengalaman Nabil dan Nabilahmenerokai keindahan dan kekayaan budaya dan bahasa masyarakat Melayu ini bertujuan untuk melestari dan meningkatkan penggunaan bahasa Melayu dalam interaksi harian masyarakat Melayu.  Menerusi kedua-dua watak ini, pengunjung akan dapat menyemai rasa minat dan cinta akan bahasa yang diwarisi..
-        </p> <br/>
+        </p>
        <h4>Malay Language Learning and Promotion Committee</h4>
        <p>Come on and join Nabil and Nabilah on their enthralling journey into the Malay heritage world.  Discover the timeless beauty of poems and idioms through Nabil’s and Nabilah’s unique experiences. Visitors will be brought through different quests that  immerse them in the Malay language and where they will experience and interact with both poems and day-to-day idioms.</p>
        
