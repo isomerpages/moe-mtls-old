@@ -56,11 +56,11 @@ div.btntop {
 }
    .tbl a {
     position:absolute;
-    margin-left: -110px;
+    margin-left: -70px;
 }
 img {
 height:auto;
-max-width:100%;
+max-width:70%;
 }
 </style>
 </head>
