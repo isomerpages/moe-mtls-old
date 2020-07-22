@@ -93,8 +93,8 @@ div.btntop {
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">தேசிய மரபுடைமைக் கழகம்<br/>National Heritage Board</label>
+      <input id="tab-3" type="checkbox" name="tab">
+      <label for="tab-3">தேசிய மரபுடைமைக் கழகம்<br/>National Heritage Board</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -109,8 +109,8 @@ div.btntop {
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">தேசியக் கல்விக்கழகத்தின்  ஆசிய மொழிகள் மற்றும் பண்பாட்டுகள் துறை <br/>National Institute of Education (Asian Languages and Cultures Academic Group)</label>
+      <input id="tab-4" type="checkbox" name="tab">
+      <label for="tab-4">தேசியக் கல்விக்கழகத்தின்  ஆசிய மொழிகள் மற்றும் பண்பாட்டுகள் துறை <br/>National Institute of Education (Asian Languages and Cultures Academic Group)</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -125,8 +125,8 @@ div.btntop {
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">	தேசிய நூலக வாரியம்<br/>National Library Board</label>
+      <input id="tab-5" type="checkbox" name="tab">
+      <label for="tab-5">	தேசிய நூலக வாரியம்<br/>National Library Board</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -141,8 +141,8 @@ div.btntop {
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">சிங்கப்பூர் பிரஸ் ஹோல்டிங்ஸ்(தமிழ் முரசு-மாணவர்முரசு, இளையர்முரசு, பாலர்முரசு) <br/>Tamil Murasu–Maanavar Murasu, Illayar Murasu, Balar Murasu</label>
+      <input id="tab-6" type="checkbox" name="tab">
+      <label for="tab-6">சிங்கப்பூர் பிரஸ் ஹோல்டிங்ஸ்(தமிழ் முரசு-மாணவர்முரசு, இளையர்முரசு, பாலர்முரசு) <br/>Tamil Murasu–Maanavar Murasu, Illayar Murasu, Balar Murasu</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -157,8 +157,8 @@ div.btntop {
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு <br/>The Tamil Language Learning and Promotion Committee</label>
+      <input id="tab-7" type="checkbox" name="tab">
+      <label for="tab-7">தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு <br/>The Tamil Language Learning and Promotion Committee</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -173,8 +173,8 @@ div.btntop {
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">	உமறுப்புலவர் தமிழ்மொழி நிலையம்<br/>Umar Pulavar Tamil Language Centre</label>
+      <input id="tab-8" type="checkbox" name="tab">
+      <label for="tab-8">	உமறுப்புலவர் தமிழ்மொழி நிலையம்<br/>Umar Pulavar Tamil Language Centre</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -189,8 +189,8 @@ div.btntop {
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">சிங்கப்பூர் வனவிலங்கு பாதுகாப்புப்பகுதிகள்<br/>Wildlife Reserves Singapore</label>
+      <input id="tab-9" type="checkbox" name="tab">
+      <label for="tab-9">சிங்கப்பூர் வனவிலங்கு பாதுகாப்புப்பகுதிகள்<br/>Wildlife Reserves Singapore</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
