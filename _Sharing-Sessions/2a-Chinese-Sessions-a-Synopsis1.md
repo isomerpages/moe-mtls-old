@@ -60,7 +60,7 @@ div.btntop {
 }
 img {
 height:auto;
-max-width:70%;
+max-width:40%;
 }
 </style>
 </head>
