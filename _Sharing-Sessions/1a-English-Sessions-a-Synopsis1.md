@@ -160,7 +160,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
   <a href="/test/EL-video-Leher/"><div><img src="/images/arrowEng.png"></div></a>
 </td>
 </tr>
-
+</table>
   <hr/>
   <div class="Image">
   <img src="images/footerBanner.png" width="1000" height="300">
