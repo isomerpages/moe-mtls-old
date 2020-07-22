@@ -70,7 +70,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1">Principles and Strategies for Mother Tongue and Biliteracy Development for Young Learners  <br/> [12.30pm – 1.30pm]<br/>Shuhan C. Wang
+      <label for="tab-1" class="lbCh">Principles and Strategies for Mother Tongue and Biliteracy Development for Young Learners  <br/> [12.30pm – 1.30pm]<br/>Shuhan C. Wang
 </label>
       <div class="tab-content">
         <br/>
@@ -94,7 +94,7 @@ Our speaker will be sharing a framework for MTL development in an educational ec
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">Imperceptible Influence:  How to Create a Conducive Mother Tongue Learning Environment at Home<br/>[2.00pm – 3.00pm] <br/> Sun Baoqi
+      <label for="tab-2" class="lbCh">Imperceptible Influence:  How to Create a Conducive Mother Tongue Learning Environment at Home<br/>[2.00pm – 3.00pm] <br/> Sun Baoqi
 
 </label>
       <div class="tab-content">      
@@ -119,7 +119,7 @@ Our speaker will be sharing a framework for MTL development in an educational ec
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3">I TORE UP MY CHINESE BOOK!
+      <label for="tab-3" class="lbCh">I TORE UP MY CHINESE BOOK!
  <br/> Woo Yen Yen
 </label>
       <div class="tab-content">      
@@ -147,7 +147,7 @@ Part 4: The power of languages
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4">Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese
+      <label for="tab-4" class="lbCh">Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese
 <br/> Xu Jinhong</label>
   <div class="tab-content">      
        <br/>
@@ -171,7 +171,7 @@ Part 4: The power of languages
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5">Happy Reading and Storytelling with young children 
+      <label for="tab-5" class="lbCh">Happy Reading and Storytelling with young children 
 <br/> Lim Kwee Hua</label>
       <div class="tab-content">      
        <br/>
