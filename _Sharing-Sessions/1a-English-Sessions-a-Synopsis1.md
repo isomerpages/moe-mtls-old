@@ -130,7 +130,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/EL-video-Connie/"><div><img src="/images/arrowEng.png"></div></a>
+  <a href="/test/EL-video-Connie/"><div ><img src="/images/arrowEng.png"></div></a>
 </td>
 </tr>
 <tr>
@@ -157,13 +157,13 @@ With years of experience in the television and entertainment industry, Ben Yeo i
  </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/EL-video-Leher/"><div><img src="/images/arrowEng.png"></div></a>
+  <a href="/test/video/"><div><img src="/images/arrowEng.png"></div></a>
 </td>
-
+</tr>
+</table>
   <hr>
   <div class="Image">
   <img src="images/footerBanner.png" width="1000" height="300">
   </div>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
-</tr>
-</table>
+
