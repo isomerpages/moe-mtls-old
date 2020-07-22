@@ -70,7 +70,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1">Story: A key to language learning [12.30pm – 1.30pm] <br/>Ms Elakeyaa Selvaraji
+      <label for="tab-1" class="lbTM">Story: A key to language learning [12.30pm – 1.30pm] <br/>Ms Elakeyaa Selvaraji
 </label>
       <div class="tab-content">
       <br/>
@@ -94,7 +94,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">Joyful Learning through stories [2.00pm – 3.00pm]
+      <label for="tab-2" class="lbTM">Joyful Learning through stories [2.00pm – 3.00pm]
  <br/> Ms Rani Kanna & Mr Anandha Kannan</label>
       <div class="tab-content">      
        <br/>
@@ -117,7 +117,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3">Let’s Learn our Tamil Language!  
+      <label for="tab-3" class="lbTM">Let’s Learn our Tamil Language!  
 <br/> Mohan Suppiah & Balajee Harridas</label>
       <div class="tab-content">      
        <br/>
@@ -142,7 +142,7 @@ together to support every step that the child takes to learn and develop his/her
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4">Story: A key to language learning <br/> Darseni Rengasamy 
+      <label for="tab-4" class="lbTM">Story: A key to language learning <br/> Darseni Rengasamy 
 </label>
       <div class="tab-content">      
        <br/>
