@@ -32,7 +32,7 @@ collection_name: Sharing-Sessions
 }
 img {
 height:auto;
-max-width:50%;
+max-width:100%;
 }
 .column img{
   max-width: 40%;
