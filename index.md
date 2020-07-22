@@ -5,7 +5,7 @@ permalink: /
 sections:
     -
         hero:
-            background: /MTLS_Hero_Banner.jpg
+            background: /images/MTLS_Hero_Banner.jpg
     - infobar:
         title: Livestreams
         subtitle: 
