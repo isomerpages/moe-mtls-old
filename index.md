@@ -32,12 +32,22 @@ sections:
         description:   <div style="display:inline-block;">Thank you for your interest in joining the SG MTLS! If you have signed up, you will be invited to join our outreach channels to receive the latest updates. </div>
         image: /images/qrBanner.png
         alt: QR Code
-        
 
 ---
+<section>
+    <div class="sgds-container">
+        <div class="content">
+            <div class="row">
+                <div>
+                    <h1 class="has-text-weight-black">
+                        Singapore Government Design System
+                    </h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 <!-- Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage -->
 
-
-<!-- Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage -->
