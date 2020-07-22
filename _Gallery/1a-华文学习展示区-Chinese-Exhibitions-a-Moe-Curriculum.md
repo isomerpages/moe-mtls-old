@@ -48,13 +48,5 @@ div.btntop {
 
 </div>
 
-<table border="0">
 
-  <tr>
-    <td>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/8SQD8UCviLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </td>
-   </tr>
-</table>
-<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
 
