@@ -1,7 +1,7 @@
 ---
-title: 'ML video Asnida '
-permalink: /test/ML-video-Asnida /
-breadcrumb: 'ML video Asnida '
+title: 'ML video Asnida'
+permalink: /test/ML-video-Asnida/
+breadcrumb: 'ML video Asnida'
 ---
 <html>
 <head>
