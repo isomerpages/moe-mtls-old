@@ -34,10 +34,6 @@ img {
 height:auto;
 max-width:50%;
 }
-footerImage{
-height:auto;
-max-width:100%;
-}
 
 </style>
 </head>
