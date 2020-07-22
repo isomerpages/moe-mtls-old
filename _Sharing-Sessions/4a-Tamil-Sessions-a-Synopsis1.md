@@ -136,7 +136,7 @@ together to support every step that the child takes to learn and develop his/her
  </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/video/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
+  <a href="/test/TL-video-Mohan/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
   <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -160,7 +160,7 @@ together to support every step that the child takes to learn and develop his/her
  </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/video/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
+  <a href="/test/TL-video-Darseni/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
 <hr/>
   <div class="Image">
