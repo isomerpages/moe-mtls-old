@@ -225,7 +225,7 @@ Home is the first school, and parents are the first teachers. Parental involveme
         </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-  <a href="/test/video/"><img class="btnImg" alt="Click here" src="/images/arrowMalay.png"></a>
+  <a href="/test/ML-video-Hazliana/"><img class="btnImg" alt="Click here" src="/images/arrowMalay.png"></a>
 </td>
    </tr>
    </table>
