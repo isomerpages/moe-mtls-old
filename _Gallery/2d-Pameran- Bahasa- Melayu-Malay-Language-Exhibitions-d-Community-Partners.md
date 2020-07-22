@@ -93,8 +93,8 @@ div.btntop {
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">Lembaga Warisan Negara<br/>National Heritage Board</label>
+      <input id="tab-3" type="checkbox" name="tab">
+      <label for="tab-3">Lembaga Warisan Negara<br/>National Heritage Board</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -109,8 +109,8 @@ div.btntop {
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">Institut Pendidikan Nasional  (Kumpulan Akademik Bahasa dan Kebudayaan Asia)<br/>National Institute of Education  (Asian Languages and Cultures Academic Group)</label>
+      <input id="tab-4" type="checkbox" name="tab">
+      <label for="tab-4">Institut Pendidikan Nasional  (Kumpulan Akademik Bahasa dan Kebudayaan Asia)<br/>National Institute of Education  (Asian Languages and Cultures Academic Group)</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -125,8 +125,8 @@ div.btntop {
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">Lembaga Perpustakaan Negara<br/>National Library Board</label>
+      <input id="tab-5" type="checkbox" name="tab">
+      <label for="tab-5">Lembaga Perpustakaan Negara<br/>National Library Board</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -141,8 +141,8 @@ div.btntop {
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">M Kuasa Tiga (M3) Nee Soon	<br/>M3 @ Nee Soon</label>
+      <input id="tab-6" type="checkbox" name="tab">
+      <label for="tab-6">M Kuasa Tiga (M3) Nee Soon	<br/>M3 @ Nee Soon</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -157,8 +157,8 @@ div.btntop {
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">Jawatankuasa Pembelajaran dan Penggalakkan Penggunaan Bahasa Melayu <br/>Malay Language Learning and Promotion Committee</label>
+      <input id="tab-7" type="checkbox" name="tab">
+      <label for="tab-7">Jawatankuasa Pembelajaran dan Penggalakkan Penggunaan Bahasa Melayu <br/>Malay Language Learning and Promotion Committee</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -174,8 +174,8 @@ div.btntop {
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">Wildlife Reserves Singapore	<br/>Wildlife Reserves Singapore</label>
+      <input id="tab-8" type="checkbox" name="tab">
+      <label for="tab-8">Wildlife Reserves Singapore	<br/>Wildlife Reserves Singapore</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
