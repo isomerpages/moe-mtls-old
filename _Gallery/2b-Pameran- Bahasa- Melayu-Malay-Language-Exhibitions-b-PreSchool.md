@@ -92,12 +92,16 @@ div.btntop {
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">Tadika My First School (Seng Kang West) <br/>My First School (Seng Kang West)</label>
+      <input id="tab-3" type="checkbox" name="tab">
+      <label for="tab-3">Tadika My First School (Seng Kang West) <br/>My First School (Seng Kang West)</label>
       <div class="tab-content">
+       <h4>Bercerita dengan Wayang Kuit</h4>
         <p>
-          This is the content for Exhibitor 2.
+          ‘Bercerita dengan wayang kulit’ merupakan satu usaha My First Skool @ Sengkang West untuk menggalakkan pengajaran dan pembelajaran Bahasa Melayu secara interaktif bagi kanak-kanak Prasekolah 1 dan 2. Mereka berharap agar pendekatan ini dapat  menimbulkan rasa ingin tahu dan merangsang imaginasi kanak-kanak.<br/>
+         Ibu bapa juga boleh mempelajari teknik bercerita dengan menggunakan wayang kulit. Dengan menggunakan bahan-bahan yang terdapat dalam rumah seperti boneka dan membina alatan menggunakan bahan kitar semula, ibu bapa boleh menjalankan sesi bercerita yang menarik bersama anak-anak mereka.
         </p>
+            <h4>Storytelling using Shadow Puppetry</h4>
+       <p>Storytelling using Shadow Puppetry is an intiative by My First Skool @ 50 Sengkang West to promote interactive teaching and learning practices for Kindergarten 1 and 2 children. Through this approach.We hope to spark our children’s curiosity and stimulate their imagination <br/>shadow puppetry. By making puppets and props from recycled materials found at home, parents can conduct their own engaging storytelling sessions with their children.</p>
       </div>
 </div>
 </td>
