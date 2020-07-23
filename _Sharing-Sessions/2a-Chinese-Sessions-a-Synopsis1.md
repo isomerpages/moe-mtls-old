@@ -62,6 +62,10 @@ div.btntop {
 height:auto;
 max-width:40%;
 }
+.column{
+  width:50%;
+  height:auto;
+}
 </style>
 </head>
   <body>  
@@ -104,7 +108,7 @@ Our speaker will be sharing a framework for MTL development in an educational ec
     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
   </div>
     <p><strong>Sun Baoqi
- </strong> <br/> National Institute of Education, Nanyang Technological University
+ </strong> <br/> National Institute of Education, <br/>Nanyang Technological University
 </p>
        </div>
      <h4> Synopsis</h4> 
