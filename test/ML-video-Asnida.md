@@ -23,11 +23,11 @@ max-width:20%;
  </strong> <br/> Ministry of Education
 <br/>Senior Specialist, ETD
  </p>
-     <h4> Profile: </h4>   
+     <h4> Profile </h4>   
        <p>Cikgu Asnida Daud mempunyai pengalaman lebih daripada 20 tahun dalam pengajaran Bahasa Melayu. Cikgu Asnida merupakan Pakar Kanan di cawangan Reka Bentuk Media untuk Pembelajaran pada tahun 2020. Sejak 2011, beliau menghasilkan dan menerbitkan video dan audio pendidikan dari peringkat prasekolah hingga prauniversiti. Sebagai Duta Bahasa, beliaumenyemarakkan cinta akan budaya dan bahasa Melayu dalam kalangan masyarakat umum. Kini, beliau meneroka bidang motivasi untuk mengekalkan minat pelajar dalam pembelajaran Bahasa Ibunda menerusi media kreatif.<br/>
 Mdm Asnida Daud has over 20 years of experience in Malay Language teaching. She is currently the Senior Specialist at Media Design for Learning in 2020. She has designed and produced educational videos and audio productions from pre-school to the pre-university level. as a Malay Language Ambassador, she continues to advocate and impart  love for the Malay language and culture at community and national level. She is currently exploring a new interest in using  creative media to motivate and  sustain learners’ interest in learning MTL.
 </p>
-  <h4>Synopsis:</h4> 
+  <h4>Synopsis</h4> 
        <p>Kajian neurosains telah membuktikan bahawa pembelajaran akan berhenti apabila keseronokan terhenti. Cara pembelajaran dan pengajaran bahasa yang aktif dan berkesan sangat penting bagi pelajar pada peringkat awal. Salah satu kaedah adalah melalui pendekatan didik hibur yang mengandungi sejumlah aktiviti seperti nyanyian, bercerita, lakonan atau puisi. Pendekatan didik hibur memupuk minat belajar dan sikap positif terhadap pembelajaran bahasa, khususnya untuk mengatasi kesukaran pelajar menguasai kemahiran membaca dan menulis. Perkongsian ini memanfaatkan pengalaman dan kepakaran penceramah bukan hanya sebagai perancang media pendidikan tetapi turut meraih pengalaman beliau dalam seni kreatif sebagai penggiat, penyair dan pengamal budaya Melayu. Pada masa yang sama, perkongsian tersebut juga memberikan contoh pendekatan didik hibur yang diterapkan dalam bahan pendidikan yang telah dihasilkan. 
 <br/>
       
