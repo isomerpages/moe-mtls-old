@@ -164,7 +164,7 @@ together to support every step that the child takes to learn and develop his/her
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
    </div>
    <p> <strong>Darseni Rengasamy </strong>
-<br/> National Institute of Early Childhood Development (Ngee Ann Polytechnic) 
+<br/> National Institute of <br/>  Early Childhood Development <br/> (Ngee Ann Polytechnic) 
 </p>
    </div>
   <h4> Synopsis</h4>  
