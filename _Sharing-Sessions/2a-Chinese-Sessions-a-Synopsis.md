@@ -1,6 +1,6 @@
 ---
 title: 'Synopsis1'
-permalink: /Exhibition/Chinese-Sessions/Synopsis1/
+permalink: /Exhibition/Chinese-Sessions/Synopsis/
 breadcrumb: 'Chinese Sessions'
 collection_name: Sharing-Sessions
 third_nav_title: 'Chinese Sessions'
