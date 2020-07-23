@@ -20,3 +20,4 @@ breadcrumb: About Us & Past Symposiums
    </tr>
 </table>
 ![alt text - Poster](/images/footerBanner.png)
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
