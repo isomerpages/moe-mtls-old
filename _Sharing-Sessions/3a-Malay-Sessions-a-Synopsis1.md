@@ -59,7 +59,11 @@ td, th {
     position:absolute;
     margin-left: -80px;
 }
-. column img {
+img {
+ height:auto;
+ max-width:100%;
+}
+.column img {
 height:auto;
 max-width:40%;
 }
