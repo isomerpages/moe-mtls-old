@@ -58,12 +58,12 @@ div.btntop {
 <tr><td colspan="2"><img src="/images/footerBanner.png"></td></tr>
  <tr><td colspan="2">
     <p> 小学华文课程<br />
-        《欢乐伙伴》的编写有哪些特点？<br />
+        《欢乐伙伴》的编写有哪些特点？
          <ol>
          <li>每课一个主题</li>
          <li>每课几个板块</li>
          <li>各个板块有机相联</li>
-         </ol><br /><br />
+         </ol><br />
         孩子在“听说剧场”学习口语表达和口语交际，积累词语；在“读写乐园” 利用文本学习字、词、句与阅读技能。孩子在学习的过程中，通过已知带出未知，循序渐进，这样分散了学习难点，使他们能有效地掌握所学内容。
     </p></td></tr>
  <tr><td>Text in Slide 8</td> <td>SLS Image (slide 8)<br/> iMTL Image (Slide 8)</td></tr>
