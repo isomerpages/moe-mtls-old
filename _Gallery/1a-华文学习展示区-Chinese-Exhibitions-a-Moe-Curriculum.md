@@ -12,7 +12,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 <style>
 
  .tab img{
-   width: 50%;
+   width: 80%;
  }
   </style>
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
