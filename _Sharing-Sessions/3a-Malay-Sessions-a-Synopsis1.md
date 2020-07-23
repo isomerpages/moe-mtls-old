@@ -186,7 +186,8 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
  <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
    </div>
-   <p><strong> Salina Bte Saiman & Ganda Sari Binte </strong>
+   <p><strong> Salina Bte Saiman &
+    <br/> Ganda Sari Binte </strong>
 <br/>Sembawang Primary School
 <br/> CPDD
 </p>
