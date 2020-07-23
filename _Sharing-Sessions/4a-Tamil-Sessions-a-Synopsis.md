@@ -21,20 +21,7 @@ td, th {
   text-align: left;
   padding: 8px;
 }
-div.btntop {
- position:fixed;
- float:right;
- bottom:20px;
- right:80px;
- z-index:99;
- boder:none;
- background-color:#4169e1;
- cursor:pointer;
- padding:15px;
-  boder-radius:4px;
-  color:white;
-  font-weight:600;
-    }
+
 .hl{
     display: inline-block;
     padding: 12px 20px;
