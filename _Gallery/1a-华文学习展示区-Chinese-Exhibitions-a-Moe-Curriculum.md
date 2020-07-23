@@ -48,7 +48,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
   <li>关注学习过程，落实有效评价</li>
 </ul></p>
  </td></tr>
- <tr><td colspan="2"><img src="/images/footerBanner.png"></td></tr>
+ <tr><td colspan="2"><img src="/images/Picture3.png"></td></tr>
 <tr><td colspan="2"><img src="/images/footerBanner.png"></td></tr>
  <tr><td colspan="2">
  <p> <span style="color:#A52A2A;font-size:25px"> 小学华文课程 </span><br />
