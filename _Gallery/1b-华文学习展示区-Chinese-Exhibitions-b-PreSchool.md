@@ -62,7 +62,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">爱加倍小小学府实龙岗分校 <br/> Agape Little Uni. @ Upper Serangoon</label>
+      <label for="tab-2">爱加倍实龙岗分校<br/> Agape Little Uni. @ Upper Serangoon</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
