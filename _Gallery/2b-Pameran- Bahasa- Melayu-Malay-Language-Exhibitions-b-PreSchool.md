@@ -42,7 +42,7 @@ third_nav_title: 'Pameran Bahasa Melayu Malay Language Exhibitions'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1">	Tadika MOE (Farrer Park)<br/>MK@Farrer Park</label>
+      <label for="tab-1" class="lbML">	Tadika MOE (Farrer Park)<br/>MK@Farrer Park</label>
       <div class="tab-content">
       <h4>Membaca Mencipta Keajaiban</h4>
       <p>
@@ -57,14 +57,14 @@ third_nav_title: 'Pameran Bahasa Melayu Malay Language Exhibitions'
 
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-<a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+<a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">Tadika MOE (Waterway)<br/>MK@Waterway</label>
+      <label for="tab-2" class="lbML">Tadika MOE (Waterway)<br/>MK@Waterway</label>
       <div class="tab-content">
        <h4>Seronoknya Berdrama</h4>
         <p>
@@ -78,14 +78,14 @@ third_nav_title: 'Pameran Bahasa Melayu Malay Language Exhibitions'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3">Tadika My First School (Seng Kang West) <br/>My First School (Seng Kang West)</label>
+      <label for="tab-3" class="lbML">Tadika My First School (Seng Kang West) <br/>My First School (Seng Kang West)</label>
       <div class="tab-content">
        <h4>Bercerita dengan Wayang Kuit</h4>
         <p>
@@ -98,7 +98,7 @@ third_nav_title: 'Pameran Bahasa Melayu Malay Language Exhibitions'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
 </table>
