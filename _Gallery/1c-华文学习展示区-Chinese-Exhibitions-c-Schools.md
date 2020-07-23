@@ -43,7 +43,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1">聚英小学 <br/> Juying Primary School</label>
+      <label for="tab-1" class="lbCh">聚英小学 <br/> Juying Primary School</label>
       <div class="tab-content">
       <h3>故事天地——乐趣无穷的语言学习和价值传承</h3>
       <p>
@@ -59,14 +59,14 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-<a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+<a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">	孺廊小学<br/>Rulang Primary School</label>
+      <label for="tab-2" class="lbCh">	孺廊小学<br/>Rulang Primary School</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -75,14 +75,14 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3">伟林小学<br/>Wellington Primary School</label>
+      <label for="tab-3" class="lbCh">伟林小学<br/>Wellington Primary School</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -91,14 +91,14 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4">育青中学<br/>Bedok Green Secondary School</label>
+      <label for="tab-4" class="lbCh">育青中学<br/>Bedok Green Secondary School</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -107,14 +107,14 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5">圣尼各拉女校（中学）<br/>CHIJ St Nicholas Girls School（Sec）</label>
+      <label for="tab-5" class="lbCh">圣尼各拉女校（中学）<br/>CHIJ St Nicholas Girls School（Sec）</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -123,7 +123,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
