@@ -20,9 +20,9 @@ allowfullscreen></iframe></div>
 <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
    </div>
-   <p> Leher SINGH
+    <p> <strong>Leher SINGH </strong>
     <br/> National University of Singapore
 </p>
-  <h4> Synposis</h4>  
+  <h4> Synopsis</h4>  
  <p>Raising bilingual children opens children up to tremendous opportunities. At the same time, families often experience stress in knowing how best to raise children to become bilingual. What works and what doesn't? What does the science say? This sharing session will focus on how bilingualism can be expected to impact a child’s development, as well as some of the common challenges that parents face and on research-based strategies to support bilingualism in young children.
 </p>
