@@ -1,5 +1,5 @@
 ---
-title: 'Synopsis1'
+title: 'Synopsis'
 permalink: /Exhibition/Tamil-Sessions/Synopsis/
 breadcrumb: 'Tamil Sessions'
 collection_name: Sharing-Sessions
