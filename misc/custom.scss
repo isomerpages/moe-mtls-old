@@ -453,6 +453,21 @@ $desktop: 960px + (2 * $gap) !default;
   cursor: pointer;
 }  
 
+ .btntop {
+ position:fixed;
+ float:right;
+ bottom:20px;
+ right:80px;
+ z-index:99;
+ boder:none;
+ background-color:#d14165;
+ cursor:pointer;
+ padding:15px;
+  boder-radius:4px;
+  color:white;
+  font-weight:600;
+ }
+
 .atab .lbeng {
   background: #72c6e9;
 } 
