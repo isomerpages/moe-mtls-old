@@ -1,6 +1,6 @@
 ---
 title: 'Synopsis1'
-permalink: /Exhibition/Tamil-Sessions/Synopsis1/
+permalink: /Exhibition/Tamil-Sessions/Synopsis/
 breadcrumb: 'Tamil Sessions'
 collection_name: Sharing-Sessions
 third_nav_title: 'Tamil Sessions'
