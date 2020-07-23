@@ -58,17 +58,25 @@ div.btntop {
 <tr><td colspan="2"><img src="/images/footerBanner.png"></td></tr>
  <tr><td colspan="2">
     <p> 小学华文课程<br />
-        《欢乐伙伴》的编写有哪些特点？
-         <ol>
-         <li>每课一个主题</li>
-         <li>每课几个板块</li>
-         <li>各个板块有机相联</li>
-         </ol>
-        孩子在“听说剧场”学习口语表达和口语交际，积累词语；在“读写乐园” 利用文本学习字、词、句与阅读技能。孩子在学习的过程中，通过已知带出未知，循序渐进，这样分散了学习难点，使他们能有效地掌握所学内容。
+    《欢乐伙伴》的编写有哪些特点？
+    <ol>
+     <li>每课一个主题</li>
+     <li>每课几个板块</li>
+     <li>各个板块有机相联</li>
+    </ol>
+    孩子在“听说剧场”学习口语表达和口语交际，积累词语；在“读写乐园” 利用文本学习字、词、句与阅读技能。孩子在学习的过程中，通过已知带出未知，循序渐进，这样分散了学习难点，使他们能有效地掌握所学内容。
     </p></td></tr>
- <tr><td>Text in Slide 8</td> <td>SLS Image (slide 8)<br/> iMTL Image (Slide 8)</td></tr>
+ <tr><td>数码资源介绍<br/>利用新加坡学生学习平台(SLS)及乐学善用互动平台(iMTL)进行自主和协作学习。</td> <td>SLS Image (slide 8)<br/> iMTL Image (Slide 8)</td></tr>
  <tr><td colspan="2"><img src="/images/footerBanner.png"></td></tr>
- <tr><td colspan="2"><p>Text in Slide 9</p></td></tr>
+ <tr><td colspan="2">
+ <p>如何协助孩子学习
+    家长在孩子的学习过程中扮演着非常重要的角色：
+    <ul>
+     <li>为了让家长清楚孩子在华文课上学了些什么，课本中的“我会说”、“我会认”与“我会写” 列出了每一课的学习内容，以便家长可协助孩子学习。</li>
+     <li>为了让孩子把课堂所学运用到生活中，课本也设置了“生活运用”这个板块。通过一些小活动和小任务，让家长与孩子一起交流、分享，帮助孩子巩固所学，感受语言的实用价值。</li>
+     <li>家长可利用小图书、小图卡、字宝宝及数码资源与孩子一起互动，培养孩子对华文华语的兴趣。</li>
+    </ul>
+ </p></td></tr>
  <tr><td colspan="2"><img style="width:100%" src="/images/footerBanner.png"></td></tr>
 </table>
 </div>
