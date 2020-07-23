@@ -59,6 +59,10 @@ div.btntop {
     position:absolute;
     margin-left: -80px;
 }
+img {
+ height:auto;
+ max-width:100%;
+}
 .column img {
 height:auto;
 max-width:40%;
