@@ -44,7 +44,7 @@ third_nav_title: 'Pameran Bahasa Melayu Malay Language Exhibitions'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1">Sekolah Rendah Yuhua<br/>Yuhua Primary School</label>
+      <label for="tab-1" class="lbML">Sekolah Rendah Yuhua<br/>Yuhua Primary School</label>
       <div class="tab-content">
       <h4>Penerapan Roda Penaakulan Paul Dalam Pembelajaran Bahasa Melayu </h4>
       <p>
@@ -61,14 +61,14 @@ Soalan-soalan rangsangan (menggunakan Roda Penaakulan Paul) disertakan dalam Unj
 
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-<a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+<a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">	Sekolah Rendah Bendemeer<br/>Bendemeer Primary School</label>
+      <label for="tab-2" class="lbML">	Sekolah Rendah Bendemeer<br/>Bendemeer Primary School</label>
       <div class="tab-content">
        <h4>Jejak Bahasa dan Budaya Melayu berasaskan ICT</h4>
         <p>
@@ -82,14 +82,14 @@ Soalan-soalan rangsangan (menggunakan Roda Penaakulan Paul) disertakan dalam Unj
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3">Sekolah Sains dan Teknologi <br/>School of Science and Technology</label>
+      <label for="tab-3" class="lbML">Sekolah Sains dan Teknologi <br/>School of Science and Technology</label>
       <div class="tab-content">
        <h4>Mengasah Kemahiran Bahasa melalui Aplikasi Clips</h4>
         <p>
@@ -105,7 +105,7 @@ Soalan-soalan rangsangan (menggunakan Roda Penaakulan Paul) disertakan dalam Unj
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
 </table>
