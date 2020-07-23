@@ -103,7 +103,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbTM">Joyful Learning through stories [2.00pm – 3.00pm]
+      <label for="tab-2" class="lbTM">Joyful Learning through stories <br/> [2.00pm – 3.00pm]
  <br/> Ms Rani Kanna & Mr Anandha Kannan</label>
       <div class="tab-content">      
        <br/>
