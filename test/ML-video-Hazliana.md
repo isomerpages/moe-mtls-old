@@ -13,7 +13,7 @@ max-width:20%;
 </style>
 </head>
   <body>  
-<a href="https://staging-moe-mtls.netlify.app/exhibition/malay-sessions/synopsis1/" style="float:right;">Back</a>
+<a href="https://staging-moe-mtls.netlify.app/exhibition/malay-sessions/synopsis/" style="float:right;">Back</a>
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   <div class="column">
@@ -22,7 +22,7 @@ max-width:20%;
    <p> <strong> Hazliana Md Lahir </strong>
 <br/> Singapore Sports School
 </p>
-  <h4> Profile of Speaker:</h4>  
+  <h4> Profile </h4>  
        <p>Cikgu Hazliana ialah guru sepenuh masa dan ibu kepada tiga orang anak. Nalurinya sebagai seorang pendidik dengan pengalaman lebih daripada satu dekad telah mendorongnya untuk membantu keluarga muda membina budaya celik literasi di rumah. Melalui akaun Instagram happyintheeast, Cikgu Hazliana berkongsi minatnya dalam perkembangan bahasa dan sastera kanak-kanak. Beliau berkongsi idea-idea pembelajaran di rumah dan mencadangkan buku-buku menarik yang boleh dibaca sama  ibu bapa dengan anak-anak mereka. Ibu bapa merupakan guru pertama kepada anak-anak mereka. Oleh itu, Cikgu Hazliana berpendapat bahawa ibu bapa memainkan peranan yang proaktif dalam perkembangan pendidikan anak-anak mereka. <br/> 
        Mdm Hazliana is a full time working mother to three young children. An educator at heart, with more than a decade worth of teaching experience, her passion to teach transcends the classroom as she strives to help other young families create a literacy rich environment at home. Known to the Instagram community as happyintheeast, she shares her interest in children’s literature and early language development with her followers worldwide through book recommendations, and various practical home-based learning ideas. Mdm Hazliana believes that parents, who are the first teachers to their children, play a crucial role in a child learning process.
 </p>
