@@ -43,7 +43,7 @@ third_nav_title: 'Pameran Bahasa Melayu Malay Language Exhibitions'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1">Berita Harian<br/>Berita Harian</label>
+      <label for="tab-1" class="lbML">Berita Harian<br/>Berita Harian</label>
       <div class="tab-content">
       <h4>Apakah yang Berlaku pada Persekitaran Kita?</h4>
       <p>
@@ -57,14 +57,14 @@ third_nav_title: 'Pameran Bahasa Melayu Malay Language Exhibitions'
 
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-<a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+<a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">Dana Kedwibahasaan Lee Kuan Yew<br/>Lee Kuan Yew Fund for Bilingualism</label>
+      <label for="tab-2" class="lbML">Dana Kedwibahasaan Lee Kuan Yew<br/>Lee Kuan Yew Fund for Bilingualism</label>
       <div class="tab-content">
        <h4>Berseronok dengan Bahasa Ibunda Kita</h4>
         <p>
@@ -78,14 +78,14 @@ Dana ini menyokong pendekatan pelibatan dan kreatif yang menggalakkan kedwibahas
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3">Lembaga Warisan Negara<br/>National Heritage Board</label>
+      <label for="tab-3" class="lbML">Lembaga Warisan Negara<br/>National Heritage Board</label>
       <div class="tab-content">
        <h4>Lembaga Warisan Negara</h4>
 <p>
@@ -103,14 +103,14 @@ Parents can find out more about the learning opportunities available for the you
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4">Institut Pendidikan Nasional  (Kumpulan Akademik Bahasa dan Kebudayaan Asia)<br/>National Institute of Education  (Asian Languages and Cultures Academic Group)</label>
+      <label for="tab-4" class="lbML">Institut Pendidikan Nasional  (Kumpulan Akademik Bahasa dan Kebudayaan Asia)<br/>National Institute of Education  (Asian Languages and Cultures Academic Group)</label>
       <div class="tab-content">
          <h4>Dunia Penceritaan - Keseronokan dalam Pembelajaran Bahasa dan Penyemaian Nilai</h4>
         <p>
@@ -124,14 +124,14 @@ To encourage the use of stories, the Asian Languages and Cultures Academic Group
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5">Lembaga Perpustakaan Negara<br/>National Library Board</label>
+      <label for="tab-5" class="lbML">Lembaga Perpustakaan Negara<br/>National Library Board</label>
       <div class="tab-content">
        <h4>Lembaga Perpustakaan Negara</h4>
         <p>
@@ -146,14 +146,14 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
-      <label for="tab-6">M Kuasa Tiga (M3) Nee Soon	<br/>M3 @ Nee Soon</label>
+      <label for="tab-6" class="lbML">M Kuasa Tiga (M3) Nee Soon	<br/>M3 @ Nee Soon</label>
       <div class="tab-content">
        <h4>Kelas Matematika M3@Nee Soon</h4>
         <p>
@@ -165,14 +165,14 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
-      <label for="tab-7">Jawatankuasa Pembelajaran dan Penggalakkan Penggunaan Bahasa Melayu <br/>Malay Language Learning and Promotion Committee</label>
+      <label for="tab-7" class="lbML">Jawatankuasa Pembelajaran dan Penggalakkan Penggunaan Bahasa Melayu <br/>Malay Language Learning and Promotion Committee</label>
       <div class="tab-content">
        <h4>Jawatankuasa Pembelajaran dan Penggalakkan Penggunaan Bahasa Melayu</h4>
         <p>
@@ -185,14 +185,14 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
-      <label for="tab-8">Wildlife Reserves Singapore	<br/>Wildlife Reserves Singapore</label>
+      <label for="tab-8" class="lbML">Wildlife Reserves Singapore	<br/>Wildlife Reserves Singapore</label>
       <div class="tab-content">
        <h4>Keajaiban Alam Haiwan</h4>
         <p>
@@ -204,13 +204,13 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-9" type="checkbox" name="tab">
-      <label for="tab-9">ESPLANADE	<br/>ESPLANADE</label>
+      <label for="tab-9" class="lbML">ESPLANADE	<br/>ESPLANADE</label>
       <div class="tab-content">
        <h4>Esplanade- Teater di Persisiran</h4>
        <p>Sebagai pusat persembahan seni kebangsaan Singapura, Esplanade – Teater di Persisiran ingin memastikan setiap lapisan masyarakat berpeluang untuk menikmati karya seni.<br/>
@@ -224,7 +224,7 @@ Para pelajar juga berpeluang untuk mengetahui lebih lanjut mengenai beraneka ben
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
