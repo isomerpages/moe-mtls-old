@@ -1,6 +1,6 @@
 ---
 title: 'Synopsis1'
-permalink: /Exhibition/Malay-Sessions/Synopsis1/
+permalink: /Exhibition/Malay-Sessions/Synopsis/
 breadcrumb: 'Malay Sessions'
 collection_name: Sharing-Sessions
 third_nav_title: 'Malay Sessions'
