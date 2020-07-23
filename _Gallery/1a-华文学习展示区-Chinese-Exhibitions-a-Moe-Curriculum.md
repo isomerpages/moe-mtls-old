@@ -49,7 +49,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 </ul></p>
  </td></tr>
  <tr><td colspan="2"><img src="/images/Picture3.png"></td></tr>
-<tr><td colspan="2"><img src="/images/footerBanner.png"></td></tr>
+<tr><td colspan="2"><img src="/images/Picture4.png"></td></tr>
  <tr><td colspan="2">
  <p> <span style="color:#A52A2A;font-size:25px"> 小学华文课程 </span><br />
     《欢乐伙伴》的编写有哪些特点？
