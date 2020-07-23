@@ -34,6 +34,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
   <iframe src="https://www.youtube.com/embed/M5BPpRfkbO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td> 
   <td>
   <iframe src="https://www.youtube.com/embed/M5BPpRfkbO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </div>
  </tr>
  <tr><td colspan="2"><p>课程理念<br />
   <ul>
