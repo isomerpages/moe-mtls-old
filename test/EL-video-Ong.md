@@ -19,11 +19,11 @@ max-width:20%;
    <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
    </div>
-   <p> Minister Ong Ye Kung
+    <p> <strong> Minister Ong Ye Kung </strong>
   <br/> Ministry of Education<br/>
    Minister of Education</p>
 
-  <h4> Synposis</h4>
+  <h4> Synopsis</h4>
        
   <p>A/P Mukhlis Abu Bakar <br/>
 
