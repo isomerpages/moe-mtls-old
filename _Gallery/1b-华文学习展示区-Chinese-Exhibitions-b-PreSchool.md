@@ -43,7 +43,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1"><br/> MY World @ Simei</label>
+      <label for="tab-1" class="lbCh"><br/> MY World @ Simei</label>
      <div class="tab-content">
       <h3>故事天地——乐趣无穷的语言学习和价值传承</h3>
       <p>
@@ -62,7 +62,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">爱加倍实龙岗分校<br/> Agape Little Uni. @ Upper Serangoon</label>
+      <label for="tab-2" class="lbCh">爱加倍实龙岗分校<br/> Agape Little Uni. @ Upper Serangoon</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
