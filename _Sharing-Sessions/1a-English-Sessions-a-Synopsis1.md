@@ -63,6 +63,10 @@ td, th {
 height:auto;
 max-width:40%;
 }
+.column{
+  width:50%;
+  height:auto;
+}
 </style>
 </head>
   <body>  
