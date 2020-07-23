@@ -13,7 +13,7 @@ max-width:20%;
 </style>
 </head>
   <body>  
-  <a href="https://staging-moe-mtls.netlify.app/exhibition/malay-sessions/synopsis1/" style="float:right;">Back</a>
+  <a href="https://staging-moe-mtls.netlify.app/exhibition/malay-sessions/synopsis/" style="float:right;">Back</a>
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   <div class="column">
@@ -23,8 +23,7 @@ max-width:20%;
 <br/>Sembawang Primary School
 <br/> CPDD
 </p>
-  <h4> Profile of Speaker:
-</h4>  
+  <h4> Profile </h4>  
        <p>Puan Salina merupakan Pakar Kanan Bahasa Melayu di Unit Bahasa Melayu, Bahagian Perancangan dan Pembangunan Kurikulum (CPDD), Kementerian Pendidikan Singapura (MOE). Beliau mempunyai 20 tahun pengalaman mengajar Bahasa Melayu di sekolah. Sebagai pakar kanan, beliau terlibat dalam semakan kurikulum, perancangan dan mengetuai kumpulan kurikulum dalam pembinaan dan implementasi bahan pengajaran dan pembelajaran Bahasa Melayu. Puan Salina juga terlibat dalam latihan guru-guru sekolah rendah dan pakar rujuk Kurikulum Bahasa Melayu Sekolah Rendah. <br/>Puan Ganda merupakan guru yang mempunyai pengalaman mengajar di sekolah rendah dan sekolah menengah selama 13 tahun. Puan Ganda juga pernah berkhidmat sebagai Pegawai Pembangunan Kurikulum di Unit Bahasa Melayu, Bahagian Perancangan dan Pembangunan Kurikulum (CPDD) selama lima tahun. Kini, Puan Ganda bertugas sebagai Ketua Subjek Bahasa Ibunda di Sekolah Rendah Sembawang. Dalam bidang tugasnya sebagai guru dan pegawai kurikulum, Puan Ganda,  membina bahan-bahan pengajaran  dan strategi pengajaran dan  pembelajaran Bahasa Melayu.<br/>
         Mdm Salina, a Senior Specialist for Malay Language with the Ministry of Education (MOE),  has 20 years of experience in teaching Malay Language in schools. As a senior specialist, Mdm Salina is involved in the review and planning of the Malay Language curriculum and leads a teams of curriculum officers in the development and implementation of primary school instructional packages and supporting materials. She has also been involved in the training of primary school teachers and provides consultation for the Primary Malay Language Curriculum.<br/>Ms Ganda has over 13 years of experience in Malay Language teaching in primary and secondary schools. She  also served as a Curriculum Resource Development Officer with the Malay Language Unit, of the  Curriculum Planning and Development Division of MOE  for five years. Currently, she is   Subject Head of Mother Tongue Languages at Sembawang Primary School. In her capacity as a teacher and curriculum resource developer, she is dedicated towards the advancement of teaching resources,  and teaching and learning methods  for the Malay Language.
 </p>
