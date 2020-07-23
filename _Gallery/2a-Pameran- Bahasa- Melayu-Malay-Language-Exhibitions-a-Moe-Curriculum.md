@@ -10,20 +10,7 @@ third_nav_title: 'Pameran Bahasa Melayu Malay Language Exhibitions'
 <html>
 <body>
 <style>
-div.btntop {
- position:fixed;
- float:right;
- bottom:20px;
- right:80px;
- z-index:99;
- boder:none;
- background-color:#4169e1;
- cursor:pointer;
- padding:15px;
-  boder-radius:4px;
-  color:white;
-  font-weight:600;
-}
+
 </style>
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
 <div class="tab">
