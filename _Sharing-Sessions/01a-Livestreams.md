@@ -45,7 +45,7 @@ max-width:100%;
  <div class="column">
      <img src="images/cropped-person-icon-8-2.png" style="width:100%">
      <p style= "text-align:center">
-     <strong> Creating an Immersive Environment for the Learning of Our Mother Tongue Languages(EL) </strong><br/>
+    Creating an Immersive Environment for the Learning of Our Mother Tongue Languages  (EL) <br/>
      10:00am – 1:00am<br/>
  <a href="/test/video/">Link to video</a>
 </p>
@@ -61,7 +61,7 @@ max-width:100%;
   </div>
   <div class="column">
   <img src="images/cropped-person-icon-8-2.png" style="width:100%">
-    <p style= "text-align:center"> <strong>MdmAsinda </strong><br/>
+    <p style= "text-align:center"> <strong>Mdm Asinda </strong><br/>
      Senior Specialist, ETD, MOE <strong>(ML) </strong>
 <br/>
      12:30pm – 1:30pm<br/>
@@ -73,7 +73,7 @@ max-width:100%;
 <div class="row">
  <div class="column">
      <img src="images/cropped-person-icon-8-2.png" style="width:100%">
-     <p style= "text-align:center"> <strong>Ms ElakeyaaSelvaraji </strong> <br/>
+     <p style= "text-align:center"> <strong>Ms Elakeyaa Selvaraji </strong> <br/>
      Senior Manager, Ministry of Manpower
 <strong>(TL)</strong><br/>
      12:30pm – 1:30pm<br/>
@@ -91,7 +91,7 @@ max-width:100%;
   </div>
   <div class="column">
   <img src="images/cropped-person-icon-8-2.png" style="width:100%">
-    <p style= "text-align:center"> <strong> Mr HanimanBoniran </strong><br/>
+    <p style= "text-align:center"> <strong> Mr Haniman Boniran </strong><br/>
     Manager, Education Wildlife Reserves Singapore
 <strong> (ML) </strong><br/>
      2:00pm – 3:00pm<br/>
@@ -103,7 +103,7 @@ max-width:100%;
 <div class="row">
  <div class="column">
      <img src="images/cropped-person-icon-8-2.png" style="width:100%">
-     <p style= "text-align:center"> <strong> Ms Rani Kanna& Mr Anandha Kannan  </strong><br/>
+     <p style= "text-align:center"> <strong> Ms Rani Kanna & Mr Anandha Kannan  </strong><br/>
      AKT Creations <strong> (TL) </strong>
 <br/>
      2:00pm – 3:00pm<br/>
