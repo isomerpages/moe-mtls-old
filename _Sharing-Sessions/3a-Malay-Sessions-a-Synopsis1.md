@@ -93,7 +93,7 @@ max-width:40%;
 <br/>Senior Specialist, ETD
  </p>
    </div>
-     <h4> Profile: </h4>   
+     <h4> Profile</h4>   
        <p>Cikgu Asnida Daud mempunyai pengalaman lebih daripada 20 tahun dalam pengajaran Bahasa Melayu. Cikgu Asnida merupakan Pakar Kanan di cawangan Reka Bentuk Media untuk Pembelajaran pada tahun 2020. Sejak 2011, beliau menghasilkan dan menerbitkan video dan audio pendidikan dari peringkat prasekolah hingga prauniversiti. Sebagai Duta Bahasa, beliaumenyemarakkan cinta akan budaya dan bahasa Melayu dalam kalangan masyarakat umum. Kini, beliau meneroka bidang motivasi untuk mengekalkan minat pelajar dalam pembelajaran Bahasa Ibunda menerusi media kreatif.<br/>
 Mdm Asnida Daud has over 20 years of experience in Malay Language teaching. She is currently the Senior Specialist at Media Design for Learning in 2020. She has designed and produced educational videos and audio productions from pre-school to the pre-university level. as a Malay Language Ambassador, she continues to advocate and impart  love for the Malay language and culture at community and national level. She is currently exploring a new interest in using  creative media to motivate and  sustain learners’ interest in learning MTL.
 </p>
@@ -126,7 +126,7 @@ Mdm Asnida Daud has over 20 years of experience in Malay Language teaching. She 
 <br/>
 Manager, Education</p>
  </div>
-       <h4> Profile of Speaker:</h4>   
+       <h4> Profile</h4>   
        <p>Encik Haniman Boniran ialah Pengurus Pendidikan di Wildlife Reserves Singapore (WRS). Minat beliau dalam pendidikan alam berputik semasa menjadi sukarelawan di Taman Haiwan Singapura pada tahun 2001. Sejak sedekad yang lalu, beliau menceburi bidang pendidikan yang merangkumi pendidikan awal kanak-kanak, pendidikan bahasa Melayu dan pengendalian bengkel bahasa Melayu untuk guru prasekolah sebagai sebahagian daripada pembelajaran pengalaman autentik yang ditawarkan di WRS. Beliau juga bekerjasama dengan para pendidik untuk menghasilkan strategi-strategi pengajaran yangbaik bagi memperkukuh penggunaan bahasa Melayu dalam kalangan masyarakat muda Singapura. Encik Haniman yang gemar berinteraksi bersama ibu bapa dan masyarakat juga telah diiktiraf sebagai seorang pendidik bagi orang dewasa oleh Institut Pembelajaran Dewasa (IAL).<br/>Mr Haniman Boniran is an Education Manager with Wildlife Reserves Singapore (WRS). He is a certified Institute of Adult Learning adult educator who enjoys interacting with parents and partners from the community.  <br/>
 His involvement in environmental education started when he was a school volunteer at the Singapore Zoo in 2001.  Over the last decade, he has branched into early childhood education, language-based education and teacher training through developingthe  authentic learning experiences offered at WRS. Mr Haniman has conducted workshops, co-created resources and organised in-park educational programmes for teachers and students while partnering with schools and language-based practitioners.
 </p>
@@ -159,7 +159,7 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
 <br/> Special Education Needs Division Ltd
     <br/>Associate Professor</p>
    </div>
-   <h4> Profile of Speaker: </h4>  
+   <h4> Profile </h4>  
        <p>Profesor Madya (A/P) Mariam Aljunied bertugas sebagai Pengetua Ahli Psikologi Pendidikan di Cawangan Pendidikan Keperluan Khas, Kementerian Pendidikan (MOE). Di samping tugas beliau di MOE, A/P Mariam juga merupakan Profesor Madya di Jabatan Psikologi, Universiti National Singapura dan Pengkaji Bersekutu di Jabatan Sains Bahasa dan Psikologi di Universiti Kolej London (UK). Dengan pengalaman lebih dari 25 tahun sebagai ahli psikologi pendidikan bertauliah, beliau mempunyai kepakaran yang mendalam dalam bidang perkembangan kanak-kanak. Beliau telah menerajui beberapa kajian penting di peringkat nasional dalam bidang ini. A/P Mariam juga aktif dalam usaha-usaha membina kepakaran para pendidik, ahli psikologi dan ibu bapa dalam bidang psikologi kanak-kanak dan pendidikan khas.
 <br/>Associate Professor Mariam Aljunied is the Principal Educational Psychologist in MOE. Concurrently, she is an adjunct associate professor at the Department of Psychology in NUS, and Research Associate with University College London’s Department of Psychology and Language Sciences. With more than 25 years as a Chartered Educational Psychologist, A/P Mariam has deep expertise and is experienced in many aspects of child development. She has led several important research studies in the areas of educational and child development, and is also actively involved in efforts to build the capacity of educators, psychologists and parents in the areas of child psychology and special education.</p>
   <h4> Synposis</h4>  
@@ -192,8 +192,7 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
 <br/> CPDD
 </p>
    </div>
-  <h4> Profile of Speaker:
-</h4>  
+  <h4> Profile </h4>  
        <p>Puan Salina merupakan Pakar Kanan Bahasa Melayu di Unit Bahasa Melayu, Bahagian Perancangan dan Pembangunan Kurikulum (CPDD), Kementerian Pendidikan Singapura (MOE). Beliau mempunyai 20 tahun pengalaman mengajar Bahasa Melayu di sekolah. Sebagai pakar kanan, beliau terlibat dalam semakan kurikulum, perancangan dan mengetuai kumpulan kurikulum dalam pembinaan dan implementasi bahan pengajaran dan pembelajaran Bahasa Melayu. Puan Salina juga terlibat dalam latihan guru-guru sekolah rendah dan pakar rujuk Kurikulum Bahasa Melayu Sekolah Rendah. <br/>Puan Ganda merupakan guru yang mempunyai pengalaman mengajar di sekolah rendah dan sekolah menengah selama 13 tahun. Puan Ganda juga pernah berkhidmat sebagai Pegawai Pembangunan Kurikulum di Unit Bahasa Melayu, Bahagian Perancangan dan Pembangunan Kurikulum (CPDD) selama lima tahun. Kini, Puan Ganda bertugas sebagai Ketua Subjek Bahasa Ibunda di Sekolah Rendah Sembawang. Dalam bidang tugasnya sebagai guru dan pegawai kurikulum, Puan Ganda,  membina bahan-bahan pengajaran  dan strategi pengajaran dan  pembelajaran Bahasa Melayu.<br/>
         Mdm Salina, a Senior Specialist for Malay Language with the Ministry of Education (MOE),  has 20 years of experience in teaching Malay Language in schools. As a senior specialist, Mdm Salina is involved in the review and planning of the Malay Language curriculum and leads a teams of curriculum officers in the development and implementation of primary school instructional packages and supporting materials. She has also been involved in the training of primary school teachers and provides consultation for the Primary Malay Language Curriculum.<br/>Ms Ganda has over 13 years of experience in Malay Language teaching in primary and secondary schools. She  also served as a Curriculum Resource Development Officer with the Malay Language Unit, of the  Curriculum Planning and Development Division of MOE  for five years. Currently, she is   Subject Head of Mother Tongue Languages at Sembawang Primary School. In her capacity as a teacher and curriculum resource developer, she is dedicated towards the advancement of teaching resources,  and teaching and learning methods  for the Malay Language.
 </p>
@@ -225,7 +224,7 @@ Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal b
 <br/> Singapore Sports School
 </p>
    </div>
-  <h4> Profile of Speaker:</h4>  
+  <h4> Profile</h4>  
        <p>Cikgu Hazliana ialah guru sepenuh masa dan ibu kepada tiga orang anak. Nalurinya sebagai seorang pendidik dengan pengalaman lebih daripada satu dekad telah mendorongnya untuk membantu keluarga muda membina budaya celik literasi di rumah. Melalui akaun Instagram happyintheeast, Cikgu Hazliana berkongsi minatnya dalam perkembangan bahasa dan sastera kanak-kanak. Beliau berkongsi idea-idea pembelajaran di rumah dan mencadangkan buku-buku menarik yang boleh dibaca sama  ibu bapa dengan anak-anak mereka. Ibu bapa merupakan guru pertama kepada anak-anak mereka. Oleh itu, Cikgu Hazliana berpendapat bahawa ibu bapa memainkan peranan yang proaktif dalam perkembangan pendidikan anak-anak mereka. <br/> 
        Mdm Hazliana is a full time working mother to three young children. An educator at heart, with more than a decade worth of teaching experience, her passion to teach transcends the classroom as she strives to help other young families create a literacy rich environment at home. Known to the Instagram community as happyintheeast, she shares her interest in children’s literature and early language development with her followers worldwide through book recommendations, and various practical home-based learning ideas. Mdm Hazliana believes that parents, who are the first teachers to their children, play a crucial role in a child learning process.
 </p>
