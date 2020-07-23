@@ -29,12 +29,12 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
   2015年开始实施的这套华文教材定名为《欢乐伙伴》，是希望它能成为孩子们的学习良伴，也希望孩子们在学习的过程中互相协助、共同进步，成为彼此快乐学习的好伙伴。
 </p></td></tr>
  <tr>
-  <div class="video-container">
+  <p>
    <td> 
   <iframe src="https://www.youtube.com/embed/M5BPpRfkbO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td> 
   <td>
   <iframe src="https://www.youtube.com/embed/M5BPpRfkbO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-  </div>
+  </p>
  </tr>
  <tr><td colspan="2"><p>课程理念<br />
   <ul>
