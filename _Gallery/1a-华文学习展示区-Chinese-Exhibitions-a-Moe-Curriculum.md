@@ -39,7 +39,8 @@ div.btntop {
  <p>This is the content for Pri.</p><br/>
 <table>
 <tr><td colspan="2"><img src="/images/footerBanner.png"></td></tr>
-<tr><td colspan="2"><p>Text in Slide 2</p></td></tr>
+<tr><td colspan="2"><p>小学华文课程<br />2015年开始实施的这套华文教材定名为《欢乐伙伴》，是希望它能成为孩子们的学习良伴，也希望孩子们在学习的过程中互相协助、共同进步，成为彼此快乐学习的好伙伴。
+</p></td></tr>
  <tr><td>Vidoe 01</td> <td>Vidoe 01</td></tr>
  <tr><td colspan="2"><p>Text in Slide 3</p></td></tr>
  <tr><td colspan="2"><img src="/images/footerBanner.png"></td></tr>
