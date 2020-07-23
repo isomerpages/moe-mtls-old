@@ -10,20 +10,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 <html>
 <body>
 <style>
-div.btntop {
- position:fixed;
- float:right;
- bottom:20px;
- right:80px;
- z-index:99;
- boder:none;
- background-color:#4169e1;
- cursor:pointer;
- padding:15px;
-  boder-radius:4px;
-  color:white;
-  font-weight:600;
-}
+
  .tab img{
    width: 50%;
  }
