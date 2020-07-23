@@ -38,7 +38,7 @@ div.btntop {
 <div id="Pri" style="display:block;">
 <table>
 <tr><td colspan="2"><img src="/images/footerBanner.png"></td></tr>
-<tr><td colspan="2"><p>小学华文课程<br />2015年开始实施的这套华文教材定名为《欢乐伙伴》，是希望它能成为孩子们的学习良伴，也希望孩子们在学习的过程中互相协助、共同进步，成为彼此快乐学习的好伙伴。
+ <tr><td colspan="2"><h4><span style="color: #ff9900">小学华文课程 </h4><p>2015年开始实施的这套华文教材定名为《欢乐伙伴》，是希望它能成为孩子们的学习良伴，也希望孩子们在学习的过程中互相协助、共同进步，成为彼此快乐学习的好伙伴。
 </p></td></tr>
  <tr><td><a href="/test/video/"></a>video1</td> 
   <td><a href="/test/video/"></a>video2</td>
