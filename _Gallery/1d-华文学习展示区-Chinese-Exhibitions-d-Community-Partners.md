@@ -44,7 +44,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1">	推广华文学习委员会<br/>Committee to Promote Chinese Language Learning</label>
+      <label for="tab-1" class="lbCh">	推广华文学习委员会<br/>Committee to Promote Chinese Language Learning</label>
       <div class="tab-content">
       <h3>故事天地——乐趣无穷的语言学习和价值传承</h3>
       <p>
@@ -60,14 +60,14 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-<a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+<a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">滨海艺术中心<br/>Esplanade – Theatres on the Bay</label>
+      <label for="tab-2" class="lbCh">滨海艺术中心<br/>Esplanade – Theatres on the Bay</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -76,15 +76,15 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
 
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">李光耀双语基金<br/>Lee Kuan Yew Fund for Bilingualism</label>
+      <input id="tab-3" type="checkbox" name="tab">
+      <label for="tab-3"class="lbCh">李光耀双语基金<br/>Lee Kuan Yew Fund for Bilingualism</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -93,14 +93,14 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">国家文物局<br/>National Heritage Board</label>
+      <input id="tab-4" type="checkbox" name="tab">
+      <label for="tab-4" class="lbCh">国家文物局<br/>National Heritage Board</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -109,14 +109,14 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">国立教育学院（亚洲语言文化学部）<br/>National Institute of Education (Asian Languages and Cultures Academic Group)</label>
+      <input id="tab-5" type="checkbox" name="tab">
+      <label for="tab-5" class="lbCh">国立教育学院（亚洲语言文化学部）<br/>National Institute of Education (Asian Languages and Cultures Academic Group)</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -125,14 +125,14 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">国家图书馆管理局<br/>National Library Board</label>
+      <input id="tab-6" type="checkbox" name="tab">
+      <label for="tab-6" class="lbCh">国家图书馆管理局<br/>National Library Board</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -141,14 +141,14 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">新加坡华文教研中心<br/>Singapore Centre for Chinese Language</label>
+      <input id="tab-6" type="checkbox" name="tab">
+      <label for="tab-6" class="lbCh">新加坡华文教研中心<br/>Singapore Centre for Chinese Language</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -157,14 +157,14 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">新加坡宗乡会馆联合总会<br/>Singapore Federation of Chinese Clan Associations   </label>
+      <input id="tab-7" type="checkbox" name="tab">
+      <label for="tab-7" class="lbCh">新加坡宗乡会馆联合总会<br/>Singapore Federation of Chinese Clan Associations   </label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -173,14 +173,14 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">新加坡野生动物保育集团<br/>Wildlife Reserves Singapore  </label>
+      <input id="tab-8" type="checkbox" name="tab">
+      <label for="tab-8" class="lbCh">新加坡野生动物保育集团<br/>Wildlife Reserves Singapore  </label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -189,14 +189,14 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">早报校园<br/>ZB Schools</label>
+      <input id="tab-9" type="checkbox" name="tab">
+      <label for="tab-9" class="lbCh">早报校园<br/>ZB Schools</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -205,7 +205,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl">Click here</div></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
 </table>
