@@ -74,7 +74,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbTM">Story: A key to language learning [12.30pm – 1.30pm] <br/>Ms Elakeyaa Selvaraji
+      <label for="tab-1" class="lbTM">Story: A key to language learning <br/> [12.30pm – 1.30pm] <br/>Ms Elakeyaa Selvaraji
 </label>
       <div class="tab-content">
       <br/>
@@ -112,7 +112,7 @@ max-width:40%;
 </p>
    </div>
   <h4> Synopsis</h4>  
-       <p>Synopsis:Storytelling is a powerful medium to stimulate imagination in kids.  We all know that imagination plays a great role in enhancing a child’s creativity, fosters more confidence along with better communication and speaking skills. Engaging the children with a story is one of the most powerful means to influence and inspire the young minds. An effective storytelling can involve a deeper understanding of the human emotions and compassion, opening up to new ideas and free thinking. When we expose the children to a creative artistic environment through speech and drama, we are generating a stimulus for also developing their love for language and introducing new ideas into their small world.  The whole activity can be made fun and enjoyable through the right techniques of storytelling, interactivity and innovation. Let us make the mundane narratives more interesting for children.
+       <p>Storytelling is a powerful medium to stimulate imagination in kids.  We all know that imagination plays a great role in enhancing a child’s creativity, fosters more confidence along with better communication and speaking skills. Engaging the children with a story is one of the most powerful means to influence and inspire the young minds. An effective storytelling can involve a deeper understanding of the human emotions and compassion, opening up to new ideas and free thinking. When we expose the children to a creative artistic environment through speech and drama, we are generating a stimulus for also developing their love for language and introducing new ideas into their small world.  The whole activity can be made fun and enjoyable through the right techniques of storytelling, interactivity and innovation. Let us make the mundane narratives more interesting for children.
 </p>
 </div></div>
 </td>
