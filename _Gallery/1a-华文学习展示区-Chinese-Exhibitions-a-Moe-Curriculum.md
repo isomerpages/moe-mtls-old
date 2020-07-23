@@ -25,7 +25,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 <div id="Pri" style="display:block;">
 <table>
 <tr><td colspan="2"><img src="/images/footerBanner.png"></td></tr>
- <tr><td colspan="2"><p><span style="color:#A52A2A;font-size:20px"> 小学华文课程 </span><br/>
+ <tr><td colspan="2"><p><span style="color:#A52A2A;font-size:25px"> 小学华文课程 </span><br/>
   2015年开始实施的这套华文教材定名为《欢乐伙伴》，是希望它能成为孩子们的学习良伴，也希望孩子们在学习的过程中互相协助、共同进步，成为彼此快乐学习的好伙伴。
 </p></td></tr>
  <tr>
@@ -36,7 +36,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
   <iframe src="https://www.youtube.com/embed/M5BPpRfkbO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
   </p>
  </tr>
- <tr><td colspan="2"><p>课程理念<br />
+ <tr><td colspan="2"><p><span style="color:#A52A2A;font-size:25px">课程理念 </span><br />
   <ul>
   <li>重视语言技能，实现有效沟通</li>
   <li>注重实用价值，实现乐学善用</li>
@@ -51,7 +51,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
  <tr><td colspan="2"><img src="/images/footerBanner.png"></td></tr>
 <tr><td colspan="2"><img src="/images/footerBanner.png"></td></tr>
  <tr><td colspan="2">
-    <p> 小学华文课程<br />
+ <p> <span style="color:#A52A2A;font-size:25px"> 小学华文课程 </span><br />
     《欢乐伙伴》的编写有哪些特点？
     <ol>
      <li>每课一个主题</li>
@@ -63,8 +63,8 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
  <tr><td>数码资源介绍<br/>利用新加坡学生学习平台(SLS)及乐学善用互动平台(iMTL)进行自主和协作学习。</td> <td>SLS Image (slide 8)<br/> iMTL Image (Slide 8)</td></tr>
  <tr><td colspan="2"><img src="/images/footerBanner.png"></td></tr>
  <tr><td colspan="2">
- <p>如何协助孩子学习
-    家长在孩子的学习过程中扮演着非常重要的角色：
+ <p> <span style="color:#A52A2A;font-size:25px"> 如何协助孩子学习</span>
+    <br/>家长在孩子的学习过程中扮演着非常重要的角色：
     <ul>
      <li>为了让家长清楚孩子在华文课上学了些什么，课本中的“我会说”、“我会认”与“我会写” 列出了每一课的学习内容，以便家长可协助孩子学习。</li>
      <li>为了让孩子把课堂所学运用到生活中，课本也设置了“生活运用”这个板块。通过一些小活动和小任务，让家长与孩子一起交流、分享，帮助孩子巩固所学，感受语言的实用价值。</li>
