@@ -28,7 +28,7 @@ td, th {
  right:80px;
  z-index:99;
  boder:none;
- background-color:#4169e1;
+ background-color:#d14165;
  cursor:pointer;
  padding:15px;
   boder-radius:4px;
