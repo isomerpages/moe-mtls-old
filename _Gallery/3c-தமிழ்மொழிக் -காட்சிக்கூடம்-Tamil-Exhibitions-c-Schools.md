@@ -43,7 +43,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1">ஃபூஹுவா தொடக்கப்பள்ளி<br/>Fuhua Primary School</label>
+      <label for="tab-1" class="lbTM">ஃபூஹுவா தொடக்கப்பள்ளி<br/>Fuhua Primary School</label>
       <div class="tab-content">
       <h3>கதைகளின் உலகம் – மகிழ்வூட்டும் மொழி கற்றலும்  விழுமியங்கள் கற்பித்தலும் </h3>
       <p>
@@ -58,14 +58,14 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-<a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
+<a href="/test/Chinese-poster/"><div ><img alt="Click here" src="/images/arrowTamil.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">N4 குழுமம் (தொடக்கப்பள்ளிகள்)<br/>N4 Cluster</label>
+      <label for="tab-2" class="lbTM">N4 குழுமம் (தொடக்கப்பள்ளிகள்)<br/>N4 Cluster</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -74,14 +74,14 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
+ <a href="/test/Chinese-poster/"><div ><img alt="Click here" src="/images/arrowTamil.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">மார்சிலிங் உயர்நிலைப்பள்ளி<br/>Marsiling Secondary School</label>
+      <input id="tab-3" type="checkbox" name="tab">
+      <label for="tab-3">மார்சிலிங் உயர்நிலைப்பள்ளி<br/>Marsiling Secondary School</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -90,14 +90,14 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
+ <a href="/test/Chinese-poster/"><div ><img alt="Click here" src="/images/arrowTamil.png"></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">	ஊட்லண்ட்ஸ் உயர்நிலைப்பள்ளி<br/>Woodlands Secondary School</label>
+      <input id="tab-4" type="checkbox" name="tab">
+      <label for="tab-4" class="lbTM">	ஊட்லண்ட்ஸ் உயர்நிலைப்பள்ளி<br/>Woodlands Secondary School</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -106,7 +106,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
+ <a href="/test/Chinese-poster/"><div ><img alt="Click here" src="/images/arrowTamil.png"></a>
 </td>
 </tr>
 </table>
