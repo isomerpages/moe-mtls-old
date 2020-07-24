@@ -43,7 +43,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1">கல்விஅமைச்சின்பாலர்பள்ளி (ஃபேரர்பார்க்)<br/>MK@Farrer Park</label>
+      <label for="tab-1"  class="lbTM">கல்விஅமைச்சின்பாலர்பள்ளி (ஃபேரர்பார்க்)<br/>MK@Farrer Park</label>
       <div class="tab-content">
       <h3>கதைகளின் உலகம் – மகிழ்வூட்டும் மொழி கற்றலும்  விழுமியங்கள் கற்பித்தலும் </h3>
       <p>
@@ -58,14 +58,14 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-<a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
+<a href="/test/Chinese-poster/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">கல்விஅமைச்சின்பாலர்பள்ளி (வோட்டர்வே)<br/>MK@Waterway</label>
+      <label for="tab-2"  class="lbTM">கல்விஅமைச்சின்பாலர்பள்ளி (வோட்டர்வே)<br/>MK@Waterway</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -74,14 +74,14 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
+ <a href="/test/Chinese-poster/"><div ><img alt="Click here" src="/images/arrowTamil.png">></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">	ராமகிருஷ்ணா மிஷன் சாரதா பாலர் பள்ளி<br/>Ramakrishna Mission Sarada Kindergarten</label>
+      <input id="tab-3" type="checkbox" name="tab">
+      <label for="tab-3"  class="lbTM">	ராமகிருஷ்ணா மிஷன் சாரதா பாலர் பள்ளி<br/>Ramakrishna Mission Sarada Kindergarten</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -90,7 +90,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
+ <a href="/test/Chinese-poster/"><div ><img alt="Click here" src="/images/arrowTamil.png"></a>
 </td>
 </tr>
 </table>
