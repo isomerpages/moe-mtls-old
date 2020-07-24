@@ -58,7 +58,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-<a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></div></a>
+<a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></a>
 </td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png">></a>
+ <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></a>
 </td>
 </tr>
 <tr>
