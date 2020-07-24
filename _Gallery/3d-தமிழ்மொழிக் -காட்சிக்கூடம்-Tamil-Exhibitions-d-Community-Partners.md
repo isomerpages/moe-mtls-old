@@ -43,7 +43,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1">	இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி <br/>Lee Kuan Yew Fund for Bilingualism</label>
+      <label for="tab-1" class="lbTM">	இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி <br/>Lee Kuan Yew Fund for Bilingualism</label>
       <div class="tab-content">
       <h3>கதைகளின் உலகம் – மகிழ்வூட்டும் மொழி கற்றலும்  விழுமியங்கள் கற்பித்தலும் </h3>
       <p>
@@ -58,14 +58,14 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
-<a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
+<a href="/test/Chinese-poster/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2">N4 குழுமம் (தொடக்கப்பள்ளிகள்)<br/>N4 Cluster</label>
+      <label for="tab-2" class="lbTM">N4 குழுமம் (தொடக்கப்பள்ளிகள்)<br/>N4 Cluster</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -74,14 +74,14 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
+ <a href="/test/Chinese-poster/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3">தேசிய மரபுடைமைக் கழகம்<br/>National Heritage Board</label>
+      <label for="tab-3" class="lbTM">தேசிய மரபுடைமைக் கழகம்<br/>National Heritage Board</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -90,14 +90,14 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
+ <a href="/test/Chinese-poster/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4">தேசியக் கல்விக்கழகத்தின்  ஆசிய மொழிகள் மற்றும் பண்பாட்டுகள் துறை <br/>National Institute of Education (Asian Languages and Cultures Academic Group)</label>
+      <label for="tab-4" class="lbTM">தேசியக் கல்விக்கழகத்தின்  ஆசிய மொழிகள் மற்றும் பண்பாட்டுகள் துறை <br/>National Institute of Education (Asian Languages and Cultures Academic Group)</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -106,14 +106,14 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
+ <a href="/test/Chinese-poster/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5">	தேசிய நூலக வாரியம்<br/>National Library Board</label>
+      <label for="tab-5" class="lbTM">	தேசிய நூலக வாரியம்<br/>National Library Board</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -122,14 +122,14 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
+ <a href="/test/Chinese-poster/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
-      <label for="tab-6">சிங்கப்பூர் பிரஸ் ஹோல்டிங்ஸ்(தமிழ் முரசு-மாணவர்முரசு, இளையர்முரசு, பாலர்முரசு) <br/>Tamil Murasu–Maanavar Murasu, Illayar Murasu, Balar Murasu</label>
+      <label for="tab-6" class="lbTM">சிங்கப்பூர் பிரஸ் ஹோல்டிங்ஸ்(தமிழ் முரசு-மாணவர்முரசு, இளையர்முரசு, பாலர்முரசு) <br/>Tamil Murasu–Maanavar Murasu, Illayar Murasu, Balar Murasu</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -138,14 +138,14 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
+ <a href="/test/Chinese-poster/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
-      <label for="tab-7">தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு <br/>The Tamil Language Learning and Promotion Committee</label>
+      <label for="tab-7" class="lbTM">தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு <br/>The Tamil Language Learning and Promotion Committee</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -154,14 +154,14 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
+ <a href="/test/Chinese-poster/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
-      <label for="tab-8">	உமறுப்புலவர் தமிழ்மொழி நிலையம்<br/>Umar Pulavar Tamil Language Centre</label>
+      <label for="tab-8" class="lbTM">	உமறுப்புலவர் தமிழ்மொழி நிலையம்<br/>Umar Pulavar Tamil Language Centre</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -170,14 +170,14 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
+ <a href="/test/Chinese-poster/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-9" type="checkbox" name="tab">
-      <label for="tab-9">சிங்கப்பூர் வனவிலங்கு பாதுகாப்புப்பகுதிகள்<br/>Wildlife Reserves Singapore</label>
+      <label for="tab-9" class="lbTM">சிங்கப்பூர் வனவிலங்கு பாதுகாப்புப்பகுதிகள்<br/>Wildlife Reserves Singapore</label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
@@ -186,7 +186,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><div class="hl"><span style="font-size:12px">கிளிக் செய்யுங்கள்</span></div></a>
+ <a href="/test/Chinese-poster/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
 </tr>
 </table>
