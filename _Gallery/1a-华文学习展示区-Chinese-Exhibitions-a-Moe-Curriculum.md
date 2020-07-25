@@ -50,7 +50,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
   </p>
  </tr>
  <tr><td colspan="2"><p><span style="color:#A52A2A;font-size:25px">课程理念 </span><br />
- <img src="/images/CL-Primary-Curriculum-Philosophy.PNG"></td> 
+ <img src="/images/CL-Primary-Curriculum-Philosophy.PNG">
   <ul>
   <li>重视语言技能，实现有效沟通</li>
   <li>注重实用价值，实现乐学善用</li>
