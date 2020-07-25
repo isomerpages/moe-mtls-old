@@ -59,7 +59,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
  <tr><td colspan="2">
  <p> <span style="color:#d14165;font-size:25px"> 小学华文课程 </span><br />
   <img src="/images/CL-Primary-Curriculum-Textbook.PNG">
-  <p><a href="/whats-up/FY2017-FS.pdf" target="_blank">《欢乐伙伴》家长指南英文版</a></p>
+  <p><a href="/_Gallery/EL-textbook-CLPG2016.pdf" target="_blank">《欢乐伙伴》家长指南英文版</a></p>
   <p><a href="/_Gallery/CL-textbook-CLPG2016.pdf" target="_blank">《欢乐伙伴》家长指南中文版</a></p>
  </p></td>
  
