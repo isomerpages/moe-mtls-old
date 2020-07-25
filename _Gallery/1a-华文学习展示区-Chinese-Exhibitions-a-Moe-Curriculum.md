@@ -51,19 +51,11 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
  </tr>
  <tr><td colspan="2"><p><span style="color:#A52A2A;font-size:25px">课程理念 </span><br />
  <img src="/images/CL-Primary-Curriculum-Philosophy.PNG">
-  <ul>
-  <li>重视语言技能，实现有效沟通</li>
-  <li>注重实用价值，实现乐学善用</li>
-  <li>遵循学习规律，符合认知发展</li>
-   <li>照顾个别差异，发掘学生潜能</li>
-  <li>培养情意品德，传承华族文化</li>
-  <li>促进思维发展，培养自学能力</li>
-  <li>结合资讯科技，增进学习效益</li>
-  <li>关注学习过程，落实有效评价</li>
-</ul></p>
+ </p>
  </td></tr>
- <tr><td colspan="2"><img src="/images/Picture3.png"></td></tr>
-<tr><td colspan="2"><img src="/images/Picture4.png"></td></tr>
+ <tr><td colspan="2"><p><span style="color:#A52A2A;font-size:25px">课程目标与架构 </span><br />
+ <tr><td colspan="2"><img src="/images/Picture3.png">
+ <img src="/images/Picture4.png"></td></tr>
  <tr><td>
  <p> <span style="color:#A52A2A;font-size:25px"> 小学华文课程 </span><br />
     《欢乐伙伴》的编写有哪些特点？
