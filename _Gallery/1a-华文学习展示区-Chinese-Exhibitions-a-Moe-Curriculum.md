@@ -70,7 +70,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
  
  <tr><td colspan="2"><span style="color:#A52A2A;font-size:25px">数码资源介绍 </span><br/>
  <img src="/images/CL-Primary-Curriculum-OnlineResources.PNG"></td></tr>
- <tr><td colspan="2"><img src="/images/Picture2.png"><a href="https://www.mtl.moe.edu.sg/xuele/MOE_web/main.html">欢乐小伙伴数码资源</a>
+ <tr><td colspan="2"><img src="/images/Picture2.png">请点击<a href="https://www.mtl.moe.edu.sg/xuele/MOE_web/main.html">这里</a>进入欢乐小伙伴数码资源
 </td></tr>
  <tr><td colspan="2">
  <p> <span style="color:#A52A2A;font-size:25px"> 如何协助孩子学习</span>
