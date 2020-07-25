@@ -69,7 +69,8 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
  </p></td>
  
  <tr><td><span style="color:#A52A2A;font-size:25px">数码资源介绍 </span><br/>利用新加坡学生学习平台(SLS)及乐学善用互动平台(iMTL)进行自主和协作学习。</td> <td><img src="/images/Slid8-1.png"><br/> <img src="/images/slide8-2.png"></td></tr>
- <tr><td colspan="2"><img src="/images/Picture2.png"></td></tr>
+ <tr><td colspan="2"><img src="/images/Picture2.png">https://www.mtl.moe.edu.sg/xuele/MOE_web/main.html
+</td></tr>
  <tr><td colspan="2">
  <p> <span style="color:#A52A2A;font-size:25px"> 如何协助孩子学习</span>
     <br/>家长在孩子的学习过程中扮演着非常重要的角色：
