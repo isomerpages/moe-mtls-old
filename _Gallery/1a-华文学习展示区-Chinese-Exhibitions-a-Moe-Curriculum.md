@@ -68,9 +68,9 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
     孩子在“听说剧场”学习口语表达和口语交际，积累词语；在“读写乐园” 利用文本学习字、词、句与阅读技能。孩子在学习的过程中，通过已知带出未知，循序渐进，这样分散了学习难点，使他们能有效地掌握所学内容。
  </p></td>
  
- <tr><td colspan="2"><span style="color:#A52A2A;font-size:25px">数码资源介绍 </span><br/>利用新加坡学生学习平台(SLS)及乐学善用互动平台(iMTL)进行自主和协作学习。<br/> 
+ <tr><td colspan="2"><span style="color:#A52A2A;font-size:25px">数码资源介绍 </span><br/>
  <img src="/images/CL-Primary-Curriculum-OnlineResources.PNG"></td></tr>
- <tr><td colspan="2"><img src="/images/Picture2.png">https://www.mtl.moe.edu.sg/xuele/MOE_web/main.html
+ <tr><td colspan="2"><img src="/images/Picture2.png"><a href="https://www.mtl.moe.edu.sg/xuele/MOE_web/main.html">欢乐小伙伴数码资源</a>
 </td></tr>
  <tr><td colspan="2">
  <p> <span style="color:#A52A2A;font-size:25px"> 如何协助孩子学习</span>
