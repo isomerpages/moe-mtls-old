@@ -58,7 +58,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
  <img src="/images/Picture4.png">
  <tr><td colspan="2">
  <p> <span style="color:#A52A2A;font-size:25px"> 小学华文课程 </span><br />
-  <img src="/images/CL-Primary-Curriculum-Textbook.PNG"></td></tr>
+  <img src="/images/CL-Primary-Curriculum-Textbook.PNG">
     《欢乐伙伴》的编写有哪些特点？
     <ol>
      <li>每课一个主题</li>
@@ -67,9 +67,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
     </ol>
     孩子在“听说剧场”学习口语表达和口语交际，积累词语；在“读写乐园” 利用文本学习字、词、句与阅读技能。孩子在学习的过程中，通过已知带出未知，循序渐进，这样分散了学习难点，使他们能有效地掌握所学内容。
  </p></td>
- <td><img src="/images/Picture6.png" style="margin-bottom :-100px; width:200px; margin-left:-2px;">
- <img src="/images/Picture7.png" style="margin-top:-230px; width:200px; margin-right:1px;" >
-</td></tr>
+ 
  <tr><td><span style="color:#A52A2A;font-size:25px">数码资源介绍 </span><br/>利用新加坡学生学习平台(SLS)及乐学善用互动平台(iMTL)进行自主和协作学习。</td> <td><img src="/images/Slid8-1.png"><br/> <img src="/images/slide8-2.png"></td></tr>
  <tr><td colspan="2"><img src="/images/Picture2.png"></td></tr>
  <tr><td colspan="2">
