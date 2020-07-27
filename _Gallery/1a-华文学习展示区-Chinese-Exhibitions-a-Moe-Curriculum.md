@@ -29,7 +29,13 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
   <a href="#Pri"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">小学</div></a>
   <a href="#Sec"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">中学</div></a>
   <a href="#PreU"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">大学先修班</div></a><br/>
-
+<table id="Sch">
+<tr>
+<td>
+This is the context for School page.
+</td>
+</tr>
+</table>
 <table id="Pri">
 <tr><td colspan="2"><img src="/images/CL-Primary-Header.JPG"></td></tr>
  <tr><td colspan="2"><p><span style="color:#d14165;font-size:35px; font-family:Calibri (Body)"> 小学华文课程 </span><br/>
