@@ -59,7 +59,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
  <img src="/images/Picture4.png">
  <tr><td colspan="2">
   <img src="/images/CL-Primary-Curriculum-Textbook.PNG">
- </p></td>
+ </td>
  
  <tr><td colspan="2"><span style="color:#d14165;font-size:35px">数码资源介绍 </span><br/>
  <span style="color:#d14165;font-size:15px">数码资源提供了多种有趣的活动，让孩子复习与巩固所学，培养孩子自主学习的能力。</span> <br/>
