@@ -17,7 +17,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
   </style>
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
 <div class="tab">
-  <a href="#Prech"><div style="display:inline-block;" class="btnClass">学前教育</div></a>
+  <a href="#Prech"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass";>学前教育</div></a>
   <a href="#Pri"><div style="display:inline-block;" class="btnClass">小学</div></a>
   <a href="#Sec"><div style="display:inline-block;" class="btnClass">中学</div></a>
   <a href="#PreU"><div style="display:inline-block;" class="btnClass">大学先修班</div></a><br/>
