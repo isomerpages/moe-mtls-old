@@ -85,6 +85,22 @@ This is the context for School page.
  </p></td></tr>
  <tr><td colspan="2"><img style="width:100%" src="/images/footerBanner.png"></td></tr>
 </table>
+
+<table id="Sec">
+<tr>
+<td>
+This is the context for Sec page.
+</td>
+</tr>
+</table>
+
+<table id="PreU">
+<tr>
+<td>
+This is the context for PreU page.
+</td>
+</tr>
+</table>
 </div>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
 </div>
