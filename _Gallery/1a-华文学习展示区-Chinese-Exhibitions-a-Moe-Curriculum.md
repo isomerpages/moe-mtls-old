@@ -75,9 +75,9 @@ This is the context for School page.
 <table id="Pri">
 <tr><td colspan="2"><img src="/images/CL-Primary-Header.JPG"></td></tr>
 <tr><td colspan="2"><p><span style="color:#d14165;font-size:35px; font-family:Calibri (Body)"> 小学华文课程 </span> &nbsp; &nbsp; &nbsp;  
- <a href="#tab-1" style="font-size:20px"><span style="color:black">课程介绍    </span></a>&nbsp;&nbsp;
- <a href="#数码资源介绍 " style="font-size:20px"><span style="color:black">数码资源介绍    </span></a>&nbsp;&nbsp;
- <a href="#家长为教育伙伴 " style="font-size:20px"><span style="color:black">家长为教育伙伴 </span></a>
+ <a href="#tab-1" style="font-size:20px"><span style="color:red">课程介绍    </span></a>&nbsp;&nbsp;
+ <a href="#数码资源介绍 " style="font-size:20px"><span style="color:red">数码资源介绍    </span></a>&nbsp;&nbsp;
+ <a href="#家长为教育伙伴 " style="font-size:20px;"><span style="color:red">家长为教育伙伴 </span></a>
  <br/>
 2015年开始实施的这套华文教材定名为《欢乐伙伴》，是希望它能成为孩子们的学习良伴，也希望孩子们在学习的过程中互相协助、共同进步，成为彼此快乐学习的好伙伴。
 </p>
