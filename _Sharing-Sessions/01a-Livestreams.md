@@ -40,7 +40,7 @@ max-width:100%;
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png"  style="width:100%">
     <p style= "text-align:center"> <strong>Dr Wang Shuhan </strong> <br/>
-     ELE Consulting Internaitonal and Chinese Early Language and Immersion Network (CELIN) at Asia Society
+     ELE Consulting International and Chinese Early Language and Immersion Network (CELIN) at Asia Society
 <strong> (CL) </strong> <br/>
      12:30pm – 1:30pm<br/>
  <a href="/test/video2.md">Link to video</a>
