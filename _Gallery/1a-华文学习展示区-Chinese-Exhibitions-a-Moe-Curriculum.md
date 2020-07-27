@@ -49,11 +49,17 @@ This is the context for School page.
 <td>
   <iframe src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px"> 2015小学华文教材介绍 2</span></td>
  </tr>
-  <tr><td colspan="2"><p><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)">课程介绍
- </span><br />
- <img src="/images/CL-Primary-Curriculum-Philosophy.PNG">
- </p>
- </td></tr>
+  <tr>
+  <table class="tbl">
+<tr>
+<td colspan="2" style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-1" type="checkbox" name="tab">
+      <label for="tab-1">课程介绍 </label>
+     <div class="tab-content">
+      <p> <img src="/images/CL-Primary-Curriculum-Textbook.PNG"> </p>
+      </td>
+  </tr>
 <tr><td colspan="2"><p><span style="color:#d14165;font-size:25px;font-family:Calibri (Body)">课程目标与架构 </span><br />
  <img src="/images/Picture3.png">
  <img src="/images/Picture4.png">
