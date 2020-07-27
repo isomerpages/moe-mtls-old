@@ -64,9 +64,9 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
  
  <tr><td colspan="2"><span style="color:#d14165;font-size:35px">数码资源介绍 </span><br/>
  <span style="color:#d14165;font-size:15px">数码资源提供了多种有趣的活动，让孩子复习与巩固所学，培养孩子自主学习的能力。</span>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+ <iframe src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
  <span style="color:#d14165;font-size:15px">小学华文数码资源介绍 - “学乐”网 </span><br/>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+ <iframe src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
   <span style="color:#d14165;font-size:15px">小学华文数码资源介绍新加坡学生学习平台</span><br/>
 </td></tr>
  <tr><td colspan="2">
