@@ -114,8 +114,8 @@ This is the context for School page.
  <span style="color:#d14165;font-size:15px; font-family:Calibri (Body)" >小学华文数码资源介绍新加坡学生学习平台</span><br/>
 </td></tr>
  <tr><td colspan="2">
- <p><h5 id="家长为教育伙伴"> <span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"> 家长为教育伙伴 </span> </h5>
-<span style="color:#d14165;font-size:20px;font-family:Calibri (Body)">家长如何协助孩子学习</span><br/>
+ <h5 id="家长为教育伙伴"><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"> 家长为教育伙伴 </span> </h5>
+<p><span style="color:#d14165;font-size:20px;font-family:Calibri (Body)">家长如何协助孩子学习</span><br/>
 家长在孩子的学习过程中扮演着非常重要的角色：
     <ul style="font-family:Calibri (Body)">
      <li>为了让家长清楚孩子在华文课上学了些什么，课本中的“我会说”、“我会认”与“我会写” 列出了每一课的学习内容，以便家长可协助孩子学习。</li>
