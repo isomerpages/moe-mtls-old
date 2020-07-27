@@ -93,7 +93,7 @@ This is the context for School page.
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
    <h5 id="课程介绍"><label for="tab-1">课程介绍 </label></h5>
-     <div class="tab-content"><br/>
+     <div class="tab-content">
       <p> <img src="/images/Picture11.png"> </p></div></div>
       </td>
   </tr>
@@ -102,7 +102,7 @@ This is the context for School page.
   <img src="/images/newImage.png">
  </td>
  </tr>
-<tr><td colspan="2"><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"><h5 id="数码资源介绍 ">数码资源介绍 </span></h5>
+<tr><td colspan="2"><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"><h5 id=" 数码资源介绍 ">数码资源介绍 </h5> </span>
  <span style="color:#d14165;font-size:18px;font-family:Calibri (Body)">数码资源提供了多种有趣的活动，让孩子复习与巩固所学，培养孩子自主学习的能力。</span> </td></tr>
  <tr>
  <td>
