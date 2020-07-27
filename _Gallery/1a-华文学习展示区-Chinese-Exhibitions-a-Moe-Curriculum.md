@@ -44,9 +44,9 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
  <tr>
   <p>
    <td> 
-  <iframe src="https://www.youtube.com/embed/M5BPpRfkbO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td> 
+  <iframe src="https://www.youtube.com/embed/Zz3N7AI6Y3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><span style="color:#d14165;font-size:15px"> 2015小学华文教材介绍 1</span></td>
   <td>
-  <iframe src="https://www.youtube.com/embed/M5BPpRfkbO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  <iframe src="src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><span style="color:#d14165;font-size:15px"> 2015小学华文教材介绍 2</span></td>
   </p>
  </tr>
  <tr><td colspan="2"><p><span style="color:#d14165;font-size:25px">课程理念 </span><br />
