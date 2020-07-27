@@ -65,15 +65,16 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
  <tr><td colspan="2"><span style="color:#d14165;font-size:35px">数码资源介绍 </span><br/>
  <span style="color:#d14165;font-size:15px">数码资源提供了多种有趣的活动，让孩子复习与巩固所学，培养孩子自主学习的能力。</span> 
  <br/>
- <iframe src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
- <span style="color:#d14165;font-size:15px">小学华文数码资源介绍 - “学乐”网 </span>
+ <iframe src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  <br/>
- <iframe src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+ <span style="color:#d14165;font-size:15px">小学华文数码资源介绍 - “学乐”网 </span><br/>
+ <iframe src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <br/>
   <span style="color:#d14165;font-size:15px">小学华文数码资源介绍新加坡学生学习平台</span><br/>
 </td></tr>
  <tr><td colspan="2">
  <p> <span style="color:#d14165;font-size:35px"> 家长为教育伙伴</span>
-  <br/> <span style="color:#d14165;font-size:35px">家长如何协助孩子学习</span><br/>
+  <br/> <span style="color:#d14165;font-size:25px">家长如何协助孩子学习</span><br/>
   家长在孩子的学习过程中扮演着非常重要的角色：
     <ul>
      <li>为了让家长清楚孩子在华文课上学了些什么，课本中的“我会说”、“我会认”与“我会写” 列出了每一课的学习内容，以便家长可协助孩子学习。</li>
