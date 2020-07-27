@@ -34,7 +34,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
   font-size: 22px;
   position: absolute;
   right: 10px;
-  top: 18px;
+  top: 9px;
   transition: all 0.4s;
 }
  
