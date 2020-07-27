@@ -43,7 +43,7 @@ max-width:100%;
      ELE Consulting Internaitonal and Chinese Early Language and Immersion Network (CELIN) at Asia Society
 <strong> (CL) </strong> <br/>
      12:30pm – 1:30pm<br/>
- <a href="/test/video/">Link to video</a>
+ <a href="/test/video2.md">Link to video</a>
     </p>
   </div>
   <div class="column">
