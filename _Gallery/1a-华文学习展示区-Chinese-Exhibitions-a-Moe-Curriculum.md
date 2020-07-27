@@ -60,6 +60,7 @@ This is the context for School page.
       <p> <img src="/images/CL-Primary-Curriculum-Textbook.PNG"> </p>
       </td>
   </tr>
+   </table>
 <tr><td colspan="2"><p><span style="color:#d14165;font-size:25px;font-family:Calibri (Body)">课程目标与架构 </span><br />
  <img src="/images/Picture3.png">
  <img src="/images/Picture4.png">
