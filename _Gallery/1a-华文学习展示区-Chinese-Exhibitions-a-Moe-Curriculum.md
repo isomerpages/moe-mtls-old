@@ -14,11 +14,10 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
  .tab img{
    width: 80%;
  }
- 
- .tab div {
+ .tab table {
    display: none;
 }
-.tab div:target {
+.tab table:target {
   display: block;
 }
  
@@ -31,13 +30,15 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
   <a href="#Sec"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">中学</div></a>
   <a href="#PreU"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">大学先修班</div></a><br/>
 
-<div id="Sch">
- content for Sch page
-</div>
 
-<div id="Pri">
- content for Pri page
-</div>
+
+<table id="Pri">
+ <tr>
+ <td>
+ <div>this is the content Pri<div>
+ </td>
+ </tr>
+</table>
 
 </div>
 </div>
