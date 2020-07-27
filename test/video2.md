@@ -1,6 +1,6 @@
 ---
 title: 'video'
-permalink: /test/video/
+permalink: /test/video2/
 breadcrumb: 'video'
 ---
  <div class="video-container">
