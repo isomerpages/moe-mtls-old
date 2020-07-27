@@ -20,6 +20,14 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 .tab table:target {
   display: block;
 }
+.atab label {
+    position: relative;
+    display: block;
+    background: #d14165;
+    color: #fff;
+    font-weight: 700;
+    padding: 10px;
+    cursor: pointer;
  
 </style>
   
@@ -53,7 +61,7 @@ This is the context for School page.
 <td colspan="2" style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1">课程介绍 </label>
+      <label for="tab-1"><br/>课程介绍 </label>
      <div class="tab-content">
       <p> <img src="/images/CL-Primary-Curriculum-Textbook.PNG"> </p>
       </td>
