@@ -80,16 +80,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 <td>
   <iframe src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px"> 2015小学华文教材介绍 2</span></td>
  </tr>
- <tr>
-<td colspan="2" style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-1" type="checkbox" name="tab">
-   <label for="tab-1">课程介绍 </label>
-     <div class="tab-content">
-      <p> <img src="/images/Picture11.png"> </p></div></div>
-      </td>
-  </tr>
- <tr>
+
   <td colspan="2">
   <img src="/images/newImage.png">
  </td>
@@ -194,15 +185,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 <td>
   <iframe src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px"> 2015小学华文教材介绍 2</span></td>
  </tr>
-<tr>
-<td colspan="2" style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-1" type="checkbox" name="tab">
-   <label for="tab-1">课程介绍 </label>
-     <div class="tab-content">
-      <p> <img src="/images/Picture11.png"> </p></div></div>
-      </td>
-  </tr>
+
  <tr>
   <td colspan="2">
   <img src="/images/newImage.png">
@@ -252,15 +235,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 <td>
   <iframe src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px"> 2015小学华文教材介绍 2</span></td>
  </tr>
-  <tr>
-<td colspan="2" style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-1" type="checkbox" name="tab">
-  <label for="tab-1">课程介绍  </label> 
-     <div class="tab-content">
-      <p> <img src="/images/Picture11.png"> </p></div></div>
-      </td>
-  </tr>
+ 
  <tr>
   <td colspan="2">
   <img src="/images/newImage.png">
