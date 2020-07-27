@@ -92,7 +92,7 @@ This is the context for School page.
 <td colspan="2" style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
- <label for="tab-1"><h5 id="课程介绍">课程介绍 </label></h5>
+   <h5 id="课程介绍"><label for="tab-1">课程介绍 </label></h5>
      <div class="tab-content"><br/>
       <p> <img src="/images/Picture11.png"> </p></div></div>
       </td>
