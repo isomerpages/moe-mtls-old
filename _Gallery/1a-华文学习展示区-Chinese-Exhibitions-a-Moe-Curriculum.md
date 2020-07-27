@@ -63,7 +63,7 @@ This is the context for School page.
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1"><br/>课程介绍 </label>
      <div class="tab-content">
-      <p> <img src="/images/CL-Primary-Curriculum-Textbook.PNG"> </p>
+      <p> <img src="/images/Picture11.png"> </p>
       </td>
   </tr>
 
