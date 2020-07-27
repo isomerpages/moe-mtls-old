@@ -14,7 +14,9 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
  .tab img{
    width: 80%;
  }
-  </style>
+ 
+</style>
+  
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
 <div class="tab">
   <a href="小学华文课程 "><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">学前教育</div></a>
@@ -28,6 +30,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
  <tr><td colspan="2"><p><span style="color:#d14165;font-size:35px; font-family:Calibri (Body)"> 小学华文课程 </span><br/>
   2015年开始实施的这套华文教材定名为《欢乐伙伴》，是希望它能成为孩子们的学习良伴，也希望孩子们在学习的过程中互相协助、共同进步，成为彼此快乐学习的好伙伴。
 </p></td></tr>
+ 
  <tr>
   <p>
    <td> 
@@ -36,11 +39,13 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
   <iframe src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px"> 2015小学华文教材介绍 2</span></td>
   </p>
  </tr>
+ 
  <tr><td colspan="2"><p><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)">课程介绍
  </span><br />
  <img src="/images/CL-Primary-Curriculum-Philosophy.PNG">
  </p>
  </td></tr>
+ 
  <tr><td colspan="2"><p><span style="color:#d14165;font-size:25px;font-family:Calibri (Body)">课程目标与架构 </span><br />
  <img src="/images/Picture3.png">
  <img src="/images/Picture4.png">
@@ -74,9 +79,10 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
  <tr><td colspan="2"><img style="width:100%" src="/images/footerBanner.png"></td></tr>
 </table>
 </div>
-
 </div>
-
-
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
+</html>
+</body>
+
+
 
