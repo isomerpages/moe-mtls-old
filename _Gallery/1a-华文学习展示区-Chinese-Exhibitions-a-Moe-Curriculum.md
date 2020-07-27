@@ -80,9 +80,9 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
      <li>为了让家长清楚孩子在华文课上学了些什么，课本中的“我会说”、“我会认”与“我会写” 列出了每一课的学习内容，以便家长可协助孩子学习。</li>
      <li>为了让孩子把课堂所学运用到生活中，课本也设置了“生活运用”这个板块。通过一些小活动和小任务，让家长与孩子一起交流、分享，帮助孩子巩固所学，感受语言的实用价值。</li>
      <li>家长可利用小图书、小图卡、字宝宝及数码资源与孩子一起互动，培养孩子对华文华语的兴趣。</li>
-  <p><a href="/_Gallery/CL-textbook-CLPG2016.pdf" target="_blank">家长指南(CL)</a></p>
-     <p><a href="/_Gallery/EL-textbook-CLPG2016.pdf" target="_blank">Parent Guide (EL)</a></p>
-     <p><a href="/_Gallery/_Gallery/CL-Pri-ExternalResources.pdf" target="_blank">小学华文课外读物参考书目</a></p>
+  <p><a href="/Gallery/CL-textbook-CLPG2016.pdf" target="_blank">家长指南(CL)</a></p>
+     <p><a href="/Gallery/EL-textbook-CLPG2016.pdf" target="_blank">Parent Guide (EL)</a></p>
+     <p><a href="/Gallery/CL-Pri-ExternalResources.pdf" target="_blank">小学华文课外读物参考书目</a></p>
     </ul>
  </p></td></tr>
  <tr><td colspan="2"><img style="width:100%" src="/images/footerBanner.png"></td></tr>
