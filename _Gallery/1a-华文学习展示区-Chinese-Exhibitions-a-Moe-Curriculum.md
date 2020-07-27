@@ -58,7 +58,6 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
  <img src="/images/Picture3.png">
  <img src="/images/Picture4.png">
  <tr><td colspan="2">
- <p> <span style="color:#d14165;font-size:25px"> 小学华文课程 </span><br />
   <img src="/images/CL-Primary-Curriculum-Textbook.PNG">
  </p></td>
  
