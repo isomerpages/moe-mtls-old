@@ -62,11 +62,10 @@ This is the context for School page.
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1"><br/>课程介绍 </label>
-     <div class="tab-content">
-      <p> <img src="/images/Picture11.png"> </p>
+     <div class="tab-content"><br/>
+      <p> <img src="/images/Picture11.png"> </p></div></div>
       </td>
   </tr>
-
 <tr><td colspan="2"><p><span style="color:#d14165;font-size:25px;font-family:Calibri (Body)">课程目标与架构 </span><br />
  <img src="/images/Picture3.png">
  <img src="/images/Picture4.png">
