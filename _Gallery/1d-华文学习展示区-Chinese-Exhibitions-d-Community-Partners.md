@@ -84,7 +84,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3"class="lbCh">李光耀双语基金<br/>Lee Kuan Yew Fund for Bilingualism</label>
+      <label for="tab-3" class="lbCh">李光耀双语基金<br/>Lee Kuan Yew Fund for Bilingualism </label>
       <div class="tab-content">
         <p>
           This is the content for Exhibitor 2.
