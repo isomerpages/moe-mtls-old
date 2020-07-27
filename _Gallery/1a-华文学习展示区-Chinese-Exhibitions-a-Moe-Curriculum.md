@@ -28,6 +28,15 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
     font-weight: 700;
     padding: 10px;
     cursor: pointer;
+ }
+ .atab label::after {
+  content: "+";
+  font-size: 22px;
+  position: absolute;
+  right: 10px;
+  top: 18px;
+  transition: all 0.4s;
+}
  
 </style>
   
