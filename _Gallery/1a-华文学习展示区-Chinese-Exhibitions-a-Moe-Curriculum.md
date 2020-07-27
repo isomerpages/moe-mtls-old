@@ -44,7 +44,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
  <tr>
   <p>
    <td> 
-  <iframe src="https://www.youtube.com/embed/Zz3N7AI6Y3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px"> 2015小学华文教材介绍 1</span></td>
+  <iframe src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px"> 2015小学华文教材介绍 1</span></td>
   <td>
   <iframe src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px"> 2015小学华文教材介绍 2</span></td>
   </p>
@@ -65,7 +65,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
  <tr><td colspan="2"><span style="color:#d14165;font-size:35px">数码资源介绍 </span><br/>
  <span style="color:#d14165;font-size:15px">数码资源提供了多种有趣的活动，让孩子复习与巩固所学，培养孩子自主学习的能力。</span> <br/>
  <br/>
- <iframe src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe src="https://www.youtube.com/embed/Zz3N7AI6Y3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  <br/>
  <span style="color:#d14165;font-size:15px">小学华文数码资源介绍 - “学乐”网 </span><br/>
  <iframe src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -80,9 +80,9 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
      <li>为了让家长清楚孩子在华文课上学了些什么，课本中的“我会说”、“我会认”与“我会写” 列出了每一课的学习内容，以便家长可协助孩子学习。</li>
      <li>为了让孩子把课堂所学运用到生活中，课本也设置了“生活运用”这个板块。通过一些小活动和小任务，让家长与孩子一起交流、分享，帮助孩子巩固所学，感受语言的实用价值。</li>
      <li>家长可利用小图书、小图卡、字宝宝及数码资源与孩子一起互动，培养孩子对华文华语的兴趣。</li>
-  <p><a href="/Gallery/CL-textbook-CLPG2016.pdf" target="_blank">家长指南(CL)</a></p>
-     <p><a href="/Gallery/EL-textbook-CLPG2016.pdf" target="_blank">Parent Guide (EL)</a></p>
-     <p><a href="/Gallery/_Gallery/CL-Pri-ExternalResources.pdf" target="_blank">小学华文课外读物参考书目</a></p>
+  <p><a href="/_Gallery/CL-textbook-CLPG2016.pdf" target="_blank">家长指南(CL)</a></p>
+     <p><a href="/_Gallery/EL-textbook-CLPG2016.pdf" target="_blank">Parent Guide (EL)</a></p>
+     <p><a href="/_Gallery/_Gallery/CL-Pri-ExternalResources.pdf" target="_blank">小学华文课外读物参考书目</a></p>
     </ul>
  </p></td></tr>
  <tr><td colspan="2"><img style="width:100%" src="/images/footerBanner.png"></td></tr>
