@@ -21,18 +21,6 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
   <a href="#Pri"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">小学</div></a>
   <a href="#Sec"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">中学</div></a>
   <a href="#PreU"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">大学先修班</div></a><br/>
- <div id="Prech"><br/>
-<p style="font-family:Calibri (Body);">This is the content for Prech.</p><br/>
-</div>
-<div style="font-family:Calibri (Body);"  id="Pri"><br/>
-<p style="font-family:Calibri (Body);">This is the content for Pri.</p><br/>
-</div>
-<div style="font-family:Calibri (Body);" id="Sec"><br/>
-<p style="font-family:Calibri (Body);">This is the content for Sec.</p><br/>
-</div>
-<div style="font-family:Calibri (Body);" id="PreU"><br/>
-<p style="font-family:Calibri (Body);">This is the content for PreU.</p><br/>
-</div>
 </div>
 
 <div id="Pri" style="display:block;">
