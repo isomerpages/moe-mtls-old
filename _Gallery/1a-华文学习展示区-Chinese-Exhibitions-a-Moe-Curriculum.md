@@ -32,6 +32,14 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 
 
 
+<table id="Sch">
+ <tr>
+ <td>
+ this is the content School section
+ </td>
+ </tr>
+</table>
+
 <table id="Pri">
  <tr>
  <td>
