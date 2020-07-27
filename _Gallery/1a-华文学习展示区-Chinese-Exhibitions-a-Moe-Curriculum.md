@@ -41,7 +41,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 .atab input[type=radio]:checked + label::after {
     content: 'x';
     right: 14px;
-    top: 10px;
+    top: 9px;
   //transform:rotate(-225deg);
    /* transform: rotate(90deg); */
 }
