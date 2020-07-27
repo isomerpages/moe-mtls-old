@@ -80,7 +80,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 <td>
   <iframe src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px"> 2015小学华文教材介绍 2</span></td>
  </tr>
-
+<tr>
   <td colspan="2">
   <img src="/images/newImage.png">
  </td>
