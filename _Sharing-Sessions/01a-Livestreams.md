@@ -34,7 +34,7 @@ max-width:100%;
      <p style= "text-align:center">
     Creating an Immersive Environment for the Learning of Our Mother Tongue Languages  (EL) <br/>
      10:00am – 1:00am<br/>
- <a href="/test/video.md">Link to video</a>
+ <a href="/test/video/">Link to video</a>
 </p>
   </div>
   <div class="column">
@@ -43,7 +43,7 @@ max-width:100%;
      ELE Consulting International and Chinese Early Language and Immersion Network (CELIN) at Asia Society
 <strong> (CL) </strong> <br/>
      12:30pm – 1:30pm<br/>
- <a href="/test/video2.md">Link to video</a>
+ <a href="/test/video2/">Link to video</a>
     </p>
   </div>
   <div class="column">
@@ -52,7 +52,7 @@ max-width:100%;
      Senior Specialist, ETD, MOE <strong>(ML) </strong>
 <br/>
      12:30pm – 1:30pm<br/>
- <a href="/test/video3.md">Link to video</a>
+ <a href="/test/video3/">Link to video</a>
     </p>
   </div>     
   </div>
