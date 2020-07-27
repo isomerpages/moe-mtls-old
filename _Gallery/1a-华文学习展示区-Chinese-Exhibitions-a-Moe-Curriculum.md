@@ -103,7 +103,7 @@ This is the context for School page.
  </td>
  </tr>
 <tr><td colspan="2"><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"><h5 id="数码资源介绍 ">数码资源介绍 </span></h5>
- <span style="color:#d14165;font-size:18px;font-family:Calibri (Body)">数码资源提供了多种有趣的活动，让孩子复习与巩固所学，培养孩子自主学习的能力。</span> <br/></td></tr>
+ <span style="color:#d14165;font-size:18px;font-family:Calibri (Body)">数码资源提供了多种有趣的活动，让孩子复习与巩固所学，培养孩子自主学习的能力。</span> </td></tr>
  <tr>
  <td>
 <iframe src="https://www.youtube.com/embed/Zz3N7AI6Y3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
