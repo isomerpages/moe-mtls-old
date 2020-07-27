@@ -34,7 +34,7 @@ max-width:100%;
      <p style= "text-align:center">
     Creating an Immersive Environment for the Learning of Our Mother Tongue Languages  (EL) <br/>
      10:00am – 1:00am<br/>
- <a href="/test/video/">Link to video</a>
+ <a href="/test/video.md">Link to video</a>
 </p>
   </div>
   <div class="column">
