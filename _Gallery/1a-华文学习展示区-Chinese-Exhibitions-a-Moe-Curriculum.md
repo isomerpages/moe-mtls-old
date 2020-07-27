@@ -74,7 +74,11 @@ This is the context for School page.
  
 <table id="Pri">
 <tr><td colspan="2"><img src="/images/CL-Primary-Header.JPG"></td></tr>
-<tr><td colspan="2"><p><span style="color:#d14165;font-size:35px; font-family:Calibri (Body)"> 小学华文课程 </span><br/>
+<tr><td colspan="2"><div><p><span style="color:#d14165;font-size:35px; font-family:Calibri (Body)"> 小学华文课程 </span> &nbsp; &nbsp; &nbsp;  
+ <a href="#课程介绍" style="font-size:20px"><span style="color:black">课程介绍    </span></a>&nbsp;&nbsp;
+ <a href="#数码资源介绍 " style="font-size:20px"><span style="color:black">数码资源介绍    </span></a>&nbsp;&nbsp;
+ <a href="#家长为教育伙伴 " style="font-size:20px"><span style="color:black">家长为教育伙伴 </span></a></div>
+ <br/>
 2015年开始实施的这套华文教材定名为《欢乐伙伴》，是希望它能成为孩子们的学习良伴，也希望孩子们在学习的过程中互相协助、共同进步，成为彼此快乐学习的好伙伴。
 </p></td></tr>
   <tr>
@@ -87,7 +91,7 @@ This is the context for School page.
 <td colspan="2" style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1">课程介绍 </label>
+ <label for="tab-1"><h5 id="课程介绍">课程介绍 </label></h5>
      <div class="tab-content"><br/>
       <p> <img src="/images/Picture11.png"> </p></div></div>
       </td>
@@ -97,7 +101,7 @@ This is the context for School page.
   <img src="/images/newImage.png">
  </td>
  </tr>
-<tr><td colspan="2"><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)">数码资源介绍 </span><br/>
+<tr><td colspan="2"><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"><h5 id="数码资源介绍 ">数码资源介绍 </span></h5>
  <span style="color:#d14165;font-size:18px;font-family:Calibri (Body)">数码资源提供了多种有趣的活动，让孩子复习与巩固所学，培养孩子自主学习的能力。</span> <br/></td></tr>
  <tr>
  <td>
@@ -109,8 +113,8 @@ This is the context for School page.
  <span style="color:#d14165;font-size:15px; font-family:Calibri (Body)" >小学华文数码资源介绍新加坡学生学习平台</span><br/>
 </td></tr>
  <tr><td colspan="2">
- <p> <span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"> 家长为教育伙伴</span>
-  <br/> <span style="color:#d14165;font-size:20px;font-family:Calibri (Body)">家长如何协助孩子学习</span><br/>
+ <p> <span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"><h5 id="家长为教育伙伴"> 家长为教育伙伴</span></h5>
+<span style="color:#d14165;font-size:20px;font-family:Calibri (Body)">家长如何协助孩子学习</span><br/>
 家长在孩子的学习过程中扮演着非常重要的角色：
     <ul style="font-family:Calibri (Body)">
      <li>为了让家长清楚孩子在华文课上学了些什么，课本中的“我会说”、“我会认”与“我会写” 列出了每一课的学习内容，以便家长可协助孩子学习。</li>
