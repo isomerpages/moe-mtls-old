@@ -67,8 +67,6 @@ This is the context for School page.
       </td>
   </tr>
 <tr><td colspan="2"><p><span style="color:#d14165;font-size:25px;font-family:Calibri (Body)">课程目标与架构 </span><br />
- <img src="/images/Picture3.png">
- <img src="/images/Picture4.png">
  <tr><td colspan="2">
   <img src="/images/newImage.png">
  </td>
