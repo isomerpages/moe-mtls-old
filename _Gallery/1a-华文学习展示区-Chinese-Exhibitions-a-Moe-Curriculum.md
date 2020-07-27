@@ -75,7 +75,7 @@ This is the context for School page.
 <table id="Pri">
 <tr><td colspan="2"><img src="/images/CL-Primary-Header.JPG"></td></tr>
 <tr><td colspan="2"><p><span style="color:#d14165;font-size:35px; font-family:Calibri (Body)"> 小学华文课程 </span> &nbsp; &nbsp; &nbsp;  
- <a href="#课程介绍 " style="font-size:20px"><span style="color:red">课程介绍    </span></a>&nbsp;&nbsp;
+ <a href="#课程介绍 " style="font-size:20px"><span style="color:red">课程介绍   </span></a>&nbsp;&nbsp;
  <a href="#数码资源介绍 " style="font-size:20px"><span style="color:red">数码资源介绍    </span></a>&nbsp;&nbsp;
  <a href="#家长为教育伙伴 " style="font-size:20px;"><span style="color:red">家长为教育伙伴 </span></a>
  <br/>
@@ -92,7 +92,7 @@ This is the context for School page.
 <td colspan="2" style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-  <h5 id="课程介绍 "><label for="tab-1">课程介绍  </label> </h5>
+  <label for="tab-1">课程介绍  </label> 
      <div class="tab-content">
       <p> <img src="/images/Picture11.png"> </p></div></div>
       </td>
