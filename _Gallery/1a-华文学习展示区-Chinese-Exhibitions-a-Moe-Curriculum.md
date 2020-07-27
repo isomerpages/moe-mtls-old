@@ -48,6 +48,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 .tab-content {
   overflow: hidden;
   display: none;
+  width:100%; 
 }
 .atab{
   margin-bottom: 5px;
