@@ -125,7 +125,7 @@ width:100% ;
   <br/>
 <table id="Pri">
 <tr><td colspan="2"><img src="/images/CL-Primary-Header.JPG"></td></tr>
-<tr><td colspan="2"><p><span style="color:#d14165;font-size:35px; font-family:Calibri (Body)"> 小学华文课程 </span> &nbsp; &nbsp; &nbsp;  
+<tr><td colspan="2"><p><span style="color:#d14165;font-size:35px; font-family:楷体"> 小学华文课程 </span> &nbsp; &nbsp; &nbsp;  
  <a href="#课程介绍 " style="font-size:20px"><span style="color:red">课程介绍   </span></a>&nbsp;&nbsp;
  <a href="#数码资源介绍 " style="font-size:20px"><span style="color:red">数码资源介绍    </span></a>&nbsp;&nbsp;
  <a href="#家长为教育伙伴 " style="font-size:20px;"><span style="color:red">家长为教育伙伴 </span></a>
