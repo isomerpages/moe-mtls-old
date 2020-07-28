@@ -64,7 +64,7 @@ width:100% ;
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
 <div class="tab">
   <a href="#Sch"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">学前教育</div></a>
-  <a href="#Pri"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">小学</div></a>
+  <a href="/test/pri/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">小学</div></a>
   <a href="#Sec"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">中学</div></a>
   <a href="#PreU"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">大学先修班</div></a><br/>
  
