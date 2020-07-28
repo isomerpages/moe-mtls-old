@@ -78,6 +78,7 @@ width:100%;
  <a href="#数码资源介绍 " style="font-size:20px"><span style="color:red">数码资源介绍    </span></a>&nbsp;&nbsp;
  <a href="#家长为教育伙伴 " style="font-size:20px;"><span style="color:red">家长为教育伙伴 </span></a>
  <br/>
+   <br/>
 2015年开始实施的这套华文教材定名为《欢乐伙伴》，是希望它能成为孩子们的学习良伴，也希望孩子们在学习的过程中互相协助、共同进步，成为彼此快乐学习的好伙伴。
 </p>
 <hr>
@@ -91,6 +92,7 @@ width:100%;
   </p>
     </div>
       </div>
+       <br/>
       <hr>
       <h5 id=" 课程介绍 "><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"> 课程介绍 </span> </h5> 
 <div class="atab">
@@ -115,6 +117,7 @@ width:100%;
   </p>
     </div>
       </div>
+       <br/>
       <hr>
       <h5 id="家长为教育伙伴"><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"> 家长为教育伙伴 </span> </h5>
 <p><span style="color:#d14165;font-size:20px;font-family:Calibri (Body)">家长如何协助孩子学习</span><br/>
