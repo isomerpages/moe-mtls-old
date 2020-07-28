@@ -95,11 +95,11 @@ width:100% ;
  <div class="column">
 
  <iframe src="https://www.youtube.com/embed/Zz3N7AI6Y3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
- <p><span style="color:#d14165;font-size:15px; font-family:Calibri (Body)">小学华文数码资源介绍 - “学乐”网 </span><br/>
-  <p/> </div>
+ <p><span style="color:#d14165;font-size:15px; font-family:Calibri (Body)">小学华文数码资源介绍 - “学乐”网 </span><p/>
+ </div>
   <div class="column">
 <iframe src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-   <p> <span style="color:#d14165;font-size:15px; font-family:Calibri (Body)" >小学华文数码资源介绍新加坡学生学习平台</span><br/>
+   <p> <span style="color:#d14165;font-size:15px; font-family:Calibri (Body)" >小学华文数码资源介绍新加坡学生学习平台</span>
   </p>
     </div>
       </div>
