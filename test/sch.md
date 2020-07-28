@@ -99,16 +99,15 @@ width:100% ;
       <hr>
       <h5 id=" 数码资源介绍 "><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"> 数码资源介绍 </span> </h5> 
  <p><span style="color:#d14165;font-size:18px;font-family:Calibri (Body)">数码资源提供了多种有趣的活动，让孩子复习与巩固所学，培养孩子自主学习的能力。</span></p>
- <hr>
- <div class="row">
+<hr>
+<div class="row">
  <div class="column">
-
  <iframe src="https://www.youtube.com/embed/Zz3N7AI6Y3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
- <p><span style="color:#d14165;font-size:15px; font-family:Calibri (Body)">小学华文数码资源介绍 - “学乐”网 </span><p/>
+  <p><span style="color:#d14165;font-size:15px;font-family:Calibri (Body)"> 小学华文数码资源介绍 - “学乐”网 </span></p>
+
  </div>
   <div class="column">
-<iframe src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-   <p> <span style="color:#d14165;font-size:15px; font-family:Calibri (Body)" >小学华文数码资源介绍新加坡学生学习平台</span>
+  <iframe src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/> <p><span style="color:#d14165;font-size:15px">小学华文数码资源介绍新加坡学生学习平台</span>
   </p>
     </div>
       </div>
