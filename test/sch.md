@@ -22,7 +22,7 @@ breadcrumb: 'sch'
 }
   .column {
   float: left;
-  width: 33.33%;
+  width: 80%;
   padding: 5px;
 }
 .atab label {
@@ -34,6 +34,10 @@ breadcrumb: 'sch'
     padding: 10px;
     cursor: pointer;
  }
+ .row {
+    display: flex;
+    height: 15%;
+}
  .atab label::after {
   content: "+";
   font-size: 22px;
