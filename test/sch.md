@@ -4,6 +4,58 @@ permalink: /test/sch/
 breadcrumb: 'sch'
 ---
 ##  	Sch
+<html>
+<body>
+<style>
+  .tab img{
+   width: 80%;
+ }
+ .tab table {
+   display: none;
+}
+.tab table:target {
+  display: block;
+}
+.atab label {
+    position: relative;
+    display: block;
+    background: #d14165;
+    color: #fff;
+    font-weight: 700;
+    padding: 10px;
+    cursor: pointer;
+ }
+ .atab label::after {
+  content: "+";
+  font-size: 22px;
+  position: absolute;
+  right: 10px;
+  top: 7px;
+  transition: all 0.4s;
+}
+ iframe{
+border : 0;
+width:100% ;
+}
+ .atab input[type=checkbox]:checked + label::after,
+.atab input[type=radio]:checked + label::after {
+    content: 'x';
+    right: 14px;
+    top: 7px;
+  //transform:rotate(-225deg);
+   /* transform: rotate(90deg); */
+}
+.tab-content {
+  overflow: hidden;
+  display: none;
+  width:100%; 
+}
+.atab{
+  margin-bottom: 5px;
+  width:100%;  
+}
+ 
+</style>
 <a href="/gallery/华文学习展示区-chinese-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/CL-Primary-Header.JPG">
 <hr>
@@ -17,11 +69,12 @@ breadcrumb: 'sch'
 <hr>
 <div class="row">
  <div class="column">
- <p>
-  <iframe src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px;font-family:Calibri (Body)"> 2015小学华文教材介绍 1</span>
-  <p/> </div>
+ <iframe src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+  <p><span style="color:#d14165;font-size:15px;font-family:Calibri (Body)"> 2015小学华文教材介绍 1</span></p>
+
+ </div>
   <div class="column">
-  <p> <iframe src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px"> 2015小学华文教材介绍 2</span>
+  <iframe src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/> <p><span style="color:#d14165;font-size:15px"> 2015小学华文教材介绍 2</span>
   </p>
     </div>
       </div>
@@ -29,24 +82,24 @@ breadcrumb: 'sch'
       <h5 id=" 课程介绍 "><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"> 课程介绍 </span> </h5> 
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-   <label for="tab-1">课程框架 </label>
+   <label for="tab-1" >课程框架 </label>
      <div class="tab-content">
       <p> <img src="/images/Picture11.png"> </p></div></div>
       <hr>
       <img src="/images/newImage.png">
       <hr>
-      <h5 id=" 数码资源介绍 "><p><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"> 数码资源介绍 </span> </h5> 
- <span style="color:#d14165;font-size:18px;font-family:Calibri (Body)">数码资源提供了多种有趣的活动，让孩子复习与巩固所学，培养孩子自主学习的能力。</span></p>
+      <h5 id=" 数码资源介绍 "><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"> 数码资源介绍 </span> </h5> 
+ <p><span style="color:#d14165;font-size:18px;font-family:Calibri (Body)">数码资源提供了多种有趣的活动，让孩子复习与巩固所学，培养孩子自主学习的能力。</span></p>
  <hr>
  <div class="row">
  <div class="column">
- <p>
+
  <iframe src="https://www.youtube.com/embed/Zz3N7AI6Y3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-<span style="color:#d14165;font-size:15px; font-family:Calibri (Body)">小学华文数码资源介绍 - “学乐”网 </span><br/>
+ <p><span style="color:#d14165;font-size:15px; font-family:Calibri (Body)">小学华文数码资源介绍 - “学乐”网 </span><br/>
   <p/> </div>
   <div class="column">
-  <p> <iframe src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
- <span style="color:#d14165;font-size:15px; font-family:Calibri (Body)" >小学华文数码资源介绍新加坡学生学习平台</span><br/>
+<iframe src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+   <p> <span style="color:#d14165;font-size:15px; font-family:Calibri (Body)" >小学华文数码资源介绍新加坡学生学习平台</span><br/>
   </p>
     </div>
       </div>
