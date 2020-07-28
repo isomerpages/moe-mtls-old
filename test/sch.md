@@ -36,7 +36,7 @@ breadcrumb: 'sch'
  }
  .row {
     display: flex;
-    height: 15%;
+    height: 8%;
 }
  .atab label::after {
   content: "+";
@@ -48,7 +48,7 @@ breadcrumb: 'sch'
 }
  iframe{
 border : 0;
-width:100% ;
+height:100%;
 }
  .atab input[type=checkbox]:checked + label::after,
 .atab input[type=radio]:checked + label::after {
@@ -84,8 +84,7 @@ width:100% ;
  <div class="column">
  <iframe src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
   <p><span style="color:#d14165;font-size:15px;font-family:Calibri (Body)"> 2015小学华文教材介绍 1</span></p>
-
- </div>
+</div>
   <div class="column">
   <iframe src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/> <p><span style="color:#d14165;font-size:15px"> 2015小学华文教材介绍 2</span>
   </p>
