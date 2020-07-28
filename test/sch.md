@@ -10,11 +10,20 @@ breadcrumb: 'sch'
   .tab img{
    width: 80%;
  }
+  * {
+  box-sizing: border-box;
+}
+
  .tab table {
    display: none;
 }
 .tab table:target {
   display: block;
+}
+  .column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
 }
 .atab label {
     position: relative;
