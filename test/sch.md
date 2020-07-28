@@ -49,6 +49,7 @@ breadcrumb: 'sch'
  iframe{
 border : 0;
 height:100%;
+width:100%;
 }
  .atab input[type=checkbox]:checked + label::after,
 .atab input[type=radio]:checked + label::after {
