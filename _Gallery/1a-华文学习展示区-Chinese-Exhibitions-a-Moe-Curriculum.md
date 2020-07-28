@@ -129,7 +129,6 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
   <iframe src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px"> 2015小学华文教材介绍 2</span></td>
  </tr>
 <tr>
- 
 <td colspan="2" style="border:0 none;padding: 0; margin:0;"><h5 id=" 课程介绍 "><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"> 课程介绍 </span> </h5> 
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
