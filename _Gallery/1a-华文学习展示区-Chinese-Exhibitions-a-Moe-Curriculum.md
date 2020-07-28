@@ -71,26 +71,31 @@ width:100% ;
 <table id="Sch">
 <tr><td colspan="2"><img src="/images/CL-Primary-Header.JPG"></td></tr>
 <tr><td colspan="2"><p><span style="color:#d14165;font-size:35px; font-family:Calibri (Body)"> 小学华文课程 </span> &nbsp; &nbsp; &nbsp;  
- <a href="#课程介绍 " style="font-size:20px"><span style="color:red">课程介绍   </span></a>&nbsp;&nbsp;
- <a href="#数码资源介绍 " style="font-size:20px"><span style="color:red">数码资源介绍    </span></a>&nbsp;&nbsp;
- <a href="#家长为教育伙伴 " style="font-size:20px;"><span style="color:red">家长为教育伙伴 </span></a>
+ <a href="#课程介绍 " style="font-size:20px"><span style="color:blue">课程介绍   </span></a>&nbsp;&nbsp;
+ <a href="#数码资源介绍 " style="font-size:20px"><span style="color:blue">数码资源介绍    </span></a>&nbsp;&nbsp;
+ <a href="#家长为教育伙伴 " style="font-size:20px;"><span style="color:blue">家长为教育伙伴 </span></a>
  <br/>
 2015年开始实施的这套华文教材定名为《欢乐伙伴》，是希望它能成为孩子们的学习良伴，也希望孩子们在学习的过程中互相协助、共同进步，成为彼此快乐学习的好伙伴。
 </p>
  </td></tr>
+ <br/>
   <tr>
   <td> 
   <iframe src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px;font-family:Calibri (Body)"> 2015小学华文教材介绍 1</span></td>
 <td>
   <iframe src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px"> 2015小学华文教材介绍 2</span></td>
  </tr>
+  <br/>
 <tr>
   <td colspan="2">
   <img src="/images/newImage.png">
  </td>
  </tr>
+  <br/>
 <tr><td colspan="2"><h5 id=" 数码资源介绍 "><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"> 数码资源介绍 </span> </h5> 
- <span style="color:#d14165;font-size:18px;font-family:Calibri (Body)">数码资源提供了多种有趣的活动，让孩子复习与巩固所学，培养孩子自主学习的能力。</span> </td></tr>
+ <span style="color:#d14165;font-size:18px;font-family:Calibri (Body)">数码资源提供了多种有趣的活动，让孩子复习与巩固所学，培养孩子自主学习的能力。</span> </td>
+ </tr>
+  <br/>
  <tr>
  <td>
 <iframe src="https://www.youtube.com/embed/Zz3N7AI6Y3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
@@ -100,6 +105,7 @@ width:100% ;
  <iframe src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
  <span style="color:#d14165;font-size:15px; font-family:Calibri (Body)" >小学华文数码资源介绍新加坡学生学习平台</span><br/>
 </td></tr>
+  <br/>
  <tr><td colspan="2">
  <h5 id="家长为教育伙伴"><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"> 家长为教育伙伴 </span> </h5>
 <p><span style="color:#d14165;font-size:20px;font-family:Calibri (Body)">家长如何协助孩子学习</span><br/>
@@ -113,9 +119,10 @@ width:100% ;
      <p style="font-family:Calibri (Body)"><a href="/Gallery/CL-Pri-ExternalResources.pdf" target="_blank">小学华文课外读物参考书目</a></p>
     </ul>
  </p></td></tr>
+  <br/>
  <tr><td colspan="2"><img style="width:100%" src="/images/footerBanner.png"></td></tr>
 </table>
- 
+  <br/>
 <table id="Pri">
 <tr><td colspan="2"><img src="/images/CL-Primary-Header.JPG"></td></tr>
 <tr><td colspan="2"><p><span style="color:#d14165;font-size:35px; font-family:Calibri (Body)"> 小学华文课程 </span> &nbsp; &nbsp; &nbsp;  
@@ -126,12 +133,14 @@ width:100% ;
 2015年开始实施的这套华文教材定名为《欢乐伙伴》，是希望它能成为孩子们的学习良伴，也希望孩子们在学习的过程中互相协助、共同进步，成为彼此快乐学习的好伙伴。
 </p>
  </td></tr>
+  <br/>
   <tr>
   <td> 
   <iframe src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px;font-family:Calibri (Body)"> 2015小学华文教材介绍 1</span></td>
 <td>
   <iframe src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px"> 2015小学华文教材介绍 2</span></td>
  </tr>
+  <br/>
 <tr>
 <td colspan="2" style="border:0 none;padding: 0; margin:0;"><h5 id=" 课程介绍 "><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"> 课程介绍 </span> </h5> 
 <div class="atab">
@@ -141,11 +150,13 @@ width:100% ;
       <p> <img src="/images/Picture11.png"> </p></div></div>
       </td>
   </tr>
+  <br/>
  <tr>
   <td colspan="2">
   <img src="/images/newImage.png">
  </td>
  </tr>
+  <br/>
 <tr><td colspan="2"><h5 id=" 数码资源介绍 "><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"> 数码资源介绍 </span> </h5> 
  <span style="color:#d14165;font-size:18px;font-family:Calibri (Body)">数码资源提供了多种有趣的活动，让孩子复习与巩固所学，培养孩子自主学习的能力。</span> </td></tr>
  <tr>
@@ -157,6 +168,7 @@ width:100% ;
  <iframe src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
  <span style="color:#d14165;font-size:15px; font-family:Calibri (Body)" >小学华文数码资源介绍新加坡学生学习平台</span><br/>
 </td></tr>
+  <br/>
  <tr><td colspan="2">
  <h5 id="家长为教育伙伴"><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"> 家长为教育伙伴 </span> </h5>
 <p><span style="color:#d14165;font-size:20px;font-family:Calibri (Body)">家长如何协助孩子学习</span><br/>
@@ -170,9 +182,10 @@ width:100% ;
      <p style="font-family:Calibri (Body)"><a href="/Gallery/CL-Pri-ExternalResources.pdf" target="_blank">小学华文课外读物参考书目</a></p>
     </ul>
  </p></td></tr>
+  <br/>
  <tr><td colspan="2"><img style="width:100%" src="/images/footerBanner.png"></td></tr>
 </table>
-
+ <br/>
 <table id="Sec">
 <tr><td colspan="2"><img src="/images/CL-Primary-Header.JPG"></td></tr>
 <tr><td colspan="2"><p><span style="color:#d14165;font-size:35px; font-family:Calibri (Body)"> 小学华文课程 </span> &nbsp; &nbsp; &nbsp;  
@@ -183,18 +196,20 @@ width:100% ;
 2015年开始实施的这套华文教材定名为《欢乐伙伴》，是希望它能成为孩子们的学习良伴，也希望孩子们在学习的过程中互相协助、共同进步，成为彼此快乐学习的好伙伴。
 </p>
  </td></tr>
+  <br/>
   <tr>
   <td> 
   <iframe src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px;font-family:Calibri (Body)"> 2015小学华文教材介绍 1</span></td>
 <td>
   <iframe src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px"> 2015小学华文教材介绍 2</span></td>
  </tr>
-
+ <br/>
  <tr>
   <td colspan="2">
   <img src="/images/newImage.png">
  </td>
  </tr>
+  <br/>
 <tr><td colspan="2"><h5 id=" 数码资源介绍 "><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"> 数码资源介绍 </span> </h5> 
  <span style="color:#d14165;font-size:18px;font-family:Calibri (Body)">数码资源提供了多种有趣的活动，让孩子复习与巩固所学，培养孩子自主学习的能力。</span> </td></tr>
  <tr>
@@ -206,6 +221,7 @@ width:100% ;
  <iframe src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
  <span style="color:#d14165;font-size:15px; font-family:Calibri (Body)" >小学华文数码资源介绍新加坡学生学习平台</span><br/>
 </td></tr>
+  <br/>
  <tr><td colspan="2">
  <h5 id="家长为教育伙伴"><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"> 家长为教育伙伴 </span> </h5>
 <p><span style="color:#d14165;font-size:20px;font-family:Calibri (Body)">家长如何协助孩子学习</span><br/>
@@ -219,10 +235,11 @@ width:100% ;
      <p style="font-family:Calibri (Body)"><a href="/Gallery/CL-Pri-ExternalResources.pdf" target="_blank">小学华文课外读物参考书目</a></p>
     </ul>
  </p></td></tr>
+  <br/>
  <tr><td colspan="2"><img style="width:100%" src="/images/footerBanner.png"></td></tr>
 
 </table>
-
+ <br/>
 <table id="PreU">
 <tr><td colspan="2"><img src="/images/CL-Primary-Header.JPG"></td></tr>
 <tr><td colspan="2"><p><span style="color:#d14165;font-size:35px; font-family:Calibri (Body)"> 小学华文课程 </span> &nbsp; &nbsp; &nbsp;  
@@ -233,18 +250,20 @@ width:100% ;
 2015年开始实施的这套华文教材定名为《欢乐伙伴》，是希望它能成为孩子们的学习良伴，也希望孩子们在学习的过程中互相协助、共同进步，成为彼此快乐学习的好伙伴。
 </p>
  </td></tr>
+  <br/>
   <tr>
   <td> 
   <iframe src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px;font-family:Calibri (Body)"> 2015小学华文教材介绍 1</span></td>
 <td>
   <iframe src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px"> 2015小学华文教材介绍 2</span></td>
  </tr>
- 
+  <br/>
  <tr>
   <td colspan="2">
   <img src="/images/newImage.png">
  </td>
  </tr>
+  <br/>
 <tr><td colspan="2"><h5 id=" 数码资源介绍 "><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"> 数码资源介绍 </span> </h5> 
  <span style="color:#d14165;font-size:18px;font-family:Calibri (Body)">数码资源提供了多种有趣的活动，让孩子复习与巩固所学，培养孩子自主学习的能力。</span> </td></tr>
  <tr>
@@ -256,6 +275,7 @@ width:100% ;
  <iframe src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
  <span style="color:#d14165;font-size:15px; font-family:Calibri (Body)" >小学华文数码资源介绍新加坡学生学习平台</span><br/>
 </td></tr>
+  <br/>
  <tr><td colspan="2">
  <h5 id="家长为教育伙伴"><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"> 家长为教育伙伴 </span> </h5>
 <p><span style="color:#d14165;font-size:20px;font-family:Calibri (Body)">家长如何协助孩子学习</span><br/>
@@ -269,8 +289,10 @@ width:100% ;
      <p style="font-family:Calibri (Body)"><a href="/Gallery/CL-Pri-ExternalResources.pdf" target="_blank">小学华文课外读物参考书目</a></p>
     </ul>
  </p></td></tr>
+  <br/>
  <tr><td colspan="2"><img style="width:100%" src="/images/footerBanner.png"></td></tr>
 </table>
+ <br/>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
 
 
