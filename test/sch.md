@@ -47,7 +47,7 @@ breadcrumb: 'sch'
   transition: all 0.4s;
 }
  iframe{
-border : 0;
+border:none;
 height:100%;
 width:100%;
 }
