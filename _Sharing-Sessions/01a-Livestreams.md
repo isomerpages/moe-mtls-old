@@ -31,8 +31,7 @@ max-width:100%;
   <div><h4>1:00am - 1:00pm</h4></div>
 <div class="row">
  <div class="column">
-     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
-     <p style= "text-align:center">
+    <p style= "text-align:center">
     Creating an Immersive Environment for the Learning of Our Mother Tongue Languages  (EL) <br/>
      10:00am – 1:00pm<br/>
  <a href="/test/video/">Link to video</a>
