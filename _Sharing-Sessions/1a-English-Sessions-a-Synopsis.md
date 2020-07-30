@@ -91,10 +91,10 @@ Dr Sukuna S. Vijayadevar is a senior lecturer with NIEC SEED. She has served for
 <p><strong>Ben Yeo </strong><br/>
 With years of experience in the television and entertainment industry, Ben Yeo is a renowned Mediacorp actor and host. Having starred in numerous productions and variety programmes, many may also regard Ben as a celebrity chef. Trained in SHATAC, Ben possesses excellent cooking skills and is well loved by many clients’ in the food industry. Over the years, Ben has also published two cookbooks and owned various businesses. A doting father to his sons, Ben divides his time between family, work, and cooking.
 <br/></p>
- </div></div></td>
+ </div></div> </div></td>
 <td style="border:0 none;padding: 0; margin:0;">
   <a href="/test/EL-video-Ong/"><img class="btnImg" src="/images/arrowEng.png"></a>
- </div>
+
 </td>
 </tr>
 <tr>
