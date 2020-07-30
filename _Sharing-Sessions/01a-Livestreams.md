@@ -28,6 +28,7 @@ max-width:100%;
 </style>
 </head>
 <body>
+  <h4>1:00am - 1:00pm</h4>
 <div class="row">
  <div class="column">
      <img src="images/cropped-person-icon-8-2.png" style="width:100%">
@@ -37,6 +38,16 @@ max-width:100%;
  <a href="/test/video/">Link to video</a>
 </p>
   </div>
+  <div class="column">
+    <p></p>
+  </div>
+  <div class="column">
+    <p></p>
+  </div>
+   </div>
+  <hr>
+   <h4>12:30pm - 1:30pm</h4>
+  <div class="row">
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png"  style="width:100%">
     <p style= "text-align:center"> <strong>Dr Wang Shuhan </strong> <br/>
@@ -55,9 +66,6 @@ max-width:100%;
  <a href="/test/video3/">Link to video</a>
     </p>
   </div>     
-  </div>
-  <hr>
-<div class="row">
  <div class="column">
      <img src="images/cropped-person-icon-8-2.png" style="width:100%">
      <p style= "text-align:center"> <strong>Ms Elakeyaa Selvaraji </strong> <br/>
@@ -67,6 +75,10 @@ max-width:100%;
  <a href="/test/video/">Link to video</a>
 </p>
   </div>
+  </div>
+  <hr>
+   <h4>2:00pm - 3:00pm</h4>
+  <div class="row">
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png"  style="width:100%">
     <p style= "text-align:center"> <strong> Dr Sun Baoqi </strong><br/>
@@ -85,9 +97,6 @@ max-width:100%;
  <a href="/test/video/">Link to video</a>
     </p>
   </div>
-  </div>
-  <hr>
-<div class="row">
  <div class="column">
      <img src="images/cropped-person-icon-8-2.png" style="width:100%">
      <p style= "text-align:center"> <strong> Ms Rani Kanna & Mr Anandha Kannan  </strong><br/>
@@ -97,6 +106,10 @@ max-width:100%;
  <a href="/test/video/">Link to video</a>
 </p>
   </div>
+  </div>
+  <hr>
+   <h4>3:30pm – 4:30pm</h4>
+  <div class="row">
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png"  style="width:100%">
     <p style= "text-align:center"> <strong> Dr Connie Lum </strong><br/>
@@ -108,6 +121,9 @@ max-width:100%;
     </p>
   </div>
   <div class="column">
+    <p></p>
+  </div>
+    <div class="column">
     <p></p>
   </div>
   </div>
