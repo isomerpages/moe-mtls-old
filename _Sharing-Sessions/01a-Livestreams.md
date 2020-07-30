@@ -46,7 +46,7 @@ max-width:100%;
   </div>
    </div>
   <hr>
-   <h4>12:30pm - 1:30pm</h4>
+  <div> <h4>12:30pm - 1:30pm</h4></div>
   <div class="row">
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png"  style="width:100%">
@@ -77,7 +77,7 @@ max-width:100%;
   </div>
   </div>
   <hr>
-   <h4>2:00pm - 3:00pm</h4>
+  <div>  <h4>2:00pm - 3:00pm</h4> </div>
   <div class="row">
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png"  style="width:100%">
@@ -108,7 +108,7 @@ max-width:100%;
   </div>
   </div>
   <hr>
-   <h4>3:30pm – 4:30pm</h4>
+  <div> <h4>3:30pm – 4:30pm</h4> </div>
   <div class="row">
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png"  style="width:100%">
