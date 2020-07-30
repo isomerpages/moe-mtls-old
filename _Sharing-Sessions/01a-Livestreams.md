@@ -14,7 +14,7 @@ collection_name: Sharing-Sessions
 
 .column {
   float: left;
-  width: 100.33%;
+  width: 90.33%;
   padding: 5px;
 }
 img {
