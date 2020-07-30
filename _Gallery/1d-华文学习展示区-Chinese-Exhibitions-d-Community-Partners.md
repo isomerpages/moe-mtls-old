@@ -239,7 +239,6 @@ Parents can find out more about the learning opportunities available to the youn
         <p style="font-family:KaiTi">
             新加坡报业控股针对中小学生推出具本地特色、内容新颖有趣的多份学生报。其中包括适合学前孩童阅读的《小小拇指》，小学低年级学生阅读的《小拇指》，小学高年级学生阅读的《大拇指》和中学生阅读的《逗号》。
 此外，新加坡报业控股也设立了综合性网络学习平台，zbschools.sg。学生们能够自行观看和阅读平台上的视频以及其他和新闻相关的内容，借此培养学生阅读新闻的习惯，同时让华文学习更多元、有趣，。</p>
-      </div>
     <h4>Reading The News From A Tender Age</h4>
     <p>Singapore Press Holdings Limited (SPH) has launched four student publications with educational values and fun elements that cater for pre-school, primary and secondary school students. These are Thumbs Up Little Junior, Thumbs Up Junior (lower primary), Thumbs Up (upper primary) and zbCOMMA. <br/>Student publications has also launched an integrated online learning platform, zbschools.sg. where students can explore engaging content and videos which make Chinese learning  both fun and interactive while cultivating the habit of reading at a young age.</p>
 </div>
