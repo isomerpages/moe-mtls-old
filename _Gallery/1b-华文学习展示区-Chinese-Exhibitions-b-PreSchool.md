@@ -49,7 +49,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
        <p style="font-family:KaiTi">
        MY World的教师在华语教学中采用多种寓教于乐的合作学习策略，让幼儿在轻松、愉悦的氛围中多聆听华语，多使用华语。幼儿可在与同伴互动、沟通和交流的过程中，学习如何认真聆听，积极表达，从而提升语言表达及聆听能力、人际交往能力和自信心。 </p>
 
-<h4>Encouraging the Use of Mandarin by Applying Cooperative Learning Strategies in the Classroom</h4>
+<h4>&nbsp;&nbsp;Encouraging the Use of Mandarin by Applying Cooperative Learning Strategies in the Classroom</h4>
 <p>At MY World, teachers use a variety of cooperative learning strategies to provide children with opportunities to learn and use the Chinese language in a relaxed and pleasant atmosphere. This process of interaction with peers promotes children’s listening skills, language expressions, interpersonal communication skills and self-confidence.
  </p>
  </div>
