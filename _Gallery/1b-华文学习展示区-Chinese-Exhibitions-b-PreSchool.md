@@ -80,6 +80,30 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
+<tr>
+<td  style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-3" type="checkbox" name="tab">
+      <label for="tab-3" class="lbCh">MOE Kindergarten @ Waterway</label>
+     <div class="tab-content">
+       <h4 style="font-size:35px;font-family:KaiTi">欢乐剧场</h4>
+       <p style="font-family:KaiTi">
+       “欢乐剧场”通过在家中进行戏剧游戏的方式通过在家中进行戏剧游戏的方式，促进幼儿的母语学习。这个方式包含三个步骤：阅读——复述——重现。
+家庭成员可利用一些日常用品与道具，结合真实情境，与幼儿展开戏剧游戏，让他们在愉悦的氛围里学习母语。这个方式不但能够拉近亲子之间的关系，也能加强幼儿的语言沟通能力、创造力和解决问题的能力，同时增强他们使用母语的自信心。
+</p>
+       <h4>Fun With Drama</h4>
+        <p>
+         “Fun With Drama” is about promoting the learning of Mother Tongue Languages (MTL) through the use of dramatic play at home. The approach features a 3-step process namely, Read, Retell and Re-enact (or R3). <br/>
+         Dramatic play at home provides fun and enjoyable opportunities for children to interact with family members using household objects, props and authentic home settings that are real, relevant and meaningful to them.  Apart from promoting family bonding and children’s creativity and problem-solving skills, it also helps to strengthen their communication skills and confidence in using their respective Mother Tongue Languages.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;">
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
+</td>
+</tr>
+
 
 
 
