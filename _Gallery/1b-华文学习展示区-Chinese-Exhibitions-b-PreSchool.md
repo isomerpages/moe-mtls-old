@@ -45,13 +45,12 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1" class="lbCh"><br/> MY World @ Simei</label>
      <div class="tab-content">
-      <h3>故事天地——乐趣无穷的语言学习和价值传承</h3>
-      <p>
-        故事对于孩子学习语言及接触语言背后的文化与价值体系是极其重要的。孩子们不仅能通过故事接触语言，还能吸收其中的文化元素。熟悉文化所凸显的价值观，则会提高孩子对文化的重视及对语言
-认识。国立教育学院亚洲语言文化学部为家长提供了视频资源与贴士，帮助家长通过故事让孩子学习母语及其文化。贴士范围包括如何挑选故事，如何讲故事以及如何进行后续讨论。我们希望家长能充分利事，引起孩子们在家中学习母语及母族文化的兴趣，并让他们沉浸在乐趣无穷的学习氛围中. </p>
+      <h4 style="font-size:35px;font-family:KaiTi">华语教学新策略，合作学习趣味多</h4>
+       <p style="font-family:KaiTi">
+       MY World的教师在华语教学中采用多种寓教于乐的合作学习策略，让幼儿在轻松、愉悦的氛围中多聆听华语，多使用华语。幼儿可在与同伴互动、沟通和交流的过程中，学习如何认真聆听，积极表达，从而提升语言表达及聆听能力、人际交往能力和自信心。 </p>
 
-<h3>The World of Stories – Fun in Language Learning and Values Inculcation</h3>
-<p>Stories are a great way to engage children in language learning and exposing them to the value system of a culture behind the language.  Children immerse themselves in the language while enjoying the stories and pick up cultural nuances embedded in them.  Being acquainted with the way values are highlighted will help children have deeper appreciation for the culture and better understanding of the language.  The Asian Languages and Cultures Academic Group from the National Institute of Education is providing video resources and tips for parents to help their children learn their MTL and the corresponding cultures through story-telling, covering the whole process from selection of stories, the actual story-telling process and post story-telling discussion.  This will help parents gain a better understanding of how to fully tap onto story-telling to help their children learn MTL and their values in a fun and engaging way at home.</p></div>
+<h3>Encouraging the Use of Mandarin by Applying Cooperative Learning Strategies in the Classroom/h3>
+<p>At MY World, teachers use a variety of cooperative learning strategies to provide children with opportunities to learn and use the Chinese language in a relaxed and pleasant atmosphere. This process of interaction with peers promotes children’s listening skills, language expressions, interpersonal communication skills and self-confidence.</p></div>
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -64,8 +63,13 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2" class="lbCh">爱加倍实龙岗分校<br/> Agape Little Uni. @ Upper Serangoon</label>
       <div class="tab-content">
+       <h4 style="font-size:35px;font-family:KaiTi">小眼睛，大世界</h4>
+       <p style="font-family:KaiTi">
+       爱加倍实龙岗分校的华文课程根据幼儿年龄发展阶段和需求，利用丰富的自然材料，设计、规划了探索角落和一系列活动。通过这些家校合作活动 通过这些家校合作活动，孩子们与同伴、家长和老师共同探究、总结经验，分享成果。孩子们在充满童趣与寓教于乐的学习环境中，轻松地学习华文、使用华语。</p>
+       <h4>The World Beyond My Eyes</h4>
         <p>
-          This is the content for Exhibitor 2.
+         Chinese language has always been an integral part of children’s development at Agape Little Uni @Upper Serangoon. At the centre, thought-provoking corners are set up 
+         to provide exploratory opportunities for children to develop problem-solving skills, through the use of materials from nature. Through such activities, children are able to  work on inquiry-based projects with the help of their parents and prepare for their termly presentations. The informal storytelling sessions with teachers in the classroom are aimed at cultivating children’s interest and love for the Chinese language both at the centre and at home.
         </p>
       </div>
 </div>
