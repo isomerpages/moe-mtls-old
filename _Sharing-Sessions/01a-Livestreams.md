@@ -29,6 +29,10 @@ max-width:100%;
   max-width: 40%;
   height: auto;
 }
+.column2 img{
+  max-width: 40%;
+  height: auto;
+}
 </style>
 </head>
 <body>
@@ -62,7 +66,7 @@ max-width:100%;
   </div>
   <hr>
 <div class="row">
- <div class="column1">
+ <div class="column">
      <img src="images/cropped-person-icon-8-2.png" style="width:100%">
      <p style= "text-align:center"> <strong>Ms Elakeyaa Selvaraji </strong> <br/>
      Senior Manager, Ministry of Manpower
@@ -92,7 +96,7 @@ max-width:100%;
   </div>
   <hr>
 <div class="row">
- <div class="column">
+ <div class="column1">
      <img src="images/cropped-person-icon-8-2.png" style="width:100%">
      <p style= "text-align:center"> <strong> Ms Rani Kanna & Mr Anandha Kannan  </strong><br/>
      AKT Creations <strong> (TL) </strong>
@@ -101,7 +105,7 @@ max-width:100%;
  <a href="/test/video/">Link to video</a>
 </p>
   </div>
-  <div class="column">
+  <div class="column2">
     <img src="images/cropped-person-icon-8-2.png"  style="width:100%">
     <p style= "text-align:center"> <strong> Dr Connie Lum </strong><br/>
     Principal Curriculum Specialist, My First Skool
