@@ -226,5 +226,9 @@ Para pelajar juga berpeluang untuk mengetahui lebih lanjut mengenai beraneka ben
 <td style="border:0 none;padding: 0; margin:0;">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
-
+    </tr>
+</table>
+<hr>
+<div class="image">
+  <img src="images/footerBanner.png" class="Image" width="1000" height="300"></div>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
