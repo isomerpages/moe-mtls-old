@@ -28,7 +28,7 @@ max-width:100%;
 </style>
 </head>
 <body>
-  <h4>1:00am - 1:00pm</h4>
+  <div><h4>1:00am - 1:00pm</h4></div>
 <div class="row">
  <div class="column">
      <img src="images/cropped-person-icon-8-2.png" style="width:100%">
