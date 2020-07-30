@@ -77,7 +77,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 <td style="border:0 none;padding: 0; margin:0;">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
-
+</tr>
 
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
