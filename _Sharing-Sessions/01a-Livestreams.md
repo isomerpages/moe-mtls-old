@@ -26,11 +26,11 @@ max-width:100%;
   height: auto;
 }
 .column1 img{
-  max-width: 40%;
+  max-width: 30%;
   height: auto;
 }
 .column2 img{
-  max-width: 40%;
+  max-width: 30%;
   height: auto;
 }
 </style>
