@@ -242,6 +242,8 @@ Parents can find out more about the learning opportunities available to the youn
     <h4>Reading The News From A Tender Age</h4>
     <p>Singapore Press Holdings Limited (SPH) has launched four student publications with educational values and fun elements that cater for pre-school, primary and secondary school students. These are Thumbs Up Little Junior, Thumbs Up Junior (lower primary), Thumbs Up (upper primary) and zbCOMMA. <br/>Student publications has also launched an integrated online learning platform, zbschools.sg. where students can explore engaging content and videos which make Chinese learning  both fun and interactive while cultivating the habit of reading at a young age.</p>
 </div>
+    </div>
+    
 </td>
 <td style="border:0 none;padding: 0; margin:0;">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
