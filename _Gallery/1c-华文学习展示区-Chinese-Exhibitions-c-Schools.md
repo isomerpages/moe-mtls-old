@@ -51,7 +51,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
 学生可通过该平台的即时互动工具，构思说话内容，进行互动和评价。在高年级阶段，此配套通过新闻话题，帮助学生了解时事动态，引导他们提出看法和建议，进一步加强语言能力。
  </p>
 
-<h3>Leveraging SLS to Build Metacognition and Develop Oracy Skills</h3>
+<h4>Leveraging SLS to Build Metacognition and Develop Oracy Skills</h4>
 <p>Juying Primary School leveraged on the Student Learning Space (SLS) to design a learning package for all levels to build students’ metacognition and develop their oracy skills. It enables students to be self-directed learners and confident Chinese Language speakers.   <br/>
     The package is used for classroom teaching and the facilitation of home-based learning. The activities enable students to structure their thoughts using SLS interactive thinking tools to record oral responses, and to engage in self-assessment using rubrics. For Upper Primary students, language competencies are reinforced through peer feedback. Related articles are also made available to deepen students’ understanding.
 
