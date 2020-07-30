@@ -108,6 +108,7 @@ max-width:100%;
     </p>
   </div>
   <div class="column">
+    <p></p>
   </div>
   </div>
   <hr>
