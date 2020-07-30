@@ -118,9 +118,13 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
       <input id="tab-5" type="checkbox" name="tab">
       <label for="tab-5" class="lbCh">国立教育学院（亚洲语言文化学部）<br/>National Institute of Education (Asian Languages and Cultures Academic Group)</label>
       <div class="tab-content">
-        <p>
-          This is the content for Exhibitor 2.
+          <h4 style="font-family:KaiTi">故事天地——乐趣无穷的语言学习和价值传承</h4>
+        <p style="font-size:30px; font-family:KaiTi">
+       故事对孩子是极其重要的：孩子们不仅能通过故事接触语言，还能吸收其中的文化元素。熟悉文化价值观，也会提高孩子对文化的重视及对语言的认识。<br/>
+            国立教育学院亚洲语言文化学部为家长提供了学习资源与贴士，希望能够帮助家长通过故事让孩子学习母语及其文化。家长能利用故事，引起孩子们学习母语及母族文化的兴趣，并让他们沉浸在乐趣无穷的学习氛围中。
         </p>
+          <h4>The World of Stories – Fun in Language Learning and Values Acquisition</h4>
+          <p>Stories are a great way to engage children as children become immersedin the language while enjoying the stories and picking up cultural nuances embedded in them.  In order to support children’s exposure to cultural values through language learning, The Asian Languages and Cultures Academic Group from the National Institute of Education is making available video resources and tips about the process of storytelling. These will help parents better understand how to fully tap on storytelling to help their children learn MTL and acquire cultural values in a fun and engaging way at home.</p>
       </div>
 </div>
 </td>
