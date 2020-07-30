@@ -206,6 +206,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 <td style="border:0 none;padding: 0; margin:0;">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
+    </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
