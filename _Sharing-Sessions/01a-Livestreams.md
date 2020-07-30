@@ -26,11 +26,11 @@ max-width:100%;
   height: auto;
 }
 .column1 img{
-  max-width: 30%;
+  max-width: 40%;
   height: auto;
 }
 .column2 img{
-  max-width: 30%;
+  max-width: 40%;
   height: auto;
 }
 </style>
@@ -97,7 +97,7 @@ max-width:100%;
   <hr>
 <div class="row">
  <div class="column1">
-     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
+     <img src="images/cropped-person-icon-8-2.png" style="width:30%">
      <p style= "text-align:center"> <strong> Ms Rani Kanna & Mr Anandha Kannan  </strong><br/>
      AKT Creations <strong> (TL) </strong>
 <br/>
@@ -106,7 +106,7 @@ max-width:100%;
 </p>
   </div>
   <div class="column2">
-    <img src="images/cropped-person-icon-8-2.png"  style="width:100%">
+    <img src="images/cropped-person-icon-8-2.png"  style="width:30%">
     <p style= "text-align:center"> <strong> Dr Connie Lum </strong><br/>
     Principal Curriculum Specialist, My First Skool
  <strong>(EL)</strong>
