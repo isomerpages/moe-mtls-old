@@ -25,6 +25,10 @@ max-width:100%;
   max-width: 40%;
   height: auto;
 }
+.column1 img{
+  max-width: 40%;
+  height: auto;
+}
 </style>
 </head>
 <body>
@@ -58,7 +62,7 @@ max-width:100%;
   </div>
   <hr>
 <div class="row">
- <div class="column">
+ <div class="column1">
      <img src="images/cropped-person-icon-8-2.png" style="width:100%">
      <p style= "text-align:center"> <strong>Ms Elakeyaa Selvaraji </strong> <br/>
      Senior Manager, Ministry of Manpower
