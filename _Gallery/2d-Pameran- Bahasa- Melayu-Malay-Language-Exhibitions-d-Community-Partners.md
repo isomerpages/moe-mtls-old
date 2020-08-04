@@ -47,10 +47,10 @@ third_nav_title: 'Pameran Bahasa Melayu Malay Language Exhibitions'
       <div class="tab-content">
       <h4>Apakah yang Berlaku pada Persekitaran Kita?</h4>
       <p>
-        Berita Harian (BH), melalui artikeldalam akhbar, akhbar edisi pelajar (Gen G) dan audio siar (podcast) telah menekankan pentingnya menjaga alam sekitar sebagai sebahagian daripada isu pemuliharaan alam. Memandangkan isu ini semakin hangat dibincangkan, BH akan memberikan fokus pada tema tersebut bagi Simposium Bahasa Ibunda pada tahun ini. Tema ini akan dipersembahkan dalam bentuk infografik dan aktiviti sampingan yang menarik. Pelajar akan didedahkan kepada kosa kata baharu untuk membiasakan diri mereka dengan istilah yang digunakan dalam perbincangan tentang isu persekitaran.</p>
+       Berita Harian (BH), melalui artikeldalam akhbar, akhbar edisi pelajar (Gen G) dan audio siar (podcast) telah menekankan pentingnya menjaga alam sekitar sebagai sebahagian daripada isu pemuliharaan alam. Memandangkan isu ini semakin hangat dibincangkan, BH akan memberikan fokus pada tema tersebut bagi Simposium Bahasa Ibunda pada tahun ini. Tema ini akan dipersembahkan dalam bentuk infografik dan aktiviti sampingan yang menarik. Pelajar akan didedahkan kepada kosa kata baharu untuk membiasakan diri mereka dengan istilah yang digunakan dalam perbincangan tentang isu persekitaran.</p>
 
 <h4>What's Happening to our Environment?</h4>
-<p>Berita Harian, via its articles, student paper (Gen G) and podcast, has highlighted the importance of taking care of the environment as part of the national conversation on sustainability. As the environment  becomes increasingly important and relevant in the world today, it is vital that students understand the issue. To do so, they mustunderstand the  language and  termsused with with environmental issues. This is the theme for BH's MTLS programme this year, which will be presented throughengaging infographics and other activities. As students become familiar with the vocabulary and terms used in discussing the environment, their understanding and awareness of environmental issues will also grow.
+<p>Berita Harian, via its articles, student paper (Gen G) and podcast, has highlighted the importance of taking care of the environment, as part of the national conversation on sustainability. As the environment  becomes increasingly important and relevant in the world today, it is vital that students understand the issue. To do so, they must understand the  language and  terms  used with environmental issues. This is the theme for BH's MTLS programme this year, which will be presented through engaging infographics and other side activities. As students become familiar with the vocabulary and terms used in discussing the environment, their understanding and awareness of environmental issues will also grow.
 </p>
       </div>
 </div>
@@ -174,12 +174,12 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
       <input id="tab-7" type="checkbox" name="tab">
       <label for="tab-7" class="lbML">Jawatankuasa Pembelajaran dan Penggalakkan Penggunaan Bahasa Melayu <br/>Malay Language Learning and Promotion Committee</label>
       <div class="tab-content">
-       <h4>Jawatankuasa Pembelajaran dan Penggalakkan Penggunaan Bahasa Melayu</h4>
+       <h4>Jawatankuasa Penggalakan dan Penggunaan Bahasa Melayu</h4>
         <p>
-          Mari ikuti pengembaraan Nabil dan Nabilah meneroka sebahagian warisan Melayu merentas zaman melalui pantun dan simpulan bahasa.  Pengalaman Nabil dan Nabilahmenerokai keindahan dan kekayaan budaya dan bahasa masyarakat Melayu ini bertujuan untuk melestari dan meningkatkan penggunaan bahasa Melayu dalam interaksi harian masyarakat Melayu.  Menerusi kedua-dua watak ini, pengunjung akan dapat menyemai rasa minat dan cinta akan bahasa yang diwarisi..
+          Mari ikuti pengembaraan Nabil dan Nabilah meneroka sebahagian warisan Melayu merentas zaman melalui pantun dan simpulan bahasa.  Pengalaman Nabil dan Nabilahmenerokai keindahan dan kekayaan budaya dan bahasa masyarakat Melayu ini bertujuan untuk melestari dan meningkatkan penggunaan bahasa Melayu dalam interaksi harian masyarakat Melayu.  Menerusi kedua-dua watak ini, pengunjung akan dapat menyemai rasa minat dan cinta akan bahasa yang diwarisi.
         </p>
        <h4>Malay Language Learning and Promotion Committee</h4>
-       <p>Come on and join Nabil and Nabilah on their enthralling journey into the Malay heritage world.  Discover the timeless beauty of poems and idioms through Nabil’s and Nabilah’s unique experiences. Visitors will be brought through different quests that  immerse them in the Malay language and where they will experience and interact with both poems and day-to-day idioms.</p>
+       <p>Come on and join Nabil and Nabilah on their enthralling journey into the Malay heritage world.  Discover the timeless beauty of poems and idioms through Nabil’s and Nabilah’s unique experiences. Visitors can be involved in different activities that  immerse them in the Malay language and where they will experience and interact with both poems and day-to-day idioms.</p>
        
   </div>
 </div>
