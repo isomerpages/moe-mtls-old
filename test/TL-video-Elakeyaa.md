@@ -35,3 +35,5 @@ max-width:20%;
   <h4> Synopsis</h4>
        <p><strong>Fun-filled ways in the learning of the Tamil Language</strong><br/>
 Current key concerns amongst young Indian parents is how to nurture the love of theTamil language in their children. A love for the language cannot be derived from tuition or assessment books and practices. Rather, a child’s engagement with the language needs to be fun, practical, engaging and creative. In this workshop, participants will learn of the challenges the presenter faced in getting her children to speak Tamil and the efforts she made to cultivate their interest in the Tamil language through such strategies as streamlininglearning with what children see, do and like. Come and learn useful tips in making children engaged in the learning of the Tamil Language.</p>
+
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
