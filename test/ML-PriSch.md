@@ -65,9 +65,9 @@ breadcrumb: 'ML PriSch'
 </label>
      <div class="tab-content">
        <p>Pada akhir perngajaran dan pembelajaran Bahasa Melayu di sekolah rendah, murid depat:
-         <ol type="i">
+         <ul>
 
-           <li>mendengar dan memahami pengucapan dengan teliti;
+  <li>mendengar dan memahami pengucapan dengan teliti;
 </li>
            <li>bertutur dengan petah menggunakan sebutan bak dan intonasi yang betul;
 </li>
@@ -84,6 +84,6 @@ breadcrumb: 'ML PriSch'
 </li>
             <li>memupuk minat membaca dan menjadikannya amalan ke arah membina budaya belajar sepanjang hayat.
 </li>
-           </ol> 
+           </ul> 
        </p>
       
