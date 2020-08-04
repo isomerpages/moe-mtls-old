@@ -1,8 +1,8 @@
 ---
 title: 'MTL Challenge'
-permalink: /Online-Quest/MTL-Challenge/
+permalink: /Others/MTL-Challenge/
 breadcrumb: 'MTL Challenge'
-collection_name: Online Quest
+collection_name: Others
 ---
 <div>
 This is MTL Challenge.
