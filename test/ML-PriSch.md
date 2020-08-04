@@ -6,8 +6,52 @@ breadcrumb: 'ML PriSch'
 <html>
 <body>
 <style>
+   * {
+  box-sizing: border-box;
+}
+
+ .tab table {
+   display: none;
+}
+.tab table:target {
+  display: block;
+}
+.atab label {
+    position: relative;
+    display: block;
+    background: #d14165;
+    color: #fff;
+    font-weight: 700;
+    padding: 10px;
+    cursor: pointer;
+ }
+  .atab label::after {
+  content: "+";
+  font-size: 22px;
+  position: absolute;
+  right: 10px;
+  top: 7px;
+  transition: all 0.4s;
+}
+ .atab input[type=checkbox]:checked + label::after,
+.atab input[type=radio]:checked + label::after {
+    content: 'x';
+    right: 14px;
+    top: 7px;
+  //transform:rotate(-225deg);
+   /* transform: rotate(90deg); */
+}
+.tab-content {
+  overflow: hidden;
+  display: none;
+  width:100%; 
+}
+.atab{
+  margin-bottom: 5px;
+  width:100%;  
+}
 </style>
-<a href="/gallery/华文学习展示区-chinese-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
+<a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/ML_Header.jpg">
 <p>
  <a href="#C1" style="font-size:30px"><span style="color:blue;font-family:KaiTi">Bahan Pengajaran Dan Pembelajaran</span></a>&nbsp;&nbsp;
