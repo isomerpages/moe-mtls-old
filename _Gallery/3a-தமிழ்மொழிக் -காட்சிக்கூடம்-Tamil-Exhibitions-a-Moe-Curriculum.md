@@ -62,88 +62,28 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
   <a href="#Sch"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">学前教育</div></a>
   <a href="#Pri"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">小学</div></a>
   <a href="#Sec"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">中学</div></a>
-  <a href="#PreU"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">大学先修班</div></a><br/>
+  <a href="#PreU"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">大学先修班</div></a>
+</div>  <br/>
+ <div style="margin-top:auto;margin-bottom:auto;text-align:left;">
+<h4><strong>கற்றலில் ஆர்வம், பயன்பாட்டில் திறமை </strong></h4>
  
-<table id="Sch">
-<tr>
-<td>
-This is the context for School page.
-</td>
-</tr>
-</table>
- 
-<table id="Pri">
-<tr><td colspan="2"><img src="/images/CL-Primary-Header.JPG"></td></tr>
-<tr><td colspan="2"><p><span style="color:#d14165;font-size:35px; font-family:Calibri (Body)"> 小学华文课程 </span> &nbsp; &nbsp; &nbsp;  
- <a href="#tab-1" style="font-size:20px"><span style="color:black">课程介绍    </span></a>&nbsp;&nbsp;
- <a href="#数码资源介绍 " style="font-size:20px"><span style="color:black">数码资源介绍    </span></a>&nbsp;&nbsp;
- <a href="#家长为教育伙伴 " style="font-size:20px"><span style="color:black">家长为教育伙伴 </span></a>
- <br/>
-2015年开始实施的这套华文教材定名为《欢乐伙伴》，是希望它能成为孩子们的学习良伴，也希望孩子们在学习的过程中互相协助、共同进步，成为彼此快乐学习的好伙伴。
-</p>
- </td></tr>
-  <tr>
-  <td> 
-  <iframe src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px;font-family:Calibri (Body)"> 2015小学华文教材介绍 1</span></td>
-<td>
-  <iframe src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px"> 2015小学华文教材介绍 2</span></td>
- </tr>
-  <tr>
-<td colspan="2" style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-1" type="checkbox" name="tab">
-   <label for="tab-1">课程介绍 </label>
-     <div class="tab-content">
-      <p> <img src="/images/Picture11.png"> </p></div></div>
-      </td>
-  </tr>
- <tr>
-  <td colspan="2">
-  <img src="/images/newImage.png">
- </td>
- </tr>
-<tr><td colspan="2"><h5 id=" 数码资源介绍 "><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"> 数码资源介绍 </span> </h5> 
- <span style="color:#d14165;font-size:18px;font-family:Calibri (Body)">数码资源提供了多种有趣的活动，让孩子复习与巩固所学，培养孩子自主学习的能力。</span> </td></tr>
- <tr>
- <td>
-<iframe src="https://www.youtube.com/embed/Zz3N7AI6Y3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-<span style="color:#d14165;font-size:15px; font-family:Calibri (Body)">小学华文数码资源介绍 - “学乐”网 </span><br/>
-   </td>
-   <td>
- <iframe src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
- <span style="color:#d14165;font-size:15px; font-family:Calibri (Body)" >小学华文数码资源介绍新加坡学生学习平台</span><br/>
-</td></tr>
- <tr><td colspan="2">
- <h5 id="家长为教育伙伴"><span style="color:#d14165;font-size:35px;font-family:Calibri (Body)"> 家长为教育伙伴 </span> </h5>
-<p><span style="color:#d14165;font-size:20px;font-family:Calibri (Body)">家长如何协助孩子学习</span><br/>
-家长在孩子的学习过程中扮演着非常重要的角色：
-    <ul style="font-family:Calibri (Body)">
-     <li>为了让家长清楚孩子在华文课上学了些什么，课本中的“我会说”、“我会认”与“我会写” 列出了每一课的学习内容，以便家长可协助孩子学习。</li>
-     <li>为了让孩子把课堂所学运用到生活中，课本也设置了“生活运用”这个板块。通过一些小活动和小任务，让家长与孩子一起交流、分享，帮助孩子巩固所学，感受语言的实用价值。</li>
-     <li>家长可利用小图书、小图卡、字宝宝及数码资源与孩子一起互动，培养孩子对华文华语的兴趣。</li>
-  <p style="font-family:Calibri (Body)"><a href="/Gallery/CL-textbook-CLPG2016.pdf" target="_blank">家长指南(CL)</a></p>
-     <p style="font-family:Calibri (Body)"><a href="/Gallery/EL-textbook-CLPG2016.pdf" target="_blank">Parent Guide (EL)</a></p>
-     <p style="font-family:Calibri (Body)"><a href="/Gallery/CL-Pri-ExternalResources.pdf" target="_blank">小学华文课外读物参考书目</a></p>
-    </ul>
- </p></td></tr>
- <tr><td colspan="2"><img style="width:100%" src="/images/footerBanner.png"></td></tr>
-</table>
+  <p>
+   <li>நம் இளந்தலைமுறையினர் கருத்துப்பரிமாற்றத் திறன்களை வலுப்படுத்துவதும், மாணவர்கள் அவர்தம் பண்பாட்டு மூலங்களை அறிந்து போற்றுவதற்கு உதவும் வகையில் அவர்களிடத்துப் பண்பாட்டு விழிப்புணர்வை உண்டாக்குவதும், சிங்கப்பூரர்களை ஆசியாவுடனும் உலக நாடுகளுடனும் இணைந்து நிற்கும் ஆற்றலுடையவர்களாக உருவாக்குவதும் தாய்மொழிக் கல்வியின் முக்கிய நோக்கங்களாகும். </li>
+   <li>	தாய்மொழிப் பாடக்கலைத்திட்டமானது மாணவர்களிடம் மொழி, எழுத்து ஆகிய திறன்களில் வலுவான அடிப்படையை அளிப்பதன்முலம் மொழியைத் திறம்படப் பயன்படுத்தும் ஆற்றல் உடையவர்களாக உருவாக்குவதை நோக்கமாகக் கொண்டுள்ளது. பேசுதல் கேட்டல், எழுதுதல் ஆகிய முக்கியத் திறன்களைக் கற்பிப்பதன்மூலம் அன்றாட வாழ்க்கையில் தாய்மொழியில் கருத்துப்பரிமாற்றத்திறன்களையும் வளர்க்கிறது. தகவல்தொழில்நுட்பம், நற்குணமும் குடியியல் கல்வி, சமூக மனவுணர்வு சார்ந்த கற்றல் கூறுகளைத் தாய்மொழிப் பாடத்திட்டத்தில் இணைப்பதன் வாயிலாகப் பண்பாட்டு விழுமியங்களும் நன்கு அறிந்துகொள்வதற்கு வாய்ப்பளிக்கப்படுகிறது. மேலும், உயர்சிந்தனை திறன்களை வளர்த்துப் பலதரப்பட்ட நடைமுறைச் சூழல்சார்ந்த எழுத்துப்படைப்புகளையும் மாணவர்களுக்கு அறிமுகப்படுத்தப்படுகின்றன. இதன்மூலம் தாய்மொழியை வாழும் மொழியாக நிலைபெறச் செய்து இளந்தலைமுறையினர் பயன்மிகு வாழ்க்கை வாழ வழிகாட்டுகிறது.</li>
+   <li>•	கல்வி அமைச்சின் தாய்மொழிப் பாடக்கலைத்திட்டத் தளத்திலுள்ள தகவல்கள்வழிப் பெற்றோர்களுக்கும் கல்வியாளர்களுக்கும் பாலர் கல்வி முதல் புகுமுகக் கல்விவரை வழங்கப்படும் பல்வேறு தாய்மொழி கற்றல் வாய்ப்புகளைப்பற்றிய புரிந்துணர்வை வழங்குவதை நோக்கமாகக் கொண்டுள்ளது. மேலும், மகிழ்வூட்டக்கூடிய முறையில் தாய்மொழி கற்றலில் பிள்ளைகளை ஈடுபடுத்தவும் பெற்றோர்களுக்கும் கல்வியாளர்களுக்கும் இந்தத் தளத்தில் உள்ள தகவல்கள் துணைபுரியும் என நம்புகிறோம். </li>
+  </p>
+  
+  <h4>Nurturing Active Learners and proficient Users </h4>
+  <p>
+ <li>The key purpose of MTL education is to equip our youngwith effective communication skills and to create a greater awareness and appreciation about our culture and values, which in turn enables  our young  to have the confidence to connect with similar language communities across Asia and the world.</li>
+ <li>The MTL curriculum aims to develop our young to be proficient language users who have strong foundational language and literacy skills. It leverages on students’ written and interpersonal communication skills with real-life contexts via the fundamental language skills such as speaking, listening, and reading. The infusion of ICT, CCE and SEL into the curriculum further enhances the learning and exposes our young to understand the cultures and values weaved throughout the curriculum.    It also aims to develop higher order thinking skills and expose students to a wide variety of literary and authentic texts. This is intended to make MTL a living language that enables our young to lead purposeful lives.</li>
+ <li>•	The information featured in our MOE MTL curriculum aims to provide parents and educators with an understanding about the different opportunities for MTL learning beginning from Pre-school, Primary, Secondary to Pre-University. There will also be tips for parents and educators to gain insights and gather ideas to bring the joy of learning MTL to our young and to better support them in this journey.</li>
+</p></div>
 
-<table id="Sec">
-<tr>
-<td>
-This is the context for Sec page.
-</td>
-</tr>
-</table>
-
-<table id="PreU">
-<tr>
-<td>
-This is the context for PreU page.
-</td>
-</tr>
-</table>
-
+<div class="image">
+  <img src="images/footerBanner.png" class="Image" width="1000" height="300"></div>
+  <div class="video-container">
+<iframe src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe></div>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
