@@ -34,3 +34,5 @@ max-width:20%;
        <p><strong>Parents and their involvement in supporting early literacy at home</strong><br/>
         Home is the first school, and parents are the first teachers. Parental involvement helps to extend teaching outside of the classroom. This in turn helps to create a more positive experience for children and helps them to perform better when they are in school. As such, it is essential for parents to support the learning that happens in pre-school settings at home. Through this session, participants will gain insight on how to create a literacy-rich home environment as they explore fun and practical strategies to promote a love for the Malay language.
 </p>
+    
+ <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
