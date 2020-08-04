@@ -231,5 +231,5 @@ Para pelajar juga berpeluang untuk mengetahui lebih lanjut mengenai beraneka ben
 </table>
 <hr>
 <div class="image">
-  <img src="images/footerBanner.png" class="Image" width="1000" height="300"></div>
+  <img src="images/New_footer.jpg" class="Image" width="1000" height="300"></div>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
