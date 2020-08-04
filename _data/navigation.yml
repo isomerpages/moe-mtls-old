@@ -18,8 +18,4 @@ links:
   url: /Online-Quest/
 - title: Others
   url: /Others/
-  sub-links:
-  - title: MTL Challenge
-    url: /Others/MTL-Challenge
-  - title: Sales Booth
-    url: /Others/Sales-Booth
+  collection: Others
