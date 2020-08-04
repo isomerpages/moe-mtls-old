@@ -89,11 +89,12 @@ third_nav_title: 'Pameran Bahasa Melayu Malay Language Exhibitions'
       <div class="tab-content">
        <h4>Bercerita dengan Wayang Kuit</h4>
         <p>
-          ‘Bercerita dengan wayang kulit’ merupakan satu usaha My First Skool @ Sengkang West untuk menggalakkan pengajaran dan pembelajaran Bahasa Melayu secara interaktif bagi kanak-kanak Prasekolah 1 dan 2. Mereka berharap agar pendekatan ini dapat  menimbulkan rasa ingin tahu dan merangsang imaginasi kanak-kanak.<br/>
-         Ibu bapa juga boleh mempelajari teknik bercerita dengan menggunakan wayang kulit. Dengan menggunakan bahan-bahan yang terdapat dalam rumah seperti boneka dan membina alatan menggunakan bahan kitar semula, ibu bapa boleh menjalankan sesi bercerita yang menarik bersama anak-anak mereka.
+          ‘Bercerita dengan menggunakan wayang kulit’ merupakan satu usaha My First Skool @ Sengkang West untuk menggalakkan pengajaran dan pembelajaran Bahasa Melayu secara interaktif bagi kanak-kanak Prasekolah 1 dan 2. Melalui pendekatan ini, kami berharap dapat  menimbulkan rasa ingin tahu dan merangsang imaginasi kanak-kanak.<br/>
+         Ibu bapa juga boleh mempelajari teknik bercerita dengan menggunakan wayang kulit. Dengan membuat boneka dan membina alatan menggunakan bahan kitar semula, ibu bapa boleh menjalankan sesi bercerita yang menarik bersama anak-anak mereka.
         </p>
             <h4>Storytelling using Shadow Puppetry</h4>
-       <p>Storytelling using Shadow Puppetry is an intiative by My First Skool @ 50 Sengkang West to promote interactive teaching and learning practices for Kindergarten 1 and 2 children. Through this approach.We hope to spark our children’s curiosity and stimulate their imagination <br/>shadow puppetry. By making puppets and props from recycled materials found at home, parents can conduct their own engaging storytelling sessions with their children.</p>
+       <p>Storytelling using Shadow Puppetry is an intiative by My First Skool @ 50 Sengkang West to promote interactive teaching and learning practices for Kindergarten 1 and 2 children. Through this approach, we hope to spark our children’s curiosity and stimulate their imagination. <br/>
+          Parents can also learn storytellingtechniques  using shadow puppetry. By making puppets and props from recycled materials found at home, parents can conduct their own engaging storytelling sessions with their children.</p>
       </div>
 </div>
 </td>
