@@ -10,7 +10,7 @@ With the current Covid-19 situation, and in the interest of everyone’s safety,
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wvuiXKf_bJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RXaW1jeuEj4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<div><img src="/images/Supporter-Banner.png"></div>
+<div><img src="/images/Supporter-logo-2.jpeg"></div>
 
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
