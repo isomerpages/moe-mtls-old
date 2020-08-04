@@ -36,3 +36,5 @@ max-width:20%;
         Pedagogical theory strongly supports the use of stories in teaching language to children. Having stories as a central component of language lessons both contextualises language learning and creates opportunities to inspire young children. Story-relatedactivities enable children to be immersed in the story as a meaningful experience. This proven strategy enables educators and professionals alike to successfully engage their learners. <br/>
         Home-Based Learning (HBL) isbecoming a new norm. The presenter willshare strategies as to how stories and related activities can be creatively used by parents and educators to enthuse our children in the learning of the language whether at home or in the classroom. 
 </p>
+
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
