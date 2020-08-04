@@ -34,3 +34,5 @@ max-width:20%;
   <h4> Synopsis</h4>  
        <p><strong>Children’s neuro-psychological development: myths and facts</strong><br/>
 Early intervention is important. Parents are often seeking ways to maximise the learning and developmental potential of their children. Over these last few decades, neuro-psychological research hasestablished several important facts about the cognitive development of young children. However, myths and misconceptions regarding brain development still persist. In this talk, A/P Mariam Aljunied will help dispel these myths and clarify the facts about children’s neuro-psychological development. She will provide insights on the cognitive effects of growing up bilingual, and in particular, why the learning of two or more languages can enhance cognition. Several tips for parents will be shared as to what they can do to facilitate and enhance children’s language and communication abilities, as well as what parents should do if children show early warning signs of language and communication difficulties.</p>
+
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
