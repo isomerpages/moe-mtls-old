@@ -222,6 +222,6 @@ Our speaker will be sharing a framework for MTL development in an educational ec
 </table>
   <hr/>
 
-  <img src="images/footerBanner.png" class="Image" width="1000" height="300">
+  <img src="images/New_footer.jpg" class="Image" width="1000" height="300">
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
