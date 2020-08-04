@@ -18,7 +18,7 @@ links:
   url: /Online-Quest/
 - title: Others
   url: /Others/
- sublinks:
+  sub-links:
       - title: MTL Challenge
         url: /Others/MTL Challenge/
       - title: Sales Booth
