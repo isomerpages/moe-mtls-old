@@ -40,3 +40,4 @@ max-width:20%;
   <h4> Synopsis</h4> 
        <p><strong>Let’s Learn our Tamil Language!</strong><br/>
         Family involvement and support play anintegral role in a child’s acquiring a language. This requires collaboration between schools and parents insupporting every step each child takes in learning and developing his/her language skills. Exposure to the Tamil language at home gives children more opportunities to use the language in everyday lifeand also enables them to be more confident in using the language. This session will help participants to gainbetter understanding about the Primary Curriculum and learn how to create authentic opportunitiesand apply innovative strategies to foster a child’s learning of the Tamil language at home. </p>
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
