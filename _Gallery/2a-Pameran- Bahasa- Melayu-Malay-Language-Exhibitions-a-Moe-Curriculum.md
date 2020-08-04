@@ -66,6 +66,7 @@ third_nav_title: 'Pameran Bahasa Melayu Malay Language Exhibitions'
 </div>  <br/>
  
  <h4><strong>Memupuk Pelajar Aktif dan Pengguna Cekap </strong></h4>
+ <div style="margin-top:auto;margin-bottom:auto;text-align:left;">
  <p>
  <li>Tujuan utama pendidikan Bahasa Ibunda adalah untuk memperkukuh kemahiran berkomunikasi memupuk kesedaran dan penghayatan pelajar kita tentang warisan budaya dan nilai.  Dengan ini, mereka akan berasa yakin apabila berhubung dengan masyarakat di Asia dan seluruh dunia. 
 </li>
@@ -75,7 +76,7 @@ third_nav_title: 'Pameran Bahasa Melayu Malay Language Exhibitions'
 </li>
  <li>Maklumat yang dipaparkan dalam Kurikulum Bahasa Ibunda MOE bertujuan untuk memberikan pemahaman kepada  ibu bapa dan pendidik tentang pelbagai peluang pembelajaran Bahasa Ibunda bermula dari peringkat prasekolah, sekolah rendah, sekolah menengah hingga ke peringkat prauniversiti. Beberapa panduan dan idea telah disediakan bagi ibu bapa dan pendidik menyokong pembelajaran Bahasa Ibunda yang menyeronokkan untuk anak-anak kita.
 </li>
-</p>
+</p></div> 
  
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
