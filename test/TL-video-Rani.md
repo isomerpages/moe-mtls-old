@@ -37,3 +37,4 @@ max-width:20%;
        <p> <strong>Joyful Learning through stories </strong><br/>
         Storytelling is a powerful medium to stimulate imagination in kids. Imagination enhances a child’s creativity and fosters confidence in communication and speaking skills. This session will share enjoyable techniques for storytelling, interactivity and innovation. That will stimulate your children’s imagination and inspire them. Let us make narratives come alive for children.
 </p>
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
