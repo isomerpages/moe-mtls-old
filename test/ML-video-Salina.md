@@ -39,3 +39,5 @@ Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal b
   <h4> Synopsis</h4> 
        <p><strong>The Thinking Reader in the Digital World</strong><br/>
        ‘There are many little ways to enlarge a child’s world. A love of books is the best of all’. In this unprecedented time, teaching and learning has taken on new forms. As we ease ourselves into this new norm, this quotation from Jacqueline Kennedy is more relevant than ever. This session hopes to provide parents and teachers with an opportunity to look at how children  learn to read in MTL in a different and more critical way. There are no limits to the curricular strategies and learning tools that teachers and parents can leverage on as we guide our little charges to  enjoyreading in MTL.</p>
+    
+ <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
