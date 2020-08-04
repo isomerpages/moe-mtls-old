@@ -64,4 +64,26 @@ breadcrumb: 'ML PriSch'
    <label for="tab-1" style="font-family:KaiTi;font-size:22px">Objektif  Kurikulum Bahasa Melayu
 </label>
      <div class="tab-content">
+       <p>Pada akhir perngajaran dan pembelajaran Bahasa Melayu di sekolah rendah, murid depat:
+         <ol type="i">
+<li></li>
+           <li>mendengar dan memahami pengucapan dengan teliti;
+</li>
+           <li>bertutur dengan petah menggunakan sebutan bak dan intonasi yang betul;
+</li>
+           <li>membaca pelbagai bahan bercetak dan bahan media elektronik dan memberikan respons yang sesuai;
+</li>
+           <li>menulis pelbagai jenis teks berdasarkan pelbagai tajuk yang sesuai;
+</li>
+           <li>berinteraksi secara lisan dengan menggunakan sebutan baku;</li>
+           <li>berinteraksi secara bertulis mengenai pelbagai tajuk tang sesuai;
+</li>
+           <li>berfikir secara kreatif, kritis dan kritikal;
+</li>
+           <li>mengenali dan memahami budaya dan nilai-nilai murni masyarakay Melayu dan kaum-kaum lain; dan
+</li>
+            <li>memupuk minat membaca dan menjadikannya amalan ke arah membina budaya belajar sepanjang hayat.
+</li>
+           </ol> 
+       </p>
       
