@@ -39,3 +39,5 @@ Kajian neurosains telah membuktikan bahawa pembelajaran akan berhenti apabila ke
   <h4>Synopsis</h4> 
        <p><strong>Edutainment: A Stimulus To Motivate Students’ Malay Language Learning</strong><br/>
  Neuroscience research informs us that when the fun stops, learning often stops too. Finding ways to make language teaching and learning active and effective for young learners is of great importance. One method is the use of an edutainment approach which contains a number of activities such as singing, storytelling, acting or poetry. The Edutainment approach nourishes interest in learning and develops a positive attitude towards learning language, in particular,addressing students’ difficulties in mastering  reading and writing skills. This sharing draws on the speaker’s wealth of experience and expertise as an educational media designer andin the creative arts as a performer, poet and Malay culture practitioner. The sharing also provides examp of  the ways edutainment has been applied in educational resources.</p>
+ 
+ <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
