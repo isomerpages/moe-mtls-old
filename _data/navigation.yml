@@ -19,7 +19,7 @@ links:
 - title: Others
   url: /Others/
   sub-links:
- - title: MTL Challenge
+  - title: MTL Challenge
    url: /Others/MTL-Challenge/
- - title: Sales Booth
+  - title: Sales Booth
    url: /Others/Sales-Booth/
