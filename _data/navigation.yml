@@ -15,7 +15,9 @@ links:
   - title: Pre-School Cluster
     url: /Exhibition/Pre-School Cluster
 - title: Online Quest
-  url: /Online-Quest/MTL-Challenge
-  sublinks:
+  url: /Online-Quest/
+- title: Others
+  url: /Others/
+ sublinks:
       - title: MTL Challenge
-        url: /Online-Quest/MTL-Challenge/
+        url: /Others/MTL-Challenge/
