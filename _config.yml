@@ -33,6 +33,8 @@ collections:
         output: true
     Schools:
         output: true
+    Others:
+        output: true
 resources_name: resource-room
 favicon: /images/emtls-2020-logo-01-favicon.ico
 google-analytics: UA-124401955-1
