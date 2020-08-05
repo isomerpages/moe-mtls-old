@@ -16,6 +16,10 @@ breadcrumb: 'ML PriSch'
 .tab table:target {
   display: block;
 }
+image{
+width:60%;
+height:auto;
+}
 .atab label {
     position: relative;
     display: block;
@@ -98,7 +102,7 @@ breadcrumb: 'ML PriSch'
   <li>Sila lihat Program Bahasa Melayu Lanjutan, Program Sokongan Bahasa Ibunda bagi murid Darjah 3 dan 4
 </li>
 </p>
-  <img src="/images/ML-Program.jpg">    
+  <img src="/images/ML-Program.jpg" class="image">    
   <a href="https://tinyurl.com/emasmlep" target="_blank">https://tinyurl.com/emasmlep </a>
  <p style="font-size:30px;color:green;">Bahan Pengajaran dan Pembelajaran <br/>
   <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran cekap:</span></p>
