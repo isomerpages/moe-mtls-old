@@ -56,7 +56,7 @@ third_nav_title: 'Pameran Bahasa Melayu Malay Language Exhibitions'
 </div>
 
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
 <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
@@ -77,7 +77,7 @@ Dana ini menyokong pendekatan pelibatan dan kreatif yang menggalakkan kedwibahas
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
@@ -102,7 +102,7 @@ Parents can find out more about the learning opportunities available for the you
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
@@ -123,7 +123,7 @@ To encourage the use of stories, the Asian Languages and Cultures Academic Group
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
@@ -145,7 +145,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
@@ -164,7 +164,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
@@ -184,7 +184,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
   </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
@@ -203,7 +203,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
   </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
     </tr>
@@ -224,7 +224,7 @@ Para pelajar juga berpeluang untuk mengetahui lebih lanjut mengenai beraneka ben
 </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
