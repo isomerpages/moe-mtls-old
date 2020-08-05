@@ -236,7 +236,7 @@ Our speaker will be sharing a framework for MTL development in an educational ec
    </div>
        <h4 style="font-size:28px;font-family:KaiTi">母语学习，赢在起点！</h4>
 <h4> Profile</h4>  
-       <p style="font-size:28px;font-family:KaiTi">李莉老师在学前教育方面拥有24年的实践教学经验，她曾在新意元幼源（Creative O）担任高级华文教师15年，拥有六年的师资培训经验。她目前是国立幼儿培育教育学院（NIEC）以及新加坡新跃社科大学（SUSS）兼职讲师，也在新意元基金会担任在职学前教师培训工作。李莉老师曾多次受邀主持新加坡幼教年会教师工作坊，多次在新加坡“华文作为第二语言之教与学国际研讨会“发表学前全语言教学主题演讲。<p>
+       <p style="font-size:28px;font-family:KaiTi">李莉老师在学前教育方面拥有24年的实践教学经验，她曾在新意元幼源（Creative O）担任高级华文教师15年，拥有六年的师资培训经验。她目前是国立幼儿培育教育学院（NIEC）以及新加坡新跃社科大学（SUSS）兼职讲师，也在新意元基金会担任在职学前教师培训工作。李莉老师曾多次受邀主持新加坡幼教年会教师工作坊，多次在新加坡“华文作为第二语言之教与学国际研讨会“发表学前全语言教学主题演讲。</p>
        <h4> Synopsis</h4>  
        <p style="font-size:28px;font-family:KaiTi">幼儿期是语言学习的关键期，良好的母语能力奠定终生学习的基础。主讲员将探讨为什么母语学习要赢在起点，以及怎样让母语学习赢在起点？这次的分享也包括家长和教师在家和在学校里可实施的一些母语学习方法和策略，以及如何让幼儿在愉快、自然的日常环境中，轻松掌握说读写语言技能，并撒下热爱母语学习并撒下热爱母语学习的种子。</p>
        <h4>Giving Your Child a Head Start in Learning Mother Tongue Languages!</h4>
