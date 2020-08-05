@@ -60,7 +60,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
 <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></a>
 </td>
 </tr>
@@ -76,7 +76,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
 </tr>
@@ -92,7 +92,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></a>
 </td>
 </tr>
@@ -110,7 +110,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></a>
 </td>
 </tr>
@@ -130,7 +130,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></a>
 </td>
 </tr>
@@ -155,7 +155,7 @@ The key activities in TLLPC include Signature, Flagship and Support programmes. 
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></a>
 </td>
 </tr>
@@ -177,7 +177,7 @@ Interacting with the environment and community promotes rich, self-directed lear
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></a>
 </td>
 </tr>
@@ -199,7 +199,7 @@ Interacting with the environment and community promotes rich, self-directed lear
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></a>
 </td>
 </tr>
