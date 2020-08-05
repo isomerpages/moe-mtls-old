@@ -14,5 +14,4 @@ contacts:
     content: 
     - phone:
     - email: picoevents01@pico.com
-    - other: We apologise that we are unable to answer phone enquiries as our staff are working from home during this period of time.
 ---
