@@ -112,4 +112,19 @@ height:auto;
      <div class="tab-content">
        <img src="/images/ML-Murid.jpg">  
        </div></div>
-      
+       <div class="atab">
+      <input id="tab-3" type="checkbox" name="tab">
+   <label for="tab-3">kaya dan pelbagai</label>
+     <div class="tab-content">
+       <img src="/images/ML-meli.png">  
+       </div></div>
+       <div class="atab">
+      <input id="tab-4" type="checkbox" name="tab">
+   <label for="tab-4">berdasarkan situasi sebenar dan bermakna</label>
+     <div class="tab-content">
+       <img src="/images/ML-10.png">  
+       </div></div>
+      <p style="font-size:30px;color:green;">Sokongan Ibu Bapa <br/>
+<img src="/images/ML-Role.jpg"> 
+</p>
+<p style="font-size:25px;">Ibu bapa boleh bermain beberapa permainan dengan anak anda agar dapat meningkatkan dan meluaskan kosa kata anak</p>
