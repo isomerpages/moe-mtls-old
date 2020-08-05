@@ -67,21 +67,6 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbTM">N4 குழுமம் (தொடக்கப்பள்ளிகள்)<br/>N4 Cluster</label>
-      <div class="tab-content">
-          <h4><strong></strong></h4>
-          <p>  This is the content for Exhibitor 2.</p>
-          </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0; margin:0;">
- <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></a>
-</td>
-</tr>
-<tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
       <label for="tab-3" class="lbTM">தேசிய மரபுடைமைக் கழகம்<br/>National Heritage Board</label>
       <div class="tab-content">
