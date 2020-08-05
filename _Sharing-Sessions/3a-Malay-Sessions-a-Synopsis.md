@@ -210,7 +210,7 @@ Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal b
        ‘There are many little ways to enlarge a child’s world. A love of books is the best of all’. In this unprecedented time, teaching and learning has taken on new forms. As we ease ourselves into this new norm, this quotation from Jacqueline Kennedy is more relevant than ever. This session hopes to provide parents and teachers with an opportunity to look at how children  learn to read in MTL in a different and more critical way. There are no limits to the curricular strategies and learning tools that teachers and parents can leverage on as we guide our little charges to  enjoy reading in MTL.</p>
         </div></div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
   <a href="/test/ML-video-Salina/"><img class="btnImg" alt="Click here" src="/images/arrowMalay.png"></a>
 </td>
  </tr>
