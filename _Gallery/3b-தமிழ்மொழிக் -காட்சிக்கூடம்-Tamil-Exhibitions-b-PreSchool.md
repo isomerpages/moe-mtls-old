@@ -61,7 +61,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
 <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></a>
 </td>
 </tr>
@@ -82,7 +82,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></a>
 </td>
 </tr>
@@ -104,7 +104,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></a>
 </td>
 </tr>
