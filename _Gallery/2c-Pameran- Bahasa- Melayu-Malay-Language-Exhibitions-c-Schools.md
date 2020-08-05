@@ -60,7 +60,7 @@ Soalan-soalan rangsangan (menggunakan Roda Penaakulan Paul) disertakan dalam Unj
 </div>
 
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
 <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
@@ -81,7 +81,7 @@ Soalan-soalan rangsangan (menggunakan Roda Penaakulan Paul) disertakan dalam Unj
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
@@ -104,7 +104,7 @@ Soalan-soalan rangsangan (menggunakan Roda Penaakulan Paul) disertakan dalam Unj
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
