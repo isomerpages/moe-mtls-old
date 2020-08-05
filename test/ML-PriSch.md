@@ -16,9 +16,16 @@ breadcrumb: 'ML PriSch'
 .tab table:target {
   display: block;
 }
-image{
-width:60%;
-height:auto;
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 30%;
+}
+
+td, th {
+  border: 1px ;
+  text-align: center;
+  padding: 8px;
 }
 .atab label {
     position: relative;
@@ -134,4 +141,33 @@ height:auto;
      <div class="tab-content">
        <p>Ibu bapa meminta anak memberikan perkataan lain yang bermula dengan huruf terakhir perkataan yang telah disebut.<br/>
          Contoh : 
-         
+         <table>
+  
+  <tr>
+    <td>Ibu/Bapa</td>
+     <td>:</td>
+    <td>tika<span style="color:red">r</span></td>
+   
+  </tr>
+  
+  <tr>
+    <td>Anak  </td>
+    <td>:</td>
+    <td><span style="color:red">r</span>ot<span style="color:red">i</span></td>
+
+  </tr>
+  <tr>
+    <td>Ibu/Bapa </td>
+    <td>:</td>
+    <td><span style="color:red">i</span>ka<span style="color:red">n</span></td>
+    
+  </tr>
+  <tr>
+    <td>Anak </td>
+    <td>:</td>
+    <td><span style="color:red">n</span>as<span style="color:red">i</span></td>
+   
+  </tr>
+  
+</table>
+   </div></div>      
