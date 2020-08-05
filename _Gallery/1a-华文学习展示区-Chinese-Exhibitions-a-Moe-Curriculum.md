@@ -70,13 +70,13 @@ width:100% ;
  </div><br/>
  <h4 style="font-family:KaiTi"><strong>培养乐学善用的母语使用者 </strong></h4>
  <p style="font-family:KaiTi">
- 母语教育的主要目标是培养我国年轻一代掌握有效的母语沟通能力，建立积极正面的价值观，同时让他们能了解与欣赏本族文化，确保他们有信心与不同国家和地区有着相同语言与文化背景的社群建立联系。<br/>
-  母语课程致力于培养学生的聆听、说话、阅读和写作各方面的能力，使他们在日常生活中能有效地使用母语与他人互动和沟通。母语学习结合资讯科技，融入品格与公民教育和社交与情绪管理技能，通过生动有趣的教学，让学生了解丰富的母族文化与优良价值观。母语课程也着重于培养学生的高阶思维，并让学生广泛地接触文学作品与真实性语料。母语是我们生活的语言，我们希望年轻一代能认识到母语能力的实用价值，并在生活的方方面面乐学母语、善用母语。<br/>
+ 母语教育的主要目标是培养我国年轻一代掌握有效的母语沟通能力，建立积极正面的价值观，同时让他们能了解与欣赏本族文化，确保他们有信心与不同国家和地区有着相同语言与文化背景的社群建立联系。<br/><br/>
+  母语课程致力于培养学生的聆听、说话、阅读和写作各方面的能力，使他们在日常生活中能有效地使用母语与他人互动和沟通。母语学习结合资讯科技，融入品格与公民教育和社交与情绪管理技能，通过生动有趣的教学，让学生了解丰富的母族文化与优良价值观。母语课程也着重于培养学生的高阶思维，并让学生广泛地接触文学作品与真实性语料。母语是我们生活的语言，我们希望年轻一代能认识到母语能力的实用价值，并在生活的方方面面乐学母语、善用母语。<br/><br/>
   本届“线上母语学习论坛”的“母语课程网站”所提供的信息将有助于家长和教育工作者了解教育部从学前、小学、中学到高中不同阶段的母语课程概要以及特点。我们也将提供一些建议，协助家长和教育工作者更有效地引导年轻一代在愉悦的氛围中乐学母语。
  </p>
   <h4><strong>Nurturing Active Learners and Proficient Users </strong></h4>
-<p>The key purpose of MTL education is to equip our youngwith effective communication skills and to create a greater awareness and appreciation of our culture and values, which in turn enables our young to have the confidence to connect with similar language communities across Asia and the world. <br/>
- The MTL curriculum aims to develop our young to be proficient language users who have strong foundational language and literacy skills. It leverages on students’ written and interpersonal communication skills with real-life contexts through fundamental language skills such as listening, speakingand reading. The infusion of ICT, CCE and SEL into the curriculum further enhances the learning and exposes our young to understand the culture and values woven into the curriculum. The curriculum also aims to develop higher order thinking skills and expose students to a wide variety of literary and authentic texts. This is intended to make MTL a living language that enables our young to lead purposeful lives. <br/>
+<p>The key purpose of MTL education is to equip our youngwith effective communication skills and to create a greater awareness and appreciation of our culture and values, which in turn enables our young to have the confidence to connect with similar language communities across Asia and the world. <br/><br/>
+ The MTL curriculum aims to develop our young to be proficient language users who have strong foundational language and literacy skills. It leverages on students’ written and interpersonal communication skills with real-life contexts through fundamental language skills such as listening, speakingand reading. The infusion of ICT, CCE and SEL into the curriculum further enhances the learning and exposes our young to understand the culture and values woven into the curriculum. The curriculum also aims to develop higher order thinking skills and expose students to a wide variety of literary and authentic texts. This is intended to make MTL a living language that enables our young to lead purposeful lives. <br/><br/>
  The information featured in our e-MTLS MOE MTL curriculum aims to provide parents and educators with an understanding ofthe different opportunities for MTL learning beginning from Pre-school through Primary, Secondary andPre-University. There will also be tips for parents and educators to gain insights and ideas to bring the joy of learning MTL to our young and to better support them in this journey.</p>
  <br/>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
