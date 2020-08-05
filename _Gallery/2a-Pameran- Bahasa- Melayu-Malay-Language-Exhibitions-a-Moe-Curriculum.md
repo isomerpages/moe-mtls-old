@@ -54,7 +54,10 @@ third_nav_title: 'Pameran Bahasa Melayu Malay Language Exhibitions'
   margin-bottom: 5px;
   width:100%;  
 }
- 
+ image{
+  height:auto;
+ max-width:50%
+ }
 </style>
   
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
