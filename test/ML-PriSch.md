@@ -169,5 +169,42 @@ td, th {
    
   </tr>
   
-</table>
-   </div></div>      
+</table></p>
+   </div></div>   
+   <div class="atab">
+      <input id="tab-6" type="checkbox" name="tab">
+   <label for="tab-6">Permainan Kategori </label>
+     <div class="tab-content">
+       <p>Ibu bapa memberikan satu kategori.   Anak harus memberikan perkataan yang terdapat dalam kategori ini.
+         <br/>Contoh : 
+         <br/>
+         Kategori – perabot
+         <table>
+  
+  <tr>
+    <td>Ibu/Bapa</td>
+     <td>:</td>
+    <td>katil</td>
+   
+  </tr>
+  
+  <tr>
+    <td>Anak  </td>
+    <td>:</td>
+    <td>almari</td>
+
+  </tr>
+  <tr>
+    <td>Ibu/Bapa </td>
+    <td>:</td>
+    <td>kerusi</td>
+    
+  </tr>
+  <tr>
+    <td>Anak </td>
+    <td>:</td>
+    <td>meja</td>
+   
+  </tr>
+</table></p>
+<div></div>
