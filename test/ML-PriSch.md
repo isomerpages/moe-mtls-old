@@ -16,10 +16,11 @@ breadcrumb: 'ML PriSch'
 .tab table:target {
   display: block;
 }
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 30%;
+
+.content table {
+    width: 10%;
+    font-family: arial, sans-serif;
+     border-collapse: collapse;
 }
 
 td, th {
