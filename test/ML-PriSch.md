@@ -128,3 +128,14 @@ height:auto;
 <img src="/images/ML-Role.jpg"> 
 </p>
 <p style="font-size:25px;">Ibu bapa boleh bermain beberapa permainan dengan anak anda agar dapat meningkatkan dan meluaskan kosa kata anak</p>
+<div class="atab">
+      <input id="tab-5" type="checkbox" name="tab">
+   <label for="tab-5">Permainan Huruf/Abjad </label>
+     <div class="tab-content">
+       <p>Ibu bapa meminta anak memberikan perkataan lain yang bermula dengan huruf terakhir perkataan yang telah disebut.<br/>
+         Contoh : 
+         <li style="text-align:center"> Ibu/Bapa	 :  tika <span style=""text-color:red">r</span></li>
+           <li style="text-align:center"> Anak         	 : <span style=""text-color:red">r</span>ot<span style=""text-color:red">i</span></li>
+           <li style="text-align:center"> Ibu/Bapa	 : <span style=""text-color:red">i</span>ka<span style=""text-color:red">n</span></li>
+           <li style="text-align:center">Anak	              :<span style=""text-color:red">n</span>as<span style=""text-color:red">i</span></li>
+</p>
