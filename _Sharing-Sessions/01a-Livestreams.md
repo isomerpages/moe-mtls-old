@@ -2,7 +2,7 @@
 title: 'Livestreams'
 permalink: /Exhibition/Livestreams/
 breadcrumb: 'Livestreams'
-collection_name: Sharing-Sessions
+collection_name: 
 ---
 <html>
 <head>
