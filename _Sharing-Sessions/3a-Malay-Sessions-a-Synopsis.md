@@ -97,7 +97,7 @@ Kajian neurosains telah membuktikan bahawa pembelajaran akan berhenti apabila ke
  Neuroscience research informs us that when the fun stops, learning often stops too. Finding ways to make language teaching and learning active and effective for young learners is of great importance. One method is the use of an edutainment approach which contains a number of activities such as singing, storytelling, acting or poetry. The Edutainment approach nourishes interest in learning and develops a positive attitude towards learning language, in particular, addressing students’ difficulties in mastering  reading and writing skills. This sharing draws on the speaker’s wealth of experience and expertise as an educational media designer and in the creative arts as a performer, poet and Malay culture practitioner. The sharing also provides examp of  the ways edutainment has been applied in educational resources.</p>
  </div></div>
  </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
   <a href="/test/ML-video-Asnida/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
@@ -134,7 +134,7 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
        With the advent of technology, the learning of mother tongue languages can be enhanced by blended learning strategies that are both fun and simple. This webinar aims to share animal-inspired teaching strategies to enhance literacy in the Malay language. Participants will be taken virtually into the immersive environment of Singapore Zoo to meet our animal ambassadors. Using photographs, videos and audiobooks specially curated by Singapore Zoo, we will tap on children’s interest in animals and their sense of curiosity through loose parts play, creative expressions and thinking routines. The child-centric activities covered in this webinar are applicable  at home, in the classroom and outdoors. These authentic learning opportunities  include speaking, listening and responding in the Malay language and features of the ECDA and MOE’s Mother Tongue Language Frameworks.</p>
 </div></div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
   <a href="/test/ML-video-Haniman/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
  </tr>
@@ -169,7 +169,7 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
 Early intervention is important. Parents are often seeking ways to maximise the learning and developmental potential of their children. Over these last few decades, neuro-psychological research hasestablished several important facts about the cognitive development of young children. However, myths and misconceptions regarding brain development still persist. In this talk, A/P Mariam Aljunied will help dispel these myths and clarify the facts about children’s neuro-psychological development. She will provide insights on the cognitive effects of growing up bilingual, and in particular, why the learning of two or more languages can enhance cognition. Several tips for parents will be shared as to what they can do to facilitate and enhance children’s language and communication abilities, as well as what parents should do if children show early warning signs of language and communication difficulties.</p>
 </div></div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
   <a href="/test/ML-video-Mariam/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
  </tr>
@@ -246,7 +246,7 @@ Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal b
 </p>
         </div></div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
   <a href="/test/ML-video-Hazliana/"><img class="btnImg" alt="Click here" src="/images/arrowMalay.png"></a>
 </td>
    </tr>
