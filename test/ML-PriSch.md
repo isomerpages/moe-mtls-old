@@ -87,4 +87,19 @@ breadcrumb: 'ML PriSch'
 </li>
            </ul> 
        </p>
+       </div></div>
+       <p>
+  <li>Bahasa Melayu merupakan salah satu Bahasa Ibunda yang ditawarkan di sekolah rendah.  Murid-murid diberikan peluang untuk mempelajari Bahasa Melayu setinggi mana yang terdaya dan sejauh mana yang termampu. 
+</li>
+  <li>Di sekolah, Kurikulum Bahasa Melayu Sekolah Rendah dijalankan dengan menggunakan pendekatan yang berpusatkan murid.  Pengajaran yang dijalankan bersifat interaktif agar murid-murid mudah mempelajari dan memahami pelajaran yang diikuti. Memandangkan murid yang memasuki sekolah rendah mempunyai latar belakang bahasa yang pelbagai, keperluan pembelajaran mereka juga seharusnya berbeza-beza. Oleh itu, pembelajaran pembezaan harus ditekankan untuk memenuhi keupayaan yang pelbagai ini. 
+</li>
+  <li>Murid yang mempunyai pelbagai keupayaan juga akan disokong untuk membina kecekapan bahasa dan budaya. Hal ini bukan sahaja dapat mengekalkan minat mereka untuk menggunakan dan menguasai bahasa Ibunda, malahan untuk menggunakan bahasa itu sebagai alat komunikasi secara berkesan
+</li>
+  <li>Sila lihat Program Bahasa Melayu Lanjutan, Program Sokongan Bahasa Ibunda bagi murid Darjah 3 dan 4
+</li>
+</p>
+  <img src="/images/ML-Program.jpg">    
+  <a href="https://tinyurl.com/emasmlep" target="_blank">https://tinyurl.com/emasmlep </a>
+ <p style="font-size:30px;color:green;">Bahan Pengajaran dan Pembelajaran <br/>
+  <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran cekap:</span></p>
       
