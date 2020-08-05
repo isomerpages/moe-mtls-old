@@ -60,7 +60,7 @@ CPCLL’s signature programmes and key activities include Xin Kong Xia National 
 </div>
 
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
 <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
@@ -85,7 +85,7 @@ CPCLL’s signature programmes and key activities include Xin Kong Xia National 
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
@@ -108,7 +108,7 @@ CPCLL’s signature programmes and key activities include Xin Kong Xia National 
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
@@ -129,7 +129,7 @@ Parents can find out more about the learning opportunities available to the youn
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
@@ -149,7 +149,7 @@ Parents can find out more about the learning opportunities available to the youn
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
@@ -169,7 +169,7 @@ Parents can find out more about the learning opportunities available to the youn
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
@@ -189,7 +189,7 @@ Parents can find out more about the learning opportunities available to the youn
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
@@ -206,7 +206,7 @@ Parents can find out more about the learning opportunities available to the youn
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
@@ -225,7 +225,7 @@ Parents can find out more about the learning opportunities available to the youn
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
@@ -245,7 +245,7 @@ Parents can find out more about the learning opportunities available to the youn
     </div>
     
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
