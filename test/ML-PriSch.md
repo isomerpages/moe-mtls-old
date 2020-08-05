@@ -66,7 +66,7 @@ height:auto;
 <br/>
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-   <label for="tab-1" style="font-family:KaiTi;font-size:22px">Objektif  Kurikulum Bahasa Melayu
+   <label for="tab-1">Objektif  Kurikulum Bahasa Melayu
 </label>
      <div class="tab-content">
        <p>Pada akhir perngajaran dan pembelajaran Bahasa Melayu di sekolah rendah, murid depat:
@@ -106,4 +106,10 @@ height:auto;
   <a href="https://tinyurl.com/emasmlep" target="_blank">https://tinyurl.com/emasmlep </a>
  <p style="font-size:30px;color:green;">Bahan Pengajaran dan Pembelajaran <br/>
   <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran cekap:</span></p>
+  <div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+   <label for="tab-2">dekat dengan kehidupan murid</label>
+     <div class="tab-content">
+       <img src="/images/ML-Murid.jpg">  
+       </div></div>
       
