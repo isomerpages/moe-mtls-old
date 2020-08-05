@@ -60,7 +60,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
  </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
 <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
@@ -81,13 +81,13 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
 
 <tr>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
       <label for="tab-3" class="lbCh"> 教育部幼儿园（河道）<br/> MOE Kindergarten @ Waterway</label>
@@ -105,7 +105,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
  </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
@@ -126,7 +126,7 @@ third_nav_title: '华文学习展示区 Chinese Exhibitions'
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
