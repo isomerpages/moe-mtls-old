@@ -213,3 +213,55 @@ table.center {
   </tr>
 </table></p>
 <div></div>
+
+
+<div class="atab">
+      <input id="tab-7" type="checkbox" name="tab">
+   <label for="tab-7">Permainan Suku Kata </label>
+     <div class="tab-content">
+       <p>Ibu bapa boleh memulakan permainan dengan memberikan satu perkataan. Contohnya, roti.  Kemudian anak harus membina perkataan lain yang bermula dengan suka kata akhir perkataan tadi. 
+<table class="center">
+  
+  <tr>
+    <td>Ibu/Bapa</td>
+     <td>:</td>
+  <td>ro<strong>ti</strong></td>
+   
+  </tr>
+  
+  <tr>
+    <td>Anak  </td>
+    <td>:</td>
+  <td><strong>ti</strong>lam</td>
+
+  </tr>
+  <tr>
+    <td>Ibu/Bapa </td>
+    <td>:</td>
+  <td><strong>lam</strong>pu</td>
+    
+  </tr>
+  <tr>
+    <td>Anak </td>
+    <td>:</td>
+  <td><strong>pu</strong>sing</td>
+   
+  </tr>
+</table></p>
+<div></div>
+<p style="font-size:25px;">Ibu bapa boleh bermain beberapa permainan dengan anak anda yang boleh membantu anak anda menguasai kemahiran membina ayat.
+</p>
+<div class="atab">
+      <input id="tab-8" type="checkbox" name="tab">
+   <label for="tab-8">Permainan Membina Ayat </label>
+     <div class="tab-content">
+       <p>Ibu bapa boleh memberikan satu perkataan atau beberapa perkataan secara lisan atau bertulis kepada anak anda (mengikut keupayaan anak membina ayat). Kemudian ibu bapa meminta anak anda membina ayat dengan perkataan yang diberikan.<br/>
+         Contoh 1 : <br/>
+Kereta itu berwarna merah.<br/>
+         Contoh 2 :  <br/>
+         <strong>Kereta</strong> Ayah bergerak dengan <strong>laju.</strong><br/>
+
+
+         
+</p>
+<div></div>
