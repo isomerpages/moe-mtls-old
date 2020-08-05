@@ -27,6 +27,10 @@ td, th {
   text-align: center;
   padding: 8px;
 }
+table.center {
+  margin-left:auto; 
+  margin-right:auto;
+}
 .atab label {
     position: relative;
     display: block;
@@ -141,7 +145,7 @@ td, th {
      <div class="tab-content">
        <p>Ibu bapa meminta anak memberikan perkataan lain yang bermula dengan huruf terakhir perkataan yang telah disebut.<br/>
          Contoh : 
-         <table>
+         <table class="center">
   
   <tr>
     <td>Ibu/Bapa</td>
@@ -179,7 +183,7 @@ td, th {
          <br/>Contoh : 
          <br/>
          Kategori – perabot
-         <table>
+         <table class="center">
   
   <tr>
     <td>Ibu/Bapa</td>
