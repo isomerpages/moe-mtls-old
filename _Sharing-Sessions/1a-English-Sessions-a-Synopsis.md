@@ -107,7 +107,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
        <br/>
   <div class="row">
  <div class="column">
-<img src="images/cropped-person-icon-8-2.png" style="width:100%">
+<img src="images/EL-Dr-Connie.jpg" style="width:100%">
    </div>
    <p> <strong>Dr Connie Lum </strong>
  <br/> NTUC First Campus
