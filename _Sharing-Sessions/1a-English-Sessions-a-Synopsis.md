@@ -66,9 +66,9 @@ max-width:40%;
 </label>
       <div class="tab-content"><br/>
   <div class="row">
-   <p> <strong> Minister Lawrence Wong
+   <p> <strong> Mr Lawrence Wong
  </strong>
-  <br/> Ministry of Education</p>
+  <br/> Minister for Education</p>
       <p> <strong> Ms Sun Xueling
  </strong>
   <br/> Minister of State, Ministry of Education</p>
