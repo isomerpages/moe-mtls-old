@@ -3,7 +3,7 @@ title: 'Reruai Kurikulum Kementerian Pendidikan Singapura (MOE) (MOE Curriculum)
 permalink: /Gallery/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-a/Moe-Curriculum/
 breadcrumb: 'Pameran- Bahasa- Melayu-Malay-Language-Exhibitions'
 collection_name: Gallery
-third_nav_title: 'Pameran Bahasa Melayu Malay Language Exhibitions'
+third_nav_title: 'Pameran Bahasa Melayu'
 ---
 
 ## Reruai Kurikulum Kementerian Pendidikan Singapura (MOE) (MOE Curriculum)
