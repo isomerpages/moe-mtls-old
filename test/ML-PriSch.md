@@ -78,7 +78,7 @@ table.center {
 <br/>
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-   <label for="tab-1">Objektif  Kurikulum Bahasa Melayu
+   <label for="tab-1" class="lbML">Objektif  Kurikulum Bahasa Melayu
 </label>
      <div class="tab-content">
        <p>Pada akhir perngajaran dan pembelajaran Bahasa Melayu di sekolah rendah, murid depat:
@@ -120,19 +120,19 @@ table.center {
   <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran cekap:</span></p>
   <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-   <label for="tab-2">dekat dengan kehidupan murid</label>
+   <label for="tab-2" class="lbML">dekat dengan kehidupan murid</label>
      <div class="tab-content">
        <img src="/images/ML-Murid.jpg">  
        </div></div>
        <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-   <label for="tab-3">kaya dan pelbagai</label>
+   <label for="tab-3" class="lbML">kaya dan pelbagai</label>
      <div class="tab-content">
        <img src="/images/ML-meli.png">  
        </div></div>
        <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-   <label for="tab-4">berdasarkan situasi sebenar dan bermakna</label>
+   <label for="tab-4" class="lbML">berdasarkan situasi sebenar dan bermakna</label>
      <div class="tab-content">
        <img src="/images/ML-10.png">  
        </div></div>
@@ -142,7 +142,7 @@ table.center {
 <p style="font-size:25px;">Ibu bapa boleh bermain beberapa permainan dengan anak anda agar dapat meningkatkan dan meluaskan kosa kata anak</p>
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-   <label for="tab-5">Permainan Huruf/Abjad </label>
+   <label for="tab-5" class="lbML">Permainan Huruf/Abjad </label>
      <div class="tab-content">
        <p>Ibu bapa meminta anak memberikan perkataan lain yang bermula dengan huruf terakhir perkataan yang telah disebut.<br/>
          Contoh : 
@@ -178,7 +178,7 @@ table.center {
    </div></div>   
    <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
-   <label for="tab-6">Permainan Kategori </label>
+   <label for="tab-6" class="lbML">Permainan Kategori </label>
      <div class="tab-content">
        <p>Ibu bapa memberikan satu kategori.   Anak harus memberikan perkataan yang terdapat dalam kategori ini.
          <br/>Contoh : 
@@ -210,7 +210,7 @@ table.center {
 </div></div>
 <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
-   <label for="tab-7">Permainan Suku Kata </label>
+   <label for="tab-7" class="lbML">Permainan Suku Kata </label>
      <div class="tab-content">
        <p>Ibu bapa boleh memulakan permainan dengan memberikan satu perkataan. Contohnya, roti.  Kemudian anak harus membina perkataan lain yang bermula dengan suka kata akhir perkataan tadi. 
 <table class="center">
@@ -242,7 +242,7 @@ table.center {
 </p>
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
-   <label for="tab-8">Permainan Membina Ayat </label>
+   <label for="tab-8" class="lbML">Permainan Membina Ayat </label>
      <div class="tab-content">
        <p>Ibu bapa boleh memberikan satu perkataan atau beberapa perkataan secara lisan atau bertulis kepada anak anda (mengikut keupayaan anak membina ayat). Kemudian ibu bapa meminta anak anda membina ayat dengan perkataan yang diberikan.<br/>
          Contoh 1 : <br/>
@@ -254,7 +254,7 @@ Kereta itu berwarna merah.<br/>
 
 <div class="atab">
       <input id="tab-9" type="checkbox" name="tab">
-   <label for="tab-9">Permainan Meluaskan Ayat </label>
+   <label for="tab-9" class="lbML">Permainan Meluaskan Ayat </label>
      <div class="tab-content">
        <p>Ibu bapa memberikan satu ayat tunggal kepada anak.  Kemudian, anak meluaskan ayat itu.  Selepas itu, giliran ibu/bapa pula meluaskan ayat itu.  Begitulah seterusnya hingga ayat itu tidak dapat diluaskan lagi. <br/>
          Contoh : 
