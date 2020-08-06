@@ -3,7 +3,7 @@ title: 'பள்ளிகள் (Schools)'
 permalink: /Gallery/தமிழ்மொழிக் -காட்சிக்கூடம்-Tamil-Exhibitions-c/Schools/
 breadcrumb: 'தமிழ்மொழிக் -காட்சிக்கூடம்-Tamil-Exhibitions'
 collection_name: Gallery
-third_nav_title: 'தமிழ்மொழிக் காட்சிக்கூடம் Tamil Exhibitions'
+third_nav_title: 'தமிழ்மொழிக் காட்சிக்கூடம்'
 ---
 
 ##  பள்ளிகள்  (Schools)
