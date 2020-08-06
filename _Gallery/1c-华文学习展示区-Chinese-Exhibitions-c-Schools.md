@@ -43,7 +43,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbCh">聚英小学 <br/> Juying Primary School</label>
+    <label for="tab-1" class="lbCh"><span style="font-size:25px;font-family:KaiTi">聚英小学 </span> <br/> Juying Primary School</label>
       <div class="tab-content">
       <h4 style="font-size:35px;font-family:KaiTi">学善用新平台，口语学习不间断</h4>
       <p style="font-family:KaiTi">
@@ -68,7 +68,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbCh">	孺廊小学<br/>Rulang Primary School</label>
+    <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi">孺廊小学 </span>br/>Rulang Primary School</label>
       <div class="tab-content">
           <h4 style="font-size:35px;font-family:KaiTi">跟着节奏学华文</h4>
       <p style="font-family:KaiTi">
@@ -88,7 +88,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3" class="lbCh">伟林小学<br/>Wellington Primary School</label>
+    <label for="tab-3" class="lbCh"><span style="font-size:25px;font-family:KaiTi">伟林小学 </span><br/>Wellington Primary School</label>
       <div class="tab-content">
            <h4 style="font-size:35px;font-family:KaiTi">伟林小蜜蜂阅读计划</h4>
       <p style="font-family:KaiTi">
@@ -108,7 +108,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4" class="lbCh">育青中学<br/>Bedok Green Secondary School</label>
+    <label for="tab-4" class="lbCh"><span style="font-size:25px;font-family:KaiTi"> 育青中学 </span><br/>Bedok Green Secondary School</label>
       <div class="tab-content">
           <h4 style="font-size:35px;font-family:KaiTi">悦读魔法变变变</h4>
           <p style="font-family:KaiTi">育青中学为低年级学生制定了阅读计划“悦读魔法变变变”。此活动将课本技能与角色扮演游戏（Role Playing Game）、解谜游戏（Puzzle Game）相融合，利用书中的故事情节完成不同的活动或任务，让角色最终成长为一名小魔术师。活动的最终目标是让学生变魔术给家人看，向他们表达心中的爱。此活动不仅激发了学生阅读华文书的兴趣，增加了在生活中与家人使用母语的机会，也增进了家人之间的感情。</p>
@@ -127,7 +127,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5" class="lbCh">圣尼各拉女校（中学）<br/>CHIJ St Nicholas Girls School（Sec）</label>
+      <label for="tab-5" class="lbCh"><span style="font-size:25px;font-family:KaiTi">圣尼各拉女校（中学）</span><br/>CHIJ St Nicholas Girls School（Sec）</label>
       <div class="tab-content">
            <h4 style="font-size:35px;font-family:KaiTi">“悦读计划–让孩子爱上阅读”</h4>
           <p style="font-family:KaiTi">
