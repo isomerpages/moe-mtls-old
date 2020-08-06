@@ -68,7 +68,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbCh">爱加倍实龙岗分校<br/> Agape Little Uni. @ Upper Serangoon</label>
+      <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi">爱加倍实龙岗分校 </span><br/> Agape Little Uni. @ Upper Serangoon</label>
       <div class="tab-content">
        <h4 style="font-size:35px;font-family:KaiTi">小眼睛，大世界</h4>
        <p style="font-family:KaiTi">
@@ -90,7 +90,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3" class="lbCh"> 教育部幼儿园（河道）<br/> MOE Kindergarten @ Waterway</label>
+      <label for="tab-3" class="lbCh"> <span style="font-size:25px;font-family:KaiTi">教育部幼儿园（河道）</span><br/> MOE Kindergarten @ Waterway</label>
       <div class="tab-content">
        <h4 style="font-size:35px;font-family:KaiTi">欢乐剧场</h4>
        <p style="font-family:KaiTi">
@@ -113,7 +113,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4" class="lbCh">教育部幼儿园（华苑）<br/>MOE Kindergarten @ Farrer Park</label>
+      <label for="tab-4" class="lbCh"><span style="font-size:25px;font-family:KaiTi">教育部幼儿园（华苑）</span><br/>MOE Kindergarten @ Farrer Park</label>
       <div class="tab-content">
        <h4 style="font-size:35px;font-family:KaiTi">读中乐</h4>
        <p style="font-family:KaiTi">
