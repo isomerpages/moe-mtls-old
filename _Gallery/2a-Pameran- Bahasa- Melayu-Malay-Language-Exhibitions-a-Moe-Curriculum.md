@@ -72,11 +72,11 @@ third_nav_title: 'Pameran Bahasa Melayu Malay Language Exhibitions'
  <div style="margin-top:auto;margin-bottom:auto;text-align:left;">
  <p>
  Tujuan utama pendidikan Bahasa Ibunda adalah untuk memperkukuh kemahiran berkomunikasi memupuk kesedaran dan penghayatan pelajar kita tentang warisan budaya dan nilai.  Dengan ini, mereka akan berasa yakin apabila berhubung dengan masyarakat di Asia dan seluruh dunia. 
-<br/>
+<br/><br/>
 Kurikulum Bahasa Ibunda bertujuan untuk membentuk anak-anak kita menjadi pengguna bahasa yang cekap dan mempunyai asas kemahiran bahasa dan literasi yang kukuh. Dengan kemahiran teras seperti bertutur, mendengar dan membaca, pelajar kita dapat mempertingkatkan kemahiran menulis dan berkomunikasi dalam konteks kehidupan sebenar.  Penerapan ICT, CCE dan SEL meningkatkan pemahaman pelajar  tentang budaya dan nilai yang teranyam dalam kurikulum. 
-<br/>
+<br/><br/>
 Kurikulum ini juga bertujuan membentuk kemahiran berfikir aras tinggi dan mendedahkan para pelajar kita kepada pelbagai bahan sastera dan teks yang autentik. Hal ini akan menjadikan Bahasa Ibunda bahasa yang hidup dan bermakna dalam kehidupan anak-anak kita. 
-<br/>
+<br/><br/>
  Maklumat yang dipaparkan dalam Kurikulum Bahasa Ibunda MOE bertujuan untuk memberikan pemahaman kepada  ibu bapa dan pendidik tentang pelbagai peluang pembelajaran Bahasa Ibunda bermula dari peringkat prasekolah, sekolah rendah, sekolah menengah hingga ke peringkat prauniversiti. Beberapa panduan dan idea telah disediakan bagi ibu bapa dan pendidik menyokong pembelajaran Bahasa Ibunda yang menyeronokkan untuk anak-anak kita.
 <br/>
 </p></div> 
