@@ -45,21 +45,17 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1"  class="lbTM">கல்விஅமைச்சின்பாலர்பள்ளி (ஃபேரர்பார்க்)<br/>MK@Farrer Park</label>
       <div class="tab-content">
-          <h4><strong>அதிசயங்களைஉருவாக்கும்வாசிப்பு  </strong> </h4>
-      <p>
+          <h4><strong>அதிசயங்களைஉருவாக்கும்வாசிப்பு </strong></h4>
+                <p>
        ககல்விஅமைச்சின்ஃபேரர்பார்க்பாலர்பள்ளி, தாய்மொழியைக்கற்பதற்கு MK-புத்தகமன்றத்தினை (MK Book Club) ஒருபயன்முனைப்புமிக்ககருத்துப்பரிமாற்றத்தளமாகப்பயன்படுத்திவருகிறது ஒருபயன்முனைப்புமிக்ககருத்துப்பரிமாற்றத்தளமாகப்பயன்படுத்திவருகிறது. பிள்ளைகள்  ஈடுபாட்டுடனும்விருப்பத்துடனும்தாய்மொழியைக்கற்பதற்குஇதுஉதவும்என்றுஃபேரர்பார்க்பாலர்பள்ளிநம்புகிறது.<br/>
 இதன்காரணமாகபிள்ளைகளுக்குத்   தாய்மொழிப்புத்தகங்களைப்படிப்பதில்ஆர்வத்தைவளர்க்கஇப்பள்ளிபலமுயற்சிகளைமேற்கொண்டுவருகிறது.  சுயமாகப்புத்தகங்களைத்தேர்ந்தெடுத்துஅவற்றைஆர்வத்தோடுவாசிப்பதற்கும்பிள்ளைகளுக்குஊக்கம்அளிக்கப்படுகின்றது.<br/>
 அர்த்தமுள்ளகுடும்பம்சார்ந்தநடவடிக்கைகளின்வாயிலாகவீட்டில்வாசிப்புப்பழக்கத்தைஊக்குவிப்பதோடுபிள்ளைகளுடன்பெற்றோரும்இணைந்துகதைசொல்லும்நடவடிக்கைகளில்ஈடுபடவும்வாய்ப்பைஏற்படுத்திக்கொடுத்திருக்கின்றது. இதன்மூலம்பிள்ளைகளால்தாய்மொழியில்பேசவும்தரமானகருத்துப்பரிமாற்றத்தில்ஈடுபடவும்முடிகிறது.
  </p>
-
 <h4><strong>Reading Creates Wonders</strong></h4>
-<p>MOE Kindergarten @ Farrer Park believes that every child can learn and use Mother Tongue Language (MTL) as an effective communication tool. Guided by this belief for MOE Kindergarten (MK) children, the centre aims to cultivate children’s love and appreciation for reading of MTL books through their centre-based initiative, the MK Book Club. With child-initiated choice of books, children are motivated to read at their own pace. <br/>
-    To reinforce reading habits at home, the centre partners parents to engage their child in reading and storytelling. Coupled with meaningful family-based activities, it further extends their child’s learning beyond the classroom and builds their confidence in speaking MTL.  
-
-</p>
+        <p>MOE Kindergarten @ Farrer Park believes that every child can learn and use Mother Tongue Language (MTL) as an effective communication tool. Guided by this belief for MOE Kindergarten (MK) children, the centre aims to cultivate children’s love and appreciation for reading of MTL books through their centre-based initiative, the MK Book Club. With child-initiated choice of books, children are motivated to read at their own pace. <br/>
+    To reinforce reading habits at home, the centre partners parents to engage their child in reading and storytelling. Coupled with meaningful family-based activities, it further extends their child’s learning beyond the classroom and builds their confidence in speaking MTL. </p>
       </div>
 </div>
-
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
 <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></a>
