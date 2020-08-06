@@ -81,5 +81,5 @@ Kurikulum ini juga bertujuan membentuk kemahiran berfikir aras tinggi dan mended
 <br/>
 </p></div> 
  
-
+ <img src="images/New_footer.jpg" class="Image" width="1000" height="300">
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
