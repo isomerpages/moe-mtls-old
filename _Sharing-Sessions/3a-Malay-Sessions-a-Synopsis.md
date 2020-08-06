@@ -72,7 +72,7 @@ max-width:40%;
        <br/>
   <div class="row">
  <div class="column">
-<img src="images/cropped-person-icon-8-2.png" style="width:100%">
+<img src="images/ML-Mdm Asnida Bte Daud.jpg" style="width:100%">
    </div>
    <p><strong>Asnida Bte Daud
  </strong> <br/> Ministry of Education
