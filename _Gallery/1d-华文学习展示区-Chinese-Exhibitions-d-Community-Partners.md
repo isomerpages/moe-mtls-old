@@ -5,8 +5,6 @@ breadcrumb: '华文学习展示区-Chinese-Exhibitions'
 collection_name: Gallery
 third_nav_title: '华文学习展示区'
 ---
-
-## 	社区合作伙伴 (Community Partners)
 <html>
 <head>
 <style>
@@ -39,6 +37,7 @@ third_nav_title: '华文学习展示区'
 </style>
 </head>
 <body>
+    <div><h2 style="font-family:KaiTi">社区合作伙伴 (Community Partners)</h2></div>
   <table class="tbl">
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
