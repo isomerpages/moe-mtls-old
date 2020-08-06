@@ -58,7 +58,7 @@ width:100% ;
 }
  
 </style>
-  <div><h3 style="font-family:KaiTi;">教育部课程 (MOE Curriculum)</h3>
+  <div><h2 style="font-family:KaiTi;">教育部课程 (MOE Curriculum)</h2>
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
 <div class="tab">
   <a href="/test/sch"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">学前教育</div></a>
