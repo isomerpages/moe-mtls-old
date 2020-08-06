@@ -44,7 +44,20 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </head>
 <body>
   <table class="tbl">
-
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-1" type="checkbox" name="tab">
+      <label for="tab-1"  class="lbTM">கல்விஅமைச்சின்பாலர்பள்ளி (பேரர்பார்க்)<br/>MK@Farrer Park</label>
+      <div class="tab-content">
+          <p>this is MK@Farrer Park</p>
+          </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+ <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></a>
+</td>
+</tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
