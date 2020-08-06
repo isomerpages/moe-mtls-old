@@ -67,7 +67,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-    <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi">孺廊小学 </span>br/>Rulang Primary School</label>
+    <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi">孺廊小学 </span><br/>Rulang Primary School</label>
       <div class="tab-content">
           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;">跟着节奏学华文</h4>
       <p style="font-family:KaiTi;margin:4px;">
