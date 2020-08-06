@@ -94,7 +94,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
         </p>
             <h4>Storytelling using Shadow Puppetry</h4>
        <p>Storytelling using Shadow Puppetry is an intiative by My First Skool @ 50 Sengkang West to promote interactive teaching and learning practices for Kindergarten 1 and 2 children. Through this approach, we hope to spark our children’s curiosity and stimulate their imagination. <br/>
-          Parents can also learn storytellingtechniques  using shadow puppetry. By making puppets and props from recycled materials found at home, parents can conduct their own engaging storytelling sessions with their children.</p>
+          Parents can also learn storytelling techniques  using shadow puppetry. By making puppets and props from recycled materials found at home, parents can conduct their own engaging storytelling sessions with their children.</p>
       </div>
 </div>
 </td>
