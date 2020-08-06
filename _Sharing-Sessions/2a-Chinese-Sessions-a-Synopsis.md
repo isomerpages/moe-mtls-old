@@ -21,7 +21,7 @@ td, th {
   padding: 8px;
 }
 p{
-   margin:4px;
+   margin:4px !important;
 }
     .hl{
     display: inline-block;
