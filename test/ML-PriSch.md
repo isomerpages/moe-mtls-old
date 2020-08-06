@@ -207,7 +207,7 @@ table.center {
   </tr>
 </table>
 </p>
-<div></div>
+</div></div>
 <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
    <label for="tab-7">Permainan Suku Kata </label>
