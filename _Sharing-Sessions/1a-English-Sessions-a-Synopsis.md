@@ -70,7 +70,7 @@ max-width:40%;
  </strong>
   <br/> Ministry of Education</p>
    </div>
-  <h4 style="padding-top:12px;">&nbsp; Synopsis</h4>
+  <h4 style="padding-top:12px;">&nbsp;&nbsp; &nbsp; Synopsis</h4>
        
   <p style="margin:4px;"><strong>A/P Mukhlis Abu Bakar  </strong><br/>
 
