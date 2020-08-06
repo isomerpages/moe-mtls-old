@@ -5,8 +5,6 @@ breadcrumb: '华文学习展示区-Chinese-Exhibitions'
 collection_name: Gallery
 third_nav_title: '华文学习展示区'
 ---
-
-##  中小学  (Schools)
 <html>
 <head>
 <style>
@@ -38,6 +36,7 @@ third_nav_title: '华文学习展示区'
 </style>
 </head>
 <body>
+    <div>  <h3 style="font-family:KaiTi">中小学  (Schools)</h3></div>
   <table class="tbl">
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
