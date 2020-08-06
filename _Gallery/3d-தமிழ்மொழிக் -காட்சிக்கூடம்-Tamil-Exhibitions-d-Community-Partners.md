@@ -3,7 +3,7 @@ title: 'சமூகப் பங்காளர்கள் (Community Partners
 permalink: /Gallery/தமிழ்மொழிக் -காட்சிக்கூடம்-Tamil-Exhibitions-d/Community-Partners/
 breadcrumb: 'தமிழ்மொழிக் -காட்சிக்கூடம்-Tamil-Exhibitions'
 collection_name: Gallery
-third_nav_title: 'தமிழ்மொழிக் காட்சிக்கூடம் Tamil Exhibitions'
+third_nav_title: 'தமிழ்மொழிக் காட்சிக்கூடம்'
 ---
 
 ## 	சமூகப் பங்காளர்கள்  (Community Partners)
