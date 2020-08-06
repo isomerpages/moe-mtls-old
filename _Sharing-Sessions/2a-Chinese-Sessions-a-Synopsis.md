@@ -20,7 +20,9 @@ td, th {
   text-align: left;
   padding: 8px;
 }
-
+p{
+   margin:4px;
+}
     .hl{
     display: inline-block;
     padding: 12px 20px;
