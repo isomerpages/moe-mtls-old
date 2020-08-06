@@ -237,7 +237,7 @@ table.center {
    </tr>
 </table>
 </p>
-<div></div>
+</div></div>
 <p style="font-size:25px;">Ibu bapa boleh bermain beberapa permainan dengan anak anda yang boleh membantu anak anda menguasai kemahiran membina ayat.
 </p>
 <div class="atab">
@@ -250,4 +250,4 @@ Kereta itu berwarna merah.<br/>
          Contoh 2 :  <br/>
          <strong>Kereta</strong> Ayah bergerak dengan <strong>laju.</strong><br/>
 </p>
-<div></div>
+</div></div>
