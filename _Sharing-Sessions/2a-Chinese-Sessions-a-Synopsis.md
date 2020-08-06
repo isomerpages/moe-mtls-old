@@ -61,7 +61,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbCh">Principles and Strategies for Mother Tongue and Biliteracy Development for Young Learners  <br/> [12.30pm – 1.30pm]<br/>Shuhan C. Wang
+      <label for="tab-1" class="lbCh">Principles and Strategies for Mother Tongue and Biliteracy Development for Young Learners  <br/> [12.30pm – 1.30pm]<br/>Dr Shuhan C. Wang
 </label>
       <div class="tab-content">
         <br/>
@@ -69,7 +69,7 @@ max-width:40%;
  <div class="column">
 <img src="images/CL-Dr-Shuhan.jpg" style="width:100%">
    </div>
-   <p><strong>Shuhan C. Wang
+   <p><strong>Dr Shuhan C. Wang
 </strong> </p>
    </div><br/>
        <h4>Profile</h4>
@@ -94,7 +94,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbCh">Imperceptible Influence:  How to Create a Conducive Mother Tongue Learning Environment at Home<br/>[2.00pm – 3.00pm] <br/> Sun Baoqi
+      <label for="tab-2" class="lbCh">Imperceptible Influence:  How to Create a Conducive Mother Tongue Learning Environment at Home<br/>[2.00pm – 3.00pm] <br/>Dr Sun Baoqi
 
 </label>
       <div class="tab-content">      
@@ -103,7 +103,7 @@ max-width:40%;
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
   </div>
-    <p><strong>Sun Baoqi
+    <p><strong>Dr Sun Baoqi
  </strong> <br/> National Institute of Education, <br/>Nanyang Technological University
 </p>
        </div>
@@ -129,7 +129,7 @@ max-width:40%;
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
       <label for="tab-3" class="lbCh">I TORE UP MY CHINESE BOOK!
- <br/> Woo Yen Yen
+ <br/>Dr Woo Yen Yen
 </label>
       <div class="tab-content">      
        <br/>
@@ -137,7 +137,7 @@ max-width:40%;
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
   </div>
-    <p><strong>Woo Yen Yen
+    <p><strong> Dr Woo Yen Yen
   </strong> <br/> Yumcha Studios Pte Ltd</p>
        </div>
        <h4 style="font-size:28px;font-family:KaiTi">「我把我的中文课本撕毀了!」一位英文教师陪伴女儿走过的学习中文之路</h4>
@@ -163,14 +163,14 @@ max-width:40%;
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
       <label for="tab-4" class="lbCh">Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese
-<br/> Xu Jinhong</label>
+<br/>Mdm Xu Jinhong</label>
   <div class="tab-content">      
        <br/>
   <div class="row">
  <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
    </div>
-   <p> <strong>Xu Jinhong </strong>
+   <p> <strong>Mdm Xu Jinhong </strong>
 <br/>Ministy of Education
     <br/>Mother Tongue Languages Branch,<br/>
     Curriculum Planning and Development Division</p>
@@ -202,14 +202,14 @@ The speaker will share how the curriculum enables children to learn Chinese in c
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
       <label for="tab-5" class="lbCh">Happy Reading and Storytelling with young children 
-<br/> Lim Kwee Hua</label>
+<br/>Mdm Lim Kwee Hua</label>
       <div class="tab-content">      
        <br/>
   <div class="row">
  <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
    </div>
-   <p><strong> Lim Kwee Hua </strong>
+   <p><strong>Mdm Lim Kwee Hua </strong>
 <br/> Academy of Singapore Teachers</p>
    </div>
        <h4 style="font-size:28px;font-family:KaiTi">快乐阅读和讲故事</h4>
