@@ -108,10 +108,10 @@ max-width:40%;
  </strong> <br/> National Institute of Education, <br/>Nanyang Technological University
 </p>
        </div>
- <h4 style="font-size:28px;font-family:KaiTi">润物细无声：如何在家中营造有利于母语发展的语言环境</h4>
-   <h4> Profile</h4> 
+ <p style="font-size:28px;font-family:KaiTi">润物细无声：如何在家中营造有利于母语发展的语言环境</p>
+   <h4> 介绍</h4> 
  <p style="font-size:28px;font-family:KaiTi">孙宝琦老师拥有新加坡南洋理工大学属下新加坡教育学院授予的教育学博士学位。孙宝琦老师目前任职于新加坡国立教育学院儿童发展研究中心，主要研究双语早期阅读及双语教学。</p>
-   <h4> Synopsis</h4> 
+   <h4> 简介</h4> 
  <p style="font-size:28px;font-family:KaiTi">近来的疫情让居家育儿和居家学习成为新常态，父母也因此有更多时间来陪伴孩子。那么，如何在家中为孩子营造一个有利于母语发展的语言环境呢？本讲座将通过介绍家庭语言环境对儿童语言发展的理论和实践，让大家进一步了解家庭语言环境的重要性。主讲人还会分享一些切实可行的方法，帮助大家在家中营造亲近母语的环境，例如如何利用资讯科技增加使用母语的机会例如如何利用资讯科技增加使用母语的机会。此外，主讲人也将结合华文的语言特点，向大家提供一些学习建议。</p>
    <h4> Imperceptible Influence：How to Create a Conducive Mother Tongue Learning Environment at Home  </h4> 
  <h4>Profile</h4>
