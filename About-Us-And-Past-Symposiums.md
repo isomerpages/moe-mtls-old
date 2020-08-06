@@ -11,7 +11,6 @@ With the current Covid-19 situation, and in the interest of everyone’s safety,
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wvuiXKf_bJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </center>
-  <br/>
  <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RXaW1jeuEj4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
