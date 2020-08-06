@@ -70,10 +70,10 @@ max-width:40%;
  </strong>
   <br/> Ministry of Education</p>
    </div>
-  <h4 style="padding-top:12px;">&nbsp;&nbsp; &nbsp; Synopsis</h4>
+  <h4 style="padding-top:12px;">&nbsp;&nbsp; Synopsis</h4>
        
   <p style="margin:4px;"><strong>&nbsp;&nbsp; &nbsp;A/P Mukhlis Abu Bakar  </strong><br/>
-&nbsp; &nbsp;Dr Mukhlis Abu Bakar is Associate Professor and Assistant Head/Malay at the Asian Languages and Cultures Academic Group of the National Institute of Education, Nanyang Technological University. Trained as an applied linguist, he teaches in the area of grammar, linguistics, discourse, bilingualism and literacy. His current research interests lie in the field of childhood bilingualism and biliteracy, and a sociocultural approach to literacy learning in the home, school and faith settings.
+&nbsp; &nbsp;Dr Mukhlis Abu Bakar is Associate Professor and Assistant Head/Malay at the Asian Languages and Cultures Academic Group of the National Institute of Education, &nbsp; &nbsp;Nanyang Technological University. Trained as an applied linguist, he teaches in the area of grammar, linguistics, discourse, bilingualism and literacy. His current &nbsp; &nbsp;research interests lie in the field of childhood bilingualism and biliteracy, and a sociocultural approach to literacy learning in the home, school and faith settings.
 </p>
  <p style="margin:4px;"><strong>Kamilah Binte Kamis </strong><br/>
  Miss Kamilah has been teaching in the preschool sector for 6 years. She was inspired to be a Pre-school teacher owing to her love for young children. Awarded the Outstanding Pre-school Mother Tongue Language Teacher Award (Outstanding Award) in 2019, Miss Kamilah is committed to inspiring her children to love the Malay language. She is constantly motivated to design interactive and interesting Malay lessons so that her children stay positive and engaged as they learn the language. She has already written one bilingual book for children and hopes to write more.
