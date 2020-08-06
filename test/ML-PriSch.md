@@ -116,7 +116,7 @@ table.center {
 </p>
   <img src="/images/ML-Program.jpg" class="image">    
   <a href="https://tinyurl.com/emasmlep" target="_blank">https://tinyurl.com/emasmlep </a>
- <p style="font-size:30px;color:green;">Bahan Pengajaran dan Pembelajaran <br/>
+ <p id="C1" style="font-size:30px;color:green;">Bahan Pengajaran dan Pembelajaran <br/>
   <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran cekap:</span></p>
   <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
@@ -136,7 +136,7 @@ table.center {
      <div class="tab-content">
        <img src="/images/ML-10.png">  
        </div></div>
-      <p style="font-size:30px;color:green;">Sokongan Ibu Bapa <br/>
+      <p id="C2" style="font-size:30px;color:green;">Sokongan Ibu Bapa <br/>
 <img src="/images/ML-Role.jpg"> 
 </p>
 <p style="font-size:25px;">Ibu bapa boleh bermain beberapa permainan dengan anak anda agar dapat meningkatkan dan meluaskan kosa kata anak</p>
