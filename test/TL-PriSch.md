@@ -29,11 +29,11 @@ breadcrumb: 'TL PriSch'
 பள்ளிகளில் பிள்ளைகள் தமிழ்மொழியை எவ்வாறு கற்கிறார்கள் என்பதைப் புரிந்துகொள்ளவும் பிள்ளைகளின் கற்றலில் பள்ளியுடன் இணைந்து எவ்வாறு துடிப்புடன் செயற்படலாம் என்பதை அளிந்துகொள்ளவும் தமிழ்மொழியைக் கற்கப் பல சுவாரசியமான வழிகள் உள்ளன என்பதைத் தெரிந்துகொள்ளவும் இந்தத் தளத்தில் உள்ள தகவல்கள் துணைபுரியும். மேலும் எளிமையான, மகிழ்வூட்டக்கூடிய முறையில் தமிழ்மொழியைக் கற்க வீட்டில் பெற்றோர்கள் பிள்ளைகளுக்கு உதவுவதற்கும் இந்தத் தளத்தில் உள்ள தகவல்கள் துணைபுரியும் என நம்புகிறோம். 
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wvuiXKf_bJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-<h4 class="C1" ;style="font-size:30px;color:purple">தமிழ்மொழிக் கல்வியில் மகிழ்வூட்டும் கற்றல்
+<h4 id="C1" ;style="font-size:30px;color:purple">தமிழ்மொழிக் கல்வியில் மகிழ்வூட்டும் கற்றல்
  </h4>
  <img src="/images/TL-Pri-Learning.jpg"><br/><br/>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/wvuiXKf_bJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- <h4 class="C2";style="font-size:30px;color:purple;">ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் வளங்கள் </h4>
+ <h4 id="C2";style="font-size:30px;color:purple;">ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் வளங்கள் </h4>
 <p>
 <li>மாணவரின் ஆர்வத்தைத் தூண்டி அவர்களை மகிழ்வூட்டும் கற்றலில் ஈடுபடுத்த விளையாட்டுகள், கதைகள், பாடல்கள் ஆகியவை துணைபுரிகின்றன.  
 </li>
@@ -44,21 +44,21 @@ breadcrumb: 'TL PriSch'
 </p>
 <p style="font-size:30px; color:purple;">ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் வளங்கள்</p>
 <img src="/images/TL-Pri_Textbook.jpg">
-<h4 class="C3"; style="font-size:30px; color:purple;">மாணவர்களை மையப்படுத்திய கற்றல் வளங்களும் நடவடிக்கைகளும்
+<h4 id="C3"; style="font-size:30px; color:purple;">மாணவர்களை மையப்படுத்திய கற்றல் வளங்களும் நடவடிக்கைகளும்
 </h4>
 <img src="/images/TL-Pri-resources.jpg">
 
-<h4 class="C4"; style="font-size:25px; color:purple;" >ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் </h4><br/>
+<h4 id="C4"; style="font-size:25px; color:purple;" >ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் </h4><br/>
 
 <p style="font-size:25px; color:purple;" >படித்தல் - கருத்துணர்தல் திறனை வளர்க்க உதவும் உத்திமுறைகள் 
 </p>
 <img src="/images/TL-Pri-resources.jpg"><br/>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wvuiXKf_bJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<h4 class="C5";style="font-size:30px; color:purple;">பெற்றோர் பங்கு</h4>
+<h4 id="C5";style="font-size:30px; color:purple;">பெற்றோர் பங்கு</h4>
 <p>பிள்ளைகள் வாழும் இடமாகவும் அவர்கள் முதலில் கற்கும் இடமாகவும் திகழ்வது இல்லம் என்பதால் பெற்றோர்களே அவர்களுடைய முதல் ஆசிரியர்கள் ஆவர். ஆதலால் தமிழ்மொழி கற்றலை வீட்டில் தொடங்குவதுதான் பொருத்தமாக இருக்கும். எனவே, பெற்றோர்களுக்கு உதவும் நோக்கில் 2015 தமிழ்மொழிப் பாடக்கலைத்திட்டத்தின் சிறப்பு அம்சங்களையும் கற்றல் வளங்களையும் அறிமுகப்படுத்தும்வகையில் இந்தக் கையேடு தயாரிக்கப்பட்டுள்ளது. தமிழ்மொழியைப் பிள்ளைகள் நன்கு கற்கப் பிள்ளைகளுக்குப் பெற்றோர் எவ்வாறெல்லாம் உதவலாம் என்பதற்கான பரிந்துரைகளும் இக்கையேட்டில் இடம்பெற்றுள்ளன.
 </p>
 <a href="#" target="_blank">Parents Guide</a>
-<h4 class="C6"; style="font-size:30px; color:purple;">இணையம்வழிக் கற்றல்
+<h4 id="C6"; style="font-size:30px; color:purple;">இணையம்வழிக் கற்றல்
 </h4>
 <img src="/images/TL_Pri_online.jpg">
