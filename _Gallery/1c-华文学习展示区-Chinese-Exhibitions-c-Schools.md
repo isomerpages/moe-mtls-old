@@ -3,7 +3,7 @@ title: '中小学 (Schools)'
 permalink: /Gallery/华文学习展示区-Chinese-Exhibitions-c/Schools/
 breadcrumb: '华文学习展示区-Chinese-Exhibitions'
 collection_name: Gallery
-third_nav_title: '华文学习展示区 Chinese Exhibitions'
+third_nav_title: '华文学习展示区'
 ---
 
 ##  中小学  (Schools)
