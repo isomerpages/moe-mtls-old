@@ -185,36 +185,29 @@ table.center {
          <br/>
          Kategori – perabot
          <table class="center">
-  
   <tr>
     <td>Ibu/Bapa</td>
      <td>:</td>
-    <td>katil</td>
-   
+  <td>katil</td>
   </tr>
-  
   <tr>
     <td>Anak  </td>
     <td>:</td>
-    <td>almari</td>
-
+  <td>almari</td>
   </tr>
   <tr>
     <td>Ibu/Bapa </td>
     <td>:</td>
-    <td>kerusi</td>
-    
+  <td>kerusi</td>
   </tr>
   <tr>
     <td>Anak </td>
     <td>:</td>
     <td>meja</td>
-   
   </tr>
-</table></p>
+</table>
+</p>
 <div></div>
-
-
 <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
    <label for="tab-7">Permainan Suku Kata </label>
@@ -226,28 +219,24 @@ table.center {
     <td>Ibu/Bapa</td>
      <td>:</td>
   <td>ro<strong>ti</strong></td>
-   
-  </tr>
-  
+ </tr>
   <tr>
     <td>Anak  </td>
     <td>:</td>
   <td><strong>ti</strong>lam</td>
-
-  </tr>
+</tr>
   <tr>
     <td>Ibu/Bapa </td>
     <td>:</td>
   <td><strong>lam</strong>pu</td>
-    
   </tr>
   <tr>
     <td>Anak </td>
     <td>:</td>
   <td><strong>pu</strong>sing</td>
-   
-  </tr>
-</table></p>
+   </tr>
+</table>
+</p>
 <div></div>
 <p style="font-size:25px;">Ibu bapa boleh bermain beberapa permainan dengan anak anda yang boleh membantu anak anda menguasai kemahiran membina ayat.
 </p>
@@ -260,8 +249,5 @@ table.center {
 Kereta itu berwarna merah.<br/>
          Contoh 2 :  <br/>
          <strong>Kereta</strong> Ayah bergerak dengan <strong>laju.</strong><br/>
-
-
-         
 </p>
 <div></div>
