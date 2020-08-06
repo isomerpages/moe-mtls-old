@@ -66,7 +66,7 @@ max-width:40%;
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1"  class="lbML">Didik Hibur: Bahan Rangsangan untuk Menggalakkan Pelajar dalam Pembelajaran Bahasa Melayu  <br/> [12.30pm – 1.30pm]
- <br/> Asnida Bte Daud
+ <br/>Ms Asnida Bte Daud
 </label>
       <div class="tab-content">
        <br/>
@@ -103,7 +103,7 @@ Kajian neurosains telah membuktikan bahawa pembelajaran akan berhenti apabila ke
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2"  class="lbML">Ayuh, Teroka Taman Haiwan Singapura …Melalui Alam Siber! [2.00pm – 3.00pm] <br/> Let’s explore Singapore Zoo...through cyberspace!
-<br/> Haniman Boniran
+<br/>Mr Haniman Boniran
 </label>
       <div class="tab-content">      
        <br/>
@@ -152,7 +152,7 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
  <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
    </div>
-   <p> <strong>Associate Professor Mariam Aljunied </strong>
+   <p> <strong> Mariam Aljunied </strong>
 <br/> Special Education Needs Division Ltd
     <br/>Associate Professor</p>
    </div>
@@ -179,7 +179,7 @@ Early intervention is important. Parents are often seeking ways to maximise the 
       <input id="tab-4" type="checkbox" name="tab">
       <label for="tab-4"  class="lbML">Pembaca yang Berfikir dalam Dunia Digital
 <br/> The Thinking Reader in the Digital World <br/>
-    Salina Bte Saiman & Ganda Sari Binte
+    Mr Salina Bte Saiman & Ms Ganda Sari Chokri
 </label>
       <div class="tab-content">      
        <br/>
@@ -220,7 +220,7 @@ Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal b
       <input id="tab-5" type="checkbox" name="tab">
       <label for="tab-5" class="lbML">Peranan Ibu Bapa dalam Memupuk Budaya Celik Literasi di Rumah
  <br/>Parents and their involvement in supporting early literacy at home
-<br/>Hazliana Md Lahir
+<br/>Ms Hazliana Md Lahir
 </label>
       <div class="tab-content">      
        <br/>
