@@ -97,7 +97,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbCh"><span style="font-size:28px;font-family:KaiTi"> 润物细无声：如何在家中营造有利于母语发展的语言环境
+      <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi"> 润物细无声：如何在家中营造有利于母语发展的语言环境
 [2.00pm – 3.00pm]<br/> 孙宝琦</span>
 </label>
       <div class="tab-content">      
@@ -131,7 +131,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3" class="lbCh"><span style="font-size:28px;font-family:KaiTi">「我把我的中文课本撕毀了!」一位英文教师陪伴女儿走过的学习中文之路
+      <label for="tab-3" class="lbCh"><span style="font-size:25px;font-family:KaiTi">「我把我的中文课本撕毀了!」一位英文教师陪伴女儿走过的学习中文之路
        <br/>胡恩恩</span></label>
       <div class="tab-content">      
        <br/>
@@ -164,7 +164,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4" class="lbCh"><span style="font-size:28px;font-family:KaiTi">2015年小学华文课程简介
+      <label for="tab-4" class="lbCh"><span style="font-size:25px;font-family:KaiTi">2015年小学华文课程简介
        <br/>徐金红 </span>
 </label>
   <div class="tab-content">      
@@ -204,7 +204,7 @@ The speaker will share how the curriculum enables children to learn Chinese in c
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5" class="lbCh"> <span style="font-size:28px;font-family:KaiTi">快乐阅读和讲故事
+      <label for="tab-5" class="lbCh"> <span style="font-size:25px;font-family:KaiTi">快乐阅读和讲故事
    <br/>林季华 </span></label>
       <div class="tab-content">      
        <br/>
@@ -237,7 +237,7 @@ The speaker will share how the curriculum enables children to learn Chinese in c
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
-      <label for="tab-6" class="lbCh"><span style="font-size:28px;font-family:KaiTi">母语学习，赢在起点！
+      <label for="tab-6" class="lbCh"><span style="font-size:25px;font-family:KaiTi">母语学习，赢在起点！
   <br/>李莉</span></label>
       <div class="tab-content">      
        <br/>
