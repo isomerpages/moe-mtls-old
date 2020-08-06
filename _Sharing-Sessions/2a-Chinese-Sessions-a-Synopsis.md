@@ -96,7 +96,7 @@ max-width:40%;
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2" class="lbCh"><span style="font-size:28px;font-family:KaiTi"> 润物细无声：如何在家中营造有利于母语发展的语言环境
-<br/>[2.00pm – 3.00pm]<br/> 孙宝琦</span>
+[2.00pm – 3.00pm]<br/> 孙宝琦</span>
 </label>
       <div class="tab-content">      
        <br/>
