@@ -70,9 +70,9 @@ max-width:40%;
  </strong>
   <br/> Ministry of Education</p>
    </div>
-  <h4 style="padding-top:12px;">&nbsp;&nbsp; Synopsis</h4>
+  <h4 style="padding-top:12px;">&nbsp;&nbsp;Synopsis</h4>
        
-  <p style="margin:4px;"><strong>&nbsp;&nbsp; &nbsp;A/P Mukhlis Abu Bakar  </strong><br/>
+  <p style="margin:4px;"><strong>&nbsp;&nbsp;&nbsp;A/P Mukhlis Abu Bakar  </strong><br/>
 &nbsp; &nbsp;Dr Mukhlis Abu Bakar is Associate Professor and Assistant Head/Malay at the Asian Languages and Cultures Academic Group of the National Institute of Education, &nbsp; &nbsp;Nanyang Technological University. Trained as an applied linguist, he teaches in the area of grammar, linguistics, discourse, bilingualism and literacy. His current &nbsp; &nbsp;research interests lie in the field of childhood bilingualism and biliteracy, and a sociocultural approach to literacy learning in the home, school and faith settings.
 </p>
  <p style="margin:4px;"><strong>Kamilah Binte Kamis </strong><br/>
