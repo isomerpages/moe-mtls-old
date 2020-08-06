@@ -102,7 +102,7 @@ Kajian neurosains telah membuktikan bahawa pembelajaran akan berhenti apabila ke
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2"  class="lbML">Ayuh, Teroka Taman Haiwan Singapura …Melalui Alam Siber! [2.00pm – 3.00pm] <br/> Let’s explore Singapore Zoo...through cyberspace!
+      <label for="tab-2"  class="lbML">Ayuh, Teroka Taman Haiwan Singapura …Melalui Alam Siber! [2.00pm – 3.00pm] 
 <br/>Mr Haniman Boniran
 </label>
       <div class="tab-content">      
@@ -143,8 +143,7 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
       <label for="tab-3"  class="lbML">Perkembangan Neuro-psikologi Kanak-kanak : Mitos dan Fakta 
- <br/> Children’s neuro-psychological development: myths and facts <br/>
-       Mariam Aljunied
+ <br/> Mariam Aljunied
 </label>
       <div class="tab-content">      
        <br/>
@@ -178,8 +177,7 @@ Early intervention is important. Parents are often seeking ways to maximise the 
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
       <label for="tab-4"  class="lbML">Pembaca yang Berfikir dalam Dunia Digital
-<br/> The Thinking Reader in the Digital World <br/>
-    Mr Salina Bte Saiman & Ms Ganda Sari Chokri
+<br/> Mr Salina Bte Saiman & Ms Ganda Sari Chokri
 </label>
       <div class="tab-content">      
        <br/>
@@ -219,8 +217,7 @@ Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal b
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
       <label for="tab-5" class="lbML">Peranan Ibu Bapa dalam Memupuk Budaya Celik Literasi di Rumah
- <br/>Parents and their involvement in supporting early literacy at home
-<br/>Ms Hazliana Md Lahir
+ <br/> Ms Hazliana Md Lahir
 </label>
       <div class="tab-content">      
        <br/>
