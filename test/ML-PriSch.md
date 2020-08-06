@@ -18,7 +18,7 @@ breadcrumb: 'ML PriSch'
 }
 
 .content table {
-    width: 30%;
+    width: 70%;
     font-family: arial, sans-serif;
      border-collapse: collapse;
 }
