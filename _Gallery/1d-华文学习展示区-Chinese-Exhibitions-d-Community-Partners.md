@@ -44,7 +44,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbCh">	推广华文学习委员会<br/>Committee to Promote Chinese Language Learning</label>
+      <label for="tab-1" class="lbCh"> <span style="font-size:25px; font-family:KaiTi">	推广华文学习委员会 </span><br/>Committee to Promote Chinese Language Learning</label>
       <div class="tab-content">
       <h4 style="font-size:30px; font-family:KaiTi">推广华文学习委员会</h4>
         <p style="font-family:KaiTi">
@@ -68,7 +68,7 @@ CPCLL’s signature programmes and key activities include Xin Kong Xia National 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbCh">滨海艺术中心<br/>Esplanade – Theatres on the Bay</label>
+      <label for="tab-2" class="lbCh"> <span style="font-size:25px; font-family:KaiTi"> 滨海艺术中心 </span><br/>Esplanade – Theatres on the Bay</label>
       <div class="tab-content">
           <h4 style="font-size:30px; font-family:KaiTi">滨海艺术中心</h4>
         <p style="font-family:KaiTi">
@@ -94,7 +94,7 @@ CPCLL’s signature programmes and key activities include Xin Kong Xia National 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3" class="lbCh">李光耀双语基金<br/>Lee Kuan Yew Fund for Bilingualism </label>
+      <label for="tab-3" class="lbCh"> <span style="font-size:25px; font-family:KaiTi">李光耀双语基金 </span><br/>Lee Kuan Yew Fund for Bilingualism </label>
       <div class="tab-content">
           <h4 style="font-size:30px; font-family:KaiTi">母语乐翻天</h4>
         <p style="font-family:KaiTi">
@@ -116,7 +116,7 @@ CPCLL’s signature programmes and key activities include Xin Kong Xia National 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4" class="lbCh">国家文物局<br/>National Heritage Board</label>
+      <label for="tab-4" class="lbCh"> <span style="font-size:25px; font-family:KaiTi"> 国家文物局 </span><br/>National Heritage Board</label>
       <div class="tab-content">
           <h4 style="font-size:30px; font-family:KaiTi">新加坡国家文物局</h4>
           <p style="font-family:KaiTi">国家文物局欢迎大家一起通过文化遗产认识母语。除了讲华语运动理事会提供的材料与资源外，公众也能通过晚晴园 - 孙中山南洋纪念馆及国家文物局展开的“新加坡小宝藏”、“文化遗产探险家计划”、“学校文化遗产角落”等文化教育项目一起学习母语。通过国家文物局的电子展板，家长能够了解更多适合孩子学习的活动；教育工作者可发掘更多让学习走出课堂的方法。</p>
@@ -137,7 +137,7 @@ Parents can find out more about the learning opportunities available to the youn
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5" class="lbCh">国立教育学院（亚洲语言文化学部）<br/>National Institute of Education (Asian Languages and Cultures Academic Group)</label>
+      <label for="tab-5" class="lbCh"> <span style="font-size:25px; font-family:KaiTi">国立教育学院（亚洲语言文化学部）</span><br/>National Institute of Education (Asian Languages and Cultures Academic Group)</label>
       <div class="tab-content">
           <h4 style="font-size:30px;font-family:KaiTi">故事天地——乐趣无穷的语言学习和价值传承</h4>
         <p style="font-family:KaiTi">
@@ -157,7 +157,7 @@ Parents can find out more about the learning opportunities available to the youn
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
-      <label for="tab-6" class="lbCh">国家图书馆管理局<br/>National Library Board</label>
+      <label for="tab-6" class="lbCh"> <span style="font-size:25px; font-family:KaiTi"> 国家图书馆管理局 </span><br/>National Library Board</label>
       <div class="tab-content">
           <h4 style="font-size:30px; font-family:KaiTi">中文图书馆服务</h4>
           <p style="font-family:KaiTi">
@@ -177,7 +177,7 @@ Parents can find out more about the learning opportunities available to the youn
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
-      <label for="tab-7" class="lbCh">新加坡华文教研中心<br/>Singapore Centre for Chinese Language</label>
+      <label for="tab-7" class="lbCh"><span style="font-size:25px; font-family:KaiTi">新加坡华文教研中心 </span><br/>Singapore Centre for Chinese Language</label>
       <div class="tab-content">
            <h4 style="font-size:30px; font-family:KaiTi">乐学华文 / 华文乐学园地</h4>
           <p style="font-family:KaiTi">
@@ -197,7 +197,7 @@ Parents can find out more about the learning opportunities available to the youn
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
-      <label for="tab-8" class="lbCh">新加坡宗乡会馆联合总会<br/>Singapore Federation of Chinese Clan Associations   </label>
+      <label for="tab-8" class="lbCh"><span style="font-size:25px; font-family:KaiTi">新加坡宗乡会馆联合总会 </span><br/>Singapore Federation of Chinese Clan Associations   </label>
       <div class="tab-content">
        <h4 style="font-size:30px; font-family:KaiTi">“落地生根，开拓新家园”虚拟展览 </h4>
           <p style="font-family:KaiTi">为配合宗乡总会35周年庆主题“温故•传承•创新”，宗乡总会携手推广华文学习委员会，运用虚拟实境技术，将纪念新加坡开埠两百周年推出的“落地生根，开拓新家园”展览发展为线上 360 度全方位虚拟展览，让公众能通过互动的方式了解新加坡的历史、学习华文。</p>
@@ -214,7 +214,7 @@ Parents can find out more about the learning opportunities available to the youn
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-9" type="checkbox" name="tab">
-      <label for="tab-9" class="lbCh">新加坡野生动物保育集团<br/>Wildlife Reserves Singapore  </label>
+      <label for="tab-9" class="lbCh"><span style="font-size:25px; font-family:KaiTi">新加坡野生动物保育集团 </span><br/>Wildlife Reserves Singapore  </label>
       <div class="tab-content">
           <h4 style="font-size:30px; font-family:KaiTi">野生动物学习乐园</h4>
           <p style="font-family:KaiTi">新加坡野生动物保育集团呈现“野生动物学习乐园”，为学前与小学的母语教学提供不一样的线上教室。集团精心设计了多种资源，包括动物视频和大熊猫有声图书，让家长和孩子在游园前后，通过在线活动认识野生动物，乐学母语。集团也为小学华文教师设计了关于偏旁部首的主题活动，引导学生认识动物名称的偏旁部首，为学习华文增添乐趣。</p>
@@ -233,7 +233,7 @@ Parents can find out more about the learning opportunities available to the youn
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-10" type="checkbox" name="tab">
-      <label for="tab-10" class="lbCh">早报校园<br/>ZB Schools</label>
+    <label for="tab-10" class="lbCh"><span style="font-size:25px; font-family:KaiTi">早报校园 </span><br/>ZB Schools</label>
       <div class="tab-content">
          <h4 style="font-size:30px; font-family:KaiTi">读报从小开始</h4>
         <p style="font-family:KaiTi">
