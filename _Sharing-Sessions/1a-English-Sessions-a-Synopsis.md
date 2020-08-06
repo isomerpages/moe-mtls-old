@@ -115,8 +115,13 @@ With years of experience in the television and entertainment industry, Ben Yeo i
  Principal Curriculum Specialist
 </p>
    </div>
+       <h4>Profile</h4>
+       <p>Dr Connie Lum has worked in the early childhood field for over 20 years. She is currently Director, Mother Tongue Languages (NTUC First Campus).  She works closely with principals and teachers in delivering the Chinese curriculum and programmes to children through curriculum writing, training of teachers, evaluating children’s learning environment, and conducting continuous reviews of curriculum tools and techniques. She is a member of the Promote Chinese Language Learning Pre-School Chinese Language Education Support Group.</p>
+       <h4><strong>Multimodal Approaches to Developing Oracy </strong></h4>
   <h4> Synopsis</h4>  
-       <p>Integrating multimodal experiences, coupled with specific learning objectives and age-appropriate activities, has been one of the common pedagogies used in early childhood education. In order to better recognise and support the diverse abilities and interests of our young learners, opportunities for lively and authentic expression should also be plentiful within the early years environment.  By supporting learning experiences which involve various modes of expression, children can engage based on their developmental characteristics and learning preferences and in turn, encourage them to communicate in their mother tongue and effectively drive their own learning.  In this sharing, we will be exploring multimodal approaches in developing oracy, such as using manipulatives in games, finger puppet activities, paired discussion and storytelling activities, and incorporating movement elements in music activities which involve verbal communication.
+       <p>Integrating multimodal experiences, coupled with specific learning objectives and age-appropriate activities, are common pedagogies used in early childhood education. In order to even further recognise and support the diverse abilities and interests of our young learners, plentiful opportunities for lively and authentic expression should be integrated into the child’s environment during the early years. <br/>
+Multimodal approaches in developing oracy such as the use of manipulatives in games, finger puppet activities, paired discussion and storytelling activities, as well as theincorporation of movement into music activities which use verbal communication will be explored in the session.
+
         
 </p>  
 </div></div>
@@ -143,6 +148,9 @@ With years of experience in the television and entertainment industry, Ben Yeo i
     <br/> National University of Singapore
 </p>
    </div>
+ <h4>Profile</h4>
+ <p>Dr. Leher Singh is the Associate Professor of Psychology at the National University of Singapore. She also directs the NUS Infant and Child Language Centre. Her research focuses on the impact of bilingualism on language acquisition, social development and cognitive growth in young children.</p>
+
   <h4> Synopsis</h4>  
  <p>Raising bilingual children opens children up to tremendous opportunities. At the same time, families often experience stress in knowing how best to raise children to become bilingual. What works and what doesn't? What does the science say? This sharing session will focus on how bilingualism can be expected to impact a child’s development, as well as some of the common challenges that parents face and on research-based strategies to support bilingualism in young children.
 </p>
