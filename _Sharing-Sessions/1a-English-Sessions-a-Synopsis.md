@@ -62,7 +62,7 @@ max-width:40%;
  <div class="accordion">
 <div class="atab" >
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbeng">Creating an Immersive Environment for the Learning of Our Mother Tongue Languages  <br/> [10.00am – 11.00am] <br/> Minister Ong Ye Kung
+      <label for="tab-1" class="lbeng">Creating an Immersive Environment for the Learning of Our Mother Tongue Languages  <br/> [10.00am – 11.00am] <br/>Panel Discussion
 </label>
       <div class="tab-content"><br/>
   <div class="row">
