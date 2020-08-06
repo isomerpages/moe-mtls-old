@@ -65,7 +65,8 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbTM">Story: A key to language learning <br/> [12.30pm – 1.30pm] <br/>Ms Elakeyaa Selvaraji
+      <label for="tab-1" class="lbTM">தெரிந்தும் தெரியாமலும் சின்னஞ்சிறிய தமிழ்ப்பாடம்
+<br/> [12.30pm – 1.30pm] <br/>Ms Elakeyaa 
 </label>
       <div class="tab-content">
       <br/>
@@ -98,7 +99,8 @@ Current key concerns amongst young Indian parents is how to nurture the love of 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbTM">Joyful Learning through stories <br/> [2.00pm – 3.00pm]
+      <label for="tab-2" class="lbTM">கதைகள்வழி மகிழ்ச்சியான கற்றல்
+ <br/> [2.00pm – 3.00pm]
  <br/> Ms Rani Kanna & Mr Anandha Kannan</label>
       <div class="tab-content">      
        <br/>
@@ -134,7 +136,8 @@ Current key concerns amongst young Indian parents is how to nurture the love of 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3" class="lbTM">Let’s Learn our Tamil Language!  
+      <label for="tab-3" class="lbTM">வாங்க நம் தமிழ்மொழியைக்  
+
 <br/>Mr Mohan Suppiah & Mr Balajee Harridas</label>
       <div class="tab-content">      
        <br/>
@@ -171,7 +174,8 @@ Current key concerns amongst young Indian parents is how to nurture the love of 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4" class="lbTM">Story: A key to language learning <br/>Ms Darseni Rengasamy 
+      <label for="tab-4" class="lbTM">மொழி கற்றலில் கதை என்னும் திறவுகோல்
+<br/>Ms Darseni Rengasamy 
 </label>
       <div class="tab-content">      
        <br/>
