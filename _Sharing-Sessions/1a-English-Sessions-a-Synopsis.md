@@ -66,8 +66,6 @@ max-width:40%;
 </label>
       <div class="tab-content"><br/>
   <div class="row">
- <div class="column">
-   </div>
    <p> <strong> Minister Lawrence Wong
  </strong>
   <br/> Ministry of Education</p>
