@@ -62,3 +62,4 @@ breadcrumb: 'TL PriSch'
 <h4 id="C6"><span style="font-size:30px; color:purple;">இணையம்வழிக் கற்றல்
  </span></h4>
 <img src="/images/TL_Pri_online.jpg">
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
