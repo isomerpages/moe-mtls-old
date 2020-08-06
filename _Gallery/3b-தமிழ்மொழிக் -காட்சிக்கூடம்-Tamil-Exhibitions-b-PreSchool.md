@@ -48,7 +48,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1"  class="lbTM">கல்விஅமைச்சின்பாலர்பள்ளி (ஃபேரர்பார்க்)<br/>MK@Farrer Park</label>
+      <label for="tab-1"  class="lbTM">கல்விஅமைச்சின்பாலர்பள்ளி (பேரர்பார்க்)<br/>MK@Farrer Park</label>
       <div class="tab-content">
           <h4 style="font-size:35px;font-family:KaiTi"><strong>அதிசயங்களைஉருவாக்கும்வாசிப்பு </strong></h4>
                  <p style="font-family:KaiTi">
