@@ -69,7 +69,7 @@ max-width:40%;
    <p> <strong> Mr Lawrence Wong
  </strong>
   <br/> Minister for Education</p>
-   
+   <br/>
    <p><strong> Ms Sun Xueling
  </strong>
   <br/> Minister of State, Ministry of Education</p>
