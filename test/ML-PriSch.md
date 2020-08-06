@@ -115,7 +115,7 @@ table.center {
 </li>
 </p>
   <img src="/images/ML-Program.jpg" class="image">    
-  <a href="https://tinyurl.com/emasmlep" target="_blank">Lihat https://tinyurl.com/emasmlep </a>
+  Lihat<a href="https://tinyurl.com/emasmlep" target="_blank">https://tinyurl.com/emasmlep </a>
  <p id="C1" style="font-size:30px;color:green;">Bahan Pengajaran dan Pembelajaran <br/>
   <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran cekap:</span></p>
   <div class="atab">
