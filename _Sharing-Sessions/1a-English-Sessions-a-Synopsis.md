@@ -53,6 +53,9 @@ max-width:40%;
   width:50%;
   height:auto;
 }
+.lbeng{
+font-size:20px;
+}
 </style>
 </head>
   <body>  
