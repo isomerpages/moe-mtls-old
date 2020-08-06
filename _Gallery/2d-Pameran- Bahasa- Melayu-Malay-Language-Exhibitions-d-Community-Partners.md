@@ -43,7 +43,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbML">Berita Harian<br/>Berita Harian</label>
+      <label for="tab-1" class="lbML">Berita Harian</label>
       <div class="tab-content">
       <h4 style="padding-top:12px;">Apakah yang Berlaku pada Persekitaran Kita?</h4>
       <p style="margin:4px;">
@@ -110,7 +110,7 @@ Parents can find out more about the learning opportunities available for the you
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4" class="lbML">Institut Pendidikan Nasional  (Kumpulan Akademik Bahasa dan Kebudayaan Asia)<br/>National Institute of Education  (Asian Languages and Cultures Academic Group)</label>
+      <label for="tab-4" class="lbML">Institut Pendidikan Nasional <br/> (Kumpulan Akademik Bahasa dan Kebudayaan Asia)<br/>National Institute of Education  (Asian Languages and Cultures Academic Group)</label>
       <div class="tab-content">
          <h4 style="padding-top:12px;">Dunia Penceritaan - Keseronokan dalam Pembelajaran Bahasa dan Penyemaian Nilai</h4>
         <p style="margin:4px;">
@@ -172,7 +172,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
-      <label for="tab-7" class="lbML">Jawatankuasa Pembelajaran dan Penggalakkan Penggunaan Bahasa Melayu <br/>Malay Language Learning and Promotion Committee</label>
+      <label for="tab-7" class="lbML">Jawatankuasa Pembelajaran dan Penggalakkan Penggunaan<br/> Bahasa Melayu <br/>Malay Language Learning and Promotion<br/> Committee</label>
       <div class="tab-content">
        <h4 style="padding-top:12px;">Jawatankuasa Penggalakan dan Penggunaan Bahasa Melayu</h4>
         <p style="margin:4px;">
@@ -192,7 +192,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
-      <label for="tab-8" class="lbML">Wildlife Reserves Singapore	<br/>Wildlife Reserves Singapore</label>
+      <label for="tab-8" class="lbML">Wildlife Reserves Singapore</label>
       <div class="tab-content">
        <h4 style="padding-top:12px;">Keajaiban Alam Haiwan</h4>
         <p style="margin:4px;">
@@ -211,7 +211,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-9" type="checkbox" name="tab">
-      <label for="tab-9" class="lbML">ESPLANADE	<br/>ESPLANADE</label>
+      <label for="tab-9" class="lbML">ESPLANADE	</label>
       <div class="tab-content">
        <h4 style="padding-top:12px;">Esplanade- Teater di Persisiran</h4>
        <p style="margin:4px;">Sebagai pusat persembahan seni kebangsaan Singapura, Esplanade – Teater di Persisiran ingin memastikan setiap lapisan masyarakat berpeluang untuk menikmati karya seni.<br/>
