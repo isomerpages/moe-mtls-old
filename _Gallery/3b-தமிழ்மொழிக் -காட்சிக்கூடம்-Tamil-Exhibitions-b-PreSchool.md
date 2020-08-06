@@ -37,7 +37,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 }
 .atab {
     margin-bottom: 5px;
-    width: 60%;
+    width: 87%;
     neight:auto;
  }
 </style>
