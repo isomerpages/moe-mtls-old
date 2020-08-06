@@ -94,7 +94,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbCh"><span style="font-size:20px;font-family:KaiTi"> 润物细无声：如何在家中营造有利于母语发展的语言环境
+      <label for="tab-2" class="lbCh"><span style="font-size:20px;font-family:KaiTi"> 润物细无声：<br/>如何在家中营造有利于母语发<br/>展的语言环境
 [2.00pm – 3.00pm]<br/> 孙宝琦</span>
 </label>
       <div class="tab-content">      
@@ -107,7 +107,7 @@ max-width:40%;
  </strong> <br/> National Institute of Education, <br/>Nanyang Technological University
 </p>
        </div>
- <h4 style="font-size:28px;font-family:KaiTi">润物细无声：如何在家中营造有利于母语发展的语言环境</h4>
+ <h4 style="font-size:28px;font-family:KaiTi">润物细无声：如何在家中营造有利于<br/>母语发展的语言环境</h4>
    <h4 style="font-size:28px;font-family:KaiTi">介绍</h4>
  <p style="font-size:28px;font-family:KaiTi;margin:4px;">孙宝琦老师拥有新加坡南洋理工大学属下新加坡教育学院授予的教育学博士学位。孙宝琦老师目前任职于新加坡国立教育学院儿童发展研究中心，主要研究双语早期阅读及双语教学。</p>
    <h4> 简介</h4> 
@@ -128,7 +128,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3" class="lbCh"><span style="font-size:20px;font-family:KaiTi">「我把我的中文课本撕毀了!」一位英文教师陪伴女儿走过的学习中文之路
+      <label for="tab-3" class="lbCh"><span style="font-size:20px;font-family:KaiTi">「我把我的中文课本撕毀了!」一<br/>位英文教师陪伴女儿走过的学<br/>习中文之路
        <br/>胡恩恩</span></label>
       <div class="tab-content">      
        <br/>
