@@ -10,17 +10,17 @@ breadcrumb: 'TL PriSch'
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/TL-Header.jpg">
 <p>
-<a href="#C1" style="font-size:30px"><span style="color:blue;">தமிழ்மொழிக் கல்வியில் மகிழ்வூட்டும் கற்றல்
+<a href="#C1" style="font-size:25px"><span style="color:blue;">தமிழ்மொழிக் கல்வியில் மகிழ்வூட்டும் கற்றல்
 </span></a><br/>
- <a href="#C2" style="font-size:30px"><span style="color:blue;">ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் வளங்கள்
+ <a href="#C2" style="font-size:25px"><span style="color:blue;">ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் வளங்கள்
 </span></a><br/>
- <a href="#C3" style="font-size:30px"><span style="color:blue;">மாணவர்களை மையப்படுத்திய கற்றல் வளங்களும் நடவடிக்கைகளும்
+ <a href="#C3" style="font-size:25px"><span style="color:blue;">மாணவர்களை மையப்படுத்திய கற்றல் வளங்களும் நடவடிக்கைகளும்
 </span></a><br/>
- <a href="#C4" style="font-size:30px"><span style="color:blue;">ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள்
+ <a href="#C4" style="font-size:25px"><span style="color:blue;">ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள்
 </span></a><br/>
- <a href="#C5" style="font-size:30px"><span style="color:blue;">பெற்றோர் பங்கு
+ <a href="#C5" style="font-size:25px"><span style="color:blue;">பெற்றோர் பங்கு
 </span></a><br/>
- <a href="#C6" style="font-size:30px"><span style="color:blue;">இணையம்வழிக் கற்றல்
+ <a href="#C6" style="font-size:25px"><span style="color:blue;">இணையம்வழிக் கற்றல்
 </span></a><br/><br/>
  நம் பிள்ளைகள் தமிழ்மொழியில் திறன்பெற உதவ வேண்டும் என்ற நோக்கத்தோடு கல்வி 2015 தொடக்கப்பள்ளித் தமிழ்மொழிப் பாடக்கலைத்திட்டமானது, பாடப்பொருள், கற்பித்தல், மதிப்பீடு ஆகியவை பிள்ளைகளின் கற்றல் தேவைகளுக்குப் பொருத்தமானவையாக இருப்பதை உறுதிசெய்கிறது.<br/><br/>
 
