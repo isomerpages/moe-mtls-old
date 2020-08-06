@@ -70,12 +70,7 @@ max-width:40%;
  </strong>
   <br/> Minister for Education</p>
        </div>
-<div class="tab-content"><br/>
-  <div class="row">
-   <p><strong> Ms Sun Xueling
- </strong>
-  <br/> Minister of State, Ministry of Education</p>
-   </div>
+       
   <h4 style="padding-top:12px;margin:10px">Synopsis</h4>
        
   <p style="margin:10px;"><strong>A/P Mukhlis Abu Bakar  </strong><br/>
