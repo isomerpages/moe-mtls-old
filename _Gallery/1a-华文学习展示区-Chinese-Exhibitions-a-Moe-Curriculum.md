@@ -81,6 +81,7 @@ width:100% ;
  The MTL curriculum aims to develop our young to be proficient language users who have strong foundational language and literacy skills. It leverages on students’ written and interpersonal communication skills with real-life contexts through fundamental language skills such as listening, speakingand reading. The infusion of ICT, CCE and SEL into the curriculum further enhances the learning and exposes our young to understand the culture and values woven into the curriculum. The curriculum also aims to develop higher order thinking skills and expose students to a wide variety of literary and authentic texts. This is intended to make MTL a living language that enables our young to lead purposeful lives. <br/><br/>
  The information featured in our e-MTLS MOE MTL curriculum aims to provide parents and educators with an understanding ofthe different opportunities for MTL learning beginning from Pre-school through Primary, Secondary andPre-University. There will also be tips for parents and educators to gain insights and ideas to bring the joy of learning MTL to our young and to better support them in this journey.</p>
  <br/>
+    <img src="images/New_footer.jpg" class="Image" width="1000" height="300">
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
 
 
