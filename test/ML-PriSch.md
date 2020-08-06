@@ -251,3 +251,51 @@ Kereta itu berwarna merah.<br/>
          <strong>Kereta</strong> Ayah bergerak dengan <strong>laju.</strong><br/>
 </p>
 </div></div>
+
+<div class="atab">
+      <input id="tab-9" type="checkbox" name="tab">
+   <label for="tab-9">Permainan Meluaskan Ayat </label>
+     <div class="tab-content">
+       <p>Ibu bapa memberikan satu ayat tunggal kepada anak.  Kemudian, anak meluaskan ayat itu.  Selepas itu, giliran ibu/bapa pula meluaskan ayat itu.  Begitulah seterusnya hingga ayat itu tidak dapat diluaskan lagi. <br/>
+         Contoh : 
+
+<table class="center">
+   <tr>
+    <td>Ibu/Bapa</td>
+     <td>:</td>
+  <td>Ayah pergi ke kedai.</td>
+ </tr>
+  <tr>
+    <td>Anak  </td>
+    <td>:</td>
+  <td><span style="color:red">Pada hari Ahad </span>, Ayah pergi ke kedai.</td>
+</tr>
+  <tr>
+    <td>Ibu/Bapa </td>
+    <td>:</td>
+    <td> Pada hari Ahad, Ayah pergi ke kedai <span style="color:red"> bersama Ibu</span>.</td>
+   
+  </tr>
+  <tr>
+    <td>Anak </td>
+    <td>:</td>
+  <td>Pada hari Ahad, Ayah pergi ke kedai bersama Ibu  <span style="color:red">untuk  membeli tepung, susu dan gula </span></td>
+   </tr>
+</table>
+</p>
+</div></div>
+<p>
+<li>Permainan yang disarankan di atas haruslah dilakukan secara santai dan menyeronokkan. 
+Betulkan jawapan anak anda dengan teguran yang 
+   lembut.
+  </li></p>
+  <p>untuk terus mencuba.  
+
+  <li>Selain itu, permainan yang disarankan juga dapat 
+   mengeratkan hubunga
+</li>
+  <li>Galakkan anak anda n antara anak dan ibu bapa.
+</li>
+</p>
+ <img src="/images/ML-Footer.jpg">  
+
