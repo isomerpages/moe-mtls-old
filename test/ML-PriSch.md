@@ -70,8 +70,8 @@ table.center {
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/ML_Header.jpg">
 <p>
- <a href="#C1" style="font-size:30px"><span style="color:blue;font-family:KaiTi">Bahan Pengajaran Dan Pembelajaran</span></a>&nbsp;&nbsp;
- <a href="#C2" style="font-size:30px"><span style="color:blue;font-family:KaiTi">Sokongan Ibu Bapa</span></a>&nbsp;&nbsp;
+ <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Bahan Pengajaran Dan Pembelajaran</span></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Sokongan Ibu Bapa</span></a>&nbsp;&nbsp;
 </p>
 <p style="color:green;font-size:30px;">Matalamat Kurikulum Bahasa Melayu</p>
 <img src="/images/MLyu.jpg">
