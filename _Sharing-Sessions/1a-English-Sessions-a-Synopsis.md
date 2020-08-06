@@ -67,11 +67,10 @@ max-width:40%;
       <div class="tab-content"><br/>
   <div class="row">
  <div class="column">
-<img src="images/cropped-person-icon-8-2.png" style="width:100%">
    </div>
-   <p> <strong> Minister Ong Ye Kung </strong>
-  <br/> Ministry of Education<br/>
-   Minister of Education</p>
+   <p> <strong> Minister Lawrence Wong
+ </strong>
+  <br/> Ministry of Education</p>
    </div>
   <h4> Synopsis</h4>
        
