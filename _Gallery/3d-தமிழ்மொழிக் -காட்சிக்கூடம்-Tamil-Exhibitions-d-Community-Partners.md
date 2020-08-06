@@ -95,7 +95,7 @@ Parents can find out more about the learning opportunities available for the you
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4" class="lbTM">தேசியக் கல்விக்கழகத்தின்  ஆசிய <br/>மொழிகள் மற்றும் பண்பாட்டுகள் துறை <br/>National Institute of Education (Asian Languages and Cultures Academic Group)</label>
+      <label for="tab-4" class="lbTM">தேசியக் கல்விக்கழகத்தின்  ஆசிய <br/>மொழிகள் மற்றும் பண்பாட்டுகள் துறை <br/>National Institute of Education (Asian Languages<br/> and Cultures Academic Group)</label>
       <div class="tab-content">
           <h4 style="padding-top:12px;"><strong>கதைஉலகம் – மகிழ்வூட்டும் மொழி கற்றல்வழி விழுமியங்களைவலிறுத்துதல்</strong></h4>
           <p style="margin:4px;">குழந்தைகளை மொழி கற்றலில் ஈடுபடுத்துவதற்கும், ஒரு மொழியின் பண்பாட்டு விழுமியங்களை அவர்களிடம் அறிமுகப்படுத்துவதற்கும் கதைகள் சிறந்ததொரு வழிமுறையாகும். குழந்தைகள் கதைகளைக் கேட்டு, ஆழ்ந்து இரசிக்கும்போது, அவற்றில் பதிந்துள்ள பண்பாட்டின் சிறப்புக்கூறுகளையும் அறிந்து கொள்கின்றனர். கதைகளில் விழுமியங்கள் எவ்வாறு முக்கியத்துவம் பெற்றிருக்கின்றன என்பதை அறிந்திருப்பதன் வாயிலாக அவர்களுக்குத் தங்கள் பண்பாட்டின்மீது ஆழ்ந்த பற்றும் மொழியின்பால் சிறந்த புரிந்துணர்வும் உண்டாகுகின்றது. <br/>
@@ -135,7 +135,7 @@ Parents can find out more about the learning opportunities available for the you
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
-      <label for="tab-6" class="lbTM">சிங்கப்பூர் பிரஸ் ஹோல்டிங்ஸ்<br/>(தமிழ் முரசு-மாணவர்முரசு, <br/>இளையர்முரசு, பாலர்முரசு) <br/>Tamil Murasu–Maanavar Murasu, Illayar Murasu, Balar Murasu</label>
+      <label for="tab-6" class="lbTM">சிங்கப்பூர் பிரஸ் ஹோல்டிங்ஸ்<br/>(தமிழ் முரசு-மாணவர்முரசு, <br/>இளையர்முரசு, பாலர்முரசு) <br/>Tamil Murasu–Maanavar Murasu, Illayar <br/>Murasu, Balar Murasu</label>
       <div class="tab-content">
           <h4 style="padding-top:12px;"><strong>என் கற்றல் பயணம் தாய்மொழியைக் கொண்டு தொடங்குகிறது</strong></h4>
           <p style="margin:4px;">சிங்கப்பூர் பிரஸ் ஹோல்டிங்ஸ் நிறுவனத்தால் பிரசுரிக்கப்படும் தமிழ் முரசு, இதுவரை பல்வேறு வயதினரைச் சென்றடையும் கல்வி சார்ந்த மாணவர் படைப்புகளை வெளியிட்டுள்ளது. தொடக்கநிலை மாணவர்களுக்கான மாணவர் முரசு, உயர்நிலை மாணவர்களுக்கான இளையர் முரசு ஆகியவை அவற்றுள் அடங்கும்.
@@ -155,7 +155,7 @@ Parents can find out more about the learning opportunities available for the you
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
-      <label for="tab-7" class="lbTM">தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு <br/>The Tamil Language Learning and Promotion Committee</label>
+      <label for="tab-7" class="lbTM">தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு <br/>The Tamil Language Learning and Promotion<br/> Committee</label>
       <div class="tab-content">
           <h4 style="padding-top:12px;"><strong>தமிழ்மொழி கற்றல் வளர்ச்சிக்குழு</strong></h4>
           <p style="margin:4px;">தமிழ்மொழி கற்றல் வளர்ச்சிக்குழு சமூக அமைப்புகளுடன் இணைந்து பலதரப்பட்ட  நடவடிக்கைகளை மேற்கொண்டு வருகிறது. இந்நடவடிக்கைகள், தமிழ்மொழியையும் தமிழ்ப் பண்பாட்டையும் கற்பதற்கும் கற்பிப்பதற்கும் துணைபுரிவதோடு மாணவர்கள் தமிழ்மொழியை வகுப்பறைக்கு அப்பாலும் பயன்படுத்த உதவுகின்றன.
