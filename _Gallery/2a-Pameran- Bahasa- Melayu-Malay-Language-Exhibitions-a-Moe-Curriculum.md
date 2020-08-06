@@ -65,7 +65,7 @@ third_nav_title: 'Pameran Bahasa Melayu Malay Language Exhibitions'
   <a href="#Sch"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">学前教育</div></a>
   <a href="/test/ML-PriSch/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">小学</div></a>
   <a href="#Sec"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">中学</div></a>
-  <a href="#PreU"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">大学先修班</div></a>
+  <a href="/test/ML-PreU/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">大学先修班</div></a>
 </div>  <br/>
  
  <h4><strong>Memupuk Pelajar Aktif dan Pengguna Cekap </strong></h4>
