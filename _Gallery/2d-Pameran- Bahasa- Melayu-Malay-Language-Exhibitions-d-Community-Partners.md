@@ -3,7 +3,7 @@ title: 'Rakan Kerjasama Masyarakat (Community Partner)'
 permalink: /Gallery/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-d/Community-Partners/
 breadcrumb: 'Pameran- Bahasa- Melayu-Malay-Language-Exhibitions'
 collection_name: Gallery
-third_nav_title: 'Pameran Bahasa Melayu Malay Language Exhibitions'
+third_nav_title: 'Pameran Bahasa Melayu'
 ---
 
 ## 	Rakan Kerjasama Masyarakat  (Community Partners)
