@@ -65,7 +65,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbTM">தெரிந்தும் தெரியாமலும் சின்னஞ்சிறிய தமிழ்ப்பாடம்
+      <label for="tab-1" class="lbTM">தெரிந்தும் தெரியாமலும் <br/> சின்னஞ்சிறிய தமிழ்ப்பாடம்
 <br/> [12.30pm – 1.30pm] <br/>Ms Elakeyaa 
 </label>
       <div class="tab-content">
@@ -173,7 +173,7 @@ Current key concerns amongst young Indian parents is how to nurture the love of 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4" class="lbTM">மொழி கற்றலில் கதை என்னும் திறவுகோல்
+      <label for="tab-4" class="lbTM">மொழி கற்றலில் கதை என்னும்<br/> திறவுகோல்
 <br/>Ms Darseni Rengasamy 
 </label>
       <div class="tab-content">      
