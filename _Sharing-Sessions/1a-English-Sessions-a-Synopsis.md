@@ -153,7 +153,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
   <p style="margin:4px;">Dr. Leher Singh is the Associate Professor of Psychology at the National University of Singapore. She also directs the NUS Infant and Child Language Centre. Her research focuses on the impact of bilingualism on language acquisition, social development and cognitive growth in young children.</p>
 
   <h4 style="padding-top:12px;"> Synopsis</h4>  
-  <p style="margin:4px;">Raising bilingual children opens children up to tremendous opportunities. At the same time, families often experience stress in knowing how best to raise children to become bilingual. What works and what doesn't? What does the science say? This sharing session will focus on how bilingualism can be expected to impact a child’s development, as well as some of the common challenges that parents face and on research-based strategies to support bilingualism in young children.
+  <p style="margin:4px;">Raising bilingual children opens children up to tremendous opportunities. At the same time, families often experience stress when learning how best to raise children to be bilingual. What works and what doesn't? What does the science say? This sharing session will focus on how bilingualism can impact a child’s development, as well as some of the common challenges that parents face. Research-based strategies will be shared on how to support the development of bilingualism in young children and how parents can overcome the challenges they will face.
 </p>
  </div></div>
 </td>
