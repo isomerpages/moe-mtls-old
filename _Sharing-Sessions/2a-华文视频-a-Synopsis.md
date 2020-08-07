@@ -79,7 +79,7 @@ max-width:40%;
    </div><br/>
        <h4 style="font-family:KaiTi;font-size:28px; margin:10px;">介绍</h4>
        <p style="font-size:21px;font-family:KaiTi;margin:10px;">王周淑涵博士是ELE国际咨询公司的总裁，也是亚洲协会中文儿童及沉浸式项目大联网主任。她担任过美国马里兰大学国家外语中心的副主任、亚协中文项目执行长，以及特拉华州教育厅的外语和国际教育督学。除了许多学术性著作以外，她还编写了两套幼儿园到十二年级中文教育系列教科书。王博士还担任新加坡教育部母语和华文课程的海外顾问。她的博士专修教育语言学，得自于宾夕法尼亚大学。 </p>
-           <h4>简介</h4>
+           <h4 style="margin:10px;">简介</h4>
        <p style="font-size:21px;font-family:KaiTi;margin:10px;">要让学生们在母语乐园中欣欣向荣地成长，我们不应该把华语和华族文化的传承当作是学校的一个科目。我们的责任是带着孩子，为他们即将开始探索个人，如何安身立命的终身旅程做准备，这是超乎任何课程或考试之外的。家长和教育者应该熟悉一些母语和文化传承的核心指导原则，并了解儿童如何培养社交情绪管理和认知能力，以及母语和英语的双语文能力如何影响各种学科的学习。</p>
 <p style="font-size:21px;font-family:KaiTi;margin:10x;">讲员将与大家分享一个如何在教育生态系统中发展母语能力的思想框架，这是她综合了幼儿教育、传承语、双语和双文以及沉浸式语言教育的研究所建构的理念。她并将提供实用的策略, 引导孩子们培养健康的自我意识，高度的母语和英语的双语文能力，以及全球胜任力，提升他们跨代的联系和跨文化的积极参与。 
 </p>
@@ -113,11 +113,11 @@ max-width:40%;
 </p>
        </div>
 
-   <h4 style="font-size:28px;font-family:KaiTi">介绍</h4>
+   <h4 style="font-size:28px;font-family:KaiTi;margin:10px;">介绍</h4>
  <p style="font-size:21px;font-family:KaiTi;margin:10px;">孙宝琦老师拥有新加坡南洋理工大学属下新加坡教育学院授予的教育学博士学位。孙宝琦老师目前任职于新加坡国立教育学院儿童发展研究中心，主要研究双语早期阅读及双语教学。</p>
-   <h4> 简介</h4> 
+   <h4 style="margin:10px;"> 简介</h4> 
  <p style="font-size:21px;font-family:KaiTi;margin:10px;">近来的疫情让居家育儿和居家学习成为新常态，父母也因此有更多时间来陪伴孩子。那么，如何在家中为孩子营造一个有利于母语发展的语言环境呢？本讲座将通过介绍家庭语言环境对儿童语言发展的理论和实践，让大家进一步了解家庭语言环境的重要性。主讲人还会分享一些切实可行的方法，帮助大家在家中营造亲近母语的环境，例如如何利用资讯科技增加使用母语的机会例如如何利用资讯科技增加使用母语的机会。此外，主讲人也将结合华文的语言特点，向大家提供一些学习建议。</p>
-   <h4> Imperceptible Influence：How to Create a Conducive Mother Tongue Learning Environment at Home  </h4> 
+ <h4 style="margin:10px;"> Imperceptible Influence：How to Create a Conducive Mother Tongue Learning Environment at Home  </h4> 
  <h4 style="margin:10px;">Profile</h4>
  <p style="margin:10px;">Dr Sun Baoqi received her PhD from the National Institute of Education (NIE), Nanyang Technological University (NTU) in Singapore. Her research encompasses socio-cultural-cognitive and policy perspectives on language learning with a particular focus on children’s bilingual education and biliteracy development. She is currently working as a research scientist in one of NIE’s research centres – Centre for Research in Child Development (CRCD).</p>
      <h4 style="margin:10px;">Synopsis</h4> 
@@ -143,7 +143,7 @@ max-width:40%;
     <p><strong> Dr Woo Yen Yen
   </strong> <br/> Yumcha Studios Pte Ltd</p>
        </div>
-      <h4> Profile</h4> 
+    <h4 style="margin:10px;">Profile</h4> 
        <p style="font-size:21px;font-family:KaiTi;margin:10px;"> 胡恩恩博士是一位企业家，也是一名多媒体创作者也是一名多媒体创作者，更是一位教育系的教授。她是饮茶工作室的执行长，也是《点心侠》漫画系列与双语学习系统的创始人。胡博士拥有哥伦比亚大学师范学院的博士学位，并曾担任纽约长岛大学的教育系副教授和台湾国立中央大学客座教授。胡博士现与丈夫和女儿居住在台北。</p>
         <h4 style="margin:10px;"> Synopsis</h4> 
        <p style="font-size:21px;font-family:KaiTi;margin:10px;">胡恩恩博士曾经是“红毛派”英文教师，也曾经是撕毁自己华文课本的学生。胡博士将现身说法，分享她如何转变成可以用双语创作漫画的漫画家，以及她如何将漫画改编成音乐剧，在中国25个城市巡演的心路历程。她也将分享自己如何让在美国出生的女儿，从完全不会华文到能完全适应全华文环境的台湾公立小学的经验。
