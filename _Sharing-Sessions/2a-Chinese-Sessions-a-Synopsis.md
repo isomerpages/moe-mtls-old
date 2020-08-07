@@ -5,7 +5,6 @@ breadcrumb: 'Chinese Sessions'
 collection_name: Sharing-Sessions
 third_nav_title: 'Chinese Sessions'
 ---
-## 	Chinese Session
 <html>
 <head>
 <style>
@@ -60,6 +59,7 @@ max-width:40%;
 </style>
 </head>
   <body>  
+ <div><h3>	Chinese Session</h3></div>
 <table class="tbl">
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
