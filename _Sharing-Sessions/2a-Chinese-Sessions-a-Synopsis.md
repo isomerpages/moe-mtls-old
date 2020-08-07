@@ -174,7 +174,7 @@ max-width:40%;
 <img src="images/CL-Mdm-Xu-Jinhong.png" style="width:100%">
    </div>
    <p> <strong>Mdm Xu Jinhong </strong>
-<br/>Ministy of Education
+<br/>Ministry of Education
     <br/>Mother Tongue Languages Branch,<br/>
     Curriculum Planning and Development Division</p>
    </div>
