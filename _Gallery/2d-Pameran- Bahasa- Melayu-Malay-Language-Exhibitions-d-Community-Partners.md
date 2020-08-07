@@ -133,6 +133,30 @@ Parents can find out more about the learning opportunities available for the you
 </td>
 </tr>
 
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-5" type="checkbox" name="tab">
+      <label for="tab-5" class="lbML">Lembaga Perpustakaan Negara<br/>National Library Board</label>
+      <div class="tab-content">
+       <h4 style="padding-top:12px;margin:10px;">Lembaga Perpustakaan Negara</h4>
+        <p style="margin:10px;">
+         Lembaga Perpustakaan Negara (NLB) menggalakkan amalan membaca dalam bahasa Ibunda menerusi pelbagai program menarik dan koleksi buku yang luas dan menyeluruh. NLB menawarkan pelbagai kandungan digital yang merangkumi cara-cara baharu dan menarik untuk berinteraksi dengan menggunakan bahasa Ibunda.  Selain itu, ketersediaan kandungan digital menjadikan kegiatan membaca dan pembelajaran mudah diakses dan lebih inklusif. Sesi bercerita berbentuk video yang disampaikan oleh para pustakawan dan sukarelawan menghidupkan lagi penceritaan  sekali gus merangsang daya imaginasi kanak-kanak yang menonton. Usaha ini juga merupakan cara alternatif untuk ibu bapa meluangkan masa dan mempererat hubungan bersama anak-anak mereka.
+        </p>
+       <h4 style="margin:10px;">National Library Board </h4>
+        <p style="margin:10px;">
+         
+NLB promotes reading in the Mother Tongue Languages through its engaging programmes and extensive collection of books. NLB’s digital offerings not only provide readers with new and compelling ways to interact with MTLs but also make reading and learning more accessible and inclusive - all in the comfort of their homes. Digital storytelling videos presented by librarians and other reading advocates bring stories alive and spark children’s imagination while offering parents an alternative way to spend quality time with their children and strengthen the bonds with them.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+</td>
+</tr>
+
+
 
 
 </table>
