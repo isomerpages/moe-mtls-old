@@ -49,8 +49,8 @@ third_nav_title: '华文学习展示区'
       <input id="tab-1" type="checkbox" name="tab">
     <label for="tab-1" class="lbCh"><span style="font-size:25px;font-family:KaiTi">聚英小学 </span> <br/> Juying Primary School</label>
       <div class="tab-content">
-      <h4 style="font-size:35px;font-family:KaiTii;padding-top:12px;">学善用新平台，口语学习<br/>不间断</h4>
-      <p style="font-family:KaiTi;margin:4px;">
+      <h4 style="font-size:35px;font-family:KaiTii;padding-top:12px;">学善用新平台，口语学习不间断</h4>
+      <p style="font-family:KaiTi;margin:4px;font-size:21px;">
        聚英小学利用“新加坡学生学习平台”（SLS），配合教材内容开发了口语教学配套，帮助学生在校和居家学习。
 学生可通过该平台的即时互动工具，构思说话内容，进行互动和评价。在高年级阶段，此配套通过新闻话题，帮助学生了解时事动态，引导他们提出看法和建议，进一步加强语言能力。
  </p>
@@ -75,7 +75,7 @@ third_nav_title: '华文学习展示区'
     <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi">孺廊小学 </span><br/>Rulang Primary School</label>
       <div class="tab-content">
           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;">跟着节奏学华文</h4>
-      <p style="font-family:KaiTi;margin:4px;font-size:25px;">
+      <p style="font-family:KaiTi;margin:4px;font-size:21px;">
          在“跟着节奏学华文”活动中，孺廊小学的低年级学生吟唱儿歌和韵文，中高年级学生则随着节奏诵读课文。朗朗上口的华文变得易读、易记、易学。该活动可以由学生个人进行，或以小组形式进行，还可以与家长一起进行亲子活动。通过反复吟唱和诵读，孩子们更有效地掌握华文，以及享受学习华文的乐趣。</p>
           <h4>Learn Chinese, Moving with the Beat</h4>
         <p style="margin:4px;">
@@ -95,7 +95,7 @@ third_nav_title: '华文学习展示区'
     <label for="tab-3" class="lbCh"><span style="font-size:25px;font-family:KaiTi">伟林小学 </span><br/>Wellington Primary School</label>
       <div class="tab-content">
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;">伟林小蜜蜂阅读计划</h4>
-      <p style="font-family:KaiTi;margin:4px;font-size:25px;">
+      <p style="font-family:KaiTi;margin:4px;font-size:21px;">
         “伟林小蜜蜂阅读计划”以鼓励学生阅读百本图书为目标，设计了一系列阅读活动，如读后制作小书、在居家学习期间录制讲故事视频，以及参加“伟林大挑战”等。学生在阅读、制作、比赛、展览和分享的过程中发挥创意，感受到了成功的喜悦感受到了成功的喜悦。通过此计划，学生养成了良好的阅读习惯，提高了语言表达能力，并增强了学习华文的兴趣。  </p>
           <h4>Wellington Reading Bee Project</h4>
         <p style="margin:4px;">
@@ -112,7 +112,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-    <label for="tab-4" class="lbCh"><span style="font-size:25px;font-family:KaiTi"> 育青中学 </span><br/>Bedok Green Secondary School</label>
+    <label for="tab-4" class="lbCh"><span style="font-size:21px;font-family:KaiTi"> 育青中学 </span><br/>Bedok Green Secondary School</label>
       <div class="tab-content">
           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;">悦读魔法变变变</h4>
           <p style="font-family:KaiTi;margin:4px;font-size:25px;">育青中学为低年级学生制定了阅读计划“悦读魔法变变变”。此活动将课本技能与角色扮演游戏（Role Playing Game）、解谜游戏（Puzzle Game）相融合，利用书中的故事情节完成不同的活动或任务，让角色最终成长为一名小魔术师。活动的最终目标是让学生变魔术给家人看，向他们表达心中的爱。此活动不仅激发了学生阅读华文书的兴趣，增加了在生活中与家人使用母语的机会，也增进了家人之间的感情。</p>
@@ -131,10 +131,10 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5" class="lbCh"><span style="font-size:25px;font-family:KaiTi">圣尼各拉女校（中学）</span><br/>CHIJ St Nicholas Girls School（Sec）</label>
+      <label for="tab-5" class="lbCh"><span style="font-size:21px;font-family:KaiTi">圣尼各拉女校（中学）</span><br/>CHIJ St Nicholas Girls School（Sec）</label>
       <div class="tab-content">
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;">“悦读计划–让孩子爱上阅读”</h4>
-          <p style="font-family:KaiTi;margin:4px;font-size:25px;">
+          <p style="font-family:KaiTi;margin:4px;font-size:21px;">
           圣尼各拉女校（中学部）的华文阅读计划运用了“激、荐、导、搭”的框架，让学生自由选择阅读的内容，并在新加坡学生学习平台（SLS）上开展很多有意思的活动，包括设计阅读喜好图、阅读改编自电影的小说并在读后进行创意活动、将流行歌曲与书籍进行主题搭配、以及由师生推荐书籍，让阅读变得趣味盎然。</p>
           <h4>SNGS Chinese Reading Programme – Cultivating the Joy of Reading</h4>
         <p style="margin:4px;">
