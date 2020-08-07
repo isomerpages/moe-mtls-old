@@ -207,7 +207,7 @@ Parents can find out more about the learning opportunities available to the youn
        <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;">“落地生根，开拓新家园”虚拟展览 </h4>
           <p style="font-family:KaiTi;margin:4px;font-size:21px;">为配合宗乡总会35周年庆主题“温故•传承•创新”，宗乡总会携手推广华文学习委员会，运用虚拟实境技术，将纪念新加坡开埠两百周年推出的“落地生根，开拓新家园”展览发展为线上 360 度全方位虚拟展览，让公众能通过互动的方式了解新加坡的历史、学习华文。</p>
           <h4>"New World, New Life" Virtual Reality Exhibition</h4>
-          <p style="margin:4px;">The NWNL Exhibition, curated by the Singapore Federation of Chinese Clan Associations (SFCCA), commemorates Singapore’s Bicentenary in conjunction with SFCCA’s 35th anniversary. By leveraging on the theme of “Our Legacy, Our Future: Breathing New Life into Traditions”, it showcases Singapore’s history since its founding two hundred years ago and has been well received. SFCCA partnered the Committee to Promote Chinese Language Learning to incorporate virtual reality (VR) technology into the physical exhibition, transforming it into a 360-degree virtual experience.</p>
+          <p style="margin:4px;">The NWNL Exhibition, curated by the Singapore Federation of Chinese Clan Associations (SFCCA), commemorates Singapore’s Bicentenary by showcasing Singapore’s history since its founding. In conjunction with SFCCA’s 35th anniversary, it leveraged on the theme of “Our Legacy, Our Future: Breathing New Life into Traditions”, and partnered with the Committee to Promote Chinese Language Learning to incorporate virtual reality (VR) technology into its physical exhibition by transforming it into a 360-degree virtual experience for all.</p>
       </div>
 </div>
 </td>
