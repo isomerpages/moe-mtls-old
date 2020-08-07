@@ -186,7 +186,7 @@ max-width:40%;
    <p style="font-size:21px;font-family:KaiTi;margin:10px;">《欢乐伙伴》小学华文课程自2015年在一年级开始推行，至今已经推展至六年级。课程旨在培养学生的华语沟通能力，引导学生认识和欣赏华族文化，使之能与世界各地的华族社群建立联系。
 此次分享，讲员将介绍《欢乐伙伴》教材的内容和特点，讲解孩子如何在课堂内外利用该教材学习、学校如何协助孩子从学前过渡到小学等。家长可以从中获得一些帮助孩子学好华文的有趣点子。
 </p>
-   <h4 style="margin:10px;">Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese</h4>
+   <h4 style="margin:10px;">Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese</h4><br/>
     <h4 style="margin:10px;">Profile</h4>  
    <p style="margin:10px;">Mdm Xu Jinhong is a Senior Specialist at the Curriculum Planning and Development Division, Ministry of Education with 29 years of experience in the Education Service. She is involved in the planning and development of the 2015 Primary Chinese Language Curriculum, research for the Primary Chinese Language Curriculum and the training of primary school teachers.
 </p>
@@ -219,7 +219,7 @@ The speaker will share how the curriculum enables children to learn Chinese in c
        <p style="font-size:21px;font-family:KaiTi;margin:10px;">林季华老师从事教育工作近40年，目前是新加坡教师学院的首席特级华文教师。林老师曾荣获新加坡国庆日表扬奖章、公共行政奖章（铜）和全国模范华文教师奖等多项殊荣。作为推广华文学习委员会阅读组委员，林老师积极推动华文的学习。她曾编写儿童读物、设计语文游戏、到学前中心与公共图书馆为家长与祖父母进行华文学习与亲子共读讲座。此外，林老师也培训社区讲故事义工，定期到公共图书馆为孩子们举办讲故事与导读活动，分享阅读的乐趣。</p>
         <h4 style="margin:10px;"> Synopsis</h4> 
         <p style="font-size:21px;font-family:KaiTi;margin:10px;">培养良好的阅读习惯与阅读兴趣对幼儿的早期发展是非常重要的。由于许多幼儿无法自主阅读，因此需要大人帮助他们养成良好的阅读习惯。主讲人将讲解幼儿阅读和讲故事的不同策略和技巧，说明如何选择合适的阅读材料，示范如何进行读后活动，分享如何与学生的日常生活相结合，让阅读变得轻松有趣、让孩子们爱上阅读，爱上华文。</p>
-       <h4 style="margin:10px;">Happy Reading and Storytelling with young children</h4>
+       <h4 style="margin:10px;">Happy Reading and Storytelling with young children</h4><br/>
      <h4 style="margin:10px;">Profile</h4>  
         <p  style="margin:10px;">Mdm Lim Kwee Hua has more than 38 years of teaching experience and is currently a Principal Master Teacher at the Academy of Singapore Teachers. She has been conferred the National Day Awards Commendation Medal, the Public Administration Medal (Bronze), and the Inspiring Chinese Language Teachers Award. Mdm Lim is a member of the Committee to Promote Chinese Language Learning (Reading Group) and she is also involved in  editing children’s books  and designing language games. She actively promotes language learning by sharing with parents and grandparents strategies for  parent-child and grandparent-child reading.  She also reaches out to the community by conducting regular reading sessions with children at public libraries.</p>
  <h4 style="margin:10px;"> Synopsis</h4>  
