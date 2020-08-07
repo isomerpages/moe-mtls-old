@@ -50,7 +50,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1" class="lbML">Berita Harian</label>
       <div class="tab-content">
-      <h4 style="padding-top:12px;"margin:10px;">Apakah yang Berlaku pada Persekitaran Kita?</h4>
+      <h4 style="padding-top:12px;margin:10px;">Apakah yang Berlaku pada Persekitaran Kita?</h4>
       <p style="margin:10px;">
        Berita Harian (BH), melalui artikeldalam akhbar, akhbar edisi pelajar (Gen G) dan audio siar (podcast) telah menekankan pentingnya menjaga alam sekitar sebagai sebahagian daripada isu pemuliharaan alam. Memandangkan isu ini semakin hangat dibincangkan, BH akan memberikan fokus pada tema tersebut bagi Simposium Bahasa Ibunda pada tahun ini. Tema ini akan dipersembahkan dalam bentuk infografik dan aktiviti sampingan yang menarik. Pelajar akan didedahkan kepada kosa kata baharu untuk membiasakan diri mereka dengan istilah yang digunakan dalam perbincangan tentang isu persekitaran.</p>
 
