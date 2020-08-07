@@ -65,7 +65,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbCh"><span style="font-size:25px;font-family:KaiTi">儿童母语及双语文发展的原<br/>则和策略 <br/> [12.30pm – 1.30pm]<br/> 
+      <label for="tab-1" class="lbCh"><span style="font-size:25px;font-family:KaiTi">儿童母语及双语文发展的原则和策略 <br/> [12.30pm – 1.30pm]<br/> 
        王周淑涵</span>
 </label>
       <div class="tab-content">
@@ -100,7 +100,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi"> 润物细无声：<br/>如何在家中营造有利于母语发<br/>展的语言环境<br/>
+      <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi"> 润物细无声: 如何在家中营造有利于母语发展的语言环境<br/>
 [2.00pm – 3.00pm]<br/> 孙宝琦</span>
 </label>
       <div class="tab-content">      
@@ -135,7 +135,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3" class="lbCh"><span style="font-size:25px;font-family:KaiTi">「我把我的中文课本撕毀了!」<br/>一位英文教师陪伴女儿走过的学<br/>习中文之路胡恩恩</span></label>
+      <label for="tab-3" class="lbCh"><span style="font-size:25px;font-family:KaiTi">「我把我的中文课本撕毀了!」一位英文教师陪伴女儿<br/>走过的学习中文之路<br/>胡恩恩</span></label>
       <div class="tab-content">      
        <br/>
    <div class="row">
