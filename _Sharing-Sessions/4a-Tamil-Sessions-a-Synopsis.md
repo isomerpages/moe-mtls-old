@@ -77,7 +77,7 @@ max-width:40%;
       <br/>
   <div class="row">
  <div class="column">
-<img src="images/cropped-person-icon-8-2.png" style="width:100%">
+<img src="images/TL-Elakeyaa-Selvaraji.png" style="width:100%">
    </div>
    <p> <strong> Ms Elakeyaa Selvaraji</strong>
   <br/>Ministry of Manpower
@@ -111,7 +111,7 @@ Current key concerns amongst young Indian parents is how to nurture the love of 
        <br/>
   <div class="row">
  <div class="column">
-<img src="images/cropped-person-icon-8-2.png" style="width:100%">
+<img src="images/TL-Ms-Rani-Kanna-and-Mr- Anandha-Kannan.png" style="width:100%">
    </div>  
    <p> <strong> Ms Rani Kanna & 
     <br/>Mr Anandha Kannan </strong><br/>AKT Theatre Ltd
@@ -147,7 +147,7 @@ Current key concerns amongst young Indian parents is how to nurture the love of 
        <br/>
   <div class="row">
  <div class="column">
-<img src="images/cropped-person-icon-8-2.png" style="width:100%">
+<img src="images/TL-Mr-Mohan-Suppiah-and-Mr-Balajee-Harridas.png" style="width:100%">
    </div>
    <p> <strong>Mr Mohan Suppiah &
     <br/>Mr Balajee Harridas </strong>
@@ -185,7 +185,7 @@ Current key concerns amongst young Indian parents is how to nurture the love of 
        <br/>
   <div class="row">
  <div class="column">
-<img src="images/cropped-person-icon-8-2.png" style="width:100%">
+<img src="images/TL-Ms-Darseni-Rengasamy.png" style="width:100%">
    </div>
    <p> <strong>Ms Darseni Rengasamy </strong>
 <br/> National Institute of <br/>  Early Childhood Development <br/> (Ngee Ann Polytechnic) 
