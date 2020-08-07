@@ -188,8 +188,7 @@ max-width:40%;
    <p style="font-size:21px;font-family:KaiTi;margin:10px;">《欢乐伙伴》小学华文课程自2015年在一年级开始推行，至今已经推展至六年级。课程旨在培养学生的华语沟通能力，引导学生认识和欣赏华族文化，使之能与世界各地的华族社群建立联系。
 此次分享，讲员将介绍《欢乐伙伴》教材的内容和特点，讲解孩子如何在课堂内外利用该教材学习、学校如何协助孩子从学前过渡到小学等。家长可以从中获得一些帮助孩子学好华文的有趣点子。
 </p>
-
-    <h4 style="margin:10px;">Profile</h4>  
+<h4 style="margin:10px;">Profile</h4>  
    <p style="margin:10px;"><strong> Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese </strong><br/>
  Mdm Xu Jinhong is a Senior Specialist at the Curriculum Planning and Development Division, Ministry of Education with 29 years of experience in the Education Service. She is involved in the planning and development of the 2015 Primary Chinese Language Curriculum, research for the Primary Chinese Language Curriculum and the training of primary school teachers.
 </p>
