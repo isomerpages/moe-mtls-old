@@ -114,7 +114,7 @@ Kajian neurosains telah membuktikan bahawa pembelajaran akan berhenti apabila ke
        <br/>
   <div class="row">
  <div class="column">
-<img src="images/cropped-person-icon-8-2.png" style="width:100%">
+<img src="images/ML-Mr-Haniman-Boniran.png" style="width:100%">
    </div>
    <p> <strong>Mr Haniman Boniran </strong>
  <br/> Wildlife Reserves Singapore
@@ -154,7 +154,7 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
        <br/>
   <div class="row">
  <div class="column">
-<img src="images/cropped-person-icon-8-2.png" style="width:100%">
+<img src="images/ML-Associate-Professor-Mariam-Aljunied.png" style="width:100%">
    </div>
    <p> <strong> Mariam Aljunied </strong>
 <br/> Special Education Needs Division Ltd
@@ -188,7 +188,8 @@ Early intervention is important. Parents are often seeking ways to maximise the 
        <br/>
   <div class="row">
  <div class="column">
-<img src="images/cropped-person-icon-8-2.png" style="width:100%">
+<img src="images/
+ML-Ms-Salina-bte-Saiman-and-Ms-Ganda-Sari-Binte-Chokri.png" style="width:100%">
    </div>
    <p><strong> Ms Salina Bte Saiman &
     <br/> Ms Ganda Sari Chokri </strong>
@@ -228,7 +229,7 @@ Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal b
        <br/>
   <div class="row">
  <div class="column">
-<img src="images/cropped-person-icon-8-2.png" style="width:100%">
+<img src="images/ML-Ms-Hazliana-Md-Lahir.png" style="width:100%">
    </div>
    <p> <strong>Ms Hazliana Md Lahir </strong>
 <br/> Singapore Sports School
