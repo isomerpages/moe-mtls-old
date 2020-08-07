@@ -101,7 +101,9 @@ CPCLL’s signature programmes and key activities include Xin Kong Xia National 
       <div class="tab-content">
           <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;">母语乐翻天</h4>
         <p style="font-family:KaiTi;font-size:21px;margin:4px;">
-         李光耀双语基金（以下简称“基金”）是已故建国总理李光耀先生于2011年在他的新书《我一生的挑战我一生的挑战：新加坡双语之路》发布会上正式宣布成立的。基金秉持着鼓励使用双语、终身学习母语的宗旨，为具创造性和互动性的项目提供支持。今年，基金与理工学院合作，开发了鼓励学龄前儿童和年轻人学习母语的项目，同时也征集数码资源，支持孩童在家学习母语。
+         李光耀双语基金（以下简称“基金”）是已故建国总理李光耀先生于2011年在他的新书《我一生的挑战：新加坡双语之路》发布会上正式宣布成立的。
+         基金本着促进终身学习母语的宗旨，支持富创意性及趣味性的活动及项目，推动双语学习。
+         今年，基金与理工学院合作，开发了鼓励幼儿及年轻人学习和使用母语的项目。基金也发起了一项“双语，我行！”数码资源征集活动，帮助家长在家辅导孩童学习母语。
         </p>
           <h4>Fun with our Mother Tongue Languages</h4>
           <p style="margin:4px;">The establishment of the Lee Kuan Yew Fund for Bilingualism (the “Fund”) was announced by Mr Lee Kuan Yew, at the launch of “My Lifelong Challenge: Singapore’s Bilingual Journey” in 2011.<br/>
