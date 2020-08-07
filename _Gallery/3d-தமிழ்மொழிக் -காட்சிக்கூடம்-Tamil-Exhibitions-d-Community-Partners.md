@@ -74,7 +74,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbTM">Esplanade - Theatres on the Bay</label>
+      <label for="tab-2" class="lbTM">எஸ்ப்ளனேட்<br/>Esplanade - Theatres on the Bay</label>
       <div class="tab-content">
           <p><h4 style="padding-top:12px;margin:10px;"><strong>தேசிய மரபுடைமைக் கழகம்</strong></h4></p>
           <p style="margin:10px;font-size:20px;">கலைகள் &nbsp; அனைவரையும் &nbsp; சென்றடையக்கூடிய &nbsp; சிங்கப்பூரின் &nbsp; தேசிய &nbsp; நிகழ்த்துக்கலை &nbsp; நிலையமாக &nbsp; எஸ்ப்ளனேட் &nbsp; - &nbsp; கடலோரக் &nbsp; கலை &nbsp; அரங்கம்திகழ்கிறது.</p>
