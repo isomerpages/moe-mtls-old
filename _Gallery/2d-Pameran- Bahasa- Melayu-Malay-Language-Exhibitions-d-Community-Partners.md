@@ -195,6 +195,25 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-8" type="checkbox" name="tab">
+      <label for="tab-8" class="lbML">Wildlife Reserves Singapore</label>
+      <div class="tab-content">
+       <h4 style="padding-top:12px;margin:10px;">Keajaiban Alam Haiwan</h4>
+        <p style="margin:10px;">
+          Wildlife Reserves Singapore (WRS) mempersembahkan pameran bilik darjah Keajaiban Alam Haiwan dalam tiga bahasa Ibunda untuk peringkat tadika dan sekolah rendah. Dengan bertemakan haiwan, WRS meneroka idea-idea pengajaran yang sesuai untuk memupuk minat kanak-kanak dalam penggunaan bahasa Melayu harian mereka. Terdapat juga pelbagai bahan pendidikan elektronik yang sesuai untuk meningkatkan penguasaan kosa kata kanak-kanak tadika. WRS juga melancarkan buku audio bahasa Melayu yang memaparkan watak Kai Kai dan Jia Jia, kedua-dua ekor panda di River Safari. Bagi murid sekolah rendah, aktiviti dalam talian Jejak Nusantara memberi mereka peluang untuk berlatih menggunakan bahasa Melayu dan memperoleh kemahiran berfikir aras tinggi.
+        </p>
+       <h4 style="margin:10px;">Animal Wonderland</h4>
+       <p style="margin:10px;">Animal Wonderland by Wildlife Reserves Singapore presents a living classroom for all three Mother Tongue Languages (MTLs) targeted at both preschool and primary school. Explore pre-visit, in-park and post-visit animal-inspired lesson ideas that motivate children to use Malay in their daily lives. You will find e-teaching aids to help build a copious word bank for preschoolers. Audio story books featuring giant pandas, Kai Kai and Jia Jia, are now available in [CL/ML/TL]. Primary school students can embark on an e-trail in respective titles in MTLs, where they get to practise their MTLs and acquire higher order thinking skills.</p>
+  </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+</td>
+    </tr>
 
 
 
