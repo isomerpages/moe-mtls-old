@@ -143,7 +143,7 @@ max-width:40%;
     <p><strong> Dr Woo Yen Yen
   </strong> <br/> Yumcha Studios Pte Ltd</p>
        </div>
-       <h4 style="font-size:28px;font-family:KaiTi">「我把我的中文课本撕毀了!」一位英文教师陪伴女儿走过的学习中文之路</h4>
+      
         <h4> Profile</h4> 
        <p style="font-size:21px;font-family:KaiTi;margin:4px;"> 胡恩恩博士是一位企业家，也是一名多媒体创作者也是一名多媒体创作者，更是一位教育系的教授。她是饮茶工作室的执行长，也是《点心侠》漫画系列与双语学习系统的创始人。胡博士拥有哥伦比亚大学师范学院的博士学位，并曾担任纽约长岛大学的教育系副教授和台湾国立中央大学客座教授。胡博士现与丈夫和女儿居住在台北。</p>
         <h4> Synopsis</h4> 
@@ -179,7 +179,7 @@ max-width:40%;
     <br/>Mother Tongue Languages Branch,<br/>
     Curriculum Planning and Development Division</p>
    </div>
-   <h4 style="font-size:28px;font-family:KaiTi">2015年小学华文课程简介</h4> 
+
    <h4> Profile</h4> 
    <p style="font-size:21px;font-family:KaiTi;margin:4px;"> 
   徐金红老师是教育部课程规划与发展司的高级专科督导，从事教育工作近三十年。目前，除了负责“2015年小学华文课程”的规划与编写外，她也参与小学华文课程的咨询、教师的专业培训及相关研究。</p>
@@ -216,7 +216,7 @@ The speaker will share how the curriculum enables children to learn Chinese in c
    <p><strong>Mdm Lim Kwee Hua </strong>
 <br/> Academy of Singapore Teachers</p>
    </div>
-       <h4 style="font-size:28px;font-family:KaiTi">快乐阅读和讲故事</h4>
+       
         <h4> Profile</h4>  
        <p style="font-size:21px;font-family:KaiTi;margin:4px;">林季华老师从事教育工作近40年，目前是新加坡教师学院的首席特级华文教师。林老师曾荣获新加坡国庆日表扬奖章、公共行政奖章（铜）和全国模范华文教师奖等多项殊荣。作为推广华文学习委员会阅读组委员，林老师积极推动华文的学习。她曾编写儿童读物、设计语文游戏、到学前中心与公共图书馆为家长与祖父母进行华文学习与亲子共读讲座。此外，林老师也培训社区讲故事义工，定期到公共图书馆为孩子们举办讲故事与导读活动，分享阅读的乐趣。</p>
         <h4> Synopsis</h4> 
@@ -248,7 +248,7 @@ The speaker will share how the curriculum enables children to learn Chinese in c
    </div>
    <p><strong> Ms Li Li </strong></p>
    </div>
-       <h4 style="font-size:28px;font-family:KaiTi">母语学习，赢在起点！</h4>
+     
 <h4> Profile</h4>  
        <p style="font-size:21px;font-family:KaiTi;margin:4px;">李莉老师在学前教育方面拥有24年的实践教学经验，她曾在新意元幼源（Creative O）担任高级华文教师15年，拥有六年的师资培训经验。她目前是国立幼儿培育教育学院（NIEC）以及新加坡新跃社科大学（SUSS）兼职讲师，也在新意元基金会担任在职学前教师培训工作。李莉老师曾多次受邀主持新加坡幼教年会教师工作坊以及华语教学工作坊。</p>
        <h4> Synopsis</h4>  
