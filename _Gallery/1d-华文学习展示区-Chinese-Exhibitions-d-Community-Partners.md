@@ -49,7 +49,7 @@ third_nav_title: '华文学习展示区'
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1" class="lbCh"> <span style="font-size:25px; font-family:KaiTi;">	推广华文学习委员会 </span><br/>Committee to Promote Chinese Language<br/> Learning</label>
       <div class="tab-content">
-      <h4 style="font-size:30px; font-family:KaiTi;padding-top:12px;">推广华文学习委员会</h4>
+      <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;">推广华文学习委员会</h4>
         <p style="font-family:KaiTi;font-size:21px;margin:4px;">
         成立于2005年的推广华文学习委员会(以下简称“委员会”）旨在争取社会各界对华文教学改革的支持，推动学校、社区组织和媒体之间的合作，营造有利于学习与使用华文华语的大环境。委员会共设立了写作、文化、阅读、学前和宣传与交流五个小组。代表性项目包括“新空下”全国学生新谣节、“爱上华文”街舞比赛等。公众将有机会通过委员会的电子展板了解这些活动如何为家长与学生提供乐学华文华语的机会。</p>
 
@@ -73,7 +73,7 @@ CPCLL’s signature programmes and key activities include Xin Kong Xia National 
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2" class="lbCh"> <span style="font-size:25px; font-family:KaiTi"> 滨海艺术中心 </span><br/>Esplanade – Theatres on the Bay</label>
       <div class="tab-content">
-          <h4 style="font-size:30px; font-family:KaiTi;padding-top:12px;">滨海艺术中心</h4>
+          <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;">滨海艺术中心</h4>
         <p style="font-family:KaiTi;font-size:21px;margin:4px;">
          作为国家级表演艺术中心，滨海艺术中心一直秉持让更多人有机会接触艺术的信念滨海艺术中心
 
@@ -99,7 +99,7 @@ CPCLL’s signature programmes and key activities include Xin Kong Xia National 
       <input id="tab-3" type="checkbox" name="tab">
       <label for="tab-3" class="lbCh"> <span style="font-size:25px; font-family:KaiTi">李光耀双语基金 </span><br/>Lee Kuan Yew Fund for Bilingualism </label>
       <div class="tab-content">
-          <h4 style="font-size:30px; font-family:KaiTi;padding-top:12px;">母语乐翻天</h4>
+          <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;">母语乐翻天</h4>
         <p style="font-family:KaiTi;font-size:21px;margin:4px;">
          李光耀双语基金（以下简称“基金”）是已故建国总理李光耀先生于2011年在他的新书《我一生的挑战我一生的挑战：新加坡双语之路》发布会上正式宣布成立的。基金秉持着鼓励使用双语、终身学习母语的宗旨，为具创造性和互动性的项目提供支持。今年，基金与理工学院合作，开发了鼓励学龄前儿童和年轻人学习母语的项目，同时也征集数码资源，支持孩童在家学习母语。
         </p>
@@ -121,7 +121,7 @@ CPCLL’s signature programmes and key activities include Xin Kong Xia National 
       <input id="tab-4" type="checkbox" name="tab">
       <label for="tab-4" class="lbCh"> <span style="font-size:25px; font-family:KaiTi"> 国家文物局 </span><br/>National Heritage Board</label>
       <div class="tab-content">
-          <h4 style="font-size:30px; font-family:KaiTi;padding-top:12px;">新加坡国家文物局</h4>
+          <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;">新加坡国家文物局</h4>
           <p style="font-family:KaiTi;font-size:21px;margin:4px;">国家文物局欢迎大家一起通过文化遗产认识母语。除了讲华语运动理事会提供的材料与资源外，公众也能通过晚晴园 - 孙中山南洋纪念馆及国家文物局展开的“新加坡小宝藏”、“文化遗产探险家计划”、“学校文化遗产角落”等文化教育项目一起学习母语。通过国家文物局的电子展板，家长能够了解更多适合孩子学习的活动；教育工作者可发掘更多让学习走出课堂的方法。</p>
           <h4>National Heritage Board</h4>
         <p style="margin:4px;">
@@ -200,10 +200,10 @@ Parents can find out more about the learning opportunities available to the youn
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
-      <label for="tab-8" class="lbCh"><span style="font-size:21px; font-family:KaiTi">新加坡宗乡会馆联合总会 </span><br/>Singapore Federation of Chinese <br/>Clan Associations   </label>
+      <label for="tab-8" class="lbCh"><span style="font-size:25px; font-family:KaiTi">新加坡宗乡会馆联合总会 </span><br/>Singapore Federation of Chinese <br/>Clan Associations   </label>
       <div class="tab-content">
        <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;">“落地生根，开拓新家园”虚拟展览 </h4>
-          <p style="font-family:KaiTi;margin:4px;font-size:25px;">为配合宗乡总会35周年庆主题“温故•传承•创新”，宗乡总会携手推广华文学习委员会，运用虚拟实境技术，将纪念新加坡开埠两百周年推出的“落地生根，开拓新家园”展览发展为线上 360 度全方位虚拟展览，让公众能通过互动的方式了解新加坡的历史、学习华文。</p>
+          <p style="font-family:KaiTi;margin:4px;font-size:21px;">为配合宗乡总会35周年庆主题“温故•传承•创新”，宗乡总会携手推广华文学习委员会，运用虚拟实境技术，将纪念新加坡开埠两百周年推出的“落地生根，开拓新家园”展览发展为线上 360 度全方位虚拟展览，让公众能通过互动的方式了解新加坡的历史、学习华文。</p>
           <h4>"New World, New Life" Virtual Reality Exhibition</h4>
           <p style="margin:4px;">The NWNL Exhibition, curated by the Singapore Federation of Chinese Clan Associations (SFCCA), commemorates Singapore’s Bicentenary in conjunction with SFCCA’s 35th anniversary. By leveraging on the theme of “Our Legacy, Our Future: Breathing New Life into Traditions”, it showcases Singapore’s history since its founding two hundred years ago and has been well received. SFCCA partnered the Committee to Promote Chinese Language Learning to incorporate virtual reality (VR) technology into the physical exhibition, transforming it into a 360-degree virtual experience.</p>
       </div>
@@ -217,10 +217,10 @@ Parents can find out more about the learning opportunities available to the youn
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-9" type="checkbox" name="tab">
-      <label for="tab-9" class="lbCh"><span style="font-size:21px; font-family:KaiTi">新加坡野生动物保育集团 </span><br/>Wildlife Reserves Singapore  </label>
+      <label for="tab-9" class="lbCh"><span style="font-size:25px; font-family:KaiTi">新加坡野生动物保育集团 </span><br/>Wildlife Reserves Singapore  </label>
       <div class="tab-content">
           <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;">野生动物学习乐园</h4>
-          <p style="font-family:KaiTi;margin:4px;font-size:25px;">新加坡野生动物保育集团呈现“野生动物学习乐园”，为学前与小学的母语教学提供不一样的线上教室。集团精心设计了多种资源，包括动物视频和大熊猫有声图书，让家长和孩子在游园前后，通过在线活动认识野生动物，乐学母语。集团也为小学华文教师设计了关于偏旁部首的主题活动，引导学生认识动物名称的偏旁部首，为学习华文增添乐趣。</p>
+          <p style="font-family:KaiTi;margin:4px;font-size:21px;">新加坡野生动物保育集团呈现“野生动物学习乐园”，为学前与小学的母语教学提供不一样的线上教室。集团精心设计了多种资源，包括动物视频和大熊猫有声图书，让家长和孩子在游园前后，通过在线活动认识野生动物，乐学母语。集团也为小学华文教师设计了关于偏旁部首的主题活动，引导学生认识动物名称的偏旁部首，为学习华文增添乐趣。</p>
           <h4>Animal Wonderland </h4>
         <p style="margin:4px;">
         Animal Wonderland by Wildlife Reserves Singapore presents a living classroom for all three Mother Tongue Languages (MTLs) targeted at both pre and primary schools. Explore pre-visit, in-park and post-visit animal-inspired lesson ideas that motivate children to use MTLs in their daily lives. You will find e-teaching aids to help build an extensive word bank for pre-schoolers. Audio story books featuring the giant pandas ,Kai Kai and Jia Jia, are now available in [CL/ML/TL]. Primary school students can embark on an e-trail for titles in their respective MTL, where they get to practise the language and acquire higher order thinking skills.
