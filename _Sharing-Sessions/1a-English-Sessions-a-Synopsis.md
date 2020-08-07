@@ -53,10 +53,11 @@ max-width:40%;
   width:50%;
   height:auto;
 }
-.lbeng{
-font-size:20px;
-}
-</style>
+.atab {
+    margin-bottom: 5px;
+    width: 87%;
+    neight:auto;
+    }</style>
 </head>
   <body>  
 <table class="tbl">
