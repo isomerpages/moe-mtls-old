@@ -6,7 +6,8 @@ collection_name: Sharing-Sessions
 third_nav_title: 'Tamil Sessions'
 ---
 
-## 	Tamil Session
+## 	தமிழ் பகிர்வுகள்
+
 <html>
 <head>
 <style>
