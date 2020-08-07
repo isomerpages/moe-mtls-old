@@ -106,7 +106,7 @@ max-width:40%;
        <br/>
    <div class="row">
   <div class="column">
-    <img src="images/cropped-person-icon-8-2.png" style="width:100%">
+    <img src="images/CL-Sun-Baoqi.png" style="width:100%">
   </div>
     <p><strong>Dr Sun Baoqi
  </strong> <br/> National Institute of Education, <br/>Nanyang Technological University
@@ -138,13 +138,12 @@ max-width:40%;
        <br/>
    <div class="row">
   <div class="column">
-    <img src="images/cropped-person-icon-8-2.png" style="width:100%">
+    <img src="images/CL-Dr-Woo-Yen-Yen.png" style="width:100%">
   </div>
     <p><strong> Dr Woo Yen Yen
   </strong> <br/> Yumcha Studios Pte Ltd</p>
        </div>
-      
-        <h4> Profile</h4> 
+      <h4> Profile</h4> 
        <p style="font-size:21px;font-family:KaiTi;margin:4px;"> 胡恩恩博士是一位企业家，也是一名多媒体创作者也是一名多媒体创作者，更是一位教育系的教授。她是饮茶工作室的执行长，也是《点心侠》漫画系列与双语学习系统的创始人。胡博士拥有哥伦比亚大学师范学院的博士学位，并曾担任纽约长岛大学的教育系副教授和台湾国立中央大学客座教授。胡博士现与丈夫和女儿居住在台北。</p>
         <h4> Synopsis</h4> 
        <p style="font-size:21px;font-family:KaiTi;margin:4px;">胡恩恩博士曾经是“红毛派”英文教师，也曾经是撕毁自己华文课本的学生。胡博士将现身说法，分享她如何转变成可以用双语创作漫画的漫画家，以及她如何将漫画改编成音乐剧，在中国25个城市巡演的心路历程。她也将分享自己如何让在美国出生的女儿，从完全不会华文到能完全适应全华文环境的台湾公立小学的经验。
@@ -172,7 +171,7 @@ max-width:40%;
        <br/>
   <div class="row">
  <div class="column">
-<img src="images/cropped-person-icon-8-2.png" style="width:100%">
+<img src="images/CL-Mdm-Xu-Jinhong.png" style="width:100%">
    </div>
    <p> <strong>Mdm Xu Jinhong </strong>
 <br/>Ministy of Education
@@ -211,13 +210,12 @@ The speaker will share how the curriculum enables children to learn Chinese in c
        <br/>
   <div class="row">
  <div class="column">
-<img src="images/cropped-person-icon-8-2.png" style="width:100%">
+<img src="images/CL-Mdm-Lim-Kwee-Hua.png" style="width:100%">
    </div>
    <p><strong>Mdm Lim Kwee Hua </strong>
 <br/> Academy of Singapore Teachers</p>
    </div>
-       
-        <h4> Profile</h4>  
+       <h4> Profile</h4>  
        <p style="font-size:21px;font-family:KaiTi;margin:4px;">林季华老师从事教育工作近40年，目前是新加坡教师学院的首席特级华文教师。林老师曾荣获新加坡国庆日表扬奖章、公共行政奖章（铜）和全国模范华文教师奖等多项殊荣。作为推广华文学习委员会阅读组委员，林老师积极推动华文的学习。她曾编写儿童读物、设计语文游戏、到学前中心与公共图书馆为家长与祖父母进行华文学习与亲子共读讲座。此外，林老师也培训社区讲故事义工，定期到公共图书馆为孩子们举办讲故事与导读活动，分享阅读的乐趣。</p>
         <h4> Synopsis</h4> 
         <p style="font-size:21px;font-family:KaiTi;margin:4px;">培养良好的阅读习惯与阅读兴趣对幼儿的早期发展是非常重要的。由于许多幼儿无法自主阅读，因此需要大人帮助他们养成良好的阅读习惯。主讲人将讲解幼儿阅读和讲故事的不同策略和技巧，说明如何选择合适的阅读材料，示范如何进行读后活动，分享如何与学生的日常生活相结合，让阅读变得轻松有趣、让孩子们爱上阅读，爱上华文。</p>
@@ -244,7 +242,7 @@ The speaker will share how the curriculum enables children to learn Chinese in c
        <br/>
   <div class="row">
  <div class="column">
-<img src="images/cropped-person-icon-8-2.png" style="width:100%">
+<img src="images/CL-Ms-Li-Li.png" style="width:100%">
    </div>
    <p><strong> Ms Li Li </strong></p>
    </div>
