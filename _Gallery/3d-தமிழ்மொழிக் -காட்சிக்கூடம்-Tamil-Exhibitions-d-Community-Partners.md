@@ -100,7 +100,7 @@ Parents can find out more about the learning opportunities available for the you
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4" class="lbTM">iii.	தேசியக் கல்விக்கழகத்தின்  ஆசிய மொழிகள் மற்றும் பண்பாட்டுகள் துறை <br/>National Institute of Education (Asian Languages and Cultures Academic Group)</label>
+      <label for="tab-4" class="lbTM">தேசியக் கல்விக்கழகத்தின்  ஆசிய மொழிகள் மற்றும் பண்பாட்டுகள் துறை <br/>National Institute of Education (Asian Languages and Cultures Academic Group)</label>
       <div class="tab-content">
           <h4 style="padding-top:12px;margin:10px;"><strong>கதைஉலகம் – மகிழ்வூட்டும் மொழி கற்றல்வழி விழுமியங்களைவலிறுத்துதல்</strong></h4>
           <p style="margin:10px;">குழந்தைகளை மொழி கற்றலில் ஈடுபடுத்துவதற்கும், ஒரு மொழியின் பண்பாட்டு விழுமியங்களை அவர்களிடம் அறிமுகப்படுத்துவதற்கும் கதைகள் சிறந்ததொரு வழிமுறையாகும். குழந்தைகள் கதைகளைக் கேட்டு, ஆழ்ந்து இரசிக்கும்போது, அவற்றில் பதிந்துள்ள பண்பாட்டின் சிறப்புக்கூறுகளையும் அறிந்து கொள்கின்றனர். கதைகளில் விழுமியங்கள் எவ்வாறு முக்கியத்துவம் பெற்றிருக்கின்றன என்பதை அறிவதன் வாயிலாக அவர்களுக்குத் தங்கள் பண்பாட்டின்மீது ஆழ்ந்த பற்றும் மொழியின்பால் சிறந்த புரிந்துணர்வும் உண்டாகின்றன. </p><br/>
