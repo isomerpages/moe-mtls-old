@@ -75,9 +75,7 @@ CPCLL’s signature programmes and key activities include Xin Kong Xia National 
       <div class="tab-content">
           <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;">滨海艺术中心</h4>
         <p style="font-family:KaiTi;font-size:21px;margin:4px;">
-         作为国家级表演艺术中心，滨海艺术中心一直秉持让更多人有机会接触艺术的信念滨海艺术中心
-
-作为国家级表演艺术中心，滨海艺术中心一直秉持让更多人有机会接触艺术的信念，积极向公众推广艺术活动。中心希望通过多元化的艺术表演，吸引孩童及青年接触艺术，激发创意。家长和教育工作者可以阅览特别为孩童所编制的线上学习材料，把艺术带进教室或家中。孩童可以从中发掘丰厚的文化内涵，激发学习母语的动机并提升自身的语言文化水平，同时培养创造力与想像力。
+         作为国家表演艺术中心，滨海艺术中心一直秉持让更多人有机会接触艺术的信念，积极向公众推广艺术活动。滨海艺术中心希望通过多元化的艺术表演，吸引孩童及青年接触艺术，激发创意。家长和教育工作者可以在Esplanade Offstage阅览特别为孩童所编制的线上学习材料，把艺术带进教室或家中。孩童可以从中发掘丰厚的文化内涵，激发学习母语的动机并提升自身的语言文化水平，同时培养创造力与想像力。
  </p>
           <h4>Esplanade</h4>
         <p style="margin:4px;">
