@@ -1,11 +1,11 @@
 ---
-title: 'Prasekolah (PreSchool)'
+title: 'Prasekolah (Pre-School)'
 permalink: /Gallery/Pameran-Bahasa-Melayu-Malay-Language-Exhibitions-b/PreSchool/
 breadcrumb: 'Pameran- Bahasa- Melayu-Malay-Language-Exhibitions'
 collection_name: Gallery
 third_nav_title: 'Pameran Bahasa Melayu'
 ---
-##  Prasekolah  (PreSchool)
+##  Prasekolah  (Pre-School)
 <html>
 <head>
 <style>
