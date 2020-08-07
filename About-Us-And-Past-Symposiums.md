@@ -9,7 +9,7 @@ breadcrumb: About Us & Past Symposiums
 <style>
  iframe{
 border : 0;
-width:100% ;
+width:80% ;
 }
  </style>
 <div>
