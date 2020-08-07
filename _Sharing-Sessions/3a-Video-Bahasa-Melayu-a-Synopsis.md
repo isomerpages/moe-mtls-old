@@ -1,9 +1,9 @@
 ---
 title: 'Synopsis'
-permalink: /Exhibition/Malay-Sessions/Synopsis/
-breadcrumb: 'Malay Sessions'
+permalink: /Exhibition/Video-Bahasa-Melayu/Synopsis/
+breadcrumb: 'Video Bahasa Melayu'
 collection_name: Sharing-Sessions
-third_nav_title: 'Malay Sessions'
+third_nav_title: 'Video Bahasa Melayu'
 ---
 ## 	Video Bahasa Melayu
 <html>
