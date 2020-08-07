@@ -199,7 +199,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
-      <label for="tab-8" class="lbML">Wildlife Reserves Singapore</label>
+      <label for="tab-8" class="lbML"> <br/>Wildlife Reserves Singapore</label>
       <div class="tab-content">
        <h4 style="padding-top:12px;margin:10px;">Keajaiban Alam Haiwan</h4>
         <p style="margin:10px;">
@@ -213,7 +213,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
-    </tr>
+ </tr>
 
 
 
