@@ -117,7 +117,7 @@ max-width:40%;
  <p style="font-size:21px;font-family:KaiTi;margin:10px;">孙宝琦老师拥有新加坡南洋理工大学属下新加坡教育学院授予的教育学博士学位。孙宝琦老师目前任职于新加坡国立教育学院儿童发展研究中心，主要研究双语早期阅读及双语教学。</p>
    <h4 style="margin:10px;"> 简介</h4> 
  <p style="font-size:21px;font-family:KaiTi;margin:10px;">近来的疫情让居家育儿和居家学习成为新常态，父母也因此有更多时间来陪伴孩子。那么，如何在家中为孩子营造一个有利于母语发展的语言环境呢？本讲座将通过介绍家庭语言环境对儿童语言发展的理论和实践，让大家进一步了解家庭语言环境的重要性。主讲人还会分享一些切实可行的方法，帮助大家在家中营造亲近母语的环境，例如如何利用资讯科技增加使用母语的机会例如如何利用资讯科技增加使用母语的机会。此外，主讲人也将结合华文的语言特点，向大家提供一些学习建议。</p>
-
+<h4 style="margin:10px;">Imperceptible Influence：How to Create a Conducive Mother Tongue Learning Environment at Home </h4><br/>
  <h4 style="margin:10px;">Profile</h4>
  <p style="margin:10px;">Dr Sun Baoqi received her PhD from the National Institute of Education (NIE), Nanyang Technological University (NTU) in Singapore. Her research encompasses socio-cultural-cognitive and policy perspectives on language learning with a particular focus on children’s bilingual education and biliteracy development. She is currently working as a research scientist in one of NIE’s research centres – Centre for Research in Child Development (CRCD).</p>
      <h4 style="margin:10px;">Synopsis</h4> 
@@ -148,6 +148,7 @@ max-width:40%;
         <h4 style="margin:10px;"> Synopsis</h4> 
        <p style="font-size:21px;font-family:KaiTi;margin:10px;">胡恩恩博士曾经是“红毛派”英文教师，也曾经是撕毁自己华文课本的学生。胡博士将现身说法，分享她如何转变成可以用双语创作漫画的漫画家，以及她如何将漫画改编成音乐剧，在中国25个城市巡演的心路历程。她也将分享自己如何让在美国出生的女儿，从完全不会华文到能完全适应全华文环境的台湾公立小学的经验。
  </p>
+       <h4 style="margin:10px;"><strong>“I TORE UP MY CHINESE BOOK!”</strong> An English teacher’s journey towards getting her daughter to learn Chinese.</h4><br/>
       <h4 style="margin:10px;"> Profile</h4> 
        <p style="margin:10px;">Dr. Woo Yen Yen is an entrepreneur, award-winning multimedia creator, and professor of education with a passion for culture hacking. She is the CEO of Yumcha Studios and the co-creator of the Dim Sum Warriors comics and bilingual learning system. She also holds a Doctorate in Curriculum Studies from Teachers College, Columbia University and was formerly Associate Professor of Education at Long Island University, New York, and Visiting Professor at Taiwan’s National Central University. She now lives in Taipei with her husband and daughter.</p>
        
@@ -185,7 +186,7 @@ max-width:40%;
    <p style="font-size:21px;font-family:KaiTi;margin:10px;">《欢乐伙伴》小学华文课程自2015年在一年级开始推行，至今已经推展至六年级。课程旨在培养学生的华语沟通能力，引导学生认识和欣赏华族文化，使之能与世界各地的华族社群建立联系。
 此次分享，讲员将介绍《欢乐伙伴》教材的内容和特点，讲解孩子如何在课堂内外利用该教材学习、学校如何协助孩子从学前过渡到小学等。家长可以从中获得一些帮助孩子学好华文的有趣点子。
 </p>
-  
+   <h4 style="margin:10px;">Understanding the 2015 Primary School Chinese Language Curriculum - Supporting Your Child in Learning Chinese</h4>
     <h4 style="margin:10px;">Profile</h4>  
    <p style="margin:10px;">Mdm Xu Jinhong is a Senior Specialist at the Curriculum Planning and Development Division, Ministry of Education with 29 years of experience in the Education Service. She is involved in the planning and development of the 2015 Primary Chinese Language Curriculum, research for the Primary Chinese Language Curriculum and the training of primary school teachers.
 </p>
@@ -218,6 +219,7 @@ The speaker will share how the curriculum enables children to learn Chinese in c
        <p style="font-size:21px;font-family:KaiTi;margin:10px;">林季华老师从事教育工作近40年，目前是新加坡教师学院的首席特级华文教师。林老师曾荣获新加坡国庆日表扬奖章、公共行政奖章（铜）和全国模范华文教师奖等多项殊荣。作为推广华文学习委员会阅读组委员，林老师积极推动华文的学习。她曾编写儿童读物、设计语文游戏、到学前中心与公共图书馆为家长与祖父母进行华文学习与亲子共读讲座。此外，林老师也培训社区讲故事义工，定期到公共图书馆为孩子们举办讲故事与导读活动，分享阅读的乐趣。</p>
         <h4 style="margin:10px;"> Synopsis</h4> 
         <p style="font-size:21px;font-family:KaiTi;margin:10px;">培养良好的阅读习惯与阅读兴趣对幼儿的早期发展是非常重要的。由于许多幼儿无法自主阅读，因此需要大人帮助他们养成良好的阅读习惯。主讲人将讲解幼儿阅读和讲故事的不同策略和技巧，说明如何选择合适的阅读材料，示范如何进行读后活动，分享如何与学生的日常生活相结合，让阅读变得轻松有趣、让孩子们爱上阅读，爱上华文。</p>
+       <h4 style="margin:10px;">Happy Reading and Storytelling with young children</h4>
      <h4 style="margin:10px;">Profile</h4>  
         <p  style="margin:10px;">Mdm Lim Kwee Hua has more than 38 years of teaching experience and is currently a Principal Master Teacher at the Academy of Singapore Teachers. She has been conferred the National Day Awards Commendation Medal, the Public Administration Medal (Bronze), and the Inspiring Chinese Language Teachers Award. Mdm Lim is a member of the Committee to Promote Chinese Language Learning (Reading Group) and she is also involved in  editing children’s books  and designing language games. She actively promotes language learning by sharing with parents and grandparents strategies for  parent-child and grandparent-child reading.  She also reaches out to the community by conducting regular reading sessions with children at public libraries.</p>
  <h4 style="margin:10px;"> Synopsis</h4>  
@@ -249,7 +251,7 @@ The speaker will share how the curriculum enables children to learn Chinese in c
        <p style="font-size:21px;font-family:KaiTi;margin:10px;">李莉老师在学前教育方面拥有24年的实践教学经验，她曾在新意元幼源（Creative O）担任高级华文教师15年，拥有六年的师资培训经验。她目前是国立幼儿培育教育学院（NIEC）以及新加坡新跃社科大学（SUSS）兼职讲师，也在新意元基金会担任在职学前教师培训工作。李莉老师曾多次受邀主持新加坡幼教年会教师工作坊以及华语教学工作坊。</p>
        <h4 style="margin:10px;"> Synopsis</h4>  
        <p style="font-size:21px;font-family:KaiTi;margin:10px;">幼儿期是语言学习的关键期，良好的母语能力奠定终生学习的基础。主讲员将探讨为什么母语学习要赢在起点，以及怎样让母语学习赢在起点？这次的分享也包括家长和教师在家和在学校里可实施的一些母语学习方法和策略，以及如何让幼儿在愉快、自然的日常环境中，轻松掌握说读写语言技能，并撒下热爱母语学习的种子。</p>
-    
+     <h4 style="margin:10px;">Giving Your Child a Head Start in Learning Mother Tongue Languages!</h4><br/>
       <h4 style="margin:10px;">Profile</h4>
        <p style="margin:10px;">Ms Li Li has 24 years of pre-school teaching experience.  She was a Senior Chinese Language Teacher at Creative O Preschools’ Bay for 15 years, during which she pioneered a comprehensive curriculum to promote Chinese reading among pre-schoolers. With 6 years’ experience in the Professional Development of pre-school Chinese Language teachers, she is currently a trainer at the National Institute of Early Childhood Development (NIEC), a part-time lecturer at Singapore University of Social Sciences (SUSS) and is still passionately coaching pre-school teachers in Creative O Foundation.  She is also a regular speaker and trainer at conferences and workshops, including the International Conference on Teaching and Learning of Chinese as a Second Language. </p>
        <h4 style="margin:10px;">Synopsis</h4>
