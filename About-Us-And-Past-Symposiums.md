@@ -18,7 +18,7 @@ width:80% ;
  
 <p>In view of the Covid-19 situation, and in the interest of everyone’s safety, MTLS has now gone online! Into its ninth year, e-MTLS continues to strive to develop a keen sense of lifelong learning for our Mother Tongue Languages (MTL)in our young and strengthen the nexus between families and our community partners as part of a larger effort to create a vibrant MTL ecosystem.</p><br/><br/>
  <b>Our Past Symposiums</b>
- </p>
+
  <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wvuiXKf_bJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </center>
