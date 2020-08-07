@@ -1,5 +1,5 @@
 ---
-title: '学前教育中心 (Pre-School)'
+title: '学前教育中心 (Pre-schools)'
 permalink: /Gallery/华文学习展示区-Chinese-Exhibitions-b/PreSchool/
 breadcrumb: '华文学习展示区-Chinese-Exhibitions'
 collection_name: Gallery
@@ -41,7 +41,7 @@ third_nav_title: '华文学习展示区'
 </style>
 </head>
 <body>  
- <div><h2 style="font-family:KaiTi;">学前教育中心 (Pre-School)</h2></div>
+ <div><h2 style="font-family:KaiTi;">学前教育中心 (Pre-schools)</h2></div>
 <table class="tbl">
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
