@@ -124,7 +124,7 @@ CPCLL’s signature programmes and key activities include Xin Kong Xia National 
       <label for="tab-4" class="lbCh"> <span style="font-size:25px; font-family:KaiTi"> 国家文物局 </span><br/>National Heritage Board</label>
       <div class="tab-content">
           <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;">新加坡国家文物局</h4>
-          <p style="font-family:KaiTi;font-size:21px;margin:4px;">国家文物局欢迎大家一起通过文化遗产认识母语。除了讲华语运动除了讲华语运动理事会提供的材料与资源外，公众也能通过晚晴园 - 孙中山南洋纪念馆及国家文物局展开的“新加坡小宝藏”、“文化遗产探险家计划”、“学校文化遗产角落”等文化教育项目一起学习母语。通过国家文物局的电子展板，家长能够了解更多适合孩子学习的活动；教育工作者可发掘更多让学习走出课堂的方法。</p>
+          <p style="font-family:KaiTi;font-size:21px;margin:4px;">国家文物局欢迎大家一起通过文化遗产认识母语。除了讲华语运动除了讲华语运动提供的材料与资源外，公众也能通过晚晴园 - 孙中山南洋纪念馆及国家文物局展开的“新加坡小宝藏”、“文化遗产探险家计划”、“学校文化遗产角落”等文化教育项目一起学习母语。通过国家文物局的电子展板，家长能够了解更多适合孩子学习的活动；教育工作者可发掘更多让学习走出课堂的方法。</p>
           <h4>National Heritage Board</h4>
         <p style="margin:4px;">
          Discover Mother Tongue Languages through heritage and culture with the National Heritage Board (NHB).
