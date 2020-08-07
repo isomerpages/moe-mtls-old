@@ -111,7 +111,7 @@ Current key concerns amongst young Indian parents is how to nurture the love of 
        <br/>
   <div class="row">
  <div class="column">
-<img src="images/TL-Ms-Rani-Kanna-and-Mr- Anandha-Kannan.png" style="width:100%">
+<img src="images/TL-Ms-Rani-Kanna-and-Mr-Anandha-Kannan.png" style="width:100%">
    </div>  
    <p> <strong> Ms Rani Kanna & 
     <br/>Mr Anandha Kannan </strong><br/>AKT Theatre Ltd
