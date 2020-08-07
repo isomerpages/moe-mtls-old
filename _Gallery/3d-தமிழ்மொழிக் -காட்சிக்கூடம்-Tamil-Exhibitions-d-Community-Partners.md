@@ -130,7 +130,7 @@ Parents can find out more about the learning opportunities available for the you
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4" class="lbTM">தேசியக் கல்விக்கழகத்தின்  ஆசிய மொழிகள் மற்றும் பண்பாட்டுகள் துறை <br/>National Institute of Education (Asian Languages and Cultures Academic Group)</label>
+      <label for="tab-4" class="lbTM">தேசியக் கல்விக் கழகத்தின் ஆசிய மொழிகள் மற்றும் பண்பாட்டுகள் துறை  <br/>National Institute of Education (Asian Languages and Cultures Academic Group)</label>
       <div class="tab-content">
           <p><h4 style="padding-top:12px;margin:10px;"><strong>கதைஉலகம் – மகிழ்வூட்டும் மொழி கற்றல்வழி விழுமியங்களைவலிறுத்துதல்</strong></h4></p>
           <p style="margin:10px;font-size:20px;">குழந்தைகளை &nbsp; மொழி &nbsp; கற்றலில் &nbsp; ஈடுபடுத்துவதற்கும், &nbsp; ஒரு &nbsp; மொழியின் &nbsp; பண்பாட்டு &nbsp; விழுமியங்களை &nbsp; அவர்களிடம் &nbsp; அறிமுகப்படுத்துவதற்கும் &nbsp; கதைகள் &nbsp; சிறந்ததொரு &nbsp; வழிமுறையாகும். &nbsp; குழந்தைகள் &nbsp; கதைகளைக் &nbsp; கேட்டு, &nbsp; ஆழ்ந்து &nbsp; இரசிக்கும்போது, &nbsp; அவற்றில் &nbsp; பதிந்துள்ள &nbsp; பண்பாட்டின் &nbsp; சிறப்புக்கூறுகளையும் &nbsp; அறிந்து &nbsp; கொள்கின்றனர். &nbsp; கதைகளில் &nbsp; விழுமியங்கள் &nbsp; எவ்வாறு &nbsp; முக்கியத்துவம் &nbsp; பெற்றிருக்கின்றன &nbsp; என்பதை &nbsp; அறிவதன் &nbsp; வாயிலாக &nbsp; அவர்களுக்குத் &nbsp; தங்கள் &nbsp; பண்பாட்டின்மீது &nbsp; ஆழ்ந்த &nbsp; பற்றும் &nbsp; மொழியின்பால் &nbsp; சிறந்த &nbsp; புரிந்துணர்வும் &nbsp; உண்டாகின்றன.</p><br/>
@@ -170,7 +170,7 @@ Parents can find out more about the learning opportunities available for the you
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
-      <label for="tab-6" class="lbTM">சிங்கப்பூர் பிரஸ் ஹோல்டிங்ஸ் (தமிழ் முரசு-மாணவர்முரசு, <br/>இளையர்முரசு, பாலர்முரசு <br/>Tamil Murasu</label>
+      <label for="tab-6" class="lbTM">தமிழ் முரசு <br/>Tamil Murasu</label>
       <div class="tab-content">
           <p><h4 style="padding-top:12px;margin:10px;"><strong>என் கற்றல் பயணம் தாய்மொழியைக் கொண்டு தொடங்குகிறது</strong></h4></p>
           <p style="margin:10px;font-size:20px;">சிங்கப்பூர் &nbsp; பிரஸ் &nbsp; ஹோல்டிங்ஸ் &nbsp; நிறுவனத்தால் &nbsp; பிரசுரிக்கப்படும் &nbsp; தமிழ் &nbsp; முரசு, &nbsp; இதுவரை &nbsp; பல்வேறு &nbsp; வயதினரைச் &nbsp; சென்றடையும் &nbsp; கல்வி &nbsp; சார்ந்த &nbsp; மாணவர் &nbsp; படைப்புகளை &nbsp; வெளியிட்டுள்ளது. &nbsp; தொடக்கநிலை &nbsp; மாணவர்களுக்கான &nbsp; மாணவர் &nbsp; முரசு, &nbsp; உயர்நிலை &nbsp; மாணவர்களுக்கான &nbsp; இளையர் &nbsp; முரசு &nbsp; ஆகியவை &nbsp; அவற்றுள் &nbsp; அடங்கும்.</p><br/>
