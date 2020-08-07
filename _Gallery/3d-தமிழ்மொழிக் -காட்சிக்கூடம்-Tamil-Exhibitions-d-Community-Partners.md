@@ -140,7 +140,7 @@ Parents can find out more about the learning opportunities available for the you
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
-      <label for="tab-6" class="lbTM">சிங்கப்பூர் பிரஸ் ஹோல்டிங்ஸ் (தமிழ் முரசு-மாணவர்முரசு, <br/>இளையர்முரசு, பாலர்முரசு) <br/>Tamil Murasu - Maanavar Murasu, Illayar Murasu, Balar Murasu</label>
+      <label for="tab-6" class="lbTM">சிங்கப்பூர் பிரஸ் ஹோல்டிங்ஸ் (தமிழ் முரசு-மாணவர்முரசு, <br/>இளையர்முரசு, பாலர்முரசு <br/>Tamil Murasu - Maanavar Murasu, Illayar Murasu, Balar Murasu</label>
       <div class="tab-content">
           <h4 style="padding-top:12px;margin:10px;"><strong>என் கற்றல் பயணம் தாய்மொழியைக் கொண்டு தொடங்குகிறது</strong></h4>
           <p style="margin:4px;">சிங்கப்பூர் பிரஸ் ஹோல்டிங்ஸ் நிறுவனத்தால் பிரசுரிக்கப்படும் தமிழ் முரசு, இதுவரை பல்வேறு வயதினரைச் சென்றடையும் கல்வி சார்ந்த மாணவர் படைப்புகளை வெளியிட்டுள்ளது. தொடக்கநிலை மாணவர்களுக்கான மாணவர் முரசு, உயர்நிலை மாணவர்களுக்கான இளையர் முரசு ஆகியவை அவற்றுள் அடங்கும்.
