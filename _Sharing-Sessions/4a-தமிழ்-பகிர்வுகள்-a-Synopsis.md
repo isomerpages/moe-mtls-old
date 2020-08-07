@@ -1,9 +1,9 @@
 ---
 title: 'Synopsis'
-permalink: /Exhibition/Tamil-Sessions/Synopsis/
-breadcrumb: 'Tamil Sessions'
+permalink: /Exhibition/தமிழ்-பகிர்வுகள்/Synopsis/
+breadcrumb: 'தமிழ் பகிர்வுகள்'
 collection_name: Sharing-Sessions
-third_nav_title: 'Tamil Sessions'
+third_nav_title: 'தமிழ் பகிர்வுகள்'
 ---
 
 ## 	தமிழ் பகிர்வுகள்
