@@ -58,6 +58,11 @@ max-width:40%;
   width:50%;
   height:auto;
 }
+.atab {
+    margin-bottom: 5px;
+    width: 87%;
+    neight:auto;
+    }
 </style>
 </head>
 <table class="tbl">
