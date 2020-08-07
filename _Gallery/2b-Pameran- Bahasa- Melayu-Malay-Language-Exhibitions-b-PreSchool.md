@@ -49,7 +49,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1" class="lbML">	Tadika MOE (Farrer Park)<br/>MOE Kindergarten@Farrer Park</label>
       <div class="tab-content">
-      <h4 style="padding-top:12px;"margin:10px;">Membaca Mencipta Keajaiban</h4>
+      <h4 style="padding-top:12px;margin:10px;">Membaca Mencipta Keajaiban</h4>
       <p style="margin:10px;">
         Di Tadika MOE Farrer Park (MK Farrer Park), setiap kanak-kanak dipercayai boleh belajar dan menggunakan bahasa Ibunda sebagai alat komunikasi yang berkesan. Dengan berpandukan prinsip panduan ini, MK Farrer Park ingin memupuk minat dan  penghayatan kanak-kanak untuk membaca buku Bahasa Ibunda melalui inisiatif yang dijalankan, iaitu MK Book Club. Dengan memilih buku cerita mereka sendiri, kanak-kanak akan terdorong  untuk membaca dan belajar mengikut tahap kebolehan mereka. <br/>Untuk mengukuhkan amalan membaca di rumah pula, MK Farrer Park bekerjasama dengan ibu bapa untuk melibatkan anak-anak mereka dalam aktiviti membaca dan bercerita. Dengan mengadakan aktiviti keluarga yang bermakna, kanak-kanak dapat melanjutkan pembelajaran mereka di luar darjah dan meningkatkan keyakinan diri untuk bertutur dalam bahasa Ibunda. </p>
 
