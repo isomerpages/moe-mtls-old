@@ -135,7 +135,7 @@ third_nav_title: '华文学习展示区'
       <div class="tab-content">
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;">“悦读计划–让孩子爱上阅读”</h4>
           <p style="font-family:KaiTi;margin:4px;font-size:21px;">
-          圣尼各拉女校（中学部）的华文阅读计划运用了“激、荐、导、搭”的框架，让学生自由选择阅读的内容，并在新加坡学生学习平台（SLS）上开展很多有意思的活动，包括设计阅读喜好图、阅读改编自电影的小说并在读后进行创意活动、将流行歌曲与书籍进行主题搭配、以及由师生推荐书籍，让阅读变得趣味盎然。</p>
+          圣尼各拉女校（中学部）华文阅读计划旨在让学生的阅读变得更贴近生活、更有趣、更符合自己的语文能力。教师们运用“激、荐、导、搭”的框架，在SLS学生学习平台上开展了很多有意思的活动。其中包括设计阅读喜好图、选择被改编成电影的书籍、将流行歌曲与不同主题的书籍搭配，以及由师生推荐书籍，让学生通过各种有趣的方式选择自己阅读的内容，让阅读变得趣味盎然。</p>
           <h4>SNGS Chinese Reading Programme – Cultivating the Joy of Reading</h4>
         <p style="margin:4px;">
        The Chinese Reading Programme by CHIJ St Nicholas Girls’ School (Sec) aims to make reading “Relevant, Engaging, Accessible and Self-Directed” for the students. Using the “Trigger, Recommend, Guide, Construct” framework, activities were developed on the SLS to engage students in self-directed reading. These activities include a reading preference map, the selection of books that have been made into movies, complementing books with pop songs, and included  peer and teacher recommendations. While students enjoy the autonomy of choosing what to read, the exposure to different genres, and writing styles of books have opened up a new understanding of the world of reading to the students.
