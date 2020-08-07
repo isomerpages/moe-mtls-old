@@ -1,9 +1,9 @@
 ---
 title: 'Synopsis'
-permalink: /Exhibition/English-Sessions/Synopsis/
-breadcrumb: 'English Sessions'
+permalink: /Exhibition/English-Videos/Synopsis/
+breadcrumb: 'English Videos'
 collection_name: Sharing-Sessions
-third_nav_title: 'English Sessions'
+third_nav_title: 'English Videos'
 ---
 ## 	English Videos
 <html>
