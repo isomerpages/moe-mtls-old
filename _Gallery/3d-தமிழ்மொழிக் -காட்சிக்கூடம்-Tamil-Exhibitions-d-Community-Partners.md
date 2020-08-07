@@ -244,8 +244,6 @@ Interacting with the environment and community promotes rich, self-directed lear
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></a>
 </td>
-</tr>
-</table>
 <hr>
 <div class="image">
   <img src="images/New_footer.jpg" class="Image" width="1000" height="300"></div>
