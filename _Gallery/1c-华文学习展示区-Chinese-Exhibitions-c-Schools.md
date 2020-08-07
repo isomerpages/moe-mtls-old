@@ -115,7 +115,7 @@ third_nav_title: '华文学习展示区'
     <label for="tab-4" class="lbCh"><span style="font-size:21px;font-family:KaiTi"> 育青中学 </span><br/>Bedok Green Secondary School</label>
       <div class="tab-content">
           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;">悦读魔法变变变</h4>
-          <p style="font-family:KaiTi;margin:4px;font-size:25px;">育青中学为低年级学生制定了阅读计划“悦读魔法变变变”。此活动将课本技能与角色扮演游戏（Role Playing Game）、解谜游戏（Puzzle Game）相融合，利用书中的故事情节完成不同的活动或任务，让角色最终成长为一名小魔术师。活动的最终目标是让学生变魔术给家人看，向他们表达心中的爱。此活动不仅激发了学生阅读华文书的兴趣，增加了在生活中与家人使用母语的机会，也增进了家人之间的感情。</p>
+          <p style="font-family:KaiTi;margin:4px;font-size:21px;">育青中学为低年级学生制定了阅读计划“悦读魔法变变变”。此活动将课本技能与角色扮演游戏（Role Playing Game）、解谜游戏（Puzzle Game）相融合，利用书中的故事情节完成不同的活动或任务，让角色最终成长为一名小魔术师。活动的最终目标是让学生变魔术给家人看，向他们表达心中的爱。此活动不仅激发了学生阅读华文书的兴趣，增加了在生活中与家人使用母语的机会，也增进了家人之间的感情。</p>
           <h4>Magic in Reading</h4>
         <p style="margin:4px;">
           Bedok Green Secondary School developed a reading program, "Magic in Reading", for the lower secondary students. Students role-played as novice magicians who met with various challenges which required them to familiarise themselves with the story. The ultimate task for the students was to learn a magic trick toperform for their family as an  expression of their lovefor them. The reading programme not only inspired the students to read Chinese texts, but also provided platforms for students to read and speak Chinese with their families to promote family bonding which has always been an important aspect of Chinese culture.
