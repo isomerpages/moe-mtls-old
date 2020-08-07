@@ -38,7 +38,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 .atab {
     margin-bottom: 5px;
     width: 87%;
-    neight:auto;
+    height:auto;
     }
 </style>
 </head>
