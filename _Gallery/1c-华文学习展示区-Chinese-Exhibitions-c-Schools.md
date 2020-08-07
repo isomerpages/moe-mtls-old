@@ -49,7 +49,7 @@ third_nav_title: '华文学习展示区'
       <input id="tab-1" type="checkbox" name="tab">
     <label for="tab-1" class="lbCh"><span style="font-size:25px;font-family:KaiTi">聚英小学 </span> <br/> Juying Primary School</label>
       <div class="tab-content">
-      <h4 style="font-size:35px;font-family:KaiTii;padding-top:12px;">学善用新平台，口语学习不间断</h4>
+      <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;">学善用新平台，口语学习不间断</h4>
       <p style="font-family:KaiTi;margin:4px;font-size:21px;">
        聚英小学利用“新加坡学生学习平台”（SLS），配合教材内容开发了口语教学配套，帮助学生在校和居家学习。
 学生可通过该平台的即时互动工具，构思说话内容，进行互动和评价。在高年级阶段，此配套通过新闻话题，帮助学生了解时事动态，引导他们提出看法和建议，进一步加强语言能力。
