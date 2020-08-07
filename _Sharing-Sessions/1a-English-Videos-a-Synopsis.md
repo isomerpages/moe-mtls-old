@@ -78,25 +78,25 @@ max-width:40%;
    </p>
     </div>
        
-  <h4 style="padding-top:12px;margin:4px">Synopsis</h4>
+  <h4 style="padding-top:12px;margin:10px">Synopsis</h4>
        
-  <p style="margin:4px;"><strong>A/P Mukhlis Abu Bakar  </strong><br/>
+  <p style="margin:10px;"><strong>A/P Mukhlis Abu Bakar  </strong><br/>
 Dr Mukhlis Abu Bakar is Associate Professor and Assistant Head/Malay at the Asian Languages and Cultures Academic Group of the National Institute of Education,Nanyang Technological University. Trained as an applied linguist, he teaches in the area of grammar, linguistics, discourse, bilingualism and literacy. His current research interests lie in the field of childhood bilingualism and biliteracy, and a sociocultural approach to literacy learning in the home, school and faith settings.
 </p>
 
- <p style="margin:4px;"><strong>Kamilah Binte Kamis </strong><br/>
+ <p style="margin:10px;"><strong>Kamilah Binte Kamis </strong><br/>
  Miss Kamilah has been teaching in the preschool sector for 6 years. She was inspired to be a Pre-school teacher owing to her love for young children. Awarded the Outstanding Pre-school Mother Tongue Language Teacher Award (Outstanding Award) in 2019, Miss Kamilah is committed to inspiring her children to love the Malay language. She is constantly motivated to design interactive and interesting Malay lessons so that her children stay positive and engaged as they learn the language. She has already written one bilingual book for children and hopes to write more.
 </p>
 
- <p style="margin:4px;"><strong>Dr Sukuna S.Vijayadevar </strong><br/>
+ <p style="margin:10px;"><strong>Dr Sukuna S.Vijayadevar </strong><br/>
 Dr Sukuna S. Vijayadevar is a senior lecturer with NIEC SEED. She has served for many years in the field of early childhood education and currently works as a lecturer, practicum supervisor and research advisor. Her areas of interest in early childhood include teaching language and literacy, research, leadership and inclusive education. She has conducted talks for parents and workshops for teachers about teaching Tamil Language in Pre-schools through story-telling and the creation of big books. She has also presented at several local and international conferences.
 </p>
 
- <p style="margin:4px;"><strong> Danny Yeo </strong>
+ <p style="margin:10px;"><strong> Danny Yeo </strong>
 <br/>Danny Yeo has 30 years of rich experience in various fields. He is a well-established veteran cross-media personality, a prolific theatre director-writer-actor, and remains active and passionate in various areas of involvement: such as events hosting, creative consulting and corporate training. A bilingual extraordinaire and an award-winning lecturer, he has anchored 15 info-entertainment television programmes (2015-2020), written 5 film scripts, authored 4 books in 2 languages and initiated numerous innovative theatrical ideas, particularly for interactive-immersive performances. In recent years, he has presented works on international stages including Shanghai, Macau and New York City. Danny has been a CPCLL committee member since 2008, serving as the vice group leader of the Outreach and Engagement group.
 </p>
 
- <p style="margin:4px;"><strong>Ben Yeo </strong><br/>
+ <p style="margin:10px;"><strong>Ben Yeo </strong><br/>
 With years of experience in the television and entertainment industry, Ben Yeo is a renowned Mediacorp actor and host. Having starred in numerous productions and variety programmes, many may also regard Ben as a celebrity chef. Trained in SHATAC, Ben possesses excellent cooking skills and is well loved by many clients’ in the food industry. Over the years, Ben has also published two cookbooks and owned various businesses. A doting father to his sons, Ben divides his time between family, work, and cooking.
 <br/></p>
 
@@ -124,11 +124,11 @@ With years of experience in the television and entertainment industry, Ben Yeo i
  Principal Curriculum Specialist
 </p>
    </div>
-       <p><h4 style="padding-top:12px;margin:4px">Profile</h4></p>
-       <p style="margin:4px;">Dr Connie Lum has worked in the early childhood field for over 20 years. She is currently Director, Mother Tongue Languages (NTUC First Campus).  She works closely with principals and teachers in delivering the Chinese curriculum and programmes to children through curriculum writing, training of teachers, evaluating children’s learning environment, and conducting continuous reviews of curriculum tools and techniques. She is a member of the Promote Chinese Language Learning Pre-School Chinese Language Education Support Group.</p>
+       <p><h4 style="padding-top:12px;margin:10px">Profile</h4></p>
+       <p style="margin:10px;">Dr Connie Lum has worked in the early childhood field for over 20 years. She is currently Director, Mother Tongue Languages (NTUC First Campus).  She works closely with principals and teachers in delivering the Chinese curriculum and programmes to children through curriculum writing, training of teachers, evaluating children’s learning environment, and conducting continuous reviews of curriculum tools and techniques. She is a member of the Promote Chinese Language Learning Pre-School Chinese Language Education Support Group.</p>
        <h4 style="padding-top:12px;margin:10px">Multimodal Approaches to Developing Oracy</h4>
   <h4 style="padding-top:12px;margin:10px">Synopsis</h4>  
-       <p style="margin:4px;">Integrating multimodal experiences, coupled with specific learning objectives and age-appropriate activities, are common pedagogies used in early childhood education. In order to even further recognise and support the diverse abilities and interests of our young learners, plentiful opportunities for lively and authentic expression should be integrated into the child’s environment during the early years. Multimodal approaches in developing oracy such as the use of manipulatives in games, finger puppet activities, paired discussion and storytelling activities, as well as the incorporation of movement into music activities which use verbal communication will be explored in the session.
+       <p style="margin:10px;">Integrating multimodal experiences, coupled with specific learning objectives and age-appropriate activities, are common pedagogies used in early childhood education. In order to even further recognise and support the diverse abilities and interests of our young learners, plentiful opportunities for lively and authentic expression should be integrated into the child’s environment during the early years. Multimodal approaches in developing oracy such as the use of manipulatives in games, finger puppet activities, paired discussion and storytelling activities, as well as the incorporation of movement into music activities which use verbal communication will be explored in the session.
 
         
 </p>  
@@ -157,10 +157,10 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 </p>
    </div>
 <h4 style="padding-top:12px;">Profile</h4>
-  <p style="margin:4px;">Dr. Leher Singh is the Associate Professor of Psychology at the National University of Singapore. She also directs the NUS Infant and Child Language Centre. Her research focuses on the impact of bilingualism on language acquisition, social development and cognitive growth in young children.</p>
+  <p style="margin:10px;">Dr. Leher Singh is the Associate Professor of Psychology at the National University of Singapore. She also directs the NUS Infant and Child Language Centre. Her research focuses on the impact of bilingualism on language acquisition, social development and cognitive growth in young children.</p>
 
   <h4 style="padding-top:12px;"> Synopsis</h4>  
-  <p style="margin:4px;">Raising bilingual children opens children up to tremendous opportunities. At the same time, families often experience stress when learning how best to raise children to be bilingual. What works and what doesn't? What does the science say? This sharing session will focus on how bilingualism can impact a child’s development, as well as some of the common challenges that parents face. Research-based strategies will be shared on how to support the development of bilingualism in young children and how parents can overcome the challenges they will face.
+  <p style="margin:10px;">Raising bilingual children opens children up to tremendous opportunities. At the same time, families often experience stress when learning how best to raise children to be bilingual. What works and what doesn't? What does the science say? This sharing session will focus on how bilingualism can impact a child’s development, as well as some of the common challenges that parents face. Research-based strategies will be shared on how to support the development of bilingualism in young children and how parents can overcome the challenges they will face.
 </p>
  </div></div>
 </td>
