@@ -109,7 +109,7 @@ Parents can find out more about the learning opportunities available for the you
 
 </strong></h4>
         <p>
-         Stories are a great way to engage children. Children immerse themselves in the language while enjoying the stories and picking up cultural nuances embedded in them.  In order to support children’s exposure to cultural values through language learning, the Asian Languages and Cultures Academic Group from the National Institute of Education is providing tips and video resources about the process of storytelling. These will give parents a better understanding of how to fully tap storytelling to help their children learn MTL and absorb cultural values in a fun and engaging way at home.
+         Stories are a great way to engage children as they become immersed in the language while enjoying the stories and picking up cultural nuances embedded in them. In order to support children’s exposure to cultural values through language learning, the Asian Languages and Cultures Academic Group from the National Institute of Education is making available video resources and tips about the process of storytelling. These will help parents better understand how to fully tap on storytelling to help their children learn MTL and acquire cultural values in a fun and engaging way at home. 
         </p>
       </div>
 </div>
