@@ -72,7 +72,10 @@ max-width:40%;
   <div class="row">
    <p> <strong> Mr Lawrence Wong
  </strong>
-  <br/> Minister for Education</p>
+  <br/> Minister for Education, Ministry for Education
+    <br/><strong> Ms Sun Xueling </strong><br/>
+    Minister for State, Ministry for Education
+   </p>
     </div>
        
   <h4 style="padding-top:12px;margin:4px">Synopsis</h4>
