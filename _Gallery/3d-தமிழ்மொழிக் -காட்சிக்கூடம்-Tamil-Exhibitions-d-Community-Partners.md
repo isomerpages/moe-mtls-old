@@ -137,6 +137,7 @@ Parents can find out more about the learning opportunities available for the you
         </p>
       </div>
 </div>
+</div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></a>
