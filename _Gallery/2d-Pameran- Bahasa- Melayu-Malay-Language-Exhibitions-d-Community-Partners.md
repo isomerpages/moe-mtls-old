@@ -53,7 +53,10 @@ third_nav_title: 'Pameran Bahasa Melayu'
       <h4 style="padding-top:12px;margin:10px;">Apakah yang Berlaku pada Persekitaran Kita?</h4>
       <p style="margin:10px;">
               Berita Harian (BH), melalui artikeldalam akhbar, akhbar edisi pelajar (Gen G) dan audio siar (podcast) telah menekankan pentingnya menjaga alam sekitar sebagai sebahagian daripada isu pemuliharaan alam. Memandangkan isu ini semakin hangat dibincangkan, BH akan memberikan fokus pada tema tersebut bagi Simposium Bahasa Ibunda pada tahun ini. Tema ini akan dipersembahkan dalam bentuk infografik dan aktiviti sampingan yang menarik. Pelajar akan didedahkan kepada kosa kata baharu untuk membiasakan diri mereka dengan istilah yang digunakan dalam perbincangan tentang isu persekitaran.</p>
-      </div>
+          <h4 style="margin:10px;">What's Happening to our Environment?</h4>
+<p style="margin:10px;">Berita Harian, via its articles, student paper (Gen G) and podcast, has highlighted the importance of taking care of the environment, as part of the national conversation on sustainability. As the environment  becomes increasingly important and relevant in the world today, it is vital that students understand the issue. To do so, they must understand the  language and  terms  used with environmental issues. This is the theme for BH's MTLS programme this year, which will be presented through engaging infographics and other side activities. As students become familiar with the vocabulary and terms used in discussing the environment, their understanding and awareness of environmental issues will also grow.
+</p>
+</div>
 </div>
     </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
