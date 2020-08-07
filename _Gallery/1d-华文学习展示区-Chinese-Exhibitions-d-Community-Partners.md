@@ -103,7 +103,7 @@ CPCLL’s signature programmes and key activities include Xin Kong Xia National 
          基金本着促进终身学习母语的宗旨，支持富创意性及趣味性的活动及项目，推动双语学习。<br />
          今年，基金与理工学院合作，开发了鼓励幼儿及年轻人学习和使用母语的项目。基金也发起了一项“双语，我行！”数码资源征集活动，帮助家长在家辅导孩童学习母语。
         </p>
-          <h4 style-"margin:10px;">Fun with our Mother Tongue Languages</h4>
+          <h4 style="margin:10px;">Fun with our Mother Tongue Languages</h4>
           <p style="margin:10px;">The establishment of the Lee Kuan Yew Fund for Bilingualism (the “Fund”) was announced by Mr Lee Kuan Yew, at the launch of “My Lifelong Challenge: Singapore’s Bilingual Journey” in 2011.<br/>
               The Fund supports creative and engaging approaches that encourage bilingualism and the learning of MTLs as a lifelong endeavour. This year, the Fund has collaborated with the polytechnics to develop resources that encourage the learning of MTLs among pre-school children and young adults. The Fund has also set up a special call for projects to support the learning of MTLs among young children at home.
 
