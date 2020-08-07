@@ -188,8 +188,7 @@ Early intervention is important. Parents are often seeking ways to maximise the 
        <br/>
   <div class="row">
  <div class="column">
-<img src="images/
-ML-Ms-Salina-bte-Saiman-and-Ms-Ganda-Sari-Binte-Chokri.png" style="width:100%">
+<img src="images/ML-Ms-Salina-bte-Saiman-and-Ms-Ganda-Sari-Binte-Chokri.png" style="width:100%">
    </div>
    <p><strong> Ms Salina Bte Saiman &
     <br/> Ms Ganda Sari Chokri </strong>
