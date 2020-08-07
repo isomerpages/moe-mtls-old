@@ -61,8 +61,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 <p style="margin:10px;">The Fund supports creative and engaging approaches that encourage bilingualism and the learning of MTLs as a lifelong endeavour. This year, the Fund has collaborated with the polytechnics to develop resources that encourage the learning of MTLs among pre-school children and young adults. The Fund also launched the Special Call for Projects #IAmBilingualismSG to support the learning of MTLs among young children at home.  
 </p>
       </div>
-      </div>
-</div>
+      
 
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
