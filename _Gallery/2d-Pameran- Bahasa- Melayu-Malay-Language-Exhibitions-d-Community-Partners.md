@@ -175,6 +175,26 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 </td>
 </tr>
 
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-7" type="checkbox" name="tab">
+      <label for="tab-7" class="lbML">Jawatankuasa Pembelajaran dan Penggalakkan Penggunaan<br/> Bahasa Melayu <br/>Malay Language Learning and Promotion<br/> Committee</label>
+      <div class="tab-content">
+       <h4 style="padding-top:12px;margin:10px;">Jawatankuasa Penggalakan dan Penggunaan Bahasa Melayu</h4>
+        <p style="margin:10px;">
+          Mari ikuti pengembaraan Nabil dan Nabilah meneroka sebahagian warisan Melayu merentas zaman melalui pantun dan simpulan bahasa.  Pengalaman Nabil dan Nabilahmenerokai keindahan dan kekayaan budaya dan bahasa masyarakat Melayu ini bertujuan untuk melestari dan meningkatkan penggunaan bahasa Melayu dalam interaksi harian masyarakat Melayu.  Menerusi kedua-dua watak ini, pengunjung akan dapat menyemai rasa minat dan cinta akan bahasa yang diwarisi.
+        </p>
+       <h4 style="margin:10px;">Malay Language Learning and Promotion Committee</h4>
+       <p style="margin:10px;">Come on and join Nabil and Nabilah on their enthralling journey into the Malay heritage world.  Discover the timeless beauty of poems and idioms through Nabil’s and Nabilah’s unique experiences. Visitors can be involved in different activities that  immerse them in the Malay language and where they will experience and interact with both poems and day-to-day idioms.</p>
+       
+  </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+</td>
+</tr>
 
 
 
