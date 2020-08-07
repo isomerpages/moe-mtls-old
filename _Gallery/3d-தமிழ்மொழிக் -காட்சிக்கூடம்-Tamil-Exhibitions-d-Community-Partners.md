@@ -69,6 +69,37 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></a>
 </td>
 </tr>
+
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+      <label for="tab-2" class="lbTM"><br/>(Esplanade)</label>
+      <div class="tab-content">
+          <h4 style="padding-top:12px;margin:10px;"><strong>தேசிய மரபுடைமைக் கழகம்</strong></h4>
+          <p style="margin:10px;font-size:20px;">கலைகள் அனைவரையும் சென்றடையக்கூடிய சிங்கப்பூரின் தேசிய நிகழ்த்துக்கலை நிலையமாக எஸ்ப்ளனேட் - கடலோரக் கலை அரங்கம்திகழ்கிறது. <br/>
+              ஆண்டு முழுவதும்,எஸ்ப்ளனேட்டில் நாங்கள் முன்வைக்கும் கலை வடிவங்களின் மூலம் இளையர்களின் திறமைகளை வெளிப்படுத்தவும் கலைகள் பற்றிய விழிப்புணர்வை அவர்களிடையே உருவாக்கவும்  விரும்புகிறோம். இதன் வாயிலாகச் சிறுவர்களின் படைப்பாற்றல் மற்றும் கற்பனையாற்றலையும் வெளிப்படுத்தும் முயற்சியில் நாங்கள்  வாய்ப்புகளையும் இடவசதிகளையும் வழங்குகிறோம்.<br/>
+சஎஸ்ப்ளனேட் இணையப்பக்கத்தில், குடும்பம் மற்றும் பள்ளிகள் பிரிவில் வழங்கப்பட்டுள்ள வளங்களைப் பயன்படுத்தி மாணவர்கள் பல்வேறு கலை வடிவங்கள்பற்றி அறிந்துகொள்ளலாம். இந்த வளங்கள் மொழியைக் கைவரப்பெற ஊக்குவிப்பதோடு பல்வேறு பண்பாட்டுக் கூறுகளைப் பற்றியும் மரபுகள் குறித்தும் அறிய உதவுகின்றன.
+</p>
+          <h4 style="margin:10px;"><strong>Esplanade – Theatres on the Bay</strong></h4>
+        <p style="margin:10px;">
+          As Singapore’s national performing arts centre, Esplanade ¬– Theatres on the Bay believes in making the arts accessible to everyone.<br/>
+            We want to create an awareness of how Esplanade exposes and educates our young to the performing arts through the different art forms we present at the centre all year round, offering children opportunities and space to express their creativity and imagination.<br/>
+            Students can also learn more about the various art forms online through resources provided on the Family and Schools section on Esplanade Offstage. These resources encourage language acquisition as well as discovery of different cultures and traditions.
+ </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+ <a href="/test/Chinese-poster/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
+</td>
+</tr>
+
+
+
+
+
+
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
@@ -87,8 +118,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 Find out more about language programmes, tips and resources with the Speak Mandarin Campaign, the Malay Language Council, and the Tamil Language Council.
 Learn more about the Heritage Institutions – Indian Heritage Centre, Malay Heritage Centre and Sun Yat Sen Nanyang Memorial Hall, - as well as the NHB’s heritage education initiatives such as Singapore Little Treasures, Heritage Explorer Programme and School Heritage Corners Programme.
 Parents can find out more about the learning opportunities available for the young, while educators can explore opportunities to expand learning beyond the classroom.
-
-        </p>
+ </p>
       </div>
 </div>
 </td>
