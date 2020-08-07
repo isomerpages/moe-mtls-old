@@ -148,7 +148,7 @@ Parents can find out more about the learning opportunities available to the youn
             国立教育学院亚洲语言文化学部为家长提供了学习资源与贴士，希望能够帮助家长通过故事让孩子学习母语及其文化。家长能利用故事，引起孩子们学习母语及母族文化的兴趣，并让他们沉浸在乐趣无穷的学习氛围中。
         </p>
           <h4>The World of Stories – Fun in Language Learning and Values Acquisition</h4>
-          <p style="margin:4px;">Stories are a great way to engage children as they become immersed in the language while enjoying the stories and picking up cultural nuances embedded in them.  In order to support children’s exposure to cultural values through language learning, the Asian Languages and Cultures Academic Group from the National Institute of Education is making available video resources and tips about the process of storytelling. These will help parents better understand how to fully tap on storytelling to help their children learn MTL and acquire cultural values in a fun and engaging way at home.</p>
+          <p style="margin:4px;">Stories are a great way to engage children as they become immersed in the language while enjoying the stories and picking up cultural nuances embedded in them. In order to support children’s exposure to cultural values through language learning, the Asian Languages and Cultures Academic Group from the National Institute of Education is making available video resources and tips about the process of storytelling. These will help parents better understand how to fully tap on storytelling to help their children learn MTL and acquire cultural values in a fun and engaging way at home.</p>
       </div>
 </div>
 </td>
