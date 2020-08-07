@@ -155,6 +155,25 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-6" type="checkbox" name="tab">
+      <label for="tab-6" class="lbML">M Kuasa Tiga (M3) Nee Soon	<br/>M3 @ Nee Soon</label>
+      <div class="tab-content">
+       <h4 style="padding-top:12px;margin:10px;">Kelas Matematika M3@Nee Soon</h4>
+        <p style="margin:10px;">
+          Pameran maya Kelas Matematika bertujuan untuk berkongsi strategi yang boleh diguna pakai oleh ibu bapa yang mempunyai anak-anak kecil berusia antara 4 hingga 7 tahun. Program-program yang dikendalikan oleh M3@Nee Soon ini sesuai dijalankan di rumah. M3@Nee Soon akan berkongsi strategi yang boleh digunakan oleh ibu bapa untuk menerangkan konsep-konsep Matematik dengan menggunakan bahasa Melayu. Melalui klip-klip video yang disediakan, M3@Nee Soon berharap agar ibu bapa dapat menggunakan daya kreativiti mereka untuk menyokong pembelajaran anak-anak di rumah, sekali gus menjadikan ibu bapa lebih aktif dalam pembelajaran anak-anak mereka.
+        </p>
+        <h4 style="margin:10px;">Kelas Matematika M3@Nee Soon</h4>
+       <p style="margin:10px;">The Kelas Matematika Booth would like to share strategies and the programmes at M3@Nee Soon with parents of children aged between 4 to 7 years. Parents can use these strategies and programmes  to clarify mathematical concepts at home, using Malay language as the medium of communication. Our videos will show parents how to become  advocates of creative thinking and active stakeholders in their child’s learning journey.</p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+</td>
+</tr>
 
 
 
