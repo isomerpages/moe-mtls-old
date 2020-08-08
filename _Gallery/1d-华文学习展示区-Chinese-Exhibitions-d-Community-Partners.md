@@ -47,7 +47,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbCh"> <span style="font-size:25px; font-family:KaiTi;">	推广华文学习委员会 </span><br/>Committee to Promote Chinese Language<br/> Learning</label>
+      <label for="tab-1" class="lbCh"> <span style="font-size:25px; font-family:KaiTi;">推广华文学习委员会 </span><br/>Committee to Promote Chinese Language Learning</label>
       <div class="tab-content">
       <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;">推广华文学习委员会</h4>
         <p style="font-family:KaiTi;font-size:21px;margin:10px;">
@@ -140,7 +140,7 @@ Parents can find out more about the learning opportunities available to the youn
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5" class="lbCh"> <span style="font-size:25px; font-family:KaiTi">国立教育学院（亚洲语言文化学部）</span><br/>National Institute of Education (Asian Languages and Cultures Academic<br/> Group)</label>
+      <label for="tab-5" class="lbCh"> <span style="font-size:25px; font-family:KaiTi">国立教育学院（亚洲语言文化学部）</span><br/>National Institute of Education (Asian Languages and Cultures Academic Group)</label>
       <div class="tab-content">
           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">故事天地——乐趣无穷的语言学习和价值传承</h4>
         <p style="font-family:KaiTi;margin:10px;font-size:21px;">
