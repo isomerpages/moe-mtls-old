@@ -140,7 +140,7 @@ Parents can find out more about the learning opportunities available to the youn
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5" class="lbCh"> <span style="font-size:25px; font-family:KaiTi">国立教育学院 <br/>（亚洲语言文化学部）</span><br/>National Institute of Education <br/>(Asian Languages and Cultures Academic<br/> Group)</label>
+      <label for="tab-5" class="lbCh"> <span style="font-size:25px; font-family:KaiTi">国立教育学院（亚洲语言文化学部）</span><br/>National Institute of Education (Asian Languages and Cultures Academic<br/> Group)</label>
       <div class="tab-content">
           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">故事天地——乐趣无穷的语言学习和价值传承</h4>
         <p style="font-family:KaiTi;margin:10px;font-size:21px;">
@@ -200,7 +200,7 @@ Parents can find out more about the learning opportunities available to the youn
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
-      <label for="tab-8" class="lbCh"><span style="font-size:25px; font-family:KaiTi">新加坡宗乡会馆联合总会 </span><br/>Singapore Federation of Chinese <br/>Clan Associations   </label>
+      <label for="tab-8" class="lbCh"><span style="font-size:25px; font-family:KaiTi">新加坡宗乡会馆联合总会 </span><br/>Singapore Federation of Chinese Clan Associations   </label>
       <div class="tab-content">
        <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;">“落地生根，开拓新家园”虚拟展览 </h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">为配合宗乡总会35周年庆主题“温故•传承•创新”，宗乡总会携手推广华文学习委员会，运用虚拟实境技术，将纪念新加坡开埠两百周年推出的“落地生根，开拓新家园”展览发展为线上 360 度全方位虚拟展览，让公众能通过互动的方式了解新加坡的历史、学习华文。</p>
