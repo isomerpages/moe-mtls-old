@@ -72,7 +72,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
             <td style="border:0 none;padding: 0; margin:0;">
                <div class="atab">
                   <input id="tab-2" type="checkbox" name="tab">
-                  <label for="tab-2" class="lbTM">Esplanade - Theatres on the Bay</label>
+                  <label for="tab-2" class="lbTM">எஸ்ப்ளனேட் <br/>Esplanade - Theatres on the Bay</label>
                   <div class="tab-content">
                      <p>
                      <h4 style="padding-top:12px;margin:10px;"><strong>தேசிய மரபுடைமைக் கழகம்</strong></h4>
