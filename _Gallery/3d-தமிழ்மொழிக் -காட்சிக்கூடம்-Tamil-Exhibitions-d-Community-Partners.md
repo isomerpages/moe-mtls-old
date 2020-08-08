@@ -287,6 +287,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
                <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></a>
             </td>
          </tr>
+	 </table>
       <hr>
       <div class="image">
          <img src="images/New_footer.jpg" class="Image" width="1000" height="300">
