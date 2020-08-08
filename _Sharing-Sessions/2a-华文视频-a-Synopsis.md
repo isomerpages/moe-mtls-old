@@ -135,7 +135,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3" class="lbCh"><span style="font-size:25px;font-family:KaiTi">「我把我的中文课本撕毀了!」一位英文教师陪伴女儿<br/>走过的学习中文之路</span><br/><span style="font-size:25px;font-family:KaiTi">胡恩恩</span></label>
+      <label for="tab-3" class="lbCh"><span style="font-size:25px;font-family:KaiTi">「我把我的中文课本撕毀了!」一位英文教师陪伴女儿<br/>走过的学习中文之路<br/> 胡恩恩</span></label>
       <div class="tab-content">      
        <br/>
    <div class="row">
@@ -166,8 +166,8 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4" class="lbCh"><span style="font-size:25px;font-family:KaiTi">2015年小学华文课程简介</span>
-       <br/><span style="font-size:25px;font-family:KaiTi">徐金红 </span>
+      <label for="tab-4" class="lbCh"><span style="font-size:25px;font-family:KaiTi">2015年小学华文课程简介
+       <br/>徐金红 </span>
 </label>
   <div class="tab-content">      
        <br/>
@@ -206,8 +206,8 @@ The speaker will share how the curriculum enables children to learn Chinese in c
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5" class="lbCh"> <span style="font-size:25px;font-family:KaiTi">快乐阅读和讲故事</span>
-   <br/><span style="font-size:25px;font-family:KaiTi">林季华 </span></label>
+      <label for="tab-5" class="lbCh"> <span style="font-size:25px;font-family:KaiTi">快乐阅读和讲故事
+   <br/>林季华 </span></label>
       <div class="tab-content">      
        <br/>
   <div class="row">
@@ -238,8 +238,8 @@ The speaker will share how the curriculum enables children to learn Chinese in c
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
-      <label for="tab-6" class="lbCh"><span style="font-size:25px;font-family:KaiTi">母语学习，赢在起点！</span>
-  <br/><span style="font-size:25px;font-family:KaiTi">李莉</span></label>
+      <label for="tab-6" class="lbCh"><span style="font-size:25px;font-family:KaiTi">母语学习，赢在起点
+  <br/>李莉</span></label>
       <div class="tab-content">      
        <br/>
   <div class="row">
