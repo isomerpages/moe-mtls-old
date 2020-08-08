@@ -98,7 +98,15 @@ Dr Sukuna S. Vijayadevar is a senior lecturer with NIEC-City Campus. She has ser
 
  <p style="margin:10px;"><strong>Ben Yeo </strong><br/>
 With years of experience in the television and entertainment industry, Ben Yeo is a renowned Mediacorp actor and host. Having starred in numerous productions and variety programmes, many may also regard Ben as a celebrity chef. Trained in SHATAC, Ben possesses excellent cooking skills and is well loved by many clients’ in the food industry. Over the years, Ben has also published two cookbooks and owned various businesses. A doting father to his sons, Ben divides his time between family, work, and cooking.
-<br/></p>
+</p><br/>
+
+<h4 style="padding-top:12px;margin:10px">Synopsis</h4>
+<p style="margin:10px;">The environment can have a large impact on the development of a child’s language skills. For children to develop fluency in using their Mother Tongue Language, it is vital they use the language to interact and communicate with others in every environment, be it the home, school or community. This early experience in actively using the language plays a critically role in a child’s language development both socially and psychologically. These early experiences play a critical role in their language development stage socially and physiologically.</p>
+
+<p style="margin:10px;">Language learning is a social process. Numerous research studies have shown that the amount and quality of adult-child engagement are two of the strongest enablers for developing language skills in children. Frequent and regular adult-child engagement during the early years is associated with better language comprehension, the earlier achievement of language milestones and overall faster growth of language skills.</p>
+
+<p style="margin:10px;">Come join us for the panel discussion with our Guest-of-Honour, Mr Lawrence Wong; Moderator, Ms Sun Xueling; and advocators of MTL learning including academics, educators, community partner and celebrity parent. They will discuss the importance of early language development and share useful tips on how we can provide an immersive environment in which our children learn and use our MTLs as living languages.</p>
+
 
  </div></div> </div></td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
