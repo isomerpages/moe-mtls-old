@@ -144,7 +144,7 @@ max-width:40%;
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
       <label for="tab-3" class="lbTM">வாங்க நம் தமிழ்மொழியைக் கற்கலாம்! 
-<br/>Mr Mohan Suppiah & Mr Balajee Harridas</label>
+<br/>Mr Mohan Suppiah & Mr Balajee Haridas</label>
       <div class="tab-content">      
        <br/>
   <div class="row">
@@ -154,7 +154,7 @@ max-width:40%;
    <p><strong>Mr Mohan Suppiah </strong><br/>
     Blangah Rise Primary School <br/>
     Head of Department<br/>
-    <strong>Mr Balajee Harridas </strong><br/>
+    <strong>Mr Balajee Haridas </strong><br/>
     Ministry of Education <br/>
     Curriculum Resource Development Officer, CPDD
    </p>
