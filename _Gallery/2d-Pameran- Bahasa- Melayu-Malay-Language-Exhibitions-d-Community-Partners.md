@@ -158,7 +158,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
-    <label for="tab-6" class="lbML">M Kuasa Tiga (M<sup>3</sup>) Nee Soon	<br/>M3 @ Nee Soon</label>
+    <label for="tab-6" class="lbML">M Kuasa Tiga (M<sup>3</sup>) Nee Soon	<br/>M<sup>3</sup> @ Nee Soon</label>
       <div class="tab-content">
           <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Kelas Matematika M<sup>3</sup> @ Nee Soon</h4>
         <p style="margin:10px;">
