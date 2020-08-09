@@ -5,7 +5,7 @@ breadcrumb: 'English Videos'
 collection_name: Sharing-Sessions
 third_nav_title: 'English Videos'
 ---
-<h2 style="padding-top:12px;margin:10px;color:#72c6e9;"><strong>English Videos</strong></h2>
+<h2 style="padding-top:12px;margin:10px;color:#72c6e9;">English Videos</h2>
 <html>
 <head>
 <style>
@@ -101,7 +101,7 @@ Dr Sukuna S. Vijayadevar is a senior lecturer with NIEC-City Campus. She has ser
 With years of experience in the television and entertainment industry, Ben Yeo is a renowned Mediacorp actor and host. Having starred in numerous productions and variety programmes, many may also regard Ben as a celebrity chef. Trained in SHATAC, Ben possesses excellent cooking skills and is well loved by many clients’ in the food industry. Over the years, Ben has also published two cookbooks and owned various businesses. A doting father to his sons, Ben divides his time between family, work, and cooking.
 </p><br/>
 
-<h4 style="padding-top:12px;margin:10px">Synopsis</h4>
+<h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Synopsis</h4>
 <p style="margin:10px;">The environment can have a large impact on the development of a child’s language skills. For children to develop fluency in using their Mother Tongue Language, it is vital they use the language to interact and communicate with others in every environment, be it the home, school or community. This early experience in actively using the language plays a critically role in a child’s language development both socially and psychologically. These early experiences play a critical role in their language development stage socially and physiologically.</p>
 
 <p style="margin:10px;">Language learning is a social process. Numerous research studies have shown that the amount and quality of adult-child engagement are two of the strongest enablers for developing language skills in children. Frequent and regular adult-child engagement during the early years is associated with better language comprehension, the earlier achievement of language milestones and overall faster growth of language skills.</p>
