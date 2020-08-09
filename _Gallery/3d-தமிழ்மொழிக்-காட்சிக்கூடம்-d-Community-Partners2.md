@@ -1,5 +1,5 @@
 ---
-title: 'சமூகப் பங்காளர்கள்2'
+title: 'சமூகப் பங்காளர்கள்'
 permalink: /Gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-d/Community-Partners2/
 breadcrumb: 'தமிழ்மொழிக் காட்சிக்கூடம்'
 collection_name: Gallery
