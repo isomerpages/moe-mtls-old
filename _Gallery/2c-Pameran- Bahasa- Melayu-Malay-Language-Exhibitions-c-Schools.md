@@ -90,27 +90,6 @@ Soalan-soalan rangsangan (menggunakan Roda Penaakulan Paul) disertakan dalam Unj
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbML">	Sekolah Rendah Bendemeer<br/>Bendemeer Primary School</label>
-      <div class="tab-content">
-       <h4 style="padding-top:12px;margin:10px;">Jejak Bahasa dan Budaya Melayu berasaskan ICT</h4>
-        <p style="margin:10px;">
-         Jejak Bahasa dan Budaya Melayu berasaskan ICT yang dijalankan di Sekolah Rendah Bendemeer menyediakan wadah bagi murid-murid untuk memupuk minat terhadap bahasa dan budaya Melayu. Ini dijalankan melalui stesen-stesen pembelajaran autentik yang diterapkan dengan penggunaan ICT bagi meningkatkan pelibatan dan menyeronokkan pembelajaran. Murid-murid berpeluang untuk menggunakan pancaindera mereka ketika berada di stesen-stesen yang terletak di kawasan sekolah apabila mereka meneroka, belajar dan bermain melalui item-item yang disediakan. Peranan ICT melalui penggunaan iPad dan Google Sites memberikan peluang kepada murid-murid melakukan pembelajaran secara virtual. Lantas, ini mewujudkan sebuah pembelajaran yang lebih holistik.
-  </p><br/>
-       <h4 style="margin:10px;">Malay Language & Cultural ICT Trail</h4>
-        <p style="margin:10px;">
-          The Malay Language & Cultural ICT Trail in Bendemeer Primary School provides the students with a platform to cultivate their passion for the Malay language and culture via authentic learning stations enhanced with ICT to make learning more engaging and joyful. As each station is located around the school, students are taken on an adventure to activate their senses as they explore, learn and play using the interesting elements provided. The ready availability  of ICT through iPads and Google Sites allows students to learn virtually while creating a more holistic learning experience.
-        </p>
-      </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
-</td>
-</tr>
-<tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
       <label for="tab-3" class="lbML">Sekolah Sains dan Teknologi <br/>School of Science and Technology</label>
       <div class="tab-content">
