@@ -163,7 +163,8 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 <img src="images/EL-Dr-Leher-Singh.png" style="width:100%">
    </div>
    <p> <strong>A/P Leher Singh </strong>
-    <br/> National University of Singapore
+    <br/> National University of Singapore<br/>
+    Director of Research
 </p>
    </div>
 <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4></p>
