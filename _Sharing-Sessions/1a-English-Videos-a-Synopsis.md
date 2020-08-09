@@ -1,5 +1,5 @@
 ---
-title: 'Synopsis'
+title: 'Profile and Synopsis'
 permalink: /Exhibition/English-Videos/Synopsis/
 breadcrumb: 'English Videos'
 collection_name: Sharing-Sessions
@@ -70,15 +70,17 @@ max-width:40%;
 </label>
       <div class="tab-content"><br/>
   <div class="row">
-   <p> <strong> Mr Lawrence Wong
- </strong>
-  <br/> Minister for Education, Ministry for Education
-    <br/><strong> Ms Sun Xueling </strong><br/>
-    Minister for State, Ministry for Education
+   <p><strong> Ms Sun Xueling </strong><br/>
+    Moderator<br/>
+    Minister of State, Ministry of Education
    </p>
     </div>
        
-  <h4 style="padding-top:12px;margin:10px">Synopsis</h4>
+  <h4 style="padding-top:12px;margin:10px">Profile</h4>
+  
+  <p style="margin:10px;"><strong>Mr Lawrence Wong  </strong><br/>
+ Minister for Education, Ministry of Education
+</p><br/>
        
   <p style="margin:10px;"><strong>A/P Mukhlis Abu Bakar  </strong><br/>
 Dr Mukhlis Abu Bakar is Associate Professor and Assistant Head/Malay at the Asian Languages and Cultures Academic Group of the National Institute of Education,Nanyang Technological University. Trained as an applied linguist, he teaches in the area of grammar, linguistics, discourse, bilingualism and literacy. His current research interests lie in the field of childhood bilingualism and biliteracy, and a sociocultural approach to literacy learning in the home, school and faith settings.
