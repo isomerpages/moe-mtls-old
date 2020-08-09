@@ -90,7 +90,7 @@ Miss Kamilah has been teaching in the preschool sector for 6 years. She was insp
 </p><br/>
 
  <p style="margin:10px;"><strong>Dr Sukuna S.Vijayadevar </strong><br/>
-Dr Sukuna S. Vijayadevar is a senior lecturer with NIEC-City Campus. She has served for many years training and developing on-going professional development for practitioners in early childhood education. Her areas of interest in early childhood include teaching language and literacy, inclusive education and leadership in ECE. Dr Sukuna has also conducted talks and workshops for teachers about teaching Tamil language in preschools. Her workshops for both early childhood and primary school teachers on story-telling and creation of big books in Tamil have always been well received. 
+Dr Sukuna S. Vijayadevar is a senior lecturer with NIEC-City Campus. She has served for many years training and developing on-going professional development for practitioners in early childhood education. Her areas of interest in early childhood include teaching language and literacy, inclusive education and leadership in ECE. Dr Sukuna has also conducted talks and workshops for teachers about teaching Tamil Language in preschools. Her workshops for both early childhood and primary school teachers on story-telling and creation of big books in Tamil have always been well received. 
 </p><br/>
 
  <p style="margin:10px;"><strong> Danny Yeo </strong>
