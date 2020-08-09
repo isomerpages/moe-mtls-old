@@ -82,7 +82,7 @@ max-width:40%;
    </div>
    <p> <strong> Ms Elakeyaa Selvaraji</strong>
   <br/>Ministry of Manpower
- <br/>Senior Manager, MO</p>
+ <br/>Senior Manager</p>
    </div>
          <h4 style="margin:10px;">தன்விவரம்</h4>
        <p  style="margin:10px;"> திருமதி &nbsp; இலக்கியா &nbsp; செல்வராஜி, &nbsp; மனிதவள &nbsp; அமைச்சில் &nbsp; தற்போது &nbsp; மூத்த &nbsp; மேலாளராக &nbsp; பணியாற்றிவருகிறார். &nbsp; இதற்கு &nbsp; முன்னதாக, &nbsp; மீடியகார்ப் &nbsp; நிறுவனத்தில் &nbsp; தமிழ் &nbsp; மற்றும் &nbsp; ஆங்கிலச் &nbsp; செய்திப் &nbsp; பிரிவுகளில் &nbsp; மூத்த &nbsp; நிருபராகவும் &nbsp; செய்திப் &nbsp; படைப்பாளராகவும் &nbsp; ஏழு &nbsp; ஆண்டுகள் &nbsp; பணியாற்றியுள்ளார். &nbsp; பல &nbsp; விருதுகளை &nbsp; வென்றிருக்கும்  &nbsp; திருமதி &nbsp; இலக்கியா, &nbsp; சிறந்த &nbsp; தகவல் &nbsp; தொடர்பு &nbsp; நிகழ்ச்சிக்கான &nbsp; படைப்பாளர் &nbsp; மற்றும் &nbsp; சிறந்த &nbsp; இளைய &nbsp; நிருபருக்கான &nbsp; பாராட்டுகளையும் &nbsp; பெற்றுள்ளார். &nbsp; இரண்டு &nbsp; பிள்ளைகளுக்குத் &nbsp; தாயாரான &nbsp; திருமதி &nbsp; இலக்கியா, &nbsp; இளம் &nbsp; வயதில் &nbsp; பிள்ளைகளுக்குத் &nbsp; தமிழ்மொழி &nbsp; ஆர்வத்தை &nbsp; எப்படி &nbsp; ஏற்படுத்துவது &nbsp; என்பது &nbsp; பற்றி &nbsp; அவ்வப்போது &nbsp; பகிர்வுகளில் பேசிவருகிறார்; &nbsp; அவற்றில் &nbsp; பற்பல &nbsp; உத்திகளையும் &nbsp;பகிர்ந்துவருகிறார்.</p><br/>
