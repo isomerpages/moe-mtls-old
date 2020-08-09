@@ -65,7 +65,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbCh"><span style="font-size:22px;font-family:KaiTi">儿童母语及双语文发展的原则和策略 </span><br/> [12.30pm – 1.30pm]<br/> 
+      <label for="tab-1" class="lbCh"><span style="font-size:22px;font-family:KaiTi">儿童母语及双语文发展的原则和策略 </span><br/> [Livestreaming on 29 August from 12.30pm to 1.30pm]<br/> 
        <span style="font-size:22px;font-family:KaiTi">王周淑涵博士</span>
 </label>
       <div class="tab-content">
@@ -103,7 +103,7 @@ To cultivate students who flourish in our MTL Wonderland, we should not approach
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2" class="lbCh"><span style="font-size:22px;font-family:KaiTi"> 润物细无声: 如何在家中营造有利于母语发展的语言环境</span><br/>
-[2.00pm – 3.00pm]<br/> <span style="font-size:22px;font-family:KaiTi">孙宝琦博士</span>
+[Livestreaming on 29 August from 2.00pm to 3.00pm]<br/> <span style="font-size:22px;font-family:KaiTi">孙宝琦博士</span>
 </label>
       <div class="tab-content">      
        <br/>
