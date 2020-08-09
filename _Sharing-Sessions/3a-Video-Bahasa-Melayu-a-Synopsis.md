@@ -180,7 +180,7 @@ Early intervention is important. Parents are often seeking ways to maximise the 
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
       <label for="tab-4"  class="lbML">Pembaca yang Berfikir dalam Dunia Digital
-<br/> Mr Salina Bte Saiman & Ms Ganda Sari Chokri
+<br/> Ms Salina Bte Saiman & Ms Ganda Sari Chokri
 </label>
       <div class="tab-content">      
        <br/>
