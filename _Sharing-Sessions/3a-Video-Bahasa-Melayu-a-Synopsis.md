@@ -190,9 +190,10 @@ Early intervention is important. Parents are often seeking ways to maximise the 
    </div>
    <p><strong> Ms Salina Bte Saiman</strong><br/>
     Ministry of Education<br/>
-    Mother Tongue Languages Branch, Curriculum Planning and Development Division <br/>
+    Senior Specialist, CPDD <br/>
 <strong>Ms Ganda Sari Chokri </strong><br/>
-Sembawang Primary School
+Sembawang Primary School<br/>
+Subject Head
 </p>
    </div>
       <h4 style="margin:10px;"> Profil </h4>  
