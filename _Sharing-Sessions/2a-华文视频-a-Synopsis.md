@@ -158,7 +158,7 @@ As home parenting and home-based learning become the new normal, parents are spe
         Dr. Woo Yen Yen is an entrepreneur, award-winning multimedia creator, and professor of education with a passion for culture hacking. She is the CEO of Yumcha Studios and the co-creator of the Dim Sum Warriors comics and bilingual learning system. She also holds a Doctorate in Curriculum Studies from Teachers College, Columbia University and was formerly Associate Professor of Education at Long Island University, New York, and Visiting Professor at Taiwan’s National Central University. She now lives in Taipei with her husband and daughter.</p><br/>
        
  <h4 style="margin:10px;"> Synopsis</h4> 
- <p style="margin:10px;"><strong>“I TORE UP MY CHINESE BOOK!”</strong> An English teacher’s journey towards getting her daughter to learn Chinese.<br/>
+ <p style="margin:10px;"><strong>“I TORE UP MY CHINESE BOOK!” An English teacher’s journey towards getting her daughter to learn Chinese.</strong><br/>
 Dr. Woo Yen Yen, former New York-based professor and English teacher, went from being a student who ripped up her Chinese textbook to one who writes Chinese comics. She has also created a giant musical that toured 25 cities in China. In this sharing, she will share her journey and valuable tips for getting her American-born daughter who had no Chinese background, to thrive in an all-Chinese instruction Taiwanese public school.</p>
  </div></div>
 </td>
