@@ -113,7 +113,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4" class="lbTM">	ஊட்லண்ட்ஸ் உயர்நிலைப்பள்ளி<br/>Woodlands Secondary School</label>
+      <label for="tab-4" class="lbTM">உட்லண்ட்ஸ் உயர்நிலைப்பள்ளி<br/>Woodlands Secondary School</label>
       <div class="tab-content">
        <h4 style="padding-top:12px;margin:10px;"><strong>ஆற்றல்மிகு ஒளிக்காட்சிகள்வழிப் படைப்பாக்க <br/>
 உரையாடல்</strong></h4>
