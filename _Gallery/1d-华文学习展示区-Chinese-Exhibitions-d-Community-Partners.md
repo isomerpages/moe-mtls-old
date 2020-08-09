@@ -222,7 +222,7 @@ Parents can find out more about the learning opportunities available to the youn
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">新加坡野生动物保育集团呈现“野生动物学习乐园”，为学前与小学的母语教学提供不一样的线上教室。集团精心设计了多种资源，包括动物视频和大熊猫有声图书，让教师或家长和孩子在游园前后，通过在线活动认识野生动物，乐学母语。集团也为小学华文教师设计了关于偏旁部首的主题活动，引导学生探索学习动物名称的偏旁部首，进而认识到日常生活中的其他偏旁部首，为学习华文增添意义与乐趣。</p><br/>
           <h4 style="margin:10px;">Animal Wonderland </h4>
         <p style="margin:10px;">
-        Animal Wonderland by Wildlife Reserves Singapore presents a living classroom for all three Mother Tongue Languages (MTLs) targeted at both pre and primary schools. Explore pre-visit, in-park and post-visit animal-inspired lesson ideas that motivate children to use MTLs in their daily lives. You will find e-teaching aids to help build an extensive word bank for pre-schoolers. Audio story books featuring the giant pandas ,Kai Kai and Jia Jia, are now available in [CL/ML/TL]. Primary school students can embark on an e-trail for titles in their respective MTL, where they get to practise the language and acquire higher order thinking skills.
+        Animal Wonderland by Wildlife Reserves Singapore presents a living classroom for all three Mother Tongue Languages (MTLs) targeted at both pre and primary schools. Explore pre-visit, in-park and post-visit animal-inspired lesson ideas that motivate children to use MTLs in their daily lives. You will find e-teaching aids to help build an extensive word bank for pre-schoolers. Audio story books featuring the giant pandas ,Kai Kai and Jia Jia, are now available in [CL]. Primary school students can embark on an e-trail for titles in their respective MTL, where they get to practise the language and acquire higher order thinking skills.
         </p>
       </div>
 </div>
