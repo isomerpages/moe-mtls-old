@@ -78,7 +78,7 @@ Kurikulum Bahasa Ibunda bertujuan untuk membentuk anak-anak kita menjadi penggun
 Kurikulum ini juga bertujuan membentuk kemahiran berfikir aras tinggi dan mendedahkan para pelajar kita kepada pelbagai bahan sastera dan teks yang autentik. Hal ini akan menjadikan Bahasa Ibunda bahasa yang hidup dan bermakna dalam kehidupan anak-anak kita. 
 <br/><br/>
  Maklumat yang dipaparkan dalam Kurikulum Bahasa Ibunda MOE bertujuan untuk memberikan pemahaman kepada  ibu bapa dan pendidik tentang pelbagai peluang pembelajaran Bahasa Ibunda bermula dari peringkat prasekolah, sekolah rendah, sekolah menengah hingga ke peringkat prauniversiti. Beberapa panduan dan idea telah disediakan bagi ibu bapa dan pendidik menyokong pembelajaran Bahasa Ibunda yang menyeronokkan untuk anak-anak kita.
-</p><br/>
+ </p>
 
 <h4 style="padding-top:12px;color:#a3c864;">Nurturing Active Learners and Proficient Users</h4>
   <div style="margin-top:auto;margin-bottom:auto;text-align:left;">
