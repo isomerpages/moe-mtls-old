@@ -78,8 +78,14 @@ Kurikulum Bahasa Ibunda bertujuan untuk membentuk anak-anak kita menjadi penggun
 Kurikulum ini juga bertujuan membentuk kemahiran berfikir aras tinggi dan mendedahkan para pelajar kita kepada pelbagai bahan sastera dan teks yang autentik. Hal ini akan menjadikan Bahasa Ibunda bahasa yang hidup dan bermakna dalam kehidupan anak-anak kita. 
 <br/><br/>
  Maklumat yang dipaparkan dalam Kurikulum Bahasa Ibunda MOE bertujuan untuk memberikan pemahaman kepada  ibu bapa dan pendidik tentang pelbagai peluang pembelajaran Bahasa Ibunda bermula dari peringkat prasekolah, sekolah rendah, sekolah menengah hingga ke peringkat prauniversiti. Beberapa panduan dan idea telah disediakan bagi ibu bapa dan pendidik menyokong pembelajaran Bahasa Ibunda yang menyeronokkan untuk anak-anak kita.
-<br/>
-</p></div> 
- 
+</p><br/>
+
+<h4><strong>Nurturing Active Learners and Proficient Users </strong></h4>
+  <div style="margin-top:auto;margin-bottom:auto;text-align:left;">
+<p>The key purpose of MTL education is to equip our young with effective communication skills and to create a greater awareness and appreciation of our culture and values, which in turn enables our young to have the confidence to connect with similar language communities across Asia and the world. <br/><br/>
+ The MTL curriculum aims to develop our young to be proficient language users who have strong foundational language and literacy skills. It leverages on students’ written and interpersonal communication skills with real-life contexts through fundamental language skills such as listening, speaking and reading. The infusion of ICT, CCE and SEL into the curriculum further enhances the learning and exposes our young to understand the culture and values woven into the curriculum. The curriculum also aims to develop higher order thinking skills and expose students to a wide variety of literary and authentic texts. This is intended to make MTL a living language that enables our young to lead purposeful lives. <br/><br/>
+ The information featured in our e-MTLS MOE MTL curriculum aims to provide parents and educators with an understanding ofthe different opportunities for MTL learning beginning from Pre-school through Primary, Secondary and Pre-University. There will also be tips for parents and educators to gain insights and ideas to bring the joy of learning MTL to our young and to better support them in this journey.</p>
+ <br/>
+
  <img src="images/New_footer.jpg" class="Image" width="1000" height="300">
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
