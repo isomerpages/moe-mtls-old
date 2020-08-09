@@ -6,7 +6,7 @@ collection_name: Gallery
 third_nav_title: 'Pameran Bahasa Melayu'
 ---
 
-<h2 style="padding-top:12px;margin:10px;color:#a3c864;">Rakan Kerjasama Masyarakat</h2>
+<h2 style="padding-top:12px;margin:4px;color:#a3c864;">Rakan Kerjasama Masyarakat</h2>
 <html>
 <head>
 <style>
