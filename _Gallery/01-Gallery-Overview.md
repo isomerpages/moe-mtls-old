@@ -34,8 +34,8 @@ collection_name: Gallery
 <tr>
  <td><h4>Malay</h4>
 <div>
-   <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/"><div style="display:inline-block;" class="btn"><img src="/images/moecurriculumbtn.png"></div></a>
-  <a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-b/preschool/"><div style="display:inline-block;" class="btn"><img src="#/images/preSchoolbtn.png"></div></a>
+   <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/"><div style="display:inline-block;" class="btn"><img src="#/images/moecurriculumbtn.png"></div></a>
+  <a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-b/preschool/"><div style="display:inline-block;" class="btn"><img src="/images/preSchoolbtn.png"></div></a>
   <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-c/schools/"><div style="display:inline-block;" class="btn"><img src="/images/schoolbtn.png"></div></a>
   <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-d/community-partners/"><div style="display:inline-block;" class="btn"><img src="/images/communitypartnerbtn.png"></div></a><br/><br/>
 </div>
