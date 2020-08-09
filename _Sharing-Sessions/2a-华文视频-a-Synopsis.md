@@ -253,7 +253,9 @@ Cultivating good reading habits and developing an interest in reading for young 
  <div class="column">
 <img src="images/CL-Ms-Li-Li.png" style="width:100%">
    </div>
-   <p><strong> Ms Li Li </strong></p>
+   <p><strong> Ms Li Li </strong><br/>
+   Creative O Preschoolers’ Bay<br/>
+Senior Chinese Language Teacher</p>
    </div>
      
 <h4 style="font-size:30px;font-family:KaiTi;margin:10px;">介绍</h4>   
@@ -262,10 +264,10 @@ Cultivating good reading habits and developing an interest in reading for young 
        <p style="font-size:21px;font-family:KaiTi;margin:10px;">幼儿期是语言学习的关键期，良好的母语能力奠定终生学习的基础。主讲员将探讨为什么母语学习要赢在起点，以及怎样让母语学习赢在起点？这次的分享也包括家长和教师在家和在学校里可实施的一些母语学习方法和策略，以及如何让幼儿在愉快、自然的日常环境中，轻松掌握说读写语言技能，并撒下热爱母语学习的种子。</p><br/>
 <h4 style="margin:10px;">Profile</h4>
        <p style="margin:10px;">
- Ms Li Li has 24 years of pre-school teaching experience.  She was a Senior Chinese Language Teacher at Creative O Preschools’ Bay for 15 years, during which she pioneered a comprehensive curriculum to promote Chinese reading among pre-schoolers. With 6 years’ experience in the Professional Development of pre-school Chinese Language teachers, she is currently a trainer at the National Institute of Early Childhood Development (NIEC), a part-time lecturer at Singapore University of Social Sciences (SUSS) and is still passionately coaching pre-school teachers in Creative O Foundation.  She is also a regular speaker and trainer at conferences and workshops, including the International Conference on Teaching and Learning of Chinese as a Second Language. </p><br/>
+ Ms Li Li has 24 years of pre-school teaching experience.  She was a Senior Chinese Language Teacher at Creative O Preschoolers’ Bay for 15 years, during which she pioneered a comprehensive curriculum to promote Chinese reading among pre-schoolers. With 6 years’ experience in the Professional Development of pre-school Chinese Language teachers, she is currently a trainer at the National Institute of Early Childhood Development (NIEC), a part-time lecturer at Singapore University of Social Sciences (SUSS) and is still passionately coaching pre-school teachers in Creative O Foundation.  She is also a regular speaker and trainer at conferences and workshops, including the International Conference on Teaching and Learning of Chinese as a Second Language. </p><br/>
        <h4 style="margin:10px;">Synopsis</h4>
        <p style="margin:10px;"><strong>  Giving Your Child a Head Start in Learning Mother Tongue Languages! </strong><br/>
-Language development in early childhood is crucial toacquiring sound foundational knowledge, skills and dispositions in one’s Mother Tongue Language (MTL) thatwill facilitate children’s learning in later years.  The importance of learning Chinese in the early years and the use of strategies to provide children with  a head start will be explored in this session. Factors that influence children’s language and literacy, along with the sharing of relevant language activities and tips on enhancing children’s learning in Chinese will also be shared.</p>
+Language development in early childhood is crucial toacquiring sound foundational knowledge, skills and dispositions in one’s Mother Tongue Language (MTL) that will facilitate children’s learning in later years.  The importance of learning Chinese in the early years and the use of strategies to provide children with a head start will be explored in this session. Factors that influence children’s language and literacy, along with the sharing of relevant language activities and tips on enhancing children’s learning in Chinese will also be shared.</p>
        </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
