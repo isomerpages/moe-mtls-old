@@ -121,7 +121,7 @@ Kajian neurosains telah membuktikan bahawa pembelajaran akan berhenti apabila ke
 <br/>
 Manager, Education</p>
  </div>
-             <h4 style="margin:10px;"> Profil</h4>   
+             <h4 style="margin:10px;">Profil</h4>   
        <p style="margin:10px;">Encik Haniman Boniran ialah Pengurus Pendidikan di Wildlife Reserves Singapore (WRS). Minat beliau dalam pendidikan alam berputik semasa menjadi sukarelawan di Taman Haiwan Singapura pada tahun 2001. Sejak sedekad yang lalu, beliau menceburi bidang pendidikan yang merangkumi pendidikan awal kanak-kanak, pendidikan bahasa Melayu dan pengendalian bengkel bahasa Melayu untuk guru prasekolah sebagai sebahagian daripada pembelajaran pengalaman autentik yang ditawarkan di WRS. Beliau juga bekerjasama dengan para pendidik untuk menghasilkan strategi-strategi pengajaran yangbaik bagi memperkukuh penggunaan bahasa Melayu dalam kalangan masyarakat muda Singapura. Encik Haniman yang gemar berinteraksi bersama ibu bapa dan masyarakat juga telah diiktiraf sebagai seorang pendidik bagi orang dewasa oleh Institut Pembelajaran Dewasa (IAL).</p><br/>
          <h4 style="margin:10px;"> Sinopsis</h4>  
        <p  style="margin:10px;"><strong>Didik Hibur: Ayuh, Teroka Taman Haiwan Singapura…Melalui Alam Siber!</strong><br/>
@@ -133,7 +133,7 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
  <h4 style="margin:10px;"> Profile</h4>   
        <p style="margin:4px;">Mr Haniman Boniran is an Education Manager with Wildlife Reserves Singapore (WRS). He is a certified Institute of Adult Learning adult educator who enjoys interacting with parents and partners from the community.  His involvement in environmental education started when he was a school volunteer at the Singapore Zoo in 2001.  Over the last decade, he has branched into early childhood education, language-based education and teacher training through developingthe  authentic learning experiences offered at WRS. Mr Haniman has conducted workshops, co-created resources and organised in-park educational programmes for teachers and students while partnering with schools and language-based practitioners.</p><br/>
   <h4 style="margin:10px;"> Synopsis</h4>  
-       <p style="margin:10px;"><strong>Let’s explore Singapore Zoo...through cyberspace!</strong><br/>
+       <p style="margin:10px;"><strong>Let’s Explore Singapore Zoo... through cyberspace!</strong><br/>
        With the advent of technology, the learning of mother tongue languages can be enhanced by blended learning strategies that are both fun and simple. This webinar aims to share animal-inspired teaching strategies to enhance literacy in the Malay language. Participants will be taken virtually into the immersive environment of Singapore Zoo to meet our animal ambassadors. Using photographs, videos and audiobooks specially curated by Singapore Zoo, we will tap on children’s interest in animals and their sense of curiosity through loose parts play, creative expressions and thinking routines. The child-centric activities covered in this webinar are applicable  at home, in the classroom and outdoors. These authentic learning opportunities  include speaking, listening and responding in the Malay language and featuresof the ECDA and MOE’sMother Tongue Language Frameworks.</p>
 </div></div>
 </td>
@@ -167,7 +167,7 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
        <p style="margin:10px;">Associate Professor Mariam Aljunied is the Principal Educational Psychologist in MOE. Concurrently, she is an adjunct associate professor at the Department of Psychology in NUS, and Research Associate with University College London’s Department of Psychology and Language Sciences. With more than 25 years as a Chartered Educational Psychologist, A/P Mariam has deep expertise and is experienced in many aspects of child development.  <br/>
        She has led several important research studies in the areas of educational and child development, and is also actively involved in efforts to build the capacity of educators, psychologists and parents in the areas of child psychology and special education.</p><br/>
   <h4 style="margin:10px;"> Synopsis</h4>  
-       <p style="margin:10px;"><strong>Children’s neuro-psychological development: myths and facts   </strong><br/>
+       <p style="margin:10px;"><strong>Children’s Neuro-psychological Development: Myths and Facts   </strong><br/>
 Early intervention is important. Parents are often seeking ways to maximise the learning and developmental potential of their children. Over these last few decades, neuro-psychological research hasestablished several important facts about the cognitive development of young children. However, myths and misconceptions regarding brain development still persist. In this talk, A/P Mariam Aljunied will help dispel these myths and clarify the facts about children’s neuro-psychological development. She will provide insights on the cognitive effects of growing up bilingual, and in particular, why the learning of two or more languages can enhance cognition. Several tips for parents will be shared as to what they can do to facilitate and enhance children’s language and communication abilities, as well as what parents should do if children show early warning signs of language and communication difficulties.</p>
 </div></div>
 </td>
@@ -243,7 +243,7 @@ Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal b
        <p style="margin:10px;">Mdm Hazliana is a full time working mother to three young children. An educator at heart, with more than a decade worth of teaching experience, her passion to teach transcends the classroom as she strives to help other young families create a literacy rich environment at home. Known to the Instagram community as happyintheeast, she shares her interest in children’s literature and early language development with her followers worldwide through book recommendations, and various practical home-based learning ideas. Mdm Hazliana believes that parents, who are the first teachers to their children, play a crucial role in a child learning process.
 </p><br/>
    <h4 style="margin:10px;"> Synopsis</h4>  
-       <p style="margin:10px;"><strong>Parents and their involvement in supporting early literacy at home</strong><br/>
+       <p style="margin:10px;"><strong>Parents and their Involvement in Supporting Early Literacy at Home</strong><br/>
        Home is the first school, and parents are the first teachers. Parental involvement helps to extend teaching outside of the classroom. This in turn helps to create a more positive experience for children and helps them to perform better when they are in school. As such, it is essential for parents to support the learning that happens in pre-school settings at home. Through this session, participants will gain insight on how to create a literacy-rich home environment as they explore fun and practical strategies to promote a love for the Malay language.
 </p>
         </div></div>
