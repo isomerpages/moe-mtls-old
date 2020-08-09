@@ -199,7 +199,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
-      <label for="tab-8" class="lbML">   Wildlife Reserves Singapore</label>
+      <label for="tab-8" class="lbML">Wildlife Reserves Singapore</label>
       <div class="tab-content">
        <h4 style="padding-top:12px;margin:10px;">Keajaiban Alam Haiwan</h4>
         <p style="margin:10px;">
@@ -221,13 +221,13 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
       <label for="tab-9" class="lbML">Esplanade - Teater di Persisiran<br/>Esplanade - Theatres on the Bay</label>
       <div class="tab-content">
        <h4 style="padding-top:12px;margin:10px;">Esplanade- Teater di Persisiran</h4>
-       <p style="margin:10px;">Sebagai pusat persembahan seni kebangsaan Singapura, Esplanade – Teater di Persisiran ingin memastikan setiap lapisan masyarakat berpeluang untuk menikmati karya seni.<br/>
-Esplanade ingin mewujudkan kesedaran tentang cara mereka mendidik  dan memberikan pendedahan kepada  golongan muda mengenai seni persembahan melalui pelbagai bentuk seni yang ditampilkan Esplanade pada sepanjang tahun. Dengan cara ini, Esplanade memberikan peluang dan ruang kepada anak-anak muda untuk mengekspresikan kreativiti dan imaginasi mereka.<br/><br/>
-Para pelajar juga berpeluang untuk mengetahui lebih lanjut mengenai beraneka bentuk seni secara dalam talian menerusi bahan-bahan yang disediakan dalam bahagian Keluarga dan Sekolah di Esplanade Offstage. Bahan pengajaran ini telah dicipta untuk menggalakkan pemerolehan bahasa dalam kalangan anak-anak muda agar mereka mengenali budaya dan tradisi yang berbeza dengan lebih mendalam.  </p>
+       <p style="margin:10px;">Sebagai pusat persembahan seni kebangsaan Singapura, Esplanade – Teater di Persisiran ingin memastikan setiap lapisan masyarakat berpeluang untuk menikmati karya seni.</p>
+<p style="margin:10px;">Esplanade ingin mewujudkan kesedaran tentang cara mereka mendidik  dan memberikan pendedahan kepada  golongan muda mengenai seni persembahan melalui pelbagai bentuk seni yang ditampilkan Esplanade pada sepanjang tahun. Dengan cara ini, Esplanade memberikan peluang dan ruang kepada anak-anak muda untuk mengekspresikan kreativiti dan imaginasi mereka.</p>
+<p style="margin:10px;">Para pelajar juga berpeluang untuk mengetahui lebih lanjut mengenai beraneka bentuk seni secara dalam talian menerusi bahan-bahan yang disediakan dalam bahagian Keluarga dan Sekolah di Esplanade Offstage. Bahan pengajaran ini telah dicipta untuk menggalakkan pemerolehan bahasa dalam kalangan anak-anak muda agar mereka mengenali budaya dan tradisi yang berbeza dengan lebih mendalam.  </p><br/>
        <h4 style="margin:10px;">Esplanade – Theatres on the Bay</h4>
        <p style="margin:10px;">As Singapore’s national performing arts centre, Esplanade – Theatres on the Bay believes in making the arts accessible to everyone.<br/>
-       We want to create an awareness of how Esplanade exposes and educates our young to the performing arts through the different art forms we present at the centre all year round, offering children opportunities and space to express their creativity and imagination. <br/>
-       Students can also learn more about the various art forms online through resources provided on the Family and Schools section on Esplanade Offstage. These resources encourage language acquisition as well as discovery of different cultures and traditions.</p>
+       We want to create an awareness of how Esplanade exposes and educates our young to the performing arts through the different art forms we present at the centre all year round, offering children opportunities and space to express their creativity and imagination. </p>
+       <p style="margin:10px;">Students can also learn more about the various art forms online through resources provided on the Family and Schools section on Esplanade Offstage. These resources encourage language acquisition as well as discovery of different cultures and traditions.</p>
 </div>
 </div>
 </td>
