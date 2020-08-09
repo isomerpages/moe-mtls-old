@@ -1,12 +1,12 @@
 ---
-title: 'தமிழ்மொழிக் காட்சிக்கூடம் (MOE Curriculum)'
+title: 'தமிழ்மொழிக் காட்சிக்கூடம்'
 permalink: /Gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-Tamil-Exhibitions-a/Moe-Curriculum/
 breadcrumb: '	தமிழ்மொழிக் -காட்சிக்கூடம்-Tamil-Exhibitions'
 collection_name: Gallery
 third_nav_title: 'தமிழ்மொழிக் காட்சிக்கூடம்'
 ---
 
-## கல்வி அமைச்சின் பாடக்கலைத்திட்டம் (MOE Curriculum)
+## கல்வி அமைச்சின் பாடக்கலைத்திட்டம்
 <html>
 <body>
 <style>
