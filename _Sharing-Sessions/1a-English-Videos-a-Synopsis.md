@@ -70,8 +70,8 @@ max-width:40%;
 </label>
       <div class="tab-content"><br/>
   <div class="row">
-   h4 style="padding-top:12px;margin:10px">Moderator</h4>
-   <p style="margin:10px;"><strong> Ms Sun Xueling </strong><br/>
+   <h4 style="padding-top:12px;margin:10px">Moderator</h4>
+   <p style="margin:10px;"><strong>Ms Sun Xueling </strong><br/>
     Minister of State, Ministry of Education
    </p>
     </div>
@@ -171,7 +171,8 @@ With years of experience in the television and entertainment industry, Ben Yeo i
   <p style="margin:10px;">Dr. Leher Singh is the Associate Professor of Psychology at the National University of Singapore. She also directs the NUS Infant and Child Language Centre. Her research focuses on the impact of bilingualism on language acquisition, social development and cognitive growth in young children.</p>
 
   <h4 style="padding-top:12px;margin:10px;"> Synopsis</h4>  
-  <p style="margin:10px;">Raising bilingual children opens children up to tremendous opportunities. At the same time, families often experience stress when learning how best to raise children to be bilingual. What works and what doesn't? What does the science say? This sharing session will focus on how bilingualism can impact a child’s development, as well as some of the common challenges that parents face. Research-based strategies will be shared on how to support the development of bilingualism in young children and how parents can overcome the challenges they will face.
+  <p style="margin:10px;"><strong>Raising Bilingual Children: What does the Science Say?</strong><br/>
+ Raising bilingual children opens children up to tremendous opportunities. At the same time, families often experience stress when learning how best to raise children to be bilingual. What works and what doesn't? What does the science say? This sharing session will focus on how bilingualism can impact a child’s development, as well as some of the common challenges that parents face. Research-based strategies will be shared on how to support the development of bilingualism in young children and how parents can overcome the challenges they will face.
 </p>
  </div></div>
 </td>
