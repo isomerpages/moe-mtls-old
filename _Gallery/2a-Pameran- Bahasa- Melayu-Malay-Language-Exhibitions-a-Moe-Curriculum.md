@@ -1,12 +1,12 @@
 ---
 title: 'Kurikulum Kementerian Pendidikan Singapura (MOE)'
 permalink: /Gallery/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-a/Moe-Curriculum/
-breadcrumb: 'Pameran- Bahasa- Melayu-Malay-Language-Exhibitions'
+breadcrumb: 'Pameran- Bahasa- Melayu'
 collection_name: Gallery
 third_nav_title: 'Pameran Bahasa Melayu'
 ---
 
-<h2 style="padding-top:12px;color:#a3c864;">Reruai Kurikulum Kementerian Pendidikan Singapura (MOE)</h2>
+<h2 style="padding-top:12px;color:#a3c864;">Kurikulum Kementerian Pendidikan Singapura (MOE)</h2>
 <html>
 <body>
 <style>
@@ -73,7 +73,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
  <p>
  Tujuan utama pendidikan Bahasa Ibunda adalah untuk memperkukuh kemahiran berkomunikasi memupuk kesedaran dan penghayatan pelajar kita tentang warisan budaya dan nilai.  Dengan ini, mereka akan berasa yakin apabila berhubung dengan masyarakat di Asia dan seluruh dunia. 
 <br/><br/>
-Kurikulum Bahasa Ibunda bertujuan untuk membentuk anak-anak kita menjadi pengguna bahasa yang cekap dan mempunyai asas kemahiran bahasa dan literasi yang kukuh. Dengan kemahiran teras seperti bertutur, mendengar dan membaca, pelajar kita dapat mempertingkatkan kemahiran menulis dan berkomunikasi dalam konteks kehidupan sebenar.  Penerapan ICT, CCE dan SEL meningkatkan pemahaman pelajar  tentang budaya dan nilai yang teranyam dalam kurikulum. 
+Kurikulum Bahasa Ibunda bertujuan untuk membentuk anak-anak kita menjadi pengguna bahasa yang cekap dan mempunyai asas kemahiran bahasa dan literasi yang kukuh. Dengan kemahiran teras seperti bertutur, mendengar dan membaca, pelajar kita dapat mempertingkatkan kemahiran menulis dan berkomunikasi dalam konteks kehidupan sebenar.  Penerapan ICT, CCE dan SEL meningkat pemahaman pelajar  tentang budaya dan nilai yang teranyam dalam kurikulum. 
 <br/><br/>
 Kurikulum ini juga bertujuan membentuk kemahiran berfikir aras tinggi dan mendedahkan para pelajar kita kepada pelbagai bahan sastera dan teks yang autentik. Hal ini akan menjadikan Bahasa Ibunda bahasa yang hidup dan bermakna dalam kehidupan anak-anak kita. 
 <br/><br/>
