@@ -73,7 +73,7 @@ width:100% ;
  母语教育的主要目标是培养我国年轻一代掌握有效的母语沟通能力，建立积极正面的价值观，同时让他们能了解与欣赏本族文化，确保他们有信心与不同国家和地区有着相同语言与文化背景的社群建立联系。<br/><br/>
   母语课程致力于培养学生的聆听、说话、阅读和写作各方面的能力，使他们在日常生活中能有效地使用母语与他人互动和沟通。母语学习结合资讯科技，融入品格与公民教育和社交与情绪管理技能，通过生动有趣的教学，让学生了解丰富的母族文化与优良价值观。母语课程也着重于培养学生的高阶思维，并让学生广泛地接触文学作品与真实性语料。母语是我们生活的语言，我们希望年轻一代能认识到母语能力的实用价值，并在生活的方方面面乐学母语、善用母语。<br/><br/>
   本届“线上母语学习论坛”的“母语课程网站”所提供的信息将有助于家长和教育工作者了解教育部从学前、小学、中学到高中不同阶段的母语课程概要以及特点。我们也将提供一些建议，协助家长和教育工作者更有效地引导年轻一代在愉悦的氛围中乐学母语。
- </p>
+ </p><br/>
   <h4><strong>Nurturing Active Learners and Proficient Users </strong></h4>
   <div style="margin-top:auto;margin-bottom:auto;text-align:left;">
 <p>The key purpose of MTL education is to equip our young with effective communication skills and to create a greater awareness and appreciation of our culture and values, which in turn enables our young to have the confidence to connect with similar language communities across Asia and the world. <br/><br/>
