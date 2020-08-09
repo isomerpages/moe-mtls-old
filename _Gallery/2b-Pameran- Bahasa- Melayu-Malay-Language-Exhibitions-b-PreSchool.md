@@ -1,7 +1,7 @@
 ---
 title: 'Prasekolah'
 permalink: /Gallery/Pameran-Bahasa-Melayu-Malay-Language-Exhibitions-b/PreSchool/
-breadcrumb: 'Pameran- Bahasa- Melayu-Malay-Language-Exhibitions'
+breadcrumb: 'Pameran- Bahasa- Melayu'
 collection_name: Gallery
 third_nav_title: 'Pameran Bahasa Melayu'
 ---
@@ -51,7 +51,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
       <div class="tab-content">
       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Membaca Mencipta Keajaiban</h4>
       <p style="margin:10px;">
-        Di Tadika MOE Farrer Park (MK Farrer Park), setiap kanak-kanak dipercayai boleh belajar dan menggunakan bahasa Ibunda sebagai alat komunikasi yang berkesan. Dengan berpandukan prinsip panduan ini, MK Farrer Park ingin memupuk minat dan  penghayatan kanak-kanak untuk membaca buku Bahasa Ibunda melalui inisiatif yang dijalankan, iaitu MK Book Club. Dengan memilih buku cerita mereka sendiri, kanak-kanak akan terdorong  untuk membaca dan belajar mengikut tahap kebolehan mereka. <br/>Untuk mengukuhkan amalan membaca di rumah pula, MK Farrer Park bekerjasama dengan ibu bapa untuk melibatkan anak-anak mereka dalam aktiviti membaca dan bercerita. Dengan mengadakan aktiviti keluarga yang bermakna, kanak-kanak dapat melanjutkan pembelajaran mereka di luar darjah dan meningkatkan keyakinan diri untuk bertutur dalam bahasa Ibunda. </p><br/>
+        Di Tadika MOE Farrer Park (MK Farrer Park), setiap kanak-kanak dipercayai boleh belajar dan menggunakan bahasa Ibunda sebagai alat komunikasi yang berkesan. Dengan berpandukan prinsip ini, MK Farrer Park ingin memupuk minat dan  penghayatan kanak-kanak untuk membaca buku Bahasa Ibunda melalui inisiatif yang dijalankan, iaitu MK Book Club. Dengan memilih buku cerita mereka sendiri, kanak-kanak akan terdorong  untuk membaca dan belajar mengikut tahap kebolehan mereka. <br/>Untuk mengukuhkan amalan membaca di rumah pula, MK Farrer Park bekerjasama dengan ibu bapa untuk melibatkan anak-anak mereka dalam aktiviti membaca dan bercerita. Dengan mengadakan aktiviti keluarga yang bermakna, kanak-kanak dapat melanjutkan pembelajaran mereka di luar darjah dan meningkatkan keyakinan diri untuk bertutur dalam bahasa Ibunda. </p><br/>
 
 <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Reading Creates Wonders</h4>
 <p style="margin:10px;">MOE Kindergarten @ Farrer Park (MK) believes that every child can learn and use Mother Tongue Language (MTL) as an effective communication tool. Guided by this belief, the centre aims to cultivate MK children’s love for, and appreciation of reading of MTL books through their centre-based initiative, the MK Book Club. With a child-initiated choice of books, children are motivated to read at their own pace.</p>
