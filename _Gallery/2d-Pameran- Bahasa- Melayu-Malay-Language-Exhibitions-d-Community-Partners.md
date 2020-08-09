@@ -116,7 +116,7 @@ Parents can find out more about the learning opportunities available for the you
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4" class="lbML">Institut Pendidikan Nasional <br/> (Kumpulan Akademik Bahasa dan Kebudayaan Asia)<br/>National Institute of Education  (Asian Languages and Cultures Academic Group)</label>
+      <label for="tab-4" class="lbML">Institut Pendidikan Nasional (Kumpulan Akademik Bahasa dan Kebudayaan Asia)<br/>National Institute of Education  (Asian Languages and Cultures Academic Group)</label>
       <div class="tab-content">
          <h4 style="padding-top:12px;margin:10px;">Dunia Penceritaan - Keseronokan dalam Pembelajaran Bahasa dan Penyemaian Nilai</h4>
         <p style="margin:10px;">
@@ -179,7 +179,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
-      <label for="tab-7" class="lbML">Jawatankuasa Pembelajaran dan Penggalakkan Penggunaan<br/> Bahasa Melayu <br/>Malay Language Learning and Promotion<br/> Committee</label>
+      <label for="tab-7" class="lbML">Jawatankuasa Pembelajaran dan Penggalakkan Penggunaan Bahasa Melayu <br/>Malay Language Learning and Promotion Committee</label>
       <div class="tab-content">
        <h4 style="padding-top:12px;margin:10px;">Jawatankuasa Penggalakan dan Penggunaan Bahasa Melayu</h4>
         <p style="margin:10px;">
@@ -218,14 +218,14 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-9" type="checkbox" name="tab">
-      <label for="tab-9" class="lbML"><br/>ESPLANADE	</label>
+      <label for="tab-9" class="lbML">Esplanade- Teater di Persisiran<br/>Esplanade - Theatres on the Bay</label>
       <div class="tab-content">
        <h4 style="padding-top:12px;margin:10px;">Esplanade- Teater di Persisiran</h4>
        <p style="margin:10px;">Sebagai pusat persembahan seni kebangsaan Singapura, Esplanade – Teater di Persisiran ingin memastikan setiap lapisan masyarakat berpeluang untuk menikmati karya seni.<br/>
 Esplanade ingin mewujudkan kesedaran tentang cara mereka mendidik  dan memberikan pendedahan kepada  golongan muda mengenai seni persembahan melalui pelbagai bentuk seni yang ditampilkan Esplanade pada sepanjang tahun. Dengan cara ini, Esplanade memberikan peluang dan ruang kepada anak-anak muda untuk mengekspresikan kreativiti dan imaginasi mereka.<br/><br/>
 Para pelajar juga berpeluang untuk mengetahui lebih lanjut mengenai beraneka bentuk seni secara dalam talian menerusi bahan-bahan yang disediakan dalam bahagian Keluarga dan Sekolah di Esplanade Offstage. Bahan pengajaran ini telah dicipta untuk menggalakkan pemerolehan bahasa dalam kalangan anak-anak muda agar mereka mengenali budaya dan tradisi yang berbeza dengan lebih mendalam.  </p>
        <h4 style="margin:10px;">Esplanade – Theatres on the Bay</h4>
-       <p style="margin:10px;">As Singapore’s national performing arts centre, Esplanade ­– Theatres on the Bay believes in making the arts accessible to everyone.<br/>
+       <p style="margin:10px;">As Singapore’s national performing arts centre, Esplanade – Theatres on the Bay believes in making the arts accessible to everyone.<br/>
        We want to create an awareness of how Esplanade exposes and educates our young to the performing arts through the different art forms we present at the centre all year round, offering children opportunities and space to express their creativity and imagination. <br/>
        Students can also learn more about the various art forms online through resources provided on the Family and Schools section on Esplanade Offstage. These resources encourage language acquisition as well as discovery of different cultures and traditions.</p>
 </div>
