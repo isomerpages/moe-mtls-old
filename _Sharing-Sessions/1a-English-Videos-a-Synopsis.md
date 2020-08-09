@@ -70,8 +70,8 @@ max-width:40%;
 </label>
       <div class="tab-content"><br/>
   <div class="row">
-   <p><strong> Ms Sun Xueling </strong><br/>
-    Moderator<br/>
+   h4 style="padding-top:12px;margin:10px">Moderator</h4>
+   <p style="margin:10px;"><strong> Ms Sun Xueling </strong><br/>
     Minister of State, Ministry of Education
    </p>
     </div>
