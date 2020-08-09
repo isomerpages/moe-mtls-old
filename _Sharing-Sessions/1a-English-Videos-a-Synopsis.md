@@ -66,7 +66,7 @@ max-width:40%;
  <div class="accordion">
 <div class="atab" >
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbeng">Creating an Immersive Environment for the Learning of Our Mother Tongue Languages <br/> [10.00am – 11.00am] <br/>Panel Discussion
+      <label for="tab-1" class="lbeng">Creating an Immersive Environment for the Learning of Our Mother Tongue Languages <br/> [Livestreaming on 29 August from 10.00am to 11.00am]<br/>Panel Discussion
 </label>
       <div class="tab-content"><br/>
   
@@ -119,7 +119,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label class="lbeng" for="tab-2">Multimodal Approaches to Developing Oracy<br/> [3.30pm – 4.30pm]  <br/> Dr Connie Lum
+      <label class="lbeng" for="tab-2">Multimodal Approaches to Developing Oracy<br/> [Livestreaming on 29 August from 3.30pm to 4.30pm]  <br/> Dr Connie Lum
 </label>
       <div class="tab-content">      
        <br/>
