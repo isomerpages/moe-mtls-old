@@ -150,12 +150,13 @@ max-width:40%;
  <div class="column">
 <img src="images/TL-Mr-Mohan-Suppiah-and-Mr-Balajee-Harridas.png" style="width:100%">
    </div>
-   <p> <strong>Mr Mohan Suppiah </strong><br/>
+   <p><strong>Mr Mohan Suppiah </strong><br/>
     Blangah Rise Primary School <br/>
+    Head of Department<br/>
     <strong>Mr Balajee Harridas </strong><br/>
     Ministry of Education <br/>
-    Mother Tongue Languages Branch,<br/>
-    Curriculum Planning and Development Division
+    Curriculum Resource Development Officer, CPDD
+   </p>
 
    </div>
        <h4 style="margin:10px;">தன்விவரம்</h4>
