@@ -76,7 +76,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
   </p>
   <p> Click <a href="https://www.youtube.com/watch?v=EM-LEspu5uY" target="_blank">here</a> to watch our introductory video.<br/>
 
-  <h4>Nurturing Active Learners and proficient Users </h4>
+  <h4 style="padding-top:12px;color:#9b4490;">Nurturing Active Learners and proficient Users </h4>
   <p>
  The key purpose of MTL education is to equip our young with effective communication skills and to create a greater awareness and appreciation about our culture and values, which in turn enables  our young  to have the confidence to connect with similar language communities across Asia and the world.<br/><br/>
  The MTL curriculum aims to develop our young to be proficient language users who have strong foundational language and literacy skills. It leverages on students’ written and interpersonal communication skills with real-life contexts via the fundamental language skills such as speaking, listening, and reading. The infusion of ICT, CCE and SEL into the curriculum further enhances the learning and exposes our young to understand the cultures and values weaved throughout the curriculum.    It also aims to develop higher order thinking skills and expose students to a wide variety of literary and authentic texts. This is intended to make MTL a living language that enables our young to lead purposeful lives.<br/><br/>
