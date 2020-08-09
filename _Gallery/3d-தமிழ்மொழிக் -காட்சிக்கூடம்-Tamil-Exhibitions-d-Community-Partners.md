@@ -46,32 +46,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
             <td style="border:0 none;padding: 0; margin:0;">
                <div class="atab">
                   <input id="tab-1" type="checkbox" name="tab">
-                  <label for="tab-1" class="lbTM">இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி <br/>Lee Kuan Yew Fund for Bilingualism</label>
-                  <div class="tab-content">
-                     <p>
-                    <h4 style="padding-top:12px;margin:10px;color:#9b4490;">நமது தாய்மொழிகளோடு மகிழ்ந்திருப்போம்!</h4>
-                     </p>
-                     <p style="margin:10px;font-size:20px;">
-                        லீ &nbsp; குவான் &nbsp; யூ &nbsp; இருமொழிக் &nbsp; கல்வி &nbsp; நிதியானது &nbsp; 2011-ஆம் &nbsp; ஆண்டு &nbsp; நவம்பர் &nbsp; 28-ஆம் &nbsp; நாள் &nbsp; நடைபெற்ற &nbsp; திரு &nbsp; லீ &nbsp; குவான் &nbsp; யூ &nbsp; அவர்களின் &nbsp; ‘எனது &nbsp; வாழ்நாள் &nbsp; சவால்: &nbsp; சிங்கப்பூரின் &nbsp; இருமொழிப் &nbsp; பயணம்’ &nbsp; என்னும் &nbsp; நூல் &nbsp; வெளியீட்டு &nbsp; விழாவின்போது &nbsp; நிறுவப்பட்டது. &nbsp; இந்நிதி &nbsp; இருமொழிக் &nbsp; கல்வியை &nbsp; வலுப்படுத்தும் &nbsp; புத்தாக்கமும் &nbsp; ஈடுபாடும் &nbsp; கொண்ட &nbsp; முயற்சிகளுக்கு &nbsp; ஆதரவு &nbsp; வழங்கி &nbsp; வருகிறது. &nbsp; தாய்மொழிகளை &nbsp; வாழும் &nbsp; மொழிகளாக &nbsp; நிலைபெறச் &nbsp; செய்ய &nbsp; வேண்டும் &nbsp; என்ற &nbsp; நோக்கில் &nbsp; சிங்கப்பூரின் &nbsp; பல்லின &nbsp; கலாசார &nbsp; வேறுபாடுகளைப் &nbsp; பிரதிபலிக்கும் &nbsp; வளங்களுக்கான &nbsp; உருவாக்கத்திற்கு &nbsp; இந்நிதி &nbsp; உதவி &nbsp; வருகிறது. &nbsp; மேலும், &nbsp; மக்களைக் &nbsp; கவரும் &nbsp; அம்சங்களான &nbsp; பொது &nbsp; ஊடகங்கள், &nbsp; புதிய &nbsp; சமூக &nbsp; ஊடகங்கள், &nbsp; நவீன &nbsp; கலாசார &nbsp; தாக்கங்கள் &nbsp; முதலியவற்றைக் &nbsp; கொண்டு &nbsp; மக்கள் &nbsp; தத்தம் &nbsp; தாய்மொழிகளை &nbsp; விருப்பத்தோடு &nbsp; பயிலவும் &nbsp; பயன்படுத்தவும்  &nbsp; ஊக்குவிப்பதிலும் &nbsp; முனைப்போடு &nbsp; செயற்படுகிறது.
-                     </p>
-                     <br/>
-                     <p>
-                     <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Fun with our Mother Tongue Languages</h4>
-                     </p>
-                     <p style="margin:10px;">The establishment of the Lee Kuan Yew Fund for Bilingualism (the “Fund”) was announced by Mr Lee Kuan Yew, at the launch of “My Lifelong Challenge: Singapore’s Bilingual Journey” in 2011.</p>
-                     <p style="margin:10px;">The Fund supports creative and engaging approaches that encourage bilingualism and the learning of MTLs as a lifelong endeavour. This year, the Fund has collaborated with the polytechnics to develop resources that encourage the learning of MTLs among pre-school children and young adults. The Fund also launched the Special Call for Projects #IAmBilingualismSG to support the learning of MTLs among young children at home.  </p>
-                  </div>
-               </div>
-            </td>
-            <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-               <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></a>
-            </td>
-         </tr>
-         <tr>
-            <td style="border:0 none;padding: 0; margin:0;">
-               <div class="atab">
-                  <input id="tab-2" type="checkbox" name="tab">
-                  <label for="tab-2" class="lbTM">எஸ்பிளனேட் - கடலோரக் கலை அரங்கம்<br/>Esplanade - Theatres on the Bay</label>
+                  <label for="tab-1" class="lbTM">எஸ்பிளனேட் - கடலோரக் கலை அரங்கம்<br/>Esplanade - Theatres on the Bay</label>
                   <div class="tab-content">
                      <p>
                      <h4 style="padding-top:12px;margin:10px;color:#9b4490;">எஸ்பிளனேட் - கடலோரக் கலை அரங்கம்</h4>
@@ -87,7 +62,32 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
                         As Singapore’s national performing arts centre, Esplanade -  Theatres on the Bay believes in making the arts accessible to everyone.
                      </p>
                      <p style="margin:10px;">We want to create an awareness of how Esplanade exposes and educates our young to the performing arts through the different art forms we present at the centre all year round, offering children opportunities and space to express their creativity and imagination.</p>
-                     <p style="margin:10px;">Students can also learn more about the various art forms online through resources provided on the Family and Schools section on Esplanade Offstage. These resources encourage language acquisition as well as discovery of different cultures and traditions.
+                     <p style="margin:10px;">Students can also learn more about the various art forms online through resources provided on the Family and Schools section on Esplanade Offstage. These resources encourage language acquisition as well as discovery of different cultures and traditions.</p>
+                  </div>
+               </div>
+            </td>
+            <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+               <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></a>
+            </td>
+         </tr>
+         <tr>
+            <td style="border:0 none;padding: 0; margin:0;">
+               <div class="atab">
+                  <input id="tab-2" type="checkbox" name="tab">
+                  <label for="tab-2" class="lbTM">இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி <br/>Lee Kuan Yew Fund for Bilingualism</label>
+                  <div class="tab-content">
+                     <p>
+                    <h4 style="padding-top:12px;margin:10px;color:#9b4490;">நமது தாய்மொழிகளோடு மகிழ்ந்திருப்போம்!</h4>
+                     </p>
+                     <p style="margin:10px;font-size:20px;">
+                        லீ &nbsp; குவான் &nbsp; யூ &nbsp; இருமொழிக் &nbsp; கல்வி &nbsp; நிதியானது &nbsp; 2011-ஆம் &nbsp; ஆண்டு &nbsp; நவம்பர் &nbsp; 28-ஆம் &nbsp; நாள் &nbsp; நடைபெற்ற &nbsp; திரு &nbsp; லீ &nbsp; குவான் &nbsp; யூ &nbsp; அவர்களின் &nbsp; ‘எனது &nbsp; வாழ்நாள் &nbsp; சவால்: &nbsp; சிங்கப்பூரின் &nbsp; இருமொழிப் &nbsp; பயணம்’ &nbsp; என்னும் &nbsp; நூல் &nbsp; வெளியீட்டு &nbsp; விழாவின்போது &nbsp; நிறுவப்பட்டது. &nbsp; இந்நிதி &nbsp; இருமொழிக் &nbsp; கல்வியை &nbsp; வலுப்படுத்தும் &nbsp; புத்தாக்கமும் &nbsp; ஈடுபாடும் &nbsp; கொண்ட &nbsp; முயற்சிகளுக்கு &nbsp; ஆதரவு &nbsp; வழங்கி &nbsp; வருகிறது. &nbsp; தாய்மொழிகளை &nbsp; வாழும் &nbsp; மொழிகளாக &nbsp; நிலைபெறச் &nbsp; செய்ய &nbsp; வேண்டும் &nbsp; என்ற &nbsp; நோக்கில் &nbsp; சிங்கப்பூரின் &nbsp; பல்லின &nbsp; கலாசார &nbsp; வேறுபாடுகளைப் &nbsp; பிரதிபலிக்கும் &nbsp; வளங்களுக்கான &nbsp; உருவாக்கத்திற்கு &nbsp; இந்நிதி &nbsp; உதவி &nbsp; வருகிறது. &nbsp; மேலும், &nbsp; மக்களைக் &nbsp; கவரும் &nbsp; அம்சங்களான &nbsp; பொது &nbsp; ஊடகங்கள், &nbsp; புதிய &nbsp; சமூக &nbsp; ஊடகங்கள், &nbsp; நவீன &nbsp; கலாசார &nbsp; தாக்கங்கள் &nbsp; முதலியவற்றைக் &nbsp; கொண்டு &nbsp; மக்கள் &nbsp; தத்தம் &nbsp; தாய்மொழிகளை &nbsp; விருப்பத்தோடு &nbsp; பயிலவும் &nbsp; பயன்படுத்தவும்  &nbsp; ஊக்குவிப்பதிலும் &nbsp; முனைப்போடு &nbsp; செயற்படுகிறது.
+                     </p>
+                     <br/>
+                     <p>
+                     <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Fun with our Mother Tongue Languages</h4>
+                     </p>
+                     <p style="margin:10px;">The establishment of the Lee Kuan Yew Fund for Bilingualism (the “Fund”) was announced by Mr Lee Kuan Yew, at the launch of “My Lifelong Challenge: Singapore’s Bilingual Journey” in 2011.</p>
+                     <p style="margin:10px;">The Fund supports creative and engaging approaches that encourage bilingualism and the learning of MTLs as a lifelong endeavour. This year, the Fund has collaborated with the polytechnics to develop resources that encourage the learning of MTLs among pre-school children and young adults. The Fund also launched the Special Call for Projects #IAmBilingualismSG to support the learning of MTLs among young children at home.  
                      </p>
                   </div>
                </div>
