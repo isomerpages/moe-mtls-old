@@ -181,7 +181,7 @@ Parents can find out more about the learning opportunities available to the youn
       <input id="tab-7" type="checkbox" name="tab">
       <label for="tab-7" class="lbCh"><span style="font-size:25px; font-family:KaiTi">新加坡华文教研中心 </span><br/>Singapore Centre for Chinese Language</label>
       <div class="tab-content">
-           <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;">乐学华文</h4>
+           <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;">乐学华文</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
          新加坡华文教研中心致力于推动华文的教与学。在推广华文阅读方面，中心先后推出了《新新岛》分级读本系列、《新小瓜》儿童绘本系列，以图文并茂、轻松有趣的方式引导小学生及学前儿童接触华文、学习华文。此外，中心自主研发的文本分级系统，也为华文的教与学提供资源与支援。 </p><br/>
           <h4 style="margin:10px;">Fun Learning Chinese</h4>
