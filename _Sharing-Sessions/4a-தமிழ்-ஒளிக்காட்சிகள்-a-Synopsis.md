@@ -106,7 +106,7 @@ max-width:40%;
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2" class="lbTM">கதைகள்வழி மகிழ்ச்சியான கற்றல்
  <br/> [2.00pm – 3.00pm]
- <br/> Ms Rani Kanna & Mr Anandha Kannan</label>
+ <br/> Mrs Rani Kanna & Mr Anandha Kannan</label>
       <div class="tab-content">      
        <br/>
   <div class="row">
