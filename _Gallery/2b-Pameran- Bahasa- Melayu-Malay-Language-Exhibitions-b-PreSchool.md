@@ -47,7 +47,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbML">	Tadika MOE (Farrer Park)<br/>MOE Kindergarten@Farrer Park</label>
+      <label for="tab-1" class="lbML">	Tadika MOE (Farrer Park)<br/>MOE Kindergarten @ Farrer Park</label>
       <div class="tab-content">
       <h4 style="padding-top:12px;margin:10px;">Membaca Mencipta Keajaiban</h4>
       <p style="margin:10px;">
@@ -70,7 +70,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbML">Tadika MOE (Waterway)<br/>MOE Kindergarten@Waterway</label>
+      <label for="tab-2" class="lbML">Tadika MOE (Waterway)<br/>MOE Kindergarten @ Waterway</label>
       <div class="tab-content">
        <h4 style="padding-top:12px;margin:10px;">Seronoknya Berdrama</h4>
         <p style="margin:10px;">
@@ -92,7 +92,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3" class="lbML">Tadika My First School (Seng Kang West) <br/>My First School (Seng Kang West)</label>
+      <label for="tab-3" class="lbML">Tadika My First School (Seng Kang West) <br/>My First School (Sengkang West)</label>
       <div class="tab-content">
        <h4 style="padding-top:12px;margin:10px;">Bercerita dengan Wayang Kuit</h4>
         <p style="margin:10px;">
