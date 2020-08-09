@@ -5,7 +5,7 @@ breadcrumb: 'தமிழ்மொழிக் -காட்சிக்கூ�
 collection_name: Gallery
 third_nav_title: 'தமிழ்மொழிக் காட்சிக்கூடம்'
 ---
-## 	சமூகப் பங்காளர்கள்
+<h2 style="padding-top:12px;margin:10px;color:#9b4490;">சமூகப் பங்காளர்கள்</h2>
 <html>
    <head>
       <style>
@@ -46,7 +46,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
             <td style="border:0 none;padding: 0; margin:0;">
                <div class="atab">
                   <input id="tab-1" type="checkbox" name="tab">
-                  <label for="tab-1" class="lbTM">	இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி <br/>Lee Kuan Yew Fund for Bilingualism</label>
+                  <label for="tab-1" class="lbTM">இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி <br/>Lee Kuan Yew Fund for Bilingualism</label>
                   <div class="tab-content">
                      <p>
                      <h4 style="padding-top:12px;margin:10px;"><strong>நமது தாய்மொழிகளோடு மகிழ்ந்திருப்போம்!</strong> </h4>
@@ -280,7 +280,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
                      <br/>
                      <h4 style="margin:10px;"><strong>Animals’ Wonderland</strong></h4>
                      <p style="margin:10px;">
-                        Animal Wonderland by Wildlife Reserves Singapore presents a living classroom for all three Mother Tongue Languages (MTLs) for both pre and primary schools. Explore pre-visit, in-park and post-visit animal-inspired lesson ideas that motivate children to use Tamil in their daily lives. You will find e-teaching aids to help build an extensive word bank for pre-schoolers. Audio story books featuring giant pandas, Kai Kai and Jia Jia, are now available in [CL/ML/TL]. Primary school students can embark on an e-trail for respective titles in all three MTLs, where they get to practise their MTL and acquire higher order thinking skills.
+                        Animal Wonderland by Wildlife Reserves Singapore presents a living classroom for all three Mother Tongue Languages (MTLs) for both pre and primary schools. Explore pre-visit, in-park and post-visit animal-inspired lesson ideas that motivate children to use Tamil in their daily lives. You will find e-teaching aids to help build an extensive word bank for pre-schoolers. Audio story books featuring giant pandas, Kai Kai and Jia Jia, are now available in [TL]. Primary school students can embark on an e-trail for respective titles in all three MTLs, where they get to practise their MTL and acquire higher order thinking skills.
                      </p>
                   </div>
                </div>
