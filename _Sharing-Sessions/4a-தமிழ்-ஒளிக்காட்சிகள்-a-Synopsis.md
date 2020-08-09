@@ -115,7 +115,8 @@ max-width:40%;
    </div>  
    <p> <strong> Mrs Rani Kanna & 
     <br/>Mr Anandha Kannan </strong><br/>
-    T Theatre Ltd
+    AKT Creations<br/>
+    Directors
 </p>
    </div>
       <h4 style="margin:10px;">தன்விவரம்</h4>
@@ -127,9 +128,9 @@ max-width:40%;
        கதைசொல்லுதல் &nbsp; குழந்தைகளின் &nbsp; கற்பனைத் &nbsp; திறனை &nbsp; வளர்க்கும் &nbsp; ஒரு &nbsp; முக்கிய &nbsp; உத்தியாகும். &nbsp; குழந்தையின் &nbsp; படைப்பாற்றலை &nbsp; மேம்படுத்துவதில் &nbsp; கற்பனைத்திறன் &nbsp; பெரும் &nbsp; பங்கு &nbsp; வகிக்கிறது. &nbsp; இது &nbsp; பேச்சு &nbsp; மற்றும் &nbsp; கருத்துப்பரிமாற்றத் &nbsp; திறன்களையும் &nbsp; தன்னம்பிக்கையையும் &nbsp; வளர்க்க &nbsp; உதவுகிறது. &nbsp; குழந்தைகளைக் &nbsp; கதைகளில் &nbsp; ஈடுபடுத்தும்போது &nbsp; அவர்கள் &nbsp; உற்சாகம் &nbsp; அடைகிறார்கள். &nbsp; பயனுள்ள &nbsp; கதையைச் &nbsp;  சொல்லும்போது &nbsp; தன்னுள் &nbsp; உள்ள &nbsp; உணர்வுகள், &nbsp; சக &nbsp; மனித &nbsp; உணர்வுகள் &nbsp; ஆகியவற்றைப் &nbsp; பற்றிய &nbsp; ஆழமான &nbsp; புரிந்துணர்வு &nbsp; உண்டாகின்றது. &nbsp; மேலும், &nbsp; அது &nbsp; குறித்த &nbsp; யோசனைகளும் &nbsp; புத்தாக்கச் &nbsp; சிந்தனைனகளும்  &nbsp; தூண்டப்படுகின்றன. &nbsp; இதன்வழி, &nbsp; உகந்த &nbsp; கதை &nbsp; சொல்லும் &nbsp; உத்தி, &nbsp; ஊடாடும் &nbsp; திறன் &nbsp; மற்றும் &nbsp; புத்தாக்கத்துடன் &nbsp; கதைகளைச் &nbsp; சொல்லும் &nbsp; முறையைக் &nbsp; கற்றலில் &nbsp; இணைந்து &nbsp; கற்றலை &nbsp; மகிழ்வூட்டும் &nbsp; அனுபவமாக &nbsp; மாற்றுகிறது. &nbsp; எனவே, &nbsp; வாருங்கள்! &nbsp; இப்பயிலரங்கின் &nbsp; வாயிலாகக் &nbsp; கதைகளைக் &nbsp; குழந்தைகளுக்குச் &nbsp; சுவைபடச் &nbsp; சொல்லி &nbsp; மொழி &nbsp; ஈடுபாட்டை &nbsp; வளர்ப்போம்; &nbsp; கற்றலை &nbsp; இனிமையாக்குவோம்.</p><br/>
        <h4 style="margin:10px;">Profile</h4> 
        <p  style="margin:10px;">Mrs Rani Kanna is a professional storyteller, art educator and actor. She is a former MOE Tamil teacher and holds a degree in Tamil Literature from India. She also has a Master’s degree in Applied Linguistics and hands-on experience with traditional art forms from India which she teaches and infuses with the learning of Tamil. Mrs Kanna has actively participated in many storytelling festivals both in Singapore and overseas.  Her narrations, enriched with actions and voices, are full of life. She has been directing and acting in pre-school musicals since 2014 and is passionate about making the learning of Tamil fun for young children. </p>
-      <p  style="margin:10px;">An avid explorer of theatre and fine arts since childhood, Mr Anandha Kannan is a gregarious, animated and engaging artist. He is the Founder Director of AK Theatre Limited (Singapore), a theatre which stages plays for children; Creative Director of AnandhaKoothu Trust and Artistic Director of AKT Creations. A Singapore Film Commission scholar, he is a passionate performer who is keen to share his vast knowledge, insights and love for the theatre with students from all walks of life. He has been awarded the International Youth Icon at the World Universities Youth Conference (2008), Best Actor in Television Actors Guild Awards (South India, 2008) and Best Anchor PradhanaVizha 2012 (Singapore TV Awards).</p><br/>
+      <p  style="margin:10px;">An avid explorer of theatre and fine arts since childhood, Mr Anandha Kannan is a gregarious, animated and engaging artist. He is the Founder Director of AK Theatre Limited (Singapore), a theatre which stages plays for children; Creative Director of Anandha Koothu Trust and Artistic Director of AKT Creations. A Singapore Film Commission scholar, he is a passionate performer who is keen to share his vast knowledge, insights and love for the theatre with students from all walks of life. He has been awarded the International Youth Icon at the World Universities Youth Conference (2008), Best Actor in Television Actors Guild Awards (South India, 2008) and Best Anchor PradhanaVizha 2012 (Singapore TV Awards).</p><br/>
   <h4 style="margin:10px;">Synopsis</h4>  
-       <p  style="margin:10px;"><strong>Joyful Learning through stories</strong><br/>
+       <p  style="margin:10px;"><strong>Joyful Learning through Stories</strong><br/>
         Storytelling is a powerful medium to stimulate imagination in kids. Imagination enhances a child’s creativity and fosters confidence in communication and speaking skills. This session will share enjoyable techniques for storytelling, interactivity and innovation. That will stimulate your children’s imagination and inspire them. Let us make narratives come alive for children.
 </p>
 </div></div>
@@ -193,7 +194,7 @@ max-width:40%;
 <img src="images/TL-Ms-Darseni-Rengasamy.png" style="width:100%">
    </div>
    <p> <strong>Ms Darseni Rengasamy </strong>
-<br/> National Institute of <br/>  Early Childhood Development <br/> (Ngee Ann Polytechnic) 
+<br/> National Institute of <br/>  Early Childhood Development <br/> Lecturer
 </p>
    </div>
       <h4 style="margin:10px;">தன்விவரம்</h4>  
