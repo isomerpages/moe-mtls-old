@@ -6,5 +6,5 @@ collection_name: Others
 ---
 
 <div>
-This is testing
+<img src="images/Coming-soon.jpg" class="Image" width="1000" height="300">
 </div>
