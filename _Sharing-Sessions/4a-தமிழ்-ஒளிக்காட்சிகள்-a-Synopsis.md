@@ -72,7 +72,7 @@ max-width:40%;
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1" class="lbTM">தெரிந்தும் தெரியாமலும் சின்னஞ்சிறிய தமிழ்ப்பாடம்
-<br/> [12.30pm – 1.30pm] <br/>Ms Elakeyaa 
+<br/> [12.30pm – 1.30pm] <br/>Ms Elakeyaa Selvaraji
 </label>
       <div class="tab-content">
       <br/>
