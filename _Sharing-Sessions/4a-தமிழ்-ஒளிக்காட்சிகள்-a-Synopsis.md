@@ -1,9 +1,9 @@
 ---
 title: 'Synopsis'
 permalink: /Exhibition/தமிழ்-ஒளிக்காட்சிகள்/Synopsis/
-breadcrumb: 'தமிழ்-ஒளிக்காட்சிகள்'
+breadcrumb: 'தமிழ் ஒளிக்காட்சிகள்'
 collection_name: Sharing-Sessions
-third_nav_title: 'தமிழ்-ஒளிக்காட்சிகள்'
+third_nav_title: 'தமிழ் ஒளிக்காட்சிகள்'
 ---
 
 ## 	தமிழ் ஒளிக்காட்சிகள்
