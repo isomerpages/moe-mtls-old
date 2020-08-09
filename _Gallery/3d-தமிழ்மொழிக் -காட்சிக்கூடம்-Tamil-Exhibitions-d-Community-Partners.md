@@ -120,7 +120,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
                      <p style="margin:10px;">
                         Discover Mother Tongue Languages through heritage and culture with the National Heritage Board (NHB).
                         Find out more about language programmes, tips and resources with the Speak Mandarin Campaign, the Malay Language Council, and the Tamil Language Council.
-                        Learn more about the Heritage Institutions – Indian Heritage Centre, Malay Heritage Centre and Sun Yat Sen Nanyang Memorial Hall, - as well as the NHB’s heritage education initiatives such as Singapore Little Treasures, Heritage Explorer Programme and School Heritage Corners Programme.
+                        Learn more about the Heritage Institutions – Indian Heritage Centre, Malay Heritage Centre and Sun Yat Sen Nanyang Memorial Hall, as well as the NHB’s heritage education initiatives such as Singapore Little Treasures, Heritage Explorer Programme and School Heritage Corners Programme.
                         Parents can find out more about the learning opportunities available for the young, while educators can explore opportunities to expand learning beyond the classroom.
                      </p>
                   </div>
