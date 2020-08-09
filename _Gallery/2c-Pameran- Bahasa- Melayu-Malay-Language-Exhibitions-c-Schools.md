@@ -99,7 +99,7 @@ Soalan-soalan rangsangan (menggunakan Roda Penaakulan Paul) disertakan dalam Unj
         <p style="margin:10px;">
           Di Sekolah Sains dan Teknologi, para pelajar terlibat secara aktif dalam pembelajaran dengan penggunaan teknologi. Penggunaan aplikasi iOS Clips memperkaya pengalaman pembelajaran mereka dan menjadikan aktiviti harian sebagai peluang pembelajaran Bahasa Ibunda. Clips membolehkan para pelajar untuk menghasilkan projek-projek yang menarik dan autentik untuk mengasah kemahiran dan penguasaan bahasa. Pelajar juga dapat memanfaatkan fungsi  Clips untuk menghasilkan pelbagai  kandungan digital bagi pembelajaran. Pada masa yang sama, mereka mampu meningkatkan keyakinan diri dan daya kreatif melalui tugasan-tugasan yang bermakna dan bersifat peribadi.
         </p><br/>
-       <h4 style="margin:10px;">Sharpening language skills through Clips app</h4>
+       <h4 style="margin:10px;">Sharpening Language Skills through Clips App</h4>
         <p style="margin:10px;">
          At the School of Science and Technology, students are engaged in active learning via technology through the use of applications such as iOS Clips. These applications enhance their learning experiences and transform everyday activities into language learning opportunities. Clips enable students to create exciting and authentic projects which hone their language skills and competencies. This, in turn, enables students to further harness the app’s functions to create a variety of digital content for learning while simultaneously developing their confidence and creativity.
         </p>
