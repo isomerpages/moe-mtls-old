@@ -54,7 +54,8 @@ third_nav_title: 'Pameran Bahasa Melayu'
         Di Tadika MOE Farrer Park (MK Farrer Park), setiap kanak-kanak dipercayai boleh belajar dan menggunakan bahasa Ibunda sebagai alat komunikasi yang berkesan. Dengan berpandukan prinsip panduan ini, MK Farrer Park ingin memupuk minat dan  penghayatan kanak-kanak untuk membaca buku Bahasa Ibunda melalui inisiatif yang dijalankan, iaitu MK Book Club. Dengan memilih buku cerita mereka sendiri, kanak-kanak akan terdorong  untuk membaca dan belajar mengikut tahap kebolehan mereka. <br/>Untuk mengukuhkan amalan membaca di rumah pula, MK Farrer Park bekerjasama dengan ibu bapa untuk melibatkan anak-anak mereka dalam aktiviti membaca dan bercerita. Dengan mengadakan aktiviti keluarga yang bermakna, kanak-kanak dapat melanjutkan pembelajaran mereka di luar darjah dan meningkatkan keyakinan diri untuk bertutur dalam bahasa Ibunda. </p><br/>
 
 <h4 style="margin:10px;">Reading Creates Wonders</h4>
-<p style="margin:10px;">MOE Kindergarten @ Farrer Park (MK) believes that every child can learn and use Mother Tongue Language (MTL) as an effective communication tool. Guided by this belief, the centre aims to cultivate MK children’s love for, and appreciation of reading of MTL books through their centre-based initiative, the MK Book Club. With a child-initiated choice of books, children are motivated to read at their own pace.<br/> To reinforce reading habits at home, the centre partners parents to engage their children in reading and storytelling. Coupled with meaningful family-based activities, this further extends their child’s learning beyond the classroom and builds their confidence in speaking MTL.  
+<p style="margin:10px;">MOE Kindergarten @ Farrer Park (MK) believes that every child can learn and use Mother Tongue Language (MTL) as an effective communication tool. Guided by this belief, the centre aims to cultivate MK children’s love for, and appreciation of reading of MTL books through their centre-based initiative, the MK Book Club. With a child-initiated choice of books, children are motivated to read at their own pace.</p>
+<p style="margin:10px;">To reinforce reading habits at home, the centre partners parents to engage their children in reading and storytelling. Coupled with meaningful family-based activities, this further extends their child’s learning beyond the classroom and builds their confidence in speaking MTL.  
 
 </p>
       </div>
@@ -77,7 +78,8 @@ third_nav_title: 'Pameran Bahasa Melayu'
         </p><br/>
        <h4 style="margin:10px;">Fun With Drama </h4>
         <p style="margin:10px;">
-         “Fun With Drama” is about promoting the learning of Mother Tongue Languages (MTL) through the use of dramatic play at home. The approach features a 3-step process:  Read, Retell and Re-enact (or R3). <br/>Dramatic play at home is fun and provides enjoyable opportunities for children to interact with family members using household objects, props and authentic home settings that are real, relevant and meaningful to them.  Apart from promoting family bonding and children’s creativity and problem-solving skills, it also helps to strengthen their communication skills and confidence in using their respective Mother Tongue Languages. 
+         “Fun With Drama” is about promoting the learning of Mother Tongue Languages (MTL) through the use of dramatic play at home. The approach features a 3-step process:  Read, Retell and Re-enact (or R3). </p>
+         <p style="margin:10px;">Dramatic play at home is fun and provides enjoyable opportunities for children to interact with family members using household objects, props and authentic home settings that are real, relevant and meaningful to them.  Apart from promoting family bonding and children’s creativity and problem-solving skills, it also helps to strengthen their communication skills and confidence in using their respective Mother Tongue Languages. 
         </p>
       </div>
 </div>
@@ -98,8 +100,8 @@ third_nav_title: 'Pameran Bahasa Melayu'
          Ibu bapa juga boleh mempelajari teknik bercerita dengan menggunakan wayang kulit. Dengan membuat boneka dan membina alatan menggunakan bahan kitar semula, ibu bapa boleh menjalankan sesi bercerita yang menarik bersama anak-anak mereka.
         </p><br/>
             <h4 style="margin:10px;">Storytelling using Shadow Puppetry</h4>
-       <p style="margin:10px;">Storytelling using Shadow Puppetry is an intiative by My First Skool @ 50 Sengkang West to promote interactive teaching and learning practices for Kindergarten 1 and 2 children. Through this approach, we hope to spark our children’s curiosity and stimulate their imagination. <br/>
-          Parents can also learn storytelling techniques  using shadow puppetry. By making puppets and props from recycled materials found at home, parents can conduct their own engaging storytelling sessions with their children.</p>
+       <p style="margin:10px;">Storytelling using Shadow Puppetry is an intiative by My First Skool @ 50 Sengkang West to promote interactive teaching and learning practices for Kindergarten 1 and 2 children. Through this approach, we hope to spark our children’s curiosity and stimulate their imagination. </p>
+          <p style="margin:10px;">Parents can also learn storytelling techniques  using shadow puppetry. By making puppets and props from recycled materials found at home, parents can conduct their own engaging storytelling sessions with their children.</p>
       </div>
 </div>
 </td>
