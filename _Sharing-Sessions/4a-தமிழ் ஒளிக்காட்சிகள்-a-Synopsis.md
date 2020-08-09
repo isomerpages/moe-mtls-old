@@ -1,12 +1,12 @@
 ---
 title: 'Synopsis'
-permalink: /Exhibition/தமிழ்-பகிர்வுகள்/Synopsis/
-breadcrumb: 'தமிழ் பகிர்வுகள்'
+permalink: /Exhibition/தமிழ் ஒளிக்காட்சிகள்/Synopsis/
+breadcrumb: 'தமிழ் ஒளிக்காட்சிகள்'
 collection_name: Sharing-Sessions
-third_nav_title: 'தமிழ் பகிர்வுகள்'
+third_nav_title: 'தமிழ் ஒளிக்காட்சிகள்'
 ---
 
-## 	தமிழ் பகிர்வுகள்
+## 	தமிழ் ஒளிக்காட்சிகள்
 
 <html>
 <head>
