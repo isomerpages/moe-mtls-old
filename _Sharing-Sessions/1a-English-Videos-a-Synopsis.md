@@ -5,7 +5,7 @@ breadcrumb: 'English Videos'
 collection_name: Sharing-Sessions
 third_nav_title: 'English Videos'
 ---
-## 	English Videos
+<h2 style="padding-top:12px;margin:10px;color:#72c6e9;"><strong>English Videos</strong></h2>
 <html>
 <head>
 <style>
@@ -70,7 +70,7 @@ max-width:40%;
 </label>
       <div class="tab-content"><br/>
   
-   <h4 style="padding-top:12px;margin:10px">Moderator</h4>
+   <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Moderator</h4>
    
    <p style="margin:10px;"><strong>Ms Sun Xueling </strong><br/>
     Minister of State, Ministry of Education</p><br/>
