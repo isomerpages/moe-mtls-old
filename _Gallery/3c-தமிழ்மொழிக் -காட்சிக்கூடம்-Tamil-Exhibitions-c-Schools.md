@@ -6,7 +6,7 @@ collection_name: Gallery
 third_nav_title: 'தமிழ்மொழிக் காட்சிக்கூடம்'
 ---
 
-<h2 style="padding-top:12px;margin:10px;color:#9b4490;">பள்ளிகள்</h2>
+<h2 style="padding-top:12px;color:#9b4490;">பள்ளிகள்</h2>
 <html>
 <head>
 <style>
