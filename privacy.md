@@ -2,7 +2,7 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-<h3>  Privacy statement </h3>
+<h3>  Privacy Statement </h3>
 
 1.	This is a Government Agency website.
 
