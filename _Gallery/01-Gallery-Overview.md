@@ -24,7 +24,7 @@ collection_name: Gallery
  <td><h4>Chinese</h4>
  
 <div>
-  <a href="/gallery/华文学习展示区-chinese-exhibitions-a/moe-curriculum/"><div style="display:inline-block;" class="btn"><img src="#/images/moecurriculumbtn.png"></div></a>
+  <a href="#/gallery/华文学习展示区-chinese-exhibitions-a/moe-curriculum/"><div style="display:inline-block;" class="btn"><img src="#/images/moecurriculumbtn.png"></div></a>
   <a href="/gallery/华文学习展示区-chinese-exhibitions-b/preschool/"><div style="display:inline-block;" class="btn"><img src="/images/preSchoolbtn.png"></div></a>
   <a href="/gallery/华文学习展示区-chinese-exhibitions-c/schools/"><div style="display:inline-block;" class="btn"><img src="/images/schoolbtn.png"></div></a>
   <a href="/gallery/华文学习展示区-chinese-exhibitions-d/community-partners/"><div style="display:inline-block;" class="btn"><img src="/images/communitypartnerbtn.png"></div></a><br/><br/>
