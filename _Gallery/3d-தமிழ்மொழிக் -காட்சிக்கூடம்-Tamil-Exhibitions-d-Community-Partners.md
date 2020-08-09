@@ -45,34 +45,6 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
          <tr>
             <td style="border:0 none;padding: 0; margin:0;">
                <div class="atab">
-                  <input id="tab-1" type="checkbox" name="tab">
-                  <label for="tab-1" class="lbTM">எஸ்பிளனேட் - கடலோரக் கலை அரங்கம்<br/>Esplanade - Theatres on the Bay</label>
-                  <div class="tab-content">
-                     <p>
-                     <h4 style="padding-top:12px;margin:10px;color:#9b4490;">எஸ்பிளனேட் - கடலோரக் கலை அரங்கம்</h4>
-                     </p>
-                     <p style="margin:10px;font-size:20px;">கலைகள் &nbsp; அனைவரையும் &nbsp; சென்றடையக்கூடிய &nbsp; சிங்கப்பூரின் &nbsp; தேசிய &nbsp; நிகழ்த்துகலை &nbsp; நிலையமாக &nbsp; எஸ்பிளனேட் &nbsp; - &nbsp; கடலோரக் &nbsp; கலை &nbsp; அரங்கம் &nbsp; திகழ்கிறது.<br/>
-ஆண்டு &nbsp; முழுவதும், &nbsp; எஸ்பிளனேட் &nbsp; நாங்கள் &nbsp; முன்வைக்கும் &nbsp; கலை &nbsp; வடிவங்களின் &nbsp; மூலம் &nbsp; இளையர்களின் &nbsp; திறமைகளை &nbsp; வெளிப்படுத்தவும் &nbsp; கலைகள் &nbsp; பற்றிய &nbsp; விழிப்புணர்வை &nbsp; அவர்களிடையே &nbsp; உருவாக்கவும்  &nbsp; விரும்புகிறோம். &nbsp; இதன் &nbsp; வாயிலாகச் &nbsp; சிறுவர்களின் &nbsp; படைப்பாற்றல் &nbsp; மற்றும் &nbsp; கற்பனையாற்றலையும் &nbsp; வெளிப்படுத்தும் &nbsp; முயற்சியில் &nbsp; நாங்கள்  &nbsp; வாய்ப்புகளையும் &nbsp; இட &nbsp; வசதிகளையும் &nbsp; வழங்குகிறோம்.<br/>
-எஸ்பிளனேட் &nbsp; இணையப்பக்கத்தில், &nbsp; குடும்பம் &nbsp; மற்றும் &nbsp; பள்ளிகள் &nbsp; பிரிவில் &nbsp; வழங்கப்பட்டுள்ள &nbsp; வளங்களைப் &nbsp; பயன்படுத்தி &nbsp; மாணவர்கள் &nbsp; பல்வேறு &nbsp; கலை &nbsp; வடிவங்கள்பற்றி &nbsp; அறிந்துகொள்ளலாம். &nbsp; இந்த &nbsp; வளங்கள் &nbsp; மொழியைக் &nbsp; கைவரப்பெற &nbsp; ஊக்குவிப்பதோடு &nbsp; பல்வேறு &nbsp; பண்பாட்டுக் &nbsp; கூறுகளைப் &nbsp; பற்றியும் &nbsp; மரபுகள் &nbsp; குறித்தும் &nbsp; அறிய &nbsp; உதவுகின்றன.</p>
-                     <br/>
-                     <p>
-                    <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Esplanade – Theatres on the Bay</h4>
-                     </p>
-                     <p style="margin:10px;">
-                        As Singapore’s national performing arts centre, Esplanade -  Theatres on the Bay believes in making the arts accessible to everyone.
-                     </p>
-                     <p style="margin:10px;">We want to create an awareness of how Esplanade exposes and educates our young to the performing arts through the different art forms we present at the centre all year round, offering children opportunities and space to express their creativity and imagination.</p>
-                     <p style="margin:10px;">Students can also learn more about the various art forms online through resources provided on the Family and Schools section on Esplanade Offstage. These resources encourage language acquisition as well as discovery of different cultures and traditions.</p>
-                  </div>
-               </div>
-            </td>
-            <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-               <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/arrowTamil.png"></a>
-            </td>
-         </tr>
-         <tr>
-            <td style="border:0 none;padding: 0; margin:0;">
-               <div class="atab">
                   <input id="tab-2" type="checkbox" name="tab">
                   <label for="tab-2" class="lbTM">இருமொழிக் கல்விக்கான லீ குவான் யூ நிதி <br/>Lee Kuan Yew Fund for Bilingualism</label>
                   <div class="tab-content">
