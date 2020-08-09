@@ -46,8 +46,8 @@ third_nav_title: '华文学习展示区'
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi;padding-top:12px;">爱加倍实龙岗分校 </span><br/> Agape Little Uni. @ Upper Serangoon</label>
+      <input id="tab-1" type="checkbox" name="tab">
+      <label for="tab-1" class="lbCh"><span style="font-size:25px;font-family:KaiTi;padding-top:12px;">爱加倍实龙岗分校 </span><br/> Agape Little Uni. @ Upper Serangoon</label>
       <div class="tab-content">
        <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">小眼睛，大世界</h4>
        <p style="font-family:KaiTi;margin:10px;font-size:21px;">
@@ -67,8 +67,8 @@ third_nav_title: '华文学习展示区'
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4" class="lbCh"><span style="font-size:25px;font-family:KaiTi;padding-top:12px;">教育部幼儿园（华苑）</span><br/>MOE Kindergarten @ Farrer Park</label>
+      <input id="tab-2" type="checkbox" name="tab">
+      <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi;padding-top:12px;">教育部幼儿园（华苑）</span><br/>MOE Kindergarten @ Farrer Park</label>
       <div class="tab-content">
        <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">读中乐</h4>
        <p style="font-family:KaiTi;margin:10px;font-size:21px;">
@@ -111,8 +111,8 @@ third_nav_title: '华文学习展示区'
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbCh">MY World @ Simei</label>
+      <input id="tab-4" type="checkbox" name="tab">
+      <label for="tab-4" class="lbCh">MY World @ Simei</label>
      <div class="tab-content">
       <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">华语教学新策略，合作学习趣味多</h4>
        <p style="font-family:KaiTi;margin:10px;font-size:21px;">
