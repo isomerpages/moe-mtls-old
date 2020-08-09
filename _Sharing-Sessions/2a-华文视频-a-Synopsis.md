@@ -74,7 +74,7 @@ max-width:40%;
  <div class="column">
 <img src="images/CL-Dr-Shuhan.jpg" style="width:100%">
    </div>
-   <p><strong>Dr Shuhan C. Wang </strong><br/>
+   <p><strong>Dr Shuhan C. Wang (USA)</strong><br/>
    ELE Consulting International<br/>
 President</p>
    </div><br/>
@@ -89,7 +89,7 @@ President</p>
 Dr. Shuhan C. Wang is the President of ELE Consulting International and Director of CELIN at the Asia Society (Chinese Early Language and Immersion Network). She is former Deputy Director of the National Foreign Language Center at the University of Maryland, Executive Director for Chinese Language Initiatives at Asia Society, and Education Associate for World Languages and International Education for the State of Delaware, U.S.A. In addition to numerous scholarly papers and book chapters, she is an author of two series of K-12 Chinese language textbooks. She serves as an advisor to the Ministry of Education in Singapore on the Mother Tongue and Chinese Curriculum Projects. She received her Ph.D. in Educational Linguistics from the University of Pennsylvania. </p><br/>
  
 <h4 style="margin:10px;">Synopsis</h4>
-<p style="margin:10px;"><strong>ELE Consulting International and Chinese Early Language and Immersion Network (CELIN) at Asia Society</strong><br/>
+<p style="margin:10px;"><strong>Principles and Strategies for Mother Tongue and Biliteracy Development for Young Learners</strong><br/>
 To cultivate students who flourish in our MTL Wonderland, we should not approach the transmission of Chinese language and culture as one would a standard school subject. We go far beyond any course or exam, as we are preparing students to embark on a lifelong exploration of the self. Parents and educators need to be familiar with the core principles of intergenerational linguistic and cultural transmission and understand and relate to how children develop strong social-emotional and cognitive skills, how they develop biliteracy, and how biliteracy interplays with other school subjects.</p>
 <p  style="margin:10px;">Our speaker will be sharing a framework for MTL development in an educational ecosystem. The framework draws upon studies in early childhood development, heritage language education, bilingual and biliteracy development, and language immersion education. She offers practical strategies, applicable to daily life and learning, that will guide students towards a healthy self-identity, high proficiency and literacy in MTL and English, and global competency in intergenerational connection and intercultural engagement. 
  <br/>
@@ -112,7 +112,7 @@ To cultivate students who flourish in our MTL Wonderland, we should not approach
     <img src="images/CL-Sun-Baoqi.png" style="width:100%">
   </div>
     <p><strong>Dr Sun Baoqi
- </strong> <br/> National Institute of Education, <br/>Nanyang Technological University
+ </strong> <br/> National Institute of Education <br/>Research Scientist
 </p>
        </div>
 
@@ -146,7 +146,7 @@ As home parenting and home-based learning become the new normal, parents are spe
     <img src="images/CL-Dr-Woo-Yen-Yen.png" style="width:100%">
   </div>
     <p><strong> Dr Woo Yen Yen
-  </strong> <br/> Yumcha Studios Pte Ltd</p>
+  </strong> <br/> Yumcha Studios Pte Ltd <br/> CEO</p>
        </div>
     <h4 style="font-size:30px;font-family:KaiTi;margin:10px;">介绍</h4>
        <p style="font-size:21px;font-family:KaiTi;margin:10px;"> 胡恩恩博士是一位企业家，多媒体创作者也是一名多媒体创作者和教育系的教授。她是饮茶工作室的执行长，也是《点心侠》漫画系列与双语学习系统的创始人。胡博士拥有哥伦比亚大学师范学院的博士学位，并曾担任纽约长岛大学的教育系副教授和台湾国立中央大学客座教授。胡博士现与丈夫和女儿居住在台北。</p><br/>
