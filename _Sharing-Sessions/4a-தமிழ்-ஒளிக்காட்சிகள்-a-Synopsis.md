@@ -6,7 +6,7 @@ collection_name: Sharing-Sessions
 third_nav_title: 'தமிழ் ஒளிக்காட்சிகள்'
 ---
 
-<h2 style="padding-top:12px;margin:10px;color:#9b4490;">தமிழ் ஒளிக்காட்சிகள்</h2>
+<h2 style="padding-top:12px;color:#9b4490;">தமிழ் ஒளிக்காட்சிகள்</h2>
 
 <html>
 <head>
