@@ -118,7 +118,7 @@ To cultivate students who flourish in our MTL Wonderland, we should not approach
    <h4 style="font-size:30px;font-family:KaiTi;margin:10px;">介绍</h4>
  <p style="font-size:21px;font-family:KaiTi;margin:10px;">孙宝琦老师拥有新加坡南洋理工大学属下新加坡教育学院授予的教育学博士学位。孙宝琦老师目前任职于新加坡国立教育学院儿童发展研究中心，主要研究双语早期阅读及双语教学。</p><br/>
    <h4 style="font-family:KaiTi;font-size:30px; margin:10px;"> 简介</h4> 
- <p style="font-size:21px;font-family:KaiTi;margin:10px;">近来的疫情让居家育儿和居家学习成为新常态，父母也因此有更多时间来陪伴孩子。那么，如何在家中为孩子营造一个有利于母语发展的语言环境呢？本讲座将通过介绍家庭语言环境对儿童语言发展的理论和实践，让大家进一步了解家庭语言环境的重要性。主讲人还会分享一些切实可行的方法，帮助大家在家中营造亲近母语的环境，例如如何利用资讯科技增加使用母语的机会例如如何利用资讯科技增加使用母语的机会。此外，主讲人也将结合华文的语言特点，向大家提供一些学习建议。</p><br/>
+ <p style="font-size:21px;font-family:KaiTi;margin:10px;">近来的疫情让居家育儿和居家学习成为新常态，父母也因此有更多时间来陪伴孩子。那么，如何在家中为孩子营造一个有利于母语发展的语言环境呢？本讲座将通过介绍家庭语言环境对儿童语言发展的影响，让大家进一步了解家庭语言环境的重要性。主讲人还会分享一些切实可行的方法，帮助大家在家中营造亲近母语的环境，例如如何利用资讯科技增加使用母语的机会。此外，主讲人也将结合华文的语言特点，向大家提供一些学习建议。</p><br/>
 
  <h4 style="margin:10px;">Profile</h4>
  <p style="margin:10px;">
@@ -148,7 +148,7 @@ As home parenting and home-based learning become the new normal, parents are spe
   </strong> <br/> Yumcha Studios Pte Ltd</p>
        </div>
     <h4 style="font-size:30px;font-family:KaiTi;margin:10px;">介绍</h4>
-       <p style="font-size:21px;font-family:KaiTi;margin:10px;"> 胡恩恩博士是一位企业家，也是一名多媒体创作者也是一名多媒体创作者，更是一位教育系的教授。她是饮茶工作室的执行长，也是《点心侠》漫画系列与双语学习系统的创始人。胡博士拥有哥伦比亚大学师范学院的博士学位，并曾担任纽约长岛大学的教育系副教授和台湾国立中央大学客座教授。胡博士现与丈夫和女儿居住在台北。</p><br/>
+       <p style="font-size:21px;font-family:KaiTi;margin:10px;"> 胡恩恩博士是一位企业家，多媒体创作者也是一名多媒体创作者和教育系的教授。她是饮茶工作室的执行长，也是《点心侠》漫画系列与双语学习系统的创始人。胡博士拥有哥伦比亚大学师范学院的博士学位，并曾担任纽约长岛大学的教育系副教授和台湾国立中央大学客座教授。胡博士现与丈夫和女儿居住在台北。</p><br/>
         <h4 style="font-family:KaiTi;font-size:30px; margin:10px;"> 简介</h4>  
        <p style="font-size:21px;font-family:KaiTi;margin:10px;">胡恩恩博士曾经是“红毛派”英文教师，也曾经是撕毁自己华文课本的学生。胡博士将现身说法，分享她如何转变成可以用双语创作漫画的漫画家，以及她如何将漫画改编成音乐剧，在中国25个城市巡演的心路历程。她也将分享自己如何让在美国出生的女儿，从完全不会华文到能完全适应全华文环境的台湾公立小学的经验。
  </p><br/>
@@ -227,9 +227,9 @@ The speaker will share how the curriculum enables children to learn Chinese in c
         <p style="font-size:21px;font-family:KaiTi;margin:10px;">培养良好的阅读习惯与阅读兴趣对幼儿的早期发展是非常重要的。由于许多幼儿无法自主阅读，因此需要大人帮助他们养成良好的阅读习惯。主讲人将讲解幼儿阅读和讲故事的不同策略和技巧，说明如何选择合适的阅读材料，示范如何进行读后活动，分享如何与学生的日常生活相结合，让阅读变得轻松有趣、让孩子们爱上阅读，爱上华文。</p><br/>
   <h4 style="margin:10px;">Profile</h4>  
         <p  style="margin:10px;">
-         Mdm Lim Kwee Hua has more than 38 years of teaching experience and is currently a Principal Master Teacher at the Academy of Singapore Teachers. She has been conferred the National Day Awards Commendation Medal, the Public Administration Medal (Bronze), and the Inspiring Chinese Language Teachers Award. Mdm Lim is a member of the Committee to Promote Chinese Language Learning (Reading Group) and she is also involved in  editing children’s books  and designing language games. She actively promotes language learning by sharing with parents and grandparents strategies for  parent-child and grandparent-child reading.  She also reaches out to the community by conducting regular reading sessions with children at public libraries.</p><br/>
+         Mdm Lim Kwee Hua has more than 38 years of teaching experience and is currently a Principal Master Teacher at the Academy of Singapore Teachers. She has been conferred the National Day Awards Commendation Medal, the Public Administration Medal (Bronze), and the Inspiring Chinese Language Teachers Award. Mdm Lim is a member of the Committee to Promote Chinese Language Learning (Reading Group) and is also involved in  editing children’s books  and designing language games. She actively promotes language learning by sharing with parents and grandparents strategies for  parent-child and grandparent-child reading.  She also reaches out to the community by conducting regular reading sessions with children at public libraries.</p><br/>
  <h4 style="margin:10px;"> Synopsis</h4>  
- <p style="margin:10px;"><strong>Happy Reading and Storytelling with young children </strong><br/>
+ <p style="margin:10px;"><strong>Happy Reading and Storytelling with Young Children </strong><br/>
 Cultivating good reading habits and developing an interest in reading for young children at an early age is critical. As many young children are unable to read independently, they need adult guidance and support to develop good reading habits. The presenter will be sharing different strategies and tips on reading and storytelling including the selection of suitable reading materials, and how parents and educators can relate post- reading activities to children’s daily lives.  By combining all these strategies, reading can become fun and children’s interest in reading in Chinese  further developed.
 </p>
  </div></div>
