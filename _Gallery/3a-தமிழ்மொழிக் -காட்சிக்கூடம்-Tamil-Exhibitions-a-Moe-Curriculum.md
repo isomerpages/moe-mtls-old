@@ -1,7 +1,7 @@
 ---
 title: 'தமிழ்மொழிக் காட்சிக்கூடம்'
 permalink: /Gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-Tamil-Exhibitions-a/Moe-Curriculum/
-breadcrumb: '	தமிழ்மொழிக் -காட்சிக்கூடம்-Tamil-Exhibitions'
+breadcrumb: 'தமிழ்மொழிக் காட்சிக்கூடம்'
 collection_name: Gallery
 third_nav_title: 'தமிழ்மொழிக் காட்சிக்கூடம்'
 ---
