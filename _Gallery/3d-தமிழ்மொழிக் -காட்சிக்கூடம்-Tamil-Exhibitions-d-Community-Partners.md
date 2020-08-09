@@ -267,7 +267,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
                      <br/>
                     <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Animal Wonderland</h4>
                      <p style="margin:10px;">
-                        Animal Wonderland by Wildlife Reserves Singapore presents a living classroom for all three Mother Tongue Languages (MTLs) for both pre and primary schools. Explore pre-visit, in-park and post-visit animal-inspired lesson ideas that motivate children to use Tamil in their daily lives. You will find e-teaching aids to help build an extensive word bank for pre-schoolers. Audio story books featuring giant pandas, Kai Kai and Jia Jia, are now available in [TL]. Primary school students can embark on an e-trail for respective titles in all three MTLs, where they get to practise their MTL and acquire higher order thinking skills.
+                        Animal Wonderland by Wildlife Reserves Singapore presents a living classroom for all three Mother Tongue Languages (MTLs) for both pre and primary schools. Explore pre-visit, in-park and post-visit animal-inspired lesson ideas that motivate children to use Tamil in their daily lives. You will find e-teaching aids to help build an extensive word bank for pre-schoolers. Audio story books featuring giant pandas, Kai Kai and Jia Jia, are now available in Tamil Language. Primary school students can embark on an e-trail for respective titles in all three MTLs, where they get to practise their MTL and acquire higher order thinking skills.
                      </p>
                   </div>
                </div>
