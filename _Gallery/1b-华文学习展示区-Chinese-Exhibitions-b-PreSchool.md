@@ -46,26 +46,6 @@ third_nav_title: '华文学习展示区'
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbCh">MY World @ Simei</label>
-     <div class="tab-content">
-      <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">华语教学新策略，合作学习趣味多</h4>
-       <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-       MY World的教师在华语教学中采用多种寓教于乐的合作学习策略，让幼儿在轻松、愉悦的氛围中多聆听华语，多使用华语。幼儿可在与同伴互动、沟通和交流的过程中，学习如何认真聆听，积极表达，从而提升语言表达及聆听能力、人际交往能力和自信心。 </p><br/>
-
-<h4 style="margin:10px;">Encouraging the Use of Mandarin by Applying Cooperative Learning Strategies in the Classroom</h4>
-<p style="margin:10px;">At MY World, teachers use a variety of cooperative learning strategies to provide children with opportunities to learn and use the Chinese language in a relaxed and pleasant atmosphere. This process of interaction with peers promotes children’s listening skills, language expressions, interpersonal communication skills and self-confidence.
- </p>
- </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-<a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
-</td>
-</tr>
-<tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi;padding-top:12px;">爱加倍实龙岗分校 </span><br/> Agape Little Uni. @ Upper Serangoon</label>
       <div class="tab-content">
@@ -126,6 +106,26 @@ third_nav_title: '华文学习展示区'
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
+</td>
+</tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-1" type="checkbox" name="tab">
+      <label for="tab-1" class="lbCh">MY World @ Simei</label>
+     <div class="tab-content">
+      <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">华语教学新策略，合作学习趣味多</h4>
+       <p style="font-family:KaiTi;margin:10px;font-size:21px;">
+       MY World的教师在华语教学中采用多种寓教于乐的合作学习策略，让幼儿在轻松、愉悦的氛围中多聆听华语，多使用华语。幼儿可在与同伴互动、沟通和交流的过程中，学习如何认真聆听，积极表达，从而提升语言表达及聆听能力、人际交往能力和自信心。 </p><br/>
+
+<h4 style="margin:10px;">Encouraging the Use of Mandarin by Applying Cooperative Learning Strategies in the Classroom</h4>
+<p style="margin:10px;">At MY World, teachers use a variety of cooperative learning strategies to provide children with opportunities to learn and use the Chinese language in a relaxed and pleasant atmosphere. This process of interaction with peers promotes children’s listening skills, language expressions, interpersonal communication skills and self-confidence.
+ </p>
+ </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+<a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
 </tr>
 
