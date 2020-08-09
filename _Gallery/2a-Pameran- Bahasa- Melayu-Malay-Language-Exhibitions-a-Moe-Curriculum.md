@@ -1,12 +1,12 @@
 ---
-title: 'Kurikulum Kementerian Pendidikan Singapura (MOE) (MOE Curriculum)'
+title: 'Kurikulum Kementerian Pendidikan Singapura (MOE)'
 permalink: /Gallery/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-a/Moe-Curriculum/
 breadcrumb: 'Pameran- Bahasa- Melayu-Malay-Language-Exhibitions'
 collection_name: Gallery
 third_nav_title: 'Pameran Bahasa Melayu'
 ---
 
-## Reruai Kurikulum Kementerian Pendidikan Singapura (MOE) (MOE Curriculum)
+## Reruai Kurikulum Kementerian Pendidikan Singapura (MOE)
 <html>
 <body>
 <style>
