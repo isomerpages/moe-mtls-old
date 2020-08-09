@@ -156,7 +156,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
             <td style="border:0 none;padding: 0; margin:0;">
                <div class="atab">
                   <input id="tab-5" type="checkbox" name="tab">
-                  <label for="tab-5" class="lbTM">	தேசிய நூலக வாரியம்<br/>National Library Board</label>
+                  <label for="tab-5" class="lbTM">தேசிய நூலக வாரியம்<br/>National Library Board</label>
                   <div class="tab-content">
                      <p>
                      <h4 style="padding-top:12px;margin:10px;color:#9b4490;">தமிழ் நூலகச் சேவைகள்</h4>
@@ -176,7 +176,9 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
          </tr>
          <tr>
             <td style="border:0 none;padding: 0; margin:0;">
-               <div class="atab">தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு <br/>Tamil Language Learning and Promotion Committee</label>
+               <div class="atab">
+                  <input id="tab-6" type="checkbox" name="tab">
+                  <label for="tab-6" class="lbTM">தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு <br/>Tamil Language Learning and Promotion Committee</label>
                   <div class="tab-content">
                      <p>
                      <h4 style="padding-top:12px;margin:10px;color:#9b4490;">தமிழ்மொழி கற்றல் வளர்ச்சிக் குழு</h4>
@@ -190,8 +192,6 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
                      </p>
                      <p style="margin:10px;">
                         The Tamil Language Learning and Promotion Committee (TLLPC) aims to provide support for Tamil community organisations in promoting the use of Tamil Language and Culture beyond school, and to support the teaching and learning of the language in schools.The key activities in TLLPC include Signature, Flagship and Support programmes. Owing to the challenges posed by the current COVID-19 situation, these programmes have moved online so students can access them at home. TLLPC has collaborated with various Art groups to develop and conduct home-based online programmes for students from Pre-school to Pre-University. Using social media platforms, TLLPC has also engaged the TL community through holding online language contests and sharing language activities. Such adaptations have ensured continuity in our efforts to promote and instil the love of the language and culture amongst students and the wider TL community. This online initiative by TLLPC will be featured at our booth which will showcase how these programmes can be used to enhance the learning of the language and culture. The use of Apps and online games to further boost the learning of the language amongst pre-schoolers and lower Primary pupils will also be displayed.
-                  <input id="tab-6" type="checkbox" name="tab">
-                  <label for="tab-6" class="lbTM">
                      </p>
                   </div>
                </div>
