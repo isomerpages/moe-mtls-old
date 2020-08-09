@@ -1,5 +1,5 @@
 ---
-title: 'Synopsis'
+title: '介绍与简介'
 permalink: /Exhibition/华文视频/Synopsis/
 breadcrumb: '华文视频'
 collection_name: Sharing-Sessions
