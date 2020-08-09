@@ -6,7 +6,7 @@ collection_name: Gallery
 third_nav_title: 'தமிழ்மொழிக் காட்சிக்கூடம்'
 ---
 
-## கல்வி அமைச்சின் பாடக்கலைத்திட்டம்
+<h2 style="padding-top:12px;margin:10px;color:#9b4490;">கல்வி அமைச்சின் பாடக்கலைத்திட்டம்</h2>
 <html>
 <body>
 <style>
