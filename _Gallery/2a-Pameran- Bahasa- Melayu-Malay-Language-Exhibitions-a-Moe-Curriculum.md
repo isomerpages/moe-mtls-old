@@ -6,7 +6,7 @@ collection_name: Gallery
 third_nav_title: 'Pameran Bahasa Melayu'
 ---
 
-## Reruai Kurikulum Kementerian Pendidikan Singapura (MOE)
+<h2 style="padding-top:12px;margin:10px;color:#a3c864;">Reruai Kurikulum Kementerian Pendidikan Singapura (MOE)</h2>
 <html>
 <body>
 <style>
