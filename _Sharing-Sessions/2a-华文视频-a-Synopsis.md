@@ -65,8 +65,8 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbCh"><span style="font-size:20px;font-family:KaiTi">儿童母语及双语文发展的原则和策略 </span><br/> [12.30pm – 1.30pm]<br/> 
-       <span style="font-size:20px;font-family:KaiTi">王周淑涵</span>
+      <label for="tab-1" class="lbCh"><span style="font-size:22px;font-family:KaiTi">儿童母语及双语文发展的原则和策略 </span><br/> [12.30pm – 1.30pm]<br/> 
+       <span style="font-size:22px;font-family:KaiTi">王周淑涵</span>
 </label>
       <div class="tab-content">
         <br/>
