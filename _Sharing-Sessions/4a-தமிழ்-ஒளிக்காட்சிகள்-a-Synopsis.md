@@ -1,5 +1,5 @@
 ---
-title: 'Synopsis'
+title: 'தன்விவரமும் சுருக்க வரைவும்'
 permalink: /Exhibition/தமிழ்-ஒளிக்காட்சிகள்/Synopsis/
 breadcrumb: 'தமிழ் ஒளிக்காட்சிகள்'
 collection_name: Sharing-Sessions
