@@ -72,7 +72,7 @@ max-width:40%;
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1" class="lbTM">தெரிந்தும் தெரியாமலும் சின்னஞ்சிறிய தமிழ்ப்பாடம்
-<br/> [12.30pm – 1.30pm] <br/>Ms Elakeyaa Selvaraji
+<br/> [Livestreaming on 29 August from 12.30pm to 1.30pm] <br/>Ms Elakeyaa Selvaraji
 </label>
       <div class="tab-content">
       <br/>
@@ -105,7 +105,7 @@ max-width:40%;
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2" class="lbTM">கதைகள்வழி மகிழ்ச்சியான கற்றல்
- <br/> [2.00pm – 3.00pm]
+ <br/> [Livestreaming on 29 August from 2.00pm to 3.00pm]
  <br/> Mrs Rani Kanna & Mr Anandha Kannan</label>
       <div class="tab-content">      
        <br/>
