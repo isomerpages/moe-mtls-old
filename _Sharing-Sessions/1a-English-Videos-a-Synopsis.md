@@ -76,7 +76,7 @@ max-width:40%;
    </p>
     </div>
        
-  <h4 style="padding-top:12px;margin:10px">Profile</h4>
+  <h4 style="padding-top:12px;margin:10px">Profile of Panelist</h4>
   
   <p style="margin:10px;"><strong>Mr Lawrence Wong  </strong><br/>
  Minister for Education, Ministry of Education
