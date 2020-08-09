@@ -92,7 +92,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3" class="lbML">Tadika My First School (Seng Kang West) <br/>My First School (Sengkang West)</label>
+      <label for="tab-3" class="lbML">Tadika My First School (Sengkang West) <br/>My First School (Sengkang West)</label>
       <div class="tab-content">
        <h4 style="padding-top:12px;margin:10px;">Bercerita dengan Wayang Kuit</h4>
         <p style="margin:10px;">
