@@ -1,12 +1,12 @@
 ---
-title: 'பள்ளிகள் (Schools)'
+title: 'பள்ளிகள்'
 permalink: /Gallery/தமிழ்மொழிக் -காட்சிக்கூடம்-Tamil-Exhibitions-c/Schools/
 breadcrumb: 'தமிழ்மொழிக் -காட்சிக்கூடம்-Tamil-Exhibitions'
 collection_name: Gallery
 third_nav_title: 'தமிழ்மொழிக் காட்சிக்கூடம்'
 ---
 
-##  பள்ளிகள்  (Schools)
+##  பள்ளிகள்
 <html>
 <head>
 <style>
