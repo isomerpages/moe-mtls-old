@@ -92,7 +92,7 @@ third_nav_title: '华文学习展示区'
       <div class="tab-content">
        <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">读中乐</h4>
        <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-       教育部幼儿园（华苑小学）坚信每个幼儿都有能力学好母语，能够有效地运用母语与人沟通。幼儿园通过借阅图书的亲子阅读活动——MK Book Club，让幼儿自主选择想阅读的图书，从而激发他们阅读母语书籍的兴趣。为了更好地促进阅读习惯的养成，幼儿园建议家长在亲子共读后，与孩子展开有趣的阅读延伸活动，让幼儿在课堂以外拓展母语的学习，帮助他们建立起使用母语的信心。</p><br/>
+       教育部幼儿园（华苑）坚信每个幼儿都有能力学好母语，能够有效地运用母语与人沟通。幼儿园通过借阅图书的亲子阅读活动——MK Book Club，让幼儿自主选择想阅读的图书，从而激发他们阅读母语书籍的兴趣。为了更好地促进阅读习惯的养成，幼儿园建议家长在亲子共读后，与孩子展开有趣的阅读延伸活动，让幼儿在课堂以外拓展母语的学习，帮助他们建立起使用母语的信心。</p><br/>
        <h4 style="margin:10px;">Reading Creates Wonders</h4>
         <p style="margin:10px;">
         MOE Kindergarten @ Farrer Park believes that every child can learn and use Mother Tongue Language (MTL) as an effective communication tool. Guided by this belief for MOE Kindergarten (MK) children, the centre aims to cultivate children’s love and appreciation for reading of MTL books through their centre-based initiative, the MK Book Club. With child-initiated choice of books, children are motivated to read at their own pace.  <br/>
