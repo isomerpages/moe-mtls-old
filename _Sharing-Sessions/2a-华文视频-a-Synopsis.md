@@ -125,7 +125,7 @@ To cultivate students who flourish in our MTL Wonderland, we should not approach
  <p style="margin:10px;">
  Dr Sun Baoqi received her PhD from the National Institute of Education (NIE), Nanyang Technological University (NTU) in Singapore. Her research encompasses socio-cultural-cognitive and policy perspectives on language learning with a particular focus on children’s bilingual education and biliteracy development. She is currently working as a research scientist in one of NIE’s research centres – Centre for Research in Child Development (CRCD).</p><br/>
      <h4 style="margin:10px;">Synopsis</h4> 
- <p style="margin:10px;"><strong>Imperceptible Influence：How to Create a Conducive Mother Tongue Learning Environment at Home</strong> <br/>
+ <p style="margin:10px;"><strong>Imperceptible Influence: How to Create a Conducive Mother Tongue Learning Environment at Home</strong> <br/>
 As home parenting and home-based learning become the new normal, parents are spending more time with their children at home. An often-asked question is how to create a conducive Mother Tongue Language learning environment at home? Drawing on recent research findings and practices, the presenter will explain the importance of creating an appropriate learning environment at home to facilitate  children’s language development. Some practical tips will also be shared with parents and caregivers on how to utilize online and offline resources to promote parent/caregiver-child engagement in their Mother Tongue Language. The presenter will also provide some useful learning strategies for language-specific features in Chinese.
 </p>
 </div></div>
