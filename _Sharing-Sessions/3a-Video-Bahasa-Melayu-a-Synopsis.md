@@ -70,7 +70,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1"  class="lbML">Didik Hibur: Bahan Rangsangan untuk Menggalakkan Pelajar dalam Pembelajaran <br/>Bahasa Melayu  <br/> [12.30pm – 1.30pm]
+      <label for="tab-1"  class="lbML">Didik Hibur: Bahan Rangsangan untuk Menggalakkan Pelajar dalam Pembelajaran <br/>Bahasa Melayu  <br/> [Livestreaming on 29 August from 12.30pm to 1.30pm]
  <br/>Ms Asnida Bte Daud
 </label>
       <div class="tab-content">
@@ -107,7 +107,7 @@ Kajian neurosains telah membuktikan bahawa pembelajaran akan berhenti apabila ke
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2"  class="lbML">Ayuh, Teroka Taman Haiwan Singapura… Melalui Alam Siber! <br/>[2.00pm – 3.00pm] 
+      <label for="tab-2"  class="lbML">Ayuh, Teroka Taman Haiwan Singapura… Melalui Alam Siber! <br/>[Livestreaming on 29 August from 2.00pm to 3.00pm] 
 <br/>Mr Haniman Boniran
 </label>
       <div class="tab-content">      
