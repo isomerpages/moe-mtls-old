@@ -102,7 +102,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 </p><br/>
 
 <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Synopsis</h4>
-<p style="margin:10px;">The environment can have a large impact on the development of a child’s language skills. For children to develop fluency in using their Mother Tongue Language, it is vital they use the language to interact and communicate with others in every environment, be it the home, school or community. This early experience in actively using the language plays a critically role in a child’s language development both socially and psychologically. These early experiences play a critical role in their language development stage socially and physiologically.</p>
+<p style="margin:10px;">The environment can have a large impact on the development of a child’s language skills. For children to develop fluency in using their Mother Tongue Language, it is vital they use the language to interact and communicate with others in every environment, be it the home, school or community. This early experience in actively using the language plays a critically role in a child’s language development both socially and psychologically.</p>
 
 <p style="margin:10px;">Language learning is a social process. Numerous research studies have shown that the amount and quality of adult-child engagement are two of the strongest enablers for developing language skills in children. Frequent and regular adult-child engagement during the early years is associated with better language comprehension, the earlier achievement of language milestones and overall faster growth of language skills.</p>
 
