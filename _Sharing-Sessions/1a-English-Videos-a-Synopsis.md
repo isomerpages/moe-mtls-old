@@ -69,12 +69,11 @@ max-width:40%;
       <label for="tab-1" class="lbeng">Creating an Immersive Environment for the Learning of Our Mother Tongue Languages <br/> [10.00am – 11.00am] <br/>Panel Discussion
 </label>
       <div class="tab-content"><br/>
-  <div class="row">
+  
    <h4 style="padding-top:12px;margin:10px">Moderator</h4>
-       </div>
    
    <p style="margin:10px;"><strong>Ms Sun Xueling </strong><br/>
-    Minister of State, Ministry of Education</p>
+    Minister of State, Ministry of Education</p><br/>
        
  <h4 style="padding-top:12px;margin:10px">Profile of Panelists</h4>
   
