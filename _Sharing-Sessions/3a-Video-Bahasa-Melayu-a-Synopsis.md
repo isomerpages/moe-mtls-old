@@ -133,7 +133,7 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
  <h4 style="margin:10px;"> Profile</h4>   
        <p style="margin:4px;">Mr Haniman Boniran is an Education Manager with Wildlife Reserves Singapore (WRS). He is a certified Institute of Adult Learning adult educator who enjoys interacting with parents and partners from the community.  His involvement in environmental education started when he was a school volunteer at the Singapore Zoo in 2001.  Over the last decade, he has branched into early childhood education, language-based education and teacher training through developingthe  authentic learning experiences offered at WRS. Mr Haniman has conducted workshops, co-created resources and organised in-park educational programmes for teachers and students while partnering with schools and language-based practitioners.</p><br/>
   <h4 style="margin:10px;"> Synopsis</h4>  
-       <p style="margin:10px;"><strong>Let’s Explore Singapore Zoo... through cyberspace!</strong><br/>
+       <p style="margin:10px;"><strong>Let’s Explore Singapore Zoo... through Cyberspace!</strong><br/>
        With the advent of technology, the learning of mother tongue languages can be enhanced by blended learning strategies that are both fun and simple. This webinar aims to share animal-inspired teaching strategies to enhance literacy in the Malay language. Participants will be taken virtually into the immersive environment of Singapore Zoo to meet our animal ambassadors. Using photographs, videos and audiobooks specially curated by Singapore Zoo, we will tap on children’s interest in animals and their sense of curiosity through loose parts play, creative expressions and thinking routines. The child-centric activities covered in this webinar are applicable  at home, in the classroom and outdoors. These authentic learning opportunities  include speaking, listening and responding in the Malay language and featuresof the ECDA and MOE’sMother Tongue Language Frameworks.</p>
 </div></div>
 </td>
@@ -156,7 +156,7 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
    </div>
    <p> <strong> A/P Mariam Aljunied </strong>
 <br/> Special Education Needs Division
-    <br/>Principal Edicational Psychologist, SPED</p>
+    <br/>Principal Educational Psychologist, SPED</p>
    </div>
       <h4 style="margin:10px;"> Profil </h4> 
        <p style="margin:10px;">Profesor Madya (A/P) Mariam Aljunied bertugas sebagai Pengetua Ahli Psikologi Pendidikan di Cawangan Pendidikan Keperluan Khas, Kementerian Pendidikan (MOE). Di samping tugas beliau di MOE, A/P Mariam juga merupakan Profesor Madya di Jabatan Psikologi, Universiti National Singapura dan Pengkaji Bersekutu di Jabatan Sains Bahasa dan Psikologi di Universiti Kolej London (UK). Dengan pengalaman lebih dari 25 tahun sebagai ahli psikologi pendidikan bertauliah, beliau mempunyai kepakaran yang mendalam dalam bidang perkembangan kanak-kanak. Beliau telah menerajui beberapa kajian penting di peringkat nasional dalam bidang ini. A/P Mariam juga aktif dalam usaha-usaha membina kepakaran para pendidik, ahli psikologi dan ibu bapa dalam bidang psikologi kanak-kanak dan pendidikan khas.</p><br/>
