@@ -66,7 +66,7 @@ max-width:40%;
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1" class="lbCh"><span style="font-size:22px;font-family:KaiTi">儿童母语及双语文发展的原则和策略 </span><br/> [12.30pm – 1.30pm]<br/> 
-       <span style="font-size:22px;font-family:KaiTi">王周淑涵</span>
+       <span style="font-size:22px;font-family:KaiTi">王周淑涵博士</span>
 </label>
       <div class="tab-content">
         <br/>
@@ -103,7 +103,7 @@ To cultivate students who flourish in our MTL Wonderland, we should not approach
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2" class="lbCh"><span style="font-size:22px;font-family:KaiTi"> 润物细无声: 如何在家中营造有利于母语发展的语言环境</span><br/>
-[2.00pm – 3.00pm]<br/> <span style="font-size:22px;font-family:KaiTi">孙宝琦</span>
+[2.00pm – 3.00pm]<br/> <span style="font-size:22px;font-family:KaiTi">孙宝琦博士</span>
 </label>
       <div class="tab-content">      
        <br/>
@@ -117,7 +117,7 @@ To cultivate students who flourish in our MTL Wonderland, we should not approach
        </div>
 
    <h4 style="font-size:30px;font-family:KaiTi;margin:10px;">介绍</h4>
- <p style="font-size:21px;font-family:KaiTi;margin:10px;">孙宝琦老师拥有新加坡南洋理工大学属下新加坡教育学院授予的教育学博士学位。孙宝琦老师目前任职于新加坡国立教育学院儿童发展研究中心，主要研究双语早期阅读及双语教学。</p><br/>
+ <p style="font-size:21px;font-family:KaiTi;margin:10px;">孙宝琦博士拥有新加坡南洋理工大学属下新加坡教育学院授予的教育学博士学位。孙宝琦老师目前任职于新加坡国立教育学院儿童发展研究中心，主要研究双语早期阅读及双语教学。</p><br/>
    <h4 style="font-family:KaiTi;font-size:30px; margin:10px;"> 简介</h4> 
  <p style="font-size:21px;font-family:KaiTi;margin:10px;">近来的疫情让居家育儿和居家学习成为新常态，父母也因此有更多时间来陪伴孩子。那么，如何在家中为孩子营造一个有利于母语发展的语言环境呢？本讲座将通过介绍家庭语言环境对儿童语言发展的影响，让大家进一步了解家庭语言环境的重要性。主讲人还会分享一些切实可行的方法，帮助大家在家中营造亲近母语的环境，例如如何利用资讯科技增加使用母语的机会。此外，主讲人也将结合华文的语言特点，向大家提供一些学习建议。</p><br/>
 
@@ -138,7 +138,7 @@ As home parenting and home-based learning become the new normal, parents are spe
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3" class="lbCh"><span style="font-size:22px;font-family:KaiTi">「我把我的中文课本撕毀了!」一位英文教师陪伴女儿<br/>走过的学习中文之路<br/> 胡恩恩</span></label>
+      <label for="tab-3" class="lbCh"><span style="font-size:22px;font-family:KaiTi">「我把我的中文课本撕毀了!」一位英文教师陪伴女儿<br/>走过的学习中文之路<br/> 胡恩恩博士</span></label>
       <div class="tab-content">      
        <br/>
    <div class="row">
@@ -171,7 +171,7 @@ Dr. Woo Yen Yen, former New York-based professor and English teacher, went from 
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
       <label for="tab-4" class="lbCh"><span style="font-size:22px;font-family:KaiTi">2015年小学华文课程简介
-       <br/>徐金红 </span>
+       <br/>徐金红老师</span>
 </label>
   <div class="tab-content">      
        <br/>
@@ -211,7 +211,7 @@ The speaker will share how the curriculum enables children to learn Chinese in c
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
       <label for="tab-5" class="lbCh"> <span style="font-size:22px;font-family:KaiTi">快乐阅读和讲故事
-   <br/>林季华 </span></label>
+   <br/>林季华老师</span></label>
       <div class="tab-content">      
        <br/>
   <div class="row">
@@ -246,7 +246,7 @@ Cultivating good reading habits and developing an interest in reading for young 
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
       <label for="tab-6" class="lbCh"><span style="font-size:22px;font-family:KaiTi">母语学习，赢在起点
-  <br/>李莉</span></label>
+  <br/>李莉老师</span></label>
       <div class="tab-content">      
        <br/>
   <div class="row">
