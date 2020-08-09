@@ -44,7 +44,7 @@ collection_name: Gallery
 <div>
   <a href="/gallery/தமிழ்மொழிக் -காட்சிக்கூடம்-tamil-exhibitions-b/preschool/"><div style="display:inline-block;" class="btn"><img src="/images/preSchoolbtn.png"></div></a>
   <a href="/gallery/தமிழ்மொழிக் -காட்சிக்கூடம்-tamil-exhibitions-c/schools/"><div style="display:inline-block;" class="btn"><img src="/images/schoolbtn.png"></div></a>
-  <a href="/Gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-d/Community-Partners2/" class="btn"><img src="/images/communitypartnerbtn.png"></div></a><br/><br/>
+  <a href="/Gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-d/Community-Partners2/"><div style="display:inline-block;" class="btn"><img src="/images/communitypartnerbtn.png"></div></a><br/><br/>
 </div>
 </td>
 </tr>
