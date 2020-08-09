@@ -74,8 +74,9 @@ max-width:40%;
  <div class="column">
 <img src="images/CL-Dr-Shuhan.jpg" style="width:100%">
    </div>
-   <p><strong>Dr Shuhan C. Wang
-</strong> </p>
+   <p><strong>Dr Shuhan C. Wang </strong><br/>
+   ELE Consulting International<br/>
+President</p>
    </div><br/>
        <h4 style="font-family:KaiTi;font-size:30px; margin:10px;">介绍</h4>
        <p style="font-size:21px;font-family:KaiTi;margin:10px;">王周淑涵博士是ELE国际咨询公司的总裁，也是亚洲协会中文儿童及沉浸式项目大联网主任。她担任过美国马里兰大学国家外语中心的副主任、亚协中文项目执行长，以及特拉华州教育厅的外语和国际教育督学。除了许多学术性著作以外，她还编写了两套幼儿园到十二年级中文教育系列教科书。王博士还担任新加坡教育部母语和华文课程的海外顾问。她的博士专修教育语言学，得自于宾夕法尼亚大学。 </p><br/>
