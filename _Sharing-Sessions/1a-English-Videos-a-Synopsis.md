@@ -154,7 +154,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
       <label for="tab-3" class="lbeng">Raising Bilingual Children: What does the Science Say? 
- <br/> Leher SINGH
+ <br/> A/P Leher Singh
 
 </label>
       <div class="tab-content">      
@@ -163,7 +163,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
  <div class="column">
 <img src="images/EL-Dr-Leher-Singh.png" style="width:100%">
    </div>
-   <p> <strong>Leher Singh </strong>
+   <p> <strong>A/P Leher Singh </strong>
     <br/> National University of Singapore
 </p>
    </div>
