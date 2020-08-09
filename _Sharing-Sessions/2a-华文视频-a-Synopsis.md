@@ -180,8 +180,7 @@ Dr. Woo Yen Yen, former New York-based professor and English teacher, went from 
    </div>
    <p> <strong>Mdm Xu Jinhong </strong>
 <br/>Ministry of Education
-    <br/>Mother Tongue Languages Branch,<br/>
-    Curriculum Planning and Development Division</p>
+    <br/>Senior Specialist, CPDD</p>
    </div>
 
    <h4 style="font-size:30px;font-family:KaiTi;margin:10px;">介绍</h4>
@@ -219,7 +218,9 @@ The speaker will share how the curriculum enables children to learn Chinese in c
 <img src="images/CL-Mdm-Lim-Kwee-Hua.png" style="width:100%">
    </div>
    <p><strong>Mdm Lim Kwee Hua </strong>
-<br/> Academy of Singapore Teachers</p>
+<br/> Academy of Singapore Teachers<br/>
+   Principal Master Teacher
+   </p>
    </div>
        <h4 style="font-size:30px;font-family:KaiTi;margin:10px;">介绍</h4>  
        <p style="font-size:21px;font-family:KaiTi;margin:10px;">林季华老师从事教育工作近40年，目前是新加坡教师学院的首席特级华文教师。林老师曾荣获新加坡国庆日表扬奖章、公共行政奖章（铜）和全国模范华文教师奖等多项殊荣。作为推广华文学习委员会阅读组委员，林老师积极推动华文的学习。她曾编写儿童读物、设计语文游戏、到学前中心与公共图书馆为家长与祖父母进行华文学习与亲子共读讲座。此外，林老师也培训社区讲故事义工，定期到公共图书馆为孩子们举办讲故事与导读活动，分享阅读的乐趣。</p><br/>
