@@ -1,5 +1,5 @@
 ---
-title: '社区合作伙伴 (Community Partners)'
+title: '社区合作伙伴'
 permalink: /Gallery/华文学习展示区-Chinese-Exhibitions-d/Community-Partners/
 breadcrumb: '华文学习展示区-Chinese-Exhibitions'
 collection_name: Gallery
@@ -41,7 +41,7 @@ third_nav_title: '华文学习展示区'
 </style>
 </head>
 <body>
-    <div><h2 style="font-family:KaiTi">社区合作伙伴 (Community Partners)</h2></div>
+    <div><h2 style="font-family:KaiTi">社区合作伙伴</h2></div>
   <table class="tbl">
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -80,7 +80,7 @@ CPCLL’s signature programmes and key activities include Xin Kong Xia National 
           <h4 style="margin:10px;">Esplanade</h4>
         <p style="margin:10px;">
          As Singapore’s national performing arts centre, Esplanade – Theatres on the Bay believes in making the arts accessible to everyone.<br/>
-    We want to create an awareness of how the Esplanadeexposes our young to the performing arts and educates children in the different art forms presented at the centre all year roundoffering them opportunities and space to express their own creativity and imagination. <br/>
+    We want to create an awareness of how the Esplanade exposes our young to the performing arts and educates children in the different art forms presented at the centre all year round offering them opportunities and space to express their own creativity and imagination. <br/>
     Students can also learn more about the various art forms online through resources provided on the Family and Schools section on Esplanade Offstage. These resources encourage language acquisition as well as the discovery of different cultures and traditions.
         </p>
       </div>
@@ -240,7 +240,7 @@ Parents can find out more about the learning opportunities available to the youn
          <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;">读报从小开始</h4>
         <p style="font-family:KaiTi;margin:10px;font-size:21px;">
             新加坡报业控股针对中小学生推出具本地特色、内容新颖有趣的多份学生报。其中包括适合学前孩童阅读的《小小拇指》，小学低年级学生阅读的《小拇指》，小学高年级学生阅读的《大拇指》和中学生阅读的《逗号》。
-此外，新加坡报业控股也设立了综合性网络学习平台，zbschools.sg。学生们能够自行观看和阅读平台上的视频以及其他和新闻相关的内容，借此培养学生阅读新闻的习惯，同时让华文学习更多元、有趣，。</p><br/>
+此外，新加坡报业控股也设立了综合性网络学习平台，zbschools.sg。学生们能够自行观看和阅读平台上的视频以及其他和新闻相关的内容，借此培养学生阅读新闻的习惯，同时让华文学习更多元、有趣。</p><br/>
     <h4 style="margin:10px;">Reading The News From A Tender Age</h4>
     <p style="margin:10px;">Singapore Press Holdings Limited (SPH) has launched four student publications with educational values and fun elements that cater for pre-school, primary and secondary school students. These are Thumbs Up Little Junior, Thumbs Up Junior (lower primary), Thumbs Up (upper primary) and zbCOMMA. <br/>Student publications has also launched an integrated online learning platform, zbschools.sg. where students can explore engaging content and videos which make Chinese learning  both fun and interactive while cultivating the habit of reading at a young age.</p>
 </div>
