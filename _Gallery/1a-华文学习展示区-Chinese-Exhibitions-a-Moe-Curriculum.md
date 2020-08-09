@@ -1,5 +1,5 @@
 ---
-title: '教育部课程  ( MOE Curriculum )'
+title: '教育部课程'
 permalink: /Gallery/华文学习展示区-Chinese-Exhibitions-a/Moe-Curriculum/
 breadcrumb: '华文学习展示区-Chinese-Exhibitions'
 collection_name: Gallery
@@ -58,7 +58,7 @@ width:100% ;
 }
  
 </style>
-  <div><h2 style="font-family:KaiTi;">教育部课程 (MOE Curriculum)</h2>
+  <div><h2 style="font-family:KaiTi;">教育部课程</h2>
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
 <div class="tab" style="display:none;">
   <a href="/test/sch"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">学前教育</div></a>
