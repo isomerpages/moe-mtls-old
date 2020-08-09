@@ -112,7 +112,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-    <label for="tab-4" class="lbCh"><span style="font-size:21px;font-family:KaiTi"> 育青中学 </span><br/>Bedok Green Secondary School</label>
+    <label for="tab-4" class="lbCh"><span style="font-size:25px;font-family:KaiTi"> 育青中学 </span><br/>Bedok Green Secondary School</label>
       <div class="tab-content">
           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">悦读魔法变变变</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">育青中学为低年级学生制定了阅读计划“悦读魔法变变变”。此活动将课本技能与角色扮演游戏（Role Playing Game）、解谜游戏（Puzzle Game）相融合，利用书中的故事情节完成不同的活动或任务，让角色最终成长为一名小魔术师。活动的最终目标是让学生变魔术给家人看，向他们表达心中的爱。此活动不仅激发了学生阅读华文书的兴趣，增加了在生活中与家人使用母语的机会，也增进了家人之间的感情。</p><br/>
@@ -131,7 +131,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5" class="lbCh"><span style="font-size:21px;font-family:KaiTi">圣尼各拉女校（中学）</span><br/>CHIJ St Nicholas Girls School（Sec）</label>
+      <label for="tab-5" class="lbCh"><span style="font-size:25px;font-family:KaiTi">圣尼各拉女校（中学）</span><br/>CHIJ St Nicholas Girls School（Sec）</label>
       <div class="tab-content">
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">“悦读计划–让孩子爱上阅读”</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
