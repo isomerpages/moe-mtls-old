@@ -1,5 +1,5 @@
 ---
-title: 'Synopsis'
+title: 'Profil dan Synopsis'
 permalink: /Exhibition/Video-Bahasa-Melayu/Synopsis/
 breadcrumb: 'Video Bahasa Melayu'
 collection_name: Sharing-Sessions
