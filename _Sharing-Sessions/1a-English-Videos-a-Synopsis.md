@@ -82,7 +82,7 @@ max-width:40%;
 </p><br/>
        
   <p style="margin:10px;"><strong>A/P Mukhlis Abu Bakar  </strong><br/>
-Dr Mukhlis Abu Bakar is Associate Professor and Assistant Head/Malay at the Asian Languages and Cultures Academic Group of the National Institute of Education,Nanyang Technological University. Trained as an applied linguist, he teaches in the area of grammar, linguistics, discourse, bilingualism and literacy. His current research interests lie in the field of childhood bilingualism and biliteracy, and a sociocultural approach to literacy learning in the home, school and faith settings.
+Dr Mukhlis Abu Bakar is Associate Professor and Assistant Head/Malay at the Asian Languages and Cultures Academic Group of the National Institute of Education, Nanyang Technological University. Trained as an applied linguist, he teaches in the area of grammar, linguistics, discourse, bilingualism and literacy. His current research interests lie in the field of childhood bilingualism and biliteracy, and a sociocultural approach to literacy learning in the home, school and faith settings.
 </p><br/>
 
  <p style="margin:10px;"><strong>Kamilah Binte Kamis </strong><br/>
