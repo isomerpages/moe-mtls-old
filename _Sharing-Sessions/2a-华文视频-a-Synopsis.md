@@ -258,7 +258,7 @@ Language development in early childhood is crucial to acquiring sound foundation
      <img src="images/CL-Dr-Woo-Yen-Yen.png" style="width:100%">
    </div>
      <p><strong> Dr Woo Yen Yen
-   </strong> <br/> Yumcha Studios Pte Ltd <br/> CEO</p>
+   </strong> <br/> Yumcha Studios Pte Ltd <br/> Chief Executive Officer</p>
         </div>
      <h4 style="font-size:30px;font-family:KaiTi;margin:10px;">介绍</h4>
         <p style="font-size:21px;font-family:KaiTi;margin:10px;"> 胡恩恩博士是一位企业家，多媒体创作者也是一名多媒体创作者和教育系的教授。她是饮茶工作室的执行长，也是《点心侠》漫画系列与双语学习系统的创始人。胡博士拥有哥伦比亚大学师范学院的博士学位，并曾担任纽约长岛大学的教育系副教授和台湾国立中央大学客座教授。胡博士现与丈夫和女儿居住在台北。</p><br/>
