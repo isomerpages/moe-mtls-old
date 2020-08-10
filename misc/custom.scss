@@ -508,18 +508,22 @@ $desktop: 960px + (2 * $gap) !default;
  }
 
 .atab .lbeng,
+.atab3Line .lbeng,
 .atab1Line .lbeng{
   background: #72c6e9;
 } 
 .atab .lbCh,
+.atab3Line .lbCh,
 .atab1Line .lbCh{
   background: #d84178;
 } 
 .atab .lbML,
+.atab3Line .lbML,
 .atab1Line .lbML{
   background: #a3c864;
 }
 .atab .lbTM,
+.atab3Line .lbTM,
 .atab1Line .lbTM{
   background: #9b4490;
 }
