@@ -24,7 +24,6 @@ homepage_careers: false
 
 # Custom CSS file path
 custom_css_path: /misc/custom.css
-custom_print_css_path: /assets/css/print.css
 
 collections:
     Gallery:
