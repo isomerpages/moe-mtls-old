@@ -73,7 +73,7 @@ max-width:40%;
    <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Moderator</h4>
    
    <p style="margin:10px;"><strong>Ms Sun Xueling </strong><br/>
-    Minister of State, Ministry of Education</p><br/>
+    Minister of State, Ministry of Education & Ministry for Social and Family Development</p><br/>
        
  <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile of Panelists</h4>
   
