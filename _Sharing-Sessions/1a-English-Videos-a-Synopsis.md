@@ -57,10 +57,18 @@ max-width:40%;
     margin-bottom: 5px;
     width: 87%;
     neight:auto;
-    }</style>
+    }
+    </style>
 </head>
   <body>  
-
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-3" type="checkbox" name="tab">
+      <label for="tab-3" class="lbCh">Raising Bilingual Children: What does the <br/>science say?<br/> Leher SINGH <br/> 
+   </label>
+      <div class="tab-content">
+        <br/>
+       <p> This is tab-3</p>
   <hr/>
  
   <img src="images/New_footer.jpg" class="Image" width="1000" height="300">
