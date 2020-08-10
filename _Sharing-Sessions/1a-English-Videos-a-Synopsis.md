@@ -87,7 +87,7 @@ max-width:40%;
  </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/EL-video-Leher/"><div><img src="/images/arrowEng.png"></div></a>
+  <a href="/test/EL-video-Leher/"><img src="/images/arrowEng.png"></a>
 </td>
 </tr>
  </div></div>
