@@ -51,7 +51,7 @@ third_nav_title: '华文学习展示区'
       <div class="tab-content">
       <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;">推广华文学习委员会</h4>
         <p style="font-family:KaiTi;font-size:21px;margin:10px;">
-        成立于2005年的推广华文学习委员会(以下简称“委员会”）旨在争取社会各界对华文教学改革的支持，推动学校、社区组织和媒体之间的合作，营造有利于学习与使用华文华语的大环境。委员会共设立了写作、文化、阅读、学前和宣传与交流五个小组。代表性项目包括“新空下”全国学生新谣节、“爱上华文”街舞比赛等。公众将有机会通过委员会的电子展板了解这些活动如何为家长与学生提供乐学华文华语的机会。</p><br/>
+        成立于2005年的推广华文学习委员会（以下简称“委员会”）旨在争取社会各界对华文教学改革的支持，推动学校、社区组织和媒体之间的合作，营造有利于学习与使用华文华语的大环境。委员会共设立了写作、文化、阅读、学前和宣传与交流五个小组。代表性项目包括“新空下”全国学生新谣节、“爱上华文”街舞比赛等。公众将有机会通过委员会的电子展板了解这些活动如何为家长与学生提供乐学华文华语的机会。</p><br/>
 
 <h4 style="margin:10px;">Committee to Promote Chinese Language Learning</h4>
 <p style="margin:10px;">The Committee to Promote Chinese Language Learning (CPCLL) has been working actively with schools, community organisations and the media since 2005 to create a conducive environment to promote the learning and usage of Chinese beyond schools. The Committee consists of five groups, namely: Reading, Writing, Culture, Pre-school, as well as Outreach and Engagement.
