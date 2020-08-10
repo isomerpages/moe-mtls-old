@@ -151,7 +151,7 @@ As home parenting and home-based learning become the new normal, parents are spe
    </div>
    <p> <strong>Mdm Xu Jinhong </strong>
 <br/>Ministry of Education<br/>
-    Mother Tongue Langauges Branch<br/>
+    Mother Tongue Languages Branch<br/>
     Curriculum Planning and Development Division<br/>
     Senior Specialist</p>
    </div>
@@ -205,7 +205,7 @@ The speaker will share how the curriculum enables children to learn Chinese in c
          Mdm Lim Kwee Hua has more than 38 years of teaching experience and is currently a Principal Master Teacher at the Academy of Singapore Teachers. She has been conferred the National Day Awards Commendation Medal, the Public Administration Medal (Bronze), and the Inspiring Chinese Language Teachers Award. Mdm Lim is a member of the Committee to Promote Chinese Language Learning (Reading Group) and is also involved in  editing children’s books  and designing language games. She actively promotes language learning by sharing with parents and grandparents strategies for  parent-child and grandparent-child reading.  She also reaches out to the community by conducting regular reading sessions with children at public libraries.</p><br/>
  <h4 style="margin:10px;"> Synopsis</h4>  
  <p style="margin:10px;"><strong>Happy Reading and Storytelling with Young Children </strong><br/>
-Cultivating good reading habits and developing an interest in reading for young children at an early age is critical. As many young children are unable to read independently, they need adult guidance and support to develop good reading habits. The presenter will be sharing different strategies and tips on reading and storytelling including the selection of suitable reading materials, and how parents and educators can relate post- reading activities to children’s daily lives.  By combining all these strategies, reading can become fun and children’s interest in reading in Chinese  further developed.
+Cultivating good reading habits and developing an interest in reading for young children at an early age is critical. As many young children are unable to read independently, they need adult guidance and support to develop good reading habits. The presenter will be sharing different strategies and tips on reading and storytelling including the selection of suitable reading materials, and how parents and educators can relate post-reading activities to children’s daily lives.  By combining all these strategies, reading can become fun and children’s interest in reading in Chinese  further developed.
 </p>
  </div></div>
 </td>
