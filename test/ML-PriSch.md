@@ -78,7 +78,7 @@ table.center {
 <br/>
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-   <label for="tab-1" class="lbML">Objektif  Kurikulum Bahasa Melayu
+   <label for="tab-1" class="lbML">Objektif Kurikulum Bahasa Melayu
 </label>
      <div class="tab-content">
        <p>Pada akhir perngajaran dan pembelajaran Bahasa Melayu di sekolah rendah, murid depat:
@@ -149,8 +149,7 @@ table.center {
          <table class="center">
   
   <tr>
-    <td>Ibu/Bapa</td>
-     <td>:</td>
+    <td>Ibu/Bapa:</td>
     <td>tika<span style="color:red">r</span></td>
    
   </tr>
