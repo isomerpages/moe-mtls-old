@@ -144,7 +144,7 @@ As home parenting and home-based learning become the new normal, parents are spe
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
-<div class="atab1Line">
+<div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
       <label for="tab-4" class="lbCh"><span style="font-size:22px;font-family:KaiTi">2015年小学华文课程简介
        <br/>徐金红老师</span>
@@ -184,7 +184,7 @@ The speaker will share how the curriculum enables children to learn Chinese in c
  </tr>
  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
-<div class="atab1Line">
+<div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
       <label for="tab-5" class="lbCh"> <span style="font-size:22px;font-family:KaiTi">快乐阅读和讲故事
    <br/>林季华老师</span></label>
@@ -219,7 +219,7 @@ Cultivating good reading habits and developing an interest in reading for young 
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
-<div class="atab1Line">
+<div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
       <label for="tab-6" class="lbCh"><span style="font-size:22px;font-family:KaiTi">母语学习，赢在起点
   <br/>李莉老师</span></label>
