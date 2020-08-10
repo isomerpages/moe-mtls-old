@@ -406,7 +406,7 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
     height: 100%;
 }
-.atab label::after {
+.atab label::after{
   content: "+";
   font-size: 22px;
   position: absolute;
@@ -414,11 +414,27 @@ $desktop: 960px + (2 * $gap) !default;
   top: 18px;
   transition: all 0.4s;
 }
+.atab1Line label::after{
+  content: "+";
+  font-size: 22px;
+  position: absolute;
+  right: 10px;
+  top: 5px;
+  transition: all 0.4s;
+}
 .atab input[type=checkbox]:checked + label::after,
-.atab input[type=radio]:checked + label::after {
+.atab input[type=radio]:checked + label::after{
     content: 'x';
     right: 14px;
     top: 18px;
+  //transform:rotate(-225deg);
+   /* transform: rotate(90deg); */
+}
+.atab1Line input[type=checkbox]:checked + label::after,
+.atab1Line input[type=radio]:checked + label::after{
+    content: 'x';
+    right: 14px;
+    top: 5px;
   //transform:rotate(-225deg);
    /* transform: rotate(90deg); */
 }
@@ -426,17 +442,21 @@ $desktop: 960px + (2 * $gap) !default;
   overflow: hidden;
   display: none;
 }
-.atab{
+.atab,
+.atab1Line{
   margin-bottom: 5px;
   width:700px;  
 }
-.atab input:checked ~ .tab-content {
+.atab input:checked ~ .tab-content,
+.atab1Line input:checked ~ .tab-content{
   display: inline-block;
 }
-.atab input {
+.atab input,
+.atab1Line input{
   display: none;
 }
-.atab label {
+.atab label,
+.atab1Line label{
   position: relative;
   display: block;
   background: #9b4490;
@@ -461,16 +481,20 @@ $desktop: 960px + (2 * $gap) !default;
   font-weight:600;
  }
 
-.atab .lbeng {
+.atab .lbeng,
+.atab1Line .lbeng{
   background: #72c6e9;
 } 
-.atab .lbCh {
+.atab .lbCh,
+.atab1Line .lbCh{
   background: #d84178;
 } 
-.atab .lbML {
+.atab .lbML,
+.atab1Line .lbML{
   background: #a3c864;
 }
-.atab .lbTM {
+.atab .lbTM,
+.atab1Line .lbTM{
   background: #9b4490;
 }
 .tab-content {
@@ -484,7 +508,8 @@ $desktop: 960px + (2 * $gap) !default;
 .tab-content p {
   margin: 20px;
 }
-.atab input:checked ~ .tab-content {
+.atab input:checked ~ .tab-content,
+.atab1Line input:checked ~ .tab-content{
   /* Set the max-height to a large number */
   /* Or 100% viewport height */
   /* max-height: 100vh; */
