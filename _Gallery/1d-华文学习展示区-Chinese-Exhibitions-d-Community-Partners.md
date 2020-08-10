@@ -55,7 +55,7 @@ third_nav_title: '华文学习展示区'
 
 <h4 style="margin:10px;">Committee to Promote Chinese Language Learning</h4>
 <p style="margin:10px;">The Committee to Promote Chinese Language Learning (CPCLL) has been working actively with schools, community organisations and the media since 2005 to create a conducive environment to promote the learning and usage of Chinese beyond schools. The Committee consists of five groups, namely: Reading, Writing, Culture, Pre-school, as well as Outreach and Engagement.
-CPCLL’s signature programmes and key activities include Xin Kong Xia National Schools Xinyao Festival and Chinese Street Dance Competition. These  events will enable the public to better understand how the series of events hosted by CPCLLserve as a vital channel for both parents and students in learning and appreciating the Chinese Language.
+CPCLL’s signature programmes and key activities include Xin Kong Xia National Schools Xinyao Festival and Chinese Street Dance Competition. These  events will enable the public to better understand how the series of events hosted by CPCLL serve as a vital channel for both parents and students in learning and appreciating the Chinese Language.
 
 
 </p>
