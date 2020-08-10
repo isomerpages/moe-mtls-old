@@ -1,5 +1,5 @@
 ---
-title: 'Malay Primary School'
+title: 'Pendidikan Bahasa Melayu (Sekolah Rendah)'
 permalink: /test/ML-PriSch/
 breadcrumb: 'ML PriSch'
 ---
@@ -78,7 +78,7 @@ table.center {
 <br/>
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-   <label for="tab-1" class="lbML">Objektif  Kurikulum Bahasa Melayu
+   <label for="tab-1" class="lbML">Objektif Kurikulum Bahasa Melayu
 </label>
      <div class="tab-content">
        <p>Pada akhir perngajaran dan pembelajaran Bahasa Melayu di sekolah rendah, murid depat:
@@ -149,8 +149,7 @@ table.center {
          <table class="center">
   
   <tr>
-    <td>Ibu/Bapa</td>
-     <td>:</td>
+    <td>Ibu/Bapa:</td>
     <td>tika<span style="color:red">r</span></td>
    
   </tr>
@@ -285,17 +284,14 @@ Kereta itu berwarna merah.<br/>
 </p>
 </div></div>
 <p>
-<li>Permainan yang disarankan di atas haruslah dilakukan secara santai dan menyeronokkan. 
-Betulkan jawapan anak anda dengan teguran yang 
-   lembut.
-  </li></p>
-  <p>untuk terus mencuba.  
+  <li>Permainan yang disarankan di atas haruslah dilakukan secara santai dan menyeronokkan. </li>
+  
+  <li>Betulkan jawapan anak anda dengan teguran yang lembut.  </li>
+  
+  <li>Galakkan anak anda untuk terus mencuba.  </li>
 
-  <li>Selain itu, permainan yang disarankan juga dapat 
-   mengeratkan hubunga
-</li>
-  <li>Galakkan anak anda n antara anak dan ibu bapa.
-</li>
+  <li>Selain itu, permainan yang disarankan juga dapat mengeratkan hubungan antara anak dan ibu bapa.</li>
 </p>
+
  <img src="/images/ML-Footer.jpg">  
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
