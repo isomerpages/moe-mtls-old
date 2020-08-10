@@ -40,6 +40,9 @@ third_nav_title: 'Pameran Bahasa Melayu'
     width: 87%;
     height:auto;
     }
+ .horizontal-scroll {
+    overflow: unset !important;
+  }
 </style>
 </head>
 <body>
