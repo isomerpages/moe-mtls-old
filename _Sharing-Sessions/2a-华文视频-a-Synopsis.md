@@ -69,7 +69,7 @@ max-width:40%;
 <table class="tbl">
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
-<div class="atab3Line">
+<div class="atab atab3Line">
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1" class="lbCh"><span style="font-size:22px;font-family:KaiTi">儿童母语及双语文发展的原则和策略 </span><br/> [Livestreaming on 29 August from 12.30pm to 1.30pm]<br/> 
        <span style="font-size:22px;font-family:KaiTi">王周淑涵博士</span>
