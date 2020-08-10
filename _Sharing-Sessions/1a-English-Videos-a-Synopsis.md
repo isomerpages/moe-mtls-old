@@ -86,7 +86,7 @@ Dr Mukhlis Abu Bakar is Associate Professor and Assistant Head/Malay at the Asia
 </p><br/>
 
  <p style="margin:10px;"><strong>Kamilah Binte Kamis </strong><br/>
-Miss Kamilah has been teaching in the preschool sector for 6 years. She was inspired to be a preschool teacher due to her love for young children. She was awarded the Outstanding Pre-school Mother Tongue Language Teacher Award (Outstanding Award) in 2019. She would like to inspire her children to love the Malay Language and is always motivated to design interactive and interesting Malay lessons so that her children will stay positive and engaged towards the learning of the Malay language. She has also written a bilingual book for children and would like to continue writing books for young children.
+Miss Kamilah has been teaching in the preschool sector for 6 years. She was inspired to be a preschool teacher due to her love for young children. She was awarded the Outstanding Pre-school Mother Tongue Language Teacher Award (Outstanding Award) in 2019. She would like to inspire her children to love the Malay Language and is always motivated to design interactive and interesting Malay lessons so that her children will stay positive and engaged towards the learning of the Malay Language. She has also written a bilingual book for children and would like to continue writing books for young children.
 </p><br/>
 
  <p style="margin:10px;"><strong>Dr Sukuna S. Vijayadevar </strong><br/>
