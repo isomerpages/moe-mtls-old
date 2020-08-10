@@ -1,9 +1,19 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-################################## 
 
- 
-
- 
+logo: '/images/emtls-2020-logo-01.png'
+links: 
+- title: About Us & Past Symposiums
+  url: /About-Us-And-Past-Symposiums/
+- title: GOH Message
+  url: /GOH-Message/
+- title: Sharing Sessions
+  url: /Sharing-Sessions/
+  collection: Sharing-Sessions
+- title: Gallery
+  url: /About-Us-And-Past-Symposiums/
+  collection: Gallery
+  sub-links:
+  - title: Pre-School Cluster
+    url: /Exhibition/Pre-School Cluster
+- title: Others
+  url: /Others/
+  collection: Others

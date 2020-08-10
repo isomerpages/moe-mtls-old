@@ -1,18 +1,14 @@
-title: Mother Tongue Languages Symposium 2019
-title-abbreviated: the MTLS Team
-description: >- # this means to ignore newlines until "baseurl:"
-  Description
-url: "https://www.mtls.sg" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+title: 'e-Mother Tongue Languages Symposium'
+description: Description
+url: 'https://www.mtls.sg'
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-
 plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-sitemap
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
+paginate: 12
 
 # Breadcrumbs
 breadcrumbs:
@@ -20,25 +16,34 @@ breadcrumbs:
     hide: false  # show breadcrumbs on root/home page
     image: false # Show image or title text
 
-# Resource Room and Pagination
-paginate: 12
-
 # Homepage sections
 homepage_hero_i_want_to: false
+homepage_programmes: true
 homepage_resources: false
 homepage_careers: false
 
-
 # Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 
 collections:
-  left-nav-one:
-    output: true
-  left-nav-two:
-    output: true
-  left-nav-three:
-    output: true
+    Gallery:
+        output: true
+    Sharing-Sessions:
+        output: true
+    Schools:
+        output: true
+    Others:
+        output: true
 resources_name: resource-room
+favicon: /images/emtls-2020-logo-01-favicon.ico
+google-analytics: UA-124401955-1
+is_government: false
+permalink: none
+baseurl: ""
+defaults:
+    -
+        scope:
+            path: ""
+        values:
+            layout: page

@@ -5,8 +5,10 @@
 @charset "utf-8";
 
 // HLB brand colors
-$primary: #FFFFFF;
-$secondary: #4372d6;
+$primary: #4372d6;
+//$secondary: #4372d6; 
+$secondary: #d14165;
+//$menuBackground: #d14165;
 $secondary-hover: lighten($secondary, 10%);
 
 $media-color-one: #49759a;
@@ -133,6 +135,8 @@ $desktop: 960px + (2 * $gap) !default;
 		background-color: $primary !important;
 	}
 	&-secondary {
+		//background-color: $menuBackground !important;
+		//background-color: #f896b0;
 		background-color: $secondary !important;
 	}
 }
@@ -197,7 +201,8 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .bp-section.bp-section-pagetitle {
-  background-color: $primary !important;
+    background-color: $secondary !important;
+    //background-color: $menuBackground !important;
 }
 
 // Pagination
@@ -363,3 +368,186 @@ $desktop: 960px + (2 * $gap) !default;
 .bp-hero-body {
 	background: unset;
 }
+
+.atab1Line{
+    margin-bottom: 5px;
+    width: 87%;
+    height:auto;
+    }
+
+.btnClass{
+  display:inline-block;
+  padding: 15px 20px;
+  text-align:center;
+  text-decoration:none;
+  color:#ffffff;
+  background-color:#d14165;
+  border-radius:6px;
+  outline:none;
+  cursor:pointer;
+  margin-right: 10px;
+  margin-bottom: 7px;
+  width: 180px;
+}
+.btnClass:hover {
+    background: #8991a2;
+}
+.video-container {
+    overflow: hidden;
+    position: relative;
+    width:100%;
+}
+
+.video-container::after {
+    padding-top: 56.25%;
+    display: block;
+    content: '';
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.atab label::after{
+  content: "+";
+  font-size: 22px;
+  position: absolute;
+  right: 10px;
+  top: 28%;
+  transition: all 0.4s;
+}
+.atab1Line label::after{
+  content: "+";
+  font-size: 22px;
+  position: absolute;
+  right: 10px;
+  top: 5%;
+  transition: all 0.4s;
+}
+.atab3Line label::after{
+  content: "+";
+  font-size: 22px;
+  position: absolute;
+  right: 10px;
+  top: 34%;
+  transition: all 0.4s;
+}
+.atab input[type=checkbox]:checked + label::after,
+.atab input[type=radio]:checked + label::after{
+    content: 'x';
+    right: 14px;
+    top: 28%;
+  //transform:rotate(-225deg);
+   /* transform: rotate(90deg); */
+}
+.atab1Line input[type=checkbox]:checked + label::after,
+.atab1Line input[type=radio]:checked + label::after{
+    content: 'x';
+    right: 14px;
+    top: 5%;
+  //transform:rotate(-225deg);
+   /* transform: rotate(90deg); */
+}
+.atab3Line input[type=checkbox]:checked + label::after,
+.atab3Line input[type=radio]:checked + label::after{
+    content: 'x';
+    right: 14px;
+    top: 34%;
+  //transform:rotate(-225deg);
+   /* transform: rotate(90deg); */
+}
+.tab-content {
+  overflow: hidden;
+  display: none;
+}
+.atab,
+.atab3Line,
+.atab1Line{
+  margin-bottom: 5px;
+  width:700px;  
+}
+
+.atab input:checked ~ .tab-content,
+.atab3Line input:checked ~ .tab-content,
+.atab1Line input:checked ~ .tab-content{
+  display: inline-block;
+}
+.atab input,
+.atab3Line input,
+.atab1Line input{
+  display: none;
+}
+.atab label,
+.atab3Line label,
+.atab1Line label{
+  position: relative;
+  display: block;
+  background: #9b4490;
+  color: #fff;
+  font-weight: bold;
+  padding: 10px;
+  cursor: pointer;
+} 
+
+ .btntop {
+ position:fixed;
+ float:right;
+ bottom:20px;
+ right:80px;
+ z-index:99;
+ boder:none;
+ background-color:#d14165;
+ cursor:pointer;
+ padding:15px;
+  boder-radius:4px;
+  color:white;
+  font-weight:600;
+ }
+
+.atab .lbeng,
+.atab3Line .lbeng,
+.atab1Line .lbeng{
+  background: #72c6e9;
+} 
+.atab .lbCh,
+.atab3Line .lbCh,
+.atab1Line .lbCh{
+  background: #d84178;
+} 
+.atab .lbML,
+.atab3Line .lbML,
+.atab1Line .lbML{
+  background: #a3c864;
+}
+.atab .lbTM,
+.atab3Line .lbTM,
+.atab1Line .lbTM{
+  background: #9b4490;
+}
+.tab-content {
+  overflow: hidden;
+  margin-top: 0px;
+  /* CSS animation will not work with auto height */
+  /* This is why we use max-height */
+  transition: max-height 0.4s; 
+  height: auto;
+}
+.tab-content p {
+  margin: 20px;
+}
+.atab input:checked ~ .tab-content,
+.atab3Line input:checked ~ .tab-content,
+.atab1Line input:checked ~ .tab-content{
+  /* Set the max-height to a large number */
+  /* Or 100% viewport height */
+  /* max-height: 100vh; */
+  height: 100%;
+}
+.btnImg{
+  display:none;
+}
+
+

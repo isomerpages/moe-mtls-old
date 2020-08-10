@@ -1,28 +1,19 @@
+  
 ##################################
 #                                #
-# WOHOO!
+# Feel free to edit this file :) #
 #                                #
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/emtls-2020-logo-01-favicon.ico
 
 # Agency logo
-agency-logo: /images/Title FA-01.png
+agency-logo: /images/emtls-2020-logo-01.png
 
-# Hero Banner 
-fontsize: 200pt
-hero-banner: /MTLS_Home2.jpg
+# Hero Banner
+hero-banner: /images/MTLS_Web_Banner.jpg
 
-#Call to Action Button
-#button:
-#  - text: Register Now
-#    url: https://google.com
-#   external: true
 
 #Google Analytics
 google-analytics: UA-124401955-1
-
-key-highlights:
-
-
