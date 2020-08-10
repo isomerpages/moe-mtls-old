@@ -68,7 +68,15 @@ max-width:40%;
    </label>
       <div class="tab-content">
         <br/>
-       <p> This is tab-3</p>
+       <div class="row">
+ <div class="column">
+<img src="images/EL-Dr-Leher-Singh.png" style="width:100%">
+   </div>
+   <p> <strong>A/P Leher Singh </strong>
+    <br/>National University of Singapore<br/>Psychology Department <br/>
+    Director of Research
+</p>
+   </div>
  </div></div>
   <hr/>
  
