@@ -1,7 +1,7 @@
 ---
 title: 'Profil dan Sinopsis'
 permalink: /Exhibition/Video-Bahasa-Melayu/Synopsis/
-breadcrumb: 'Video Bahasa Melayu'
+breadcrumb: 'Profil dan Sinopsis'
 collection_name: Sharing-Sessions
 third_nav_title: 'Video Bahasa Melayu'
 ---
