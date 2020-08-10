@@ -13,12 +13,7 @@ third_nav_title: '华文视频'
   border-collapse: collapse;
   width: 100%;
 }
- .atab,
-.atab1Line{
-    margin-bottom: 5px;
-    width: 87%;
-    neight:auto;
-    }
+ 
 
 td, th {
   border: 1px solid gray;
