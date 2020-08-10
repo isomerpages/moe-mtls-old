@@ -284,7 +284,7 @@ Kereta itu berwarna merah.<br/>
 </p>
 </div></div>
 <p>
-  <li>Permainan yang disarankan di atas haruslah dilakukan secara santai dan menyeronokkan. </li></p>
+  <li>Permainan yang disarankan di atas haruslah dilakukan secara santai dan menyeronokkan. </li>
   
   <li>Betulkan jawapan anak anda dengan teguran yang lembut.  </li>
   
