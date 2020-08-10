@@ -56,7 +56,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
   </p><br/>
      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Malay Language & Cultural ICT Trail</h4>
         <p style="margin:10px;">
-          The Malay Language & Cultural ICT Trail in Bendemeer Primary School provides the students with a platform to cultivate their passion for the Malay language and culture via authentic learning stations enhanced with ICT to make learning more engaging and joyful. As each station is located around the school, students are taken on an adventure to activate their senses as they explore, learn and play using the interesting elements provided. The ready availability  of ICT through iPads and Google Sites allows students to learn virtually while creating a more holistic learning experience.
+          The Malay Language & Cultural ICT Trail in Bendemeer Primary School provides the students with a platform to cultivate their passion for the Malay Language and culture via authentic learning stations enhanced with ICT to make learning more engaging and joyful. As each station is located around the school, students are taken on an adventure to activate their senses as they explore, learn and play using the interesting elements provided. The ready availability  of ICT through iPads and Google Sites allows students to learn virtually while creating a more holistic learning experience.
         </p>
       </div>
 </div>
