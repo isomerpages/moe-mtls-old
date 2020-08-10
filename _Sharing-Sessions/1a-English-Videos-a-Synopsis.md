@@ -163,7 +163,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 <img src="images/EL-Dr-Leher-Singh.png" style="width:100%">
    </div>
    <p> <strong>A/P Leher Singh </strong>
-    <br/>Psychology Department, <br/>National University of Singapore<br/>
+    <br/>National University of Singapore<br/>Psychology Department <br/>
     Director of Research
 </p>
    </div>
