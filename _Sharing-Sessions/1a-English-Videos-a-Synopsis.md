@@ -114,7 +114,71 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 
 </td>
 </tr>
-  
+ <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+      <label class="lbeng" for="tab-2">Multimodal Approaches to Developing Oracy<br/> [Livestreaming on 29 August from 3.30pm to 4.30pm]  <br/> Dr Connie Lum
+</label>
+      <div class="tab-content">      
+       <br/>
+  <div class="row">
+ <div class="column">
+<img src="images/EL-Dr-Connie.jpg" style="width:100%">
+   </div>
+   <p> <strong>Dr Connie Lum </strong>
+ <br/> NTUC First Campus
+<br/>
+ Principal Curriculum Specialist
+</p>
+   </div>
+       <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4></p>
+       <p style="margin:10px;">Dr Connie Lum has worked in the early childhood field for over 20 years. She is currently Director, Mother Tongue Languages (NTUC First Campus).  She works closely with principals and teachers in delivering the Chinese curriculum and programmes to children through curriculum writing, training of teachers, evaluating children’s learning environment, and conducting continuous reviews of curriculum tools and techniques. She is a member of the Promote Chinese Language Learning Pre-School Chinese Language Education Support Group.</p>
+       
+  <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Synopsis</h4></p>  
+       <p style="margin:10px;"><strong> Multimodal Approaches to Developing Oracy </strong><br/>
+        Integrating multimodal experiences, coupled with specific learning objectives and age-appropriate activities, are common pedagogies used in early childhood education. In order to even further recognise and support the diverse abilities and interests of our young learners, plentiful opportunities for lively and authentic expression should be integrated into the child’s environment during the early years. Multimodal approaches in developing oracy such as the use of manipulatives in games, finger puppet activities, paired discussion and storytelling activities, as well as the incorporation of movement into music activities which use verbal communication will be explored in the session.
+
+        
+</p>  
+</div></div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+  <a href="/test/EL-video-Connie/"><div ><img src="/images/arrowEng.png"></div></a>
+</td>
+</tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-3" type="checkbox" name="tab">
+      <label for="tab-3" class="lbeng">Raising Bilingual Children: What does the Science Say? 
+ <br/> A/P Leher Singh
+
+</label>
+      <div class="tab-content">      
+       <br/>
+  <div class="row">
+ <div class="column">
+<img src="images/EL-Dr-Leher-Singh.png" style="width:100%">
+   </div>
+   <p> <strong>A/P Leher Singh </strong>
+    <br/>National University of Singapore<br/>Psychology Department <br/>
+    Director of Research
+</p>
+   </div>
+<p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4></p>
+  <p style="margin:10px;">Dr. Leher Singh is the Associate Professor of Psychology at the National University of Singapore. She also directs the NUS Infant and Child Language Centre. Her research focuses on the impact of bilingualism on language acquisition, social development and cognitive growth in young children.</p>
+
+  <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Synopsis</h4></p> 
+  <p style="margin:10px;"><strong>Raising Bilingual Children: What does the Science Say?</strong><br/>
+ Raising bilingual children opens children up to tremendous opportunities. At the same time, families often experience stress when learning how best to raise children to be bilingual. What works and what doesn't? What does the science say? This sharing session will focus on how bilingualism can impact a child’s development, as well as some of the common challenges that parents face. Research-based strategies will be shared on how to support the development of bilingualism in young children and how parents can overcome the challenges they will face.
+</p>
+ </div></div>
+</td>
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+  <a href="/test/EL-video-Leher/"><div><img src="/images/arrowEng.png"></div></a>
+</td>
+</tr> 
   
   
   
