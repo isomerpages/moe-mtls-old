@@ -35,7 +35,8 @@ third_nav_title: 'Pameran Bahasa Melayu'
     position:absolute;
     margin-left: -100px;
 }
-.atab {
+.atab,
+.atab1Line{
     margin-bottom: 5px;
     width: 87%;
     height:auto;
@@ -43,16 +44,13 @@ third_nav_title: 'Pameran Bahasa Melayu'
  .horizontal-scroll {
     overflow: unset !important;
   }
-  label[for="tab-1"] .atab label::after{
-    top: 5px !important;
-  }
 </style>
 </head>
 <body>
   <table class="tbl">
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
+<div class="atab1Line">
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1" class="lbML"> Berita Harian</label>
       <div class="tab-content">
@@ -221,7 +219,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
  </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
+<div class="atab1Line">
       <input id="tab-9" type="checkbox" name="tab">
       <label for="tab-9" class="lbML">Wildlife Reserves Singapore</label>
       <div class="tab-content">
