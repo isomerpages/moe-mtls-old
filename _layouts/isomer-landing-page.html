@@ -3,10 +3,13 @@ layout: skeleton
 ---
 <style>
 	.bg-hero {
-		background: url('{{site.baseurl}}/images/MTLS_Hero_Banner.jpg') no-repeat top left;
-		-webkit-background-size: cover;
-		background-size: cover;
-		background-position: center center;
+		background: url('{{site.baseurl}}/images/MTLS_Hero_Banner.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
 	}
 
 	.bg-hero-bottom {
