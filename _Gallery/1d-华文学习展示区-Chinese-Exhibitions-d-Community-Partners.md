@@ -1,7 +1,7 @@
 ---
 title: '社区合作伙伴'
 permalink: /Gallery/华文学习展示区-Chinese-Exhibitions-d/Community-Partners/
-breadcrumb: '华文学习展示区'
+breadcrumb: '社区合作伙伴'
 collection_name: Gallery
 third_nav_title: '华文学习展示区'
 ---
