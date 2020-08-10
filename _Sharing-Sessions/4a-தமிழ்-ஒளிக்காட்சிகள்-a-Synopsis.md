@@ -131,7 +131,7 @@ max-width:40%;
       <p  style="margin:10px;">An avid explorer of theatre and fine arts since childhood, Mr Anandha Kannan is a gregarious, animated and engaging artist. He is the Founder Director of AK Theatre Limited (Singapore), a theatre which stages plays for children; Creative Director of Anandha Koothu Trust and Artistic Director of AKT Creations. A Singapore Film Commission scholar, he is a passionate performer who is keen to share his vast knowledge, insights and love for the theatre with students from all walks of life. He has been awarded the International Youth Icon at the World Universities Youth Conference (2008), Best Actor in Television Actors Guild Awards (South India, 2008) and Best Anchor PradhanaVizha 2012 (Singapore TV Awards).</p>
   <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Synopsis</h4>  
        <p  style="margin:10px;"><strong>Joyful Learning through Stories</strong><br/>
-        Storytelling is a powerful medium to stimulate imagination in kids. Imagination enhances a child’s creativity and fosters confidence in communication and speaking skills. This session will share enjoyable techniques for storytelling, interactivity and innovation. That will stimulate your children’s imagination and inspire them. Let us make narratives come alive for children.
+        Storytelling is a powerful medium to stimulate imagination in kids. Imagination enhances a child’s creativity and fosters confidence in communication and speaking skills. This session will share enjoyable techniques for storytelling, interactivity and innovation that will stimulate your children’s imagination and inspire them. Let us make narratives come alive for children.
 </p>
 </div></div>
 </td>
