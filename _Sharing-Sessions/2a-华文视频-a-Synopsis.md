@@ -192,7 +192,8 @@ The speaker will share how the curriculum enables children to learn Chinese in c
    </div>
    <p><strong>Mdm Lim Kwee Hua </strong>
 <br/> Academy of Singapore Teachers<br/>
-   Principal Master Teacher
+    Singapore Centre for Chinese Language<br/>
+    Principal Master Teacher
    </p>
    </div>
        <h4 style="font-size:30px;font-family:KaiTi;margin:10px;">介绍</h4>  
