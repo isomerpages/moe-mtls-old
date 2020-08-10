@@ -108,7 +108,7 @@ To cultivate students who flourish in our MTL Wonderland, we should not approach
 </tr>
  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
-<div class="atab3Line">
+<div class="atab atab3Line">
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2" class="lbCh"><span style="font-size:22px;font-family:KaiTi"> 润物细无声: 如何在家中营造有利于母语发展的语言环境</span><br/>
 [Livestreaming on 29 August from 2.00pm to 3.00pm]<br/> <span style="font-size:22px;font-family:KaiTi">孙宝琦博士</span>
@@ -252,7 +252,7 @@ Language development in early childhood is crucial to acquiring sound foundation
 </tr>
 <tr>
  <td style="border:0 none;padding: 0; margin:0;">
- <div class="atab3Line">
+ <div class="atab atab3Line">
        <input id="tab-3" type="checkbox" name="tab">
        <label for="tab-3" class="lbCh"><span style="font-size:22px;font-family:KaiTi">「我把我的中文课本撕毀了!」一位英文教师陪伴女儿<br/>走过的学习中文之路<br/> 胡恩恩博士</span></label>
        <div class="tab-content">      
