@@ -89,7 +89,7 @@ Dr Mukhlis Abu Bakar is Associate Professor and Assistant Head/Malay at the Asia
 Miss Kamilah has been teaching in the preschool sector for 6 years. She was inspired to be a preschool teacher due to her love for young children. She was awarded the Outstanding Pre-school Mother Tongue Language Teacher Award (Outstanding Award) in 2019. She would like to inspire her children to love the Malay Language and is always motivated to design interactive and interesting Malay lessons so that her children will stay positive and engaged towards the learning of the Malay language. She has also written a bilingual book for children and would like to continue writing books for young children.
 </p><br/>
 
- <p style="margin:10px;"><strong>Dr Sukuna S.Vijayadevar </strong><br/>
+ <p style="margin:10px;"><strong>Dr Sukuna S. Vijayadevar </strong><br/>
 Dr Sukuna S. Vijayadevar is a senior lecturer with NIEC-City Campus. She has served for many years training and developing on-going professional development for practitioners in early childhood education. Her areas of interest in early childhood include teaching language and literacy, inclusive education and leadership in ECE. Dr Sukuna has also conducted talks and workshops for teachers about teaching Tamil Language in preschools. Her workshops for both early childhood and primary school teachers on story-telling and creation of big books in Tamil have always been well received. 
 </p><br/>
 
