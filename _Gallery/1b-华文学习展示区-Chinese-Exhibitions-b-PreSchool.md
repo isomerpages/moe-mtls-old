@@ -37,7 +37,7 @@ third_nav_title: '华文学习展示区'
 .atab1Line{
     margin-bottom: 5px;
     width: 87%;
-    neight:auto;
+    height:auto;
     }
  .horizontal-scroll {
     overflow:unset !important;
