@@ -151,9 +151,7 @@ As home parenting and home-based learning become the new normal, parents are spe
    </div>
    <p> <strong>Mdm Xu Jinhong </strong>
 <br/>Ministry of Education<br/>
-    Mother Tongue Languages Branch<br/>
-    Curriculum Planning and Development Division<br/>
-    Senior Specialist</p>
+    Senior Specialist, CPDD</p>
    </div>
 
    <h4 style="font-size:30px;font-family:KaiTi;margin:10px;">介绍</h4>
