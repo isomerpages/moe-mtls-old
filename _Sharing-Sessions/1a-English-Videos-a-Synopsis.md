@@ -69,6 +69,7 @@ max-width:40%;
       <div class="tab-content">
         <br/>
        <p> This is tab-3</p>
+ </div></div>
   <hr/>
  
   <img src="images/New_footer.jpg" class="Image" width="1000" height="300">
