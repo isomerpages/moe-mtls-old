@@ -150,8 +150,10 @@ As home parenting and home-based learning become the new normal, parents are spe
 <img src="images/CL-Mdm-Xu-Jinhong.png" style="width:100%">
    </div>
    <p> <strong>Mdm Xu Jinhong </strong>
-<br/>Ministry of Education
-    <br/>Senior Specialist, CPDD</p>
+<br/>Ministry of Education<br/>
+    Mother Tongue Langauges Branch<br/>
+    Curriculum Planning and Development Division<br/>
+    Senior Specialist</p>
    </div>
 
    <h4 style="font-size:30px;font-family:KaiTi;margin:10px;">介绍</h4>
