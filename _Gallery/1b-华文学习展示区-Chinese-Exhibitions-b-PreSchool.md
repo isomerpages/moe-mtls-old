@@ -41,7 +41,7 @@ third_nav_title: '华文学习展示区'
  .horizontal-scroll {
     overflow:unset !important;
     }
- .LBL .atab label::after{
+ .atab .LBL label::after{
     top: 5px !important;
   }
 </style>
