@@ -243,7 +243,7 @@ Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal b
 </p>
   <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Synopsis</h4>  
        <p style="margin:10px;"><strong>Parents and their Involvement in Supporting Early Literacy at Home</strong><br/>
-       Home is the first school, and parents are the first teachers. Parental involvement helps to extend teaching outside of the classroom. This in turn helps to create a more positive experience for children and helps them to perform better when they are in school. As such, it is essential for parents to support the learning that happens in pre-school settings at home. Through this session, participants will gain insight on how to create a literacy-rich home environment as they explore fun and practical strategies to promote a love for the Malay language.
+       Home is the first school, and parents are the first teachers. Parental involvement helps to extend teaching outside of the classroom. This in turn helps to create a more positive experience for children and helps them to perform better when they are in school. As such, it is essential for parents to support the learning that happens in pre-school settings at home. Through this session, participants will gain insight on how to create a literacy-rich home environment as they explore fun and practical strategies to promote a love for the Malay Language.
 </p>
         </div></div>
 </td>
