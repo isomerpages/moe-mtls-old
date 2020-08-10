@@ -416,7 +416,7 @@ $desktop: 960px + (2 * $gap) !default;
   font-size: 22px;
   position: absolute;
   right: 10px;
-  top: 18%;
+  top: 28%;
   transition: all 0.4s;
 }
 .atab1Line label::after{
@@ -439,7 +439,7 @@ $desktop: 960px + (2 * $gap) !default;
 .atab input[type=radio]:checked + label::after{
     content: 'x';
     right: 14px;
-    top: 18%;
+    top: 28%;
   //transform:rotate(-225deg);
    /* transform: rotate(90deg); */
 }
