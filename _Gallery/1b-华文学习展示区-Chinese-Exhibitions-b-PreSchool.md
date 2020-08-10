@@ -41,6 +41,14 @@ third_nav_title: '华文学习展示区'
  .horizontal-scroll {
     overflow:unset !important;
     }
+ .atab2 {
+    margin-bottom: 5px;
+    width: 87%;
+    neight:auto;
+    }
+ .atab2 label::after{
+    top:5px !important;
+ }
 </style>
 </head>
 <body>  
@@ -113,7 +121,7 @@ third_nav_title: '华文学习展示区'
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
+<div class="atab2">
       <input id="tab-4" type="checkbox" name="tab">
       <label for="tab-4" class="lbCh">MY World @ Simei</label>
      <div class="tab-content">
