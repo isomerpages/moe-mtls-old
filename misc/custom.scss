@@ -432,7 +432,7 @@ $desktop: 960px + (2 * $gap) !default;
   font-size: 22px;
   position: absolute;
   right: 10px;
-  top: 30px;
+  top: 34px;
   transition: all 0.4s;
 }
 .atab input[type=checkbox]:checked + label::after,
@@ -455,7 +455,7 @@ $desktop: 960px + (2 * $gap) !default;
 .atab3Line input[type=radio]:checked + label::after{
     content: 'x';
     right: 14px;
-    top: 30px;
+    top: 34px;
   //transform:rotate(-225deg);
    /* transform: rotate(90deg); */
 }
