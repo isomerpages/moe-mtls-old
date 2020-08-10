@@ -69,7 +69,7 @@ max-width:40%;
 <table class="tbl">
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
+<div class="atab atab3Line">
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1" class="lbTM">தெரிந்தும் தெரியாமலும் சின்னஞ்சிறிய தமிழ்ப்பாடம்
 <br/> [Livestreaming on 29 August from 12.30pm to 1.30pm] <br/>Ms Elakeyaa Selvaraji
@@ -102,7 +102,7 @@ max-width:40%;
 </tr>
  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
+<div class="atab atab3Line">
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2" class="lbTM">கதைகள்வழி மகிழ்ச்சியான கற்றல்
  <br/> [Livestreaming on 29 August from 2.00pm to 3.00pm]
