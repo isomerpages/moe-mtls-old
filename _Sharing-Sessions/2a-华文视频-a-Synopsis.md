@@ -82,8 +82,7 @@ max-width:40%;
    </div>
    <p><strong>Dr Shuhan C. Wang (USA)</strong><br/>
    ELE Consulting International<br/>
-President<br/><br/>
-    CELIN, Asia Society (Chinese Early Language and Immersion Network)<br/>Director
+President
    </p>
    </div><br/>
        <h4 style="font-family:KaiTi;font-size:30px; margin:10px;">介绍</h4>
