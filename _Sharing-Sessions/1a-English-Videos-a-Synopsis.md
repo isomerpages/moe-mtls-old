@@ -108,7 +108,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 <p style="margin:10px;">Come join us for the panel discussion with our Guest-of-Honour, Mr Lawrence Wong; Moderator, Ms Sun Xueling; and advocators of MTL learning including academics, educators, community partner and celebrity parent. They will discuss the importance of early language development and share useful tips on how we can provide an immersive environment in which our children learn and use our MTLs as living languages.</p>
 
 
- </div></div> </div></td>
+ </div></div> </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
   <a href="/test/EL-video-Ong/"><img src="/images/arrowEng.png"></a>
 
@@ -123,7 +123,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3" class="lbCh">Raising Bilingual Children: What does the <br/>science say?<br/> Leher SINGH <br/> 
+      <label for="tab-3" class="lbeng">>Raising Bilingual Children: What does the <br/>science say?<br/> Leher SINGH <br/> 
    </label>
       <div class="tab-content">
         <br/>
