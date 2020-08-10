@@ -38,6 +38,9 @@ third_nav_title: '华文学习展示区'
     width: 87%;
     neight:auto;
     }
+ .horizontal-scroll {
+    overflow:unset !important;
+    }
 </style>
 </head>
 <body>  
