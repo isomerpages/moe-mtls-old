@@ -187,7 +187,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3" class="lbeng">>Raising Bilingual Children: What does the <br/>science say?<br/> Leher SINGH <br/> 
+      <label for="tab-3" class="lbeng">Raising Bilingual Children: What does the <br/>science say?<br/> Leher SINGH <br/> 
    </label>
       <div class="tab-content">
         <br/>
