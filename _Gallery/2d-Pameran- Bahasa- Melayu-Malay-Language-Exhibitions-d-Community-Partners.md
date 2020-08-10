@@ -43,7 +43,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
  .horizontal-scroll {
     overflow: unset !important;
   }
-  label[for=tab-1] .atab label::after{
+  label[for="tab-1"] .atab label::after{
     top: 5px !important;
   }
 </style>
