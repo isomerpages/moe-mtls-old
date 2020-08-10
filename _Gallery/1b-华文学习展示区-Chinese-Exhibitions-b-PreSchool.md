@@ -60,8 +60,8 @@ third_nav_title: '华文学习展示区'
        爱加倍实龙岗分校的华文课程根据幼儿年龄发展阶段和需求，利用丰富的自然材料，设计、规划了探索角落和一系列活动。通过这些家校合作活动，孩子们与同伴、家长和老师共同探究、总结经验，分享成果。孩子们在充满童趣与寓教于乐的学习环境中，轻松地学习华文、使用华语。</p><br/>
        <h4 style="margin:10px;">The World Beyond My Eyes</h4>
         <p style="margin:10px;">
-         Chinese language has always been an integral part of children’s development at Agape Little Uni. @ Upper Serangoon. At the centre, thought-provoking corners are set up 
-         to provide exploratory opportunities for children to develop problem-solving skills through the use of materials from nature. Through such activities, children are able to  work on inquiry-based projects with the help of their parents and prepare for their termly presentations. The informal storytelling sessions with teachers in the classroom are aimed at cultivating children’s interest and love for the Chinese language both at the centre and at home.
+         Chinese Language has always been an integral part of children’s development at Agape Little Uni. @ Upper Serangoon. At the centre, thought-provoking corners are set up 
+         to provide exploratory opportunities for children to develop problem-solving skills through the use of materials from nature. Through such activities, children are able to  work on inquiry-based projects with the help of their parents and prepare for their termly presentations. The informal storytelling sessions with teachers in the classroom are aimed at cultivating children’s interest and love for the Chinese Language both at the centre and at home.
         </p>
       </div>
 </div>
@@ -125,7 +125,7 @@ third_nav_title: '华文学习展示区'
        MY World的教师在华语教学中采用多种寓教于乐的合作学习策略，让幼儿在轻松、愉悦的氛围中多聆听华语，多使用华语。幼儿可在与同伴互动、沟通和交流的过程中，学习如何认真聆听，积极表达，从而提升语言表达及聆听能力、人际交往能力和自信心。 </p><br/>
 
 <h4 style="margin:10px;">Encouraging the Use of Mandarin by Applying Cooperative Learning Strategies in the Classroom</h4>
-<p style="margin:10px;">At MY World, teachers use a variety of cooperative learning strategies to provide children with opportunities to learn and use the Chinese language in a relaxed and pleasant atmosphere. This process of interaction with peers promotes children’s listening skills, language expressions, interpersonal communication skills and self-confidence.
+<p style="margin:10px;">At MY World, teachers use a variety of cooperative learning strategies to provide children with opportunities to learn and use the Chinese Language in a relaxed and pleasant atmosphere. This process of interaction with peers promotes children’s listening skills, language expressions, interpersonal communication skills and self-confidence.
  </p>
  </div>
 </div>
