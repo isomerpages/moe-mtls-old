@@ -61,7 +61,7 @@ max-width:40%;
     </style>
 </head>
   <body>  
- table class="tbl">
+ <table class="tbl">
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
