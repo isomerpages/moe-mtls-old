@@ -61,6 +61,8 @@ max-width:40%;
     </style>
 </head>
   <body>  
+ table class="tbl">
+<tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
@@ -69,7 +71,7 @@ max-width:40%;
       <div class="tab-content">
         <br/>
        <div class="row">
- <div class="column">
+       <div class="column">
 <img src="images/EL-Dr-Leher-Singh.png" style="width:100%">
    </div>
    <p> <strong>A/P Leher Singh </strong>
@@ -90,7 +92,7 @@ max-width:40%;
   <a href="/test/EL-video-Leher/"><img src="/images/arrowEng.png"></a>
 </td>
 </tr>
- </div></div>
+
   <hr/>
  
   <img src="images/New_footer.jpg" class="Image" width="1000" height="300">
