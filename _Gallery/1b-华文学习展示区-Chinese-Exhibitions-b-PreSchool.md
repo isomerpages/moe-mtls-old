@@ -115,7 +115,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4" class="lbCh">MY World @ Simei</label>
+      <label for="tab-4" class="lbCh LBL">MY World @ Simei</label>
      <div class="tab-content">
       <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">华语教学新策略，合作学习趣味多</h4>
        <p style="font-family:KaiTi;margin:10px;font-size:21px;">
