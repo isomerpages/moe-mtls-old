@@ -427,6 +427,14 @@ $desktop: 960px + (2 * $gap) !default;
   top: 5px;
   transition: all 0.4s;
 }
+.atab3Line label::after{
+  content: "+";
+  font-size: 22px;
+  position: absolute;
+  right: 10px;
+  top: 20px;
+  transition: all 0.4s;
+}
 .atab input[type=checkbox]:checked + label::after,
 .atab input[type=radio]:checked + label::after{
     content: 'x';
@@ -443,24 +451,37 @@ $desktop: 960px + (2 * $gap) !default;
   //transform:rotate(-225deg);
    /* transform: rotate(90deg); */
 }
+.atab3Line input[type=checkbox]:checked + label::after,
+.atab3Line input[type=radio]:checked + label::after{
+    content: 'x';
+    right: 14px;
+    top: 20px;
+  //transform:rotate(-225deg);
+   /* transform: rotate(90deg); */
+}
 .tab-content {
   overflow: hidden;
   display: none;
 }
 .atab,
+.atab3Line,
 .atab1Line{
   margin-bottom: 5px;
   width:700px;  
 }
+
 .atab input:checked ~ .tab-content,
+.atab3Line input:checked ~ .tab-content,
 .atab1Line input:checked ~ .tab-content{
   display: inline-block;
 }
 .atab input,
+.atab3Line input,
 .atab1Line input{
   display: none;
 }
 .atab label,
+.atab3Line label,
 .atab1Line label{
   position: relative;
   display: block;
@@ -469,7 +490,7 @@ $desktop: 960px + (2 * $gap) !default;
   font-weight: bold;
   padding: 10px;
   cursor: pointer;
-}  
+} 
 
  .btntop {
  position:fixed;
@@ -514,6 +535,7 @@ $desktop: 960px + (2 * $gap) !default;
   margin: 20px;
 }
 .atab input:checked ~ .tab-content,
+.atab3Line input:checked ~ .tab-content,
 .atab1Line input:checked ~ .tab-content{
   /* Set the max-height to a large number */
   /* Or 100% viewport height */
