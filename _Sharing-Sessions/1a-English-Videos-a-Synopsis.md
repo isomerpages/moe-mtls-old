@@ -92,6 +92,7 @@ max-width:40%;
   <a href="/test/EL-video-Leher/"><img src="/images/arrowEng.png"></a>
 </td>
 </tr>
+</table>
 
   <hr/>
  
