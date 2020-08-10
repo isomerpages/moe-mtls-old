@@ -1,5 +1,5 @@
 ---
-title: 'Malay Primary School'
+title: 'Pendidikan Bahasa Melayu (Sekolah Rendah)'
 permalink: /test/ML-PriSch/
 breadcrumb: 'ML PriSch'
 ---
