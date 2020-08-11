@@ -121,4 +121,162 @@ Dalam mencapai objektif-objektif ini, adalah penting membantu para pelajar mengg
     </ul>
   <a href="#" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu
  </a>
-   </p>
+   </p>  </div></div>
+   
+  <div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+   <label for="tab-2" class="lbML">Program MLEP-Sec
+</label>
+     <div class="tab-content">
+     <p>Pilih untuk meneruskan program EMAS atau tukar kepada program MLEP
+<br/>
+     <ul><li>Minat dalam sastera Melayu (seperti membaca novel, cerpen dan sajak), 
+</li>
+     <li>Memilih untuk mempelajari sastera Melayu di peringkat Menengah Tiga.
+</li>
+    </ul>
+     </p>
+     <p><u>Biasiswa MLEP-Sec
+ </u><br/>
+       Pelajar MLEP-Sec warganegara Singapura yang cemerlang akan ditawarkan biasiswa oleh Kementerian Pendidikan:
+       <br/>
+  <ul>
+     <li>biasiswa selama dua tahun (Menengah Tiga dan Empat) 
+</li>
+     <li>biasiswa bernilai $1,000 setiap tahun
+</li>
+     <li>yuran sekolah dibiayai (jumlah maksimum $2,400 setiap tahun) 
+
+</li>
+     <li>subsidi penuh bagi Program Penyerapan ke Luar Negara 
+
+</li>
+     <li>sijil pengiktirafan setelah tamat program selama dua tahun 
+
+</li>
+    </ul>
+   </p>  </div></div>
+   <h4  style="font-size:30px;color:green;" >Sokongan Ibu Bapa
+</h4>
+<img src="/images/ML-Sec-Parents.jpg">
+<h4  style="font-size:30px;color:green;" >Program-program Bahasa Melayu</h4> 
+<p style="font-size:25px;">Sertailah program-program yang menggalakkan penggunaan Bahasa Melayu. 
+</p>
+   <div class="atab">
+      <input id="tab-3" type="checkbox" name="tab">
+   <label for="tab-3" class="lbML">Majlis Bahasa Melayu Singapura - Bulan Bahasa 
+</label>
+     <div class="tab-content"> 
+   <p style="font-size:25px;">Tema 2020, ‘Cita. Citra. Cinta. Bahasa Kita.’ ~ menggambarkan langkah kita mengharungi era baharu
+ <a href="#" target="_blank">Majlis Bahasa Melayu Singapura - Bulan Bahasa 
+ </a>
+</p>
+ </div></div> 
+   <div class="atab">
+      <input id="tab-4" type="checkbox" name="tab">
+   <label for="tab-4" class="lbML">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
+</label>
+     <div class="tab-content"> 
+   <p style="font-size:25px;">
+       <ul><li>Fiesta Bahasa
+</li>
+         <li>Kesantunan Bahasa
+</li>
+         </ul>
+ <a href="#" target="_blank">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
+ </a>
+</p>
+ </div></div> 
+  
+   <div class="atab">
+      <input id="tab-5" type="checkbox" name="tab">
+   <label for="tab-5" class="lbML">Taman Warisan Melayu 
+
+</label>
+     <div class="tab-content"> 
+   <p style="font-size:25px;">
+       <ul><li>Pameran Tetap – 6 galeri
+</li>
+         <li>Pameran Khas - Seekor Singa, Seorang Putera dan Sebingkai Cermin: Pantulan dan Biasan Singapura
+</li>
+         </ul>
+ <a href="#" target="_blank">Taman Warisan Melayu  (MLLPC)
+ </a>
+</p>
+ </div></div> 
+ 
+  <div class="atab">
+      <input id="tab-6" type="checkbox" name="tab">
+   <label for="tab-6" class="lbML">Muzium Negara Singapura 
+
+</label>
+     <div class="tab-content"> 
+   <p style="font-size:25px;">
+       <ul><li>Pameran tetap – 4 galeri   
+</li>
+         <li>Pameran Khas – Khazanah Dunia dari Muzium British
+</li>
+         </ul>
+ <a href="#" target="_blank">Muzium Negara Singapura 
+ </a>
+</p>
+ </div></div> 
+
+
+<div class="atab">
+      <input id="tab-7" type="checkbox" name="tab">
+   <label for="tab-7" class="lbML">Perpustakaan Negara Singapura
+
+</label>
+     <div class="tab-content"> 
+   <p style="font-size:25px;">
+       <ul><li>Mari Bercerita – Setiap Minggu <br/> 
+Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
+         <li>Saranan Bacaan – 2 kali setiap bulan  <br/>
+(Khamis pertama & ketiga)
+</li>
+         <li>Gig Puisi – Setiap Bulan  <br/>
+(Sabtu ke 2, 2.30ptg)
+</li>
+         <li>Ilmu Pustaka – Setiap bulan  <br/>
+(Sabtu ke 4, 2.3p ptg
+</li>
+         <li>Bicara Kata – Setiap bulan  <br/>
+(Ikut Jadual Khas)
+</li>
+         <li>Penulis Bercerita – 2 sesi setiap 3 bulan  <br/>
+(Ikut Jadual Khas) 
+</li>
+         </ul>
+ <a href="#" target="_blank">Perpustakaan Negara Singapura
+ </a>
+</p>
+ </div></div> 
+   
+   <div class="atab">
+      <input id="tab-8" type="checkbox" name="tab">
+   <label for="tab-8" class="lbML">Esplanade – Siri Pentas  
+
+</label>
+     <div class="tab-content"> 
+   <p style="font-size:25px;">
+       <ul>
+         <li>Cipta Cita - aneka jenis kesenian dan alami kepelbagaian dan kekayaan dunia Melayu.
+</li>
+         <li>Festival Muara – Persembahan tarian Melayu Nusantara
+
+</li>
+         <li>Gemadah – Festival Muzik Tradisional Melayu
+
+</li>
+         <li>Pesta Raya - kesenian teater, tarian dan muzik dari Melayu nusantara sempena sambutan hari raya.
+
+</li>
+         </ul>
+ <a href="#" target="_blank">Esplanade – Siri Pentas 
+ </a>
+</p>
+ </div></div> 
+   <h4  style="font-size:30px;color:green;" >Bahan-bahan Menyokong Pembelajaran
+</h4> 
+<img src="/images/ML-Sec_OnlineLearning.png">  
