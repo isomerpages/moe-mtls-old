@@ -86,7 +86,7 @@ Dalam mencapai objektif-objektif ini, adalah penting membantu para pelajar mengg
 <li><a href="#" target="_blank">Laporan Semakan Bahasa Ibunda 2010 
 </a></li></ul>
 </p>
-<h4  style="font-size:25px;color:green;" >Gambaran Menyeluruh Kurikulum Bahasa Ibunda
+<h4 id="C1"><span style="font-size:25px;color:green;" >Gambaran Menyeluruh Kurikulum Bahasa Ibunda </span>
 </h4>
 <img src="/images/ML-Sec-Gambaran.jpg"><br/>
 <h4  style="font-size:30px;color:green;" >Gambaran Menyeluruh Kurikulum Bahasa Ibunda
@@ -156,7 +156,7 @@ Dalam mencapai objektif-objektif ini, adalah penting membantu para pelajar mengg
 </li>
     </ul>
    </p>  </div></div>
-   <h4  style="font-size:30px;color:green;" >Sokongan Ibu Bapa
+   <h4 id="C2"> < span style="font-size:30px;color:green;" >Sokongan Ibu Bapa</span>
 </h4>
 <img src="/images/ML-Sec-Parents.jpg">
 <h4  style="font-size:30px;color:green;" >Program-program Bahasa Melayu</h4> 
@@ -277,7 +277,7 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
  </a>
 </p>
  </div></div> 
-   <h4  style="font-size:30px;color:green;" >Bahan-bahan Menyokong Pembelajaran
+   <h4id="C3"><span style="font-size:30px;color:green;" >Bahan-bahan Menyokong Pembelajaran</span>
 </h4> 
 <img src="/images/ML-Sec_OnlineLearning.png">  
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
