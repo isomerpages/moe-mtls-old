@@ -103,3 +103,28 @@ width:100%;
 <p style="font-size:21px;font-family:KaiTi"> <strong>2021中学华文新课程延续了《2010母语检讨委员会报告书》中
   <br/>“乐学善用”的理念，为母语课程定下“沟通、文化、联系”三大目标。新课程也衔接2015小学新课程，强化口语互动与书面互动能力，并提供真实性语料与情境，让学生有更多机会使用母语交流。新课程也保留了2011现行课程中以技能为导向的特点，注入更多文学、文化元素，结合新闻、科技进行教学，以培养乐学善用的华文学习者。</strong>
 </p>
+<div class="atab">
+      <input id="tab-1" type="checkbox" name="tab">
+   <label for="tab-1" style="font-family:KaiTi;font-size:22px" class="lbChPI">更多机会接触文学性语料
+</label>
+     <div class="tab-content">
+       <p style="font-family:KaiTi;font-size:21px;">
+       <ul>
+         <li style="font-family:KaiTi;font-size:21px;"><strong>精读教材：</strong><br/>
+           课文将纳入更多 <span style="font-family:KaiTi;font-size:21px;color:blue;"> 文学性语料 </span>，借以发展学生的想象力和增加阅读乐趣。
+</li>
+        <li style="font-family:KaiTi;font-size:21px;"><strong>泛读教材：
+</strong><br/>
+          开发课文以外的<span style="font-family:KaiTi;font-size:21px;color:blue;"> 泛读 </span> 教材，以多种形式呈现。通过精泛阅读结合，培养学生的阅读习惯，提高学习效益。
+</li></ul></p>
+  <div class="row">
+ <div class="column">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/8bum7oZhw28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+  <span style="color:#d14165;font-size:18px;font-family:KaiTi"> 泛读教材</span>
+</div>
+  <div class="column">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/8bum7oZhw28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:18px;font-family:KaiTi">精泛结合的动画
+</span>
+ </div>
+ </div>
+ <br/>
