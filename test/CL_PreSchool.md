@@ -119,7 +119,7 @@ width:100%;
   </tr>
 </table>
   </div></div>
- <h4 style="font-size:30px;font-family:KaiTi ;color:pink;">大图书共享阅读</h4>
+ <h4 id="C2"><span style="font-size:30px;font-family:KaiTi ;color:pink;">大图书共享阅读</h4>
  <table>
   <tr> 
     <td>
@@ -144,7 +144,7 @@ width:100%;
   <iframe width="560" height="315" src="https://www.youtube.com/embed/lnlNM2YJcOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br/><span style="font-size:18px;font-family:KaiTi">大图书共享阅读视频</span><br/>
 <img src="/images/CL-PreSch-Discovery.jpg"> <br/><span style="font-size:18px;font-family:KaiTi">欲了解“奥秘探索周”计划的活动点子设计，请点击<a href="https://www.nel.moe.edu.sg/resources/49054/49062">此处</a>阅读相关活动设计“我的爱好是武术”和“下棋”。
 </span>
-<h4 style="font-family:KaiTi;font-size:30px; color:pink;" >居家活动好点子</h4>
+<h4 id="C3"><span style="font-family:KaiTi;font-size:30px; color:pink;" >居家活动好点子</h4>
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
    <label for="tab-2" style="font-family:KaiTi;font-size:22px" class="lbChPI">我的家 — 金字塔书
