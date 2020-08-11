@@ -96,7 +96,7 @@ width:100%;
  <a href="#C5" style="font-size:25px"><span style="color:blue;font-family:KaiTi">高中华文语文特选课程
 </span></a><br/>
  <a href="#C6" style="font-size:25px"><span style="color:blue;font-family:KaiTi">双文化课程
-<br/>
+  </span><br/>
    <img src="/images/CL-PreU_Overview.jpg">
    <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
@@ -109,7 +109,7 @@ width:100%;
          For more information on specific subjects, programmes and MTL-related opportunities, please continue to explore further within the website. </p>
      </div></div>
    <br/>
-   : <iframe width="560" height="315" src="https://www.youtube.com/embed/r1_FRRzx0Tg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi">华文主修的未来展望
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/r1_FRRzx0Tg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi">华文主修的未来展望
 </span>
 
    
