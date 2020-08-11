@@ -156,7 +156,7 @@ Dalam mencapai objektif-objektif ini, adalah penting membantu para pelajar mengg
 </li>
     </ul>
    </p>  </div></div>
-   <h4 id="C2"> < span style="font-size:30px;color:green;" >Sokongan Ibu Bapa</span>
+   <h4 id="C2"><span style="font-size:30px;color:green;">Sokongan Ibu Bapa</span>
 </h4>
 <img src="/images/ML-Sec-Parents.jpg">
 <h4  style="font-size:30px;color:green;" >Program-program Bahasa Melayu</h4> 
