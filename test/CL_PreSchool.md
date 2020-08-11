@@ -117,11 +117,13 @@ width:100%;
   <p><img src="/images/CL-Pre-right.png"> </p>    
 </td>
   </tr>
-</table></div></div>
+</table>
+  </div></div>
  <h4 style="font-size:30px;font-family:KaiTi ;color:pink;">大图书共享阅读</h4>
  <table>
   <tr> 
-    <td><p>
+    <td>
+      <p>
    <ol>
    <li style="font-size:25x;font-family:KaiTi">由新加坡教育部编写的大图书是《培育幼儿：新加坡学前课程》的教学资源之一。
 </li>
@@ -135,10 +137,11 @@ width:100%;
 </ol>
 </td>
 <td>
-   <p><img src="/images/CL-Presch-right2.png"> </p>    
+   <img src="/images/CL-Presch-right2.png">   
 </td>
   </tr>
 </table>
+
   <iframe width="560" height="315" src="https://www.youtube.com/embed/lnlNM2YJcOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br/><span style="font-size:18px;font-family:KaiTi">大图书共享阅读视频</span><br/>
 <p><img src="/images/CL-PreSch-Discovery.jpg"> <br/><span style="font-size:18px;font-family:KaiTi">欲了解“奥秘探索周”计划的活动点子设计，请点击<a href="https://www.nel.moe.edu.sg/resources/49054/49062">此处</a>阅读相关活动设计“我的爱好是武术”和“下棋”。
 </span></p> 
