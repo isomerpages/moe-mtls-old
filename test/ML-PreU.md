@@ -6,6 +6,14 @@ breadcrumb: 'ML PreU'
 <html>
 <body>
 <style>
+ <html>
+<body>
+<style>
+ iframe{
+border : 0;
+width:80% ;
+}
+ </style>
 </style>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/ML-PreU-Header.jpg">
