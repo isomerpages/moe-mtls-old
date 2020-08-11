@@ -165,7 +165,7 @@ width:100%;
 </span>
  </div>
  </div>
- <br/>
+
    <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
    <label for="tab-3" style="font-family:KaiTi;font-size:22px" class="lbChPI">运用时事性材料进行延伸学习
