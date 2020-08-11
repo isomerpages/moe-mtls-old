@@ -119,7 +119,29 @@ width:100%;
   <span style="font-size:21px;font-family:KaiTi;"><a href="/Gallery/2020_h1mtl-and-mtlb-syllabus_pre-university.pdf" target="_blank">H1MTL & MTL‘B’ Syllabus Document
 </a></span>
   </p>
-  <p style="font-size:21px;font-family:KaiTi;">数码资源示例：
+  <div class="row">
+ <div class="column">
+: <iframe width="560" height="315" src="https://www.youtube.com/embed/wLFDKHW4ogc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+  <span style="color:#d14165;font-size:18px;font-family:KaiTi"> H1华文数码资源示例 1</span>
+</div>
+  <div class="column">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/YngQbtjEUps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/><span style="color:#d14165;font-size:18px;font-family:KaiTi">H1华文数码资源示例 2
+</span></div> </div>
+<br/>
+<h4 style="font-size:30px;font-family:KaiTi;color:pink;">H2华文与文学课程
+</h4>
+<img src="/images/CL-PreU-H2Cll.jpg">
+<p><span style="font-size:21px;font-family:KaiTi;"><a href="/Gallery/H2CLL_highlights-of-new-syllabus.pdf" target="_blank">新课程亮点 课程标准
+</a></span><br/>
+  <span style="font-size:21px;font-family:KaiTi;"><a href="/Gallery/H2CLL_highlights-of-new-syllabus.pdf" target="_blank">H1MTL & MTL‘B’ Syllabus Document
+</a></span>
+  </p>" target="_blank">新课程课标
+</a></span><br/>
+  <span style="font-size:21px;font-family:KaiTi;"><a href="/Gallery/2020_h1mtl-and-mtlb-syllabus_pre-university.pdf" target="_blank">H1MTL & MTL‘B’ Syllabus Document
+</a></span>
+  </p>
+ <p style="font-size:21px;font-family:KaiTi;">数码资源示例：
 </p>
  <div class="row">
  <div class="column">
