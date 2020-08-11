@@ -87,7 +87,7 @@ width:100%;
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">2021中学华文课程
 </span></a>&nbsp;&nbsp;
  <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:KaiTi">中学华文语文特选课程
-</span></a>&nbsp;&nbsp; <br/><br/></h4>
+</span></a>&nbsp;&nbsp; <br/></h4>
 <p style="font-size:21px;font-family:KaiTi">
 中学华文课程的总目标是进一步提高学生学习华文的兴趣，养成良 好的学习态度和习惯，在潜移默化中培养学生的情意品德，认识和传承优秀的华族文化。通过加强听说读写和语言综合运用的能力，提高学生理解和运用华文的水平。同时，结合语言学习，运用资讯科技等相关技能，强化学生在交际、认知和思维等方面的能力。
 <br/>
