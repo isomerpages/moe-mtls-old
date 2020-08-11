@@ -70,7 +70,7 @@ width:100%;
  
 </style>
 <a href="/gallery/华文学习展示区-chinese-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
-<img src="/images/CL-Presch-Header.jpg">
+<img src="/images/MTLS_Chinese_Secondary-Header-2.jpg">
 <p style="font-size:28px;font-family:KaiTi" ><h4 style="font-size:30px;font-family:KaiTi ;color:pink;">2011中学华文课程
   &nbsp; &nbsp; 
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">2021中学华文课程
