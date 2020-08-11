@@ -96,7 +96,7 @@ width:100%;
  <a href="#C5" style="font-size:25px"><span style="color:blue;font-family:KaiTi">高中华文语文特选课程
 </span></a><br/>
  <a href="#C6" style="font-size:25px"><span style="color:blue;font-family:KaiTi">双文化课程
-  </span><br/>
+  </span> </a><br/>
    <img src="/images/CL-PreU_Overview.jpg">
    <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
