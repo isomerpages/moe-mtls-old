@@ -13,6 +13,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 
  .tab img{
    width: 80%;
+   color: #a3c864;
  }
  .tab table {
    display: none;
@@ -62,10 +63,10 @@ third_nav_title: 'Pameran Bahasa Melayu'
   
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
 <div class="tab">
-  <a href="#Sch"><div style="display:inline-block; font-family:Calibri (Body);color:#a3c864;" class="btnClass">Prasekolah</div></a>
-  <a href="/test/ML-PriSch/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">小学</div></a>
-  <a href="#Sec"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">中学</div></a>
-  <a href="/test/ML-PreU/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">大学先修班</div></a>
+  <a href="#Sch"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">Prasekolah</div></a>
+  <a href="/test/ML-PriSch/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">Sekolah Rendah</div></a>
+  <a href="#Sec"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">Sekolah Menengah</div></a>
+  <a href="/test/ML-PreU/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">Prauniversity</div></a>
 </div>  <br/>
  <div style="margin-top:auto;margin-bottom:auto;text-align:left;">
  <h4 style="padding-top:12px;color:#a3c864;">Memupuk Pelajar Aktif dan Pengguna Cekap</h4>
