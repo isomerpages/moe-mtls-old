@@ -154,7 +154,6 @@ width:100%;
        点子一<br/>
 配合第二学段课程主题-我周围有谁，有哪些地方？<br/><br/>
          先和孩子介绍家里的不同地方，如：客厅、厨房、睡房等。接着，和孩子一起制作金字塔书。你可以点按以下链接，跟着视频做出属于孩子独特的金字塔书。孩子可以根据家里的情况画出不同的装饰。完成后，让孩子用金字塔书来说说自己在家的一日活动吧！
-
-       <iframe width="560" height="315" src="https://www.youtube.com/embed/mhJoflfcZWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br/><span style="font-size:18px;font-family:KaiTi">金字塔书制作视频
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/mhJoflfcZWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br/><span style="font-size:18px;font-family:KaiTi">金字塔书制作视频
 </span><br/>
 </p></div></div>
