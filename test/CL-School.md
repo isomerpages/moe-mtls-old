@@ -47,7 +47,6 @@ breadcrumb: 'CL School'
 }
  iframe{
 border : 0;
-height:auto;
 width:100%;
 }
  .atab input[type=checkbox]:checked + label::after,
