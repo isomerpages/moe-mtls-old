@@ -16,6 +16,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
  }
  .tab table {
    display: none;
+   color: #a3c864;
 }
 .tab table:target {
   display: block;
