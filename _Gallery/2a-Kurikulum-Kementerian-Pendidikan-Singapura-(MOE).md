@@ -23,8 +23,8 @@ third_nav_title: 'Pameran Bahasa Melayu'
 .atab label {
     position: relative;
     display: block;
-    background: #d14165;
-    color: #a3c864;
+    background: #a3c8645;
+    color: #fff;
     font-weight: 700;
     padding: 10px;
     cursor: pointer;
