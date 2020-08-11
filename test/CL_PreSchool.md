@@ -89,7 +89,22 @@ width:100%;
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi">A Day At An MOE Kindergarten </span>
 
-<h4 id= "C1" style="font-size:30px;font-family:KaiTi ;color:pink;">繁星语文课程</h4>
+<h4 id= "C1"><span style="font-size:30px;font-family:KaiTi ;color:pink;">繁星语文课程 </span></h4>
 <img src="/images/CL-PreSch-starlight.jpg">
-
+<div class="atab">
+      <input id="tab-1" type="checkbox" name="tab">
+   <label for="tab-1" style="font-family:KaiTi;font-size:22px" class="lbChPI">学前母语课程框架 </label>
+     <div class="tab-content">
+       <table>
+       <tr>
+         <td><p style="font-size:28px;font-family:KaiTi" >
+    《培育幼儿:学前母语课程框架》的核心理念是:幼儿是好奇、积极、 有能力的母语学习者。持有这个理念的教师必能实现这套框架的愿景、 宗旨以及学习目标。
+<br/>本框架的教学宗旨建立在教学愿景之上，教学宗旨和指导原则又能协助教师设计课堂教学。教师在根据指导原则进行课堂 教学时，应谨记课程学习目标，以实现母语教学的愿景。</p> 
+</td>
+         <p><img src="/images/CL-Pre-right.png"> </p>    
+<td>
+</td>
+  </tr>
+       </table></div></div>
+    
 
