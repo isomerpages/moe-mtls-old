@@ -100,26 +100,25 @@ Dalam mencapai objektif-objektif ini, adalah penting membantu para pelajar mengg
      <div class="tab-content">
      <p>Pilih sekolah menengah EMAS & MLEP<br/>
      <ul><li>Sekolah Menengah Anderson
-<li>
+</li>
      <li>Sekolah Tinggi Pemerintah Bukit Panjang
-<li>
+</li>
      <li>Sekolah Menengah Tanjong Katong
-<li>
+</li>
     </ul>
      </p>
      <p><u>Program Pengayaan </u><br/>
      <ul>
      <li>Perkhemahan Bahasa & Budaya
-<li>
-     <li>Bengkel Penulisan Kreatif<li>
+</li>
+     <li>Bengkel Penulisan Kreatif</li>
      <li>Penerbitan Karya Pelajar
-<li>
+</li>
      <li>Program Penyerapan ke Luar Negara
-<li>
+</li>
      <li>Pendedahan Seni dan Budaya
-<li>
-    
-     </ul>
+</li>
+    </ul>
      </p>
       <a href="#" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu
  </a>
