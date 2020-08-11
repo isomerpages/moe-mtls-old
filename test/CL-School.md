@@ -164,7 +164,7 @@ width:100%;
   <iframe width="560" height="315" src="https://www.youtube.com/embed/8bum7oZhw28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:18px;font-family:KaiTi">精泛结合的动画
 </span></div> </div>
    </div></div>
-<br/>
+
    <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
    <label for="tab-3" style="font-family:KaiTi;font-size:22px" class="lbChPI"> 运用时事性材料进行延伸学习
@@ -187,7 +187,7 @@ width:100%;
   </tr>
 </table>
   </div></div>
-  <br/>
+  
   <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
    <label for="tab-4" style="font-family:KaiTi;font-size:22px" class="lbChPI">紧密结合资讯科技
