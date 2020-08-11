@@ -114,10 +114,10 @@ width:100%;
   <h4 id="C1"><span style="font-size:30px;font-family:KaiTi;color:pink;">高中H1华文与华文B </span>
 </h4>
  <img src="/images/CL-PreU-h1CL.jpg">
-  <p><span style="font-size:21px;font-family:KaiTi;"><a href="/Gallery/2020_h1cl-and-clb-syllabus_pre-university.pdf" target="_blank">H1华文与华文 B 课程标准
-</a></span><br/>
-  <span style="font-size:21px;font-family:KaiTi;"><a href="/Gallery/2020_h1mtl-and-mtlb-syllabus_pre-university.pdf" target="_blank">H1MTL & MTL‘B’ Syllabus Document
-</a></span>
+  <p><a href="/Gallery/2020_h1cl-and-clb-syllabus_pre-university.pdf" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">H1华文与华文 B 课程标准 </span>
+</a><br/>
+  <a href="/Gallery/2020_h1mtl-and-mtlb-syllabus_pre-university.pdf" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">H1MTL & MTL‘B’ Syllabus Document
+ </span></a>
   </p>
   <div class="row">
  <div class="column">
