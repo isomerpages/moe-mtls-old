@@ -166,4 +166,27 @@ width:100%;
  </div>
  </div>
  <br/>
+   <div class="atab">
+      <input id="tab-3" type="checkbox" name="tab">
+   <label for="tab-3" style="font-family:KaiTi;font-size:22px" class="lbChPI">运用时事性材料进行延伸学习
+</label>
+     <div class="tab-content">
+      <table>
+       <tr>
+         <td><p style="font-size:21px;font-family:KaiTi" >
+           <ul><li style="font-size:21px;font-family:KaiTi"><strong>在课本之外，鼓励学生阅读和讨论国内外的新闻时事，从而锻炼学生的思维能力、扩大学生的国际视野。
+</strong></li>
+             <li style="font-size:21px;font-family:KaiTi"><strong>以本地媒体合作，丰富华文学习的资源：
+</strong></li> </ul>
+    早报校园网:<a href="https://zbschools.sg/">https://zbschools.sg/</a><br/>
+    8视界:<a href="https://www.8world.com/">https://www.8world.com/</a><br/>
+ </p> 
+</td>
+<td>
+  <p><img src="/images/CL-School_right2.jpg"> </p>    
+</td>
+  </tr>
+</table>
+  </div></div>
+
 
