@@ -111,5 +111,25 @@ width:100%;
    <br/>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/r1_FRRzx0Tg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi">华文主修的未来展望
 </span>
-
-   
+  <h4 style="font-size:30px;font-family:KaiTi;color:pink;">高中H1华文与华文B
+</h4>
+ <img src="/images/CL-PreU-h1CL.jpg">
+  <p><ul><li style="font-size:21px;font-family:KaiTi;"><a href="Gallery/2020_h1cl-and-clb-syllabus_pre-university.pdf" target="_blank">H1华文与华文 B 课程标准
+</a></li>
+  <li style="font-size:21px;font-family:KaiTi;"><a href="Gallery/2020_h1mtl-and-mtlb-syllabus_pre-university.pdf" target="_blank">H1MTL & MTL‘B’ Syllabus Document
+</a></li>
+  </ul></p>
+  <p style="font-size:21px;font-family:KaiTi;">数码资源示例：
+</p>
+ <div class="row">
+ <div class="column">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bMkJ4oFUkf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+  <span style="color:#d14165;font-size:18px;font-family:KaiTi"> 语文课件：REAP策略</span>
+</div>
+  <div class="column">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/MYZ0v-4T4_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/><span style="color:#d14165;font-size:18px;font-family:KaiTi">文学课件： 修辞手法
+</span></div> </div>
+<h4 style="font-size:30px;font-family:KaiTi;">H2 翻译</h4>
+  <img src="/images/ CL-PreU-Trans.jpg">
+  
