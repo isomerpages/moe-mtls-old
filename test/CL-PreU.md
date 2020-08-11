@@ -171,7 +171,7 @@ width:100%;
   </ul></p>
   <p style="font-size:25px;font-family:KaiTi;color:pink">2019年H2 翻译讲座主讲嘉宾：新传媒新闻与时事主播林稚英与南洋理工大笔译与口译硕士学位课程讲师崔峰博士
 </p>
-<img src="/images/CLEP-gif.gif">
+<img src="/images/CLEP-gif.gif" style:"display:none;">
  <h4 style="font-size:30px;font-family:KaiTi;color:pink">H2 中国通识
 </h4>
 <img src="/images/CL-Preu_H2CSC.jpg">
@@ -181,7 +181,7 @@ width:100%;
 <h4 style="font-size:30px;font-family:KaiTi;color:pink">高中华文语文特选课程
 </h4>
 <img src="/images/CL-PreU-CLEP.jpg"><br/>
-<img src="/images/CLEP-gif.gif"><br/>
+<img src="/images/CLEP-gif.gif" style:"display:none;"><br/>
 <a href="https://sites.google.com/moe.edu.sg/preuclep" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">有关高中华文语文特选课程的更多信息，请浏览
  </span>
 </a>
@@ -191,7 +191,7 @@ width:100%;
  <p style="font-size:25px;font-family:KaiTi;color:pink">双文化营
 <img src="/images/CL_PreU-BSP2.jpg"></p>
 <p style="font-size:25px;font-family:KaiTi;color:pink">双文化课程海外浸濡
-<img src="/images/BSP-gif.gif">
+<img src="/images/BSP-gif.gif" style:"display:none;">
   <a href="https://beta.moe.gov.sg/fees-assistance-awards-scholarships/awards-scholarships/programme-scholarships/" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">有关双文化课程的更多信息，请浏览
  </span>
 </a>
