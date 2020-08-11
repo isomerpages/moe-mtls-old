@@ -82,3 +82,24 @@ width:100%;
 <br/>
 <a href="/Gallery/chinese-secondary-2011-syllabus.pdf" target="_blank"><span style="font-size:21px;font-family:KaiTi" >2011中学华文课程标准</span></a>
  </p>
+<h4 style="font-size:25px;font-family:KaiTi">2011中学华文课程数码资源
+</h4>
+<p style="font-size:21px;font-family:KaiTi">资讯科技的迅速发展给华文教学带来了新方法、新手段。2011中学华文课程开发了适合学生需求、能引起学生兴趣的教学资源，培养学生使用资讯科技进行自主学习的能力，为学生提供更多学习及使用华文的空间。<br/><br/>
+  <img src="/images/MTLS_Chinese_Secondary-Table.PNG"><br/>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/tpObxPbjxgA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <span style="font-size:18px;font-family:KaiTi" > 句式教学
+</span> <br/>
+  <ul >
+    <li style="font-size:18px;font-family:KaiTi"><a href="#" target="_blank">从已知词义推断词语的意思
+</a></li>
+      <li style="font-size:18px;font-family:KaiTi"><a href="#" target="_blank">读写技能：能理解肖像描写和行动描写
+</a></li>
+      <li style="font-size:18px;font-family:KaiTi"><a href="#" target="_blank">听说技能：能说出事情的先后顺序
+</a></li>
+      <li style="font-size:18px;font-family:KaiTi"><a href="#" target="_blank">综合技能：缩写
+</a></li>
+</ul>
+</p>
+<h4 style="font-size:30px;font-family:KaiTi">2021中学华文课程</h4>
+<p style="font-size:21px;font-family:KaiTi"> <strong>2021中学华文新课程延续了《2010母语检讨委员会报告书》中
+  <br/>“乐学善用”的理念，为母语课程定下“沟通、文化、联系”三大目标。新课程也衔接2015小学新课程，强化口语互动与书面互动能力，并提供真实性语料与情境，让学生有更多机会使用母语交流。新课程也保留了2011现行课程中以技能为导向的特点，注入更多文学、文化元素，结合新闻、科技进行教学，以培养乐学善用的华文学习者。</strong>
+</p>
