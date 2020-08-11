@@ -63,7 +63,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 </div>
 </div>
     </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+<td style="border:0 none;padding: 0; margin:0;" >
 <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
@@ -85,7 +85,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+<td style="border:0 none;padding: 0; margin:0;">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
@@ -108,7 +108,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+<td style="border:0 none;padding: 0; margin:0;">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
@@ -127,7 +127,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+<td style="border:0 none;padding: 0; margin:0;">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
@@ -147,7 +147,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+<td style="border:0 none;padding: 0; margin:0;">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
@@ -172,7 +172,7 @@ Parents can find out more about the learning opportunities available for the you
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+<td style="border:0 none;padding: 0; margin:0;">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
@@ -193,7 +193,7 @@ Parents can find out more about the learning opportunities available for the you
   </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+<td style="border:0 none;padding: 0; margin:0;">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
@@ -213,7 +213,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
   </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+<td style="border:0 none;padding: 0; margin:0;">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
  </tr>
@@ -232,7 +232,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+<td style="border:0 none;padding: 0; margin:0;">
  <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
 </td>
 </tr>
