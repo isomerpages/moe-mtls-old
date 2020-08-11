@@ -175,10 +175,8 @@ width:100%;
        <tr>
          <td><p style="font-size:21px;font-family:KaiTi" >
            <ul><li style="font-size:21px;font-family:KaiTi"><strong>在课本之外，鼓励学生阅读和讨论国内外的新闻时事，从而锻炼学生的思维能力、扩大学生的国际视野。
-
 </strong></li>
              <li style="font-size:21px;font-family:KaiTi"><strong>以本地媒体合作，丰富华文学习的资源：
-
 </strong></li> </ul>
     早报校园网:<a href="https://zbschools.sg/">https://zbschools.sg/</a><br/>
     8视界:<a href="https://www.8world.com/">https://www.8world.com/</a><br/>
@@ -220,7 +218,7 @@ width:100%;
 <p style="font-size:25px;font-family:KaiTi;">2021中学华文课程标准力求在小学的基础上，进一步提高学生的语言能力、人文素养和通用能力，帮助学生更好地了解自己、融入社会、放眼世界。
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_llPZDTFQaI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:18px;font-family:KaiTi">2021中学华文课程目标和特点
-</span>
+</span><br/>
 <h4 style="font-size:30px;font-family:KaiTi;color:pink;">中学华文语文特选课程
 </h4>
 <p style="font-size:21px;font-family:KaiTi;">中学华文语文特选课程（简称中学语特）设立的目的是要栽培精通双语的人才，提高学生的华文水平和文学素养。本课程为期2年，所有中学语特学生必须修读华文文学相关课程。学生除了可以参加2-3天语特营，文学讲座、作家座谈会等、也能到中国大陆、台湾等地进行2周海外浸儒活动。从2020年开始，教育部在9所中学开办中学华文语文特选课程。</p>
