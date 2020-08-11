@@ -154,20 +154,21 @@ width:100%;
   <br/>
   <h4 style="font-size:30px;font-family:KaiTi;">H2TR相关链接
 </h4>
-<p><ul><li><a href="#" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">2021年H2翻译课程链接
-</span>
-</a></li><br/>
-  <li><a href="https://www.mci.gov.sg/careers-grants/scholarship/scholarship/scholarships-offered " target="_blank"> <span style="font-size:21px;font-family:KaiTi;">MCI奖学金  </span>
-</a></li><br/>
+<p><ul>
+  <li><a href="#" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">2021年H2翻译课程链接
+</span></a></li>
+  <br/>
+  <li><a href="https://www.mci.gov.sg/careers-grants/scholarship/scholarship/scholarships-offered " target="_blank"> <span style="font-size:21px;font-family:KaiTi;">MCI奖学金  </span></a></li>
+  <br/>
  <li> <a href="http://www.soh.ntu.edu.sg/Programmes/mti/en/Pages/Home.aspx" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">大学翻译相关科系链接 NTU M.A. Translation and Interpretation 
-</span>
-</a></li><br/>
+</span></a></li>
+  <br/>
   <li><a href="https://www.suss.edu.sg/programmes/detail/ba-translation-and-interpretation-bati" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">SUSS BA Translation and Interpretation
-</span>
-</a></li><br/>
+</span></a></li>
+  <br/>
   <li><a href="https://www.fas.nus.edu.sg/chs/eng/admission/minor_translation_academics.html " target="_blank"> <span style="font-size:21px;font-family:KaiTi;">NUS FASS Department of  Chinese Studies - Minor in Chinese Studies 
  </span>
-</a>
+</a></li>
   </ul></p>
   <p style="font-size:25px;font-family:KaiTi;color:pink">2019年H2 翻译讲座主讲嘉宾：新传媒新闻与时事主播林稚英与南洋理工大笔译与口译硕士学位课程讲师崔峰博士
 </p>
