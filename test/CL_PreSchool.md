@@ -119,7 +119,7 @@ width:100%;
   </tr>
 </table>
   </div></div>
- <h4 id="C2"><span style="font-size:30px;font-family:KaiTi ;color:pink;">大图书共享阅读 </span></h4>
+ <h4 id="C2"><span style="font-size:30px;font-family:KaiTi;color:pink;">大图书共享阅读 </span></h4>
  <table>
   <tr> 
     <td>
