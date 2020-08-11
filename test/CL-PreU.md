@@ -178,3 +178,22 @@ width:100%;
  <a href="/Gallery/china-studies-h2.pdf" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">H2 China Studies in Chinese Syllabus Document
  </span>
 </a>
+<h4 style="font-size:30px;font-family:KaiTi;color:pink">高中华文语文特选课程
+</h4>
+<img src="/images/CL-PreU-CLEP.jpg"><br/>
+<img src="/images/CLEP-gif.gif"><br/>
+<a href="https://sites.google.com/moe.edu.sg/preuclep" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">有关高中华文语文特选课程的更多信息，请浏览
+ </span>
+</a>
+<h4 style="font-size:30px;font-family:KaiTi;color:pink">双文化课程
+</h4>
+<img src="/images/CL-PreU-BSP.jpg">
+ <p style="font-size:25px;font-family:KaiTi;color:pink">双文化营
+<img src="/images/CL_PreU-BSP2.jpg"></p>
+<p style="font-size:25px;font-family:KaiTi;color:pink">双文化课程海外浸濡
+<img src="/images/BSP-gif.gif">
+  <a href="https://beta.moe.gov.sg/fees-assistance-awards-scholarships/awards-scholarships/programme-scholarships/" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">有关双文化课程的更多信息，请浏览
+ </span>
+</a>
+</p>
+
