@@ -177,7 +177,7 @@ The speaker will share how the curriculum enables children to learn Chinese in c
 </p>
 </div></div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+<td style="border:0 none;padding: 0; margin:0;">
   <a href="/test/CL-video-Xu/"><img class="btnImg" src="/images/arrowChinese.png"></a>
 </td>
  </tr>
