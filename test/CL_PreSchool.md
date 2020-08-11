@@ -131,7 +131,7 @@ width:100%;
          <li style="font-size:25x;font-family:KaiTi">对本地文化有初步的认识</li></ul>
          </li>
      <li style="font-size:25x;font-family:KaiTi">这套教学资源除了可支持幼儿的双语发展，也体现了非常浓厚的本土特色。目前，教育部幼儿园都在课堂内使用这套教学资源。</li>
-     <li style="font-size:25x;font-family:KaiTi">大图书共享阅读是教育部幼儿园课堂内使用的教学法。共享阅读让幼儿享受阅读的乐趣，并鼓励幼儿通过有趣的活动，掌握听、说、读的能力。欲知教学步骤，请点击 <a href="#">此处.</a></li>
+     <li style="font-size:25x;font-family:KaiTi">大图书共享阅读是教育部幼儿园课堂内使用的教学法。共享阅读让幼儿享受阅读的乐趣，并鼓励幼儿通过有趣的活动，掌握听、说、读的能力。欲知教学步骤，请点击 <a href="https://www.nel.moe.edu.sg/resources/49064/49065">此处.</a></li>
 </ol>
 </td>
 <td>
@@ -139,5 +139,7 @@ width:100%;
 </td>
   </tr>
 </table>
-    
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lnlNM2YJcOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br/><span style="font-size:18px;font-family:KaiTi">大图书共享阅读视频</span><br/>
+<p><img src="/images/CL-PreSch-Discovery.jpg"> <br/><span style="font-size:18px;font-family:KaiTi">欲了解“奥秘探索周”计划的活动点子设计，请点击<a href="https://www.nel.moe.edu.sg/resources/49054/49062">此处</a>阅读相关活动设计“我的爱好是武术”和“下棋”。
+</span></p> 
 
