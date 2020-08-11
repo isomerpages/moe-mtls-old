@@ -131,5 +131,5 @@ width:100%;
 <br/><span style="color:#d14165;font-size:18px;font-family:KaiTi">文学课件： 修辞手法
 </span></div> </div>
 <h4 style="font-size:30px;font-family:KaiTi;">H2 翻译</h4>
-  <img src="/images/ CL-PreU-Trans.jpg">
+  <img src="/images/CL-PreU-Trans.jpg">
   
