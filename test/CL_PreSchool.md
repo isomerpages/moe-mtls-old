@@ -153,7 +153,20 @@ width:100%;
        <p style="font-family:KaiTi;font-size:25px;">
        点子一<br/>
 配合第二学段课程主题-我周围有谁，有哪些地方？<br/><br/>
-         先和孩子介绍家里的不同地方，如：客厅、厨房、睡房等。接着，和孩子一起制作金字塔书。你可以点按以下链接，跟着视频做出属于孩子独特的金字塔书。孩子可以根据家里的情况画出不同的装饰。完成后，让孩子用金字塔书来说说自己在家的一日活动吧！
+         先和孩子介绍家里的不同地方，如：客厅、厨房、睡房等。接着，和孩子一起制作金字塔书。你可以点按以下链接，跟着视频做出属于孩子独特的金字塔书。孩子可以根据家里的情况画出不同的装饰。完成后，让孩子用金字塔书来说说自己在家的一日活动吧！</p>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/mhJoflfcZWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br/><span style="font-size:18px;font-family:KaiTi">金字塔书制作视频
 </span><br/>
-</p></div></div>
+</div></div>
+<div class="atab">
+      <input id="tab-3" type="checkbox" name="tab">
+   <label for="tab-3" style="font-family:KaiTi;font-size:22px" class="lbChPI">美味的古拉姆（Kolam )
+</label>
+     <div class="tab-content">
+       <p style="font-family:KaiTi;font-size:25px;">点子二：<br/>
+         配合第三学段课程主题 - 我和谁共享这个世界？<br/><br/>
+         古拉姆是兴都教徒在家门前地上的绘图装饰。
+旧时，人们常受不同虫子干扰，于是用面粉或谷类在门前绘图，让虫子有食物吃，它们就不会进屋里。<br/><br/>
+         古拉姆一般都是对称的图案。你可以结合古拉姆的习俗，和孩子在家绘制属于你们的古拉姆，而且，还是可以吃的古拉姆！选择一些家中即有的食材，例如：沙拉里不同种类的食材（水果、蔬菜、坚果、酱料等）、“一锅煮”的蔬菜杂烩食材、养生汤的药材等，然后进行“摆盘”以绘制古拉姆。你可以一边摆，一边说出食材；也可以为孩子录像，让孩子介绍自己设计的古拉姆
+</p>
+  <img src="/images/CL-preSch-Kolam.jpg">
+  </div></div>
