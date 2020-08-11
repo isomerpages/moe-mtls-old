@@ -224,6 +224,7 @@ width:100%;
 <img src="/images/CL_Sch-Secondary.jpg"><br/>
 <img src="/images/CL-Sch_Sec_Activities.jpg"> <br/>
 <p style="font-size:21px;font-family:KaiTi;">想了解更多跟中学语特相关的信息，请点击以下链接： <a href="https://beta.moe.gov.sg/secondary/courses/express/electives/?term=Language&subterm=Chinese%20Language%20Elective%20Programme%20at%20Secondary%20Level%20(CLEP-Sec)&_ga=2.7827835.831819559.1588675943-1869488884.1587536017" targer="_blank"> Click here</a></p>
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
 
 
 
