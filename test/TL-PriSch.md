@@ -7,7 +7,7 @@ breadcrumb: 'TL PriSch'
 <body>
 <style>
 </style>
-<a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
+<a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/TL-Header.jpg">
 <p>
 <a href="#C1" style="font-size:25px"><span style="color:blue;">தமிழ்மொழிக் கல்வியில் மகிழ்வூட்டும் கற்றல்
