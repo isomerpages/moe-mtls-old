@@ -114,11 +114,11 @@ width:100%;
   <h4 style="font-size:30px;font-family:KaiTi;color:pink;">高中H1华文与华文B
 </h4>
  <img src="/images/CL-PreU-h1CL.jpg">
-  <p><ul><li style="font-size:21px;font-family:KaiTi;"><a href="Gallery/2020_h1cl-and-clb-syllabus_pre-university.pdf" target="_blank">H1华文与华文 B 课程标准
-</a></li>
-  <li style="font-size:21px;font-family:KaiTi;"><a href="Gallery/2020_h1mtl-and-mtlb-syllabus_pre-university.pdf" target="_blank">H1MTL & MTL‘B’ Syllabus Document
-</a></li>
-  </ul></p>
+  <p><span style="font-size:21px;font-family:KaiTi;"><a href="Gallery/2020_h1cl-and-clb-syllabus_pre-university.pdf" target="_blank">H1华文与华文 B 课程标准
+</a></span><br/>
+  <span style="font-size:21px;font-family:KaiTi;"><a href="Gallery/2020_h1mtl-and-mtlb-syllabus_pre-university.pdf" target="_blank">H1MTL & MTL‘B’ Syllabus Document
+</a></span>
+  </p>
   <p style="font-size:21px;font-family:KaiTi;">数码资源示例：
 </p>
  <div class="row">
