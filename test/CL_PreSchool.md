@@ -89,5 +89,7 @@ width:100%;
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi">A Day At An MOE Kindergarten </span>
 
-<h4 style="font-size:30px;font-family:KaiTi ;color:pink;">繁星语文课程</h4>
+<h4 id= "C1" style="font-size:30px;font-family:KaiTi ;color:pink;">繁星语文课程</h4>
 <img src="/images/CL-PreSch-starlight.jpg">
+
+
