@@ -62,7 +62,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
   
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
 <div class="tab">
-  <a href="#Sch"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">学前教育</div></a>
+  <a href="#Sch"><div style="display:inline-block; font-family:Calibri (Body);color:#a3c864;" class="btnClass">Prasekolah</div></a>
   <a href="/test/ML-PriSch/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">小学</div></a>
   <a href="#Sec"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">中学</div></a>
   <a href="/test/ML-PreU/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass">大学先修班</div></a>
