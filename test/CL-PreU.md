@@ -132,7 +132,7 @@ width:100%;
 <h4 id="C2"><span style="font-size:30px;font-family:KaiTi;color:pink;">H2华文与文学课程 </span>
 </h4>
 <img src="/images/CL-PreU-H2Cll.jpg">
-<p><a href="/Gallery/H2CLL_highlights-of-new-syllabus.pdf" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">新课程亮点 课程标准</span>
+<p><a href="/Gallery/H2CLL_highlights-of-new-syllabus.pdf" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">新课程亮点</span>
 </a><br/>
   <a href="/Gallery/H2CLL_highlights-of-new-syllabus.pdf" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">新课程课标 </span>
 </a>
