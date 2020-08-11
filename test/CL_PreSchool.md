@@ -76,7 +76,7 @@ width:100%;
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">繁星语文课程</span></a>&nbsp;&nbsp;
  <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:KaiTi">大图书共享阅读</span></a>&nbsp;&nbsp;
  <a href="#C3" style="font-size:25px"><span style="color:blue;font-family:KaiTi">居家活动好点子
-</span></a> <br/>
+</span></a> <br/><br/>
 我们创办了教育部幼儿园，为新加坡公民和永久居民提供优质的幼一 (K1)和幼二 (K2)教育。<br/>
 在教育部幼儿园，我们深信幼儿是好奇、积极、有能力的学习者。<br/><br/>
 我们的愿景是为每一个幼儿提供良好的起点。同时，我们将通过为新加坡人提供优质且能负担得起的学前教育，进一步提升新加坡学前教育的素质。<br/>
