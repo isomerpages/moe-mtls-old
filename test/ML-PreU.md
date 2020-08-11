@@ -42,5 +42,5 @@ width:80% ;
 </center>
 <h4 id="C2"><span style="color:green;font-size:30px;">Program di Prauniversiti </span></h4>
 <img src="/images/ML-PreU-Brosur-Program.png">
-<p>Untuk memuat turun brosur ini, klik <a href="/images/ML-PreU-Brosur-Program.png" target="_blank">disini</a><</p>
+<p>Untuk memuat turun brosur ini, klik <a href="/images/ML-PreU-Brosur-Program.png" target="_blank">disini</a></p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
