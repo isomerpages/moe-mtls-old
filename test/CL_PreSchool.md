@@ -6,9 +6,21 @@ breadcrumb: 'CL PreSchool'
 <html>
 <body>
 <style>
+  table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td{
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
   .tab img{
    width: 80%;
  }
+  
   * {
   box-sizing: border-box;
 }
