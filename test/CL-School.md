@@ -189,5 +189,43 @@ width:100%;
   </tr>
 </table>
   </div></div>
+  <br/>
+  <div class="atab">
+      <input id="tab-4" type="checkbox" name="tab">
+   <label for="tab-4" style="font-family:KaiTi;font-size:22px" class="lbChPI">紧密结合资讯科技
+</label>
+     <div class="tab-content">
+      <table>
+       <tr>
+         <td><p style="font-size:21px;font-family:KaiTi" >
+           <ul><li style="font-size:21px;font-family:KaiTi"><strong>部分内容采用非纸质教材。
+</strong></li>
+             <li style="font-size:21px;font-family:KaiTi"><strong>通过学生学习平台（SLS）促进自主性学习、探究式学习、  合作式学习等。
+</strong></li> 
+            <li style="font-size:21px;font-family:KaiTi"><strong>运用资讯科技开发教学资源，让    华文学习更有趣味性，让学习体验更丰富而有意义。
+</strong></li></ul>
+            </p> 
+</td>
+<td>
+  <p><img src="/images/CL-School-right3.jpg"> </p>    
+</td>
+  </tr>
+</table>
+</div></div>
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MWj1w8kOPOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:18px;font-family:KaiTi">马小跳阅读技能教学动画</span>
+<br/>
+<h4 style="font-size:25px;font-family:KaiTi;color:pink;"></h4>
+<p style="font-size:25px;font-family:KaiTi;">2021中学华文课程标准力求在小学的基础上，进一步提高学生的语言能力、人文素养和通用能力，帮助学生更好地了解自己、融入社会、放眼世界。
+</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_llPZDTFQaI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:18px;font-family:KaiTi">2021中学华文课程目标和特点
+</span><br/>
+<h4 style="font-size:30px;font-family:KaiTi;color:pink;">中学华文语文特选课程
+</h4>
+<p style="font-size:21px;font-family:KaiTi;">中学华文语文特选课程（简称中学语特）设立的目的是要栽培精通双语的人才，提高学生的华文水平和文学素养。本课程为期2年，所有中学语特学生必须修读华文文学相关课程。学生除了可以参加2-3天语特营，文学讲座、作家座谈会等、也能到中国大陆、台湾等地进行2周海外浸儒活动。从2020年开始，教育部在9所中学开办中学华文语文特选课程。</p>
+<img src="/images/CL_Sch-Secondary.jpg"><br/>
+<img src="/images/CL-Sch_Sec_Activities.jpg"> <br/>
+<p style="font-size:21px;font-family:KaiTi;">想了解更多跟中学语特相关的信息，请点击以下链接： <a href="https://beta.moe.gov.sg/secondary/courses/express/electives/?term=Language&subterm=Chinese%20Language%20Elective%20Programme%20at%20Secondary%20Level%20(CLEP-Sec)&_ga=2.7827835.831819559.1588675943-1869488884.1587536017" targer="_blank"> Click here</a></p>
+
 
 
