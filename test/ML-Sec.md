@@ -72,7 +72,7 @@ table.center {
 <h4  style="font-size:30px;color:green;" >MEMUPUK PELAJAR  AKTIF DAN PENGGUNA  CEKAP (Pembelajaran yang Menyeronokkan </h4>
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Program Elektif Bahasa Melayu Sekolah Menengah</span></a><br/>
  <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:KaiTi"> Sokongan Ibu Bapa</span></a><br/>
- <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Bahan-bahan Menyokong Pembelajaran</span></a>
+ <a href="#C3" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Bahan-bahan Menyokong Pembelajaran</span></a>
 <p>Kurikulum Bahasa Melayu Peringkat Sekolah Menengah bertujuan melengkapkan pelajar dengan kecekapan berkomunikasi dan menjalin hubungan dengan pihak lain dalam konteks kehidupan di Singapura, rantau dan dunia.
 <br/>
 Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengguna bahasa yang cekap: 
