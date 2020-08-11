@@ -16,7 +16,6 @@ third_nav_title: 'Pameran Bahasa Melayu'
  }
  .tab table {
    display: none;
-   color: #a3c864;
 }
 .tab table:target {
   display: block;
@@ -25,7 +24,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
     position: relative;
     display: block;
     background: #d14165;
-    color: #fff;
+    color: #a3c864;
     font-weight: 700;
     padding: 10px;
     cursor: pointer;
