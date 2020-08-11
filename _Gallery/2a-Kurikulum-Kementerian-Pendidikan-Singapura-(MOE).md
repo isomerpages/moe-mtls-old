@@ -13,7 +13,6 @@ third_nav_title: 'Pameran Bahasa Melayu'
 
  .tab img{
    width: 80%;
-   color: #a3c864;
  }
  .tab table {
    display: none;
