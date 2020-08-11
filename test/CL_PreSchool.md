@@ -16,6 +16,7 @@ td{
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
+  width:50%;
 }
   .tab img{
    width: 80%;
