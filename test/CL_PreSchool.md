@@ -47,7 +47,7 @@ breadcrumb: 'CL PreSchool'
 }
  iframe{
 border : 0;
-height:100%;
+height:25%;
 width:100%;
 }
  .atab input[type=checkbox]:checked + label::after,
