@@ -111,7 +111,7 @@ width:100%;
    <br/>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/r1_FRRzx0Tg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi">华文主修的未来展望
 </span>
-  <h4 style="font-size:30px;font-family:KaiTi;color:pink;">高中H1华文与华文B
+  <h4 id="C1"><span style="font-size:30px;font-family:KaiTi;color:pink;">高中H1华文与华文B </span>
 </h4>
  <img src="/images/CL-PreU-h1CL.jpg">
   <p><span style="font-size:21px;font-family:KaiTi;"><a href="/Gallery/2020_h1cl-and-clb-syllabus_pre-university.pdf" target="_blank">H1华文与华文 B 课程标准
@@ -129,7 +129,7 @@ width:100%;
 <br/><span style="color:#d14165;font-size:18px;font-family:KaiTi">H1华文数码资源示例 2
 </span></div> </div>
 <br/>
-<h4 style="font-size:30px;font-family:KaiTi;color:pink;">H2华文与文学课程
+<h4 id="C2"><span style="font-size:30px;font-family:KaiTi;color:pink;">H2华文与文学课程 </span>
 </h4>
 <img src="/images/CL-PreU-H2Cll.jpg">
 <p><span style="font-size:21px;font-family:KaiTi;"><a href="/Gallery/H2CLL_highlights-of-new-syllabus.pdf" target="_blank">新课程亮点 课程标准
