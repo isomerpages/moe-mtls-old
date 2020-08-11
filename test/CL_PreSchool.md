@@ -109,7 +109,7 @@ width:100%;
      <div class="tab-content">
        <table>
        <tr>
-         <td><p style="font-size:25px;font-family:KaiTi" >
+         <td><p style="font-size:21px;font-family:KaiTi" >
     《培育幼儿:学前母语课程框架》的核心理念是:幼儿是好奇、积极、 有能力的母语学习者。持有这个理念的教师必能实现这套框架的愿景、 宗旨以及学习目标。<br/>
 <br/>本框架的教学宗旨建立在教学愿景之上，教学宗旨和指导原则又能协助教师设计课堂教学。教师在根据指导原则进行课堂 教学时，应谨记课程学习目标，以实现母语教学的愿景。</p> 
 </td>
@@ -150,7 +150,7 @@ width:100%;
    <label for="tab-2" style="font-family:KaiTi;font-size:22px" class="lbChPI">我的家 — 金字塔书
 </label>
      <div class="tab-content">
-       <p style="font-family:KaiTi;font-size:25px;">
+       <p style="font-family:KaiTi;font-size:21px;">
        点子一<br/>
 配合第二学段课程主题-我周围有谁，有哪些地方？<br/><br/>
          先和孩子介绍家里的不同地方，如：客厅、厨房、睡房等。接着，和孩子一起制作金字塔书。你可以点按以下链接，跟着视频做出属于孩子独特的金字塔书。孩子可以根据家里的情况画出不同的装饰。完成后，让孩子用金字塔书来说说自己在家的一日活动吧！</p>
@@ -162,11 +162,30 @@ width:100%;
    <label for="tab-3" style="font-family:KaiTi;font-size:22px" class="lbChPI">美味的古拉姆（Kolam )
 </label>
      <div class="tab-content">
-       <p style="font-family:KaiTi;font-size:25px;">点子二：<br/>
+       <p style="font-family:KaiTi;font-size:21px;">点子二：<br/>
          配合第三学段课程主题 - 我和谁共享这个世界？<br/><br/>
          古拉姆是兴都教徒在家门前地上的绘图装饰。
 旧时，人们常受不同虫子干扰，于是用面粉或谷类在门前绘图，让虫子有食物吃，它们就不会进屋里。<br/><br/>
          古拉姆一般都是对称的图案。你可以结合古拉姆的习俗，和孩子在家绘制属于你们的古拉姆，而且，还是可以吃的古拉姆！选择一些家中即有的食材，例如：沙拉里不同种类的食材（水果、蔬菜、坚果、酱料等）、“一锅煮”的蔬菜杂烩食材、养生汤的药材等，然后进行“摆盘”以绘制古拉姆。你可以一边摆，一边说出食材；也可以为孩子录像，让孩子介绍自己设计的古拉姆
 </p>
   <img src="/images/CL-preSch-Kolam.jpg">
+  </div></div>
+  <div class="atab">
+      <input id="tab-4" type="checkbox" name="tab">
+   <label for="tab-4" style="font-family:KaiTi;font-size:22px" class="lbChPI">水会变变变
+</label>
+     <div class="tab-content">
+<table>
+       <tr>
+         <td><p style="font-size:21px;font-family:KaiTi" >
+    点子三：<br/>
+配合第四学段课程主题-我周围的事物是怎么运作的？<br/><br/>
+           请让您的孩子观察一块冰溶化的过程，然后在纸上画出水的不同状态，并让他/她与您分享。您可以把观察时间分为三个阶段：开始、15分钟、45分钟，或根据孩子的兴趣进行调整。
+</p> 
+</td>
+<td>
+  <p><img src="/images/CL-PreSch-Water.jpg"> </p>    
+</td>
+  </tr>
+</table>
   </div></div>
