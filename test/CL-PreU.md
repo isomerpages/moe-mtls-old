@@ -132,10 +132,10 @@ width:100%;
 <h4 id="C2"><span style="font-size:30px;font-family:KaiTi;color:pink;">H2华文与文学课程 </span>
 </h4>
 <img src="/images/CL-PreU-H2Cll.jpg">
-<p><span style="font-size:21px;font-family:KaiTi;"><a href="/Gallery/H2CLL_highlights-of-new-syllabus.pdf" target="_blank">新课程亮点 课程标准
-</a></span><br/>
-  <span style="font-size:21px;font-family:KaiTi;"><a href="/Gallery/H2CLL_highlights-of-new-syllabus.pdf" target="_blank">H1MTL & MTL‘B’ Syllabus Document
-</a></span>
+<p><a href="/Gallery/H2CLL_highlights-of-new-syllabus.pdf" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">新课程亮点 课程标准</span>
+</a><br/>
+  <a href="/Gallery/H2CLL_highlights-of-new-syllabus.pdf" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">新课程课标 </span>
+</a>
   </p>
  <p style="font-size:21px;font-family:KaiTi;">数码资源示例：
 </p>
