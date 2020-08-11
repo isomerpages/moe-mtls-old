@@ -119,6 +119,6 @@ Dalam mencapai objektif-objektif ini, adalah penting membantu para pelajar mengg
      <li>Pendedahan Seni dan Budaya
 </li>
     </ul>
-     </p>
-      <a href="#" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu
+  <a href="#" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu
  </a>
+   </p>
