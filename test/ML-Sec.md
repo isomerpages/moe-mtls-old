@@ -69,7 +69,7 @@ table.center {
 </style>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/ML-Sec-Header.jpg">
-<h4  style="font-size:30px;color:green;" >MEMUPUK PELAJAR  AKTIF DAN PENGGUNA  CEKAP (Pembelajaran yang Menyeronokkan </h4>
+<h4  style="font-size:30px;color:green;" >Memupuk Pelajar Aktif Dan Pengguna Cekap (Pembelajaran Yang Menyeronokkan)</h4>
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Program Elektif Bahasa Melayu Sekolah Menengah</span></a><br/>
  <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:KaiTi"> Sokongan Ibu Bapa</span></a><br/>
  <a href="#C3" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Bahan-bahan Menyokong Pembelajaran</span></a>
