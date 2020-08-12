@@ -77,7 +77,6 @@ margin-bottom:10px;
 <td>
 <div class="center">
  <img src="/images/TL-PreSch-right2.jpg">  </div>
-
 </td>
   </tr>
 </table>
@@ -104,9 +103,9 @@ margin-bottom:10px;
     </p> 
 </td>
 <td>
- <p>
+  <div class="center">
   <img src="/images/TL_PreSch-right3.jpg">  
- </p>
+ </div>
 </td>
   </tr>
 </table>
