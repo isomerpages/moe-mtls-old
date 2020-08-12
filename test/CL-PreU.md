@@ -193,7 +193,7 @@ width:100%;
 <img src="/images/CL_PreU-BSP2.jpg"></p>
 <p style="font-size:25px;font-family:KaiTi;">双文化课程海外浸濡 </p>
 <img src="/images/BSP-gif.gif">
-  <span style="font-size:21px;font-family:KaiTi;">有关双文化课程的更多信息，请浏览: </span><a href="https://beta.moe.gov.sg/fees-assistance-awards-scholarships/awards-scholarships/programme-scholarships/" target="_blank"><span style="font-size:21px;font-family:Calibri;">https://beta.moe.gov.sg/fees-assistance-awards-scholarships/awards-scholarships/programme-scholarships/ </span>
+  <span style="font-size:21px;font-family:KaiTi;">有关双文化课程的更多信息，请浏览: </span><a href="https://beta.moe.gov.sg/fees-assistance-awards-scholarships/awards-scholarships/programme-scholarships/" target="_blank"><span style="font-size:21px;font-family:Calibri;">https://beta.moe.gov.sg/fees-assistance-awards-scholarships/awards-scholarships/programme-scholarships/
  </span>
 </a>
 
