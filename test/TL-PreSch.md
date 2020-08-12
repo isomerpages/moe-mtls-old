@@ -71,7 +71,9 @@ width:100%;
     </p> 
 </td>
 <td>
+ <p>
   <img src="/images/TL-PreSch-right2.jpg">  
+ </p>
 </td>
   </tr>
 </table>
@@ -98,7 +100,9 @@ width:100%;
     </p> 
 </td>
 <td>
+ <p>
   <img src="/images/TL_PreSch-right3.jpg">  
+ </p>
 </td>
   </tr>
 </table>
