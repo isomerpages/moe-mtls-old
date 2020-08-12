@@ -527,6 +527,12 @@ $desktop: 960px + (2 * $gap) !default;
 .atab1Line .lbTM{
   background: #9b4490;
 }
+.atab .lbChPI,
+.atab3Line .lbChPI,
+.atab1Line .lbChPI{
+  background: #FFC0CB;
+}
+
 .tab-content {
   overflow: hidden;
   margin-top: 0px;

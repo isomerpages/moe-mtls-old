@@ -253,7 +253,7 @@ Language development in early childhood is crucial to acquiring sound foundation
  <td style="border:0 none;padding: 0; margin:0;">
  <div class="atab atab3Line">
        <input id="tab-3" type="checkbox" name="tab">
-       <label for="tab-3" class="lbCh"><span style="font-size:22px;font-family:KaiTi">「我把我的中文课本撕毀了!」一位英文教师陪伴女儿<br/>走过的学习中文之路<br/> 胡恩恩博士</span></label>
+       <label for="tab-3" class="lbCh"><span style="font-size:22px;font-family:KaiTi">“我把我的中文课本撕毀了!一位英文教师陪伴女儿”<br/>走过的学习中文之路<br/> 胡恩恩博士</span></label>
        <div class="tab-content">      
         <br/>
     <div class="row">
