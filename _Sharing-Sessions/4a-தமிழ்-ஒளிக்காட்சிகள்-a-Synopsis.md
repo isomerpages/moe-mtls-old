@@ -96,7 +96,7 @@ max-width:40%;
 <p  style="margin:10px;">Current key concerns amongst young Indian parents is how to nurture the love of the Tamil Language in their children. A love for the language cannot be derived from tuition or assessment books and practices. Rather, a child’s engagement with the language needs to be fun, practical, engaging and creative. In this workshop, participants will learn of the challenges the presenter faced in getting her children to speak Tamil and the efforts she made to cultivate their interest in the Tamil Language through strategies such as streamlining learning with what children see, do and like. Come and learn useful tips in making children engaged in the learning of the Tamil Language.</p>
 </div></div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
   <a href="/test/TL-video-Elakeyaa/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
 </tr>
@@ -135,7 +135,7 @@ max-width:40%;
 </p>
 </div></div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
   <a href="/test/TL-video-Rani/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
  </tr>
@@ -176,7 +176,7 @@ max-width:40%;
         Family involvement and support play an integral role in a child’s acquiring a language. This requires collaboration between schools and parents in supporting every step each child takes in learning and developing his/her language skills. Exposure to the Tamil Language at home gives children more opportunities to use the language in everyday life and also enables them to be more confident in using the language. This session will help participants to gain better understanding about the Primary Curriculum and learn how to create authentic opportunities and apply innovative strategies to foster a child’s learning of the Tamil Language at home. </p>
  </div></div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
   <a href="/test/TL-video-Mohan/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
  </tr>
@@ -214,7 +214,7 @@ max-width:40%;
 </p>
  </div></div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;">
+<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
   <a href="/test/TL-video-Darseni/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
 </td>
    </tr>
