@@ -22,6 +22,10 @@ iframe{
 border : 0;
 width:100%;
 }
+.center{
+margin-top:10px;
+margin-bottom:10px;
+}
 </style>
 <a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/TL-PreSch-Header.jpg">
@@ -71,9 +75,9 @@ width:100%;
     </p> 
 </td>
 <td>
- <p>
-  <img src="/images/TL-PreSch-right2.jpg">  
- </p>
+<div class="center">
+ <img src="/images/TL-PreSch-right2.jpg">  </div>
+
 </td>
   </tr>
 </table>
