@@ -82,7 +82,7 @@ width:100%;
 </style>
 <a href="/gallery/华文学习展示区-chinese-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/MTLS_Chinese_Secondary-Header-2.jpg">
-<p style="font-size:28px;font-family:KaiTi" ><h4 style="font-size:30px;font-family:KaiTi ;color:pink;">2011中学华文课程
+<p style="font-size:28px;font-family:KaiTi" ><h4 style="font-size:30px;font-family:KaiTi ;">2011中学华文课程
   &nbsp;  
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">2021中学华文课程
 </span></a>&nbsp;&nbsp;
@@ -118,7 +118,7 @@ width:100%;
 </h4>
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-   <label for="tab-1" style="font-family:KaiTi;font-size:22px" class="lbChPI">显性地突出文化要素
+   <label for="tab-1" style="font-family:KaiTi;font-size:22px" class="lbCh">显性地突出文化要素
 </label>
      <div class="tab-content">
           <table>
@@ -143,7 +143,7 @@ width:100%;
 
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-   <label for="tab-2" style="font-family:KaiTi;font-size:22px" class="lbChPI">更多机会接触文学性语料
+   <label for="tab-2" style="font-family:KaiTi;font-size:22px" class="lbCh">更多机会接触文学性语料
 </label>
      <div class="tab-content">
        <p style="font-family:KaiTi;font-size:21px;">
@@ -167,7 +167,7 @@ width:100%;
 
    <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-   <label for="tab-3" style="font-family:KaiTi;font-size:22px" class="lbChPI"> 运用时事性材料进行延伸学习
+   <label for="tab-3" style="font-family:KaiTi;font-size:22px" class="lbCh"> 运用时事性材料进行延伸学习
 </label>
      <div class="tab-content">
       <table>
@@ -190,7 +190,7 @@ width:100%;
   
   <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-   <label for="tab-4" style="font-family:KaiTi;font-size:22px" class="lbChPI">紧密结合资讯科技
+   <label for="tab-4" style="font-family:KaiTi;font-size:22px" class="lbCh">紧密结合资讯科技
 </label>
      <div class="tab-content">
       <table>
@@ -213,12 +213,12 @@ width:100%;
 <br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MWj1w8kOPOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:18px;font-family:KaiTi">马小跳阅读技能教学动画</span>
 <br/>
-<h4 style="font-size:25px;font-family:KaiTi;color:pink;"></h4>
+<h4 style="font-size:25px;font-family:KaiTi;"></h4>
 <p style="font-size:25px;font-family:KaiTi;">2021中学华文课程标准力求在小学的基础上，进一步提高学生的语言能力、人文素养和通用能力，帮助学生更好地了解自己、融入社会、放眼世界。
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_llPZDTFQaI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:18px;font-family:KaiTi">2021中学华文课程目标和特点
 </span><br/>
-<h4 style="font-size:30px;font-family:KaiTi;color:pink;">中学华文语文特选课程
+<h4 style="font-size:30px;font-family:KaiTi;">中学华文语文特选课程
 </h4>
 <p style="font-size:21px;font-family:KaiTi;">中学华文语文特选课程（简称中学语特）设立的目的是要栽培精通双语的人才，提高学生的华文水平和文学素养。本课程为期2年，所有中学语特学生必须修读华文文学相关课程。学生除了可以参加2-3天语特营，文学讲座、作家座谈会等、也能到中国大陆、台湾等地进行2周海外浸儒活动。从2020年开始，教育部在9所中学开办中学华文语文特选课程。</p>
 <img src="/images/CL_Sch-Secondary.jpg"><br/>
