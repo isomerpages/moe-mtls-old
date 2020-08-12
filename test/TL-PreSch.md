@@ -7,7 +7,7 @@ breadcrumb: 'TL PreSch'
 <body>
 <style>
  table {
-  font-family: arial, sans-serif;
+ 
   border-collapse: collapse;
   width: 100%;
 }
