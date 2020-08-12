@@ -77,7 +77,7 @@ max-width:40%;
  <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile of Panelists</h4>
   
   <p style="margin:10px;"><strong>Mr Lawrence Wong </strong><br/>
- Minister for Education and 2nd Minister for Finance
+ Minister for Education and Second Minister for Finance
 </p><br/>
        
   <p style="margin:10px;"><strong>A/P Mukhlis Abu Bakar  </strong><br/>
