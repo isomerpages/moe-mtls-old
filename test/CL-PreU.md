@@ -83,7 +83,7 @@ width:100%;
  </style>
  <a href="/gallery/华文学习展示区-chinese-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/CL-PreU-Header.jpg">
-<p style="font-size:28px;font-family:KaiTi" ><h4 style="font-size:25px;font-family:KaiTi;">高中华文课程总览</h4>
+<h4 style="font-size:30px;font-family:KaiTi;color:#d84178">高中华文课程总览</h4>
 <br>
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">H1华文与华文B
 </span></a><br/>
