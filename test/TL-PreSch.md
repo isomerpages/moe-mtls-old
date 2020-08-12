@@ -52,7 +52,7 @@ margin-bottom:10px;
  </div>
       </div>
   </p>
-  <h4 style="font-size:30px;color:purple;">ஸ்டார்லைட் எழுத்தறிவுத் திட்டம்
+  <h4 id="C1"> <span style="font-size:30px;color:purple;">ஸ்டார்லைட் எழுத்தறிவுத் திட்டம் </span>
 </h4>
 <p style="font-size:25px;color:purple;">ஸ்டார்லைட் எழுத்தறிவுத் திட்டம் ஆங்கிலத்திலும் மூன்று தாய்மொழிகளிலும் வழங்கப்படுகிறது. 
 </p>
@@ -115,7 +115,7 @@ margin-bottom:10px;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/><span style="font-size:18px;">A Day At An MOE Kindergarten
 </span>
-<h4 style="font-size:30px;color:purple;">தாய்மொழிகளுக்கான இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டம்
+<h4 id="C2"><span style="font-size:30px;color:purple;">தாய்மொழிகளுக்கான இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டம் </span>
 </h4>
 <table>
        <tr>
@@ -127,7 +127,7 @@ margin-bottom:10px;
  </table>
 
 
-<h4 style="font-size:30px;color:purple;">ஆசிரியர் துணையோடு வாசித்தல் அணுகுமுறை (SHARED BOOK APPROACH)
+<h4 id="C3"><span style="font-size:30px;color:purple;">ஆசிரியர் துணையோடு வாசித்தல் அணுகுமுறை (SHARED BOOK APPROACH) </span>
 </h4>
 <table>
        <tr>
@@ -156,9 +156,50 @@ margin-bottom:10px;
   <iframe width="560" height="315" src="https://www.youtube.com/embed/RfP2dGBTlQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br/><span style="font-size:18px;">Shared Book Approach
 </span>
-<h4 style="font-size:30px;color:purple;">அதிசய வாரத் திட்டப்பணி (WoW Project)
+<h4 id="C4"><span style="font-size:30px;color:purple;">அதிசய வாரத் திட்டப்பணி (WoW Project) </span>
 </h4>
 <img src="/images/TL-PreSch-MiracleWeek.jpg">
 <br/><p style="font-size:20px;">இந்த இணைப்பின்வழி அதிசய வாரத் திட்டப்பணிகளைப்பற்றித் தெரிந்துகொள்ளுங்கள் <a href="https://www.nel.moe.edu.sg/resources/49800/49802" target="_blank">https://www.nel.moe.edu.sg/resources/49800/49802
 </a></p>
+<h4 id="C5"><span style="font-size:30px;color:purple;">பெற்றொருக்கான உதவிக்குறிப்புகள் </span>
+</h4>
+<p style="font-size:25px;color:purple;">பெற்றோருக்கான உதவிக்குறிப்புகள்</p>
+<div class="atab">
+      <input id="tab-1" type="checkbox" name="tab">
+   <label for="tab-1" style="font-size:22px" class="lbTM">‘படித்தல், பேசுதல்’ நடவடிக்கை
+
+</label>
+     <div class="tab-content">
+ <0l type="i">
+    <li>பிள்ளைக்குப் பிடித்த ஒரு கதைப்புத்தகத்தைத் தேர்ந்தெடுங்கள்.
+ </li>
+   <li> பின் அக்கதையை அவருக்குப் படித்துக் காட்டிப் பின்வரும் கேள்விகளைக் கேளுங்கள்:<br/>
+    <ul>
+  <li>கதை எதைப் பற்றியது என்று நீ நினைக்கிறாய்? 
+</li>
+  <li>கதையில் உனக்குப் பிடித்த கதாபாத்திரம் எது? ஏன்? </li>
+     <li>உனக்குக் கதை பிடித்திருக்கிறதா? கதையின் எந்தப் பகுதி உனக்குப் பிடித்திருக்கிறது? ஏன்? 
+</li>
+  </ul>
+</li>
+   <li>பிள்ளையிடம் அவர் கேட்ட கதையை மற்றக் குடும்ப உறுப்பினர்களிடம் சொல்லச் சொல்லுங்கள். 
+</li>
+   </ul>
+  </div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
