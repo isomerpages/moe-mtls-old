@@ -84,7 +84,7 @@ width:100%;
 
 <a href="/gallery/华文学习展示区-chinese-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/CL-Presch-Header.jpg">
-<p style="font-size:28px;font-family:KaiTi" ><h4 style="font-size:25px;font-family:KaiTi ;color:pink;">教育部幼儿园  &nbsp; &nbsp; 
+<p style="font-size:28px;font-family:KaiTi" ><h4 style="font-size:25px;font-family:KaiTi;">教育部幼儿园  &nbsp; &nbsp; 
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">繁星语文课程</span></a>&nbsp;&nbsp;
  <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:KaiTi">大图书共享阅读</span></a>&nbsp;&nbsp;
  <a href="#C3" style="font-size:25px"><span style="color:blue;font-family:KaiTi">居家活动好点子
@@ -95,18 +95,19 @@ width:100%;
 我们的愿景是为每一个幼儿提供良好的起点。同时，我们将通过为新加坡人提供优质且能负担得起的学前教育，进一步提升新加坡学前教育的素质。<br/>
 </p>
 <a href="#" target="_blank">Chinese-2011-syllabus</a>
-  <h4 style="font-size:25px;font-family:KaiTi ;color:pink;">教育部幼儿园课程
+  <h4 style="font-size:25px;font-family:KaiTi ;">教育部幼儿园课程
 </h4>
 <p style="font-size:21px;font-family:KaiTi" >教育部幼儿园的课程是由教育部课程专科督导设计与开发的，并以《培育幼儿:学前母语课程框架》为依据。这指引了新加坡幼儿园的课程发展。<br/><br/>
 在教育部幼儿园，幼儿将通过HI-Light和繁星语文两个旗舰课程体验丰富多彩的学习旅程。<br/><br/></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi">A Day At An MOE Kindergarten </span>
 
-<h4 id= "C1"><span style="font-size:30px;font-family:KaiTi ;color:pink;">繁星语文课程 </span></h4>
+<h4 id= "C1"><span style="font-size:30px;font-family:KaiTi ;">繁星语文课程 </span></h4>
 <img src="/images/CL-PreSch-starlight.jpg">
+<br/>
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-   <label for="tab-1" style="font-family:KaiTi;font-size:22px" class="lbChPI">学前母语课程框架 </label>
+   <label for="tab-1" style="font-family:KaiTi;font-size:22px" class="lbCh">学前母语课程框架 </label>
      <div class="tab-content">
        <table>
        <tr>
@@ -120,7 +121,7 @@ width:100%;
   </tr>
 </table>
   </div></div>
- <h4 id="C2"><span style="font-size:30px;font-family:KaiTi;color:pink;">大图书共享阅读 </span></h4>
+ <h4 id="C2"><span style="font-size:30px;font-family:KaiTi;">大图书共享阅读 </span></h4>
  <table>
   <tr> 
     <td>
@@ -145,10 +146,10 @@ width:100%;
   <iframe width="560" height="315" src="https://www.youtube.com/embed/lnlNM2YJcOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br/><span style="font-size:18px;font-family:KaiTi">大图书共享阅读视频</span><br/><br/>
 <img src="/images/CL-PreSch-Discovery.jpg"> <br/><span style="font-size:18px;font-family:KaiTi">欲了解“奥秘探索周”计划的活动点子设计，请点击<a href="https://www.nel.moe.edu.sg/resources/49054/49062">此处</a>阅读相关活动设计“我的爱好是武术”和“下棋”。
 </span>
-<h4 id="C3"><span style="font-family:KaiTi;font-size:30px; color:pink;" >居家活动好点子</span></h4>
+<h4 id="C3"><span style="font-family:KaiTi;font-size:30px;" >居家活动好点子</span></h4>
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-   <label for="tab-2" style="font-family:KaiTi;font-size:22px" class="lbChPI">我的家 — 金字塔书
+   <label for="tab-2" style="font-family:KaiTi;font-size:22px" class="lbCh">我的家 — 金字塔书
 </label>
      <div class="tab-content">
        <p style="font-family:KaiTi;font-size:21px;">
@@ -160,7 +161,7 @@ width:100%;
 </div></div>
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-   <label for="tab-3" style="font-family:KaiTi;font-size:22px" class="lbChPI">美味的古拉姆（Kolam )
+   <label for="tab-3" style="font-family:KaiTi;font-size:22px" class="lbCh">美味的古拉姆（Kolam )
 </label>
      <div class="tab-content">
        <p style="font-family:KaiTi;font-size:21px;">点子二：<br/>
@@ -173,7 +174,7 @@ width:100%;
   </div></div>
   <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-   <label for="tab-4" style="font-family:KaiTi;font-size:22px" class="lbChPI">水会变变变
+   <label for="tab-4" style="font-family:KaiTi;font-size:22px" class="lbCh">水会变变变
 </label>
      <div class="tab-content">
 <table>
