@@ -145,7 +145,7 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
       <label for="tab-3"  class="lbML">Perkembangan Neuro-psikologi Kanak-kanak: Mitos dan Fakta 
- <br/> A/P Mariam Aljunied
+ <br/> Associate Professor Mariam Aljunied
 </label>
       <div class="tab-content">      
        <br/>
@@ -153,9 +153,11 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
  <div class="column">
 <img src="images/ML-Associate-Professor-Mariam-Aljunied.png" style="width:100%">
    </div>
-   <p> <strong> A/P Mariam Aljunied </strong>
-<br/> Special Education Needs Division
-    <br/>Principal Educational Psychologist, SPED</p>
+   <p> <strong> Associate Professor Mariam Aljunied </strong>
+<br/> Ministry of Education
+    <br/>Principal Educational Psychologist <br/>
+    Psychological Services Branch<br/>
+    Special Educational Needs Division</p>
    </div>
       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil </h4> 
        <p style="margin:10px;">Profesor Madya (A/P) Mariam Aljunied bertugas sebagai Pengetua Ahli Psikologi Pendidikan di Cawangan Pendidikan Keperluan Khas, Kementerian Pendidikan (MOE). Di samping tugas beliau di MOE, A/P Mariam juga merupakan Profesor Madya di Jabatan Psikologi, Universiti National Singapura dan Pengkaji Bersekutu di Jabatan Sains Bahasa dan Psikologi di Universiti Kolej London (UK). Dengan pengalaman lebih dari 25 tahun sebagai ahli psikologi pendidikan bertauliah, beliau mempunyai kepakaran yang mendalam dalam bidang perkembangan kanak-kanak. Beliau telah menerajui beberapa kajian penting di peringkat nasional dalam bidang ini. A/P Mariam juga aktif dalam usaha-usaha membina kepakaran para pendidik, ahli psikologi dan ibu bapa dalam bidang psikologi kanak-kanak dan pendidikan khas.</p>
