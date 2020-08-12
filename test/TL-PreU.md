@@ -25,21 +25,21 @@ width:100%;
 <a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/TL-PreU-Header.jpg">
 <p>
-<a href="#C1" style="font-size:25px"><span style="color:blue;">உயர்தரம் 1 (H1) தாய்மொழிப் பாடத்திட்டமும் தாய்மொழி B பாடத்திட்டமும்
+<a href="#C1" style="font-size:23px"><span style="color:blue;">உயர்தரம் 1 (H1) தாய்மொழிப் பாடத்திட்டமும் தாய்மொழி B பாடத்திட்டமும்
 </span></a><br/>
- <a href="#C2" style="font-size:25px"><span style="color:blue;">உயர்தரம் 2/3 (H2/H3) தமிழ்மொழி, இலக்கியப் பாடத்திட்டம்
+ <a href="#C2" style="font-size:23px"><span style="color:blue;">உயர்தரம் 2/3 (H2/H3) தமிழ்மொழி, இலக்கியப் பாடத்திட்டம்
 </span></a><br/>
-<a href="#C3" style="font-size:25px"><span style="color:blue;">தேசிய தமிழ்மொழி விருப்பப் பாடத்திட்டம் (National Elective Tamil Programme)
+<a href="#C3" style="font-size:23px"><span style="color:blue;">தேசிய தமிழ்மொழி விருப்பப் பாடத்திட்டம் (National Elective Tamil Programme)
 </span></a><br/>
-<a href="#C4" style="font-size:25px"><span style="color:blue;">தமிழ்மொழி விருப்பப் பாடத்திட்டம் (Tamil Language Elective Programme)
+<a href="#C4" style="font-size:23px"><span style="color:blue;">தமிழ்மொழி விருப்பப் பாடத்திட்டம் (Tamil Language Elective Programme)
 </span></a><br/>
- <a href="#C5" style="font-size:25px"><span style="color:blue;">இலக்கியம்
+ <a href="#C5" style="font-size:23px"><span style="color:blue;">இலக்கியம்
 </span></a>
-<a href="#C6" style="font-size:25px"><span style="color:blue;">தொடர்பிணைப்புக் கற்றல் சமூகக் குழு உருவாக்கம் (Networked Learning Community)
+<a href="#C6" style="font-size:23px"><span style="color:blue;">தொடர்பிணைப்புக் கற்றல் சமூகக் குழு உருவாக்கம் (Networked Learning Community)
 </span></a><br/>
-<a href="#C7" style="font-size:25px"><span style="color:blue;">பால்மரக்காட்டினிலே – கற்றல் பயணம்
+<a href="#C7" style="font-size:23px"><span style="color:blue;">பால்மரக்காட்டினிலே – கற்றல் பயணம்
 </span></a><br/>
- <a href="#C8" style="font-size:25px"><span style="color:blue;">இணையம்வழிக் கற்றல்
+ <a href="#C8" style="font-size:23px"><span style="color:blue;">இணையம்வழிக் கற்றல்
 </span></a>
 <br/><br/>
 <table style="width:100%">
