@@ -111,7 +111,7 @@ width:100%;
    <br/>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/r1_FRRzx0Tg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi">华文主修的未来展望
 </span>
-  <h4 id="C1"><span style="font-size:30px;font-family:KaiTi;color:pink;">高中H1华文与华文B </span>
+  <h4 id="C1"><span style="font-size:30px;font-family:KaiTi;">高中H1华文与华文B </span>
 </h4>
  <img src="/images/CL-PreU-h1CL.jpg">
   <p><a href="/Gallery/2020_h1cl-and-clb-syllabus_pre-university.pdf" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">H1华文与华文 B 课程标准 </span>
@@ -129,7 +129,7 @@ width:100%;
 <br/><span style="color:#d14165;font-size:18px;font-family:KaiTi">H1华文数码资源示例 2
 </span></div> </div>
 <br/>
-<h4 id="C2"><span style="font-size:30px;font-family:KaiTi;color:pink;">H2华文与文学课程 </span>
+<h4 id="C2"><span style="font-size:30px;font-family:KaiTi;">H2华文与文学课程 </span>
 </h4>
 <img src="/images/CL-PreU-H2Cll.jpg">
 <p><a href="/Gallery/H2CLL_highlights-of-new-syllabus.pdf" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">新课程亮点</span>
@@ -170,7 +170,7 @@ width:100%;
  </span>
 </a></li>
   </ul></p>
-  <p style="font-size:25px;font-family:KaiTi;color:pink">2019年H2 翻译讲座主讲嘉宾：新传媒新闻与时事主播林稚英与南洋理工大笔译与口译硕士学位课程讲师崔峰博士
+  <p style="font-size:25px;font-family:KaiTi;">2019年H2 翻译讲座主讲嘉宾：新传媒新闻与时事主播林稚英与南洋理工大笔译与口译硕士学位课程讲师崔峰博士
 </p>
 <img src="/images/CLEP-gif.gif">
  <h4 id="C3">  <span style="font-size:30px;font-family:KaiTi;">H2 中国通识  </span> 
@@ -189,9 +189,9 @@ width:100%;
 <h4 id="C6">  <span style="font-size:30px;font-family:KaiTi;">双文化课程 </span>
 </h4>
 <img src="/images/CL-PreU-BSP.jpg">
- <p style="font-size:25px;font-family:KaiTi;color:pink">双文化营
+ <p style="font-size:25px;font-family:KaiTi;">双文化营
 <img src="/images/CL_PreU-BSP2.jpg"></p>
-<p style="font-size:25px;font-family:KaiTi;color:pink">双文化课程海外浸濡 </p>
+<p style="font-size:25px;font-family:KaiTi;">双文化课程海外浸濡 </p>
 <img src="/images/BSP-gif.gif">
   <a href="https://beta.moe.gov.sg/fees-assistance-awards-scholarships/awards-scholarships/programme-scholarships/" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">有关双文化课程的更多信息，请浏览
  </span>
