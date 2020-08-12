@@ -48,7 +48,7 @@ third_nav_title: '华文学习展示区'
  <div><h2 style="font-family:KaiTi;">学前教育中心</h2></div>
 <table class="tbl">
 <tr>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+<td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1" class="lbCh"><span style="font-size:25px;font-family:KaiTi;padding-top:12px;">爱加倍实龙岗分校 </span><br/> Agape Little Uni. @ Upper Serangoon</label>
@@ -69,7 +69,7 @@ third_nav_title: '华文学习展示区'
 </td>
 </tr>
 <tr>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+<td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi;padding-top:12px;">教育部幼儿园（华苑）</span><br/>MOE Kindergarten @ Farrer Park</label>
