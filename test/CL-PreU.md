@@ -116,7 +116,7 @@ width:100%;
  <img src="/images/CL-PreU-h1CL.jpg">
   <p><a href="/Gallery/2020_h1cl-and-clb-syllabus_pre-university.pdf" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">H1华文与华文 B 课程标准 </span>
 </a><br/>
-  <a href="/Gallery/2020_h1mtl-and-mtlb-syllabus_pre-university.pdf" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">H1MTL & MTL‘B’ Syllabus Document
+  <a href="/Gallery/2020_h1mtl-and-mtlb-syllabus_pre-university.pdf" target="_blank"> <span style="font-size:21px;">H1MTL & MTL‘B’ Syllabus Document
  </span></a>
   </p>
   <div class="row">
@@ -170,13 +170,13 @@ width:100%;
  </span>
 </a></li>
   </ul></p>
-  <h4 style="font-size:25px;font-family:KaiTi;">2019年H2 翻译讲座主讲嘉宾：新传媒新闻与时事主播林稚英与南洋理工大笔译与口译硕士学位课程讲师崔峰博士
-</h4>
-<img src="/images/CLEP-gif.gif">
+  <img src="/images/H2TR-gif.gif">
+  <h4 style="font-size:20px;font-family:KaiTi;">2019年H2 翻译讲座主讲嘉宾：新传媒新闻与时事主播林稚英与南洋理工大笔译与口译硕士学位课程讲师崔峰博士
+</h4> 
  <h4 id="C3">  <span style="font-size:30px;font-family:KaiTi;">H2 中国通识  </span> 
 </h4>
 <img src="/images/CL-Preu_H2CSC.jpg">
- <a href="/Gallery/china-studies-h2.pdf" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">H2 China Studies in Chinese Syllabus Document
+ <a href="/Gallery/china-studies-h2.pdf" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">H2中国通识课程标准 
  </span>
 </a>
 <h4 id="C5">  <span style="font-size:30px;font-family:">高中华文语文特选课程 </span> 
@@ -193,7 +193,7 @@ width:100%;
 <img src="/images/CL_PreU-BSP2.jpg"></p>
 <p style="font-size:25px;font-family:KaiTi;">双文化课程海外浸濡 </p>
 <img src="/images/BSP-gif.gif">
-  <a href="https://beta.moe.gov.sg/fees-assistance-awards-scholarships/awards-scholarships/programme-scholarships/" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">有关双文化课程的更多信息，请浏览
+  <span style="font-size:21px;font-family:KaiTi;">有关双文化课程的更多信息，请浏览: </span><a href="https://beta.moe.gov.sg/fees-assistance-awards-scholarships/awards-scholarships/programme-scholarships/" target="_blank"><span style="font-size:21px;font-family:Calibri;">https://beta.moe.gov.sg/fees-assistance-awards-scholarships/awards-scholarships/programme-scholarships/ </span>
  </span>
 </a>
 
