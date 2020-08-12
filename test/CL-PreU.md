@@ -83,7 +83,7 @@ width:100%;
  </style>
  <a href="/gallery/华文学习展示区-chinese-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/CL-PreU-Header.jpg">
-<p style="font-size:28px;font-family:KaiTi" ><h4 style="font-size:25px;font-family:KaiTi ;color:pink;">高中华文课程总览</h4>
+<p style="font-size:28px;font-family:KaiTi" ><h4 style="font-size:25px;font-family:KaiTi;">高中华文课程总览</h4>
 <br>
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">H1华文与华文B
 </span></a><br/>
@@ -100,7 +100,7 @@ width:100%;
    <img src="/images/CL-PreU_Overview.jpg">
    <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-   <label for="tab-1" style="font-family:KaiTi;font-size:22px" class="lbChPI">Overview of the Pre-U CL Curriculum
+   <label for="tab-1" style="font-family:KaiTi;font-size:22px" class="lbCh">Overview of the Pre-U CL Curriculum
  </label>
      <div class="tab-content">
        <p>The learning of MTL is a lifelong endeavour. As students progress to the Pre-University level, MOE continues to cater to students with different learning needs and aspirations in their MTLs, taking into account the different MTL courses and programmes students have offered at the secondary level. Their language skills and competencies would continue to be developed in preparation for the lifelong learning of their respective MTLs.  <br/>
@@ -173,7 +173,7 @@ width:100%;
   <p style="font-size:25px;font-family:KaiTi;color:pink">2019年H2 翻译讲座主讲嘉宾：新传媒新闻与时事主播林稚英与南洋理工大笔译与口译硕士学位课程讲师崔峰博士
 </p>
 <img src="/images/CLEP-gif.gif">
- <h4 id="C3">  <span style="font-size:30px;font-family:KaiTi;color:pink">H2 中国通识  </span> 
+ <h4 id="C3">  <span style="font-size:30px;font-family:KaiTi;">H2 中国通识  </span> 
 </h4>
 <img src="/images/CL-Preu_H2CSC.jpg">
  <a href="/Gallery/china-studies-h2.pdf" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">H2 China Studies in Chinese Syllabus Document
@@ -186,7 +186,7 @@ width:100%;
 <a href="https://sites.google.com/moe.edu.sg/preuclep" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">有关高中华文语文特选课程的更多信息，请浏览
  </span>
 </a>
-<h4 id="C6">  <span style="font-size:30px;font-family:KaiTi;color:pink">双文化课程 </span>
+<h4 id="C6">  <span style="font-size:30px;font-family:KaiTi;">双文化课程 </span>
 </h4>
 <img src="/images/CL-PreU-BSP.jpg">
  <p style="font-size:25px;font-family:KaiTi;color:pink">双文化营
