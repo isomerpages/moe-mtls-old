@@ -170,8 +170,8 @@ width:100%;
  </span>
 </a></li>
   </ul></p>
-  <p style="font-size:25px;font-family:KaiTi;">2019年H2 翻译讲座主讲嘉宾：新传媒新闻与时事主播林稚英与南洋理工大笔译与口译硕士学位课程讲师崔峰博士
-</p>
+  <h4 style="font-size:25px;font-family:KaiTi;">2019年H2 翻译讲座主讲嘉宾：新传媒新闻与时事主播林稚英与南洋理工大笔译与口译硕士学位课程讲师崔峰博士
+</h4>
 <img src="/images/CLEP-gif.gif">
  <h4 id="C3">  <span style="font-size:30px;font-family:KaiTi;">H2 中国通识  </span> 
 </h4>
@@ -179,7 +179,7 @@ width:100%;
  <a href="/Gallery/china-studies-h2.pdf" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">H2 China Studies in Chinese Syllabus Document
  </span>
 </a>
-<h4 id="C5">  <span style="font-size:30px;font-family:KaiTi;color:pink">高中华文语文特选课程 </span> 
+<h4 id="C5">  <span style="font-size:30px;font-family:">高中华文语文特选课程 </span> 
 </h4>
 <img src="/images/CL-PreU-CLEP.jpg"><br/>
 <img src="/images/CLEP-gif.gif"><br/>
