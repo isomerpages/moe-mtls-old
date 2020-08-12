@@ -70,7 +70,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab atab3Line">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1"  class="lbML">Didik Hibur: Bahan Rangsangan untuk Menggalakkan Pelajar dalam Pembelajaran <br/>Bahasa Melayu  <br/> [Livestreaming on 29 August from 12.30pm to 1.30pm]
+      <label for="tab-1"  class="lbML">Didik Hibur dalam Video Pendidikan: Bahan Rangsangan untuk Menggalakkan Pelajar dalam Pembelajaran <br/>Bahasa Melayu  <br/> [Livestreaming on 29 August from 12.30pm to 1.30pm]
  <br/>Ms Asnida Bte Daud
 </label>
       <div class="tab-content">
@@ -87,7 +87,7 @@ max-width:40%;
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil</h4> 
        <p style="margin:10px;">Cikgu Asnida Daud mempunyai pengalaman lebih daripada 20 tahun dalam pengajaran Bahasa Melayu. Cikgu Asnida merupakan Pakar Kanan di cawangan Reka Bentuk Media untuk Pembelajaran pada tahun 2020. Sejak 2011, beliau menghasilkan dan menerbitkan video dan audio pendidikan dari peringkat prasekolah hingga prauniversiti. Sebagai Duta Bahasa, beliau menyemarakkan cinta akan budaya dan bahasa Melayu dalam kalangan masyarakat umum. Kini, beliau meneroka bidang motivasi untuk mengekalkan minat pelajar dalam pembelajaran Bahasa Ibunda menerusi media kreatif.</p>
         <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Sinopsis</h4> 
-       <p style="margin:10px;"><strong>Didik Hibur: Bahan Rangsangan untuk Menggalakkan Pelajar dalam Pembelajaran Bahasa Melayu</strong><br/>
+       <p style="margin:10px;"><strong>Didik Hibur dalam Video Pendidikan: Bahan Rangsangan untuk Menggalakkan Pelajar dalam Pembelajaran Bahasa Melayu</strong><br/>
 Kajian neurosains telah membuktikan bahawa pembelajaran akan berhenti apabila keseronokan terhenti. Cara pembelajaran dan pengajaran bahasa yang aktif dan berkesan sangat penting bagi pelajar pada peringkat awal. Salah satu kaedah adalah melalui pendekatan didik hibur yang mengandungi sejumlah aktiviti seperti nyanyian, bercerita, lakonan atau puisi. Pendekatan didik hibur memupuk minat belajar dan sikap positif terhadap pembelajaran bahasa, khususnya untuk mengatasi kesukaran pelajar menguasai kemahiran membaca dan menulis. Perkongsian ini memanfaatkan pengalaman dan kepakaran penceramah bukan hanya sebagai perancang media pendidikan tetapi turut meraih pengalaman beliau dalam seni kreatif sebagai penggiat, penyair dan pengamal budaya Melayu. Pada masa yang sama, perkongsian tersebut juga memberikan contoh pendekatan didik hibur yang diterapkan dalam bahan pendidikan yang telah dihasilkan.  
 </p><br/>
      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profile</h4>   
@@ -124,7 +124,7 @@ Manager, Education</p>
              <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil</h4>   
        <p style="margin:10px;">Encik Haniman Boniran ialah Pengurus Pendidikan di Wildlife Reserves Singapore (WRS). Minat beliau dalam pendidikan alam berputik semasa menjadi sukarelawan di Taman Haiwan Singapura pada tahun 2001. Sejak sedekad yang lalu, beliau menceburi bidang pendidikan yang merangkumi pendidikan awal kanak-kanak, pendidikan bahasa Melayu dan pengendalian bengkel bahasa Melayu untuk guru prasekolah sebagai sebahagian daripada pembelajaran pengalaman autentik yang ditawarkan di WRS. Beliau juga bekerjasama dengan para pendidik untuk menghasilkan strategi-strategi pengajaran yang baik bagi memperkukuh penggunaan bahasa Melayu dalam kalangan masyarakat muda Singapura. Encik Haniman yang gemar berinteraksi bersama ibu bapa dan masyarakat juga telah diiktiraf sebagai seorang pendidik bagi orang dewasa oleh Institut Pembelajaran Dewasa (IAL).</p>
          <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Sinopsis</h4>  
-       <p  style="margin:10px;"><strong>Didik Hibur: Ayuh, Teroka Taman Haiwan Singapura…Melalui Alam Siber!</strong><br/>
+       <p  style="margin:10px;"><strong>Ayuh, Teroka Taman Haiwan Singapura…Melalui Alam Siber!</strong><br/>
       Dengan perkembangan teknologi, pembelajaran bahasa ibunda boleh menjadi lebih mudah dan seronok dengan kaedah pembelajaran teradun. 
 Melalui sesi perkongsian Webinar ini, peserta dapat belajar cara menggunakan topik-topik tentang haiwan dalam pengajaran dan pembelajaran bahasa Melayu. Peserta akan dibawa ke alam maya Taman Haiwan Singapura untuk berjumpa dengan duta haiwan. Penggunaan gambar, video dan buku audio yang telah direka khas Taman Haiwan Singapura diharap dapat menarik perhatian peserta, khususnya kanak-kanak.  Peserta juga akan didedahkan kepada konsep pendidikan berpusatkan kanak-kanak bagi mencungkil sifat ingin tahu mereka. <br/>
 Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik darjah. Pengajaran dan pembelajaran secara autentik ini dapat membina kemahiran asas bahasa dan literasi yang terdapat  dalam Rangka Kerja Bahasa Ibunda MOE dan ECDA.
