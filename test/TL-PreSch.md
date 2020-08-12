@@ -150,3 +150,15 @@ margin-bottom:10px;
 <img src="/images/TL-PreSch-right6.jpg"></td>
          </tr>
  </table>
+ <br/>
+ <img src="/images/TL-PreSch-ReadingApproach.jpg">
+  <br/>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/RfP2dGBTlQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <br/><span style="font-size:18px;">Shared Book Approach
+</span>
+<h4 style="font-size:30px;color:purple;">அதிசய வாரத் திட்டப்பணி (WoW Project)
+</h4>
+<img src="/images/TL-PreSch-MiracleWeek.jpg">
+<br/><p style="font-size:20px;">இந்த இணைப்பின்வழி அதிசய வாரத் திட்டப்பணிகளைப்பற்றித் தெரிந்துகொள்ளுங்கள் <a href="https://www.nel.moe.edu.sg/resources/49800/49802" target="_blank">https://www.nel.moe.edu.sg/resources/49800/49802
+</a></p>
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
