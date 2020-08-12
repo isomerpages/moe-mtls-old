@@ -24,7 +24,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
     position: relative;
     display: block;
     background: #a3c8645;
-    color: #fff;
+    color: #a3c8645;
     font-weight: 700;
     padding: 10px;
     cursor: pointer;
