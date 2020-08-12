@@ -182,7 +182,7 @@ width:100%;
 <h4 id="C5">  <span style="font-size:30px;font-family:">高中华文语文特选课程 </span> 
 </h4>
 <img src="/images/CL-PreU-CLEP.jpg"><br/>
-<img src="/images/CLEP-gif.gif"><br/>
+<img src="/images/CLEP-gif2.gif"><br/>
 <a href="https://sites.google.com/moe.edu.sg/preuclep" target="_blank"> <span style="font-size:21px;font-family:KaiTi;">有关高中华文语文特选课程的更多信息，请浏览
  </span>
 </a>
