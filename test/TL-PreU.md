@@ -177,7 +177,14 @@ width:100%;
    <a href="/Gallery/tlep-jc_infosheet_students.pdf " target="_blank"><img src="/images/TL-PreU-InfoSheet_Student.png"></a>
  </div>
       </div></p>
-      
+      <table style="width:100%">
+  
+  <tr>
+    <td>  <img src="/images/TL-PreU-rigth7.png"></td>
+    <td><img src="/images/TL-PreU-right8.png"></td>
+ 
+  </tr>
+</table>
       
       
       
