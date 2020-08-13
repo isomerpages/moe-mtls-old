@@ -133,8 +133,7 @@ width:100%;
   <div class="column">
   <iframe width="560" height="315"  src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
  </div></div>
-<br/> 
-<p><ul>
+<ul>
   <li><a href="#" target="_blank">H2H3TLL Syllabus
 </a></li>
   <li><a href="#" target="_blank">Launch Slides- {PDF version}
@@ -144,7 +143,7 @@ width:100%;
   <li><a href="#" target="_blank">Sample Thumbnail for PDF of Illakiya Oola & loop slides video</a></li>
   <li><a href="#" target="_blank">Student’s sharing on H3TLL
 </a></li>
-</ul></p>
+</ul>
  <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
    <label for="tab-1" style="font-family:KaiTi;font-size:22px" class="lbCh">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமூட்டும் உத்திமுறைகள் 
