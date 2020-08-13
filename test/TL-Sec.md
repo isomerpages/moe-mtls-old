@@ -18,6 +18,12 @@ td{
   padding: 8px;
   width:60%;
 }
+.col{
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  width:0%;
+}
   .tab img{
    width: 80%;
  }
@@ -179,7 +185,6 @@ width:100%;
     </strong> <br/>
    <ul>
    <li>தொடக்கக்கல்லூரிகள்
-
 </li>
 <li>தேசிய தொடக்கக்கல்லூரி
 </li>
@@ -187,12 +192,14 @@ width:100%;
    </div> 
    </div>
    <br/>
+   <div class="col">
  <table style="width:100%">
   <tr>
     <td><img src="/images/TL-Sec-left1.png"></td>
     <td><img src="/images/TL-Sec-left2.png"></td>
  </tr>
 </table>
+ </div>
 <br/>
  <p><span style="font-size:30px;color:purple;">நதிக்கரை தமிழ்க்கடல் (ரிவர்சைடு உயர்நிலைப்பள்ளி
 </span></h4>
