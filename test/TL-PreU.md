@@ -174,11 +174,11 @@ width:100%;
   <a href="/Gallery/tlep-sec-infosheet-students-2019.pdf " target="_blank"><img src="/images/TL-PreU-Student2019.png"></a>
 </div>
   <div class="column">
-   <a href="/Gallery/tlep-jc_infosheet_students.pdf" target="_blank"><img src="/images/TL-PreU-InfoSheet_Student.png"></a>
+   <a href="/Gallery/tlep-jc_infosheet_students.pdf " target="_blank"><img src="/images/TL-PreU-InfoSheet_Student.png"></a>
  </div>
-      </div>
+      </div></p>
  
-</p>
+
 
  
 
