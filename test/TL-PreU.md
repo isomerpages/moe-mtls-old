@@ -153,8 +153,24 @@ width:100%;
 <img src="/images/TL-PreU-Strategies.jpg">
        </div>
       </div>
-
-
+<h4 id="C3"><span style="font-size:30px;color:purple;">தேசிய தமிழ்மொழி விருப்பப் பாடத்திட்டம் (National Elective Tamil Programme)
+ </span></h4>
+ <p><strong>‘விதைத்ததுதான் பயிராகும்; நல்வித்துகளே கனிதரும் மரமாகும்.”
+</strong> <br/>விருப்பப்பாடத்திட்டம் மாணவர்களை வகுப்பறைக்கு அப்பாலும் தமிழ்மொழி கற்றலில் ஈடுபடுவதை நோக்கமாக கொண்டுள்ளது.
+<br/>
+ <ul>
+  <li>தமிழ்மொழியறிவையும் இலக்கிய ஆற்றலையும் மேலும் பெருக்கிக்கொள்ளத் துணைபுரிதல் </li>
+  <li>இலக்கியச் செழுமை நிறைந்த  தமிழ்மொழியின் அரிய படைப்புகளை அறிந்துகொள்ள வாய்ப்பளித்தல்
+</li>
+</ul>
+<iframe width="560" height="315"  src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px">An intro to Pre- U & Comic strip (Conversation between TLEP Students).
+</span>
+</p>
+<h4 id="C4"><span style="font-size:30px;color:purple;">ததமிழ்மொழி விருப்பப் பாடத்திட்டம் (Tamil Language Elective Programme)
+ </span></h4>
+ <p>தமிழ்மொழி விருப்பப்பாடத் திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. தகுதிவாய்ந்த மாணவர்களைத் தமிழ்மொழியில் ஆற்றல்மிக்கவர்களாகவும், தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வைப் பேணி வளர்க்கவும் இத்திட்டம் வகைசெய்யும். அதோடு, மாணவர்களை இருமொழியாற்றல் மிக்கவர்களாக உருவாக்குவதே இந்தத் திட்டத்தின் நோக்கமாகும். <br/>
+ தமிழ்மொழி விருப்பப்பாடத் திட்டம் கீழ்க்கண்ட உயர்நிலைப் பள்ளிகளிலும் தொடக்கக்கல்லூரிகளிலும் வழங்கப்படுகின்றது.
+</p>
 
  
 
