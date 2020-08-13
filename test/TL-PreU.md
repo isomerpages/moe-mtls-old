@@ -49,6 +49,10 @@ td{
     display: flex;
     height: 7%;
 }
+.row:not(.is-desktop) {
+    display: flex;
+    height: auto;
+}
  .atab label::after {
   content: "+";
   font-size: 22px;
