@@ -18,10 +18,8 @@ td{
   padding: 8px;
   width:60%;
 }
-.col{
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
+.btab{
+
   width:0%;
 }
   .tab img{
@@ -192,7 +190,7 @@ width:100%;
    </div> 
    </div>
    <br/>
-   <div class="col">
+   <div class="btab">
  <table style="width:100%">
   <tr>
     <td><img src="/images/TL-Sec-left1.png"></td>
