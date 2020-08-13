@@ -47,7 +47,7 @@ td{
  }
  .row {
     display: flex;
-    height: 0%;
+    height: 7%;
 }
  .atab label::after {
   content: "+";
@@ -179,7 +179,6 @@ width:100%;
    </div>
    </p>
 <table style="width:100%">
-  
   <tr>
     <td><img src="/images/TL-PreU-rigth7.png"></td>
     <td><img src="/images/TL-PreU-right8.png"></td>
