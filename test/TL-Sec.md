@@ -1,6 +1,6 @@
 ---
 title: 'TL PreSch'
-permalink: /test/TL-PreSch/
+permalink: /test/TL-Sec/
 breadcrumb: 'TL PreSch'
 ---
 <html>
