@@ -68,7 +68,7 @@ table.center {
 }
 </style>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
-<img src="/images/ML_Header.jpg">
+<img src="/images/ML_Header2.jpg">
 <p>
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Bahan Pengajaran Dan Pembelajaran</span></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Sokongan Ibu Bapa</span></a>&nbsp;&nbsp;
