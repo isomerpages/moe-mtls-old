@@ -96,7 +96,7 @@ width:100%;
 <a href="#C4" style="font-size:23px"><span style="color:blue;">தமிழ்மொழி விருப்பப் பாடத்திட்டம் (Tamil Language Elective Programme)
 </span></a><br/>
  <a href="#C5" style="font-size:23px"><span style="color:blue;">இலக்கியம்
-</span></a>
+</span></a><br/>
 <a href="#C6" style="font-size:23px"><span style="color:blue;">தொடர்பிணைப்புக் கற்றல் சமூகக் குழு உருவாக்கம் (Networked Learning Community)
 </span></a><br/>
 <a href="#C7" style="font-size:23px"><span style="color:blue;">பால்மரக்காட்டினிலே – கற்றல் பயணம்
