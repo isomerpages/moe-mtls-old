@@ -145,6 +145,15 @@ width:100%;
   <li><a href="#" target="_blank">Student’s sharing on H3TLL
 </a></li>
 </ul></p>
+ <div class="atab">
+      <input id="tab-1" type="checkbox" name="tab">
+   <label for="tab-1" style="font-family:KaiTi;font-size:22px" class="lbCh">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமூட்டும் உத்திமுறைகள் 
+</label>
+     <div class="tab-content">
+<img src="/images/TL-PreU-Strategies.jpg">
+       </div>
+      </div>
+
 
 
  
