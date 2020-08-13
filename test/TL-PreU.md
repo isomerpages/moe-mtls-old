@@ -126,10 +126,10 @@ width:100%;
 <br/>
 <div class="row">
  <div class="column">
- <iframe src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+ <iframe  width="560" height="315" src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
 </div>
   <div class="column">
-  <iframe src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+  <iframe width="560" height="315"  src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
  </div>
       </div>
       <ul>
@@ -166,7 +166,7 @@ width:100%;
   <li>இலக்கியச் செழுமை நிறைந்த  தமிழ்மொழியின் அரிய படைப்புகளை அறிந்துகொள்ள வாய்ப்பளித்தல்
 </li>
  </ul>
-<iframe src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
       <span style="font-size:20px;">An intro to Pre- U & Comic strip (Conversation between TLEP Students).
  </span> </p>
  <h4 id="C4"><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப் பாடத்திட்டம் (Tamil Language Elective Programme)
@@ -193,7 +193,6 @@ width:100%;
  </div>
       </div>
       <br/>
-      
       
       
       <div class="row">
