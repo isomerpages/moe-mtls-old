@@ -132,7 +132,8 @@ width:100%;
   <iframe width="560" height="315"  src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
  </div>
       </div>
-      <ul>
+      <br/> 
+     <ul>
   <li><a href="#" target="_blank">H2H3TLL Syllabus
 </a></li>
   <li><a href="#" target="_blank">Launch Slides- {PDF version}
@@ -193,8 +194,6 @@ width:100%;
  </div>
       </div>
       <br/>
-      
-      
       <div class="row">
  <div class="column">
 <img src="/images/TL-PreU-right9.png.png">
