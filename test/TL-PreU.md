@@ -134,6 +134,19 @@ width:100%;
   <iframe width="560" height="315"  src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
  </div></div>
 <br/> 
+<p><ul>
+  <li><a href="#" target="_blank">H2H3TLL Syllabus
+</a></li>
+  <li><a href="#" target="_blank">Launch Slides- {PDF version}
+</a></li>
+  <li><a href="#" target="_blank">PDF version of E-brochure of H2/H3TLL Syllabus 2021
+</a></li>
+  <li><a href="#" target="_blank">Sample Thumbnail for PDF of Illakiya Oola & loop slides video</a></li>
+  <li><a href="#" target="_blank">Student’s sharing on H3TLL
+</a></li>
+</ul></p>
+
+
  
 
 
