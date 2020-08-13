@@ -169,14 +169,16 @@ width:100%;
  </span></h4>
  <p>தமிழ்மொழி விருப்பப்பாடத் திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. தகுதிவாய்ந்த மாணவர்களைத் தமிழ்மொழியில் ஆற்றல்மிக்கவர்களாகவும், தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வைப் பேணி வளர்க்கவும் இத்திட்டம் வகைசெய்யும். அதோடு, மாணவர்களை இருமொழியாற்றல் மிக்கவர்களாக உருவாக்குவதே இந்தத் திட்டத்தின் நோக்கமாகும். <br/>
  தமிழ்மொழி விருப்பப்பாடத் திட்டம் கீழ்க்கண்ட உயர்நிலைப் பள்ளிகளிலும் தொடக்கக்கல்லூரிகளிலும் வழங்கப்படுகின்றது.
- <div class="row">
- <div class="column">
+  <table style="width:100%">
+  <tr>  <td> 
   <a href="/Gallery/tlep-sec-infosheet-students-2019.pdf " target="_blank"><img src="/images/TL-PreU-Student2019.png"></a>
-</div>
-  <div class="column">
+  </td> 
+  <td> 
    <a href="/Gallery/tlep-jc_infosheet_students.pdf " target="_blank"><img src="/images/TL-PreU-InfoSheet_Student.png"></a>
- </div>
-      </div></p>
+   </td> 
+   </tr>
+   </table>
+      </p>
       <table style="width:100%">
   
   <tr>
