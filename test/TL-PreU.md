@@ -133,7 +133,7 @@ width:100%;
  </div>
       </div>
       <br/> 
-     <ul>
+     <p><ul>
   <li><a href="#" target="_blank">H2H3TLL Syllabus
 </a></li>
   <li><a href="#" target="_blank">Launch Slides- {PDF version}
@@ -143,7 +143,7 @@ width:100%;
   <li><a href="#" target="_blank">Sample Thumbnail for PDF of Illakiya Oola & loop slides video</a></li>
   <li><a href="#" target="_blank">Student’s sharing on H3TLL
 </a></li>
-</ul>
+</ul></p>
  <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
    <label for="tab-1" style="font-family:KaiTi;font-size:22px" class="lbCh">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமூட்டும் உத்திமுறைகள் 
