@@ -47,7 +47,7 @@ td{
  }
  .row {
     display: flex;
-    height: 7%;
+    height: 0%;
 }
  .atab label::after {
   content: "+";
