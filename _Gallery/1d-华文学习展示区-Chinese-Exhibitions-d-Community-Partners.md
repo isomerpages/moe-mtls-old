@@ -105,8 +105,7 @@ CPCLL’s signature programmes and key activities include Xin Kong Xia National 
         </p><br/>
           <h4 style="margin:10px;">Fun with our Mother Tongue Languages</h4>
           <p style="margin:10px;">The establishment of the Lee Kuan Yew Fund for Bilingualism (the “Fund”) was announced by Mr Lee Kuan Yew, at the launch of “My Lifelong Challenge: Singapore’s Bilingual Journey” in 2011.<br/>
-              The Fund supports creative and engaging approaches that encourage bilingualism and the learning of MTLs as a lifelong endeavour. This year, the Fund has collaborated with the polytechnics to develop resources that encourage the learning of MTLs among pre-school children and young adults. The Fund has also set up a special call for projects to support the learning of MTLs among young children at home.
-
+The Fund supports creative and engaging approaches that encourage bilingualism and the learning of MTLs as a lifelong endeavour. This year, the Fund Committee has collaborated with all the polytechnics to develop resources that encourage the learning of MTLs among pre-school children and young adults. The Fund Committee has also set up a Special Call for Projects at #IamBilingualSG, to support the learning of MTLs among young children at home.
 </p>
       </div>
 </div>
