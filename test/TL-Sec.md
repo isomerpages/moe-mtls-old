@@ -166,7 +166,7 @@ width:100%;
  <div class="row">
  <div class="column">
   <a href="/Gallery/tlep-sec-infosheet-students-2019.pdf " target="_blank"><p><strong>உயர்நிலைப் பள்ளிகள்
-</strong><br/>
+   </strong> </a><br/>
    <ul>
    <li>காமன்வெல்த் உயர்நிலைப்பள்ளி</li>
    <li>ரிவர்சைடு உயர்நிலைப்பள்ளி</li>
@@ -176,7 +176,7 @@ width:100%;
   </div> 
  <div class="column">
    <a href="/Gallery/tlep-jc_infosheet_students.pdf " target="_blank"><p><strong>தொடக்கக்கல்லூரிகள்
-</strong><br/>
+    </strong> </a><br/>
    <ul>
    <li>தொடக்கக்கல்லூரிகள்
 
