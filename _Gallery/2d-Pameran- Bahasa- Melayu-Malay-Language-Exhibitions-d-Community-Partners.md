@@ -99,12 +99,15 @@ third_nav_title: 'Pameran Bahasa Melayu'
       <div class="tab-content">
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Berseronok dengan Bahasa Ibunda Kita</h4>
         <p style="margin:10px;">
-                 Penubuhan Dana Kedwibahasaan Lee Kuan Yew (“Dana”) diumumkan semasa pelancaran buku Encik Lee Kuan Yew, “My Lifelong Challenge: Singapore’s Bilingual Journey” pada tahun 2011. </p>
-<p style="margin:10px;">Dana ini menyokong pendekatan pelibatan dan kreatif yang menggalakkan kedwibahasaan dan pembelajaran  Bahasa Ibunda sebagai usaha sepanjang hayat . Dana ini telah menyokong penghasilan bahan-bahan yang memaparkan sifat berbilang budaya Singapura dan kekayaan Bahasa Ibunda. </p>
-     <p style="margin:10px;">Pada tahun ini, Dana telah bekerjasama dengan politeknik-politeknik setempat untuk menghasilkan bahan-bahan yang menyokong pembelajaran Bahasa Ibunda dalam kalangan kanak-kanak prasekolah dan belia. Dana juga telah melancarkan Undangan Khas bagi Pengajuan Projek #SayaBolehBerdwibahasa untuk menyokong pembelajaran Bahasa Ibunda dalam kalangan kanak-kanak di rumah.</p><br/>
+                 Penubuhan Dana Kedwibahasaan Lee Kuan Yew (“Dana”) diumumkan semasa pelancaran buku Encik Lee Kuan Yew,“My Lifelong Challenge: Singapore’s Bilingual Journey”pada tahun 2011. <br/>
+Dana ini menyokong pendekatan menarik dan kreatif bagi menggalakkan kedwibahasaan dan pembelajaran Bahasa Ibunda sebagai usaha sepanjang hayat.</p>
+
+<p style="margin:10px;">Pada tahun ini, Dana telah bekerjasama dengan politeknik-politeknik setempat untuk menghasilkan bahan-bahan yang menyokong pembelajaran Bahasa Ibunda dalam kalangan kanak-kanak prasekolah dan belia. Dana juga telah melancarkan Undangan Khas bagi Pengajuan Projek #SayaBolehBerdwibahasa untuk menyokong pembelajaran Bahasa Ibunda dalam kalangan kanak-kanak di rumah.
+</p><br/>
 <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Fun with our Mother Tongue Languages</h4>
         <p style="margin:10px;">
-        The establishment of the Lee Kuan Yew Fund for Bilingualism (the “Fund”) was announced by Mr Lee Kuan Yew, at the launch of “My Lifelong Challenge: Singapore’s Bilingual Journey” in 2011. <br/>The Fund supports creative and engaging approaches that encourage bilingualism and the learning of MTLs as a lifelong endeavour. This year, the Fund Committee has collaborated with all the polytechnics to develop resources that encourage the learning of MTLs among pre-school children and young adults. The Fund Committee has also set up a Special Call for Projects at #IamBilingualSG to support the learning of MTLs among young children at home.</p>
+        The establishment of the Lee Kuan Yew Fund for Bilingualism (the “Fund”) was announced by Mr Lee Kuan Yew, at the launch of “My Lifelong Challenge: Singapore’s Bilingual Journey” in 2011. </p>
+    <p style="margin:10px;">The Fund supports creative and engaging approaches that encourage bilingualism and the learning of MTLs as a lifelong endeavour. This year, the Fund Committee has collaborated with all the polytechnics to develop resources that encourage the learning of MTLs among pre-school children and young adults. The Fund Committee has also set up a Special Call for Projects at #IamBilingualSG to support the learning of MTLs among young children at home.</p>
       </div>
 </div>
 </td>
