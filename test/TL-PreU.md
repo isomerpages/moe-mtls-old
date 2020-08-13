@@ -182,19 +182,7 @@ width:100%;
    </div> 
    </div>
    </p>
-<table style="width:100%">
-  <tr>
-    <td><img src="/images/TL-PreU-rigth7.png"></td>
-    <td><img src="/images/TL-PreU-right8.png"></td>
- </tr>
-</table>
- <table style="width:100%">
-  <tr>
-    <td>  <img src="/images/TL-PreU-right9.png"></td>
-    <td><img src="/images/TL-PreU-right8.png"></td>
- </tr>
-</table>     
-      
+
       
       
  
