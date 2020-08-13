@@ -197,7 +197,7 @@ width:100%;
  <h4 id="C4"><span style="font-size:30px;color:purple;">நதிக்கரை தமிழ்க்கடல் (ரிவர்சைடு உயர்நிலைப்பள்ளி
 </span></h4>
  <img src="/images/TL-PreU-Strategies.jpg">
- <p style="font-size:25px;">இணையவழிக் கற்றல்
+ <p style="font-size:25px;">இணையவழிக் கற்றல் <br/>
 
  <img src="/images/TL-Sec_onlineLearning.jpg">
 </p>
