@@ -190,14 +190,14 @@ width:100%;
    </div> 
    </div>
    <br/>
-   <div class="btab">
+
  <table style="width:100%">
   <tr>
-    <td><img src="/images/TL-Sec-left1.png"></td>
-    <td><img src="/images/TL-Sec-left2.png"></td>
+    <td class="btab"><img src="/images/TL-Sec-left1.png"></td>
+    <td class="btab"><img src="/images/TL-Sec-left2.png"></td>
  </tr>
 </table>
- </div>
+
 <br/>
  <p><span style="font-size:30px;color:purple;">நதிக்கரை தமிழ்க்கடல் (ரிவர்சைடு உயர்நிலைப்பள்ளி
 </span></p>
