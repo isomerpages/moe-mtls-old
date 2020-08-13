@@ -194,11 +194,11 @@ width:100%;
  </tr>
 </table>
 <br/>
- <h4 id="C4"><span style="font-size:30px;color:purple;">நதிக்கரை தமிழ்க்கடல் (ரிவர்சைடு உயர்நிலைப்பள்ளி
+ <p><span style="font-size:30px;color:purple;">நதிக்கரை தமிழ்க்கடல் (ரிவர்சைடு உயர்நிலைப்பள்ளி
 </span></h4>
  <img src="/images/TL-PreU-Strategies.jpg">
- <p style="font-size:25px;">இணையவழிக் கற்றல் <br/>
-
- <img src="/images/TL-Sec_onlineLearning.jpg">
+ 
+ <h4 id="C4"><span style="font-size:25px;">இணையவழிக் கற்றல் </span> <br/>
+<img src="/images/TL-Sec_onlineLearning.jpg">
 </p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
