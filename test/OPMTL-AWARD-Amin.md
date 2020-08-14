@@ -18,8 +18,8 @@ max-width:40%;
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
     </div>
-    <p> <center>Mdm Iryamaya Binti Amin<br/>
-  PCF Sparkletots Preschool @ Sembawang Blk 755 </center>
+    <p> Mdm Iryamaya Binti Amin<br/>
+  PCF Sparkletots Preschool @ Sembawang Blk 755 
   </p>
     </div><br/>
     <h4>Write up</h4><p>
