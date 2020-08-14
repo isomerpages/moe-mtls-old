@@ -64,8 +64,8 @@ max-width:50%;
   <div class="row">
   <div class="column">
    <a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
- <p> Mdm Zeng Hanyu <br/>
-  <span style= "font-family:KaiTi;">曾韩玉女士  </span>
+ <p> <center> Mdm Zeng Hanyu <br/>
+  <span style= "font-family:KaiTi;">曾韩玉女士  </span> </center>
   </p>
     </div>
   <div class="column">
