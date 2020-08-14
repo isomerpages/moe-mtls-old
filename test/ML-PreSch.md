@@ -96,8 +96,8 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
  </p>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  <br/><span style="font-size:20px;" >Sehari di Tadika MOE </span>
-</a>
- <p>Berikut merupakan dua program utama Tadika MOE:  
+
+<p>Berikut merupakan dua program utama Tadika MOE:  
 </p>
  <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
