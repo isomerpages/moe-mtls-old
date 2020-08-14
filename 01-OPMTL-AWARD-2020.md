@@ -39,24 +39,25 @@ max-width:50%;
   <div class="column">
    <a href="/test/OPMTL-AWARD-Almi/"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
  <p> Mdm Almi Roafuziah Binte Mohamed <br/>
-
+PCF Sparkletots Preschool @ Sengkang West Blk 303A
  </p>
     </div>
   <div class="column">
 <a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"> </a>
  <p>Mdm Iryamaya Binti Amin<br/>
-
+PCF Sparkletots Preschool @ Sembawang Blk 755
   </p>
     </div>
   <div class="column">
 <a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
  <p>Mdm Saniah Binte Sakian<br/>
+  My First Skool at Chin Swee
   </p>
     </div>
  <div class="column">
 <a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
  <p>Ms Louis Jeya Rubi Caroline <br/>
-  திருமதி லூயிஸ் ஜெய ரூபி கர ோலின
+PCF Sparkletots Preschool @ Punggol East Blk 187B
  </p>
   </div>
   </div>
@@ -65,19 +66,22 @@ max-width:50%;
   <div class="column">
    <a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
  <p> <center> Mdm Zeng Hanyu <br/>
-  <span style= "font-family:KaiTi;">曾韩玉女士  </span> </center>
+  <span style= "font-family:KaiTi;">曾韩玉女士  </span> 
+  <br/>Islander Preschool Pte Ltd</center>
   </p>
     </div>
   <div class="column">
 <a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"> </a>
  <p> <center> Mdm Zhang JiPeng<br/>
-  <span style= "font-family:KaiTi;"> 张纪彭女士 </span> </center> 
+  <span style= "font-family:KaiTi;"> 张纪彭女士 </span> 
+  <br/>PCF Sparkletots Preschool @ Woodlands Blk 801</center> 
   </p>
     </div>
   <div class="column">
 <a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
  <p> <center> Mdm Zhang Xuanhong<br/>
-  <span style= "font-family:KaiTi;">张选红女士 </span> </center> 
+  <span style= "font-family:KaiTi;">张选红女士 </span> 
+  <br/> St. James' Church Kindergarten (Harding)</center> 
   </p>
     </div>
       </div>
@@ -88,21 +92,24 @@ max-width:50%;
   <div class="column">
   <img src="images/cropped-person-icon-8-2.png" style="width:100%">
  <p> Ms Maslina Bte Mashudi
+  <br/>PCF Sparkletots Preschool @ Bukit Batok Blk 206
 </p>
     </div>
   <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%"> 
- <p>Mdm Siti Zaleha Bte Mohamed Puteh</p>
+ <p>Mdm Siti Zaleha Bte Mohamed Puteh  <br/>
+  PCF Sparkletots Preschool @ Sembawang Blk 789
+   </p>
     </div>
   <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
  <p>Mrs Russel Raj Mary Celin Sharmila <br/>
-   திருமதி றசல் ோஜ் ரமரி ஜசலின் ஷர்மிளோ</p>
+  PCF Sparkletots Preschool @ Bedok Blk 30</p>
     </div>
  <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
  <p>Mrs Shanmugan Shoba <br/>
-திருமதி சண்முகம் ரஷோபோ
+PCF Sparkletots Preschool @ Bukit Gombak Blk 535
  </p>
   </div>
   </div>
@@ -111,19 +118,22 @@ max-width:50%;
   <div class="column">
    <img src="images/cropped-person-icon-8-2.png" style="width:100%">
  <p> <center>Ms Su Zhewei<br/>
-  <span style= "font-family:KaiTi;">苏哲纬女士 </span> </center>
+  <span style= "font-family:KaiTi;">苏哲纬女士 </span>
+    <br/>My First Skool At Blk 269 Compassvale Link</center>
   </p>
     </div>
   <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%"> 
  <p> <center>Mdm Yang Hong<br/>
-  <span style= "font-family:KaiTi;">杨红女士</span> </center> 
+  <span style= "font-family:KaiTi;">杨红女士</span> 
+    <br/> My First Skool At Chong Pang Blk 142</center> 
   </p>
     </div>
   <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
  <p> <center> Mdm Zhang Wei Wei<br/>
-  <span style= "font-family:KaiTi;">张伟玮女士 </span> </center> 
+  <span style= "font-family:KaiTi;">张伟玮女士 </span> 
+    <br/> MY World Preschool Ltd</center> 
   </p>
     </div>
       </div>
