@@ -19,7 +19,7 @@ max-width:40%;
     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
     </div>
     <p> Mdm Zhang JiPeng<br/>
-  <span style= "font-family:KaiTi;"> 张纪彭女士 </span> 
+  <span style= "font-family:KaiTi; font-size:25px;"> 张纪彭女士 </span> 
   <br/>PCF Sparkletots Preschool @ Woodlands Blk 801
   </p>
     </div><br/>
