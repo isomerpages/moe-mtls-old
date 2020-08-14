@@ -118,7 +118,7 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
        Melalui program ini, kanak-kanak akan membina kemahiran literasi awal melalui kemahiran mendengar dan bertutur.  Kemahiran ini akan membantu bagi membina asas yang kukuh dalam pembelajaran bahasa untuk masa hadapan. <br/>
   <a href="#" target="_blank">MTLS CL Framework</a>
 </p> </div></div>
- <br/>
+
  <h4 id="C1"> <span style="font-size:30px; color:green;">Program Literasi Bintang Kecil </span> 
 </h4>
   <img src="/images/ML-PreSch-Starlight1.jpg">   
