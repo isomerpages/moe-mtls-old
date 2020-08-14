@@ -43,7 +43,7 @@ PCF Sparkletots Preschool @ Sengkang West Blk 303A </center>
  </p>
     </div>
   <div class="column">
-<a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"> </a>
+<a href="/test/OPMTL-AWARD-Amin/"><img src="images/cropped-person-icon-8-2.png" style="width:100%"> </a>
  <p> <center>Mdm Iryamaya Binti Amin<br/>
   PCF Sparkletots Preschool @ Sembawang Blk 755 </center>
   </p>
