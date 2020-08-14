@@ -37,7 +37,7 @@ collections:
         output: true
 resources_name: resource-room
 favicon: /images/emtls-2020-logo-01-favicon.ico
-google_analytics: UA-73356966-6
+google_analytics: UA-175313072-2
 is_government: false
 permalink: none
 baseurl: ""

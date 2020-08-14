@@ -96,7 +96,7 @@ width:100%;
 <a href="#C4" style="font-size:23px"><span style="color:blue;">தமிழ்மொழி விருப்பப் பாடத்திட்டம் (Tamil Language Elective Programme)
 </span></a><br/>
  <a href="#C5" style="font-size:23px"><span style="color:blue;">இலக்கியம்
-</span></a>
+</span></a><br/>
 <a href="#C6" style="font-size:23px"><span style="color:blue;">தொடர்பிணைப்புக் கற்றல் சமூகக் குழு உருவாக்கம் (Networked Learning Community)
 </span></a><br/>
 <a href="#C7" style="font-size:23px"><span style="color:blue;">பால்மரக்காட்டினிலே – கற்றல் பயணம்
@@ -193,7 +193,8 @@ width:100%;
     <td>  <img src="/images/TL-PreU-right9.png"></td>
     <td><img src="/images/TL-PreU-right8.png"></td>
  </tr>
-</table>     
+</table>   
+<br/>
 <div class="row">
  <div class="column">
  <iframe  width="560" height="315" src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
@@ -209,11 +210,29 @@ width:100%;
   <iframe width="560" height="315"  src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
  </div></div>
  <a href="#" target="_blank">Students’ and Parents’ sharing on TLEP</a>
-      
- 
- 
-
-
-
+ <br/>
+ <h4 id="C5"><span style="font-size:30px;color:purple;">இலக்கியம்</span></h4>
+   <div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+   <label for="tab-2" style="font-size:22px" class="lbTM">இலக்கியம்இலக்கிய வகுப்பு ஆர்வமூட்டக்கூடியதாகஇருக்குமா?
+</label>
+     <div class="tab-content">   
+   <img src="/images/TL-PreU-Literature.jpg">
+ </div></div>
+<h4 id="C6"><span style="font-size:30px;color:purple;">தொடர்பிணைப்புக் கற்றல் சமூகக் குழு உருவாக்கம் (Networked Learning Community)
+ </span></h4>
+ <p><strong>தொடர்பிணைப்புக் கற்றல் சமூகக் குழு உருவாக்கம் <br/>
+ (NLC) – A brief write up will be given 
+</strong> <br/>
+<iframe width="560" height="315"  src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+</p>
+<h4 id="C7"><span style="font-size:30px;color:purple;">பால்மரக்காட்டினிலே – கற்றல் பயணம்
+ </span></h4>
+  <img src="/images/TL-PreU-Journey.jpg">
+<h4 id="C8"><span style="font-size:30px;color:purple;">இணையம்வழிக் கற்றல்
+ </span></h4>
+  <img src="/images/TL-PreU-OnlineLearning.jpg">
+<br/>
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
 
 
