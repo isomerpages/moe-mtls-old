@@ -104,9 +104,9 @@ Secara umumnya matlamat <a href="/Gallery/NEL-Big-Book-Malay-Teaching-Steps.pdf"
 <br/><br/>
 Yang berikut merupakan contoh-contoh projek MuM yang terdapat di<a href="https://www.nel.moe.edu.sg/resources/aktiviti-aktiviti-saranan" target="_blank"> Portal NEL.</a><br/>
 <ul>
- <li><a herf="/Gallery/Bunga-Tadika-MOE-Tampines.pdf" target="_blank">Bunga – Tadika MOE Tampines </a></li>
- <li><a herf="/Gallery/Kuih-Pisang–Tadika-MOE-Blangah-Rise.pdf" target="_blank">Kuih Pisang – Tadika MOE Blangah Rise </a> </li>
- <li><a herf="/Gallery/Ikan-Tadika-MOE-Punggol-View.pdf" target="_blank">Ikan – Tadika MOE Punggol View</a></li>
+ <li><a href="/Gallery/Bunga-Tadika-MOE-Tampines.pdf" target="_blank">Bunga – Tadika MOE Tampines </a></li>
+ <li><a href="/Gallery/Kuih-Pisang–Tadika-MOE-Blangah-Rise.pdf" target="_blank">Kuih Pisang – Tadika MOE Blangah Rise </a> </li>
+ <li><a href="/Gallery/Ikan-Tadika-MOE-Punggol-View.pdf" target="_blank">Ikan – Tadika MOE Punggol View</a></li>
 </ul>
 <br/>
 Untuk mendapatkan contoh Projek MuM yang lain, sila layari <a href="https://beta.moe.gov.sg/preschool/moe-kindergarten/curriculum/weeks-of-wonder/" target="_blank">  lelaman </a> ini.</p> 
