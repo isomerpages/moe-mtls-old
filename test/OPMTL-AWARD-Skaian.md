@@ -18,8 +18,8 @@ max-width:40%;
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
     </div>
-    <p> <center>Mdm Saniah Binte Sakian<br/>
-  My First Skool at Chin Swee </center>
+    <p> Mdm Saniah Binte Sakian<br/>
+  My First Skool at Chin Swee
   </p>
     </div><br/>
     <h4>Write up</h4><p>
