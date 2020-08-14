@@ -8,7 +8,7 @@ breadcrumb: 'OPMTL AWARD Almi'
 <style>
   img {
 height:auto;
-max-width:20%;
+max-width:40%;
 }
 </style>
 </head>
