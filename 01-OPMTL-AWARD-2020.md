@@ -70,14 +70,14 @@ max-width:50%;
     </div>
   <div class="column">
 <a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"> </a>
- <p>Mdm Zhang JiPeng<br/>
-  <span style= "font-family:KaiTi;"> 张纪彭女士 </span>
+ <p> <center> Mdm Zhang JiPeng<br/>
+  <span style= "font-family:KaiTi;"> 张纪彭女士 </span> </center> 
   </p>
     </div>
   <div class="column">
 <a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
- <p>Mdm Zhang Xuanhong<br/>
-  <span style= "font-family:KaiTi;">张选红女士 </span>
+ <p> <center> Mdm Zhang Xuanhong<br/>
+  <span style= "font-family:KaiTi;">张选红女士 </span> </center> 
   </p>
     </div>
       </div>
