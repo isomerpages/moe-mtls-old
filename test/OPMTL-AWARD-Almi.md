@@ -1,0 +1,30 @@
+---
+title: 'OPMTL AWARD Almi'
+permalink: /test/OPMTL-AWARD-Almi/
+breadcrumb: 'OPMTL AWARD Almi'
+---
+<html>
+<head>
+<style>
+  img {
+height:auto;
+max-width:20%;
+}
+</style>
+</head>
+  <body> 
+  <a href="/opmtl-award-2020/" style="float:right;">Back</a>
+  <div class="column">
+    <img src="images/cropped-person-icon-8-2.png" style="width:100%">
+    <p>Mdm Iryamaya Binti Amin<br/>
+    PCF Sparkletots Preschool @ Sengkang West Blk 303A
+  </div>
+   </p>
+    </div>
+    <p>
+    “The Outstanding Pre-school Mother Tongue Language (OPMTL) Teacher Award is jointly organised by the Committee to Promote Chinese Language Learning (CPCLL), Malay Language Learning and Promotion Committee (MLLPC), and Tamil Language Learning and Promotion Committee (TLLPC), and supported by Early Childhood Development Agency (ECDA) and National Institute of Early Childhood Development (NIEC).
+<br/>
+The award aims to encourage more teachers to inspire the learning and use of Mother Tongue Languages in our young children. It also recognises pre-school teachers for their passion in making the learning of Mother Tongue Languages engaging, and in nurturing a love for languages among pre-school children.
+<br/>
+Results for the OPMTL Teacher Award 2020 will be announced on 29 August 2020.”
+</p>
