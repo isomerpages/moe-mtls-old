@@ -104,14 +104,20 @@ Secara umumnya matlamat <a href="/Gallery/NEL-Big-Book-Malay-Teaching-Steps.pdf"
 <br/><br/>
 Yang berikut merupakan contoh-contoh projek MuM yang terdapat di<a href="https://www.nel.moe.edu.sg/resources/aktiviti-aktiviti-saranan" target="_blank"> Portal NEL.</a><br/>
 <ul>
- <li><a herf="/Gallery/Bunga – Tadika-MOE-Tampines.pdf" target="_blank">Bunga – Tadika MOE Tampines </a></li>
- <li><a herf="/Gallery/Kuih Pisang – Tadika-MOE-Blangah-Rise.pdf" target="_blank">Kuih Pisang – Tadika MOE Blangah Rise </a> </li>
- <li><a herf="/Gallery/Ikan – Tadika-MOE-Punggol-View.pdf" target="_blank">Ikan – Tadika MOE Punggol View </a></li>
+ <li><a herf="/Gallery/Bunga-Tadika-MOE-Tampines.pdf" target="_blank">Bunga – Tadika MOE Tampines </a></li>
+ <li><a herf="/Gallery/Kuih-Pisang–Tadika-MOE-Blangah-Rise.pdf" target="_blank">Kuih Pisang – Tadika MOE Blangah Rise </a> </li>
+ <li><a herf="/Gallery/Ikan-Tadika-MOE-Punggol-View.pdf" target="_blank">Ikan – Tadika MOE Punggol View</a></li>
 </ul>
 <br/>
 Untuk mendapatkan contoh Projek MuM yang lain, sila layari <a href="https://beta.moe.gov.sg/preschool/moe-kindergarten/curriculum/weeks-of-wonder/" target="_blank">  lelaman </a> ini.</p> 
- 
- 
+ <h4 id="C4"><span style="font-size:30px; color:green;">Tips Buat Ibu Bapa 
+</span></h4>
+ <p><span style="font-size:25px; color:green;">Aktiviti Belajar Bahasa Melayu Di Rumah
+</span>
+<br/>
+Ibu bapa/Waris boleh menyokong pembelajaran dan pembangunan bahasa Ibunda anak/waris anda di rumah dengan aktiviti-aktiviti saranan yang berikut. Aktiviti-aktiviti ini dapat melibatkan anak/waris anda melalui bermain dan meneroka. Selain memupuk interaksi yang berkualiti dengan anak/waris anda, aktiviti-aktiviti ini juga dapat membantu ahli keluarga mengeratkan hubungan. <br/>
+ Yang berikut merupakan contoh-contoh Aktiviti Belajar Bahasa Ibunda mengikut 4 tema utama dalam pembelajaran dan pengajaran Bahasa Melayu.
+</p>
  
  
  
