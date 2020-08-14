@@ -14,7 +14,7 @@ max-width:20%;
 </head>
   <body> 
   <a href="/opmtl-award-2020/" style="float:right;">Back</a>
-     <div class="row">
+  <div class="row">
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
     </div>
