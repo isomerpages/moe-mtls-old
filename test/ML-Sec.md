@@ -167,7 +167,7 @@ Dalam mencapai objektif-objektif ini, adalah penting membantu para pelajar mengg
    <label for="tab-3" class="lbML">Majlis Bahasa Melayu Singapura - Bulan Bahasa 
 </label>
      <div class="tab-content"> 
-   <p style="font-size:25px;">Tema 2020, ‘Cita. Citra. Cinta. Bahasa Kita.’ ~ menggambarkan langkah kita mengharungi era baharu
+   <p style="font-size:20px;">Tema 2020, ‘Cita. Citra. Cinta. Bahasa Kita.’ ~ menggambarkan langkah kita mengharungi era baharu
  <a href="#" target="_blank">Majlis Bahasa Melayu Singapura - Bulan Bahasa 
  </a>
 </p>
