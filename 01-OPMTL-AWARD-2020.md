@@ -43,18 +43,18 @@ max-width:50%;
  </p>
     </div>
   <div class="column">
-<a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"> </a><br/>
+<a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"> </a>
  <p>Mdm Iryamaya Binti Amin<br/>
 
   </p>
     </div>
   <div class="column">
-<a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a><br/>
+<a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
  <p>Mdm Saniah Binte Sakian<br/>
   </p>
     </div>
  <div class="column">
-<a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a><br/>
+<a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
  <p>Ms Louis Jeya Rubi Caroline <br/>
   திருமதி லூயிஸ் ஜெய ரூபி கர ோலின
  </p>
@@ -63,19 +63,19 @@ max-width:50%;
   <div class="col3">
   <div class="row">
   <div class="column">
-   <a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a><br/>
+   <a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
  <p> Mdm Zeng Hanyu <br/>
   <span style= "font-family:KaiTi;">曾韩玉女士  </span>
   </p>
     </div>
   <div class="column">
-<a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"> </a><br/>
+<a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"> </a>
  <p>Mdm Zhang JiPeng<br/>
   <span style= "font-family:KaiTi;"> 张纪彭女士 </span>
   </p>
     </div>
   <div class="column">
-<a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a><br/>
+<a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
  <p>Mdm Zhang Xuanhong<br/>
   <span style= "font-family:KaiTi;">张选红女士 </span>
   </p>
