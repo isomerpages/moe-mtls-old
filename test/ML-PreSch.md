@@ -208,8 +208,8 @@ Ibu bapa/Waris boleh menyokong pembelajaran dan pembangunan bahasa Ibunda anak/w
   <p>Untuk mendapatkan contoh Aktiviti Belajar Bahasa Ibunda di Rumah yang lain, sila layari lelaman daripada tadika-tadika ini
 <br/>
 <ul>
- <li><a href="gallery/pameran-bahasa-melayu-malay-language-exhibitions-b/preschool/">Tadika MOE @ Farrer Park </a></li>
- <li><a href="gallery/pameran-bahasa-melayu-malay-language-exhibitions-b/preschool/">Tadika MOE @ Waterway  </a></li>
+ <li><a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-b/preschool/">Tadika MOE @ Farrer Park </a></li>
+ <li><a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-b/preschool/">Tadika MOE @ Waterway  </a></li>
 </ul></p>
  
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
