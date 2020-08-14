@@ -19,7 +19,7 @@ max-width:40%;
     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
     </div>
     <p>  Mdm Zhang Xuanhong<br/>
-  <span style= "font-family:KaiTi;">张选红女士 </span> 
+  <span style= "font-family:KaiTi; font-size:25px;">张选红女士 </span> 
   <br/> St. James' Church Kindergarten (Harding)
   </p>
     </div><br/>
