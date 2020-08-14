@@ -6,6 +6,18 @@ breadcrumb: 'ML PreSch'
 <html>
 <body>
 <style>
+  table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td{
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  width:60%;
+}
   * {
   box-sizing: border-box;
 }
@@ -28,10 +40,7 @@ td, th {
   text-align: center;
   padding: 8px;
 }
-table.center {
-  margin-left:auto; 
-  margin-right:auto;
-}
+
 .atab label {
     position: relative;
     display: block;
