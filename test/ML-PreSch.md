@@ -6,9 +6,66 @@ breadcrumb: 'ML PreSch'
 <html>
 <body>
 <style>
- <html>
-<body>
-<style>
+  * {
+  box-sizing: border-box;
+}
+
+ .tab table {
+   display: none;
+}
+.tab table:target {
+  display: block;
+}
+
+.content table {
+    width: 70%;
+    font-family: arial, sans-serif;
+     border-collapse: collapse;
+}
+
+td, th {
+  border: 1px ;
+  text-align: center;
+  padding: 8px;
+}
+table.center {
+  margin-left:auto; 
+  margin-right:auto;
+}
+.atab label {
+    position: relative;
+    display: block;
+    background: #d14165;
+    color: #fff;
+    font-weight: 700;
+    padding: 10px;
+    cursor: pointer;
+ }
+  .atab label::after {
+  content: "+";
+  font-size: 22px;
+  position: absolute;
+  right: 10px;
+  top: 7px;
+  transition: all 0.4s;
+}
+ .atab input[type=checkbox]:checked + label::after,
+.atab input[type=radio]:checked + label::after {
+    content: 'x';
+    right: 14px;
+    top: 7px;
+  //transform:rotate(-225deg);
+   /* transform: rotate(90deg); */
+}
+.tab-content {
+  overflow: hidden;
+  display: none;
+  width:100%; 
+}
+.atab{
+  margin-bottom: 5px;
+  width:100%;  
+}
  iframe{
 border : 0;
 width:80% ;
