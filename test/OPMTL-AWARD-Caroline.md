@@ -18,9 +18,9 @@ max-width:40%;
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
     </div>
-<p> <center>Ms Louis Jeya Rubi Caroline <br/>
+<p> Ms Louis Jeya Rubi Caroline <br/>
   திருமதி லூயிஸ் ஜெய ரூபி கர ோலின் <br/>
-PCF Sparkletots Preschool @ Punggol East Blk 187B </center>
+PCF Sparkletots Preschool @ Punggol East Blk 187B
  </p>
     </div><br/>
     <h4>Write up</h4><p>
