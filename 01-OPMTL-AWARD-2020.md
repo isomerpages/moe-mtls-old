@@ -37,7 +37,7 @@ max-width:50%;
 <br/>
 <div class="row">
   <div class="column">
-   <a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
+   <a href="/test/OPMTL-AWARD-Almi/"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
  <p> Mdm Almi Roafuziah Binte Mohamed <br/>
 
  </p>
