@@ -26,7 +26,7 @@ collection_name: OPMTL AWARD 2020
 }
   img {
 height:auto;
-max-width:20%;
+max-width:50%;
 }
 </style>
 <div class="row">
