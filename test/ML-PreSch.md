@@ -150,9 +150,7 @@ Secara umumnya matlamat <a href="/Gallery/NEL-Big-Book-Malay-Teaching-Steps.pdf"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZSYplOdbes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/><span style="font-size:20px;" >Pendekatan Membaca Bersama dijalankan di dalam bilik darjah </span>
 </p>
- <br/>
-
- <h4 id="C3"> <span style="font-size:30px; color:green;">PROJEK MuM (Minggu untuk Meneroka)
+<h4 id="C3"> <span style="font-size:30px; color:green;">PROJEK MuM (Minggu untuk Meneroka)
 </span> 
 </h4>
 <p>Setiap tahun, kanak-kanak di Tadika MOE akan menyelesaikan Projek MuM, dua dalam Bahasa Inggeris dan dua dalam Bahasa Ibunda. Pada akhir setiap penggal, kanak-kanak akan mendalami perkara yang dipelajari dengan meneroka topik yang menarik perhatian mereka. Kanak-kanak bekerjasama dengan rakan-rakan dan guru mereka untuk menyelesaikan projek tersebut.  <br/>
@@ -166,8 +164,7 @@ Secara umumnya matlamat <a href="/Gallery/NEL-Big-Book-Malay-Teaching-Steps.pdf"
 </li>
   <li>menggalakkan kemahiran berkomunikasi ketika kanak-kanak menjalankan projek-projek MuM dalam Bahasa Inggeris dan Bahasa Ibunda mereka.
 </li>
-  </ul>
-<br/></p>
+  </ul></p>
 <p>
 Yang berikut merupakan contoh-contoh projek MuM yang terdapat di<a href="https://www.nel.moe.edu.sg/resources/aktiviti-aktiviti-saranan" target="_blank"> Portal NEL.</a><br/>
 <a href="/Gallery/Bunga-Tadika-MOE-Tampines.pdf" target="_blank">Bunga – Tadika MOE Tampines </a><br/>
