@@ -33,24 +33,24 @@ max-width:20%;
   <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%"><br/>
  <p>Mdm Almi Roafuziah Binte Mohamed <br/>
-  Nil
+  <center> Nil  </center>
   </p>
     </div>
   <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%"><br/>
  <p>Mdm Iryamaya Binti Amin<br/>
-  Nil
+<center> Nil  </center>
   </p>
     </div>
   <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%"><br/>
  <p>Mdm Saniah Binte Sakian<br/>
-  Nil
+ <center> Nil  </center>
   </p>
     </div><div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%"><br/>
  <p>Ms Louis Jeya Rubi Caroline <br/>
-  Nil
+ <center> Nil  </center>
   </p>
     </div>
   </div>
