@@ -77,6 +77,7 @@ PCF Sparkletots Preschool @ Punggol East Blk 187B
   </p>
     </div>
     </div>
+   
    <div class="row">
   <div class="column">
 <a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
@@ -86,6 +87,7 @@ PCF Sparkletots Preschool @ Punggol East Blk 187B
   </p>
     </div>
       </div> 
+     
   <h5> <strong> Merit Award </strong></h5>
   <div class="row">
   <div class="column">
@@ -105,15 +107,15 @@ PCF Sparkletots Preschool @ Punggol East Blk 187B
  <p>Mrs Russel Raj Mary Celin Sharmila <br/>
   PCF Sparkletots Preschool @ Bedok Blk 30</p>
     </div>
+   </div>
+   <div class="row">
  <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
  <p>Mrs Shanmugan Shoba <br/>
 PCF Sparkletots Preschool @ Bukit Gombak Blk 535
  </p>
-  </div>
-  </div>
-  <div class="col3">
-  <div class="row">
+ </div>
+  
   <div class="column">
    <img src="images/cropped-person-icon-8-2.png" style="width:100%">
  <p> <center>Ms Su Zhewei<br/>
@@ -128,6 +130,9 @@ PCF Sparkletots Preschool @ Bukit Gombak Blk 535
     <br/> My First Skool At Chong Pang Blk 142</center> 
   </p>
     </div>
+       </div>
+    
+   <div class="row">
   <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
  <p> <center> Mdm Zhang Wei Wei<br/>
@@ -136,6 +141,6 @@ PCF Sparkletots Preschool @ Bukit Gombak Blk 535
   </p>
     </div>
       </div>
-   </div>
+
   
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
