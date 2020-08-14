@@ -19,7 +19,7 @@ max-width:40%;
     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
     </div>
     <p> Mdm Zeng Hanyu <br/>
-  <span style= "font-family:KaiTi;">曾韩玉女士  </span> 
+  <span style= "font-family:KaiTi; font-size:25px;">曾韩玉女士  </span> 
   <br/>Islander Preschool Pte Ltd
   </p>
     </div><br/>
