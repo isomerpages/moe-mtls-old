@@ -1,7 +1,7 @@
 ---
 title: 'OPMTL AWARD'
-permalink: /test/OPMTL-AWARD-Almi/
-breadcrumb: 'OPMTL AWARD Almi'
+permalink: /test/OPMTL-AWARD-Amin/
+breadcrumb: 'OPMTL AWARD Amin'
 ---
 <html>
 <head>
