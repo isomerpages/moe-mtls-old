@@ -28,3 +28,4 @@ The award aims to encourage more teachers to inspire the learning and use of Mot
 <br/>
 Results for the OPMTL Teacher Award 2020 will be announced on 29 August 2020.”
 </p>
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
