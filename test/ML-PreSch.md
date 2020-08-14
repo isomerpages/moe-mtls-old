@@ -144,7 +144,6 @@ Secara umumnya matlamat <a href="/Gallery/NEL-Big-Book-Malay-Teaching-Steps.pdf"
 <li>memberikan pengalaman yang menarik minat kanak-kanak kepada buku; </li>
  <li>menunjukkan contoh membaca buku yang baik; </li>
  <li>menggalakkan kanak-kanak menggunakan bahasa Melayu dalam suasana yang selesa; </li>
- <li>menggalakkan kanak-kanak menggunakan bahasa Melayu dalam suasana yang selesa; </li>
  <li>mengajar dan mengukuhkan kemahiran berbahasa Melayu.</li>
 </ul>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZSYplOdbes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
