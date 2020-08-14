@@ -86,21 +86,21 @@ max-width:50%;
   <h5> <strong> Merit Award </strong></h5>
   <div class="row">
   <div class="column">
-   <a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
+  <img src="images/cropped-person-icon-8-2.png" style="width:100%">
  <p> Ms Maslina Bte Mashudi
 </p>
     </div>
   <div class="column">
-<a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"> </a>
+<img src="images/cropped-person-icon-8-2.png" style="width:100%"> 
  <p>Mdm Siti Zaleha Bte Mohamed Puteh</p>
     </div>
   <div class="column">
-<a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
+<img src="images/cropped-person-icon-8-2.png" style="width:100%">
  <p>Mrs Russel Raj Mary Celin Sharmila <br/>
    திருமதி றசல் ோஜ் ரமரி ஜசலின் ஷர்மிளோ</p>
     </div>
  <div class="column">
-<a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
+<img src="images/cropped-person-icon-8-2.png" style="width:100%">
  <p>Mrs Shanmugan Shoba <br/>
 திருமதி சண்முகம் ரஷோபோ
  </p>
@@ -109,19 +109,19 @@ max-width:50%;
   <div class="col3">
   <div class="row">
   <div class="column">
-   <a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
+   <img src="images/cropped-person-icon-8-2.png" style="width:100%">
  <p> <center>Ms Su Zhewei<br/>
   <span style= "font-family:KaiTi;">苏哲纬女士 </span> </center>
   </p>
     </div>
   <div class="column">
-<a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"> </a>
+<img src="images/cropped-person-icon-8-2.png" style="width:100%"> 
  <p> <center>Mdm Yang Hong<br/>
   <span style= "font-family:KaiTi;">杨红女士</span> </center> 
   </p>
     </div>
   <div class="column">
-<a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
+<img src="images/cropped-person-icon-8-2.png" style="width:100%">
  <p> <center> Mdm Zhang Wei Wei<br/>
   <span style= "font-family:KaiTi;">张伟玮女士 </span> </center> 
   </p>
