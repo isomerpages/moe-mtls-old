@@ -19,7 +19,6 @@ td{
   width:60%;
 }
 .btab{
-
   width:0%;
 }
   .tab img{
@@ -190,7 +189,7 @@ width:100%;
 </span></p>
  <img src="/images/TL-PreU-Strategies.jpg">
  
- <h4 id="C4"><span style="font-size:25px;">இணையவழிக் கற்றல் </span> <br/>
+ <h4 id="C4"><span style="font-size:25px;">இணையவழிக் கற்றல் </span> </h4>
 <img src="/images/TL-Sec_onlineLearning.jpg">
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
