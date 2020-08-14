@@ -16,7 +16,7 @@ td{
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
-  width:0%;
+  width:60%;
 }
   .tab img{
    width: 80%;
@@ -81,6 +81,9 @@ width:100%;
 .atab{
   margin-bottom: 5px;
   width:100%;  
+}
+.btab{
+  width:0%;
 }
  
 </style>
@@ -184,14 +187,14 @@ width:100%;
    </p>
 <table style="width:100%">
   <tr>
-    <td><img src="/images/TL-PreU-rigth7.png"></td>
-    <td><img src="/images/TL-PreU-right8.png"></td>
+    <td class="btab" ><img src="/images/TL-PreU-rigth7.png"></td>
+    <td class="btab"><img src="/images/TL-PreU-right8.png"></td>
  </tr>
 </table>
  <table style="width:100%">
   <tr>
-    <td>  <img src="/images/TL-PreU-right9.png"></td>
-    <td><img src="/images/TL-PreU-right8.png"></td>
+    <td class="btab"> <img src="/images/TL-PreU-right9.png"></td>
+    <td class="btab"><img src="/images/TL-PreU-right8.png"></td>
  </tr>
 </table>   
 <br/>
