@@ -28,3 +28,4 @@ width:80% ;
  Kementerian Pendidikan Singapura mengambil langkah memulakan Tadika MOE bagi menyediakan Pendidikan Prasekolah (Tadika 1 dan Tadika 2) berkualiti yang berpatutan untuk rakyat serta penduduk tetap Singapura. 
 Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-kanak. Untuk mencapai visi ini, Tadika MOE berpegang pada prinsip bahawa kanak-kanak merupakan pelajar yang mempunyai sifat ingin tahu, aktif dan cekap.
  </p>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
