@@ -4,8 +4,6 @@ permalink: /OPMTL-AWARD-2020/
 breadcrumb: 'OPMTL AWARD 2020'
 collection_name: OPMTL AWARD 2020
 ---
-### OPMTL AWARD 2020
-#### Outstanding Awards
 <html>
 <head>
 <style>
@@ -33,6 +31,10 @@ height:auto;
 max-width:50%;
 }
 </style>
+<div>
+<h4>OPMTL AWARD 2020</h4>
+ <h5>Outstanding Awards</h5>
+</div>
 <div class="row">
   <div class="column">
    <a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a><br/>
