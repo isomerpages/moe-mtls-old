@@ -30,7 +30,7 @@ td{
 }
 
 .content table {
-    width: 70%;
+    width: 100%;
     font-family: arial, sans-serif;
      border-collapse: collapse;
 }
