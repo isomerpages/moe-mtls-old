@@ -17,7 +17,7 @@ collection_name: OPMTL AWARD 2020
 }
 .col3 img {
 height:auto;
-max-width:50%;
+max-width:40%;
 }
 
 /* Clearfix (clear floats) */
