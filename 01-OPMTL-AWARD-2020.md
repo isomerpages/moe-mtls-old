@@ -38,8 +38,8 @@ max-width:50%;
 <div class="row">
   <div class="column">
    <a href="/test/OPMTL-AWARD-Almi/"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
- <p> Mdm Almi Roafuziah Binte Mohamed <br/>
-PCF Sparkletots Preschool @ Sengkang West Blk 303A
+ <p> <center> Mdm Almi Roafuziah Binte Mohamed <br/>
+PCF Sparkletots Preschool @ Sengkang West Blk 303A </center>
  </p>
     </div>
   <div class="column">
@@ -50,16 +50,17 @@ PCF Sparkletots Preschool @ Sengkang West Blk 303A
     </div>
  <div class="column">
 <a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
- <p>Mdm Saniah Binte Sakian<br/>
-  My First Skool at Chin Swee
+ <p> <center>Mdm Saniah Binte Sakian<br/>
+  My First Skool at Chin Swee </center>
   </p>
     </div>
  </div>
  <div class="row">
  <div class="column">
 <a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
- <p>Ms Louis Jeya Rubi Caroline <br/>
-PCF Sparkletots Preschool @ Punggol East Blk 187B
+ <p> <center>Ms Louis Jeya Rubi Caroline <br/>
+  திருமதி லூயிஸ் ஜெய ரூபி கர ோலின் <br/>
+PCF Sparkletots Preschool @ Punggol East Blk 187B </center>
  </p>
   </div>
   <div class="column">
@@ -92,27 +93,29 @@ PCF Sparkletots Preschool @ Punggol East Blk 187B
   <div class="row">
   <div class="column">
   <img src="images/cropped-person-icon-8-2.png" style="width:100%">
- <p> Ms Maslina Bte Mashudi
-  <br/>PCF Sparkletots Preschool @ Bukit Batok Blk 206
+ <p> <center> Ms Maslina Bte Mashudi
+  <br/>PCF Sparkletots Preschool @ Bukit Batok Blk 206 </center>
 </p>
     </div>
   <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%"> 
- <p>Mdm Siti Zaleha Bte Mohamed Puteh  <br/>
-  PCF Sparkletots Preschool @ Sembawang Blk 789
+ <p> <center> Mdm Siti Zaleha Bte Mohamed Puteh  <br/>
+  PCF Sparkletots Preschool @ Sembawang Blk 789 </center>
    </p>
     </div>
   <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
- <p>Mrs Russel Raj Mary Celin Sharmila <br/>
-  PCF Sparkletots Preschool @ Bedok Blk 30</p>
+ <p> <center> Mrs Russel Raj Mary Celin Sharmila <br/>
+  திருமதி றசல் ோஜ் ரமரி ஜசலின் ஷர்மிளோ <br/>
+  PCF Sparkletots Preschool @ Bedok Blk 30 </center></p>
     </div>
    </div>
    <div class="row">
  <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
- <p>Mrs Shanmugan Shoba <br/>
-PCF Sparkletots Preschool @ Bukit Gombak Blk 535
+ <p> <center>Mrs Shanmugan Shoba <br/>
+  திருமதி சண்முகம் ரஷோபோ <br/>
+PCF Sparkletots Preschool @ Bukit Gombak Blk 535 </center>
  </p>
  </div>
   
