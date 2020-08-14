@@ -118,11 +118,47 @@ Untuk mendapatkan contoh Projek MuM yang lain, sila layari <a href="https://beta
 Ibu bapa/Waris boleh menyokong pembelajaran dan pembangunan bahasa Ibunda anak/waris anda di rumah dengan aktiviti-aktiviti saranan yang berikut. Aktiviti-aktiviti ini dapat melibatkan anak/waris anda melalui bermain dan meneroka. Selain memupuk interaksi yang berkualiti dengan anak/waris anda, aktiviti-aktiviti ini juga dapat membantu ahli keluarga mengeratkan hubungan. <br/>
  Yang berikut merupakan contoh-contoh Aktiviti Belajar Bahasa Ibunda mengikut 4 tema utama dalam pembelajaran dan pengajaran Bahasa Melayu.
 </p>
+<div class="atab">
+      <input id="tab-3" type="checkbox" name="tab">
+   <label for="tab-3" class="lbML">Siapakah Saya?
+</label>
+     <div class="tab-content"> 
+ <img src="/images/ML-PreSch-saya.jpg"> 
+      </div></div>
+      
+ <div class="atab">
+      <input id="tab-4" type="checkbox" name="tab">
+   <label for="tab-4" class="lbML">Siapakah Orang-orang dan Apakah Tempat-tempat di Sekeliling Saya?
+</label>
+     <div class="tab-content"> 
+ <img src="/images/ML-PreSch-orang.jpg"> 
+      </div></div>
  
+ <div class="atab">
+      <input id="tab-5" type="checkbox" name="tab">
+   <label for="tab-5" class="lbML">Dengan Siapakah Saya Berkongsi Dunia ini?
+</label>
+     <div class="tab-content"> 
+ <img src="/images/ML-PreSch-Berkongs.jpg"> 
+      </div></div>
+      
+ <div class="atab">
+      <input id="tab-6" type="checkbox" name="tab">
+   <label for="tab-6" class="lbML">Bagaimanakah Sesuatu Benda atau Perkara Berfungsi?
+</label>
+     <div class="tab-content"> 
+ <img src="/images/ML-PreSch-Sesuatu.jpg"> 
+      </div></div>
+      
+  <p>Untuk mendapatkan contoh Aktiviti Belajar Bahasa Ibunda di Rumah yang lain, sila layari lelaman daripada tadika-tadika ini
+<br/>
+<ul>
+ <li><a href="gallery/pameran-bahasa-melayu-malay-language-exhibitions-b/preschool/">Tadika MOE @ Farrer Park </a></li>
+ <li><a href="gallery/pameran-bahasa-melayu-malay-language-exhibitions-b/preschool/">Tadika MOE @ Waterway  </a></li>
+</ul></p>
  
- 
- 
- 
+ <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
+
  
  
  
