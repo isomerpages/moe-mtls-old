@@ -66,14 +66,14 @@ PCF Sparkletots Preschool @ Punggol East Blk 187B </center>
   <div class="column">
    <a href="/test/OPMTL-AWARD-Hanyu/"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
  <p> <center> Mdm Zeng Hanyu <br/>
-  <span style= "font-family:KaiTi;">曾韩玉女士  </span> 
+  <span style= "font-family:KaiTi; font-size:18px;">曾韩玉女士  </span> 
   <br/>Islander Preschool Pte Ltd</center>
   </p>
     </div>
   <div class="column">
 <a href="/test/OPMTL-AWARD-JiPeng/"><img src="images/cropped-person-icon-8-2.png" style="width:100%"> </a>
  <p> <center> Mdm Zhang JiPeng<br/>
-  <span style= "font-family:KaiTi;"> 张纪彭女士 </span> 
+  <span style= "font-family:KaiTi; font-size:18px;"> 张纪彭女士 </span> 
   <br/>PCF Sparkletots Preschool @ Woodlands Blk 801</center> 
   </p>
     </div>
@@ -83,7 +83,7 @@ PCF Sparkletots Preschool @ Punggol East Blk 187B </center>
   <div class="column">
 <a href="/test/OPMTL-AWARD-Xuanhong/"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
  <p> <center> Mdm Zhang Xuanhong<br/>
-  <span style= "font-family:KaiTi;">张选红女士 </span> 
+  <span style= "font-family:KaiTi; font-size:18px;">张选红女士 </span> 
   <br/> St. James' Church Kindergarten (Harding)</center> 
   </p>
     </div>
@@ -122,14 +122,14 @@ PCF Sparkletots Preschool @ Bukit Gombak Blk 535 </center>
   <div class="column">
    <img src="images/cropped-person-icon-8-2.png" style="width:100%">
  <p> <center>Ms Su Zhewei<br/>
-  <span style= "font-family:KaiTi;">苏哲纬女士 </span>
+  <span style= "font-family:KaiTi; font-size:18px;">苏哲纬女士 </span>
     <br/>My First Skool At Blk 269 Compassvale Link</center>
   </p>
     </div>
   <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%"> 
  <p> <center>Mdm Yang Hong<br/>
-  <span style= "font-family:KaiTi;">杨红女士</span> 
+  <span style= "font-family:KaiTi; font-size:18px;">杨红女士</span> 
     <br/> My First Skool At Chong Pang Blk 142</center> 
   </p>
     </div>
@@ -139,7 +139,7 @@ PCF Sparkletots Preschool @ Bukit Gombak Blk 535 </center>
   <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
  <p> <center> Mdm Zhang Wei Wei<br/>
-  <span style= "font-family:KaiTi;">张伟玮女士 </span> 
+  <span style= "font-family:KaiTi; font-size:18px;">张伟玮女士 </span> 
     <br/> MY World Preschool Ltd</center> 
   </p>
     </div>
