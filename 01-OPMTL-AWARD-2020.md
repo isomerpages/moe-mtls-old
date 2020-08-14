@@ -48,21 +48,20 @@ PCF Sparkletots Preschool @ Sengkang West Blk 303A
   PCF Sparkletots Preschool @ Sembawang Blk 755 </center>
   </p>
     </div>
-  <div class="column">
+ <div class="column">
 <a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
  <p>Mdm Saniah Binte Sakian<br/>
   My First Skool at Chin Swee
   </p>
     </div>
+ </div>
+ <div class="row">
  <div class="column">
 <a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
  <p>Ms Louis Jeya Rubi Caroline <br/>
 PCF Sparkletots Preschool @ Punggol East Blk 187B
  </p>
   </div>
-  </div>
-  <div class="col3">
-  <div class="row">
   <div class="column">
    <a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
  <p> <center> Mdm Zeng Hanyu <br/>
@@ -77,6 +76,8 @@ PCF Sparkletots Preschool @ Punggol East Blk 187B
   <br/>PCF Sparkletots Preschool @ Woodlands Blk 801</center> 
   </p>
     </div>
+    </div>
+   <div class="row">
   <div class="column">
 <a href="#"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
  <p> <center> Mdm Zhang Xuanhong<br/>
@@ -84,9 +85,7 @@ PCF Sparkletots Preschool @ Punggol East Blk 187B
   <br/> St. James' Church Kindergarten (Harding)</center> 
   </p>
     </div>
-      </div>
-  </div>
-  
+      </div> 
   <h5> <strong> Merit Award </strong></h5>
   <div class="row">
   <div class="column">
