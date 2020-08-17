@@ -2,7 +2,6 @@
 title: Programme
 permalink: /Programme/
 breadcrumb: Programme
-published: false
 
 ---
 <div>
