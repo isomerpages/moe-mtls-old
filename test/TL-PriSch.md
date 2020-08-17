@@ -60,7 +60,7 @@ td{
 <p style="font-size:25px; color:purple;" >படித்தல் - கருத்துணர்தல் திறனை வளர்க்க உதவும் உத்திமுறைகள் 
 </p>
 <img src="/images/MOE-Curriculum-TL-Primary-Image-5.jpg"><br/>
-<img src="/MOE-Curriculum-TL-Primary-Image-6.jpg"><br/>
+<img src="/images/MOE-Curriculum-TL-Primary-Image-6.jpg"><br/>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7bDcJCHpYHM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
