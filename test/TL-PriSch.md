@@ -79,7 +79,7 @@ td{
      <a href="https://online.anyflip.com/cqrzz/lsou/index.html" target="_blank">Flip Book
 </a>
 </p></td>
-  <td><img src="/images/TL-Pri_Update1.emf"><br/>
+  <td><img src="/images/TL-Pri_Right-Update1.png"><br/>
    <img src="/images/TL-Pri-Update2.emf"><br/>
    <img src="/images/TL-Pri-Update3.emf">
    </td>
