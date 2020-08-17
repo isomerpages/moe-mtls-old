@@ -2,10 +2,9 @@
 title: 'OPMTL AWARD 2020'
 permalink: /OPMTL-AWARD-2020/
 breadcrumb: 'OPMTL AWARD 2020'
-published: false
 collection_name: OPMTL AWARD 2020
 ---
-### OPMTL AWARD 2020
+### OPMTL TEACHER AWARD 2020
 <html>
 <head>
 <style>
