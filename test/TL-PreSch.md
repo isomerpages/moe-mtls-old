@@ -222,7 +222,7 @@ margin-bottom:10px;
 
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-   <label for="tab-4" style="font-size:22px" class="lbTM">‘என் அருமை குடும்பத்தார்’ நடவடிக்கை
+   <label for="tab-4" style="font-size:22px" class="lbTM">‘எனது வண்ண வண்ண உடைகள்!’ நடவடிக்கை
 </label>
      <div class="tab-content">
       <ul>
