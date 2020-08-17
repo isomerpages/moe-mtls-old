@@ -125,7 +125,7 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
  <br/>
  <table>
   <tr>
-    <td><p>Yang berikut merupakan gambaran keseluruhan bagi <a href="/Gallery/MTLS-ML-NEL-Framework.pdf" target="_blank"> Rangka Kerja NEL untuk  Bahasa Ibunda.</a>Rangka Kerja ini dibina dengan keyakinan bahawa kanak-kanak mempunyai sifat ingin tahu, aktif dan cekap. 
+    <td><p>Yang berikut merupakan gambaran keseluruhan bagi <a href="/Gallery/MTLS-ML-NEL-Framework.pdf" target="_blank"> Rangka Kerja NEL untuk  Bahasa Ibunda.</a> Rangka Kerja ini dibina dengan keyakinan bahawa kanak-kanak mempunyai sifat ingin tahu, aktif dan cekap. 
 </p></td>
     <td><img src="/images/ML-PreSch-C1.png">  </td>
     </tr>
