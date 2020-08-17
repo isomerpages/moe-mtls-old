@@ -80,8 +80,8 @@ td{
 </a>
 </p></td>
   <td><img src="/images/TL-Pri_Right-Update1.png"><br/>
-   <img src="/images/TL-Pri-Update2.emf"><br/>
-   <img src="/images/TL-Pri-Update3.emf">
+   <img src="/images/TL-Pri-Right-Update2.png"><br/>
+   <img src="/images/TL-Pri-Right-Update3.png">
    </td>
  </tr>
  </table>
