@@ -89,7 +89,7 @@ Dalam mencapai objektif-objektif ini, adalah penting membantu para pelajar mengg
 <h4 id="C1"><span style="font-size:25px;color:green;" >Gambaran Menyeluruh Kurikulum Bahasa Ibunda </span>
 </h4>
 <img src="/images/ML-Sec-Gambaran.jpg"><br/>
-<h4  style="font-size:30px;color:green;" >Gambaran Menyeluruh Kurikulum Bahasa Ibunda
+<h4  style="font-size:30px;color:green;" >Program Elektif Bahasa Melayu Sekolah Menengah
 </h4>
 <p>Jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS.
 </p>
