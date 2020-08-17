@@ -75,7 +75,7 @@ table.center {
  <a href="#C3" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Bahan-bahan Menyokong Pembelajaran</span></a>
 <p>Kurikulum Bahasa Melayu Peringkat Sekolah Menengah bertujuan melengkapkan pelajar dengan kecekapan berkomunikasi dan menjalin hubungan dengan pihak lain dalam konteks kehidupan di Singapura, rantau dan dunia.
 <br/>
-Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengguna bahasa yang cekap: 
+Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengguna bahasa yang cekap ialah: 
 <img src="/images/ML-Sec-Funlearning.jpg"><br/>
 Dalam mencapai objektif-objektif ini, adalah penting membantu para pelajar menggemari, mempelajari dan menggunakan Bahasa Ibunda mereka sebagai bahasa yang hidup dan menghasilkan pengguna yang cekap yang boleh berkomunikasi secara efektif dalam pelbagai latar kehidupan sebenar.
 <br/>
@@ -91,14 +91,14 @@ Dalam mencapai objektif-objektif ini, adalah penting membantu para pelajar mengg
 <img src="/images/ML-Sec-Gambaran.jpg"><br/>
 <h4  style="font-size:30px;color:green;" >Gambaran Menyeluruh Kurikulum Bahasa Ibunda
 </h4>
-<p>Jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon untuk ke sekolah-sekolah EMAS.
+<p>Jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS.
 </p>
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
    <label for="tab-1" class="lbML">Program EMAS
 </label>
      <div class="tab-content">
-     <p>Pilih sekolah menengah EMAS & MLEP<br/>
+       <p>Pilih sekolah menengah <strong>EMAS </strong> & <strong> MLEP</strong><br/>
      <ul><li>Sekolah Menengah Anderson
 </li>
      <li>Sekolah Tinggi Pemerintah Bukit Panjang
@@ -107,7 +107,7 @@ Dalam mencapai objektif-objektif ini, adalah penting membantu para pelajar mengg
 </li>
     </ul>
      </p>
-     <p><u>Program Pengayaan </u><br/>
+  <p><u><strong>Program Pengayaan </strong></u><br/>
      <ul>
      <li>Perkhemahan Bahasa & Budaya
 </li>
@@ -128,7 +128,7 @@ Dalam mencapai objektif-objektif ini, adalah penting membantu para pelajar mengg
    <label for="tab-2" class="lbML">Program MLEP-Sec
 </label>
      <div class="tab-content">
-     <p>Pilih untuk meneruskan program EMAS atau tukar kepada program MLEP
+       <p>Pilih untuk meneruskan program <strong>EMAS</strong> atau tukar kepada program <strong>MLEP</strong>
 <br/>
      <ul><li>Minat dalam sastera Melayu (seperti membaca novel, cerpen dan sajak), 
 </li>
@@ -136,7 +136,7 @@ Dalam mencapai objektif-objektif ini, adalah penting membantu para pelajar mengg
 </li>
     </ul>
      </p>
-     <p><u>Biasiswa MLEP-Sec
+  <p><u><strong>Biasiswa MLEP-Sec</strong>
  </u><br/>
        Pelajar MLEP-Sec warganegara Singapura yang cemerlang akan ditawarkan biasiswa oleh Kementerian Pendidikan:
        <br/>
@@ -158,9 +158,10 @@ Dalam mencapai objektif-objektif ini, adalah penting membantu para pelajar mengg
    </p>  </div></div>
    <h4 id="C2"><span style="font-size:30px;color:green;">Sokongan Ibu Bapa</span>
 </h4>
+Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, persekitaran dan sokongan yang berterusan. Pembelajaran bahasa Melayu akan menjadi lebih menyeronokkan dan bermakna. Berikut ialah beberapa peranan yang boleh anda amalkan dalam usaha ini. <br/>
 <img src="/images/ML-Sec-Parents.jpg">
-<h4  style="font-size:30px;color:green;" >Program-program Bahasa Melayu</h4> 
-<p style="font-size:25px;">Sertailah program-program yang menggalakkan penggunaan Bahasa Melayu. 
+<h4  style="font-size:30px;color:green;" >Program-program Bahasa & Budaya Melayu</h4> 
+<p style="font-size:25px;">Bagi menggalakkan penggunaan dan pendedahan pada bahasa Melayu, sertailah program-program bahasa dan budaya yang telah dianjurkan. Bawa bersama keluarga anda menghadiri aktiviti-aktiviti ini. Anda juga boleh melawat tempat-tempat yang disarankan.
 </p>
    <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
