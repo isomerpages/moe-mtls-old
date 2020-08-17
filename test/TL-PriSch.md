@@ -60,8 +60,6 @@ td{
 
 <p style="font-size:25px; color:purple;" >ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் </p> <br/>
 
-<p style="font-size:25px; color:purple;" >படித்தல் - கருத்துணர்தல் திறனை வளர்க்க உதவும் உத்திமுறைகள் 
-</p>
 <img src="/images/MOE-Curriculum-TL-Primary-Image-5.jpg"><br/>
 <img src="/images/MOE-Curriculum-TL-Primary-Image-6.jpg"><br/>
 
