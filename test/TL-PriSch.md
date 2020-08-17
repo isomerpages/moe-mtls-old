@@ -31,6 +31,7 @@ td{
 <h4 id="C1"><span style="font-size:30px;color:purple;">கல்வி அமைச்சின் தொடக்கப்பள்ளிப் பாடக்கலைத்திட்டம் 
 </span></h4>
  <img src="/images/MOE-Curriculum-TL-Primary-Image-1.jpg">
+ <br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7o1l0CkF_oo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
 <p style="font-size:25px;color:purple">தமிழ்மொழிக் கல்வியில் மகிழ்வூட்டும் கற்றல் <br/>
