@@ -48,10 +48,12 @@ td{
 </li>
 </p>
 <img src="/images/MOE-Curriculum-TL-Primary-Image-3.jpg">
+<br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JrvKTB1Oxj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p style="font-size:25px; color:purple;">மாணவர்களை மையப்படுத்திய கற்றல் வளங்களும் நடவடிக்கைகளும் <br/>
 <img src="/images/MOE-Curriculum-TL-Primary-Image-4.jpg">
+ <br/>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/vF-qlj-s0QM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
