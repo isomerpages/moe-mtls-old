@@ -195,8 +195,8 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
 </p>
 <p style="font-size:25px; color:green">Bahan sokongan dalam talian:
 <br/>
-<img src="/images/ML-Sec-Gambaran.jpg"><br/>
-  <img src="/images/ML-Sec-Gambaran.jpg"><br/>
+<img src="/images/iMTL-Sec-image"><br/>
+  <img src="/images/SLS-image"><br/>
 </p>
    <h4 id="C2"><span style="font-size:30px;color:green;">Sokongan Ibu Bapa</span>
 </h4>
