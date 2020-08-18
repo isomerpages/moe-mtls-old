@@ -68,7 +68,7 @@ table.center {
 }
 </style>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
-<img src="/images/ML-Sec-Header2.jpg">
+<img src="/images/ML-Sec-Header.jpg">
 <h4  style="font-size:30px;color:green;" >Matlamat Kurikulum Bahasa Melayu</h4>
 <h5  style="font-size:25px;color:green;" >Memupuk Pelajar Aktif Dan Pengguna Cekap (Pembelajaran Yang Menyeronokkan)</h5>
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Bahan Pengajaran Dan Pembelajaran
@@ -186,10 +186,24 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
   <br/>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZANW_F4at9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+<p style="font-size:25px; color:green">Bahan sokongan dalam talian:
+<br/>
+<img src="/images/ML-Sec-Gambaran.jpg"><br/>
+  <img src="/images/ML-Sec-Gambaran.jpg"><br/>
+</p>
    <h4 id="C2"><span style="font-size:30px;color:green;">Sokongan Ibu Bapa</span>
 </h4>
 Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, persekitaran dan sokongan yang berterusan. Pembelajaran bahasa Melayu akan menjadi lebih menyeronokkan dan bermakna. Berikut ialah beberapa peranan yang boleh anda amalkan dalam usaha ini. <br/>
-<img src="/images/ML-Sec-Parents.jpg">
+<img src="/images/Motivator.png"><br/>
+<img src="/images/Role-Model.png"><br/>
+<img src="/images/Facilitator.png"><br/>
+<p>Sila rujuk lampiran-lampiran ini sekiranya ingin tahu lebih lanjut,
+<br/>
+  <a href="https://beta.moe.gov.sg/uploads/secondary-school-education-booklet-malay.pdf" target="_blank">https://beta.moe.gov.sg/uploads/secondary-school-education-booklet-malay.pdf</a><br/>
+   <a href="https://www.schoolbag.sg/docs/default-source/default-document-library/(ml)mlpg2016.pdf " target="_blank">https://www.schoolbag.sg/docs/default-source/default-document-library/(ml)mlpg2016.pdf 
+</a><br/>
+   
+</p>
 <h4  style="font-size:30px;color:green;" >Program-program Bahasa & Budaya Melayu</h4> 
 <p style="font-size:25px;">Bagi menggalakkan penggunaan dan pendedahan pada bahasa Melayu, sertailah program-program bahasa dan budaya yang telah dianjurkan. Bawa bersama keluarga anda menghadiri aktiviti-aktiviti ini. Anda juga boleh melawat tempat-tempat yang disarankan.
 </p>
