@@ -202,7 +202,7 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
 </h4>
 <p style="font-size:22px;">
 Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, persekitaran dan sokongan yang berterusan. Pembelajaran bahasa Melayu akan menjadi lebih menyeronokkan dan bermakna. Berikut ialah beberapa peranan yang boleh anda amalkan dalam usaha ini.</p> <br/>
-<br/>
+
 <img src="/images/Motivator.png"><br/>
 <img src="/images/Role-Model.png"><br/>
 <img src="/images/Facilitator.png"><br/>
