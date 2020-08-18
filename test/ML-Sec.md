@@ -111,7 +111,7 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
   </tr>
   </table>
 </p>
-<h4 id="C1"><span style="font-size:25px;color:green;" >Gambaran Menyeluruh Kurikulum Bahasa Ibunda </span>
+<h4><span style="font-size:25px;color:green;" >Gambaran Menyeluruh Kurikulum Bahasa Ibunda </span>
 </h4>
 <img src="/images/ML-Sec-Gambaran.jpg"><br/>
 <p style="font-size:25px; color: green">Tonton video di bawah ini bagi informasi selanjutnya. <br/><br/>
@@ -325,7 +325,7 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
  </a>
 </p>
 
- <h4 id="C3"><span style="font-size:30px;color:green;" >Bahan-bahan Menyokong Pembelajaran</span>
+ <h4 id="C1"><span style="font-size:30px;color:green;" >Bahan-bahan Menyokong Pembelajaran</span>
 </h4> 
 <img src="/images/ML-Sec_OnlineLearning.png">  
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
