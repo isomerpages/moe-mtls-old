@@ -16,7 +16,7 @@ width:80% ;
 
 </style>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
-<img src="/images/ML-PreU-Header.jpg">
+<img src="/images/ML-PreU-Header2.jpg">
 
 <h4 style="color:green;font-size:30px;">Matlamat Pendidikan Prauniversiti  &nbsp;  &nbsp; 
 <a href="#C1" style="font-size:20px"><span style="color:blue;">Sokongan Video</span></a>&nbsp;&nbsp;
