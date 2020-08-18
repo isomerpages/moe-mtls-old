@@ -264,7 +264,6 @@ table.center {
  </tr>
   <tr>
     <td>Anak  </td>
-    <td>:</td>
   <td><span style="color:red">Pada hari Ahad </span>, Ayah pergi ke kedai.</td>
 </tr>
   <tr>
