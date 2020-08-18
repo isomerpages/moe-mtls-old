@@ -304,31 +304,27 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
 </p>
  </div></div> 
 
-   <div class="atab">
-      <input id="tab-7" type="checkbox" name="tab">
-   <label for="tab-7" class="lbML">Majlis Bahasa Melayu Singapura - Bulan Bahasa 
-</label>
-     <div class="tab-content"> 
-   <p style="font-size:20px;">Tema 2020, ‘Cita. Citra. Cinta. Bahasa Kita.’ ~ menggambarkan langkah kita mengharungi era baharu
- <a href="#" target="_blank">Majlis Bahasa Melayu Singapura - Bulan Bahasa 
+<p style="font-size:20px;"> <strong>Majlis Bahasa Melayu Singapura </strong> - Bulan Bahasa 2020 
+  <br/>
+  <ul>
+<li>Ikutilah majlis pelancaran Bulan Bahasa yang akan disiarkan menerusi saluran televisyen Suria, pada Sabtu (5 Sep 2020) pada jam 8.30 malam. 
+</li>
+</ul>
+ <a href="https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa" target="_blank">Majlis Bahasa Melayu Singapura - Bulan Bahasa 
  </a>
 </p>
- </div></div> 
-   <div class="atab">
-      <input id="tab-8" type="checkbox" name="tab">
-   <label for="tab-8" class="lbML">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
-</label>
-     <div class="tab-content"> 
-   <p style="font-size:25px;">
-       <ul><li>Fiesta Bahasa
+
+  <p style="font-size:25px;"> <strong> Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu </strong>(MLLPC) 
+  <ul><li>Fiesta Bahasa
 </li>
          <li>Kesantunan Bahasa
 </li>
          </ul>
- <a href="#" target="_blank">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
+ <a href="https://www.mllpc.sg/signature-or-flagship-programme-fund 
+" target="_blank">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
  </a>
 </p>
- </div></div> 
+
  <h4 id="C3"><span style="font-size:30px;color:green;" >Bahan-bahan Menyokong Pembelajaran</span>
 </h4> 
 <img src="/images/ML-Sec_OnlineLearning.png">  
