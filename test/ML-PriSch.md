@@ -78,7 +78,7 @@ table.center {
 <br/>
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-   <label for="tab-1" style="font-size:25px;color:#53d91e">Objektif Kurikulum Bahasa Melayu
+   <label for="tab-1" style="font-size:25px;color:#53d91e;">Objektif Kurikulum Bahasa Melayu
 </label>
      <div class="tab-content">
        <p style="text-align:justify;">Pada akhir perngajaran dan pembelajaran Bahasa Melayu di sekolah rendah, murid depat:
