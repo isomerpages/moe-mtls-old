@@ -81,7 +81,7 @@ table.center {
    <label for="tab-1" class="lbML">Objektif Kurikulum Bahasa Melayu
 </label>
      <div class="tab-content">
-       <p>Pada akhir perngajaran dan pembelajaran Bahasa Melayu di sekolah rendah, murid depat:
+       <p style="text-align:justify;">Pada akhir perngajaran dan pembelajaran Bahasa Melayu di sekolah rendah, murid depat:
          <ul>
 
   <li>mendengar dan memahami pengucapan dengan teliti;
@@ -105,7 +105,7 @@ table.center {
        </p>
        </div></div>
        <p>
-  <li>Bahasa Melayu merupakan salah satu Bahasa Ibunda yang ditawarkan di sekolah rendah.  Murid-murid diberikan peluang untuk mempelajari Bahasa Melayu setinggi mana yang terdaya dan sejauh mana yang termampu. 
+  <li>Bahasa Melayu merupakan salah satu Bahasa Ibunda yang ditawarkan di sekolah rendah.  Murid-murid diberikan peluang untuk mempelajari Bahasa Melayu setinggi mana yang terdaya dan sejauh mana yang termampu.
 </li>
   <li>Di sekolah, Kurikulum Bahasa Melayu Sekolah Rendah dijalankan dengan menggunakan pendekatan yang berpusatkan murid.  Pengajaran yang dijalankan bersifat interaktif agar murid-murid mudah mempelajari dan memahami pelajaran yang diikuti. Memandangkan murid yang memasuki sekolah rendah mempunyai latar belakang bahasa yang pelbagai, keperluan pembelajaran mereka juga seharusnya berbeza-beza. Oleh itu, pembelajaran pembezaan harus ditekankan untuk memenuhi keupayaan yang pelbagai ini. 
 </li>
@@ -139,12 +139,12 @@ table.center {
       <p id="C2" style="font-size:30px;color:green;">Sokongan Ibu Bapa <br/>
 <img src="/images/ML-Role.jpg"> 
 </p>
-<p style="font-size:25px;">Ibu bapa boleh bermain beberapa permainan dengan anak anda agar dapat meningkatkan dan meluaskan kosa kata anak</p>
+<p style="font-size:25px;text-align:justify;">Ibu bapa boleh bermain beberapa permainan dengan anak anda agar dapat meningkatkan dan meluaskan kosa kata anak</p>
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
    <label for="tab-5" class="lbML">Permainan Huruf/Abjad </label>
      <div class="tab-content">
-       <p>Ibu bapa meminta anak memberikan perkataan lain yang bermula dengan huruf terakhir perkataan yang telah disebut.<br/>
+       <p style="text-align:justify;">Ibu bapa meminta anak memberikan perkataan lain yang bermula dengan huruf terakhir perkataan yang telah disebut.<br/>
          Contoh : 
          <table class="center">
   
@@ -180,7 +180,7 @@ table.center {
       <input id="tab-6" type="checkbox" name="tab">
    <label for="tab-6" class="lbML">Permainan Kategori </label>
      <div class="tab-content">
-       <p>Ibu bapa memberikan satu kategori.   Anak harus memberikan perkataan yang terdapat dalam kategori ini.
+       <p style="text-align:justify;">Ibu bapa memberikan satu kategori.   Anak harus memberikan perkataan yang terdapat dalam kategori ini.
          <br/>Contoh : 
          <br/>
          Kategori – perabot
@@ -212,7 +212,7 @@ table.center {
       <input id="tab-7" type="checkbox" name="tab">
    <label for="tab-7" class="lbML">Permainan Suku Kata </label>
      <div class="tab-content">
-       <p>Ibu bapa boleh memulakan permainan dengan memberikan satu perkataan. Contohnya, roti.  Kemudian anak harus membina perkataan lain yang bermula dengan suka kata akhir perkataan tadi. 
+       <p style="text-align:justify;">Ibu bapa boleh memulakan permainan dengan memberikan satu perkataan. Contohnya, roti.  Kemudian anak harus membina perkataan lain yang bermula dengan suka kata akhir perkataan tadi. 
 <table class="center">
   
   <tr>
@@ -238,13 +238,13 @@ table.center {
 </table>
 </p>
 </div></div>
-<p style="font-size:25px;">Ibu bapa boleh bermain beberapa permainan dengan anak anda yang boleh membantu anak anda menguasai kemahiran membina ayat.
+<p style="font-size:25px;text-align:justify;"">Ibu bapa boleh bermain beberapa permainan dengan anak anda yang boleh membantu anak anda menguasai kemahiran membina ayat.
 </p>
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
    <label for="tab-8" class="lbML">Permainan Membina Ayat </label>
      <div class="tab-content">
-       <p>Ibu bapa boleh memberikan satu perkataan atau beberapa perkataan secara lisan atau bertulis kepada anak anda (mengikut keupayaan anak membina ayat). Kemudian ibu bapa meminta anak anda membina ayat dengan perkataan yang diberikan.<br/>
+       <p style="text-align:justify;">Ibu bapa boleh memberikan satu perkataan atau beberapa perkataan secara lisan atau bertulis kepada anak anda (mengikut keupayaan anak membina ayat). Kemudian ibu bapa meminta anak anda membina ayat dengan perkataan yang diberikan.<br/>
          Contoh 1 : <br/>
 Kereta itu berwarna merah.<br/>
          Contoh 2 :  <br/>
@@ -256,7 +256,7 @@ Kereta itu berwarna merah.<br/>
       <input id="tab-9" type="checkbox" name="tab">
    <label for="tab-9" class="lbML">Permainan Meluaskan Ayat </label>
      <div class="tab-content">
-       <p>Ibu bapa memberikan satu ayat tunggal kepada anak.  Kemudian, anak meluaskan ayat itu.  Selepas itu, giliran ibu/bapa pula meluaskan ayat itu.  Begitulah seterusnya hingga ayat itu tidak dapat diluaskan lagi. <br/>
+       <p style="text-align:justify;">Ibu bapa memberikan satu ayat tunggal kepada anak.  Kemudian, anak meluaskan ayat itu.  Selepas itu, giliran ibu/bapa pula meluaskan ayat itu.  Begitulah seterusnya hingga ayat itu tidak dapat diluaskan lagi. <br/>
          Contoh : 
 
 <table class="center">
@@ -284,7 +284,7 @@ Kereta itu berwarna merah.<br/>
 </table>
 </p>
 </div></div>
-<p>
+<p style="text-align:justify;">
   <li>Permainan yang disarankan di atas haruslah dilakukan secara santai dan menyeronokkan. </li>
   
   <li>Betulkan jawapan anak anda dengan teguran yang lembut.  </li>
