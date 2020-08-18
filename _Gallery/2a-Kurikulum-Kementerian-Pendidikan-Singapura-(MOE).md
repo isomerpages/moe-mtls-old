@@ -71,7 +71,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
  <div style="margin-top:auto;margin-bottom:auto;text-align:left;">
  <h4 style="padding-top:12px;color:#a3c864;">Memupuk Pelajar Aktif dan Pengguna Cekap</h4>
  
- <p>
+ <p style="text-align:justify;">
 Tujuan utama pendidikan Bahasa Ibunda adalah untuk memperkukuh kemahiran berkomunikasi dan memupuk kesedaran serta penghayatan pelajar kita tentang warisan budaya dan nilai.  Dengan ini, mereka akan berasa yakin apabila berhubung dengan masyarakat di Asia dan seluruh dunia. 
 <br/><br/>
 Kurikulum Bahasa Ibunda bertujuan untuk membentuk anak-anak kita menjadi pengguna bahasa yang cekap dan mempunyai asas kemahiran bahasa dan literasi yang kukuh. Dengan kemahiran teras seperti bertutur, mendengar dan membaca, pelajar kita dapat mempertingkatkan kemahiran menulis dan berkomunikasi dalam konteks kehidupan sebenar.  Penerapan ICT, CCE dan SEL meningkat pemahaman pelajar  tentang budaya dan nilai yang teranyam dalam kurikulum. 
