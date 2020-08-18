@@ -1,7 +1,7 @@
 ---
 title: About Us
 permalink: /About-Us-And-Past-Symposiums/
-breadcrumb: About Us & Past Symposiums
+breadcrumb: About Us
 ---
 ### About Us
 <html>
