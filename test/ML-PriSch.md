@@ -122,25 +122,25 @@ table.center {
   <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran cekap:</span></p>
   <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-  <label for="tab-2" class="lbML"><li>Dekat dengan kehidupan murid </li></label>
+  <label for="tab-2" class="lbML">- Dekat dengan kehidupan murid </label>
      <div class="tab-content">
        <img src="/images/MTLS-Malay-PriSch-kehidupan-murid2.jpg">  
        </div></div>
        <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-   <label for="tab-3" class="lbML">kaya dan pelbagai</label>
+   <label for="tab-3" class="lbML">- Kaya dan pelbagai</label>
      <div class="tab-content">
        <img src="/images/MTLS-Malay-Pri-Sch-Pelbagai2.jpg">  
        </div></div>
        <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-   <label for="tab-4" class="lbML">Melibatkan murid secara aktif</label>
+   <label for="tab-4" class="lbML">- Melibatkan murid secara aktif</label>
      <div class="tab-content">
        <img src="/images/ML-meli.png">  
        </div></div>
        <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-   <label for="tab-5" class="lbML">berdasarkan situasi sebenar dan bermakna</label>
+   <label for="tab-5" class="lbML">- Berdasarkan situasi sebenar dan bermakna</label>
      <div class="tab-content">
        <img src="/images/ML-10.png">  
        </div></div>
@@ -157,23 +157,23 @@ table.center {
          <table class="center">
   
   <tr>
-    <td>Ibu/Bapa</td>
+    <td>Ibu/Bapa:</td>
     <td>tika<span style="color:red">r</span></td>
    
   </tr>
   
   <tr>
-    <td>Anak  </td>
+    <td>Anak:  </td>
     <td><span style="color:red">r</span>ot<span style="color:red">i</span></td>
 
   </tr>
   <tr>
-    <td>Ibu/Bapa </td>
+    <td>Ibu/Bapa: </td>
     <td><span style="color:red">i</span>ka<span style="color:red">n</span></td>
     
   </tr>
   <tr>
-    <td>Anak </td>
+    <td>Anak: </td>
     <td><span style="color:red">n</span>as<span style="color:red">i</span></td>
    
   </tr>
@@ -190,19 +190,19 @@ table.center {
          Kategori – perabot
          <table class="center">
   <tr>
-    <td>Ibu/Bapa</td>
+    <td>Ibu/Bapa:</td>
   <td>katil</td>
   </tr>
   <tr>
-    <td>Anak  </td>
+    <td>Anak:  </td>
   <td>almari</td>
   </tr>
   <tr>
-    <td>Ibu/Bapa </td>
+    <td>Ibu/Bapa:</td>
   <td>kerusi</td>
   </tr>
   <tr>
-    <td>Anak </td>
+    <td>Anak: </td>
     <td>meja</td>
   </tr>
 </table>
@@ -216,19 +216,19 @@ table.center {
 <table class="center">
   
   <tr>
-    <td>Ibu/Bapa</td>
+    <td>Ibu/Bapa:</td>
   <td>ro<strong>ti</strong></td>
  </tr>
   <tr>
-    <td>Anak  </td>
+    <td>Anak:  </td>
   <td><strong>ti</strong>lam</td>
 </tr>
   <tr>
-    <td>Ibu/Bapa </td>
+    <td>Ibu/Bapa: </td>
   <td><strong>lam</strong>pu</td>
   </tr>
   <tr>
-    <td>Anak </td>
+    <td>Anak: </td>
   <td><strong>pu</strong>sing</td>
    </tr>
 </table>
@@ -259,20 +259,20 @@ table.center {
 
 <table class="center">
    <tr>
-    <td>Ibu/Bapa</td>
+    <td>Ibu/Bapa:</td>
   <td>Ayah pergi ke kedai.</td>
  </tr>
   <tr>
-    <td>Anak  </td>
+    <td>Anak:  </td>
   <td><span style="color:red">Pada hari Ahad </span>, Ayah pergi ke kedai.</td>
 </tr>
   <tr>
-    <td>Ibu/Bapa </td>
+    <td>Ibu/Bapa: </td>
     <td> Pada hari Ahad, Ayah pergi ke kedai <span style="color:red"> bersama Ibu</span>.</td>
    
   </tr>
   <tr>
-    <td>Anak </td>
+    <td>Anak: </td>
   <td>Pada hari Ahad, Ayah pergi ke kedai bersama Ibu  <span style="color:red">untuk  membeli tepung, susu dan gula </span></td>
    </tr>
 </table>
