@@ -241,10 +241,10 @@ table.center {
    <label for="tab-9" class="lbML">Permainan Membina Ayat </label>
      <div class="tab-content">
        <p style="text-align:justify;">Ibu bapa boleh memberikan satu perkataan atau beberapa perkataan secara lisan atau bertulis kepada anak anda (mengikut keupayaan anak membina ayat). Kemudian ibu bapa meminta anak anda membina ayat dengan perkataan yang diberikan.<br/><br/>
-         Contoh perbualan 1 : <span style="background-color:green;"> kereta </span>
+         Contoh perbualan 1 : <span style="background-color:green;color:white;"> kereta </span>
 <br/>
          <strong>Kereta </strong> itu berwarna merah.<br/><br/>
-         Contoh perbualan 2 : <span style="background-color:green;"> kereta </span> <span style="background-color:green;"> laju </span>
+         Contoh perbualan 2 : <span style="background-color:green;color:white;"> kereta </span> <span style="background-color:green;color:white;"> laju </span>
  <br/>
          <strong>Kereta</strong> Ayah bergerak dengan <strong>laju.</strong><br/>
 </p>
