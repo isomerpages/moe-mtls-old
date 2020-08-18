@@ -76,11 +76,12 @@ table.center {
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/ML-Sec-Header2.jpg">
 <h4  style="font-size:30px;color:green;" >Matlamat Kurikulum Bahasa Melayu</h4>
-<h5  style="font-size:25px;color:green;" >Memupuk Pelajar Aktif Dan Pengguna Cekap (Pembelajaran Yang Menyeronokkan)</h5>
+
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Bahan Pengajaran Dan Pembelajaran
 </span></a><br/>
  <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Sokongan Ibu Bapa
 </span></a>
+<h5  style="font-size:25px;color:green;" >Memupuk Pelajar Aktif Dan Pengguna Cekap (Pembelajaran Yang Menyeronokkan)</h5>
 <p>Kurikulum Bahasa Melayu Peringkat Sekolah Menengah bertujuan melengkapkan pelajar dengan kecekapan berkomunikasi dan menjalin hubungan dengan pihak lain dalam konteks kehidupan di Singapura, rantau dan dunia.
 <br/>
 Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengguna bahasa yang cekap ialah: 
@@ -101,11 +102,12 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
 </p>
 <p style="font-size:25px; color: green">Nilai Budaya Arif Budiman
   <br/> <br/>
-  <span style="font-size:20px;color:black;">Ciri-ciri seseorang yang <strong> Arif Budiman: </strong>
-</span><br/>
+ 
 <table style="width:100%">
   <tr>
-    <td><p>Pendidikan Bahasa Melayu di peringkat menengah dilaksanakan dengan berpandukan nilai dan budaya masyarakat Melayu yang meliputi seni dan artifak, institusi, nilai dan kepercayaan serta bahasa dan kesusasteraan Melayu. 
+    <td><p><span style="font-size:20px;color:black;">Ciri-ciri seseorang yang <strong> Arif Budiman: </strong>
+</span><br/>
+      Pendidikan Bahasa Melayu di peringkat menengah dilaksanakan dengan berpandukan nilai dan budaya masyarakat Melayu yang meliputi seni dan artifak, institusi, nilai dan kepercayaan serta bahasa dan kesusasteraan Melayu. 
 </p></td>
     <td> <img src="/images/ML-Sec-Update3.png"></td>
   </tr>
