@@ -122,7 +122,7 @@ table.center {
   <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran cekap:</span></p>
   <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-   <label for="tab-2" class="lbML">dekat dengan kehidupan murid</label>
+  <label for="tab-2" class="lbML"><li>Dekat dengan kehidupan murid </li></label>
      <div class="tab-content">
        <img src="/images/MTLS-Malay-PriSch-kehidupan-murid2.jpg">  
        </div></div>
