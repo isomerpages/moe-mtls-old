@@ -204,7 +204,7 @@ Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, persekitaran da
 <img src="/images/Motivator.png"><br/>
 <img src="/images/Role-Model.png"><br/>
 <img src="/images/Facilitator.png"><br/>
-<p>Sila rujuk lampiran-lampiran ini sekiranya ingin tahu lebih lanjut,
+<p style="font-size:22px;>Sila rujuk lampiran-lampiran ini sekiranya ingin tahu lebih lanjut,
 <br/>
   <a href="https://beta.moe.gov.sg/uploads/secondary-school-education-booklet-malay.pdf" target="_blank">https://beta.moe.gov.sg/uploads/secondary-school-education-booklet-malay.pdf</a><br/>
    <a href="https://www.schoolbag.sg/docs/default-source/default-document-library/(ml)mlpg2016.pdf " target="_blank">https://www.schoolbag.sg/docs/default-source/default-document-library/(ml)mlpg2016.pdf 
@@ -212,7 +212,7 @@ Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, persekitaran da
    
 </p>
 <h4  style="font-size:30px;color:green;" >Program-program Bahasa & Budaya Melayu</h4> 
-<p style="font-size:25px;">Bagi menggalakkan penggunaan dan pendedahan pada bahasa Melayu, sertailah program-program bahasa dan budaya yang telah dianjurkan. Bawa bersama keluarga anda menghadiri aktiviti-aktiviti ini. Anda juga boleh melawat tempat-tempat yang disarankan.
+<p style="font-size:22px;">Bagi menggalakkan penggunaan dan pendedahan pada bahasa Melayu, sertailah program-program bahasa dan budaya yang telah dianjurkan. Bawa bersama keluarga anda menghadiri aktiviti-aktiviti ini. Anda juga boleh melawat tempat-tempat yang disarankan.
 </p>
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
@@ -305,7 +305,7 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
 </p>
  </div></div> 
 
-<p style="font-size:20px;"> <strong>Majlis Bahasa Melayu Singapura </strong> - Bulan Bahasa 2020 
+<p style="font-size:25px;"> <strong>Majlis Bahasa Melayu Singapura </strong> - Bulan Bahasa 2020 
   <br/>
   <ul>
 <li>Ikutilah majlis pelancaran Bulan Bahasa yang akan disiarkan menerusi saluran televisyen Suria, pada Sabtu (5 Sep 2020) pada jam 8.30 malam. 
