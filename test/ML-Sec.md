@@ -100,8 +100,8 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
 </table>
 </p>
 <p style="font-size:25px; color: green">Nilai Budaya Arif Budiman
-  <br/>
-  <span style="font-size:25px;color:black;">Ciri-ciri seseorang yang <strong> Arif Budiman: </strong>
+  <br/> <br/>
+  <span style="font-size:20px;color:black;">Ciri-ciri seseorang yang <strong> Arif Budiman: </strong>
 </span><br/>
 <table style="width:100%">
   <tr>
