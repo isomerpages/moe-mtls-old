@@ -69,26 +69,50 @@ table.center {
 </style>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/ML-Sec-Header.jpg">
-<h4  style="font-size:30px;color:green;" >Memupuk Pelajar Aktif Dan Pengguna Cekap (Pembelajaran Yang Menyeronokkan)</h4>
- <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Program Elektif Bahasa Melayu Sekolah Menengah</span></a><br/>
- <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:KaiTi"> Sokongan Ibu Bapa</span></a><br/>
- <a href="#C3" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Bahan-bahan Menyokong Pembelajaran</span></a>
+<h4  style="font-size:30px;color:green;" >Matlamat Kurikulum Bahasa Melayu</h4>
+<h5  style="font-size:25px;color:green;" >Memupuk Pelajar Aktif Dan Pengguna Cekap (Pembelajaran Yang Menyeronokkan)</h5>
+ <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Bahan Pengajaran Dan Pembelajaran
+</span></a><br/>
+ <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Sokongan Ibu Bapa
+</span></a>
 <p>Kurikulum Bahasa Melayu Peringkat Sekolah Menengah bertujuan melengkapkan pelajar dengan kecekapan berkomunikasi dan menjalin hubungan dengan pihak lain dalam konteks kehidupan di Singapura, rantau dan dunia.
 <br/>
 Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengguna bahasa yang cekap ialah: 
 <img src="/images/ML-Sec-Funlearning.jpg"><br/>
-Dalam mencapai objektif-objektif ini, adalah penting membantu para pelajar menggemari, mempelajari dan menggunakan Bahasa Ibunda mereka sebagai bahasa yang hidup dan menghasilkan pengguna yang cekap yang boleh berkomunikasi secara efektif dalam pelbagai latar kehidupan sebenar.
+  <span style="Font size: 25px; color: green">Visi Pendidikan Bahasa Melayu Singapura
+</span><br/>
+  <strong> Arif Budiman </strong> (Insan berilmu pengetahuan yang berbakti kepada masyarakat) 
+<table style="width:100%">
+  <tr>
+    <td><p>Visi Arif Budiman menetapkan satu hala tuju bagi guru dan pelajar Bahasa Melayu untuk membina kefasihan berbahasa dan penghayatan nilai dan budaya Melayu.       
 <br/>
-<ul><li><a href="#" target="_blank">Gambaran Kurikulum Sekolah Menengah 2021
-</a></li>
-<li><a href="#" target="_blank">Gambaran Bahan2 Pengajaran 2021
-</a></li>
-<li><a href="#" target="_blank">Laporan Semakan Bahasa Ibunda 2010 
-</a></li></ul>
+      Di peringkat sekolah menengah, pelajar bahasa Melayu dipupuk untuk mendalami dan menghargai bahasa dan budaya Melayu dalam pelanjutan pembangunan negara. 
+</p></td>
+  <td><img src="/images/ML-Sec-update.jpg"><br/>
+    <img src="/images/ML-Sec-Update2.jpg"></td>
+  </tr>
+</table>
+</p>
+<p style="font-size:25px; color: green">Nilai Budaya Arif Budiman
+  <br/>
+  <span style="font-size:25px;color:black;">Ciri-ciri seseorang yang <strong> Arif Budiman: </strong>
+</span><br/>
+<table style="width:100%">
+  <tr>
+    <td><p>Pendidikan Bahasa Melayu di peringkat menengah dilaksanakan dengan berpandukan nilai dan budaya masyarakat Melayu yang meliputi seni dan artifak, institusi, nilai dan kepercayaan serta bahasa dan kesusasteraan Melayu. 
+</p></td>
+    <td> <img src="/images/ML-Sec-Update3.png"></td>
+  </tr>
+  </table>
 </p>
 <h4 id="C1"><span style="font-size:25px;color:green;" >Gambaran Menyeluruh Kurikulum Bahasa Ibunda </span>
 </h4>
 <img src="/images/ML-Sec-Gambaran.jpg"><br/>
+<p style="font-size:25px; color: green">Tonton video di bawah ini bagi informasi selanjutnya. <br/><br/>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <br/><span style="font-size:20px;" >Penerangan Kurikulum Sekolah Menengah 2021
+ </span>
+</p>
 <h4  style="font-size:30px;color:green;" >Program Elektif Bahasa Melayu Sekolah Menengah
 </h4>
 <p>Jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS.
@@ -156,6 +180,12 @@ Dalam mencapai objektif-objektif ini, adalah penting membantu para pelajar mengg
 </li>
     </ul>
    </p>  </div></div>
+   <h4  style="font-size:30px;color:green;" >Bahan Pengajaran dan Pembelajaran
+</h4>
+<p>Tonton video pengenalan tentang bahan-bahan pengajaran bahasa Melayu sekolah menengah.<br/>
+  <br/>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZANW_F4at9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
    <h4 id="C2"><span style="font-size:30px;color:green;">Sokongan Ibu Bapa</span>
 </h4>
 Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, persekitaran dan sokongan yang berterusan. Pembelajaran bahasa Melayu akan menjadi lebih menyeronokkan dan bermakna. Berikut ialah beberapa peranan yang boleh anda amalkan dalam usaha ini. <br/>
