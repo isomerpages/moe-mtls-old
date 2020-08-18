@@ -38,6 +38,7 @@ collections:
 resources_name: resource-room
 favicon: /images/emtls-2020-logo-01-favicon.ico
 google_analytics: UA-175313072-2
+facebook-pixel: 404827880132568
 is_government: false
 permalink: none
 baseurl: ""

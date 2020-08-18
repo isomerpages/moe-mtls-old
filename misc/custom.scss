@@ -522,9 +522,15 @@ $desktop: 960px + (2 * $gap) !default;
 .atab1Line .lbML{
   background: #a3c864;
 }
+.lbML1{
+  background: #a3c864;
+}
 .atab .lbTM,
 .atab3Line .lbTM,
 .atab1Line .lbTM{
+  background: #9b4490;
+}
+.lbTM1{
   background: #9b4490;
 }
 .atab .lbChPI,

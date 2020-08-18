@@ -149,7 +149,8 @@ table.center {
          <table class="center">
   
   <tr>
-    <td>Ibu/Bapa:</td>
+    <td>Ibu/Bapa</td>
+   <td>:</td>
     <td>tika<span style="color:red">r</span></td>
    
   </tr>

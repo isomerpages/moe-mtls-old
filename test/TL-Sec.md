@@ -19,7 +19,6 @@ td{
   width:60%;
 }
 .btab{
-
   width:0%;
 }
   .tab img{
@@ -149,7 +148,7 @@ width:100%;
     <li> <strong> புது உருவாக்கச் சிந்தனையுடைய படைப்பாளிகளை வளர்த்தல் </strong>
 </li>
    </ul>
-   <a href="#" target="_blank">Literature in Tamil Syllabus 2019
+   <a href="/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank">Literature in Tamil Syllabus 2019
 </a>
  </p></td>
    <td> <img src="/images/TL-Sec-right2.png"><br/>
@@ -169,24 +168,11 @@ width:100%;
  தமிழ்மொழி விருப்பப்பாடத் திட்டம் கீழ்க்கண்ட உயர்நிலைப் பள்ளிகளிலும் தொடக்கக்கல்லூரிகளிலும் வழங்கப்படுகின்றது. <br/> </p>
  <div class="row">
  <div class="column">
-  <a href="/Gallery/tlep-sec-infosheet-students-2019.pdf " target="_blank"><p><strong>உயர்நிலைப் பள்ளிகள்
-   </strong> <br/>
-   <ul>
-   <li>காமன்வெல்த் உயர்நிலைப்பள்ளி</li>
-   <li>ரிவர்சைடு உயர்நிலைப்பள்ளி</li>
-   <li>யூசூன் டவுன் உயர்நிலைப்பள்ளி
-</li></ul>
-   </p></a>
+  <a href="/Gallery/TL-Sec-tlep-sec-infosheet-students-2019.pdf " target="_blank"><img src="/images/TL-Sec-info2019.png"></a>
   </div> 
+
  <div class="column">
-   <a href="/Gallery/tlep-jc_infosheet_students.pdf " target="_blank"><p><strong>தொடக்கக்கல்லூரிகள்
-    </strong> <br/>
-   <ul>
-   <li>தொடக்கக்கல்லூரிகள்
-</li>
-<li>தேசிய தொடக்கக்கல்லூரி
-</li>
-  </ul></p></a>
+   <a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf " target="_blank"><img src="/images/TL-Sec-info.png"></a>
    </div> 
    </div>
    <br/>
@@ -203,7 +189,7 @@ width:100%;
 </span></p>
  <img src="/images/TL-PreU-Strategies.jpg">
  
- <h4 id="C4"><span style="font-size:25px;">இணையவழிக் கற்றல் </span> <br/>
+ <h4 id="C4"><span style="font-size:25px;">இணையவழிக் கற்றல் </span> </h4>
 <img src="/images/TL-Sec_onlineLearning.jpg">
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
