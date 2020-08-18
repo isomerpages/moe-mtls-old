@@ -74,7 +74,7 @@ table.center {
 }
 </style>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
-<img src="/images/ML-Sec-Header.jpg">
+<img src="/images/ML-Sec-Header2.jpg">
 <h4  style="font-size:30px;color:green;" >Matlamat Kurikulum Bahasa Melayu</h4>
 <h5  style="font-size:25px;color:green;" >Memupuk Pelajar Aktif Dan Pengguna Cekap (Pembelajaran Yang Menyeronokkan)</h5>
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Bahan Pengajaran Dan Pembelajaran
@@ -111,7 +111,7 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
   </tr>
   </table>
 </p>
-<h4><span style="font-size:25px;color:green;" >Gambaran Menyeluruh Kurikulum Bahasa Ibunda </span>
+<h4 id="C1"><span style="font-size:25px;color:green;" >Gambaran Menyeluruh Kurikulum Bahasa Ibunda </span>
 </h4>
 <img src="/images/ML-Sec-Gambaran.jpg"><br/>
 <p style="font-size:25px; color: green">Tonton video di bawah ini bagi informasi selanjutnya. <br/><br/>
@@ -311,7 +311,7 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
 <li>Ikutilah majlis pelancaran Bulan Bahasa yang akan disiarkan menerusi saluran televisyen Suria, pada Sabtu (5 Sep 2020) pada jam 8.30 malam. 
 </li>
 </ul>
- <a href="https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa" target="_blank"><span style="font-size:20px;">Majlis Bahasa Melayu Singapura - Bulan Bahasa </span>
+ <a href="https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa" target="_blank">Majlis Bahasa Melayu Singapura - Bulan Bahasa 
  </a>
 </p>
 
@@ -321,11 +321,12 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
          <li>Kesantunan Bahasa
 </li>
          </ul>
- <a href="https://www.mllpc.sg/signature-or-flagship-programme-fund " target="_blank"><span style="font-size:20px;">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)</span>
+ <a href="https://www.mllpc.sg/signature-or-flagship-programme-fund 
+" target="_blank">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
  </a>
 </p>
 
- <h4 id="C1"><span style="font-size:30px;color:green;" >Bahan-bahan Menyokong Pembelajaran</span>
+ <h4 id="C3"><span style="font-size:30px;color:green;" >Bahan-bahan Menyokong Pembelajaran</span>
 </h4> 
 <img src="/images/ML-Sec_OnlineLearning.png">  
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
