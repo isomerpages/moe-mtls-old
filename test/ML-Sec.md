@@ -68,7 +68,7 @@ table.center {
 }
 </style>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
-<img src="/images/ML-Sec-Header2.jpg">
+<img src="/images/ML-Sec-Header.jpg">
 <h4  style="font-size:30px;color:green;" >Matlamat Kurikulum Bahasa Melayu</h4>
 <h5  style="font-size:25px;color:green;" >Memupuk Pelajar Aktif Dan Pengguna Cekap (Pembelajaran Yang Menyeronokkan)</h5>
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Bahan Pengajaran Dan Pembelajaran
@@ -207,74 +207,15 @@ Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, persekitaran da
 <h4  style="font-size:30px;color:green;" >Program-program Bahasa & Budaya Melayu</h4> 
 <p style="font-size:25px;">Bagi menggalakkan penggunaan dan pendedahan pada bahasa Melayu, sertailah program-program bahasa dan budaya yang telah dianjurkan. Bawa bersama keluarga anda menghadiri aktiviti-aktiviti ini. Anda juga boleh melawat tempat-tempat yang disarankan.
 </p>
-   <div class="atab">
-      <input id="tab-3" type="checkbox" name="tab">
-   <label for="tab-3" class="lbML">Majlis Bahasa Melayu Singapura - Bulan Bahasa 
-</label>
-     <div class="tab-content"> 
-   <p style="font-size:20px;">Tema 2020, ‘Cita. Citra. Cinta. Bahasa Kita.’ ~ menggambarkan langkah kita mengharungi era baharu
- <a href="#" target="_blank">Majlis Bahasa Melayu Singapura - Bulan Bahasa 
- </a>
-</p>
- </div></div> 
-   <div class="atab">
-      <input id="tab-4" type="checkbox" name="tab">
-   <label for="tab-4" class="lbML">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
-</label>
-     <div class="tab-content"> 
-   <p style="font-size:25px;">
-       <ul><li>Fiesta Bahasa
-</li>
-         <li>Kesantunan Bahasa
-</li>
-         </ul>
- <a href="#" target="_blank">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
- </a>
-</p>
- </div></div> 
-  
-   <div class="atab">
-      <input id="tab-5" type="checkbox" name="tab">
-   <label for="tab-5" class="lbML">Taman Warisan Melayu 
-
-</label>
-     <div class="tab-content"> 
-   <p style="font-size:25px;">
-       <ul><li>Pameran Tetap – 6 galeri
-</li>
-         <li>Pameran Khas - Seekor Singa, Seorang Putera dan Sebingkai Cermin: Pantulan dan Biasan Singapura
-</li>
-         </ul>
- <a href="#" target="_blank">Taman Warisan Melayu  (MLLPC)
- </a>
-</p>
- </div></div> 
- 
-  <div class="atab">
-      <input id="tab-6" type="checkbox" name="tab">
-   <label for="tab-6" class="lbML">Muzium Negara Singapura 
-
-</label>
-     <div class="tab-content"> 
-   <p style="font-size:25px;">
-       <ul><li>Pameran tetap – 4 galeri   
-</li>
-         <li>Pameran Khas – Khazanah Dunia dari Muzium British
-</li>
-         </ul>
- <a href="#" target="_blank">Muzium Negara Singapura 
- </a>
-</p>
- </div></div> 
-
-
 <div class="atab">
-      <input id="tab-7" type="checkbox" name="tab">
-   <label for="tab-7" class="lbML">Perpustakaan Negara Singapura
+      <input id="tab-3" type="checkbox" name="tab">
+   <label for="tab-3" class="lbML">Perpustakaan Negara Singapura
 
 </label>
      <div class="tab-content"> 
    <p style="font-size:25px;">
+     <a href="https://www.facebook.com/groups/MalayLibraryServices.SG" target="_blank">Perpustakaan Negara Singapura
+ </a><br/>
        <ul><li>Mari Bercerita – Setiap Minggu <br/> 
 Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
          <li>Saranan Bacaan – 2 kali setiap bulan  <br/>
@@ -293,18 +234,18 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
 (Ikut Jadual Khas) 
 </li>
          </ul>
- <a href="#" target="_blank">Perpustakaan Negara Singapura
- </a>
+ 
 </p>
  </div></div> 
-   
-   <div class="atab">
-      <input id="tab-8" type="checkbox" name="tab">
-   <label for="tab-8" class="lbML">Esplanade – Siri Pentas  
+ <div class="atab">
+      <input id="tab-4" type="checkbox" name="tab">
+   <label for="tab-4" class="lbML">Esplanade – Siri Pentas  
 
 </label>
      <div class="tab-content"> 
    <p style="font-size:25px;">
+      <a href="https://www.esplanade.com/festivals-and-series/pentas/2020" target="_blank">Esplanade – Siri Pentas 
+ </a><br/>
        <ul>
          <li>Cipta Cita - aneka jenis kesenian dan alami kepelbagaian dan kekayaan dunia Melayu.
 </li>
@@ -318,11 +259,71 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
 
 </li>
          </ul>
- <a href="#" target="_blank">Esplanade – Siri Pentas 
+
+</p>
+ </div></div> 
+  <div class="atab">
+      <input id="tab-5" type="checkbox" name="tab">
+   <label for="tab-5" class="lbML">Taman Warisan Melayu 
+
+</label>
+     <div class="tab-content"> 
+   <p style="font-size:25px;">
+     <a href="https://www.malayheritage.org.sg/en/whats-on " target="_blank">Taman Warisan Melayu  (MLLPC)
+ </a><br/>
+       <ul><li>Pameran Tetap – 6 galeri
+</li>
+         <li>Pameran Khas - Seekor Singa, Seorang Putera dan Sebingkai Cermin: Pantulan dan Biasan Singapura
+</li>
+         </ul>
+ 
+</p>
+ </div></div> 
+ 
+  <div class="atab">
+      <input id="tab-6" type="checkbox" name="tab">
+   <label for="tab-6" class="lbML">Muzium Negara Singapura 
+
+</label>
+     <div class="tab-content"> 
+   <p style="font-size:25px;">
+      <a href="https://www.nhb.gov.sg/nationalmuseum/~/media/nms/documents/national-museum-of-singapore-guide/national-museum-of-singapore-guide-bahasa-melayu.pdf?la=en" target="_blank">Muzium Negara Singapura 
+ </a><br/>
+       <ul><li>Pameran tetap – 4 galeri   
+</li>
+         <li>Pameran Khas – Khazanah Dunia dari Muzium British
+</li>
+         </ul>
+
+</p>
+ </div></div> 
+
+   <div class="atab">
+      <input id="tab-7" type="checkbox" name="tab">
+   <label for="tab-7" class="lbML">Majlis Bahasa Melayu Singapura - Bulan Bahasa 
+</label>
+     <div class="tab-content"> 
+   <p style="font-size:20px;">Tema 2020, ‘Cita. Citra. Cinta. Bahasa Kita.’ ~ menggambarkan langkah kita mengharungi era baharu
+ <a href="#" target="_blank">Majlis Bahasa Melayu Singapura - Bulan Bahasa 
  </a>
 </p>
  </div></div> 
-   <h4 id="C3"><span style="font-size:30px;color:green;" >Bahan-bahan Menyokong Pembelajaran</span>
+   <div class="atab">
+      <input id="tab-8" type="checkbox" name="tab">
+   <label for="tab-8" class="lbML">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
+</label>
+     <div class="tab-content"> 
+   <p style="font-size:25px;">
+       <ul><li>Fiesta Bahasa
+</li>
+         <li>Kesantunan Bahasa
+</li>
+         </ul>
+ <a href="#" target="_blank">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
+ </a>
+</p>
+ </div></div> 
+ <h4 id="C3"><span style="font-size:30px;color:green;" >Bahan-bahan Menyokong Pembelajaran</span>
 </h4> 
 <img src="/images/ML-Sec_OnlineLearning.png">  
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
