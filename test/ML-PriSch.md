@@ -73,12 +73,11 @@ table.center {
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Bahan Pengajaran Dan Pembelajaran</span></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Sokongan Ibu Bapa</span></a>&nbsp;&nbsp;
 </p>
-<p style="color:green;font-size:30px;">Matalamat Kurikulum Bahasa Melayu</p>
-<img src="/images/MLyu.jpg">
+<img src="/images/MTLS-Malay-Matalamat-Kurikulum-Bahasa-Melayu2.jpg">
 <br/>
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-   <label for="tab-1" class="lbML">Objektif Kurikulum Bahasa Melayu
+   <label for="tab-1" style="font-size:25px;color:#53d91e">Objektif Kurikulum Bahasa Melayu
 </label>
      <div class="tab-content">
        <p style="text-align:justify;">Pada akhir perngajaran dan pembelajaran Bahasa Melayu di sekolah rendah, murid depat:
@@ -105,18 +104,20 @@ table.center {
        </p>
        </div></div>
        <p>
-  <li>Bahasa Melayu merupakan salah satu Bahasa Ibunda yang ditawarkan di sekolah rendah.  Murid-murid diberikan peluang untuk mempelajari Bahasa Melayu setinggi mana yang terdaya dan sejauh mana yang termampu.
+  <li>&nbsp;&nbsp;Bahasa Melayu merupakan salah satu Bahasa Ibunda yang ditawarkan di sekolah rendah.  Murid-murid diberikan peluang untuk mempelajari Bahasa Melayu setinggi mana yang terdaya dan sejauh mana yang termampu.
 </li>
-  <li>Di sekolah, Kurikulum Bahasa Melayu Sekolah Rendah dijalankan dengan menggunakan pendekatan yang berpusatkan murid.  Pengajaran yang dijalankan bersifat interaktif agar murid-murid mudah mempelajari dan memahami pelajaran yang diikuti. Memandangkan murid yang memasuki sekolah rendah mempunyai latar belakang bahasa yang pelbagai, keperluan pembelajaran mereka juga seharusnya berbeza-beza. Oleh itu, pembelajaran pembezaan harus ditekankan untuk memenuhi keupayaan yang pelbagai ini. 
+  <li>&nbsp;&nbsp;Di sekolah, Kurikulum Bahasa Melayu Sekolah Rendah dijalankan dengan menggunakan pendekatan yang berpusatkan murid.  Pengajaran yang dijalankan bersifat interaktif agar murid-murid mudah mempelajari dan memahami pelajaran yang diikuti. Memandangkan murid yang memasuki sekolah rendah mempunyai latar belakang bahasa yang pelbagai, keperluan pembelajaran mereka juga seharusnya berbeza-beza. Oleh itu, pembelajaran pembezaan harus ditekankan untuk memenuhi keupayaan yang pelbagai ini. 
 </li>
-  <li>Murid yang mempunyai pelbagai keupayaan juga akan disokong untuk membina kecekapan bahasa dan budaya. Hal ini bukan sahaja dapat mengekalkan minat mereka untuk menggunakan dan menguasai bahasa Ibunda, malahan untuk menggunakan bahasa itu sebagai alat komunikasi secara berkesan
+  <li>&nbsp;&nbsp;Murid yang mempunyai pelbagai keupayaan juga akan disokong untuk membina kecekapan bahasa dan budaya. Hal ini bukan sahaja dapat mengekalkan minat mereka untuk menggunakan dan menguasai bahasa Ibunda, malahan untuk menggunakan bahasa itu sebagai alat komunikasi secara berkesan
 </li>
-  <li>Sila lihat Program Bahasa Melayu Lanjutan, Program Sokongan Bahasa Ibunda bagi murid Darjah 3 dan 4
+  <li>&nbsp;&nbsp;Sila lihat <strong> Program Bahasa Melayu Lanjutan, Program Sokongan Bahasa Ibunda bagi murid Darjah 3 dan 4 </strong>
 </li>
 </p>
-  <img src="/images/ML-Program.jpg" class="image">    
-  Lihat <a href="https://tinyurl.com/emasmlep" target="_blank">https://tinyurl.com/emasmlep </a>
- <p id="C1" style="font-size:30px;color:green;">Bahan Pengajaran dan Pembelajaran <br/>
+  <img src="/images/MTLS-Malay-PriSch-Malay-Program2.jpg" class="image">  <br/>
+  <p>Jika anak anda berminat dalam bahasa, budaya dan kesusateraan Melayu dan mengambil Bahasa Melayu Lanjutan di dekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon untuk ke sekolah-sekolah EMAS melalui: Direct School Admission (DSA) untuk Bahasa Melayu atau selepas mendapat keputusan PSLE. <br/>
+ Lihat <a href="https://tinyurl.com/emasmlep" target="_blank">https://tinyurl.com/emasmlep </a>
+  </p>
+ <p id="C1" style="font-size:30px;color:black"><strong>Bahan Pengajaran dan Pembelajaran </strong><br/>
   <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran cekap:</span></p>
   <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
@@ -238,7 +239,7 @@ table.center {
 </table>
 </p>
 </div></div>
-<p style="font-size:25px;text-align:justify;"">Ibu bapa boleh bermain beberapa permainan dengan anak anda yang boleh membantu anak anda menguasai kemahiran membina ayat.
+<p style="font-size:25px;text-align:justify;">Ibu bapa boleh bermain beberapa permainan dengan anak anda yang boleh membantu anak anda menguasai kemahiran membina ayat.
 </p>
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
