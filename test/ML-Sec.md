@@ -6,6 +6,11 @@ breadcrumb: 'ML Sec'
 <html>
 <body>
 <style>
+  table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
    * {
   box-sizing: border-box;
 }
@@ -23,10 +28,11 @@ breadcrumb: 'ML Sec'
      border-collapse: collapse;
 }
 
-td, th {
+td {
   border: 1px ;
   text-align: center;
   padding: 8px;
+  width:60%;
 }
 table.center {
   margin-left:auto; 
