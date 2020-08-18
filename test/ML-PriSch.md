@@ -244,7 +244,7 @@ table.center {
          Contoh perbualan 1 : <span style="background-color:green;color:white;"> kereta </span>
 <br/>
          <strong>Kereta </strong> itu berwarna merah.<br/><br/>
-         Contoh perbualan 2 : <span style="background-color:green;color:white;"> kereta </span> <span style="background-color:green;color:white;"> laju </span>
+         Contoh perbualan 2 : <span style="background-color:green;color:white;"> kereta </span>&nbsp; <span style="background-color:green;color:white;"> laju </span>
  <br/>
          <strong>Kereta</strong> Ayah bergerak dengan <strong>laju.</strong><br/>
 </p>
