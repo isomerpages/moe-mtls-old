@@ -1,5 +1,5 @@
 ---
-title: 'OPMTL AWARD 2020'
+title: 'OPMTL Teacher Award'
 permalink: /OPMTL-AWARD-2020/
 breadcrumb: 'OPMTL AWARD 2020'
 collection_name: OPMTL AWARD 2020
