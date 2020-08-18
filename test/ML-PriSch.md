@@ -105,7 +105,7 @@ table.center {
        </p>
        </div></div>
        <p>
-  <li><span style="text-align:justify;">Bahasa Melayu merupakan salah satu Bahasa Ibunda yang ditawarkan di sekolah rendah.  Murid-murid diberikan peluang untuk mempelajari Bahasa Melayu setinggi mana yang terdaya dan sejauh mana yang termampu.</span> 
+  <li>Bahasa Melayu merupakan salah satu Bahasa Ibunda yang ditawarkan di sekolah rendah.  Murid-murid diberikan peluang untuk mempelajari Bahasa Melayu setinggi mana yang terdaya dan sejauh mana yang termampu.
 </li>
   <li>Di sekolah, Kurikulum Bahasa Melayu Sekolah Rendah dijalankan dengan menggunakan pendekatan yang berpusatkan murid.  Pengajaran yang dijalankan bersifat interaktif agar murid-murid mudah mempelajari dan memahami pelajaran yang diikuti. Memandangkan murid yang memasuki sekolah rendah mempunyai latar belakang bahasa yang pelbagai, keperluan pembelajaran mereka juga seharusnya berbeza-beza. Oleh itu, pembelajaran pembezaan harus ditekankan untuk memenuhi keupayaan yang pelbagai ini. 
 </li>
