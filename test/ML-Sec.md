@@ -75,7 +75,7 @@ table.center {
 </style>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/ML-Sec-Header2.jpg">
-<h4  style="font-size:30px;color:green;" >Matlamat Kurikulum Bahasa Melayu</h4>
+<h4  style="font-size:30px;"><strong>Matlamat Kurikulum Bahasa Melayu</strong></h4>
 
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Bahan Pengajaran Dan Pembelajaran
 </span></a><br/>
@@ -187,8 +187,7 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
 </li>
     </ul>
    </p>  </div></div>
-   <h4  style="font-size:30px;color:green;" >Bahan Pengajaran dan Pembelajaran
-</h4>
+   <h4  style="font-size:30px;"><strong>Bahan Pengajaran dan Pembelajaran</strong></h4>
 <p style="text-align:justify;">Tonton video pengenalan tentang bahan-bahan pengajaran bahasa Melayu sekolah menengah.<br/>
   <br/>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZANW_F4at9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -198,7 +197,7 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
 <img src="/images/iMTL-Sec-image"><br/>
   <img src="/images/SLS-image"><br/>
 </p>
-   <h4 id="C2"><span style="font-size:30px;color:green;">Sokongan Ibu Bapa</span>
+   <h4 id="C2"><span style="font-size:30px;"><strong>Sokongan Ibu Bapa</strong></span>
 </h4>
 <p style="font-size:22px;">
 Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, sediakan persekitaran dan sokongan yang berterusan. Hal ini akan menjadikan pembelajaran bahasa Melayu lebih menyeronokkan dan bermakna. Anda boleh amalkan beberapa peranan berikut dalam mencapai usaha ini.</p> <br/>
