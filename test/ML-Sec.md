@@ -150,7 +150,7 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
      <li>Pendedahan Seni dan Budaya
 </li>
     </ul>
-  <a href="#" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu
+  <a href="https://sites.google.com/view/emasmlep/home?authuser=0" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu
  </a>
    </p>  </div></div>
    
@@ -201,7 +201,7 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
    <h4 id="C2"><span style="font-size:30px;color:green;">Sokongan Ibu Bapa</span>
 </h4>
 <p style="font-size:22px;">
-Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, persekitaran dan sokongan yang berterusan. Pembelajaran bahasa Melayu akan menjadi lebih menyeronokkan dan bermakna. Berikut ialah beberapa peranan yang boleh anda amalkan dalam usaha ini.</p> <br/>
+Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, sediakan persekitaran dan sokongan yang berterusan. Hal ini akan menjadikan pembelajaran bahasa Melayu lebih menyeronokkan dan bermakna. Anda boleh amalkan beberapa peranan berikut dalam mencapai usaha ini.</p> <br/>
 
 <img src="/images/Motivator.png"><br/>
 <img src="/images/Role-Model.png"><br/>
