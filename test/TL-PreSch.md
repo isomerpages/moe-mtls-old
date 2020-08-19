@@ -30,15 +30,15 @@ margin-bottom:10px;
 <a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/TL-PreSch-Header.jpg">
 <p>
-<li><a href="#C1" style="font-size:20px"><span style="color:blue;text-align:justify;">ஸ்டார்லைட் எழுத்தறிவுத் திட்டம்
+<li><a href="#C1" style="font-size:20px"><span style="color:blue;text-align:justify;">ஸ்டார்லைட் &nbsp; எழுத்தறிவுத் திட்டம்
  </span></a></li>
- <li><a href="#C2" style="font-size:20px"><span style="color:blue;text-align:justify;">தாய்மொழிகளுக்கான இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டம்
+ <li><a href="#C2" style="font-size:20px"><span style="color:blue;text-align:justify;">தாய்மொழிகளுக்கான &nbsp; இளம் &nbsp; மாணவர்களைப் &nbsp; பேணி &nbsp; வளர்க்கும் &nbsp; பணிச்சட்டம்
   </span></a></li>
-<li><a href="#C3" style="font-size:20px"><span style="color:blue;text-align:justify;">ஆசிரியர் துணையோடு வாசித்தல் அணுகுமுறை (SHARED BOOK APPROACH)
+<li><a href="#C3" style="font-size:20px"><span style="color:blue;text-align:justify;">ஆசிரியர் &nbsp; துணையோடு &nbsp; வாசித்தல் &nbsp; அணுகுமுறை (SHARED BOOK APPROACH)
  </span></a></li>
-<li><a href="#C4" style="font-size:20px"><span style="color:blue;text-align:justify;">அதிசய வாரத் திட்டப்பணி (WoW Project)
+<li><a href="#C4" style="font-size:20px"><span style="color:blue;text-align:justify;">அதிசய &nbsp; வாரத் &nbsp; திட்டப்பணி (WoW Project)
  </span></a></li>
- <li><a href="#C5" style="font-size:20px"><span style="color:blue;text-align:justify;">பெற்றொருக்கான உதவிக்குறிப்புகள்
+ <li><a href="#C5" style="font-size:20px"><span style="color:blue;text-align:justify;">பெற்றொருக்கான &nbsp; உதவிக்குறிப்புகள்
 </span></a></li><br/>
 
 <p style="text-align:justify;">கல்வி அமைச்சின் பாலர் பள்ளி சிங்கப்பூரர்களுக்கும் நிரந்தரவாசிகளுக்கும் தரமான பாலர் கல்வியை (பாலர் பள்ளி முதலாம் ஆண்டு, பாலர் பள்ளி இரண்டாம் ஆண்டு) வழங்குவதற்காகத் தொடங்கப்பட்டது. ஒவ்வொரு பிள்ளைக்கும் வலுவான அடித்தளத்தை அமைத்துத் தருவதே கல்வி அமைச்சின் பாலர் பள்ளியின் தொலைநோக்காகும். <br/><br/>
