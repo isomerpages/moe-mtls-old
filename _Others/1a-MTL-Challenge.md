@@ -10,10 +10,10 @@ collection_name: Others
   
   Scan the QR code to access the different MTL Challenge <br/>
   CL Challenge <br/>
-  <img src="/images/QR-Code_Sample_For-MTL_Challeng.png" width="1000" height="300"><br/>
+  <img src="/images/QR-Code_Sample_For-MTL_Challeng.png" ><br/>
   <br/>
   ML Challenge <br/>
-  <img src="/images/QR-Code_Sample_For-MTL_Challeng.png" width="1000" height="300"><br/>
+  <img src="/images/QR-Code_Sample_For-MTL_Challeng.png"><br/>
   <br/>
    How do you win?
    
