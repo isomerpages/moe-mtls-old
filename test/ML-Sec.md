@@ -81,14 +81,14 @@ table.center {
 </span></a><br/>
  <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Sokongan Ibu Bapa
 </span></a>
-<h5  style="font-size:25px;color:green;" >Memupuk Pelajar Aktif Dan Pengguna Cekap (Pembelajaran Yang Menyeronokkan)</h5>
-<p>Kurikulum Bahasa Melayu Peringkat Sekolah Menengah bertujuan melengkapkan pelajar dengan kecekapan berkomunikasi dan menjalin hubungan dengan pihak lain dalam konteks kehidupan di Singapura, rantau dan dunia.
-<br/>
+<h5  style="font-size:25px;color:green;">Memupuk Pelajar Aktif Dan Pengguna Cekap (Pembelajaran Yang Menyeronokkan)</h5>
+<p style="text-align:justify;">Kurikulum Bahasa Melayu Peringkat Sekolah Menengah bertujuan melengkapkan pelajar dengan kecekapan berkomunikasi dan menjalin hubungan dengan pihak lain dalam konteks kehidupan di Singapura, rantau dan dunia.
+<br/><br/>
 Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengguna bahasa yang cekap ialah: 
 <img src="/images/ML-Sec-Funlearning.jpg"><br/>
-  <span style="Font size: 25px; color: green">Visi Pendidikan Bahasa Melayu Singapura
+  <span style="Font size: 28px; color: green">Visi Pendidikan Bahasa Melayu Singapura
 </span><br/>
-  <strong> Arif Budiman </strong> (Insan berilmu pengetahuan yang berbakti kepada masyarakat) 
+  <strong> Arif Budiman </strong>(Insan berilmu pengetahuan yang berbakti kepada masyarakat) 
 <table style="width:100%">
   <tr>
     <td><p>Visi Arif Budiman menetapkan satu hala tuju bagi guru dan pelajar Bahasa Melayu untuk membina kefasihan berbahasa dan penghayatan nilai dan budaya Melayu.       
@@ -104,7 +104,7 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
   <br/>
 <table style="width:100%">
   <tr>
-    <td><p><span style="font-size:20px;color:black;">Ciri-ciri seseorang yang <strong> Arif Budiman: </strong>
+    <td><p><span style="font-size:20px;text-align:justify;">Ciri-ciri seseorang yang <strong> Arif Budiman: </strong>
 </span><br/>
       Pendidikan Bahasa Melayu di peringkat menengah dilaksanakan dengan berpandukan nilai dan budaya masyarakat Melayu yang meliputi seni dan artifak, institusi, nilai dan kepercayaan serta bahasa dan kesusasteraan Melayu. 
 </p></td>
@@ -122,7 +122,7 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
 </p>
 <h4  style="font-size:30px;color:green;" >Program Elektif Bahasa Melayu Sekolah Menengah
 </h4>
-<p>Jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS.
+<p style="text-align:justify;">Jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS.
 </p>
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
@@ -189,7 +189,7 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
    </p>  </div></div>
    <h4  style="font-size:30px;color:green;" >Bahan Pengajaran dan Pembelajaran
 </h4>
-<p>Tonton video pengenalan tentang bahan-bahan pengajaran bahasa Melayu sekolah menengah.<br/>
+<p style="text-align:justify;">Tonton video pengenalan tentang bahan-bahan pengajaran bahasa Melayu sekolah menengah.<br/>
   <br/>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZANW_F4at9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
