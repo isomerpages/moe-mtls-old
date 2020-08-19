@@ -30,16 +30,16 @@ margin-bottom:10px;
 <a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/TL-PreSch-Header.jpg">
 <p>
-<li><a href="#C1" style="font-size:20px"><span style="color:blue;text-align:justify;">ஸ்டார்லைட் &nbsp; எழுத்தறிவுத் திட்டம்
- </span></a></li>
- <li><a href="#C2" style="font-size:20px"><span style="color:blue;text-align:justify;">தாய்மொழிகளுக்கான &nbsp; இளம் &nbsp; மாணவர்களைப் &nbsp; பேணி &nbsp; வளர்க்கும் &nbsp; பணிச்சட்டம்
-  </span></a></li>
-<li><a href="#C3" style="font-size:20px"><span style="color:blue;text-align:justify;">ஆசிரியர் &nbsp; துணையோடு &nbsp; வாசித்தல் &nbsp; அணுகுமுறை (SHARED BOOK APPROACH)
- </span></a></li>
-<li><a href="#C4" style="font-size:20px"><span style="color:blue;text-align:justify;">அதிசய &nbsp; வாரத் &nbsp; திட்டப்பணி (WoW Project)
- </span></a></li>
- <li><a href="#C5" style="font-size:20px"><span style="color:blue;text-align:justify;">பெற்றொருக்கான &nbsp; உதவிக்குறிப்புகள்
-</span></a></li><br/>
+<a href="#C1" style="font-size:20px"><span style="color:blue;text-align:justify;">ஸ்டார்லைட் &nbsp; எழுத்தறிவுத் திட்டம்
+ </span></a><br/><br/>
+<a href="#C2" style="font-size:20px"><span style="color:blue;text-align:justify;">தாய்மொழிகளுக்கான &nbsp; இளம் &nbsp; மாணவர்களைப் &nbsp; பேணி &nbsp; வளர்க்கும் &nbsp; பணிச்சட்டம்
+  </span></a><br/><br/>
+<a href="#C3" style="font-size:20px"><span style="color:blue;text-align:justify;">ஆசிரியர் &nbsp; துணையோடு &nbsp; வாசித்தல் &nbsp; அணுகுமுறை (SHARED BOOK APPROACH)
+ </span></a><br/><br/>
+<a href="#C4" style="font-size:20px"><span style="color:blue;text-align:justify;">அதிசய &nbsp; வாரத் &nbsp; திட்டப்பணி (WoW Project)
+ </span></a><br/><br/>
+<a href="#C5" style="font-size:20px"><span style="color:blue;text-align:justify;">பெற்றொருக்கான &nbsp; உதவிக்குறிப்புகள்
+</span></a><br/>
 
 <p style="text-align:justify;">கல்வி அமைச்சின் பாலர் பள்ளி சிங்கப்பூரர்களுக்கும் நிரந்தரவாசிகளுக்கும் தரமான பாலர் கல்வியை (பாலர் பள்ளி முதலாம் ஆண்டு, பாலர் பள்ளி இரண்டாம் ஆண்டு) வழங்குவதற்காகத் தொடங்கப்பட்டது. ஒவ்வொரு பிள்ளைக்கும் வலுவான அடித்தளத்தை அமைத்துத் தருவதே கல்வி அமைச்சின் பாலர் பள்ளியின் தொலைநோக்காகும். <br/><br/>
 கல்வி அமைச்சின் பாலர் பள்ளி பாடக்கலைத்திட்டம், இளம் மாணவர்களைப் பேணி வளர்த்தல் பணிச்சட்டத்தை அடிப்படையாகக்கொண்டு ஹை-லைட் திட்டம், ஸ்டார்லைட் (விண்மீன்) எழுத்தறிவுத் திட்டம் என்னும் 2 முக்கியத் திட்டங்களை உள்ளடக்கியது. இப்பாடத்திட்டமும் நடவடிக்கைகளும் பிள்ளைகள் ஆறு கற்றல் பிரிவுகளின்மூலம் முழுமையான வளர்ச்சியை அடைய வழிவகுக்கின்றன. 
