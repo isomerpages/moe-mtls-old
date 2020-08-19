@@ -103,7 +103,7 @@ margin-bottom:10px;
 </ul>
 </td>
 <td>
-  <div class="center">
+  <div class="top">
   <img src="/images/TL_PreSch-right3.jpg">  
  </div>
 </td>
