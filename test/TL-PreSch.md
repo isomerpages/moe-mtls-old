@@ -56,12 +56,12 @@ margin-bottom:10px;
   </p>
   <h4 id="C1"> <span style="font-size:30px;color:purple;">ஸ்டார்லைட் &nbsp; எழுத்தறிவுத் திட்டம் </span>
 </h4>
-<p style="font-size:22px;color:purple;">ஸ்டார்லைட் எழுத்தறிவுத் திட்டம் ஆங்கிலத்திலும் மூன்று தாய்மொழிகளிலும் வழங்கப்படுகிறது. 
+<p style="font-size:22px;color:purple;">ஸ்டார்லைட் &nbsp; எழுத்தறிவுத் &nbsp; திட்டம் &nbsp; ஆங்கிலத்திலும் &nbsp; மூன்று &nbsp; தாய்மொழிகளிலும் &nbsp; வழங்கப்படுகிறது
 </p>
 
 <table>
        <tr>
-         <td><p style="font-size:22px;"><strong>இத்திட்டத்தின் நோக்கங்கள்:
+         <td><p style="font-size:22px;"><strong>இத்திட்டத்தின் &nbsp; நோக்கங்கள்:
 </strong><br/>
 <ul>
 <li>இருமொழிக் கல்வியை இளம் பருவத்திலேயே பேணி வளர்த்தல் 
