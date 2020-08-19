@@ -32,8 +32,8 @@ margin-bottom:10px;
 <p>
 <a href="#C1" style="font-size:21px"><span style="color:blue;">ஸ்டார்லைட் எழுத்தறிவுத் திட்டம்
 </span></a><br/>
- <a href="#C2" style="font-size:21px"><span style="color:blue;">தாய்மொழிகளுக்கான இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டம்
-</span></a><br/>
+ <li><a href="#C2" style="font-size:21px"><span style="color:blue;">தாய்மொழிகளுக்கான இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டம்
+  </span></a></li><br/>
 <a href="#C3" style="font-size:21px"><span style="color:blue;">ஆசிரியர் துணையோடு வாசித்தல் அணுகுமுறை (SHARED BOOK APPROACH)
 </span></a><br/>
 <a href="#C4" style="font-size:21px"><span style="color:blue;">அதிசய வாரத் திட்டப்பணி (WoW Project)
