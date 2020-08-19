@@ -46,7 +46,7 @@ third_nav_title: '华文学习展示区'
 </head>
 <body>  
  <div><h2 style="font-family:KaiTi;">学前教育中心</h2></div>
- <img src=/images/MTL-Challenge-Banner.jpeg>
+ <img src="/images/MTL-Challenge-Banner.jpeg">
 <table class="tbl">
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
