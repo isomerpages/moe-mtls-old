@@ -108,7 +108,7 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
 </span><br/>
       Pendidikan Bahasa Melayu di peringkat menengah dilaksanakan dengan berpandukan nilai dan budaya masyarakat Melayu yang meliputi seni dan artifak, institusi, nilai dan kepercayaan serta bahasa dan kesusasteraan Melayu. 
 </p></td>
-    <td> <img src="/images/ML-Sec-Update3.png"></td>
+    <td> <img src="/images/ML-Sec-Framework.png"></td>
   </tr>
   </table>
 </p>
@@ -187,7 +187,7 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
 </li>
     </ul>
    </p>  </div></div>
-   <h4  style="font-size:30px;"><strong>Bahan Pengajaran dan Pembelajaran</strong></h4>
+   <h4 id="C1"><span  style="font-size:30px;"><strong>Bahan Pengajaran dan Pembelajaran</strong></span></h4>
 <p style="text-align:justify;">Tonton video pengenalan tentang bahan-bahan pengajaran bahasa Melayu sekolah menengah.<br/>
   <br/>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZANW_F4at9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
