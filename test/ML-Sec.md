@@ -75,7 +75,7 @@ table.center {
 </style>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/ML-Sec-Header2.jpg">
-<span style="font-size:30px;"><strong>Matlamat Kurikulum Bahasa Melayu</strong></span>
+<p style="font-size:30px;"><strong>Matlamat Kurikulum Bahasa Melayu</strong></p><br>
 
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:Calibri">Bahan Pengajaran Dan Pembelajaran
 </span></a><br/>
@@ -187,7 +187,7 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
 </li>
     </ul>
    </p>  </div></div>
-   <h4 id="C1"><span  style="font-size:30px;color:black;"><strong>Bahan Pengajaran dan Pembelajaran</strong></span></h4>
+   <h4 id="C1"><p style="font-size:30px;"><strong>Bahan Pengajaran dan Pembelajaran</strong></p></h4>
 <p style="text-align:justify;">Tonton video pengenalan tentang bahan-bahan pengajaran bahasa Melayu sekolah menengah.<br/>
   <br/>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZANW_F4at9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
