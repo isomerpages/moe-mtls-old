@@ -110,7 +110,7 @@ width:100%;
   <tr>
     <td><p style="text-align:justify;">மேற்குறிப்பிடப்பட்ட முக்கிய மாற்றங்களை வழியொற்றி, 2021-ஆம் ஆண்டுத் தமிழ்ப் பாடக்கலைத்திட்டம் மேலும் சில முக்கிய மேம்பாடுகளைக்கொண்டு திருத்தியமைக்கப்பட்டுள்ளது. குறிப்பாக, <strong>கருத்துப்பரிமாற்றம், பண்பாடு, தொடர்பிணைப்பு </strong>ஆகிய மூன்று முக்கியக் கூறுகளில் தனிக்கவனம் செலுத்தப்பட்டுள்ளன.  இவற்றை அடிப்படையாகக்கொண்டு தமிழ்ப் பாடக்கலைத்திட்டப் பணிச்சட்டம் உருவாக்கப்பட்டுள்ளது. </p></td>
     <td><img src="/images/TL-Sec-Curriculum.jpg">
-     <br/> <a href="#" target="_blank">2021 Tamil Curriculum</a></td>
+     <br/> <a href="/Gallery/2021-tamil-curriculum.pdf" target="_blank">2021 Tamil Curriculum</a></td>
  </tr> 
  </table>
  <br/>
@@ -168,27 +168,38 @@ width:100%;
  தமிழ்மொழி விருப்பப்பாடத் திட்டம் கீழ்க்கண்ட உயர்நிலைப் பள்ளிகளிலும் தொடக்கக்கல்லூரிகளிலும் வழங்கப்படுகின்றது. </p><br/>
  <div class="row">
  <div class="column">
-  <a href="/Gallery/TL-Sec-tlep-sec-infosheet-students-2019.pdf " target="_blank"><img src="/images/TL-Sec-info2019.png"></a>
+  <a href="/Gallery/TL-Sec-tlep-sec-infosheet-students-2019.pdf " target="_blank"><p>உயர்நிலைப் பள்ளிகள்
+<br/>
+   <ul>
+    <li>காமன்வெல்த் உயர்நிலைப்பள்ளி
+</li>
+     <li>ரிவர்சைடு உயர்நிலைப்பள்ளி
+</li>
+     <li>யூசூன் டவுன் உயர்நிலைப்பள்ளி
+</li>
+   </ul></p></a>
   </div> 
 
  <div class="column">
-   <a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf " target="_blank"><img src="/images/TL-Sec-info.png"></a>
+ <a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf " target="_blank"><p>தொடக்கக்கல்லூரிகள்
+<br/>
+  <ul>
+  <li>ஆண்டர்சன்  <br/>
+   தொடக்கக்கல்லூரி</li>
+    <li>தேசிய தொடக்கக்கல்லூரி
+</li>
+ </ul>
+  </p></a>
    </div> 
    </div>
    <br/>
-
- <table style="width:100%">
-  <tr>
-    <td class="btab"><img src="/images/TL-Sec-left1.png"></td>
-    <td class="btab"><img src="/images/TL-Sec-left2.png"></td>
- </tr>
-</table>
-
+ <img src="/images/TL-Sec-TLEP-Schools-Update.jpg">
+  
 <br/>
  <p><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப் பாடத்திட்டம்
 </span></p>
- <img src="/images/TL-PreU-Strategies.jpg">
- 
+ <img src="/images/TL-Sec-Optional-Curriculum-Update.jpg">
+
  <h4 id="C4"><span style="font-size:30px;color:purple;">இணையவழிக் கற்றல் </span> </h4>
 <img src="/images/TL-Sec_onlineLearning.jpg">
 
