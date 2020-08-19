@@ -23,6 +23,8 @@ links:
 - title: Others
   url: /Others/
   sublinks:
+  - title: MTL Challeng
+        url: /Others/MTL-Challenge/
   - title: Sales Booth
         url: https://staging-moe-mtls.netlify.app
 
