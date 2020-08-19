@@ -215,6 +215,26 @@ Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, persekitaran da
 <h4  style="font-size:30px;color:green;" >Program-program Bahasa & Budaya Melayu</h4> 
 <p style="font-size:22px;">Bagi menggalakkan penggunaan dan pendedahan pada bahasa Melayu, sertailah program-program bahasa dan budaya yang telah dianjurkan. Bawa bersama keluarga anda menghadiri aktiviti-aktiviti ini. Anda juga boleh melawat tempat-tempat yang disarankan.
 </p>
+<p style="font-size:25px;"> <strong>Majlis Bahasa Melayu Singapura </strong> - Bulan Bahasa 2020 
+  <br/>
+  <ul>
+<li>Ikutilah majlis pelancaran Bulan Bahasa yang akan disiarkan menerusi saluran televisyen Suria, pada Sabtu (5 Sep 2020) pada jam 8.30 malam. 
+</li>
+</ul>
+ <a href="https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa" target="_blank">Majlis Bahasa Melayu Singapura - Bulan Bahasa 
+ </a>
+</p>
+
+  <p style="font-size:25px;"> <strong> Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu </strong>(MLLPC) 
+  <ul><li>Fiesta Bahasa
+</li>
+         <li>Kesantunan Bahasa
+</li>
+         </ul>
+ <a href="https://www.mllpc.sg/signature-or-flagship-programme-fund" target="_blank">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
+ </a>
+</p>
+
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
    <label for="tab-3" class="lbML">Perpustakaan Negara Singapura
@@ -306,28 +326,7 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
 </p>
  </div></div> 
 
-<p style="font-size:25px;"> <strong>Majlis Bahasa Melayu Singapura </strong> - Bulan Bahasa 2020 
-  <br/>
-  <ul>
-<li>Ikutilah majlis pelancaran Bulan Bahasa yang akan disiarkan menerusi saluran televisyen Suria, pada Sabtu (5 Sep 2020) pada jam 8.30 malam. 
-</li>
-</ul>
- <a href="https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa" target="_blank">Majlis Bahasa Melayu Singapura - Bulan Bahasa 
- </a>
-</p>
 
-  <p style="font-size:25px;"> <strong> Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu </strong>(MLLPC) 
-  <ul><li>Fiesta Bahasa
-</li>
-         <li>Kesantunan Bahasa
-</li>
-         </ul>
- <a href="https://www.mllpc.sg/signature-or-flagship-programme-fund 
-" target="_blank">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
- </a>
-</p>
 
- <h4 id="C1"><span style="font-size:30px;color:green;" >Bahan-bahan Menyokong Pembelajaran</span>
-</h4> 
-<img src="/images/ML-Sec_OnlineLearning.png">  
+
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
