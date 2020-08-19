@@ -22,5 +22,7 @@ links:
   url: /OPMTL-AWARD-2020/
 - title: Others
   url: /Others/
-  collection: Others
+  sublinks:
+  - title: Sales Booth
+        url: https://staging-moe-mtls.netlify.app
 
