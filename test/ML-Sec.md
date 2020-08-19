@@ -75,7 +75,7 @@ table.center {
 </style>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/ML-Sec-Header2.jpg">
-<h4> <span style="font-size:30px;"><b>Matlamat Kurikulum Bahasa Melayu</b></span></h4>
+<span style="font-size:30px;"><strong>Matlamat Kurikulum Bahasa Melayu</strong></span>
 
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:Calibri">Bahan Pengajaran Dan Pembelajaran
 </span></a><br/>
