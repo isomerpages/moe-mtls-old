@@ -31,13 +31,13 @@ margin-bottom:10px;
 <img src="/images/TL-PreSch-Header.jpg">
 <p>
 <a href="#C1" style="font-size:20px"><span style="color:blue;text-align:justify;">ஸ்டார்லைட் &nbsp; எழுத்தறிவுத் திட்டம்
- </span></a><br/><br/>
+ </span></a><br/>
 <a href="#C2" style="font-size:20px"><span style="color:blue;text-align:justify;">தாய்மொழிகளுக்கான &nbsp; இளம் &nbsp; மாணவர்களைப் &nbsp; பேணி &nbsp; வளர்க்கும் &nbsp; பணிச்சட்டம்
-  </span></a><br/><br/>
+  </span></a><br/>
 <a href="#C3" style="font-size:20px"><span style="color:blue;text-align:justify;">ஆசிரியர் &nbsp; துணையோடு &nbsp; வாசித்தல் &nbsp; அணுகுமுறை (SHARED BOOK APPROACH)
- </span></a><br/><br/>
+ </span></a><br/>
 <a href="#C4" style="font-size:20px"><span style="color:blue;text-align:justify;">அதிசய &nbsp; வாரத் &nbsp; திட்டப்பணி (WoW Project)
- </span></a><br/><br/>
+ </span></a><br/>
 <a href="#C5" style="font-size:20px"><span style="color:blue;text-align:justify;">பெற்றொருக்கான &nbsp; உதவிக்குறிப்புகள்
 </span></a><br/>
 
