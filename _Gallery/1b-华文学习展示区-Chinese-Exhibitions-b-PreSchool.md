@@ -46,6 +46,7 @@ third_nav_title: '华文学习展示区'
 </head>
 <body>  
  <div><h2 style="font-family:KaiTi;">学前教育中心</h2></div>
+ <img src=/images/MTL-Challenge-Banner.jpeg>
 <table class="tbl">
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -116,7 +117,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab1Line">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4" class="lbCh">MY World @ Simei</label>
+      <label for="tab-4" class="lbCh">MY World @ Simei<br/> &nbsp; </label>
      <div class="tab-content">
       <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">华语教学新策略，合作学习趣味多</h4>
        <p style="font-family:KaiTi;margin:10px;font-size:21px;">
