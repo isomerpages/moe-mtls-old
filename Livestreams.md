@@ -39,4 +39,31 @@ width:80% ;
   <iframe width="560" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
 </div>
-
+<hr/>
+   <div>
+  <p>
+  14:00-15:00<br/>
+  Title for CL<br/>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+  <br/>
+<p>
+  Title for ML<br/>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+    <br/>  
+    <p>
+  Title for TL<br/>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+</div>
+<hr/>  
+   <div>
+  <p>
+  15:30-16:30<br/>
+  Title for EL<br/>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+  <br/>
+      
+      
