@@ -169,26 +169,26 @@ width:100%;
  <div class="row">
  <div class="column">
   <a href="/Gallery/TL-Sec-tlep-sec-infosheet-students-2019.pdf " target="_blank">
-   <p style="color:black;">உயர்நிலைப் பள்ளிகள்
+   <p>உயர்நிலைப் பள்ளிகள்
 <br/>
    <ul>
-    <li>காமன்வெல்த் உயர்நிலைப்பள்ளி
+    <li style="color:black;">காமன்வெல்த் உயர்நிலைப்பள்ளி
 </li>
-     <li>ரிவர்சைடு உயர்நிலைப்பள்ளி
+     <li style="color:black;">ரிவர்சைடு உயர்நிலைப்பள்ளி
 </li>
-     <li>யூசூன் டவுன் உயர்நிலைப்பள்ளி
+     <li style="color:black;">யூசூன் டவுன் உயர்நிலைப்பள்ளி
 </li>
    </ul></p></a>
   </div> 
 
  <div class="column">
  <a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf " target="_blank">
-  <p style="color:black;">தொடக்கக்கல்லூரிகள்
+  <p>தொடக்கக்கல்லூரிகள்
 <br/>
   <ul>
-  <li>ஆண்டர்சன்  <br/>
+  <li style="color:black;">ஆண்டர்சன்  <br/>
    தொடக்கக்கல்லூரி</li>
-    <li>தேசிய தொடக்கக்கல்லூரி
+    <li style="color:black;">தேசிய தொடக்கக்கல்லூரி
 </li>
  </ul>
   </p></a>
