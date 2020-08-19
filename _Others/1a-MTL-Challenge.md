@@ -5,6 +5,14 @@ breadcrumb: 'MTL Challenge'
 collection_name: Others
 ---
 ### MTL Challenge
+<html>
+<body>
+<style>
+  img {
+    height: auto;
+    max-width: 50%;
+}
+  </style>
 <p>What  is MTL Challenge about? <br/>
   This is MTL Challeng . <br/><br/>
   
@@ -18,4 +26,7 @@ collection_name: Others
    How do you win?
    
 </p>
-
+img {
+    height: auto;
+    max-width: 50%;
+}
