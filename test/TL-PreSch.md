@@ -116,11 +116,11 @@ margin-bottom:10px;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/><span style="font-size:18px;">A Day At An MOE Kindergarten
 </span>
-<h4 id="C2"><span style="font-size:30px;color:purple;">தாய்மொழிகளுக்கான இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டம் </span>
+<h4 id="C2"><span style="font-size:30px;color:purple;">தாய்மொழிகளுக்கான &nbsp; இளம் &nbsp; மாணவர்களைப் &nbsp; பேணி &nbsp; வளர்க்கும் &nbsp; பணிச்சட்டம் </span>
 </h4>
 <table>
        <tr>
-         <td><p>தாய்மொழி கற்றல் கற்பித்தலில் தெளிவான புரிந்துணர்வை ஏற்படுத்த இளம் மாணவர்களைப் பேணி வளர்க்கும் தாய்மொழிகளுக்கான பணிச்சட்டம் உருவாக்கப்பட்டுள்ளது. 
+         <td><p style="text-align:justify;">தாய்மொழி கற்றல் கற்பித்தலில் தெளிவான புரிந்துணர்வை ஏற்படுத்த இளம் மாணவர்களைப் பேணி வளர்க்கும் தாய்மொழிகளுக்கான பணிச்சட்டம் உருவாக்கப்பட்டுள்ளது. 
 இந்தப் பணிச்சட்டம், தாய்மொழிகளின் கற்றல், கற்பித்தலுக்கான தொலைநோக்கு, நோக்கங்கள், வழிகாட்டும் கோட்பாடுகள், கற்றல் குறிக்கோள்கள் ஆகியவற்றை எடுத்துரைக்கிறது.
 </p></td>
  <td><img src="/images/TL-PreSch-right4.jpg"> </td>
