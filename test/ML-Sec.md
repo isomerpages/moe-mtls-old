@@ -92,7 +92,7 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
 <table style="width:100%">
   <tr>
     <td><p>Visi Arif Budiman menetapkan satu hala tuju bagi guru dan pelajar Bahasa Melayu untuk membina kefasihan berbahasa dan penghayatan nilai dan budaya Melayu.       
-<br/>
+<br/><br/>
       Di peringkat sekolah menengah, pelajar bahasa Melayu dipupuk untuk mendalami dan menghargai bahasa dan budaya Melayu dalam pelanjutan pembangunan negara. 
 </p></td>
   <td><img src="/images/ML-Sec-update.jpg"><br/>
