@@ -168,7 +168,8 @@ width:100%;
  தமிழ்மொழி விருப்பப்பாடத் திட்டம் கீழ்க்கண்ட உயர்நிலைப் பள்ளிகளிலும் தொடக்கக்கல்லூரிகளிலும் வழங்கப்படுகின்றது. </p><br/>
  <div class="row">
  <div class="column">
-  <a href="/Gallery/TL-Sec-tlep-sec-infosheet-students-2019.pdf " target="_blank"><p>உயர்நிலைப் பள்ளிகள்
+  <a href="/Gallery/TL-Sec-tlep-sec-infosheet-students-2019.pdf " target="_blank">
+   <p style="color:black;">உயர்நிலைப் பள்ளிகள்
 <br/>
    <ul>
     <li>காமன்வெல்த் உயர்நிலைப்பள்ளி
@@ -181,7 +182,8 @@ width:100%;
   </div> 
 
  <div class="column">
- <a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf " target="_blank"><p>தொடக்கக்கல்லூரிகள்
+ <a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf " target="_blank">
+  <p style="color:black;">தொடக்கக்கல்லூரிகள்
 <br/>
   <ul>
   <li>ஆண்டர்சன்  <br/>
