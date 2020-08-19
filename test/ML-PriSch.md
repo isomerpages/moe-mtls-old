@@ -115,7 +115,7 @@ table.center {
 </li>
 </p>
   <img src="/images/MTLS-Malay-PriSch-Malay-Program2.jpg" class="image">  <br/>
-  <p>Jika anak anda berminat dalam bahasa, budaya dan kesusateraan Melayu dan mengambil Bahasa Melayu Lanjutan di dekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon untuk ke sekolah-sekolah EMAS melalui: Direct School Admission (DSA) untuk Bahasa Melayu atau selepas mendapat keputusan PSLE. <br/>
+  <p style="text-align:justify;">Jika anak anda berminat dalam bahasa, budaya dan kesusateraan Melayu dan mengambil Bahasa Melayu Lanjutan di dekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon untuk ke sekolah-sekolah EMAS melalui: Direct School Admission (DSA) untuk Bahasa Melayu atau selepas mendapat keputusan PSLE. <br/>
  Lihat <a href="https://tinyurl.com/emasmlep" target="_blank">https://tinyurl.com/emasmlep </a>
   </p>
  <p id="C1" style="font-size:30px;color:black"><strong>Bahan Pengajaran dan Pembelajaran </strong><br/>
