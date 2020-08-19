@@ -152,7 +152,7 @@ table.center {
       <input id="tab-6" type="checkbox" name="tab">
    <label for="tab-6" class="lbML">Permainan Huruf/Abjad </label>
      <div class="tab-content">
-       <p style="text-align:justify;">Ibu bapa meminta anak memberikan perkataan lain yang bermula dengan huruf terakhir perkataan yang telah disebut.<br/>
+       <p style="text-align:justify;">Ibu bapa meminta anak memberikan perkataan lain yang bermula dengan huruf terakhir perkataan yang telah disebut.<br/><br/>
          Contoh perbualan: 
          <table class="center">
   
@@ -185,7 +185,7 @@ table.center {
    <label for="tab-7" class="lbML">Permainan Kategori </label>
      <div class="tab-content">
        <p style="text-align:justify;">Ibu bapa memberikan satu kategori.   Anak harus memberikan perkataan yang terdapat dalam kategori ini.
-         <br/>Contoh perbualan : 
+         <br/><br/>Contoh perbualan : 
          <br/>
          Kategori – perabot
          <table class="center">
@@ -254,7 +254,7 @@ table.center {
       <input id="tab-10" type="checkbox" name="tab">
    <label for="tab-10" class="lbML">Permainan Meluaskan Ayat </label>
      <div class="tab-content">
-       <p style="text-align:justify;">Ibu bapa memberikan satu ayat tunggal kepada anak.  Kemudian, anak meluaskan ayat itu.  Selepas itu, giliran ibu/bapa pula meluaskan ayat itu.  Begitulah seterusnya hingga ayat itu tidak dapat diluaskan lagi. <br/>
+       <p style="text-align:justify;">Ibu bapa memberikan satu ayat tunggal kepada anak.  Kemudian, anak meluaskan ayat itu.  Selepas itu, giliran ibu/bapa pula meluaskan ayat itu.  Begitulah seterusnya hingga ayat itu tidak dapat diluaskan lagi. <br/><br/>
          Contoh perbualan : 
 
 <table class="center">
