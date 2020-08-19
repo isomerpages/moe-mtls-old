@@ -10,7 +10,7 @@ breadcrumb: Livestreams
     <br/>
     10:00-11:00<br/>
     Title<br/>
-    <a href="exhibition/english-videos/synopsis/">Live Panel discussion</a>
+    <a href="/exhibition/english-videos/synopsis/">Live Panel discussion</a>
   </p>
 
 </div>
