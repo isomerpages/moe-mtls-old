@@ -100,7 +100,7 @@ Kajian neurosains telah membuktikan bahawa pembelajaran akan berhenti apabila ke
  </div></div>
  </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/ML-video-Asnida/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)Opt1B.png"></a>
+  <a href="/test/ML-video-Asnida/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -137,7 +137,7 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
 </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/ML-video-Haniman/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)Opt1B.png"></a>
+  <a href="/test/ML-video-Haniman/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
  </tr>
  <tr>
@@ -173,7 +173,7 @@ Early intervention is important. Parents are often seeking ways to maximise the 
 </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/ML-video-Mariam/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)Opt1B.png"></a>
+  <a href="/test/ML-video-Mariam/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
  </tr>
  <tr>
@@ -215,7 +215,7 @@ Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal b
         </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/ML-video-Salina/"><img class="btnImg" alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)Opt1B.png"></a>
+  <a href="/test/ML-video-Salina/"><img class="btnImg" alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
  </tr>
   <tr>
@@ -250,7 +250,7 @@ Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal b
         </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/ML-video-Hazliana/"><img class="btnImg" alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)Opt1B.png"></a>
+  <a href="/test/ML-video-Hazliana/"><img class="btnImg" alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
    </tr>
    </table>
