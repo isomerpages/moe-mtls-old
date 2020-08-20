@@ -101,7 +101,7 @@ To cultivate students who flourish in our MTL Wonderland, we should not approach
 <p  style="margin:10px;">Our speaker will be sharing a framework for MTL development in an educational ecosystem. The framework draws upon studies in early childhood development, heritage language education, bilingual and biliteracy development, and language immersion education. She offers practical strategies, applicable to daily life and learning, that will guide students towards a healthy self-identity, high proficiency and literacy in MTL and English, and global competency in intergenerational connection and intercultural engagement. 
  <br/>
 </p></div></div></td>  
- <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+ <td style="border:0 none;padding: 0; margin:0;vertical-align:center;" class="btnImg">
   <a href="/test/CL-video-Shuhan/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
