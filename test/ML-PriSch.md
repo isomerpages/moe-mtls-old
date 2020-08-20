@@ -119,7 +119,7 @@ table.center {
  Lihat <a href="https://tinyurl.com/emasmlep" target="_blank">https://tinyurl.com/emasmlep </a>
   </p>
  <p id="C1" style="font-size:30px;color:black"><strong>Bahan Pengajaran dan Pembelajaran </strong><br/>
-  <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran pakej cekap:</span></p>
+  <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran pakej <strong>cekap:</strong></span></p>
   <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
   <label for="tab-2" class="lbML">- Dekat dengan kehidupan murid </label>
