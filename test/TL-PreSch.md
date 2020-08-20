@@ -145,7 +145,7 @@ margin-bottom:10px;
 </li>
           </ul>
 
-</p></td>
+</td>
  <td><img src="/images/TL-PreSch-right5.jpg"> <br/>
 <img src="/images/TL-PreSch-right6.jpg"></td>
          </tr>
