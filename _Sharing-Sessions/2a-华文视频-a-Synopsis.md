@@ -138,7 +138,7 @@ As home parenting and home-based learning become the new normal, parents are spe
 </p>
 </div></div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg13">
+<td style="border:0 none;padding: 0;" class="btnImg13">
   <a href="/test/CL-video-Sun/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
@@ -178,7 +178,7 @@ The speaker will share how the curriculum enables children to learn Chinese in c
 </p>
 </div></div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg13">
+<td style="border:0 none;padding: 0;" class="btnImg13">
   <a href="/test/CL-video-Xu/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
  </tr>
