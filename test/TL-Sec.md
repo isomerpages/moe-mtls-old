@@ -90,16 +90,16 @@ width:100%;
 <a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/TL-Sec_Header.jpg">
 <p>
-<a href="#C1" style="font-size:23px"><span style="color:blue;">2021-ஆம் ஆண்டுத் தமிழ்ப் பாடக்கலைத்திட்ட உருவாக்கம்
+<a href="#C1" style="font-size:20px"><span style="color:blue;">2021-ஆம் ஆண்டுத் தமிழ்ப் பாடக்கலைத்திட்ட உருவாக்கம்
 </span></a><br/>
- <a href="#C2" style="font-size:23px"><span style="color:blue;">இலக்கியம்
+ <a href="#C2" style="font-size:20px"><span style="color:blue;">இலக்கியம்
 </span></a><br/>
-<a href="#C3" style="font-size:23px"><span style="color:blue;">தமிழ்மொழி விருப்பப் பாடத்திட்டம்
+<a href="#C3" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி விருப்பப் பாடத்திட்டம்
 (Tamil Language Elective Programme)
 </span></a><br/>
-<a href="#C4" style="font-size:23px"><span style="color:blue;">இணையம்வழிக் கற்றல்
+<a href="#C4" style="font-size:20px"><span style="color:blue;">இணையம்வழிக் கற்றல்
 </span></a><br/><br/>
-சிங்கப்பூரில் தாய்மொழிக் கல்வி காலத்திற்கேற்பப் பல மாற்றங்களைக் கண்டு வந்துள்ளது. 2005, 2010 ஆகிய ஆண்டுகளில் தாய்மொழிக் கல்வி குறித்த முக்கிய மறு ஆய்வுகள் மேற்கொள்ளப்பட்டன.  இந்த  மறு ஆய்வுகளில் தாய்மொழிக் கல்வி குறித்த முக்கியப் பரிந்துரைகள் முன்வைக்கப்பட்டன. கல்வி அமைச்சு அவற்றை ஏற்று முழுமையாகச் செயற்படுத்தி வருகின்றது.
+<p style="text-align:justify;">சிங்கப்பூரில் தாய்மொழிக் கல்வி காலத்திற்கேற்பப் பல மாற்றங்களைக் கண்டு வந்துள்ளது. 2005, 2010 ஆகிய ஆண்டுகளில் தாய்மொழிக் கல்வி குறித்த முக்கிய மறு ஆய்வுகள் மேற்கொள்ளப்பட்டன.  இந்த  மறு ஆய்வுகளில் தாய்மொழிக் கல்வி குறித்த முக்கியப் பரிந்துரைகள் முன்வைக்கப்பட்டன. கல்வி அமைச்சு அவற்றை ஏற்று முழுமையாகச் செயற்படுத்தி வருகின்றது.
 <br/><br/>
 இதன் அடிப்படையில் தமிழ்மொழி கற்றல் கற்பித்தலை அடுத்தடுத்த மேம்பட்ட நிலைக்குக் கொண்டு செல்ல அரசாங்கத்தின் உதவியோடு தொடர்ந்து பல முயற்சிகள் மேற்கொள்ளப்பட்டு வருகின்றன. சிங்கப்பூரில் தமிழை வாழும் மொழியாக நிலைபெறச் செய்ய வேண்டும் என்பதே இம்முயற்சிகளின் அடிப்படை நோக்கமாகும்.
 </p>
@@ -136,7 +136,7 @@ width:100%;
  <tr>
   <td><p> <strong>இலக்கு </strong>
    <br/>
-   <ul>
+   <ul><p style="text-align:justify;">
     <li> <strong> இலக்கியப் முன்மாதிரிகளை உருவாக்குதல் </strong>
 </li>
     <li>தரமான இலக்கிய ஆற்றலும் <strong>சிந்தனை மீட்சியும் கொண்ட வாசகர்களை வளர்த்தல் </strong>
@@ -168,7 +168,6 @@ width:100%;
  தமிழ்மொழி விருப்பப்பாடத் திட்டம் கீழ்க்கண்ட உயர்நிலைப் பள்ளிகளிலும் தொடக்கக்கல்லூரிகளிலும் வழங்கப்படுகின்றது. </p><br/>
  <div class="row">
  <div class="column">
-  <a href="/Gallery/TL-Sec-tlep-sec-infosheet-students-2019.pdf " target="_blank">
    <p>உயர்நிலைப் பள்ளிகள்
 <br/>
    <ul>
@@ -178,11 +177,12 @@ width:100%;
 </li>
      <li style="color:black;">யூசூன் டவுன் உயர்நிலைப்பள்ளி
 </li>
-   </ul></p></a>
+   </ul>
+  <a href="/Gallery/TL-Sec-tlep-sec-infosheet-students-2019.pdf " target="_blank">TLEP Infosheet - Secondary</a></p>
   </div> 
 
  <div class="column">
- <a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf " target="_blank">
+
   <p>தொடக்கக்கல்லூரிகள்
 <br/>
   <ul>
@@ -191,7 +191,7 @@ width:100%;
     <li style="color:black;">தேசிய தொடக்கக்கல்லூரி
 </li>
  </ul>
-  </p></a>
+<a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf " target="_blank">TLEP Infosheet - JC</a></p> 
    </div> 
    </div>
    <br/>
