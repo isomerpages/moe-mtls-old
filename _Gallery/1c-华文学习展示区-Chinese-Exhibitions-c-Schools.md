@@ -66,7 +66,7 @@ third_nav_title: '华文学习展示区'
 
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg" >
-<a href="/test/Chinese-poster/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+<a href="/test/聚英小学/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@ third_nav_title: '华文学习展示区'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ <a href="/test/孺廊小学/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -106,7 +106,7 @@ third_nav_title: '华文学习展示区'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ <a href="/test/伟林小学/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -125,7 +125,7 @@ third_nav_title: '华文学习展示区'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg" >
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ <a href="/test/育青中学/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -145,7 +145,7 @@ third_nav_title: '华文学习展示区'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ <a href="/test/圣尼各拉女校（中学）/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 </table>
