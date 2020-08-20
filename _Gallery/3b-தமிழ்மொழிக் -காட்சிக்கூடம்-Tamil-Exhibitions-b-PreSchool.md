@@ -63,7 +63,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
- <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
+ <a href="/test/கல்வி-அமைச்சின்-பாலர்-பள்ளி-(ஃபேரர் பார்க்)/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
 </td>
 </tr>
 <tr>
@@ -84,7 +84,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
- <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
+ <a href="/test/கல்வி-அமைச்சின்-பாலர்-பள்ளி-(வோட்டர்வே)/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
 </td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
- <a href="/test/Chinese-poster/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
+ <a href="/test/ராமகிருஷ்ண-மிஷன்-சாரதா-பாலர்-பள்ளி/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
 </td>
 </tr>
 </table>
