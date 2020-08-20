@@ -5,6 +5,24 @@ breadcrumb: 'MTL Challenge'
 collection_name: Others
 ---
 
-<div>
-<img src="images/Coming-soon.jpg" class="Image" width="1000" height="300">
-</div>
+<html>
+<body>
+<style>
+  img {
+    height: auto;
+    max-width: 50%;
+}
+</style>
+<h2>What  is MTL Challenge about? </h2>
+ <p> This is MTL Challenge. <br/><br/>
+  
+  Scan the QR code to access the different MTL Challenge <br/>
+  CL Challenge <br/>
+  <img src="/images/QR-Code_Sample_For-MTL_Challeng.png" ><br/>
+  <br/>
+  ML Challenge <br/>
+  <img src="/images/QR-Code_Sample_For-MTL_Challeng.png"><br/>
+  <br/>
+   How do you win?
+   
+</p>
