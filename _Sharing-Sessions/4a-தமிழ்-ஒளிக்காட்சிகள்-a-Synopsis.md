@@ -177,7 +177,7 @@ max-width:40%;
         Family involvement and support play an integral role in a child’s acquiring a language. This requires collaboration between schools and parents in supporting every step each child takes in learning and developing his/her language skills. Exposure to the Tamil Language at home gives children more opportunities to use the language in everyday life and also enables them to be more confident in using the language. This session will help participants to gain better understanding about the Primary Curriculum and learn how to create authentic opportunities and apply innovative strategies to foster a child’s learning of the Tamil Language at home. </p>
  </div></div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImgZero">
+<td style="border:0 none;padding: 0;" class="btnImg15">
   <a href="/test/TL-video-Mohan/"><div ><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></div></a>
 </td>
  </tr>
@@ -215,7 +215,7 @@ max-width:40%;
 </p>
  </div></div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImgZero">
+<td style="border:0 none;padding: 0;" class="btnImg15">
   <a href="/test/TL-video-Darseni/"><div ><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></div></a>
 </td>
    </tr>
