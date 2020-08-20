@@ -132,7 +132,7 @@ width:80%;
          <li style="font-size:25x;font-family:KaiTi">对本地文化有初步的认识</li></ul>
          </li>
      <li style="font-size:25x;font-family:KaiTi">这套教学资源除了支持幼儿的双语发展，也体现了非常浓厚的本土特色。目前，教育部幼儿园都在课堂内使用这套教学资源。</li>
-     <li style="font-size:25x;font-family:KaiTi">大图书共享阅读是教育部幼儿园课堂内使用的教学法。共享阅读让幼儿享受阅读的乐趣，并鼓励幼儿通过有趣的活动，掌握听、说、读的能力。欲知教学步骤，请点击<a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Chi/NEL-Big-Book-Chinese-Teaching-Steps.pdf" style="font-family:KaiTi;">此处</a>.</li></p>
+     <li style="font-size:25x;font-family:KaiTi">大图书共享阅读是教育部幼儿园课堂内使用的教学法。共享阅读让幼儿享受阅读的乐趣，并鼓励幼儿通过有趣的活动，掌握听、说、读的能力。欲知教学步骤，请点击<a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Chi/NEL-Big-Book-Chinese-Teaching-Steps.pdf" target="_blank" style="font-family:KaiTi;">此处</a>.</li></p>
 </ol>
 </td>
 <td>
@@ -144,7 +144,7 @@ width:80%;
   <iframe width="560" height="315" src="https://www.youtube.com/embed/lnlNM2YJcOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br/><span style="font-size:18px;font-family:KaiTi">大图书共享阅读视频</span></center>
   <br/><br/>
 <img src="/images/CL-PreSch-Discovery.jpg"> <br/>
-<span style="font-size:18px;font-family:KaiTi">欲了解“奥秘探索周”计划的活动点子设计，请阅读相关活动设计<a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Activity%20Ideas/Chinese/PDF/K2/2018/NEL-Portal-Big-Book-Activity-Ideas-%E5%A4%A7-%E5%9B%BE-%E4%B9%A6-%E8%B5%84-%E6%BA%90-%E6%88%91-%E4%B9%9F-%E8%A6%81-%E5%AD%A6-MK@PV-%E6%AD%A6-%E6%9C%AF.pdf" target:"_blank" style="font-family:KaiTi">“我的爱好是武术”</a>和<a href="https://www.nel.moe.edu.sg/qql/slot/u577/%E4%BC%A0%E7%BB%9F%E7%BE%8E%E9%A3%9F%E4%B8%8E%E9%A5%AE%E9%A3%9F%E6%96%87%E5%8C%96/NEL%20Portal%20%E5%8D%B0%E5%BA%A6%E7%85%8E%E9%A5%BC_Punggol%20View.pdf" target:"_blank" style="font-family:KaiTi;"“印度煎饼”</a>。
+<span style="font-size:18px;font-family:KaiTi">欲了解“奥秘探索周”计划的活动点子设计，请阅读相关活动设计<a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Activity%20Ideas/Chinese/PDF/K2/2018/NEL-Portal-Big-Book-Activity-Ideas-%E5%A4%A7-%E5%9B%BE-%E4%B9%A6-%E8%B5%84-%E6%BA%90-%E6%88%91-%E4%B9%9F-%E8%A6%81-%E5%AD%A6-MK@PV-%E6%AD%A6-%E6%9C%AF.pdf" target="_blank" style="font-family:KaiTi">“我的爱好是武术”</a>和<a href="https://www.nel.moe.edu.sg/qql/slot/u577/%E4%BC%A0%E7%BB%9F%E7%BE%8E%E9%A3%9F%E4%B8%8E%E9%A5%AE%E9%A3%9F%E6%96%87%E5%8C%96/NEL%20Portal%20%E5%8D%B0%E5%BA%A6%E7%85%8E%E9%A5%BC_Punggol%20View.pdf" target="_blank" style="font-family:KaiTi;"“印度煎饼”</a>。
 <h4 id="C3"><span style="font-family:KaiTi;font-size:35px;" >居家活动好点子</span></h4>
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
