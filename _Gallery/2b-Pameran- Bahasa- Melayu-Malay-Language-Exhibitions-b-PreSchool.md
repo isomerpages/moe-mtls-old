@@ -41,6 +41,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
     }
 </style>
 </head>
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <body>
   <table class="tbl">
 <tr>
