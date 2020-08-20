@@ -71,8 +71,8 @@ table.center {
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/ML_Header2.jpg">
 <p>
- <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:Calibri">Bahan Pengajaran Dan Pembelajaran</span></a><br/>
- <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:Calibri">Sokongan Ibu Bapa</span></a>
+ <a href="#C1" style="font-size:20px"><span style="color:blue;font-family:Calibri">Bahan Pengajaran Dan Pembelajaran</span></a><br/>
+ <a href="#C2" style="font-size:20px"><span style="color:blue;font-family:Calibri">Sokongan Ibu Bapa</span></a>
 </p>
 <img src="/images/MTLS-Malay-Matalamat-Kurikulum-Bahasa-Melayu2.jpg">
 <br/>
