@@ -1,5 +1,5 @@
 ---
-title: 'Poster 01'
+title: '爱加倍实龙岗分校'
 permalink: /test/Chinese-poster/
 breadcrumb: 'Poster 01'
 ---
