@@ -1,11 +1,16 @@
 ---
-title: 'ML-Sec'
+title: 'Pendidikan Bahasa Melayu (Sekolah Menengah)'
 permalink: /test/ML-Sec/
-breadcrumb: 'ML Sec'
+breadcrumb: 'Pendidikan Bahasa Melayu (Sekolah Menengah)'
 ---
 <html>
 <body>
 <style>
+  table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
    * {
   box-sizing: border-box;
 }
@@ -23,10 +28,11 @@ breadcrumb: 'ML Sec'
      border-collapse: collapse;
 }
 
-td, th {
+td {
   border: 1px ;
   text-align: center;
   padding: 8px;
+  width:60%;
 }
 table.center {
   margin-left:auto; 
@@ -68,24 +74,25 @@ table.center {
 }
 </style>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
-<img src="/images/ML-Sec-Header.jpg">
-<h4  style="font-size:30px;color:green;" >Matlamat Kurikulum Bahasa Melayu</h4>
-<h5  style="font-size:25px;color:green;" >Memupuk Pelajar Aktif Dan Pengguna Cekap (Pembelajaran Yang Menyeronokkan)</h5>
- <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Bahan Pengajaran Dan Pembelajaran
+<img src="/images/ML-Sec-Header2.jpg">
+<p style="font-size:30px;"><strong>Matlamat Kurikulum Bahasa Melayu</strong></p>
+
+ <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:Calibri">Bahan Pengajaran Dan Pembelajaran
 </span></a><br/>
- <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Sokongan Ibu Bapa
+ <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:Calibri">Sokongan Ibu Bapa
 </span></a>
-<p>Kurikulum Bahasa Melayu Peringkat Sekolah Menengah bertujuan melengkapkan pelajar dengan kecekapan berkomunikasi dan menjalin hubungan dengan pihak lain dalam konteks kehidupan di Singapura, rantau dan dunia.
-<br/>
+<h5  style="font-size:25px;color:green;">Memupuk Pelajar Aktif Dan Pengguna Cekap (Pembelajaran Yang Menyeronokkan)</h5>
+<p style="text-align:justify;">Kurikulum Bahasa Melayu Peringkat Sekolah Menengah bertujuan melengkapkan pelajar dengan kecekapan berkomunikasi dan menjalin hubungan dengan pihak lain dalam konteks kehidupan di Singapura, rantau dan dunia.
+<br/><br/>
 Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengguna bahasa yang cekap ialah: 
 <img src="/images/ML-Sec-Funlearning.jpg"><br/>
-  <span style="Font size: 25px; color: green">Visi Pendidikan Bahasa Melayu Singapura
+  <span style="Font size: 28px; color: green">Visi Pendidikan Bahasa Melayu Singapura
 </span><br/>
-  <strong> Arif Budiman </strong> (Insan berilmu pengetahuan yang berbakti kepada masyarakat) 
+  <strong> Arif Budiman </strong>(Insan berilmu pengetahuan yang berbakti kepada masyarakat) 
 <table style="width:100%">
   <tr>
     <td><p>Visi Arif Budiman menetapkan satu hala tuju bagi guru dan pelajar Bahasa Melayu untuk membina kefasihan berbahasa dan penghayatan nilai dan budaya Melayu.       
-<br/>
+<br/><br/>
       Di peringkat sekolah menengah, pelajar bahasa Melayu dipupuk untuk mendalami dan menghargai bahasa dan budaya Melayu dalam pelanjutan pembangunan negara. 
 </p></td>
   <td><img src="/images/ML-Sec-update.jpg"><br/>
@@ -95,17 +102,17 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
 </p>
 <p style="font-size:25px; color: green">Nilai Budaya Arif Budiman
   <br/>
-  <span style="font-size:25px;color:black;">Ciri-ciri seseorang yang <strong> Arif Budiman: </strong>
-</span><br/>
 <table style="width:100%">
   <tr>
-    <td><p>Pendidikan Bahasa Melayu di peringkat menengah dilaksanakan dengan berpandukan nilai dan budaya masyarakat Melayu yang meliputi seni dan artifak, institusi, nilai dan kepercayaan serta bahasa dan kesusasteraan Melayu. 
+    <td><p><span style="font-size:20px;text-align:justify;">Ciri-ciri seseorang yang <strong> Arif Budiman: </strong>
+</span><br/>
+      Pendidikan Bahasa Melayu di peringkat menengah dilaksanakan dengan berpandukan nilai dan budaya masyarakat Melayu yang meliputi seni dan artifak, institusi, nilai dan kepercayaan serta bahasa dan kesusasteraan Melayu. 
 </p></td>
-    <td> <img src="/images/ML-Sec-Update3.png"></td>
+    <td> <img src="/images/ML-Sec-Framework.png"></td>
   </tr>
   </table>
 </p>
-<h4 id="C1"><span style="font-size:25px;color:green;" >Gambaran Menyeluruh Kurikulum Bahasa Ibunda </span>
+<h4><span style="font-size:25px;color:green;" >Gambaran Menyeluruh Kurikulum Bahasa Ibunda </span>
 </h4>
 <img src="/images/ML-Sec-Gambaran.jpg"><br/>
 <p style="font-size:25px; color: green">Tonton video di bawah ini bagi informasi selanjutnya. <br/><br/>
@@ -115,7 +122,7 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
 </p>
 <h4  style="font-size:30px;color:green;" >Program Elektif Bahasa Melayu Sekolah Menengah
 </h4>
-<p>Jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS.
+<p style="text-align:justify;">Jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS.
 </p>
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
@@ -143,7 +150,7 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
      <li>Pendedahan Seni dan Budaya
 </li>
     </ul>
-  <a href="#" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu
+  <a href="https://sites.google.com/view/emasmlep/home?authuser=0" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu
  </a>
    </p>  </div></div>
    
@@ -180,87 +187,62 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
 </li>
     </ul>
    </p>  </div></div>
-   <h4  style="font-size:30px;color:green;" >Bahan Pengajaran dan Pembelajaran
-</h4>
-<p>Tonton video pengenalan tentang bahan-bahan pengajaran bahasa Melayu sekolah menengah.<br/>
+   <h4 id="C1"><p style="font-size:30px;"><strong>Bahan Pengajaran dan Pembelajaran</strong></p></h4>
+<p style="text-align:justify;">Tonton video pengenalan tentang bahan-bahan pengajaran bahasa Melayu sekolah menengah.<br/>
   <br/>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZANW_F4at9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-   <h4 id="C2"><span style="font-size:30px;color:green;">Sokongan Ibu Bapa</span>
-</h4>
-Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, persekitaran dan sokongan yang berterusan. Pembelajaran bahasa Melayu akan menjadi lebih menyeronokkan dan bermakna. Berikut ialah beberapa peranan yang boleh anda amalkan dalam usaha ini. <br/>
-<img src="/images/ML-Sec-Parents.jpg">
-<h4  style="font-size:30px;color:green;" >Program-program Bahasa & Budaya Melayu</h4> 
-<p style="font-size:25px;">Bagi menggalakkan penggunaan dan pendedahan pada bahasa Melayu, sertailah program-program bahasa dan budaya yang telah dianjurkan. Bawa bersama keluarga anda menghadiri aktiviti-aktiviti ini. Anda juga boleh melawat tempat-tempat yang disarankan.
+<p style="font-size:25px; color:green">Bahan sokongan dalam talian:
+<br/>
+<img src="/images/iMTL-Sec-image"><br/>
+  <img src="/images/SLS-image"><br/>
 </p>
-   <div class="atab">
-      <input id="tab-3" type="checkbox" name="tab">
-   <label for="tab-3" class="lbML">Majlis Bahasa Melayu Singapura - Bulan Bahasa 
-</label>
-     <div class="tab-content"> 
-   <p style="font-size:20px;">Tema 2020, ‘Cita. Citra. Cinta. Bahasa Kita.’ ~ menggambarkan langkah kita mengharungi era baharu
- <a href="#" target="_blank">Majlis Bahasa Melayu Singapura - Bulan Bahasa 
+   <h4 id="C2"><span style="font-size:30px;color:black;"><strong>Sokongan Ibu Bapa</strong></span>
+</h4>
+<p style="font-size:22px;">
+Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, sediakan persekitaran dan sokongan yang berterusan. Hal ini akan menjadikan pembelajaran bahasa Melayu lebih menyeronokkan dan bermakna. Anda boleh amalkan beberapa peranan berikut dalam mencapai usaha ini.</p> <br/>
+
+<img src="/images/Motivator.png"><br/>
+<img src="/images/Role-Model.png"><br/>
+<img src="/images/Facilitator.png"><br/>
+<p>Sila rujuk lampiran-lampiran ini sekiranya ingin tahu lebih lanjut,
+<br/>
+  <a href="https://beta.moe.gov.sg/uploads/secondary-school-education-booklet-malay.pdf" target="_blank">https://beta.moe.gov.sg/uploads/secondary-school-education-booklet-malay.pdf</a><br/><br/>
+   <a href="https://www.schoolbag.sg/docs/default-source/default-document-library/(ml)mlpg2016.pdf" target="_blank">https://www.schoolbag.sg/docs/default-source/default-document-library/(ml)mlpg2016.pdf </a><br/>
+   
+</p>
+<h4  style="font-size:30px;color:green;" >Program-program Bahasa & Budaya Melayu</h4> 
+<p style="font-size:22px;">Bagi menggalakkan penggunaan dan pendedahan pada bahasa Melayu, sertailah program-program bahasa dan budaya yang telah dianjurkan. Bawa bersama keluarga anda menghadiri aktiviti-aktiviti ini. Anda juga boleh melawat tempat-tempat yang disarankan.
+</p>
+<p style="font-size:25px;"> <strong>Majlis Bahasa Melayu Singapura </strong> - Bulan Bahasa 2020 
+  <br/>
+  <ul>
+<li>Ikutilah majlis pelancaran Bulan Bahasa yang akan disiarkan menerusi saluran televisyen Suria, pada Sabtu (5 Sep 2020) pada jam 8.30 malam. 
+</li>
+</ul>
+ <a href="https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa" target="_blank">Majlis Bahasa Melayu Singapura - Bulan Bahasa 
  </a>
 </p>
- </div></div> 
-   <div class="atab">
-      <input id="tab-4" type="checkbox" name="tab">
-   <label for="tab-4" class="lbML">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
-</label>
-     <div class="tab-content"> 
-   <p style="font-size:25px;">
-       <ul><li>Fiesta Bahasa
+
+  <p style="font-size:25px;"> <strong> Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu </strong>(MLLPC) 
+  <ul><li>Fiesta Bahasa
 </li>
          <li>Kesantunan Bahasa
 </li>
          </ul>
- <a href="#" target="_blank">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
+ <a href="https://www.mllpc.sg/signature-or-flagship-programme-fund" target="_blank">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
  </a>
 </p>
- </div></div> 
-  
-   <div class="atab">
-      <input id="tab-5" type="checkbox" name="tab">
-   <label for="tab-5" class="lbML">Taman Warisan Melayu 
-
-</label>
-     <div class="tab-content"> 
-   <p style="font-size:25px;">
-       <ul><li>Pameran Tetap – 6 galeri
-</li>
-         <li>Pameran Khas - Seekor Singa, Seorang Putera dan Sebingkai Cermin: Pantulan dan Biasan Singapura
-</li>
-         </ul>
- <a href="#" target="_blank">Taman Warisan Melayu  (MLLPC)
- </a>
-</p>
- </div></div> 
- 
-  <div class="atab">
-      <input id="tab-6" type="checkbox" name="tab">
-   <label for="tab-6" class="lbML">Muzium Negara Singapura 
-
-</label>
-     <div class="tab-content"> 
-   <p style="font-size:25px;">
-       <ul><li>Pameran tetap – 4 galeri   
-</li>
-         <li>Pameran Khas – Khazanah Dunia dari Muzium British
-</li>
-         </ul>
- <a href="#" target="_blank">Muzium Negara Singapura 
- </a>
-</p>
- </div></div> 
-
 
 <div class="atab">
-      <input id="tab-7" type="checkbox" name="tab">
-   <label for="tab-7" class="lbML">Perpustakaan Negara Singapura
+      <input id="tab-3" type="checkbox" name="tab">
+   <label for="tab-3" class="lbML">Perpustakaan Negara Singapura
 
 </label>
      <div class="tab-content"> 
    <p style="font-size:25px;">
+     <a href="https://www.facebook.com/groups/MalayLibraryServices.SG" target="_blank">Perpustakaan Negara Singapura
+ </a><br/>
        <ul><li>Mari Bercerita – Setiap Minggu <br/> 
 Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
          <li>Saranan Bacaan – 2 kali setiap bulan  <br/>
@@ -279,18 +261,18 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
 (Ikut Jadual Khas) 
 </li>
          </ul>
- <a href="#" target="_blank">Perpustakaan Negara Singapura
- </a>
+ 
 </p>
  </div></div> 
-   
-   <div class="atab">
-      <input id="tab-8" type="checkbox" name="tab">
-   <label for="tab-8" class="lbML">Esplanade – Siri Pentas  
+ <div class="atab">
+      <input id="tab-4" type="checkbox" name="tab">
+   <label for="tab-4" class="lbML">Esplanade – Siri Pentas  
 
 </label>
      <div class="tab-content"> 
    <p style="font-size:25px;">
+      <a href="https://www.esplanade.com/festivals-and-series/pentas/2020" target="_blank">Esplanade – Siri Pentas 
+ </a><br/>
        <ul>
          <li>Cipta Cita - aneka jenis kesenian dan alami kepelbagaian dan kekayaan dunia Melayu.
 </li>
@@ -304,11 +286,46 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
 
 </li>
          </ul>
- <a href="#" target="_blank">Esplanade – Siri Pentas 
- </a>
+
 </p>
  </div></div> 
-   <h4 id="C3"><span style="font-size:30px;color:green;" >Bahan-bahan Menyokong Pembelajaran</span>
-</h4> 
-<img src="/images/ML-Sec_OnlineLearning.png">  
+  <div class="atab">
+      <input id="tab-5" type="checkbox" name="tab">
+   <label for="tab-5" class="lbML">Taman Warisan Melayu 
+
+</label>
+     <div class="tab-content"> 
+   <p style="font-size:25px;">
+     <a href="https://www.malayheritage.org.sg/en/whats-on " target="_blank">Taman Warisan Melayu  (MLLPC)
+ </a><br/>
+       <ul><li>Pameran Tetap – 6 galeri
+</li>
+         <li>Pameran Khas - Seekor Singa, Seorang Putera dan Sebingkai Cermin: Pantulan dan Biasan Singapura
+</li>
+         </ul>
+ 
+</p>
+ </div></div> 
+ 
+  <div class="atab">
+      <input id="tab-6" type="checkbox" name="tab">
+   <label for="tab-6" class="lbML">Muzium Negara Singapura 
+
+</label>
+     <div class="tab-content"> 
+   <p style="font-size:25px;">
+      <a href="https://www.nhb.gov.sg/nationalmuseum/~/media/nms/documents/national-museum-of-singapore-guide/national-museum-of-singapore-guide-bahasa-melayu.pdf?la=en" target="_blank">Muzium Negara Singapura 
+ </a><br/>
+       <ul><li>Pameran tetap – 4 galeri   
+</li>
+         <li>Pameran Khas – Khazanah Dunia dari Muzium British
+</li>
+         </ul>
+
+</p>
+ </div></div> 
+
+
+
+
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>

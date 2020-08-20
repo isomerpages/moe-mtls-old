@@ -52,7 +52,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab1Line">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbML"> Berita Harian</label>
+      <label for="tab-1" class="lbML"> Berita Harian<br/> &nbsp;</label>
       <div class="tab-content">
       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Apakah yang Berlaku pada Persekitaran Kita?</h4>
       <p style="margin:10px;">
@@ -224,7 +224,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab1Line">
       <input id="tab-9" type="checkbox" name="tab">
-      <label for="tab-9" class="lbML">Wildlife Reserves Singapore</label>
+      <label for="tab-9" class="lbML">Wildlife Reserves Singapore <br/> &nbsp;</label>
       <div class="tab-content">
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Keajaiban Alam Haiwan</h4>
         <p style="margin:10px;">

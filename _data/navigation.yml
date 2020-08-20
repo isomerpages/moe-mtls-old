@@ -17,5 +17,9 @@ links:
     url: /Exhibition/Pre-School Cluster
 - title: Others
   url: /Others/
-  collection: Others
+  sublinks:
+  - title: MTL Challenge
+    url: /Others/MTL-Challenge/
+  - title: Sales Booth
+    url: https://yuyi.com.sg/pages/mother-tongue-languages-symposium-mtls
 

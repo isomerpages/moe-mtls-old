@@ -1,7 +1,7 @@
 ---
-title: 'ML PreSch'
+title: 'Pendidikan Bahasa Melayu (Prasekolah)'
 permalink: /test/ML-PreSch/
-breadcrumb: 'ML PreSch'
+breadcrumb: 'Pendidikan Bahasa Melayu (Prasekolah)'
 ---
 <html>
 <body>
@@ -81,7 +81,7 @@ width:80% ;
 }
 </style>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
-<img src="/images/ML-PreSch-Header.jpg"><br/>
+<img src="/images/ML-PreSch-Header2.jpg"><br/>
 <a href="#C1" style="font-size:20px"><span style="color:blue;">Program Literasi Bintang Kecil
 </span></a><br/>
  <a href="#C2" style="font-size:20px"><span style="color:blue;">Pendekatan Membaca Bersama

@@ -1,7 +1,7 @@
 ---
 title: 'Pendidikan Bahasa Melayu (Sekolah Rendah)'
 permalink: /test/ML-PriSch/
-breadcrumb: 'ML PriSch'
+breadcrumb: 'Pendidikan Bahasa Melayu (Sekolah Rendah)'
 ---
 <html>
 <body>
@@ -71,8 +71,8 @@ table.center {
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/ML_Header2.jpg">
 <p>
- <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Bahan Pengajaran Dan Pembelajaran</span></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:KaiTi">Sokongan Ibu Bapa</span></a>&nbsp;&nbsp;
+ <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:Calibri">Bahan Pengajaran Dan Pembelajaran</span></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:Calibri">Sokongan Ibu Bapa</span></a>&nbsp;&nbsp;
 </p>
 <img src="/images/MTLS-Malay-Matalamat-Kurikulum-Bahasa-Melayu2.jpg">
 <br/>
@@ -115,32 +115,32 @@ table.center {
 </li>
 </p>
   <img src="/images/MTLS-Malay-PriSch-Malay-Program2.jpg" class="image">  <br/>
-  <p>Jika anak anda berminat dalam bahasa, budaya dan kesusateraan Melayu dan mengambil Bahasa Melayu Lanjutan di dekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon untuk ke sekolah-sekolah EMAS melalui: Direct School Admission (DSA) untuk Bahasa Melayu atau selepas mendapat keputusan PSLE. <br/>
+  <p style="text-align:justify;">Jika anak anda berminat dalam bahasa, budaya dan kesusateraan Melayu dan mengambil Bahasa Melayu Lanjutan di dekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon untuk ke sekolah-sekolah EMAS melalui: Direct School Admission (DSA) untuk Bahasa Melayu atau selepas mendapat keputusan PSLE. <br/>
  Lihat <a href="https://tinyurl.com/emasmlep" target="_blank">https://tinyurl.com/emasmlep </a>
   </p>
  <p id="C1" style="font-size:30px;color:black"><strong>Bahan Pengajaran dan Pembelajaran </strong><br/>
   <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran cekap:</span></p>
   <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-   <label for="tab-2" class="lbML">dekat dengan kehidupan murid</label>
+  <label for="tab-2" class="lbML">- Dekat dengan kehidupan murid </label>
      <div class="tab-content">
        <img src="/images/MTLS-Malay-PriSch-kehidupan-murid2.jpg">  
        </div></div>
        <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-   <label for="tab-3" class="lbML">kaya dan pelbagai</label>
+   <label for="tab-3" class="lbML">- Kaya dan pelbagai</label>
      <div class="tab-content">
        <img src="/images/MTLS-Malay-Pri-Sch-Pelbagai2.jpg">  
        </div></div>
        <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-   <label for="tab-4" class="lbML">Melibatkan murid secara aktif</label>
+   <label for="tab-4" class="lbML">- Melibatkan murid secara aktif</label>
      <div class="tab-content">
        <img src="/images/ML-meli.png">  
        </div></div>
        <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-   <label for="tab-5" class="lbML">berdasarkan situasi sebenar dan bermakna</label>
+   <label for="tab-5" class="lbML">- Berdasarkan situasi sebenar dan bermakna</label>
      <div class="tab-content">
        <img src="/images/ML-10.png">  
        </div></div>
@@ -152,28 +152,28 @@ table.center {
       <input id="tab-6" type="checkbox" name="tab">
    <label for="tab-6" class="lbML">Permainan Huruf/Abjad </label>
      <div class="tab-content">
-       <p style="text-align:justify;">Ibu bapa meminta anak memberikan perkataan lain yang bermula dengan huruf terakhir perkataan yang telah disebut.<br/>
+       <p style="text-align:justify;">Ibu bapa meminta anak memberikan perkataan lain yang bermula dengan huruf terakhir perkataan yang telah disebut.<br/><br/>
          Contoh perbualan: 
          <table class="center">
   
   <tr>
-    <td>Ibu/Bapa</td>
+    <td>Ibu/Bapa:</td>
     <td>tika<span style="color:red">r</span></td>
    
   </tr>
   
   <tr>
-    <td>Anak  </td>
+    <td>Anak:  </td>
     <td><span style="color:red">r</span>ot<span style="color:red">i</span></td>
 
   </tr>
   <tr>
-    <td>Ibu/Bapa </td>
+    <td>Ibu/Bapa: </td>
     <td><span style="color:red">i</span>ka<span style="color:red">n</span></td>
     
   </tr>
   <tr>
-    <td>Anak </td>
+    <td>Anak: </td>
     <td><span style="color:red">n</span>as<span style="color:red">i</span></td>
    
   </tr>
@@ -185,24 +185,24 @@ table.center {
    <label for="tab-7" class="lbML">Permainan Kategori </label>
      <div class="tab-content">
        <p style="text-align:justify;">Ibu bapa memberikan satu kategori.   Anak harus memberikan perkataan yang terdapat dalam kategori ini.
-         <br/>Contoh perbualan : 
+         <br/><br/>Contoh perbualan : 
          <br/>
          Kategori – perabot
          <table class="center">
   <tr>
-    <td>Ibu/Bapa</td>
+    <td>Ibu/Bapa:</td>
   <td>katil</td>
   </tr>
   <tr>
-    <td>Anak  </td>
+    <td>Anak:  </td>
   <td>almari</td>
   </tr>
   <tr>
-    <td>Ibu/Bapa </td>
+    <td>Ibu/Bapa:</td>
   <td>kerusi</td>
   </tr>
   <tr>
-    <td>Anak </td>
+    <td>Anak: </td>
     <td>meja</td>
   </tr>
 </table>
@@ -216,19 +216,19 @@ table.center {
 <table class="center">
   
   <tr>
-    <td>Ibu/Bapa</td>
+    <td>Ibu/Bapa:</td>
   <td>ro<strong>ti</strong></td>
  </tr>
   <tr>
-    <td>Anak  </td>
+    <td>Anak:  </td>
   <td><strong>ti</strong>lam</td>
 </tr>
   <tr>
-    <td>Ibu/Bapa </td>
+    <td>Ibu/Bapa: </td>
   <td><strong>lam</strong>pu</td>
   </tr>
   <tr>
-    <td>Anak </td>
+    <td>Anak: </td>
   <td><strong>pu</strong>sing</td>
    </tr>
 </table>
@@ -241,10 +241,10 @@ table.center {
    <label for="tab-9" class="lbML">Permainan Membina Ayat </label>
      <div class="tab-content">
        <p style="text-align:justify;">Ibu bapa boleh memberikan satu perkataan atau beberapa perkataan secara lisan atau bertulis kepada anak anda (mengikut keupayaan anak membina ayat). Kemudian ibu bapa meminta anak anda membina ayat dengan perkataan yang diberikan.<br/><br/>
-         Contoh perbualan 1 : kereta
+         Contoh perbualan 1 : <span style="background-color:green;color:white;"> kereta </span>
 <br/>
          <strong>Kereta </strong> itu berwarna merah.<br/><br/>
-         Contoh perbualan 2 : kereta laju
+         Contoh perbualan 2 : <span style="background-color:green;color:white;"> kereta </span>&nbsp; <span style="background-color:green;color:white;"> laju </span>
  <br/>
          <strong>Kereta</strong> Ayah bergerak dengan <strong>laju.</strong><br/>
 </p>
@@ -254,25 +254,25 @@ table.center {
       <input id="tab-10" type="checkbox" name="tab">
    <label for="tab-10" class="lbML">Permainan Meluaskan Ayat </label>
      <div class="tab-content">
-       <p style="text-align:justify;">Ibu bapa memberikan satu ayat tunggal kepada anak.  Kemudian, anak meluaskan ayat itu.  Selepas itu, giliran ibu/bapa pula meluaskan ayat itu.  Begitulah seterusnya hingga ayat itu tidak dapat diluaskan lagi. <br/>
+       <p style="text-align:justify;">Ibu bapa memberikan satu ayat tunggal kepada anak.  Kemudian, anak meluaskan ayat itu.  Selepas itu, giliran ibu/bapa pula meluaskan ayat itu.  Begitulah seterusnya hingga ayat itu tidak dapat diluaskan lagi. <br/><br/>
          Contoh perbualan : 
 
 <table class="center">
    <tr>
-    <td>Ibu/Bapa</td>
+    <td>Ibu/Bapa:</td>
   <td>Ayah pergi ke kedai.</td>
  </tr>
   <tr>
-    <td>Anak  </td>
+    <td>Anak:  </td>
   <td><span style="color:red">Pada hari Ahad </span>, Ayah pergi ke kedai.</td>
 </tr>
   <tr>
-    <td>Ibu/Bapa </td>
+    <td>Ibu/Bapa: </td>
     <td> Pada hari Ahad, Ayah pergi ke kedai <span style="color:red"> bersama Ibu</span>.</td>
    
   </tr>
   <tr>
-    <td>Anak </td>
+    <td>Anak: </td>
   <td>Pada hari Ahad, Ayah pergi ke kedai bersama Ibu  <span style="color:red">untuk  membeli tepung, susu dan gula </span></td>
    </tr>
 </table>
