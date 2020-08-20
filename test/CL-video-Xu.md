@@ -10,7 +10,9 @@ breadcrumb: 'CL video Xu'
 height:auto;
 max-width:20%;
 }
-</style></head>
+</style>
+  </head>
+  <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
   <body>  
 <a href="https://staging-moe-mtls.netlify.app/exhibition/chinese-sessions/synopsis/" style="float:right;">Back</a>
 <div class="video-container">
