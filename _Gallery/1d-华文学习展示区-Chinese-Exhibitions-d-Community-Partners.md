@@ -40,6 +40,7 @@ third_nav_title: '华文学习展示区'
     }
 </style>
 </head>
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <body>
     <div><h2 style="font-family:KaiTi">社区合作伙伴</h2></div>
   <table class="tbl">
