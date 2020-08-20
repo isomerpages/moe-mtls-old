@@ -100,7 +100,7 @@ Kajian neurosains telah membuktikan bahawa pembelajaran akan berhenti apabila ke
 </p>
  </div></div>
  </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+<td style="border:0 none;padding: 0;" class="btnImg45">
   <a href="/test/ML-video-Asnida/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
@@ -173,7 +173,7 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
 Early intervention is important. Parents are often seeking ways to maximise the learning and developmental potential of their children. Over these last few decades, neuro-psychological research has established several important facts about the cognitive development of young children. However, myths and misconceptions regarding brain development still persist. In this talk, A/P Mariam Aljunied will help dispel these myths and clarify the facts about children’s neuro-psychological development. She will provide insights on the cognitive effects of growing up bilingual, and in particular, why the learning of two or more languages can enhance cognition. Several tips for parents will be shared as to what they can do to facilitate and enhance children’s language and communication abilities, as well as what parents should do if children show early warning signs of language and communication difficulties.</p>
 </div></div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImgZero">
+<td style="border:0 none;padding: 0;" class="btnImg15">
   <a href="/test/ML-video-Mariam/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
  </tr>
@@ -215,7 +215,7 @@ Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal b
       ‘There are many little ways to enlarge a child’s world. A love of books is the best of all’. In this unprecedented time, teaching and learning has taken on new forms. As we ease ourselves into this new norm, this quotation from Jacqueline Kennedy is more relevant than ever. This session hopes to provide parents and teachers with an opportunity to look at how children  learn to read in MTL in a different and more critical way. There are no limits to the curricular strategies and learning tools that teachers and parents can leverage on as we guide our little charges to enjoy reading in MTL.</p>
         </div></div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImgZero">
+<td style="border:0 none;padding: 0;" class="btnImg15">
   <a href="/test/ML-video-Salina/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
  </tr>
@@ -250,7 +250,7 @@ Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal b
 </p>
         </div></div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImgZero">
+<td style="border:0 none;padding: 0;" class="btnImg15">
   <a href="/test/ML-video-Hazliana/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
    </tr>
