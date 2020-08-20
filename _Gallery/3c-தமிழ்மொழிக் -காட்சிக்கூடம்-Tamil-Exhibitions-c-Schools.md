@@ -42,6 +42,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
     }
 </style>
 </head>
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <body>
   <table class="tbl">
 <tr>
