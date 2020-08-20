@@ -60,7 +60,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
  max-width:50%
  }
 </style>
-  
+  <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
 <div class="tab">
   <a href="/test/ML-PreSch/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass lbML1">Prasekolah</div></a>
