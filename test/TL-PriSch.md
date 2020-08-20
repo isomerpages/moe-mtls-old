@@ -22,11 +22,11 @@ td{
 <a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/TL-Header.jpg">
 <p>
-<a href="#C1" style="font-size:25px"><span style="color:blue;">கல்வி அமைச்சின் தொடக்கப்பள்ளிப் பாடக்கலைத்திட்டம் 
+<a href="#C1" style="font-size:20px"><span style="color:blue;">கல்வி அமைச்சின் தொடக்கப்பள்ளிப் பாடக்கலைத்திட்டம் 
 </span></a><br/>
- <a href="#C3" style="font-size:25px"><span style="color:blue;">பெற்றோர் பங்கு
+ <a href="#C3" style="font-size:20px"><span style="color:blue;">பெற்றோர் பங்கு
 </span></a><br/>
- <a href="#C2" style="font-size:25px"><span style="color:blue;">இணையம்வழிக் கற்றல்
+ <a href="#C2" style="font-size:20px"><span style="color:blue;">இணையம்வழிக் கற்றல்
 </span></a><br/><br/>
 <h4 id="C1"><span style="font-size:30px;color:purple;">கல்வி அமைச்சின் தொடக்கப்பள்ளிப் பாடக்கலைத்திட்டம் 
 </span></h4>
