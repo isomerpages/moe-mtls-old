@@ -110,7 +110,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 
  </div></div> </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/EL-video-Ong/"><img src="/images/arrowEng.png"></a>
+  <a href="/test/EL-video-Ong/"><img src="/images/MTLS_arrows_V1(19AUG2020)Opt1Blue.png"></a>
 
 </td>
 </tr>
@@ -144,7 +144,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/EL-video-Connie/"><div ><img src="/images/arrowEng.png"></div></a>
+  <a href="/test/EL-video-Connie/"><div ><img src="/images/MTLS_arrows_V1(19AUG2020)Opt1Blue.png"></div></a>
 </td>
 </tr>
 <tr>
@@ -176,7 +176,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
  </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/EL-video-Leher/"><div><img src="/images/arrowEng.png"></div></a>
+  <a href="/test/EL-video-Leher/"><div><img src="/images/MTLS_arrows_V1(19AUG2020)Opt1Blue.png"></div></a>
 </td>
 </tr> 
  </table>
