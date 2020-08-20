@@ -1,6 +1,6 @@
 ---
 title: 'ஃபூஹுவா தொடக்கப்பள்ளி'
-permalink: /test/பூஹுவா-தொடக்கப்பள்ளி/
+permalink: /test/TL-School-Gallery/
 breadcrumb: 'பூஹுவா தொடக்கப்பள்ளி'
 ---
 <a href="/gallery/தமிழ்மொழிக் -காட்சிக்கூடம்-tamil-exhibitions-c/schools/" style="float:right;">Back</a>
