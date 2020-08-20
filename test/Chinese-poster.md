@@ -3,7 +3,7 @@ title: 'Poster 01'
 permalink: /test/Chinese-poster/
 breadcrumb: 'Poster 01'
 ---
-<a href="/Gallery/华语论坛-b/PreSchool/" style="float:right;">Back</a>
+<a href="gallery/华文学习展示区-chinese-exhibitions-b/preschool/" style="float:right;">Back</a>
 ![alt text - Chinese Sessions](/images/AGAPE-Presch-Poster.jpg)
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
