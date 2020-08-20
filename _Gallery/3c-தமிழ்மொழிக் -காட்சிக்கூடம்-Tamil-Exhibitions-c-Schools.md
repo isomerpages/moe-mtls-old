@@ -66,7 +66,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
-<a href="/test/ூஹுவா-தொடக்கப்பள்ளி/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
+<a href="/test/TL-School-Gallery/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
 </td>
 </tr>
 <tr>
