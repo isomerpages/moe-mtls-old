@@ -63,7 +63,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-<a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+<a href="/test/Chinese-poster/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -106,7 +106,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 </table>
