@@ -64,7 +64,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 </div>
     </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg" >
-<a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+<a href="/test/Chinese-poster/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 
@@ -112,7 +112,7 @@ Dana ini menyokong pendekatan menarik dan kreatif bagi menggalakkan kedwibahasaa
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -131,7 +131,7 @@ Dana ini menyokong pendekatan menarik dan kreatif bagi menggalakkan kedwibahasaa
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 
@@ -151,7 +151,7 @@ Dana ini menyokong pendekatan menarik dan kreatif bagi menggalakkan kedwibahasaa
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -176,7 +176,7 @@ Parents can find out more about the learning opportunities available for the you
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 
@@ -197,7 +197,7 @@ Parents can find out more about the learning opportunities available for the you
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -217,7 +217,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
  </tr>
 <tr>
@@ -236,7 +236,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+ <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 </table>
