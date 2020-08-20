@@ -132,9 +132,10 @@ width:80%;
          <li style="font-size:25x;font-family:KaiTi">对本地文化有初步的认识</li></ul>
          </li>
      <li style="font-size:25x;font-family:KaiTi">这套教学资源除了支持幼儿的双语发展，也体现了非常浓厚的本土特色。目前，教育部幼儿园都在课堂内使用这套教学资源。</li>
-     <li style="font-size:25x;font-family:KaiTi">大图书共享阅读是教育部幼儿园课堂内使用的教学法。共享阅读让幼儿享受阅读的乐趣，并鼓励幼儿通过有趣的活动，掌握听、说、读的能力。欲知教学步骤，请点击<a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Chi/NEL-Big-Book-Chinese-Teaching-Steps.pdf" target="_blank" style="font-family:KaiTi;">此处</a>.</li></p>
+     </p>
 </ol>
 </td>
+     <p><li style="font-size:25x;font-family:KaiTi">大图书共享阅读是教育部幼儿园课堂内使用的教学法。共享阅读让幼儿享受阅读的乐趣，并鼓励幼儿通过有趣的活动，掌握听、说、读的能力。欲知教学步骤，请点击<a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Chi/NEL-Big-Book-Chinese-Teaching-Steps.pdf" target="_blank" style="font-family:KaiTi;">此处</a>.</li></p>
 <td>
    <img src="/images/CL-Presch-right2.png">   
 </td>
