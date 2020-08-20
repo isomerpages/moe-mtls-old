@@ -64,6 +64,7 @@ max-width:40%;
     }
 </style>
 </head>
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <body>  
 <table class="tbl">
 <tr>
