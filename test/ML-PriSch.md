@@ -115,8 +115,8 @@ table.center {
 </li>
   <li>Sila lihat <strong> Program Bahasa Melayu Lanjutan, Program Sokongan Bahasa Ibunda bagi murid Darjah 3 dan 4 </strong>
 </li>
-</ul>
-</p>
+</ul></p>
+
   <img src="/images/MTLS-Malay-PriSch-Malay-Program2.jpg" class="image">  <br/>
   <p style="text-align:justify;">Jika anak anda berminat dalam bahasa, budaya dan kesusateraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS melalui: Direct School Admission (DSA) untuk Bahasa Melayu atau selepas mendapat keputusan PSLE. <br/>
  Lihat <a href="https://tinyurl.com/emasmlep" target="_blank">https://tinyurl.com/emasmlep </a>
