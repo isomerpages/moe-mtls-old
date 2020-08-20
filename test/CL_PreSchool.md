@@ -60,7 +60,7 @@ td{
 }
  iframe{
 border : 0;
-width:100%;
+width:80%;
 }
  .atab input[type=checkbox]:checked + label::after,
 .atab input[type=radio]:checked + label::after {
@@ -99,9 +99,9 @@ width:100%;
 </h4>
 <p style="font-size:21px;font-family:KaiTi" >教育部幼儿园的课程是由教育部课程专科督导设计与开发的，并以《培育幼儿:学前母语课程框架》为依据。这指引了新加坡幼儿园的课程发展。<br/><br/>
 在教育部幼儿园，幼儿将通过HI-Light和繁星语文两个旗舰课程体验丰富多彩的学习旅程。<br/><br/></p>
-
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi">A Day At An MOE Kindergarten </span>
-
+</center>
 <h4 id= "C1"><span style="font-size:30px;font-family:KaiTi ;">繁星语文课程 </span></h4>
 <img src="/images/CL-PreSch-starlight.jpg">
 <br/>
@@ -142,8 +142,9 @@ width:100%;
 </td>
   </tr>
 </table>
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/lnlNM2YJcOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br/><span style="font-size:18px;font-family:KaiTi">大图书共享阅读视频</span><br/><br/>
+<center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lnlNM2YJcOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br/><span style="font-size:18px;font-family:KaiTi">大图书共享阅读视频</span></center>
+  <br/><br/>
 <img src="/images/CL-PreSch-Discovery.jpg"> <br/><span style="font-size:18px;font-family:KaiTi">欲了解“奥秘探索周”计划的活动点子设计，请点击<a href="https://www.nel.moe.edu.sg/resources/49054/49062">此处</a>阅读相关活动设计“我的爱好是武术”和“下棋”。
 </span>
 <h4 id="C3"><span style="font-family:KaiTi;font-size:30px;" >居家活动好点子</span></h4>
