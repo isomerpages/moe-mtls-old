@@ -32,7 +32,8 @@ td{
 </span></h4>
  <img src="/images/MOE-Curriculum-TL-Primary-Image-1.jpg">
  <br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7o1l0CkF_oo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7o1l0CkF_oo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br/>
 <p style="font-size:25px;color:purple">தமிழ்மொழிக் கல்வியில் மகிழ்வூட்டும் கற்றல் <br/>
  
