@@ -68,6 +68,7 @@ table.center {
   width:100%;  
 }
 </style>
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/ML_Header2.jpg">
 <p>
