@@ -12,6 +12,7 @@ max-width:20%;
 }
 </style>
 </head>
+  <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
   <body>  
   <a href="https://staging-moe-mtls.netlify.app/exhibition/english-sessions/synopsis/" style="float:right;">Back</a>
 <div class="video-container">
