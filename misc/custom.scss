@@ -560,6 +560,8 @@ $desktop: 960px + (2 * $gap) !default;
 }
 .btnImg{
   display:block;
+ height: auto;
+ max-width: 40%;	
 }
 
 
