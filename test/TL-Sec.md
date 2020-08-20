@@ -66,7 +66,7 @@ td{
 }
  iframe{
 border : 0;
-width:100%;
+width:80%;
 }
  .atab input[type=checkbox]:checked + label::after,
 .atab input[type=radio]:checked + label::after {
@@ -104,7 +104,8 @@ width:100%;
 <br/><br/>
 இதன் அடிப்படையில் தமிழ்மொழி கற்றல் கற்பித்தலை அடுத்தடுத்த மேம்பட்ட நிலைக்குக் கொண்டு செல்ல அரசாங்கத்தின் உதவியோடு தொடர்ந்து பல முயற்சிகள் மேற்கொள்ளப்பட்டு வருகின்றன. சிங்கப்பூரில் தமிழை வாழும் மொழியாக நிலைபெறச் செய்ய வேண்டும் என்பதே இம்முயற்சிகளின் அடிப்படை நோக்கமாகும்.
 </p>
- <iframe  width="560" height="315" src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+<center>
+ <iframe  width="560" height="315" src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center><br/>
  <h4 id="C1"><span style="font-size:30px;color:purple;">2021-ஆம் ஆண்டுத் தமிழ்ப் பாடக்கலைத்திட்ட உருவாக்கம்
  </span></h4>
 <table>
@@ -141,7 +142,8 @@ width:100%;
  <tr>
   <td><p> <strong>இலக்கு </strong>
    <br/>
-   <ul><p style="text-align:justify;">
+   <p style="text-align:justify;">
+   <ul>
     <li> <strong> இலக்கியப் முன்மாதிரிகளை உருவாக்குதல் </strong>
 </li>
     <li>தரமான இலக்கிய ஆற்றலும் <strong>சிந்தனை மீட்சியும் கொண்ட வாசகர்களை வளர்த்தல் </strong>
@@ -152,7 +154,7 @@ width:100%;
 </li>
     <li> <strong> புது உருவாக்கச் சிந்தனையுடைய படைப்பாளிகளை வளர்த்தல் </strong>
 </li>
-   </ul>
+   </ul></p>
    <a href="/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank">Literature in Tamil Syllabus 2019
 </a>
  </p></td>
