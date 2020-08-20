@@ -64,6 +64,7 @@ max-width:40%;
 
 </style>
 </head>
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
   <body>  
  <div><h2 style="font-family:KaiTi">	华文视频</h2></div>
 <table class="tbl">
