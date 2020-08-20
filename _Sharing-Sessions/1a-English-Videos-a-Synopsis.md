@@ -109,7 +109,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 
 
  </div></div> </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
+<td style="border:0 none;padding: 0; margin:0;vertical-align:middle;" class="btnImg" valign="center">
   <a href="/test/EL-video-Ong/"><img src="/images/MTLS_arrows_V1(19AUG2020)-05.png"></a>
 
 </td>
