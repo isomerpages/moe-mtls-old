@@ -104,7 +104,7 @@ table.center {
 </li>
            </ul> 
        </p>
-       </div></div>
+       </div></div><br/>
 <p style="text-align:justify;">
 <ul>
   <li>Bahasa Melayu merupakan salah satu Bahasa Ibunda yang ditawarkan di sekolah rendah.  Murid-murid diberikan peluang untuk mempelajari Bahasa Melayu setinggi mana yang terdaya dan sejauh mana yang termampu.
