@@ -94,8 +94,8 @@ width:80% ;
  Kementerian Pendidikan Singapura mengambil langkah memulakan Tadika MOE bagi menyediakan Pendidikan Prasekolah (Tadika 1 dan Tadika 2) berkualiti yang berpatutan untuk rakyat serta penduduk tetap Singapura. 
 Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-kanak. Untuk mencapai visi ini, Tadika MOE berpegang pada prinsip bahawa kanak-kanak merupakan pelajar yang mempunyai sifat ingin tahu, aktif dan cekap.
  </p>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- <br/><span style="font-size:20px;" >Sehari di Tadika MOE </span>
+ <center><iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <br/><span style="font-size:20px;" >Sehari di Tadika MOE </span></center>
 
 <p>Berikut merupakan dua program utama Tadika MOE:  
 </p>
@@ -116,7 +116,7 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
 </a>merangkumi Program Literasi Bintang Kecil Bahasa Inggeris dan Program Literasi Bintang Kecil Bahasa Ibunda. Program Literasi Bintang Kecil ini dibina dengan harapan agar dapat memupuk keupayaan awal kanak-kanak berdwibahasa. <br/>
       Program ini ditawarkan untuk memberikan peluang kepada kanak-kanak untuk menikmati bahasa, berkomunikasi dengan yakin dan menyedari adat dan budaya tempatan. Perkara ini dapat dicapai dengan menyediakan pengajaran dan pembelajaran bahasa yang menyeronokkan kepada kanak-kanak melalui penerokaan sumber yang dibina, seperti buku besar, lagu dan permainan berdasarkan konteks tempatan. Program ini juga memberikan peluang kepada ahli keluarga untuk turut terlibat dalam pembelajaran kanak-kanak. <br/>
        Melalui program ini, kanak-kanak akan membina kemahiran literasi awal melalui kemahiran mendengar dan bertutur.  Kemahiran ini akan membantu bagi membina asas yang kukuh dalam pembelajaran bahasa untuk masa hadapan. <br/>
-  <a href="#" target="_blank">MTLS CL Framework</a>
+
 </p> </div></div>
 
  <p id="C1" style="font-size:30px;"><strong>Program Literasi Bintang Kecil </strong>
@@ -146,8 +146,9 @@ Secara umumnya matlamat <a href="/Gallery/NEL-Big-Book-Malay-Teaching-Steps.pdf"
  <li>menggalakkan kanak-kanak menggunakan bahasa Melayu dalam suasana yang selesa; </li>
  <li>mengajar dan mengukuhkan kemahiran berbahasa Melayu.</li>
 </ul>
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZSYplOdbes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:20px;" >Pendekatan Membaca Bersama dijalankan di dalam bilik darjah </span>
+<br/><span style="font-size:20px;" >Pendekatan Membaca Bersama dijalankan di dalam bilik darjah </span></center>
 </p>
 <p id="C3" style="font-size:30px;"><strong>PROJEK MuM (Minggu untuk Meneroka)</strong>
   </p>
