@@ -178,7 +178,7 @@ The speaker will share how the curriculum enables children to learn Chinese in c
 </p>
 </div></div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg13">
+<td style="border:0 none;padding: 0;" class="btnImgZero">
   <a href="/test/CL-video-Xu/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
  </tr>
@@ -246,7 +246,7 @@ Trainer</p>
 Language development in early childhood is crucial to acquiring sound foundational knowledge, skills and dispositions in one’s Mother Tongue Language (MTL) that will facilitate children’s learning in later years.  The importance of learning Chinese in the early years and the use of strategies to provide children with a head start will be explored in this session. Factors that influence children’s language and literacy, along with the sharing of relevant language activities and tips on enhancing children’s learning in Chinese will also be shared.</p>
        </div></div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg13">
+<td style="border:0 none;padding: 0;" class="btnImgZero">
   <a href="/test/CL-video-Lim/"> <img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
