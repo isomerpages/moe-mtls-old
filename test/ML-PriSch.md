@@ -144,7 +144,7 @@ table.center {
      <div class="tab-content">
        <img src="/images/ML-10.png">  
        </div></div>
-      <p id="C2" style="font-size:30px;color:green;"><strong>Sokongan Ibu Bapa </strong><br/><br/>
+      <p id="C2" style="font-size:30px;"><strong>Sokongan Ibu Bapa </strong><br/><br/>
 <img src="/images/MTLS-Malay-PriSch-Role-of-Parents2.jpg"> 
 </p>
 <p style="font-size:25px;text-align:justify;">Anda boleh bermain beberapa permainan dengan anak anda agar dapat meningkatkan dan meluaskan kosa kata mereka.</p>
