@@ -89,20 +89,20 @@ width:80%;
  <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:KaiTi">大图书共享阅读</span></a>&nbsp;&nbsp;
  <a href="#C3" style="font-size:25px"><span style="color:blue;font-family:KaiTi">居家活动好点子
 </span></a> <br/><br/></h4>
-<p style="font-size:21px;font-family:KaiTi">
+<p style="font-size:25px;font-family:KaiTi">
 我们创办了教育部幼儿园，为新加坡公民和永久居民提供优质的幼一 (K1)和幼二 (K2)教育。<br/>
 在教育部幼儿园，我们深信幼儿是好奇、积极、有能力的学习者。<br/>
 我们的愿景是为每一个幼儿提供良好的起点。同时，我们将通过为新加坡人提供优质且能负担得起的学前教育，进一步提升新加坡学前教育的素质。<br/>
 </p>
 <a href="#" target="_blank">Chinese-2011-syllabus</a>
-  <h4 style="font-size:25px;font-family:KaiTi ;">教育部幼儿园课程
+  <h4 style="font-size:30px;font-family:KaiTi ;">教育部幼儿园课程
 </h4>
-<p style="font-size:21px;font-family:KaiTi" >教育部幼儿园的课程是由教育部课程专科督导设计与开发的，并以《培育幼儿:学前母语课程框架》为依据。这指引了新加坡幼儿园的课程发展。<br/><br/>
+<p style="font-size:25px;font-family:KaiTi" >教育部幼儿园的课程是由教育部课程专科督导设计与开发的，并以《培育幼儿:学前母语课程框架》为依据。这指引了新加坡幼儿园的课程发展。<br/><br/>
 在教育部幼儿园，幼儿将通过HI-Light和繁星语文两个旗舰课程体验丰富多彩的学习旅程。<br/><br/></p>
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi">A Day At An MOE Kindergarten </span>
 </center>
-<h4 id= "C1"><span style="font-size:30px;font-family:KaiTi ;">繁星语文课程 </span></h4>
+<h4 id= "C1"><span style="font-size:35px;font-family:KaiTi ;">繁星语文课程 </span></h4>
 <img src="/images/CL-PreSch-starlight.jpg">
 <br/>
 <div class="atab">
@@ -111,7 +111,7 @@ width:80%;
      <div class="tab-content">
        <table>
        <tr>
-         <td><p style="font-size:21px;font-family:KaiTi" >
+         <td><p style="font-size:25px;font-family:KaiTi;text-align:justify;" >
     《培育幼儿:学前母语课程框架》的核心理念是:幼儿是好奇、积极、 有能力的母语学习者。持有这个理念的教师必能实现这套框架的愿景、 宗旨以及学习目标。<br/>
 <br/>本框架的教学宗旨建立在教学愿景之上，教学宗旨和指导原则又能协助教师设计课堂教学。教师在根据指导原则进行课堂 教学时，应谨记课程学习目标，以实现母语教学的愿景。</p> 
 </td>
@@ -121,7 +121,7 @@ width:80%;
   </tr>
 </table>
   </div></div>
- <h4 id="C2"><span style="font-size:30px;font-family:KaiTi;">大图书共享阅读 </span></h4>
+ <h4 id="C2"><span style="font-size:35px;font-family:KaiTi;">大图书共享阅读 </span></h4>
  <table>
   <tr> 
     <td>
@@ -147,13 +147,13 @@ width:80%;
   <br/><br/>
 <img src="/images/CL-PreSch-Discovery.jpg"> <br/><span style="font-size:18px;font-family:KaiTi">欲了解“奥秘探索周”计划的活动点子设计，请点击<a href="https://www.nel.moe.edu.sg/resources/49054/49062">此处</a>阅读相关活动设计“我的爱好是武术”和“下棋”。
 </span>
-<h4 id="C3"><span style="font-family:KaiTi;font-size:30px;" >居家活动好点子</span></h4>
+<h4 id="C3"><span style="font-family:KaiTi;font-size:35px;" >居家活动好点子</span></h4>
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
    <label for="tab-2" style="font-family:KaiTi;font-size:22px" class="lbCh">我的家 — 金字塔书
 </label>
      <div class="tab-content">
-       <p style="font-family:KaiTi;font-size:21px;">
+       <p style="font-family:KaiTi;font-size:25px;">
        点子一<br/>
 配合第二学段课程主题-我周围有谁，有哪些地方？<br/><br/>
          先和孩子介绍家里的不同地方，如：客厅、厨房、睡房等。接着，和孩子一起制作金字塔书。你可以点按以下链接，跟着视频做出属于孩子独特的金字塔书。孩子可以根据家里的情况画出不同的装饰。完成后，让孩子用金字塔书来说说自己在家的一日活动吧！</p>
@@ -166,7 +166,7 @@ width:80%;
    <label for="tab-3" style="font-family:KaiTi;font-size:22px" class="lbCh">美味的古拉姆（Kolam )
 </label>
      <div class="tab-content">
-       <p style="font-family:KaiTi;font-size:21px;">点子二：<br/>
+       <p style="font-family:KaiTi;font-size:25px;">点子二：<br/>
          配合第三学段课程主题 - 我和谁共享这个世界？<br/><br/>
          古拉姆是兴都教徒在家门前地上的绘图装饰。
 旧时，人们常受不同虫子干扰，于是用面粉或谷类在门前绘图，让虫子有食物吃，它们就不会进屋里。<br/><br/>
@@ -181,7 +181,7 @@ width:80%;
      <div class="tab-content">
 <table>
        <tr>
-         <td><p style="font-size:21px;font-family:KaiTi" >
+         <td><p style="font-size:25px;font-family:KaiTi" >
     点子三：<br/>
 配合第四学段课程主题-我周围的事物是怎么运作的？<br/><br/>
            请让您的孩子观察一块冰溶化的过程，然后在纸上画出水的不同状态，并让他/她与您分享。您可以把观察时间分为三个阶段：开始、15分钟、45分钟，或根据孩子的兴趣进行调整。
