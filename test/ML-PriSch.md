@@ -214,7 +214,7 @@ table.center {
       <input id="tab-8" type="checkbox" name="tab">
    <label for="tab-8" class="lbML">Permainan Suku Kata </label>
      <div class="tab-content">
-       <p style="text-align:justify;">Ibu bapa boleh memulakan permainan dengan memberikan satu perkataan. Contohnya, roti.  Kemudian anak harus membina perkataan lain yang bermula dengan suka kata akhir perkataan tadi. 
+       <p style="text-align:justify;">Ibu bapa boleh memulakan permainan dengan memberikan satu perkataan. Contohnya, roti.  Kemudian anak harus membina perkataan lain yang bermula dengan suka kata akhir perkataan tadi. <br/><br/>
          Contoh perbualan:
 <table class="center">
   
