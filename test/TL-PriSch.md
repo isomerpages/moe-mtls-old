@@ -37,7 +37,8 @@ td{
 <p style="font-size:25px;color:purple">தமிழ்மொழிக் கல்வியில் மகிழ்வூட்டும் கற்றல் <br/>
  
  <img src="/images/MOE-Curriculum-TL-Primary-Image-2.jpg"><br/><br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rb4242jPdKA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rb4242jPdKA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 </p>
  <p style="font-size:25px;color:purple;">ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் வளங்கள்</p>
 <p>
@@ -50,21 +51,23 @@ td{
 </p>
 <img src="/images/MOE-Curriculum-TL-Primary-Image-3.jpg">
 <br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JrvKTB1Oxj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JrvKTB1Oxj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <p style="font-size:25px; color:purple;">மாணவர்களை மையப்படுத்திய கற்றல் வளங்களும் நடவடிக்கைகளும் <br/>
 <img src="/images/MOE-Curriculum-TL-Primary-Image-4.jpg">
  <br/>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/vF-qlj-s0QM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <center>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/vF-qlj-s0QM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 </p>
 
 <p style="font-size:25px; color:purple;" >ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் </p> <br/>
 
 <img src="/images/MOE-Curriculum-TL-Primary-Image-5.jpg"><br/>
 <img src="/images/MOE-Curriculum-TL-Primary-Image-6.jpg"><br/>
-
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7bDcJCHpYHM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</center>
 <h4 id="C2"><span style="font-size:30px; color:purple;">இணையம்வழிக் கற்றல்
  </span></h4>
  <p>மாணவர்களின் ஆர்வத்தைத் தூண்டவும் அவர்களது கற்றல் அனுபவத்தை மேம்படுத்தவும் தமிழ்மொழி கற்றலில் தகவல் தொடர்பு தொழில்நுட்பம் பயன்படுத்தப்படுகிறது. 
