@@ -102,7 +102,7 @@ To cultivate students who flourish in our MTL Wonderland, we should not approach
  <br/>
 </p></div></div></td>  
  <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/CL-video-Shuhan/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)Opt1Pink.png"></a>
+  <a href="/test/CL-video-Shuhan/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
  <tr>
@@ -138,7 +138,7 @@ As home parenting and home-based learning become the new normal, parents are spe
 </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/CL-video-Sun/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)Opt1Pink.png"></a>
+  <a href="/test/CL-video-Sun/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -178,7 +178,7 @@ The speaker will share how the curriculum enables children to learn Chinese in c
 </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/CL-video-Xu/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)Opt1Pink.png"></a>
+  <a href="/test/CL-video-Xu/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
  </tr>
  <tr>
@@ -213,7 +213,7 @@ Cultivating good reading habits and developing an interest in reading for young 
  </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/CL-video-Lim/"> <img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)Opt1Pink.png"></a>
+  <a href="/test/CL-video-Lim/"> <img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -246,7 +246,7 @@ Language development in early childhood is crucial to acquiring sound foundation
        </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/CL-video-Lim/"> <img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)Opt1Pink.png"></a>
+  <a href="/test/CL-video-Lim/"> <img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -278,7 +278,7 @@ Language development in early childhood is crucial to acquiring sound foundation
   </div></div>
  </td>
  <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-   <a href="/test/CL-video-Woo/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)Opt1Pink.png"></a>
+   <a href="/test/CL-video-Woo/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
  </td>
 </tr>
 </table>
