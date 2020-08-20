@@ -203,7 +203,7 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
   <img src="/images/SLS-image"><br/>
 </p>
   <p id="C2" style="font-size:30px;"><strong>Sokongan Ibu Bapa</strong></p>
-<p style="font-size:22px;">
+<p style="font-size:22px;text-align:justify">
 Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, sediakan persekitaran dan sokongan yang berterusan. Hal ini akan menjadikan pembelajaran bahasa Melayu lebih menyeronokkan dan bermakna. Anda boleh amalkan beberapa peranan berikut dalam mencapai usaha ini.</p> <br/>
 
 <img src="/images/Motivator.png"><br/>
@@ -216,7 +216,7 @@ Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, sediakan persek
    
 </p>
 <h4  style="font-size:25px;color:green;" >Program-program Bahasa & Budaya Melayu</h4> 
-<p style="font-size:22px;">Bagi menggalakkan penggunaan dan pendedahan pada bahasa Melayu, sertailah program-program bahasa dan budaya yang telah dianjurkan. Bawa bersama keluarga anda menghadiri aktiviti-aktiviti ini. Anda juga boleh melawat tempat-tempat yang disarankan.
+<p style="font-size:22px;text-align:justify;">Bagi menggalakkan penggunaan dan pendedahan pada bahasa Melayu, sertailah program-program bahasa dan budaya yang telah dianjurkan. Bawa bersama keluarga anda menghadiri aktiviti-aktiviti ini. Anda juga boleh melawat tempat-tempat yang disarankan.
 </p>
 <p style="font-size:25px;"> <strong>Majlis Bahasa Melayu Singapura </strong> - Bulan Bahasa 2020 
   <br/>
