@@ -44,6 +44,7 @@ third_nav_title: '华文学习展示区'
     }
 </style>
 </head>
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <body>  
  <div><h2 style="font-family:KaiTi;">学前教育中心</h2></div>
  <img src="/images/MTL-Challenge-Banner.jpeg"> <br/>
