@@ -105,6 +105,7 @@ table.center {
        </p>
        </div></div>
        <p style="text-align:justify;">
+  <ul>
   <li>Bahasa Melayu merupakan salah satu Bahasa Ibunda yang ditawarkan di sekolah rendah.  Murid-murid diberikan peluang untuk mempelajari Bahasa Melayu setinggi mana yang terdaya dan sejauh mana yang termampu.
 </li>
   <li>Di sekolah, Kurikulum Bahasa Melayu Sekolah Rendah dijalankan dengan menggunakan pendekatan yang berpusatkan murid.  Pengajaran yang dijalankan bersifat interaktif agar murid-murid mudah mempelajari dan memahami pelajaran yang diikuti. Memandangkan murid yang memasuki sekolah rendah mempunyai latar belakang bahasa yang pelbagai, keperluan pembelajaran mereka juga seharusnya berbeza-beza. Oleh itu, pembelajaran pembezaan harus ditekankan untuk memenuhi keupayaan yang pelbagai ini. 
@@ -113,6 +114,7 @@ table.center {
 </li>
   <li>Sila lihat <strong> Program Bahasa Melayu Lanjutan, Program Sokongan Bahasa Ibunda bagi murid Darjah 3 dan 4 </strong>
 </li>
+</ul>
 </p>
   <img src="/images/MTLS-Malay-PriSch-Malay-Program2.jpg" class="image">  <br/>
   <p style="text-align:justify;">Jika anak anda berminat dalam bahasa, budaya dan kesusateraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS melalui: Direct School Admission (DSA) untuk Bahasa Melayu atau selepas mendapat keputusan PSLE. <br/>
