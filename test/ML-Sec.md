@@ -197,7 +197,7 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
 <img src="/images/iMTL-Sec-image"><br/>
   <img src="/images/SLS-image"><br/>
 </p>
-  <p id="C1" style="font-size:30px;"><strong>Sokongan Ibu Bapa</strong></p>
+  <p id="C2" style="font-size:30px;"><strong>Sokongan Ibu Bapa</strong></p>
 </h4>
 <p style="font-size:22px;">
 Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, sediakan persekitaran dan sokongan yang berterusan. Hal ini akan menjadikan pembelajaran bahasa Melayu lebih menyeronokkan dan bermakna. Anda boleh amalkan beberapa peranan berikut dalam mencapai usaha ini.</p> <br/>
@@ -211,7 +211,7 @@ Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, sediakan persek
    <a href="https://www.schoolbag.sg/docs/default-source/default-document-library/(ml)mlpg2016.pdf" target="_blank">https://www.schoolbag.sg/docs/default-source/default-document-library/(ml)mlpg2016.pdf </a><br/>
    
 </p>
-<h4  style="font-size:30px;color:green;" >Program-program Bahasa & Budaya Melayu</h4> 
+<h4  style="font-size:25px;color:green;" >Program-program Bahasa & Budaya Melayu</h4> 
 <p style="font-size:22px;">Bagi menggalakkan penggunaan dan pendedahan pada bahasa Melayu, sertailah program-program bahasa dan budaya yang telah dianjurkan. Bawa bersama keluarga anda menghadiri aktiviti-aktiviti ini. Anda juga boleh melawat tempat-tempat yang disarankan.
 </p>
 <p style="font-size:25px;"> <strong>Majlis Bahasa Melayu Singapura </strong> - Bulan Bahasa 2020 
