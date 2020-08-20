@@ -40,7 +40,7 @@ width:80% ;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RXaW1jeuEj4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">Video Membantu Pembelajaran Sastera
 </span>
 </center>
-<p id="C2" style="font-size:30px;"><strong>Program di Prauniversiti </p>
+<p id="C2" style="font-size:30px;"><strong>Program di Prauniversiti </strong> </p>
 <img src="/images/ML-PreU-Brosur-Program.png">
 <p>Untuk memuat turun brosur ini, klik <a href="/images/ML-PreU-Brosur-Program.png" target="_blank">disini</a></p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
