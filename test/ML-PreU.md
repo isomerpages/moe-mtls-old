@@ -18,10 +18,10 @@ width:80% ;
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/ML-PreU-Header2.jpg">
 
-<h4 style="color:green;font-size:30px;">Matlamat Pendidikan Prauniversiti </h4>  
 <a href="#C1" style="font-size:20px"><span style="color:blue;">Sokongan Video</span></a><br/>
  <a href="#C2" style="font-size:20px"><span style="color:blue;">Program di Prauniversiti
 </span></a>
+<h4 style="color:green;font-size:30px;">Matlamat Pendidikan Prauniversiti </h4>  
  <p style="text-align:justify;">
  Matlamat program Bahasa Melayu peringkat prauniversiti adalah untuk melengkapkan pelajar dengan kecekapan berbahasa dan membolehkan pelajar mendalami dan menghargai bahasa dan budaya masyarakat Melayu dalam pelanjutan pembangunan negara. Pelajar diharap akan berupaya berkomunikasi dengan menggunakan bahasa Melayu baku bagi memenuhi keperluan diri dan membina hubungan sosial dalam konteks masyarakat majmuk Singapura dan masyarakat dunia.
 </p>
