@@ -97,7 +97,7 @@ max-width:40%;
 </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/TL-video-Elakeyaa/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
+  <a href="/test/TL-video-Elakeyaa/"><div ><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)Opt1D.png"></div></a>
 </td>
 </tr>
  <tr>
@@ -136,7 +136,7 @@ max-width:40%;
 </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/TL-video-Rani/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
+  <a href="/test/TL-video-Rani/"><div ><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)Opt1D.png"></div></a>
 </td>
  </tr>
  <tr>
@@ -177,7 +177,7 @@ max-width:40%;
  </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/TL-video-Mohan/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
+  <a href="/test/TL-video-Mohan/"><div ><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)Opt1D.png"></div></a>
 </td>
  </tr>
   <tr>
@@ -215,7 +215,7 @@ max-width:40%;
  </div></div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/TL-video-Darseni/"><div ><img alt="Click here" src="/images/arrowTamil.png"></div></a>
+  <a href="/test/TL-video-Darseni/"><div ><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)Opt1D.png"></div></a>
 </td>
    </tr>
  </table>
