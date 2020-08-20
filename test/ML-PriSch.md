@@ -235,7 +235,7 @@ table.center {
 </table>
 </p>
 </div></div>
-<p style="font-size:25px;text-align:justify;">Andaboleh bermain beberapa permainan dengan anak anda yang boleh membantu anak anda menguasai kemahiran membina ayat.
+<p style="font-size:25px;text-align:justify;">Anda boleh bermain beberapa permainan dengan anak anda yang boleh membantu anak anda menguasai kemahiran membina ayat.
 </p>
 <div class="atab">
       <input id="tab-9" type="checkbox" name="tab">
