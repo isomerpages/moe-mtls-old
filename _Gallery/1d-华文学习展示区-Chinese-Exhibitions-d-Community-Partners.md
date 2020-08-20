@@ -234,7 +234,7 @@ Parents can find out more about the learning opportunities available to the youn
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-10" type="checkbox" name="tab">
-    <label for="tab-10" class="lbCh"><span style="font-size:25px; font-family:KaiTi">早报校园 </span><br/>ZB Schools</label>
+    <label for="tab-10" class="lbCh"><span style="font-size:25px; font-family:KaiTi">早报校园 </span><br/>ZBSchools</label>
       <div class="tab-content">
          <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;">读报从小开始</h4>
         <p style="font-family:KaiTi;margin:10px;font-size:21px;">
