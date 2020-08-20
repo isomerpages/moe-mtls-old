@@ -101,7 +101,7 @@ Kajian neurosains telah membuktikan bahawa pembelajaran akan berhenti apabila ke
  </div></div>
  </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/ML-video-Asnida/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+  <a href="/test/ML-video-Asnida/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -137,8 +137,8 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
        With the advancement of technology, the learning of Mother Tongue Languages can be enhanced by blended learning strategies that are both fun and simple. This webinar aims to share animal-inspired teaching strategies to enhance literacy in the Malay Language. Participants will be taken virtually into the immersive environment of Singapore Zoo to meet our animal ambassadors. Using photographs, videos and audiobooks specially curated by Singapore Zoo, we will tap on children’s interest in animals and their sense of curiosity through loose parts play, creative expressions and thinking routines. The child-centric activities covered in this webinar are applicable  at home, in the classroom and outdoors. These authentic learning opportunities include speaking, listening and responding in the Malay Language and features of the ECDA and MOE’s Mother Tongue Language Frameworks.</p>
 </div></div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg13">
-  <a href="/test/ML-video-Haniman/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+<td style="border:0 none;padding: 0;" class="btnImg">
+  <a href="/test/ML-video-Haniman/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
  </tr>
  <tr>
@@ -174,7 +174,7 @@ Early intervention is important. Parents are often seeking ways to maximise the 
 </div></div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImgZero">
-  <a href="/test/ML-video-Mariam/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+  <a href="/test/ML-video-Mariam/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
  </tr>
  <tr>
@@ -216,7 +216,7 @@ Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal b
         </div></div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImgZero">
-  <a href="/test/ML-video-Salina/"><img class="btnImg" alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+  <a href="/test/ML-video-Salina/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
  </tr>
   <tr>
@@ -251,7 +251,7 @@ Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal b
         </div></div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImgZero">
-  <a href="/test/ML-video-Hazliana/"><img class="btnImg" alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+  <a href="/test/ML-video-Hazliana/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
    </tr>
    </table>
