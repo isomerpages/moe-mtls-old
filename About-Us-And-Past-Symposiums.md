@@ -12,6 +12,7 @@ border : 0;
 width:80% ;
 }
  </style>
+ <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <div>
 <img src="/images/New-Organiser-Banner.PNG">
 <p>The Mother Tongue Languages Symposium (MTLS) is an annual event jointly organised by the Ministry of Education (MOE), the Committee to Promote Chinese Language Learning (CPCLL), the Malay Language Learning and Promotion Committee (MLLPC) and the Tamil Language Learning and Promotion Committee (TLLPC).</p>
