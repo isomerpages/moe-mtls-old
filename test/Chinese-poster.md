@@ -1,7 +1,7 @@
 ---
 title: '爱加倍实龙岗分校'
 permalink: /test/Chinese-poster/
-breadcrumb: 'Poster 01'
+breadcrumb: '爱加倍实龙岗分校'
 ---
 <a href="gallery/华文学习展示区-chinese-exhibitions-b/preschool/" style="float:right;">Back</a>
 ![alt text - Chinese Sessions](/images/AGAPE-Presch-Poster.jpg)
