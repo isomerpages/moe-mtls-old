@@ -27,6 +27,7 @@ margin-top:200px;
 margin-bottom:10px;
 }
 </style>
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/TL-PreSch-Header.jpg">
 <p>
