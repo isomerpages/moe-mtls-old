@@ -67,7 +67,7 @@ third_nav_title: '华文学习展示区'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ <a href="/test/爱加倍实龙岗分校/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -88,7 +88,7 @@ third_nav_title: '华文学习展示区'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ <a href="/test/教育部幼儿园-（华苑）/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -111,7 +111,7 @@ third_nav_title: '华文学习展示区'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg" >
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ <a href="/test/教育部幼儿园（河道）/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -131,7 +131,7 @@ third_nav_title: '华文学习展示区'
 </div>
 </td>
 <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-<a href="/test/Chinese-poster/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+<a href="/test/MY-World/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 
