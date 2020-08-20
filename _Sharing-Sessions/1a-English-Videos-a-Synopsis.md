@@ -176,7 +176,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 </p>
  </div></div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg2Line">
+<td style="border:0 none;padding: 0;" class="btnImg15">
   <a href="/test/EL-video-Leher/"><div><img src="/images/MTLS_arrows_V1(19AUG2020)-05.png"></div></a>
 </td>
 </tr> 
