@@ -28,7 +28,7 @@ width:80% ;
 <img src="/images/ML-PreU_Syllabus.jpg">
 <a href="/Gallery/Annex A -Sukatan-Pelajaran-H1.pdf" target="_blank">Sukatan Pelajaran H1</a><br/>
 <a href="/Gallery/Annex B - Sukatan-Pelajaran-H2-&-H3.pdf" target="_blank">Sukatan Pelajaran H2 & H3</a><br/>
-<p id="C1" style="font-size:30px;"><strong>Sokongan Video </p>
+<p id="C1" style="font-size:30px;"><strong>Sokongan Video </strong></p>
  <p style="text-align:justify;">
  Kami sediakan pautan video yang memaparkan strategi untuk ibu bapa supaya dapat memberi sokongan pembelajaran kepada anak-anak mereka.
 </p>
