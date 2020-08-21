@@ -175,7 +175,7 @@ width:80%;
 旧时，人们常受不同虫子干扰，于是用面粉或谷类在门前绘图，让虫子有食物吃，它们就不会进屋里。<br/><br/>
          古拉姆一般都是对称的图案。你可以根据古拉姆图案的特点，和孩子在家绘制属于你们的古拉姆，而且，还是可以吃的古拉姆！选择一些家中即有的食材，例如：沙拉里不同种类的食材（水果、蔬菜、坚果、酱料等）、“一锅煮”的蔬菜杂烩食材、养生汤的药材等，然后进行“摆盘”以制作古拉姆。你可以一边摆，一边说出食材；也可以为孩子录像，让孩子介绍自己设计的古拉姆。
 </p>
-  <img src="/images/CL-preSch-Kolam.jpg">
+  <img src="/images/CL-preSch-Kolam.png">
   </div></div>
   <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
@@ -191,7 +191,7 @@ width:80%;
 </p> 
 </td>
 <td>
-  <p><img src="/images/CL-PreSch-Water.jpg"> </p>    
+  <p><img src="/images/CL-PreSch-Water.png"> </p>    
 </td>
   </tr>
 </table>
