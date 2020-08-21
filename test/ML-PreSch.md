@@ -133,13 +133,17 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
 </table>
 <br/>
  <img src="/images/ML-PreSch-Starlight2.jpg"> 
- 
+<div>
 <p id="C2" style="font-size:30px;"><strong>Pendekatan Membaca Bersama</strong></p>
   
 <p style="text-align:justify;">Program Literasi Bintang Kecil dilaksanakan dengan menggunakan pelbagai bahan pembelajaran untuk membina kemahiran bahasa kanak-kanak.<br/>
  Buku besar merupakan bahan utama dalam pengajaran dan pembelajaran bagi setiap unit di Tadika MOE. Guru akan menggunakan Pendekatan Membaca Bersama untuk membacakan cerita. Dengan menggunakan Buku Besar, kanak-kanak dapat melihat gambar dan teks serta mengambil bahagian secara aktif dalam pembacaan. <br/><br/>
 
-Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Malay/NEL-Big-Book-Malay-Teaching-Steps.pdf" target="_blank"> Pendekatan Membaca Bersama (Shared Book Approach) </a> adalah untuk:  
+Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Malay/NEL-Big-Book-Malay-Teaching-Steps.pdf" target="_blank"> Pendekatan Membaca Bersama (Shared Book Approach) </a> adalah untuk:  </div>
+<div>
+  <img src="/images/Picture1.png"> <br/>
+   <img src="/images/Picture2.png">
+</div>
 <br/>
 <ul>
 <li>memberikan pengalaman yang menarik minat kanak-kanak kepada buku; </li>
