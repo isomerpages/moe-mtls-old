@@ -139,7 +139,7 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
 <p style="text-align:justify;">Program Literasi Bintang Kecil dilaksanakan dengan menggunakan pelbagai bahan pembelajaran untuk membina kemahiran bahasa kanak-kanak.<br/>
  Buku besar merupakan bahan utama dalam pengajaran dan pembelajaran bagi setiap unit di Tadika MOE. Guru akan menggunakan Pendekatan Membaca Bersama untuk membacakan cerita. Dengan menggunakan Buku Besar, kanak-kanak dapat melihat gambar dan teks serta mengambil bahagian secara aktif dalam pembacaan. <br/><br/>
 
-Secara umumnya matlamat <a href="/Gallery/NEL-Big-Book-Malay-Teaching-Steps.pdf" target="_blank"> Pendekatan Membaca Bersama (Shared Book Approach) </a> adalah untuk:  
+Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Malay/NEL-Big-Book-Malay-Teaching-Steps.pdf" target="_blank"> Pendekatan Membaca Bersama (Shared Book Approach) </a> adalah untuk:  
 <br/>
 <ul>
 <li>memberikan pengalaman yang menarik minat kanak-kanak kepada buku; </li>
@@ -151,7 +151,7 @@ Secara umumnya matlamat <a href="/Gallery/NEL-Big-Book-Malay-Teaching-Steps.pdf"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZSYplOdbes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/><span style="font-size:20px;" >Pendekatan Membaca Bersama dijalankan di dalam bilik darjah </span></center>
 </p>
-<p id="C3" style="font-size:30px;"><strong>PROJEK MuM (Minggu untuk Meneroka)</strong>
+<p id="C3" style="font-size:30px;"><strong>Projek MuM (Minggu untuk Meneroka)</strong>
   </p>
 <p style="text-align:justify;">Setiap tahun, kanak-kanak di Tadika MOE akan menyelesaikan Projek MuM, dua dalam Bahasa Inggeris dan dua dalam Bahasa Ibunda. Pada akhir setiap penggal, kanak-kanak akan mendalami perkara yang dipelajari dengan meneroka topik yang menarik perhatian mereka. Kanak-kanak bekerjasama dengan rakan-rakan dan guru mereka untuk menyelesaikan projek tersebut.  <br/><br/>
  Melalui projek MuM, kanak-kanak berasa seronok kerana dapat meneroka untuk mencari jawapan bagi soalan-soalan mereka dan mempelajari sesuatu secara kendiri. Pengalaman ini akan membina keyakinan kanak-kanak dan memupuk kecenderungan mereka terhadap pembelajaran Bahasa Melayu. <br/>
@@ -167,9 +167,9 @@ Secara umumnya matlamat <a href="/Gallery/NEL-Big-Book-Malay-Teaching-Steps.pdf"
   </ul></p>
 <p>
 Yang berikut merupakan contoh-contoh projek MuM yang terdapat di<a href="https://www.nel.moe.edu.sg/resources/aktiviti-aktiviti-saranan" target="_blank"> Portal NEL.</a><br/>
-<a href="/Gallery/Bunga-Tadika-MOE-Tampines.pdf" target="_blank">Bunga – Tadika MOE Tampines </a><br/>
-<a href="/Gallery/Kuih-Pisang-Tadika-MOE-Blangah-Rise.pdf" target="_blank">Kuih Pisang – Tadika MOE Blangah Rise </a> <br/>
-<a href="/Gallery/Ikan-Tadika-MOE-Punggol-View.pdf" target="_blank">Ikan – Tadika MOE Punggol View</a><br/>
+<a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/Activity%20Ideas/Malay/NEL-Portal-Malay-Activity-Idea-Aktiviti-Saranan-WoW-Project-MK-Tampines-Projek-MuM-Minggu-Untuk-Meneroka-Bunga-Flowers.pdf" target="_blank">Bunga – Tadika MOE Tampines </a><br/>
+<a href="https://www.nel.moe.edu.sg/qql/slot/u575/2019-05-13/2019-05-06%20-%20NEL_Kuih-Pisang_MK@BR_Cikgu_Nur_Hafizah.pdf" target="_blank">Kuih Pisang – Tadika MOE Blangah Rise </a> <br/>
+<a href="https://www.nel.moe.edu.sg/qql/slot/u567/ML%20Resources%20Q4/NEL-Portal-Malay-Activity-Idea-Aktiviti-Saranan-WoW-Project-MK-Punggol-View-Projek-MuM-Minggu-Untuk-Meneroka-Ikan-Fish.pdf" target="_blank">Ikan – Tadika MOE Punggol View</a><br/>
 Untuk mendapatkan contoh Projek MuM yang lain, sila layari <a href="https://beta.moe.gov.sg/preschool/moe-kindergarten/curriculum/weeks-of-wonder/" target="_blank">  lelaman </a> ini.</p> 
 <p id="C4" style="font-size:30px;"><strong>Tips Buat Ibu Bapa </strong>
   </p>
