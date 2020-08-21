@@ -134,7 +134,7 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
 <br/>
  <img src="/images/ML-PreSch-Starlight2.jpg"> 
 
- <table style="border:0"><tr><td>
+ <table style="border:none;border-style: none;"><tr><td>
 <p id="C2" style="font-size:30px;"><strong>Pendekatan Membaca Bersama</strong></p>
   
 <p style="text-align:justify;">Program Literasi Bintang Kecil dilaksanakan dengan menggunakan pelbagai bahan pembelajaran untuk membina kemahiran bahasa kanak-kanak.<br/>
