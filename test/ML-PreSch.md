@@ -153,6 +153,10 @@ Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resour
 <br/><span style="font-size:20px;" >Pendekatan Membaca Bersama dijalankan di dalam bilik darjah </span></center>
 </p> </div>
 
+<div>
+  <img src="/images/Picture1.png"> <br/>
+   <img src="/images/Picture2.png">
+</div>
 
 <p id="C3" style="font-size:30px;"><strong>Projek MuM (Minggu untuk Meneroka)</strong>
   </p>
