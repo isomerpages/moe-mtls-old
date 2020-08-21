@@ -134,6 +134,7 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
 <br/>
  <img src="/images/ML-PreSch-Starlight2.jpg"> 
 <div>
+ <table><tr><td>
 <p id="C2" style="font-size:30px;"><strong>Pendekatan Membaca Bersama</strong></p>
   
 <p style="text-align:justify;">Program Literasi Bintang Kecil dilaksanakan dengan menggunakan pelbagai bahan pembelajaran untuk membina kemahiran bahasa kanak-kanak.<br/>
@@ -151,12 +152,16 @@ Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resour
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZSYplOdbes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/><span style="font-size:20px;" >Pendekatan Membaca Bersama dijalankan di dalam bilik darjah </span></center>
-</p> </div>
-<div>
- <img src="/images/Picture1.png"> <br/>
-   <img src="/images/Picture2.png"></div>
-
-
+</p>
+</td>
+<td>
+<img src="/images/Picture1.png"> <br/>
+   <img src="/images/Picture2.png">
+</td>
+<tr>
+<table>
+</div>
+  
 
 <p id="C3" style="font-size:30px;"><strong>Projek MuM (Minggu untuk Meneroka)</strong>
   </p>
