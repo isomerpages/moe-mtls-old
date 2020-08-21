@@ -158,10 +158,9 @@ Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resour
 <img src="/images/Picture1.png"> <br/>
    <img src="/images/Picture2.png">
 </td>
-<tr>
-<table>
-  
+</tr>
 
+<tr><td>
 <p id="C3" style="font-size:30px;"><strong>Projek MuM (Minggu untuk Meneroka)</strong>
   </p>
 <p style="text-align:justify;">Setiap tahun, kanak-kanak di Tadika MOE akan menyelesaikan Projek MuM, dua dalam Bahasa Inggeris dan dua dalam Bahasa Ibunda. Pada akhir setiap penggal, kanak-kanak akan mendalami perkara yang dipelajari dengan meneroka topik yang menarik perhatian mereka. Kanak-kanak bekerjasama dengan rakan-rakan dan guru mereka untuk menyelesaikan projek tersebut.  <br/><br/>
@@ -176,6 +175,13 @@ Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resour
   <li>menggalakkan kemahiran berkomunikasi ketika kanak-kanak menjalankan projek-projek MuM dalam Bahasa Inggeris dan Bahasa Ibunda mereka.
 </li>
   </ul></p>
+ </td>
+<td>
+ <img src="/images/Picture3.jpg">
+</td>
+ </tr>
+ </table>
+  
 <p>
 Yang berikut merupakan contoh-contoh projek MuM yang terdapat di<a href="https://www.nel.moe.edu.sg/resources/aktiviti-aktiviti-saranan" target="_blank"> Portal NEL.</a><br/>
 <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/Activity%20Ideas/Malay/NEL-Portal-Malay-Activity-Idea-Aktiviti-Saranan-WoW-Project-MK-Tampines-Projek-MuM-Minggu-Untuk-Meneroka-Bunga-Flowers.pdf" target="_blank">Bunga – Tadika MOE Tampines </a><br/>
