@@ -149,14 +149,19 @@ Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resour
  <li>menggalakkan kanak-kanak menggunakan bahasa Melayu dalam suasana yang selesa; </li>
  <li>mengajar dan mengukuhkan kemahiran berbahasa Melayu.</li>
 </ul>
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zZSYplOdbes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:20px;" >Pendekatan Membaca Bersama dijalankan di dalam bilik darjah </span></center>
+
 </p>
 </td>
 <td>
 <img src="/images/Picture1.png"> <br/>
    <img src="/images/Picture2.png">
+</td>
+</tr>
+<tr>
+<td>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zZSYplOdbes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/><span style="font-size:20px;" >Pendekatan Membaca Bersama dijalankan di dalam bilik darjah </span></center>
 </td>
 </tr>
 
