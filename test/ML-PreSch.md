@@ -87,7 +87,7 @@ width:80% ;
 </span></a><br/>
  <a href="#C2" style="font-size:20px"><span style="color:blue;">Pendekatan Membaca Bersama
 </span></a><br/>
-<a href="#C3" style="font-size:20px"><span style="color:blue;">PROJEK MuM (Minggu untuk Meneroka)
+<a href="#C3" style="font-size:20px"><span style="color:blue;">PROJEK MuM
 </span></a><br/>
  <a href="#C4" style="font-size:20px"><span style="color:blue;">Tips Buat Ibu Bapa
 </span></a><br/><br/>
