@@ -139,11 +139,8 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
 <p style="text-align:justify;">Program Literasi Bintang Kecil dilaksanakan dengan menggunakan pelbagai bahan pembelajaran untuk membina kemahiran bahasa kanak-kanak.<br/>
  Buku besar merupakan bahan utama dalam pengajaran dan pembelajaran bagi setiap unit di Tadika MOE. Guru akan menggunakan Pendekatan Membaca Bersama untuk membacakan cerita. Dengan menggunakan Buku Besar, kanak-kanak dapat melihat gambar dan teks serta mengambil bahagian secara aktif dalam pembacaan. <br/><br/>
 
-Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Malay/NEL-Big-Book-Malay-Teaching-Steps.pdf" target="_blank"> Pendekatan Membaca Bersama (Shared Book Approach) </a> adalah untuk:  </div>
-<div>
-  <img src="/images/Picture1.png"> <br/>
-   <img src="/images/Picture2.png">
-</div>
+Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Malay/NEL-Big-Book-Malay-Teaching-Steps.pdf" target="_blank"> Pendekatan Membaca Bersama (Shared Book Approach) </a> adalah untuk:
+
 <br/>
 <ul>
 <li>memberikan pengalaman yang menarik minat kanak-kanak kepada buku; </li>
@@ -154,7 +151,11 @@ Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resour
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZSYplOdbes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/><span style="font-size:20px;" >Pendekatan Membaca Bersama dijalankan di dalam bilik darjah </span></center>
-</p>
+</p> </div>
+<div>
+  <img src="/images/Picture1.png"> <br/>
+   <img src="/images/Picture2.png">
+</div>
 <p id="C3" style="font-size:30px;"><strong>Projek MuM (Minggu untuk Meneroka)</strong>
   </p>
 <p style="text-align:justify;">Setiap tahun, kanak-kanak di Tadika MOE akan menyelesaikan Projek MuM, dua dalam Bahasa Inggeris dan dua dalam Bahasa Ibunda. Pada akhir setiap penggal, kanak-kanak akan mendalami perkara yang dipelajari dengan meneroka topik yang menarik perhatian mereka. Kanak-kanak bekerjasama dengan rakan-rakan dan guru mereka untuk menyelesaikan projek tersebut.  <br/><br/>
