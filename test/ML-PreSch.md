@@ -158,7 +158,7 @@ Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resour
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZSYplOdbes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/><span style="font-size:20px;" >Pendekatan Membaca Bersama dijalankan di dalam bilik darjah </span></center>
