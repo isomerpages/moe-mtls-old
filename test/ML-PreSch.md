@@ -133,7 +133,7 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
 </table>
 <br/>
  <img src="/images/ML-PreSch-Starlight2.jpg"> 
-<div>
+
  <table><tr><td>
 <p id="C2" style="font-size:30px;"><strong>Pendekatan Membaca Bersama</strong></p>
   
@@ -160,7 +160,6 @@ Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resour
 </td>
 <tr>
 <table>
-</div>
   
 
 <p id="C3" style="font-size:30px;"><strong>Projek MuM (Minggu untuk Meneroka)</strong>
