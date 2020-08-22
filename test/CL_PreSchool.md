@@ -13,7 +13,7 @@ breadcrumb: '教育部幼儿园'
 }
 
 td{
-  border: 1px solid #dddddd;
+  
   text-align: left;
   padding: 8px;
   width:60%;
