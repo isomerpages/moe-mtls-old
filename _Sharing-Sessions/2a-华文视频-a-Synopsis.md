@@ -64,6 +64,7 @@ max-width:40%;
 
 </style>
 </head>
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
   <body>  
  <div><h2 style="font-family:KaiTi">	华文视频</h2></div>
 <table class="tbl">
@@ -101,8 +102,8 @@ To cultivate students who flourish in our MTL Wonderland, we should not approach
 <p  style="margin:10px;">Our speaker will be sharing a framework for MTL development in an educational ecosystem. The framework draws upon studies in early childhood development, heritage language education, bilingual and biliteracy development, and language immersion education. She offers practical strategies, applicable to daily life and learning, that will guide students towards a healthy self-identity, high proficiency and literacy in MTL and English, and global competency in intergenerational connection and intercultural engagement. 
  <br/>
 </p></div></div></td>  
- <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/CL-video-Shuhan/"><img class="btnImg" src="/images/arrowChinese.png"></a>
+ <td style="border:0 none;padding: 0;" class="btnImg13">
+  <a href="/test/CL-video-Shuhan/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
  <tr>
@@ -137,8 +138,8 @@ As home parenting and home-based learning become the new normal, parents are spe
 </p>
 </div></div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/CL-video-Sun/"><img class="btnImg" src="/images/arrowChinese.png"></a>
+<td style="border:0 none;padding: 0;" class="btnImg13">
+  <a href="/test/CL-video-Sun/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -177,8 +178,8 @@ The speaker will share how the curriculum enables children to learn Chinese in c
 </p>
 </div></div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/CL-video-Xu/"><img class="btnImg" src="/images/arrowChinese.png"></a>
+<td style="border:0 none;padding: 0;" class="btnImgZero">
+  <a href="/test/CL-video-Xu/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
  </tr>
  <tr>
@@ -212,8 +213,8 @@ Cultivating good reading habits and developing an interest in reading for young 
 </p>
  </div></div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/CL-video-Lim/"> <img class="btnImg" src="/images/arrowChinese.png"></a>
+<td style="border:0 none;padding: 0;" class="btnImgZero">
+  <a href="/test/CL-video-Lim/"> <img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -245,8 +246,8 @@ Trainer</p>
 Language development in early childhood is crucial to acquiring sound foundational knowledge, skills and dispositions in one’s Mother Tongue Language (MTL) that will facilitate children’s learning in later years.  The importance of learning Chinese in the early years and the use of strategies to provide children with a head start will be explored in this session. Factors that influence children’s language and literacy, along with the sharing of relevant language activities and tips on enhancing children’s learning in Chinese will also be shared.</p>
        </div></div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/CL-video-Lim/"> <img class="btnImg" src="/images/arrowChinese.png"></a>
+<td style="border:0 none;padding: 0;" class="btnImgZero">
+  <a href="/test/CL-video-Lim/"> <img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -277,8 +278,8 @@ Language development in early childhood is crucial to acquiring sound foundation
  Dr. Woo Yen Yen, former New York-based professor and English teacher, went from being a student who ripped up her Chinese textbook to one who writes Chinese comics. She has also created a giant musical that toured 25 cities in China. In this sharing, she will share her journey and valuable tips for getting her American-born daughter who had no Chinese background, to thrive in an all-Chinese instruction Taiwanese public school.</p>
   </div></div>
  </td>
- <td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-   <a href="/test/CL-video-Woo/"><img class="btnImg" src="/images/arrowChinese.png"></a>
+ <td style="border:0 none;padding: 0;" class="btnImg13">
+   <a href="/test/CL-video-Woo/"><img class="btnImg" src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
  </td>
 </tr>
 </table>

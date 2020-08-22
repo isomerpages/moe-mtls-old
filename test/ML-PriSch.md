@@ -68,17 +68,18 @@ table.center {
   width:100%;  
 }
 </style>
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/ML_Header2.jpg">
 <p>
- <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:Calibri">Bahan Pengajaran Dan Pembelajaran</span></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:Calibri">Sokongan Ibu Bapa</span></a>&nbsp;&nbsp;
+ <a href="#C1" style="font-size:20px"><span style="color:blue;font-family:Calibri">Bahan Pengajaran Dan Pembelajaran</span></a><br/>
+ <a href="#C2" style="font-size:20px"><span style="color:blue;font-family:Calibri">Sokongan Ibu Bapa</span></a>
 </p>
 <img src="/images/MTLS-Malay-Matalamat-Kurikulum-Bahasa-Melayu2.jpg">
 <br/>
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-   <label for="tab-1" style="font-size:25px;color:#53d91e;">Objektif Kurikulum Bahasa Melayu
+   <label for="tab-1" style="font-size:25px;" class="lbML">Objektif Kurikulum Bahasa Melayu
 </label>
      <div class="tab-content">
        <p style="text-align:justify;">Pada akhir perngajaran dan pembelajaran Bahasa Melayu di sekolah rendah, murid depat:
@@ -86,40 +87,40 @@ table.center {
 
   <li>mendengar dan memahami pengucapan dengan teliti;
 </li>
-           <li>bertutur dengan petah menggunakan sebutan bak dan intonasi yang betul;
+           <li style="text-align:justify;">bertutur dengan petah menggunakan sebutan bak dan intonasi yang betul;
 </li>
-           <li>membaca pelbagai bahan bercetak dan bahan media elektronik dan memberikan respons yang sesuai;
+           <li style="text-align:justify;">membaca pelbagai bahan bercetak dan bahan media elektronik dan memberikan respons yang sesuai;
 </li>
-           <li>menulis pelbagai jenis teks berdasarkan pelbagai tajuk yang sesuai;
+           <li style="text-align:justify;">menulis pelbagai jenis teks berdasarkan pelbagai tajuk yang sesuai;
 </li>
-           <li>berinteraksi secara lisan dengan menggunakan sebutan baku;</li>
-           <li>berinteraksi secara bertulis mengenai pelbagai tajuk tang sesuai;
+           <li style="text-align:justify;">berinteraksi secara lisan dengan menggunakan sebutan baku;</li>
+           <li style="text-align:justify;">>berinteraksi secara bertulis mengenai pelbagai tajuk tang sesuai;
 </li>
-           <li>berfikir secara kreatif, kritis dan kritikal;
+           <li style="text-align:justify;">berfikir secara kreatif, kritis dan kritikal;
 </li>
-           <li>mengenali dan memahami budaya dan nilai-nilai murni masyarakay Melayu dan kaum-kaum lain; dan
+           <li style="text-align:justify;">mengenali dan memahami budaya dan nilai-nilai murni masyarakay Melayu dan kaum-kaum lain; dan
 </li>
-            <li>memupuk minat membaca dan menjadikannya amalan ke arah membina budaya belajar sepanjang hayat.
+            <li style="text-align:justify;">memupuk minat membaca dan menjadikannya amalan ke arah membina budaya belajar sepanjang hayat.
 </li>
            </ul> 
        </p>
        </div></div>
-       <p>
-  <li>&nbsp;&nbsp;&nbsp;Bahasa Melayu merupakan salah satu Bahasa Ibunda yang ditawarkan di sekolah rendah.  Murid-murid diberikan peluang untuk mempelajari Bahasa Melayu setinggi mana yang terdaya dan sejauh mana yang termampu.
+<ul><p style="text-align:justify;">
+<li style="text-align:justify;">Bahasa Melayu merupakan salah satu Bahasa Ibunda yang ditawarkan di sekolah rendah.  Murid-murid diberikan peluang untuk mempelajari Bahasa Melayu setinggi mana yang terdaya dan sejauh mana yang termampu.
 </li>
-  <li>&nbsp;&nbsp;&nbsp;Di sekolah, Kurikulum Bahasa Melayu Sekolah Rendah dijalankan dengan menggunakan pendekatan yang berpusatkan murid.  Pengajaran yang dijalankan bersifat interaktif agar murid-murid mudah mempelajari dan memahami pelajaran yang diikuti. Memandangkan murid yang memasuki sekolah rendah mempunyai latar belakang bahasa yang pelbagai, keperluan pembelajaran mereka juga seharusnya berbeza-beza. Oleh itu, pembelajaran pembezaan harus ditekankan untuk memenuhi keupayaan yang pelbagai ini. 
+<li style="text-align:justify;">Di sekolah, Kurikulum Bahasa Melayu Sekolah Rendah dijalankan dengan menggunakan pendekatan yang berpusatkan murid.  Pengajaran yang dijalankan bersifat interaktif agar murid-murid mudah mempelajari dan memahami pelajaran yang diikuti. Memandangkan murid yang memasuki sekolah rendah mempunyai latar belakang bahasa yang pelbagai, keperluan pembelajaran mereka juga seharusnya berbeza-beza. Oleh itu, pembelajaran pembezaan harus ditekankan untuk memenuhi keupayaan yang pelbagai ini. 
 </li>
-  <li>&nbsp;&nbsp;&nbsp;Murid yang mempunyai pelbagai keupayaan juga akan disokong untuk membina kecekapan bahasa dan budaya. Hal ini bukan sahaja dapat mengekalkan minat mereka untuk menggunakan dan menguasai bahasa Ibunda, malahan untuk menggunakan bahasa itu sebagai alat komunikasi secara berkesan
+<li style="text-align:justify;">Murid yang mempunyai pelbagai keupayaan juga akan disokong untuk membina kecekapan bahasa dan budaya. Hal ini bukan sahaja dapat mengekalkan minat mereka untuk menggunakan dan menguasai bahasa Ibunda, malahan untuk menggunakan bahasa itu sebagai alat komunikasi secara berkesan.
 </li>
-  <li>&nbsp;&nbsp;&nbsp;Sila lihat <strong> Program Bahasa Melayu Lanjutan, Program Sokongan Bahasa Ibunda bagi murid Darjah 3 dan 4 </strong>
-</li>
-</p>
+<li>Sila lihat <strong> Program Bahasa Melayu Lanjutan, Program Sokongan Bahasa Ibunda bagi murid Darjah 3 dan 4 </strong>
+  </li></p>
+</ul>
   <img src="/images/MTLS-Malay-PriSch-Malay-Program2.jpg" class="image">  <br/>
-  <p style="text-align:justify;">Jika anak anda berminat dalam bahasa, budaya dan kesusateraan Melayu dan mengambil Bahasa Melayu Lanjutan di dekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon untuk ke sekolah-sekolah EMAS melalui: Direct School Admission (DSA) untuk Bahasa Melayu atau selepas mendapat keputusan PSLE. <br/>
+  <p style="text-align:justify;">Jika anak anda berminat dalam bahasa, budaya dan kesusateraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS melalui: Direct School Admission (DSA) untuk Bahasa Melayu atau selepas mendapat keputusan PSLE. <br/>
  Lihat <a href="https://tinyurl.com/emasmlep" target="_blank">https://tinyurl.com/emasmlep </a>
   </p>
  <p id="C1" style="font-size:30px;color:black"><strong>Bahan Pengajaran dan Pembelajaran </strong><br/>
-  <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran cekap:</span></p>
+  <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran Pakej Cekap:</span></p>
   <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
   <label for="tab-2" class="lbML">- Dekat dengan kehidupan murid </label>
@@ -144,10 +145,10 @@ table.center {
      <div class="tab-content">
        <img src="/images/ML-10.png">  
        </div></div>
-      <p id="C2" style="font-size:30px;color:green;"><strong>Sokongan Ibu Bapa </strong><br/><br/>
+      <p id="C2" style="font-size:30px;"><strong>Sokongan Ibu Bapa </strong><br/><br/>
 <img src="/images/MTLS-Malay-PriSch-Role-of-Parents2.jpg"> 
 </p>
-<p style="font-size:25px;text-align:justify;">Ibu bapa boleh bermain beberapa permainan dengan anak anda agar dapat meningkatkan dan meluaskan kosa kata anak</p>
+<p style="font-size:25px;text-align:justify;">Anda boleh bermain beberapa permainan dengan anak anda agar dapat meningkatkan dan meluaskan kosa kata mereka.</p>
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
    <label for="tab-6" class="lbML">Permainan Huruf/Abjad </label>
@@ -212,7 +213,8 @@ table.center {
       <input id="tab-8" type="checkbox" name="tab">
    <label for="tab-8" class="lbML">Permainan Suku Kata </label>
      <div class="tab-content">
-       <p style="text-align:justify;">Ibu bapa boleh memulakan permainan dengan memberikan satu perkataan. Contohnya, roti.  Kemudian anak harus membina perkataan lain yang bermula dengan suka kata akhir perkataan tadi. 
+       <p style="text-align:justify;">Ibu bapa boleh memulakan permainan dengan memberikan satu perkataan. Contohnya, roti.  Kemudian anak harus membina perkataan lain yang bermula dengan suka kata akhir perkataan tadi. <br/><br/>
+         Contoh perbualan:
 <table class="center">
   
   <tr>
@@ -234,17 +236,17 @@ table.center {
 </table>
 </p>
 </div></div>
-<p style="font-size:25px;text-align:justify;">Ibu bapa boleh bermain beberapa permainan dengan anak anda yang boleh membantu anak anda menguasai kemahiran membina ayat.
+<p style="font-size:25px;text-align:justify;">Anda juga boleh bermain  beberapa permainan dengan anak anda agar dapat membantu mereka menguasai kemahiran membina ayat.
 </p>
 <div class="atab">
       <input id="tab-9" type="checkbox" name="tab">
    <label for="tab-9" class="lbML">Permainan Membina Ayat </label>
      <div class="tab-content">
-       <p style="text-align:justify;">Ibu bapa boleh memberikan satu perkataan atau beberapa perkataan secara lisan atau bertulis kepada anak anda (mengikut keupayaan anak membina ayat). Kemudian ibu bapa meminta anak anda membina ayat dengan perkataan yang diberikan.<br/><br/>
-         Contoh perbualan 1 : <span style="background-color:green;color:white;"> kereta </span>
+       <p style="text-align:justify;">Ibu bapa boleh memberikan satu perkataan atau beberapa perkataan secara lisan atau bertulis kepada anak (mengikut keupayaan anak membina ayat). Kemudian ibu bapa meminta anak membina ayat dengan perkataan yang diberikan.<br/><br/>
+         Contoh 1 : <span style="background-color:green;color:white;"> kereta </span>
 <br/>
          <strong>Kereta </strong> itu berwarna merah.<br/><br/>
-         Contoh perbualan 2 : <span style="background-color:green;color:white;"> kereta </span>&nbsp; <span style="background-color:green;color:white;"> laju </span>
+         Contoh 2 : <span style="background-color:green;color:white;"> kereta </span>&nbsp; <span style="background-color:green;color:white;"> laju </span>
  <br/>
          <strong>Kereta</strong> Ayah bergerak dengan <strong>laju.</strong><br/>
 </p>
@@ -278,14 +280,14 @@ table.center {
 </table>
 </p>
 </div></div>
-<p style="text-align:justify;">
-  <li>Permainan yang disarankan di atas haruslah dilakukan secara santai dan menyeronokkan. </li>
+<p>
+  <li style="text-align:justify;">Permainan yang disarankan di atas haruslah dilakukan secara santai dan menyeronokkan. </li>
   
   <li>Betulkan jawapan anak anda dengan teguran yang lembut.  </li>
   
   <li>Galakkan anak anda untuk terus mencuba.  </li>
 
-  <li>Selain itu, permainan yang disarankan juga dapat mengeratkan hubungan antara anak dan ibu bapa.</li>
+  <li>Permainan yang disarankan juga dapat mengeratkan hubungan anda dengan anak anda.</li>
 </p>
 
  <img src="/images/MTLS-Malay-PriSch-Footer2.jpg">  

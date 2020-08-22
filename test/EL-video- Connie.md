@@ -12,11 +12,11 @@ max-width:20%;
 }
 </style>
 </head>
+  <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
   <body>  
-  <a href="https://staging-moe-mtls.netlify.app/exhibition/english-sessions/synopsis/" style="float:right;">Back</a>
+  <a href="https://staging-moe-mtls.netlify.app/exhibition/english-videos/synopsis/" style="float:right;">Back</a>
 <div class="video-container">
- <iframe src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
- allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qzuLweVtVxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
  <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
    </div>

@@ -16,7 +16,7 @@ td{
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
-  width:60%;
+  width:50%;
 }
   .tab img{
    width: 80%;
@@ -65,6 +65,10 @@ td{
 border : 0;
 width:100%;
 }
+.iframe1{
+border : 0;
+width:80%;
+}
  .atab input[type=checkbox]:checked + label::after,
 .atab input[type=radio]:checked + label::after {
     content: 'x';
@@ -87,52 +91,50 @@ width:100%;
 }
  
 </style>
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/TL-PreU-Header.jpg">
 <p>
-<a href="#C1" style="font-size:23px"><span style="color:blue;">உயர்தரம் 1 (H1) தாய்மொழிப் பாடத்திட்டமும் தாய்மொழி B பாடத்திட்டமும்
+<a href="#C1" style="font-size:20px"><span style="color:blue;">பல்கலைக்கழகப் புகுமுக நிலை </span></a><br/> 
+<a href="#C4" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி விருப்பப் பாடத்திட்டம் (Tamil Language Elective Programme)
 </span></a><br/>
- <a href="#C2" style="font-size:23px"><span style="color:blue;">உயர்தரம் 2/3 (H2/H3) தமிழ்மொழி, இலக்கியப் பாடத்திட்டம்
+ <a href="#C5" style="font-size:20px"><span style="color:blue;">இலக்கியம்
 </span></a><br/>
-<a href="#C3" style="font-size:23px"><span style="color:blue;">தேசிய தமிழ்மொழி விருப்பப் பாடத்திட்டம் (National Elective Tamil Programme)
+<a href="#C6" style="font-size:20px"><span style="color:blue;">தொடர்பிணைப்புக் கற்றல் சமூகக் குழு உருவாக்கம் (Networked Learning Community)
 </span></a><br/>
-<a href="#C4" style="font-size:23px"><span style="color:blue;">தமிழ்மொழி விருப்பப் பாடத்திட்டம் (Tamil Language Elective Programme)
+<a href="#C7" style="font-size:20px"><span style="color:blue;">பால்மரக்காட்டினிலே – கற்றல் பயணம்
 </span></a><br/>
- <a href="#C5" style="font-size:23px"><span style="color:blue;">இலக்கியம்
-</span></a><br/>
-<a href="#C6" style="font-size:23px"><span style="color:blue;">தொடர்பிணைப்புக் கற்றல் சமூகக் குழு உருவாக்கம் (Networked Learning Community)
-</span></a><br/>
-<a href="#C7" style="font-size:23px"><span style="color:blue;">பால்மரக்காட்டினிலே – கற்றல் பயணம்
-</span></a><br/>
- <a href="#C8" style="font-size:23px"><span style="color:blue;">இணையம்வழிக் கற்றல்
+ <a href="#C8" style="font-size:20px"><span style="color:blue;">இணையம்வழிக் கற்றல்
 </span></a>
 <br/><br/>
-<table style="width:100%">
- 
-  <tr>
-    <td><p>பலதரப்பட்ட மாணவர்களின் தேவைகளை நிறைவு செய்யும் வகையிலும் நெகிழ்வுத்தன்மை மிக்கதாகவும் பல்கலைக்கழகப் புகுமுகநிலைப் பாடக்கலைத்திட்டம் அமைந்துள்ளது. மாணவர்கள் தமிழைச்  சிரமமின்றிக் கற்கவும் தமிழின்பால் ஆர்வங்கொள்ளவும் இப்பாடக்கலைத்திட்டம் வழிவகுக்கிறது. பள்ளியில் மட்டுமன்றிப் பள்ளிக்கு அப்பாலும் தமிழ்மொழியின் புழக்கத்தை அதிகரித்துச் சிங்கப்பூரில் தமிழை வாழும் மொழியாக நிலைத்திருக்கச் செய்யவும் இது உறுதுணைபுரியும். தமிழ்மொழி கற்றல் பயன்முனைப்புமிக்கதாக அமையப் பெறவேண்டுமாயின் உயிரோட்டமிக்க வகுப்பறைச் சூழலை உருவாக்கி ஆர்வமூட்டும் வகையில் கற்பித்தல் நிகழ்த்தப்பட வேண்டும்.
+<h4><span style="font-size:30px;color:purple;">தாய்மொழியின் இலக்கு 
+ </span></h4>
+ <p style="text-align:justify;">வருங்காலச் சிங்கப்பூர்த் தமிழ்ச் சந்ததியினரிடையே தமிழ் வாழும் மொழியாகத் திகழ வேண்டும், பலவகைப் பண்பாட்டுப் பாரம்பரியத்தைக் கொண்டு உலக நகராக விளங்கும் சிங்கப்பூரின் தனித்தன்மைக்கு வலுவூட்டும் அம்சமாக அது விளங்க வேண்டும்.
+</p>
+<h4><span style="font-size:30px;color:purple;">வழிகாட்டு கோட்பாடுகள்
+ </span></h4>
+ <table style="width:100%">
+ <tr>
+ <td>
+     <p style="text-align:justify;">பலதரப்பட்ட மாணவர்களின் தேவைகளை நிறைவு செய்யும் வகையிலும் நெகிழ்வுத்தன்மை மிக்கதாகவும் பல்கலைக்கழகப் புகுமுகநிலைப் பாடக்கலைத்திட்டம் அமைந்துள்ளது. மாணவர்கள் தமிழைச்  சிரமமின்றிக் கற்கவும் தமிழின்பால் ஆர்வங்கொள்ளவும் இப்பாடக்கலைத்திட்டம் வழிவகுக்கிறது. பள்ளியில் மட்டுமன்றிப் பள்ளிக்கு அப்பாலும் தமிழ்மொழியின் புழக்கத்தை அதிகரித்துச் சிங்கப்பூரில் தமிழை வாழும் மொழியாக நிலைத்திருக்கச் செய்யவும் இது உறுதுணைபுரியும். தமிழ்மொழி கற்றல் பயன்முனைப்புமிக்கதாக அமையப் பெறவேண்டுமாயின் உயிரோட்டமிக்க வகுப்பறைச் சூழலை உருவாக்கி ஆர்வமூட்டும் வகையில் கற்பித்தல் நிகழ்த்தப்பட வேண்டும்.
 </p></td>
-    <td><img src="/images/TL-PreU-Guiding.jpg"></td>
+    <td><img src="/images/TL-PreU-Intro.jpg"></td>
     </tr>
 </table>
-<h4 id="C1"><span style="font-size:30px;color:purple;">உயர்தரம் 1 (H1) தாய்மொழிப் பாடத்திட்டமும் தாய்மொழி B பாடத்திட்டமும்
+<h4><span style="font-size:30px;color:purple;">பல்கலைக்கழகப் புகுமுக நிலை 
  </span>
 </h4>
-<p>உயர்தரம் 1 தமிழ்மொழிப் பாடத்திட்டத்திலும் (Higher 1 Tamil Language) தமிழ்மொழி ‘B’ பாடத்திட்டத்திலும் (Tamil Language ‘B’) முதன்மைப் பாடத்திட்டத்தோடு (Core Module) விருப்பப் பாடத்திட்டமும் (Elective Module) முறையே அறிமுகப்படுத்தப்பட்டிருக்கிறது. முதன்மைப் பாடத்திட்டத்திலும் விருப்பப் பாடத்திட்டத்திலும் பரிந்துரைக்கப்பட்டிருக்கும் தலைப்புகளை ஆசிரியர் மாணர்களின் தேவைகளையும் தயார்நிலையையும் கருத்திற்கொண்டு தேர்ந்தெடுத்துக் கற்பிப்பது அவசியம். இந்நெகிழ்வுத்தன்மை மாணவர்கள் தமிழை ஆர்வத்துடனும் ஈடுபாட்டுடனும் கற்க வழிவகுக்கும்.<br/>
- இவை மாணவர்களைத் தாய்மொழி கற்றலில் ஈடுபாடு கொள்ளச் செய்வதை நோக்கமாக கொண்டுள்ளன.<br/>
- <ul>
-  <li>அடிப்படை மொழித்திறன்களை வலுப்படுத்துதல்    </li>
-  <li>பாடப்பொருளறிவை ஆழப்படுத்துதல்</li>
-  <li> மகிழ்வூட்டும் கற்றலை உறுதிப்படுத்துதல்
-</li>
-</ul><br/>
+<img src="/images/TL-PreU-Curriculum.jpg">
+<br/>
 <a href="/Gallery/2020-h1-tamil-language-tamil-language-b-syllabus.pdf" target="_blank">2020 Syllabus Tamil Language Pre-University
 </a>
- </p>
-<h4 id="C2"><span style="font-size:30px;color:purple;">உயர்தரம் 2/3 (H2/H3) தமிழ்மொழி, இலக்கியப் பாடத்திட்டம்
+
+<h4 id="C2"><span style="font-size:30px;color:purple;">பல்கலைகழகப் புகுமுகநிலை உயர்தரம் 2/3 பாடத்திட்ட வெளியீடு
  </span></h4>
-<img src="/images/TL-PreU-H2H3TLL.jpg">
-<br/>
+ <center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OHI3rlQR2vU" class="iframe1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size=20px;">H2 & H3 TLL Syllabus Launch 2020
+</span></center>
+<br/><br/>
 <div class="row">
  <div class="column">
  <iframe  width="560" height="315" src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
@@ -140,81 +142,82 @@ width:100%;
   <div class="column">
   <iframe width="560" height="315"  src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
  </div></div>
-<ul>
-  <li><a href="#" target="_blank">H2H3TLL Syllabus
-</a></li>
-  <li><a href="#" target="_blank">Launch Slides- {PDF version}
-</a></li>
-  <li><a href="#" target="_blank">PDF version of E-brochure of H2/H3TLL Syllabus 2021
-</a></li>
-  <li><a href="#" target="_blank">Sample Thumbnail for PDF of Illakiya Oola & loop slides video</a></li>
-  <li><a href="#" target="_blank">Student’s sharing on H3TLL
-</a></li>
-</ul>
- <div class="atab">
-      <input id="tab-1" type="checkbox" name="tab">
-   <label for="tab-1" style="font-family:KaiTi;font-size:22px" class="lbCh">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமூட்டும் உத்திமுறைகள் 
-</label>
-     <div class="tab-content">
-<img src="/images/TL-PreU-Strategies.jpg">
-       </div>
-      </div>
-<h4 id="C3"><span style="font-size:30px;color:purple;">தேசிய தமிழ்மொழி விருப்பப் பாடத்திட்டம் (National Elective Tamil Programme)
- </span></h4>
- <p><strong>‘விதைத்ததுதான் பயிராகும்; நல்வித்துகளே கனிதரும் மரமாகும்.”
-</strong> <br/>விருப்பப்பாடத்திட்டம் மாணவர்களை வகுப்பறைக்கு அப்பாலும் தமிழ்மொழி கற்றலில் ஈடுபடுவதை நோக்கமாக கொண்டுள்ளது.
 <br/>
- <ul>
-  <li>தமிழ்மொழியறிவையும் இலக்கிய ஆற்றலையும் மேலும் பெருக்கிக்கொள்ளத் துணைபுரிதல் </li>
-  <li>இலக்கியச் செழுமை நிறைந்த  தமிழ்மொழியின் அரிய படைப்புகளை அறிந்துகொள்ள வாய்ப்பளித்தல்
-</li>
-</ul>
-<iframe width="560" height="315"  src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px">An intro to Pre- U & Comic strip (Conversation between TLEP Students).
-</span>
-</p>
+<img src="/images/TL-PreU-Comic2.jpg">
+<br/>
+
+<h4><span style="font-size:30px;color:purple;">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமூட்டும் உத்திமுறைகள் 
+ </span></h4> 
+<img src="/images/TL-PreU-Strategies.jpg">
+<br/>
+
 <h4 id="C4"><span style="font-size:30px;color:purple;">ததமிழ்மொழி விருப்பப் பாடத்திட்டம் (Tamil Language Elective Programme)
  </span></h4>
- <p>தமிழ்மொழி விருப்பப்பாடத் திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. தகுதிவாய்ந்த மாணவர்களைத் தமிழ்மொழியில் ஆற்றல்மிக்கவர்களாகவும், தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வைப் பேணி வளர்க்கவும் இத்திட்டம் வகைசெய்யும். அதோடு, மாணவர்களை இருமொழியாற்றல் மிக்கவர்களாக உருவாக்குவதே இந்தத் திட்டத்தின் நோக்கமாகும். <br/>
- தமிழ்மொழி விருப்பப்பாடத் திட்டம் கீழ்க்கண்ட உயர்நிலைப் பள்ளிகளிலும் தொடக்கக்கல்லூரிகளிலும் வழங்கப்படுகின்றது.
- <div class="row">
- <div class="column">
-  <a href="/Gallery/tlep-sec-infosheet-students-2019.pdf " target="_blank"><img src="/images/TL-PreU-Student2019.png"></a>
-  </div> 
- <div class="column">
-   <a href="/Gallery/tlep-jc_infosheet_students.pdf " target="_blank"><img src="/images/TL-PreU-InfoSheet_Student.png"></a>
-   </div> 
-   </div>
-   </p>
+ <p style="text-align:justify;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. தகுதிவாய்ந்த மாணவர்களைத் தமிழ்மொழியில் ஆற்றல்மிக்கவர்களாகவும், தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வைப் பேணி வளர்க்கவும் இத்திட்டம் வகைசெய்யும். அதோடு, மாணவர்களை இருமொழியாற்றல் மிக்கவர்களாக உருவாக்குவதே இந்தத் திட்டத்தின் நோக்கமாகும்.
+</p>
 <table style="width:100%">
   <tr>
     <td class="btab" ><img src="/images/TL-PreU-rigth7.png"></td>
     <td class="btab"><img src="/images/TL-PreU-right8.png"></td>
  </tr>
 </table>
- <table style="width:100%">
-  <tr>
-    <td class="btab"> <img src="/images/TL-PreU-right9.png"></td>
-    <td class="btab"><img src="/images/TL-PreU-right8.png"></td>
- </tr>
-</table>   
 <br/>
-<div class="row">
- <div class="column">
- <iframe  width="560" height="315" src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-</div>
-  <div class="column">
-  <iframe width="560" height="315"  src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
- </div></div>
- <div class="row">
- <div class="column">
- <iframe  width="560" height="315" src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-</div>
-  <div class="column">
-  <iframe width="560" height="315"  src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
- </div></div>
  <a href="#" target="_blank">Students’ and Parents’ sharing on TLEP</a>
  <br/>
- <h4 id="C5"><span style="font-size:30px;color:purple;">இலக்கியம்</span></h4>
+ <h4><span style="font-size:30px;color:purple;">நோக்கங்கள்</span></h4>
+ <table style="width:100%">
+  <tr>
+ <td>
+     <p style="text-align:justify;">மாணவர்களைத் தமிழ்மொழியில் ஆற்றல் மிக்கவர்களாக உருவாக்குவது.
+<br/><br/>
+      தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வை வளர்ப்பது
+<br/><br/>
+      மாணவர்களை இருமொழியாற்றல் மிக்கவர்களாக உருவாக்குவது
+</p></td>
+    <td><img src="/images/TLL-text-cover.gif"></td>
+    </tr>
+</table>
+<p>
+<a href="/Gallery/Recommended-reading-of-H2TLL.pdf" target="_blank">Recommended text</a><br/>
+<a href="/Gallery/H2TLL-Recommended-Text.pdf" target="_blank">Recommended text (Condensed)</a><br/>
+<a href="/Gallery/H2-&-H3TLL-Launch-Slides.pdf" target="_blank">H2H3TLL Launch 2020 slides</a><br/>
+<a href="/Gallery/H2TLL-Brochure.pdf" target="_blank">JC Syllabus</a><br/>
+<a href="/Gallery/H3TLL-Sharing -by-EJC-Student.pdf" target="_blank">Student’s sharing on H3TLL at Toastmaster Club</a>
+ </p><br/>
+ <h4><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப் பாடத்திட்டம் 
+</span></h4>
+  <div class="row">
+ <div class="column">
+   <p style="text-align:justify;">வழங்கப்படும் உயர்நிலைப்பள்ளிகள்
+
+<br/>
+   <ul>
+    <li>காமன்வெல்த் உயர்நிலைப்பள்ளி
+</li>
+     <li>ரிவர்சைடு உயர்நிலைப்பள்ளி
+</li>
+     <li>யூசூன் டவுன் உயர்நிலைப்பள்ளி
+</li>
+   </ul>
+  <a href="/Gallery/TL-Sec-tlep-sec-infosheet-students-2019.pdf " target="_blank">TLEP Infosheet - Secondary</a></p>
+  </div> 
+
+ <div class="column">
+
+  <p style="text-align:justify;">வழங்கப்படும் தொடக்கக்கல்லூரிகள் 
+<br/>
+  <ul>
+  <li>ஆண்டர்சன் சிராங்கூன்
+  <br/> தொடக்கக்கல்லூரி
+</li>
+    <li>தேசிய தொடக்கக்கல்லூரி
+</li>
+ </ul>
+<a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf " target="_blank">TLEP Infosheet - JC</a></p> 
+   </div> 
+   </div>
+   <br/> 
+ <h4><span style="font-size:30px;color:purple;">இலக்கியம்</span></h4>
    <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
    <label for="tab-2" style="font-size:22px" class="lbTM">இலக்கியம்இலக்கிய வகுப்பு ஆர்வமூட்டக்கூடியதாகஇருக்குமா?
@@ -222,20 +225,102 @@ width:100%;
      <div class="tab-content">   
    <img src="/images/TL-PreU-Literature.jpg">
  </div></div>
-<h4 id="C6"><span style="font-size:30px;color:purple;">தொடர்பிணைப்புக் கற்றல் சமூகக் குழு உருவாக்கம் (Networked Learning Community)
+ <h4><span style="font-size:30px;color:purple;">நடவடிக்கைகள்
  </span></h4>
- <p><strong>தொடர்பிணைப்புக் கற்றல் சமூகக் குழு உருவாக்கம் <br/>
- (NLC) – A brief write up will be given 
-</strong> <br/>
-<iframe width="560" height="315"  src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+ <img src="/images/TL-PreU-Signature-Activities.jpg">
+ <br/> 
+ <a href="/Gallery/TLEP-JC.pdf " target="_blank">TLEP-JC Brochure</a>
+ <br/> <br/>
+<div class="row">
+ <div class="column">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/z1DOuNAkQc8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px;">ASRJC Poetry Forum with Local Poet Pichanikaadu Ilango 
+</span>
+</div>
+  <div class="column">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/QWvTSMtiopU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/><span style="font-size:20px;">Q& A session with Local Poet & ASRJC students</span>
+ </div></div>
+ <br/>
+<div class="row">
+ <div class="column">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Ss0CN2L5SYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/><span style="font-size:20px;">ASRJC student’s sharing on Poet Azha Valliappa
+</span>
+</div>
+  <div class="column">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZbvDUQFSdO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/><span style="font-size:20px;">NJC students’ quick sharing on Poet Azha Valliappa’s poems
+</span>
+ </div></div>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YtnQl3v5-Ys" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px;">Student Vaishnavi’ sharing on Short Story
+</span>
+</center>
+ <br/>
+ <h4><span style="font-size:30px;color:purple;">பால்மரக்காட்டினிலே – கற்றல் பயணம்
+ </span></h4>
+ <p style="text-align:justify;">தமிழ்மொழி கற்றல் வளர்ச்சி குழுவின் ஆதரவில் தொடக்கக் கல்லூரி ஆசிரியர்கள்  சென்ற ஆண்டு நவம்பர் 10 ஆம் தேதி செரம்பான் ரப்பர்த் தோட்டத்திற்குக் கற்றல் பயணத்தை மேற்கொண்டனர். பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2 இலக்கியப்பாடத்திற்கான நாவல்  பால்மாரக்காட்டினிலே ஆகும். மலேசிய ரப்பர் தோட்டங்களில் பணிபுரியும் தமிழர்களின் வாழ்க்கையைப் பற்றிய கதை அது. நாவலில் நிகழ்ந்த சம்பவங்களையும் பால்வெட்டு ஊழியர்களின் வாழ்க்கைமுறையையும் நேரில் காணும்வரை இந்தக் கற்றல் பயணம் ஏற்பாடு செய்யப்பெற்றது. ரப்பர் மரங்கள், பால்வெட்டும் செயல்முறை, பால்வெட்டு ஊழியர்களின் அணுகுமுறை, பால் சேகரிக்கப்படும் இடங்கள் போன்றவற்றை ஆசிரியர்கள் நேரடியாக அறிந்துகொள்ளும்வண்ணம் பயனுள்ள கற்றல் பயணமாகவே இது அமைந்தது. 
 </p>
-<h4 id="C7"><span style="font-size:30px;color:purple;">பால்மரக்காட்டினிலே – கற்றல் பயணம்
+<h4><span style="font-size:30px;color:purple;">நாவல் - பால்மரக்காட்டினிலே  
+</span></h4>
+<table style="width:100%">
+  <tr>
+    <td><p style="text-align:justify;">1975ல் மலேசியத் தமிழ் எழுத்தாளர் சங்கத்தின் அழைப்பையேற்று மலேசியாவில் நான்கு வாரம் பயணம் மேற்கொண்டார், அகிலன். ‘வரும் போது நாவலுடன் வாருங்கள்' என்று சொன்னாராம் கலைமகள் ஆசிரியர்  கி.வா.ஜ. உடனிருந்த கலைமகள் அதிபர் ராமரத்னமும் ஆமோதித்தாராம். அதன் விளைவாக ஒரு நாவலுக்கான கருப்பொருளைத் தேடிக்கொண்டிருந்தவர், மலேசிய ரப்பர் தோட்டங்களில் பணிபுரியும் தமிழர்களின் வாழ்க்கையைப் பற்றி நாவல் எழுதலாம் என்று தீர்மானித்து அதற்குரிய முயற்சிகளை மேற்கொண்டாராம். அதன் விளைவு தான் ‘பால்மரக்காட்டினிலே’ என்ற நாவல். 1976ல் கலைமகளில் தொடராக வந்தது
+     </p></td>
+    <td><img src="/images/TL-PreU-updateImg.jpg">
+   <br/>
+     <img src="/images/Learning-journey-gif.gif">
+   </td>
+ </tr>
+</table>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Db0MlO7f9Ow" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px;">An Educational Visit to Seremban Rubber Estate 
+</span>
+</center>
+<h4><span style="font-size:30px;color:purple;">இணையம்வழிக் கற்றல்
  </span></h4>
-  <img src="/images/TL-PreU-Journey.jpg">
-<h4 id="C8"><span style="font-size:30px;color:purple;">இணையம்வழிக் கற்றல்
- </span></h4>
-  <img src="/images/TL-PreU-OnlineLearning.jpg">
+  <img src="/images/TL-PreU-Online.jpg">
 <br/>
+ 
+<h4><span style="font-size:30px;color:purple;">தொடர்பிணைப்புக் கற்றல் சமூகக் குழு உருவாக்கம் (Networked Learning Community)
+ </span></h4>
+
+<p style="text-align:justify;">
+ <strong>Project Synopsis: 
+</strong> <br/>மாணவர்கள் திறனாய்வு முறையில் சிந்திக்கவும், அனுபவக் கட்டுரையின் கருத்துகள் பற்றிக் கலந்துரையாடவும், அக்கட்டுரையை விரித்து எழுதுவதிலும் அதிகச் சிரமங்களை எதிர்கொண்டனர். இந்த இடைவெளியை நிவர்த்திச் செய்வதற்கு ஆசிரியர்கள் iMTL/SLS தளங்களைப் பயன்படுத்தி ஆர்வமூட்டும் வகையில் கற்பிப்பதற்குச் சோதனை முயற்சிகளை மேற்கொண்டார்கள்.  அம்முயற்சி அவர்களது மாணவர்களுக்குப் பயனுள்ளதாக இருந்தது. ஆசிரியர்கள் கற்பித்த பாடங்களின் நோக்கங்களைக் கீழ்கண்டவாறு பதிவு செய்துள்ளார்கள். <br/>
+ <ul>
+  <li style="text-align:justify;">சிந்தனைத்திறனை மேம்படுத்தி அனுபவக் கட்டுரையின் கருத்துகளை விரித்து எழுதும் திறனை பெற்றனர்.
+</li>
+  <li style="text-align:justify;">மாணவர்கள் தங்களது எண்ணங்களை விரித்து எழுதுவதற்குச் சிறுகதையின் கூறுகளை எவ்வாறு பயன்படுத்துவது என்பதை  அறிந்துகொண்டனர். 
+</li>
+  <li style="text-align:justify;">கட்டுரையின் கருத்துகளைத் திரட்டுவதற்கும், அதை விரித்து எழுதுவதற்கும் iMTL/SLS தளங்களைப் பயன்படுத்தி,  பார் - சிந்தி - தொடர்புபடுத்து மற்றும் 5W 1H என்னும் உத்திமுறைகளைக் கையாளக் கற்றுக்கொண்டனர். 
+</li>
+</ul>
+<table style="width:100%">
+  <tr>
+    <td><img src="/images/TL-PreU-NLC1.JPG">
+  </td>
+    <td><img src="/images/TL-PreU-NLC2.JPG">
+   </td>
+ </tr>
+</table>
+</p>
+
+<p style="text-align:justify;"><strong>Intervention:</strong> இடையீட்டுத் திட்டம் 
+<br/>
+இந்த இடையீட்டுத் திட்டத்தை 4 பிரிவுகளாகப் பிரித்துக்கொண்டு கற்பித்தார்கள்.
+<ul>
+ <li style="text-align:justify;">முதலில் மாணவர்களுக்கு அனுபவக் கட்டுரையைப் பற்றி அறிமுகப்படுத்தினார்கள். பிறகு அனுபவக் கட்டுரையின்  கேள்வியை எவ்வாறு பிரித்துப் படித்து அதன் பொருளைப் புரிந்துகொள்வது என்பதைப் பற்றிக் கற்பித்தனர். மாணவர்கள்  தலைப்பைப் புரிந்துகொள்வதற்குப் பார் - சிந்தி - தொடர்புபடுத்து என்னும் உத்திமுறையைப் பயன்படுத்தினார்கள். 
+</li>
+  <li style="text-align:justify;">மாணவர்களுக்குத் தொடக்கம், வளர்ச்சி, உச்சம், வீழ்ச்சி, முடிவு என்னும்  சிறுகதையின் கூறுகளை எவ்வாறு அனுபவக் கட்டுரைக்குப் பயன்படுத்தலாம் என்று கற்றுக்கொடுத்தார்கள். அத்துடன் அனுபவக் கட்டுயின் கதைமாந்தரின் பண்புகளையும் மன உணர்வுகளையும் வெளிப்படுத்தி எவ்வாறு  படிப்பவரின் கவனத்தை ஈர்க்குமாறு எழுதலாம் என்பதை ஒரு மாதிரி அனுபவக் கட்டுரையின் மூலம் விளக்கிக் கூறினார்கள்.
+</li>
+ <li style="text-align:justify;">அனுபவக் கட்டுரையின் மையக் கருத்துகளை விளக்கி எழுதுவதற்கு 5W 1 H என்னும் உத்திமுறையை எவ்வாறு பயன்படுத்தலாம் என்பதை மாதிரிப் பனுவலின் மூலம் கற்பித்தார்கள்.
+</li>
+ <li style="text-align:justify;">கட்டுரையின் முடிவுரையில் கற்றுக்கொண்ட பாடத்தையும் மனவுணர்வுகளையும் விளக்குவதுடன் எவ்வாறு கட்டுரையின் தலைப்புடன் தொடர்புபடுத்தி முடிவுரையை எழுதுவது என்பதை விளக்கும் ஒரு மாதிரி முடிவுரையைக் காண்பித்து மாணவர்களுக்கு விளக்கினார்கள்.
+</li>
+</ul></p>
+
+
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
 
 

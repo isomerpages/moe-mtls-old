@@ -2,8 +2,26 @@
 title: GOH Message
 permalink: /GOH-Message/
 breadcrumb: GOH Message
----
-<div>
-<img src="images/Coming-soon.jpg" class="Image" width="1000" height="300">
-</div>
-
+--- 
+<html>
+<body>
+<style>
+   iframe{
+border : 0;
+width:80% ;
+}
+  </style>
+   <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
+  <h4><strong> GOH Address (Chinese) </strong></h4>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+    <br/>
+   <h4><strong> GOH Address (Malay) </strong></h4>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+    <br/>
+   <h4><strong> GOH Address (Tamil) </strong></h4>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+    <br/>
+  

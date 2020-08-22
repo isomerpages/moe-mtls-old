@@ -46,11 +46,12 @@ third_nav_title: 'Pameran Bahasa Melayu'
   }
 </style>
 </head>
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <body>
   <table class="tbl">
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
-<div class="atab1Line">
+<div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1" class="lbML"> Berita Harian<br/> &nbsp;</label>
       <div class="tab-content">
@@ -63,8 +64,8 @@ third_nav_title: 'Pameran Bahasa Melayu'
 </div>
 </div>
     </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg" >
-<a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+<td style="border:0 none;padding: 0;" class="btnImg20" >
+<a href="/test/Berita-Harian/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -85,8 +86,8 @@ third_nav_title: 'Pameran Bahasa Melayu'
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+<td style="border:0 none;padding: 0;" class="btnImg20">
+ <a href="/test/Esplanade-Teater-di-Persisiran/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 
@@ -111,8 +112,8 @@ Dana ini menyokong pendekatan menarik dan kreatif bagi menggalakkan kedwibahasaa
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+<td style="border:0 none;padding: 0;" class="btnImg20">
+ <a href="/test/Dana-Kedwibahasaan-Lee-Kuan-Yew/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -130,8 +131,8 @@ Dana ini menyokong pendekatan menarik dan kreatif bagi menggalakkan kedwibahasaa
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+<td style="border:0 none;padding: 0;" class="btnImg20">
+ <a href="/test/M-Kuasa-Tiga-(M3)-Nee-Soon/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 
@@ -150,8 +151,8 @@ Dana ini menyokong pendekatan menarik dan kreatif bagi menggalakkan kedwibahasaa
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+<td style="border:0 none;padding: 0;" class="btnImg20">
+ <a href="/test/Jawatankuasa-Pembelajaran-dan-Penggalakkan-Penggunaan-Bahasa-Melayu/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -175,8 +176,8 @@ Parents can find out more about the learning opportunities available for the you
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+<td style="border:0 none;padding: 0;" class="btnImg20">
+ <a href="/test/Lembaga-Warisan-Negara/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 
@@ -196,8 +197,8 @@ Parents can find out more about the learning opportunities available for the you
   </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+<td style="border:0 none;padding: 0;" class="btnImg20">
+ <a href="/test/Institut-Pendidikan-Nasional-(Kumpulan Akademik Bahasa dan Kebudayaan Asia)/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -216,13 +217,13 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
   </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+<td style="border:0 none;padding: 0;" class="btnImg20">
+ <a href="/test/Lembaga-Perpustakaan-Negara/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
  </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
-<div class="atab1Line">
+<div class="atab">
       <input id="tab-9" type="checkbox" name="tab">
       <label for="tab-9" class="lbML">Wildlife Reserves Singapore <br/> &nbsp;</label>
       <div class="tab-content">
@@ -235,8 +236,8 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowMalay.png"></a>
+<td style="border:0 none;padding: 0;" class="btnImg20">
+ <a href="/test/Wildlife-Reserves-Singapore/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 </table>

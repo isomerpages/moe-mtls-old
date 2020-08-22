@@ -33,6 +33,7 @@ collection_name: Gallery
  <td><h4>Chinese</h4>
  
 <div>
+ <a href="/gallery/华文学习展示区-chinese-exhibitions-a/moe-curriculum/"><div style="display:inline-block;" class="btn"><img src="/images/moecurriculumbtn.png"></div></a>
   <a href="/gallery/华文学习展示区-chinese-exhibitions-b/preschool/"><div style="display:inline-block;" class="btn"><img src="/images/preSchoolbtn.png"></div></a>
   <a href="/gallery/华文学习展示区-chinese-exhibitions-c/schools/"><div style="display:inline-block;" class="btn"><img src="/images/schoolbtn.png"></div></a>
   <a href="/gallery/华文学习展示区-chinese-exhibitions-d/community-partners/"><div style="display:inline-block;" class="btn"><img src="/images/communitypartnerbtn.png"></div></a><br/><br/>
@@ -42,6 +43,8 @@ collection_name: Gallery
 <tr>
  <td><h4>Malay</h4>
 <div>
+ <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/"><div style="display:inline-block;" class="btn">
+  <img src="/images/moecurriculumbtn.png"></div></a>
   <a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-b/preschool/"><div style="display:inline-block;" class="btn"><img src="/images/preSchoolbtn.png"></div></a>
   <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-c/schools/"><div style="display:inline-block;" class="btn"><img src="/images/schoolbtn.png"></div></a>
   <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-d/community-partners/"><div style="display:inline-block;" class="btn"><img src="/images/communitypartnerbtn.png"></div></a><br/><br/>
@@ -51,6 +54,8 @@ collection_name: Gallery
 <tr>
  <td><h4>Tamil</h4>
 <div>
+ <a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-a/moe-curriculum/"><div style="display:inline-block;" class="btn">
+  <img src="/images/moecurriculumbtn.png"></div></a>
   <a href="/gallery/தமிழ்மொழிக் -காட்சிக்கூடம்-tamil-exhibitions-b/preschool/"><div style="display:inline-block;" class="btn"><img src="/images/preSchoolbtn.png"></div></a>
   <a href="/gallery/தமிழ்மொழிக் -காட்சிக்கூடம்-tamil-exhibitions-c/schools/"><div style="display:inline-block;" class="btn"><img src="/images/schoolbtn.png"></div></a>
   <a href="/Gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-d/Community-Partners2/"><div style="display:inline-block;" class="btn"><img src="/images/communitypartnerbtn.png"></div></a><br/><br/>

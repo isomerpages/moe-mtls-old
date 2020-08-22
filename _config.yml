@@ -35,6 +35,9 @@ collections:
         output: true
     Others:
         output: true
+    Livestreams:
+        output: true
+       
 resources_name: resource-room
 favicon: /images/emtls-2020-logo-01-favicon.ico
 google_analytics: UA-175313072-2

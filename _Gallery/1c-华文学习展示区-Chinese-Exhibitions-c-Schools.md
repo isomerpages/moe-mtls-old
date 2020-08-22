@@ -40,6 +40,7 @@ third_nav_title: '华文学习展示区'
     }
 </style>
 </head>
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <body>
     <div>  <h2 style="font-family:KaiTi">中小学</h2></div>
   <table class="tbl">
@@ -64,8 +65,8 @@ third_nav_title: '华文学习展示区'
 </div>
 
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg" >
-<a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
+<td style="border:0 none;padding: 0;" class="btnImg20" >
+<a href="/test/聚英小学/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -84,8 +85,8 @@ third_nav_title: '华文学习展示区'
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
+<td style="border:0 none;padding: 0;" class="btnImg20">
+ <a href="/test/孺廊小学/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -104,8 +105,8 @@ third_nav_title: '华文学习展示区'
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
+<td style="border:0 none;padding: 0;" class="btnImg20">
+ <a href="/test/伟林小学/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -123,8 +124,8 @@ third_nav_title: '华文学习展示区'
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg" >
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
+<td style="border:0 none;padding: 0;" class="btnImg20" >
+ <a href="/test/育青中学/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -143,8 +144,8 @@ third_nav_title: '华文学习展示区'
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
- <a href="/test/Chinese-poster/"><img class="btnImg" src="/images/arrowChinese.png"></a>
+<td style="border:0 none;padding: 0;" class="btnImg20">
+ <a href="/test/圣尼各拉女校（中学）/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 </table>

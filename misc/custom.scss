@@ -558,8 +558,32 @@ $desktop: 960px + (2 * $gap) !default;
   /* max-height: 100vh; */
   height: 100%;
 }
-.btnImg{
-  display:none;
+.btnImgZero{
+  display:block;
+  margin-top: 0px !important;
 }
-
+.btnImg{
+  display:block;
+  margin-top: 28px !important;
+}
+.btnImg13{
+  display:block;
+  margin-top: 13px !important;
+}
+.btnImg15{
+  display:block;
+  margin-top: 15px !important;
+}
+.btnImg18{
+  display:block;
+  margin-top: 18px !important;
+}
+.btnImg20{
+  display:block;
+  margin-top: 20px !important;
+}
+.btnImg45{
+  display:block;
+  margin-top: 45px !important;
+}
 

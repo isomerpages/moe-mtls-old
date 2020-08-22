@@ -60,6 +60,7 @@ max-width:40%;
     }
     </style>
 </head>
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
   <body>  
  <table class="tbl">
   <tr>
@@ -97,7 +98,7 @@ Dr Sukuna S. Vijayadevar is a senior lecturer with NIEC-City Campus. She has ser
 </p><br/>
 
  <p style="margin:10px;"><strong>Ben Yeo </strong><br/>
-With years of experience in the television and entertainment industry, Ben Yeo is a renowned Mediacorp actor and host. Having starred in numerous productions and variety programmes, many may also regard Ben as a celebrity chef. Trained in SHATAC, Ben possesses excellent cooking skills and is well loved by many clients’ in the food industry. Over the years, Ben has also published two cookbooks and owned various businesses. A doting father to his sons, Ben divides his time between family, work, and cooking.
+With years of experience in the television and entertainment industry, Ben Yeo is a renowned Mediacorp actor and host. Having starred in numerous productions and variety programmes, many may also regard Ben as a celebrity chef. Trained in SHATEC, Ben possesses excellent cooking skills and is well loved by many clients’ in the food industry. Over the years, Ben has also published two cookbooks and owned various businesses. A doting father to his sons, Ben divides his time between family, work, and cooking.
 </p><br/>
 
 <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Synopsis</h4>
@@ -109,8 +110,8 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 
 
  </div></div> </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/EL-video-Ong/"><img src="/images/arrowEng.png"></a>
+<td style="border:0 none;padding: 0;" class="btnImg">
+  <a href="/test/EL-video-Ong/"><img src="/images/MTLS_arrows_V1(19AUG2020)-05.png"></a>
 
 </td>
 </tr>
@@ -143,8 +144,8 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 </p>  
 </div></div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/EL-video-Connie/"><div ><img src="/images/arrowEng.png"></div></a>
+<td style="border:0 none;padding: 0;" class="btnImg">
+  <a href="/test/EL-video-Connie/"><div ><img src="/images/MTLS_arrows_V1(19AUG2020)-05.png"></div></a>
 </td>
 </tr>
 <tr>
@@ -175,8 +176,8 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 </p>
  </div></div>
 </td>
-<td style="border:0 none;padding: 0; margin:0;" class="btnImg">
-  <a href="/test/EL-video-Leher/"><div><img src="/images/arrowEng.png"></div></a>
+<td style="border:0 none;padding: 0;" class="btnImg15">
+  <a href="/test/EL-video-Leher/"><div><img src="/images/MTLS_arrows_V1(19AUG2020)-05.png"></div></a>
 </td>
 </tr> 
  </table>
