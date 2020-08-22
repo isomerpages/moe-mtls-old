@@ -20,6 +20,6 @@ width:80% ;
     <br/>
   <center>
     10.00am - 11.00am <br/>
-     Creating an Immersive Environment for the Learning of Our Mother Tongue Languages (Live Panel Discussion)
+     Creating an Immersive Environment for the Learning of Our Mother Tongue Languages (Live Panel Discussion)<br/>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/FNC430SdeTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
   
