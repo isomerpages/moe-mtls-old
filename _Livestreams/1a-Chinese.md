@@ -23,13 +23,3 @@ width:80% ;
   Creating an Immersive Environment for the Learning of Our Mother Tongue Languages <br/>
      (Live Panel Discussion)</h5>
    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/8pi6V8qLNS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-  
-  <iframe width="560" height="315" src="https://player.vimeo.com/video/450542462" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-  <iframe width="560" height="315" src="https://player.vimeo.com/video/450546462" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-  <iframe width="560" height="315" src="https://player.vimeo.com/video/450548040" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-  
-
-
