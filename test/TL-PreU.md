@@ -143,7 +143,7 @@ width:80%;
   <iframe width="560" height="315"  src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
  </div></div>
 <br/>
-<img src="/images/TL-PreU-Comic.jpg">
+<img src="/images/TL-PreU-Comic2.jpg">
 <br/>
 
 <h4><span style="font-size:30px;color:purple;">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமூட்டும் உத்திமுறைகள் 
