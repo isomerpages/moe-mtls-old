@@ -88,12 +88,12 @@ table.center {
 <br/><br/>
 Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengguna bahasa yang cekap ialah: 
 <img src="/images/ML-Sec-Funlearning.jpg"><br/>
-  <span style="Font size: 28px; color: green">Visi Pendidikan Bahasa Melayu Singapura
+  <span style="Font size: 28px; color: green;">Visi Pendidikan Bahasa Melayu Singapura
 </span><br/>
   <strong> Arif Budiman </strong>(Insan berilmu pengetahuan yang berbakti kepada masyarakat) 
 <table style="width:100%">
   <tr>
-    <td><p>Visi Arif Budiman menetapkan satu hala tuju bagi guru dan pelajar Bahasa Melayu untuk membina kefasihan berbahasa dan penghayatan nilai dan budaya Melayu.       
+    <td><p style="text-align:justify;">Visi Arif Budiman menetapkan satu hala tuju bagi guru dan pelajar Bahasa Melayu untuk membina kefasihan berbahasa dan penghayatan nilai dan budaya Melayu.       
 <br/><br/>
       Di peringkat sekolah menengah, pelajar bahasa Melayu dipupuk untuk mendalami dan menghargai bahasa dan budaya Melayu dalam pelanjutan pembangunan negara. 
 </p></td>
@@ -106,8 +106,8 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
   <br/>
 <table style="width:100%">
   <tr>
-    <td><p><span style="font-size:20px;text-align:justify;">Ciri-ciri seseorang yang <strong> Arif Budiman: </strong>
-</span><br/>
+    <td><p style="font-size:20px;text-align:justify;">Ciri-ciri seseorang yang <strong> Arif Budiman: </strong>
+<br/>
       Pendidikan Bahasa Melayu di peringkat menengah dilaksanakan dengan berpandukan nilai dan budaya masyarakat Melayu yang meliputi seni dan artifak, institusi, nilai dan kepercayaan serta bahasa dan kesusasteraan Melayu. 
 </p></td>
     <td> <img src="/images/ML-Sec-Framework.png"></td>
