@@ -87,30 +87,30 @@ table.center {
 
   <li>mendengar dan memahami pengucapan dengan teliti;
 </li>
-           <li>bertutur dengan petah menggunakan sebutan bak dan intonasi yang betul;
+           <li style="text-align:justify;">bertutur dengan petah menggunakan sebutan bak dan intonasi yang betul;
 </li>
-           <li>membaca pelbagai bahan bercetak dan bahan media elektronik dan memberikan respons yang sesuai;
+           <li style="text-align:justify;">membaca pelbagai bahan bercetak dan bahan media elektronik dan memberikan respons yang sesuai;
 </li>
-           <li>menulis pelbagai jenis teks berdasarkan pelbagai tajuk yang sesuai;
+           <li style="text-align:justify;">menulis pelbagai jenis teks berdasarkan pelbagai tajuk yang sesuai;
 </li>
-           <li>berinteraksi secara lisan dengan menggunakan sebutan baku;</li>
-           <li>berinteraksi secara bertulis mengenai pelbagai tajuk tang sesuai;
+           <li style="text-align:justify;">berinteraksi secara lisan dengan menggunakan sebutan baku;</li>
+           <li style="text-align:justify;">>berinteraksi secara bertulis mengenai pelbagai tajuk tang sesuai;
 </li>
-           <li>berfikir secara kreatif, kritis dan kritikal;
+           <li style="text-align:justify;">berfikir secara kreatif, kritis dan kritikal;
 </li>
-           <li>mengenali dan memahami budaya dan nilai-nilai murni masyarakay Melayu dan kaum-kaum lain; dan
+           <li style="text-align:justify;">mengenali dan memahami budaya dan nilai-nilai murni masyarakay Melayu dan kaum-kaum lain; dan
 </li>
-            <li>memupuk minat membaca dan menjadikannya amalan ke arah membina budaya belajar sepanjang hayat.
+            <li style="text-align:justify;">memupuk minat membaca dan menjadikannya amalan ke arah membina budaya belajar sepanjang hayat.
 </li>
            </ul> 
        </p>
        </div></div>
 <ul><p style="text-align:justify;">
-<li>Bahasa Melayu merupakan salah satu Bahasa Ibunda yang ditawarkan di sekolah rendah.  Murid-murid diberikan peluang untuk mempelajari Bahasa Melayu setinggi mana yang terdaya dan sejauh mana yang termampu.
+<li style="text-align:justify;">Bahasa Melayu merupakan salah satu Bahasa Ibunda yang ditawarkan di sekolah rendah.  Murid-murid diberikan peluang untuk mempelajari Bahasa Melayu setinggi mana yang terdaya dan sejauh mana yang termampu.
 </li>
-<li>Di sekolah, Kurikulum Bahasa Melayu Sekolah Rendah dijalankan dengan menggunakan pendekatan yang berpusatkan murid.  Pengajaran yang dijalankan bersifat interaktif agar murid-murid mudah mempelajari dan memahami pelajaran yang diikuti. Memandangkan murid yang memasuki sekolah rendah mempunyai latar belakang bahasa yang pelbagai, keperluan pembelajaran mereka juga seharusnya berbeza-beza. Oleh itu, pembelajaran pembezaan harus ditekankan untuk memenuhi keupayaan yang pelbagai ini. 
+<li style="text-align:justify;">Di sekolah, Kurikulum Bahasa Melayu Sekolah Rendah dijalankan dengan menggunakan pendekatan yang berpusatkan murid.  Pengajaran yang dijalankan bersifat interaktif agar murid-murid mudah mempelajari dan memahami pelajaran yang diikuti. Memandangkan murid yang memasuki sekolah rendah mempunyai latar belakang bahasa yang pelbagai, keperluan pembelajaran mereka juga seharusnya berbeza-beza. Oleh itu, pembelajaran pembezaan harus ditekankan untuk memenuhi keupayaan yang pelbagai ini. 
 </li>
-<li>Murid yang mempunyai pelbagai keupayaan juga akan disokong untuk membina kecekapan bahasa dan budaya. Hal ini bukan sahaja dapat mengekalkan minat mereka untuk menggunakan dan menguasai bahasa Ibunda, malahan untuk menggunakan bahasa itu sebagai alat komunikasi secara berkesan.
+<li style="text-align:justify;">Murid yang mempunyai pelbagai keupayaan juga akan disokong untuk membina kecekapan bahasa dan budaya. Hal ini bukan sahaja dapat mengekalkan minat mereka untuk menggunakan dan menguasai bahasa Ibunda, malahan untuk menggunakan bahasa itu sebagai alat komunikasi secara berkesan.
 </li>
 <li>Sila lihat <strong> Program Bahasa Melayu Lanjutan, Program Sokongan Bahasa Ibunda bagi murid Darjah 3 dan 4 </strong>
   </li></p>
@@ -280,8 +280,8 @@ table.center {
 </table>
 </p>
 </div></div>
-<p style="text-align:justify;">
-  <li>Permainan yang disarankan di atas haruslah dilakukan secara santai dan menyeronokkan. </li>
+<p>
+  <li style="text-align:justify;">Permainan yang disarankan di atas haruslah dilakukan secara santai dan menyeronokkan. </li>
   
   <li>Betulkan jawapan anak anda dengan teguran yang lembut.  </li>
   
