@@ -21,7 +21,7 @@ td{
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
-<img src="/images/TL-Header.jpg">
+<img src="/images/TL-Pri-Header.jpg">
 <p>
 <a href="#C1" style="font-size:20px"><span style="color:blue;">கல்வி அமைச்சின் தொடக்கப்பள்ளிப் பாடக்கலைத்திட்டம் 
 </span></a><br/>
