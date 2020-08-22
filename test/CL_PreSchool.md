@@ -158,7 +158,6 @@ width:80%;
        <center>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/mhJoflfcZWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br/><span style="font-size:18px;font-family:KaiTi">金字塔书制作视频
 </span></center><br/>
-</div></div>
 <br/>
  <h4><span style="font-family:KaiTi;font-size:30px;" >美味的古拉姆（Kolam )</span></h4>
 <p style="font-family:KaiTi;font-size:25px;">点子二：<br/>
@@ -168,7 +167,7 @@ width:80%;
          古拉姆一般都是对称的图案。你可以根据古拉姆图案的特点，和孩子在家绘制属于你们的古拉姆，而且，还是可以吃的古拉姆！选择一些家中即有的食材，例如：沙拉里不同种类的食材（水果、蔬菜、坚果、酱料等）、“一锅煮”的蔬菜杂烩食材、养生汤的药材等，然后进行“摆盘”以制作古拉姆。你可以一边摆，一边说出食材；也可以为孩子录像，让孩子介绍自己设计的古拉姆。
 </p>
   <img src="/images/CL-preSch-Kolam.png">
-  </div></div>
+
   <br/>
   <h4><span style="font-family:KaiTi;font-size:30px;" >水会变变变</span></h4>
 <table>
@@ -184,5 +183,5 @@ width:80%;
 </td>
   </tr>
 </table>
-  </div></div>
+
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
