@@ -143,17 +143,6 @@ width:80%;
   <div class="column">
   <iframe width="560" height="315"  src="https://www.youtube.com/embed/PhUjznmqSOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
  </div></div>
-<ul>
-  <li><a href="#" target="_blank">H2H3TLL Syllabus
-</a></li>
-  <li><a href="#" target="_blank">Launch Slides- {PDF version}
-</a></li>
-  <li><a href="#" target="_blank">PDF version of E-brochure of H2/H3TLL Syllabus 2021
-</a></li>
-  <li><a href="#" target="_blank">Sample Thumbnail for PDF of Illakiya Oola & loop slides video</a></li>
-  <li><a href="#" target="_blank">Student’s sharing on H3TLL
-</a></li>
-</ul>
 <br/>
 <img src="/images/TL-PreU-Comic.jpg">
 <br/>
@@ -297,9 +286,10 @@ width:80%;
  
 <h4><span style="font-size:30px;color:purple;">தொடர்பிணைப்புக் கற்றல் சமூகக் குழு உருவாக்கம் (Networked Learning Community)
  </span></h4>
- <h5><strong>Project Synopsis: 
-</strong></h5>
-<p style="text-align:justify;">மாணவர்கள் திறனாய்வு முறையில் சிந்திக்கவும், அனுபவக் கட்டுரையின் கருத்துகள் பற்றிக் கலந்துரையாடவும், அக்கட்டுரையை விரித்து எழுதுவதிலும் அதிகச் சிரமங்களை எதிர்கொண்டனர். இந்த இடைவெளியை நிவர்த்திச் செய்வதற்கு ஆசிரியர்கள் iMTL/SLS தளங்களைப் பயன்படுத்தி ஆர்வமூட்டும் வகையில் கற்பிப்பதற்குச் சோதனை முயற்சிகளை மேற்கொண்டார்கள்.  அம்முயற்சி அவர்களது மாணவர்களுக்குப் பயனுள்ளதாக இருந்தது. ஆசிரியர்கள் கற்பித்த பாடங்களின் நோக்கங்களைக் கீழ்கண்டவாறு பதிவு செய்துள்ளார்கள். <br/>
+
+<p style="text-align:justify;">
+ <strong>Project Synopsis: 
+</strong> <br/>மாணவர்கள் திறனாய்வு முறையில் சிந்திக்கவும், அனுபவக் கட்டுரையின் கருத்துகள் பற்றிக் கலந்துரையாடவும், அக்கட்டுரையை விரித்து எழுதுவதிலும் அதிகச் சிரமங்களை எதிர்கொண்டனர். இந்த இடைவெளியை நிவர்த்திச் செய்வதற்கு ஆசிரியர்கள் iMTL/SLS தளங்களைப் பயன்படுத்தி ஆர்வமூட்டும் வகையில் கற்பிப்பதற்குச் சோதனை முயற்சிகளை மேற்கொண்டார்கள்.  அம்முயற்சி அவர்களது மாணவர்களுக்குப் பயனுள்ளதாக இருந்தது. ஆசிரியர்கள் கற்பித்த பாடங்களின் நோக்கங்களைக் கீழ்கண்டவாறு பதிவு செய்துள்ளார்கள். <br/>
  <ul>
   <li>சிந்தனைத்திறனை மேம்படுத்தி அனுபவக் கட்டுரையின் கருத்துகளை விரித்து எழுதும் திறனை பெற்றனர்.
 </li>
@@ -317,9 +307,9 @@ width:80%;
  </tr>
 </table>
 </p>
- <h5><strong>Intervention: இடையீட்டுத் திட்டம் 
-</strong></h5>
-<p style="text-align:justify;">
+
+<p style="text-align:justify;"><strong>Intervention: இடையீட்டுத் திட்டம் 
+</strong><br/>
 இந்த இடையீட்டுத் திட்டத்தை 4 பிரிவுகளாகப் பிரித்துக்கொண்டு கற்பித்தார்கள்.
 <ul>
  <li>முதலில் மாணவர்களுக்கு அனுபவக் கட்டுரையைப் பற்றி அறிமுகப்படுத்தினார்கள். பிறகு அனுபவக் கட்டுரையின்  கேள்வியை எவ்வாறு பிரித்துப் படித்து அதன் பொருளைப் புரிந்துகொள்வது என்பதைப் பற்றிக் கற்பித்தனர். மாணவர்கள்  தலைப்பைப் புரிந்துகொள்வதற்குப் பார் - சிந்தி - தொடர்புபடுத்து என்னும் உத்திமுறையைப் பயன்படுத்தினார்கள். 
