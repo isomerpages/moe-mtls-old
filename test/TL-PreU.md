@@ -171,7 +171,27 @@ width:100%;
 <br/>
  <a href="#" target="_blank">Students’ and Parents’ sharing on TLEP</a>
  <br/>
- <h4 id="C5"><span style="font-size:30px;color:purple;">இலக்கியம்</span></h4>
+ <h4><span style="font-size:30px;color:purple;">நோக்கங்கள்</span></h4>
+ <table style="width:100%">
+  <tr>
+ <td>
+     <p style="text-align:justify;">மாணவர்களைத் தமிழ்மொழியில் ஆற்றல் மிக்கவர்களாக உருவாக்குவது.
+<br/>
+      தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வை வளர்ப்பது
+<br/>
+      மாணவர்களை இருமொழியாற்றல் மிக்கவர்களாக உருவாக்குவது
+</p></td>
+    <td><img src="/images/TLL-text-cover.gif"></td>
+    </tr>
+</table>
+<a href="/Gallery/Recommended-reading-of-H2TLL.pdf" target="_blank">Recommended text</a><br/>
+<a href="/Gallery/H2TLL-Recommended-Text.pdf" target="_blank">Recommended text (Condensed)</a><br/>
+<a href="/Gallery/H2-&-H3TLL-Launch-Slides.pdf" target="_blank">H2H3TLL Launch 2020 slides</a><br/>
+<a href="/Gallery/H2TLL-Brochure.pdf" target="_blank">JC Syllabus</a><br/>
+<a href="/Gallery/H3TLL-Sharing -by-EJC-Student.pdf" target="_blank">Student’s sharing on H3TLL at Toastmaster Club</a><br/>
+ <br/>
+ 
+ <h4><span style="font-size:30px;color:purple;">இலக்கியம்</span></h4>
    <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
    <label for="tab-2" style="font-size:22px" class="lbTM">இலக்கியம்இலக்கிய வகுப்பு ஆர்வமூட்டக்கூடியதாகஇருக்குமா?
