@@ -16,7 +16,7 @@ max-width:20%;
   <body>  
 <a href="https://staging-moe-mtls.netlify.app/exhibition/华文视频/synopsis/" style="float:right;">Back</a>
 <div class="video-container">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/wWpl3QPHgvs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1R6HctJxh7c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
    
   <div class="column">
     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
