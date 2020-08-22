@@ -91,12 +91,7 @@ width:100%;
 <a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/TL-PreU-Header.jpg">
 <p>
-<a href="#C1" style="font-size:20px"><span style="color:blue;">உயர்தரம் 1 (H1) தாய்மொழிப் பாடத்திட்டமும் தாய்மொழி B பாடத்திட்டமும்
-</span></a><br/>
- <a href="#C2" style="font-size:20px"><span style="color:blue;">உயர்தரம் 2/3 (H2/H3) தமிழ்மொழி, இலக்கியப் பாடத்திட்டம்
-</span></a><br/>
-<a href="#C3" style="font-size:20px"><span style="color:blue;">தேசிய தமிழ்மொழி விருப்பப் பாடத்திட்டம் (National Elective Tamil Programme)
-</span></a><br/>
+<a href="#C1" style="font-size:20px"><span style="color:blue;">பல்கலைக்கழகப் புகுமுக நிலை /span></a><br/> 
 <a href="#C4" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி விருப்பப் பாடத்திட்டம் (Tamil Language Elective Programme)
 </span></a><br/>
  <a href="#C5" style="font-size:20px"><span style="color:blue;">இலக்கியம்
@@ -108,6 +103,10 @@ width:100%;
  <a href="#C8" style="font-size:20px"><span style="color:blue;">இணையம்வழிக் கற்றல்
 </span></a>
 <br/><br/>
+<h4><span style="font-size:30px;color:purple;">தாய்மொழியின் இலக்கு 
+ </span></h4>
+ <p style="text-align:justify;">வருங்காலச் சிங்கப்பூர்த் தமிழ்ச் சந்ததியினரிடையே தமிழ் வாழும் மொழியாகத் திகழ வேண்டும், பலவகைப் பண்பாட்டுப் பாரம்பரியத்தைக் கொண்டு உலக நகராக விளங்கும் சிங்கப்பூரின் தனித்தன்மைக்கு வலுவூட்டும் அம்சமாக அது விளங்க வேண்டும்.
+</p>
 <table style="width:100%">
  
   <tr>
