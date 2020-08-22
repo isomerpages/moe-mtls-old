@@ -125,7 +125,7 @@ width:100%;
 <br/>
 <a href="/Gallery/2020-h1-tamil-language-tamil-language-b-syllabus.pdf" target="_blank">2020 Syllabus Tamil Language Pre-University
 </a>
- </p>
+
 <h4 id="C2"><span style="font-size:30px;color:purple;">: பல்கலைகழகப் புகுமுகநிலை உயர்தரம் 2/3 பாடத்திட்ட வெளியீடு
  </span></h4>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OHI3rlQR2vU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size=20px;">H2 & H3 TLL Syllabus Launch 2020
