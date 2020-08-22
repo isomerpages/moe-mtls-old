@@ -16,7 +16,7 @@ td{
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
-  width:60%;
+  width:50%;
 }
   .tab img{
    width: 80%;
@@ -95,7 +95,7 @@ width:80%;
 <a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/TL-PreU-Header.jpg">
 <p>
-<a href="#C1" style="font-size:20px"><span style="color:blue;">பல்கலைக்கழகப் புகுமுக நிலை /span></a><br/> 
+<a href="#C1" style="font-size:20px"><span style="color:blue;">பல்கலைக்கழகப் புகுமுக நிலை </span></a><br/> 
 <a href="#C4" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி விருப்பப் பாடத்திட்டம் (Tamil Language Elective Programme)
 </span></a><br/>
  <a href="#C5" style="font-size:20px"><span style="color:blue;">இலக்கியம்
@@ -132,7 +132,7 @@ width:80%;
 
 <h4 id="C2"><span style="font-size:30px;color:purple;">: பல்கலைகழகப் புகுமுகநிலை உயர்தரம் 2/3 பாடத்திட்ட வெளியீடு
  </span></h4>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OHI3rlQR2vU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size=20px;">H2 & H3 TLL Syllabus Launch 2020
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OHI3rlQR2vU" class="iframe1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size=20px;">H2 & H3 TLL Syllabus Launch 2020
 </span>
 <br/><br/>
 <div class="row">
@@ -188,11 +188,13 @@ width:80%;
     <td><img src="/images/TLL-text-cover.gif"></td>
     </tr>
 </table>
+<p>
 <a href="/Gallery/Recommended-reading-of-H2TLL.pdf" target="_blank">Recommended text</a><br/>
 <a href="/Gallery/H2TLL-Recommended-Text.pdf" target="_blank">Recommended text (Condensed)</a><br/>
 <a href="/Gallery/H2-&-H3TLL-Launch-Slides.pdf" target="_blank">H2H3TLL Launch 2020 slides</a><br/>
 <a href="/Gallery/H2TLL-Brochure.pdf" target="_blank">JC Syllabus</a><br/>
-<a href="/Gallery/H3TLL-Sharing -by-EJC-Student.pdf" target="_blank">Student’s sharing on H3TLL at Toastmaster Club</a><br/>
+<a href="/Gallery/H3TLL-Sharing -by-EJC-Student.pdf" target="_blank">Student’s sharing on H3TLL at Toastmaster Club</a>
+ </p><br/>
  <br/>
  <h4><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப் பாடத்திட்டம் 
 </span></h4>
@@ -250,6 +252,7 @@ width:80%;
  <iframe width="560" height="315" src="https://www.youtube.com/embed/QWvTSMtiopU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/><span style="font-size:20px;">Q& A session with Local Poet & ASRJC students</span>
  </div></div>
+ <br/>
 <div class="row">
  <div class="column">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ss0CN2L5SYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -278,7 +281,7 @@ width:80%;
      </p></td>
     <td><img src="/images/TL-PreU-updateImg.jpg">
    <br/>
-      <td><img src="/images/Learning-journey-gif.gif">
+     <img src="/images/Learning-journey-gif.gif">
    </td>
  </tr>
 </table>
