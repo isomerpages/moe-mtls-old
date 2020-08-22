@@ -19,8 +19,8 @@ width:80% ;
   <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
     <br/>
-   <p style="font-size:30px;color:pink;">10.00am - 11.00am <br/>
+  <h5>10.00am - 11.00am <br/>
   Creating an Immersive Environment for the Learning of Our Mother Tongue Languages <br/>
-      (Live Panel Discussion)</p>
+     (Live Panel Discussion)</h5>
    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/FNC430SdeTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
