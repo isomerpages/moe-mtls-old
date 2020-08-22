@@ -148,7 +148,7 @@ width:80%;
 
 <h4><span style="font-size:30px;color:purple;">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமூட்டும் உத்திமுறைகள் 
  </span></h4> 
-<img src="/images/TL-PreU-Strategies1.jpg">
+<img src="/images/TL-PreU-Strategies.jpg">
 <br/>
 
 <h4 id="C4"><span style="font-size:30px;color:purple;">ததமிழ்மொழி விருப்பப் பாடத்திட்டம் (Tamil Language Elective Programme)
@@ -169,9 +169,9 @@ width:80%;
   <tr>
  <td>
      <p style="text-align:justify;">மாணவர்களைத் தமிழ்மொழியில் ஆற்றல் மிக்கவர்களாக உருவாக்குவது.
-<br/>
+<br/><br/>
       தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வை வளர்ப்பது
-<br/>
+<br/><br/>
       மாணவர்களை இருமொழியாற்றல் மிக்கவர்களாக உருவாக்குவது
 </p></td>
     <td><img src="/images/TLL-text-cover.gif"></td>
@@ -184,7 +184,6 @@ width:80%;
 <a href="/Gallery/H2TLL-Brochure.pdf" target="_blank">JC Syllabus</a><br/>
 <a href="/Gallery/H3TLL-Sharing -by-EJC-Student.pdf" target="_blank">Student’s sharing on H3TLL at Toastmaster Club</a>
  </p><br/>
- <br/>
  <h4><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப் பாடத்திட்டம் 
 </span></h4>
   <div class="row">
@@ -193,11 +192,11 @@ width:80%;
 
 <br/>
    <ul>
-    <li style="color:black;">காமன்வெல்த் உயர்நிலைப்பள்ளி
+    <li>காமன்வெல்த் உயர்நிலைப்பள்ளி
 </li>
-     <li style="color:black;">ரிவர்சைடு உயர்நிலைப்பள்ளி
+     <li>ரிவர்சைடு உயர்நிலைப்பள்ளி
 </li>
-     <li style="color:black;">யூசூன் டவுன் உயர்நிலைப்பள்ளி
+     <li>யூசூன் டவுன் உயர்நிலைப்பள்ளி
 </li>
    </ul>
   <a href="/Gallery/TL-Sec-tlep-sec-infosheet-students-2019.pdf " target="_blank">TLEP Infosheet - Secondary</a></p>
@@ -208,10 +207,10 @@ width:80%;
   <p style="text-align:justify;">வழங்கப்படும் தொடக்கக்கல்லூரிகள் 
 <br/>
   <ul>
-  <li style="color:black;">ஆண்டர்சன் சிராங்கூன்
+  <li>ஆண்டர்சன் சிராங்கூன்
   <br/> தொடக்கக்கல்லூரி
 </li>
-    <li style="color:black;">தேசிய தொடக்கக்கல்லூரி
+    <li>தேசிய தொடக்கக்கல்லூரி
 </li>
  </ul>
 <a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf " target="_blank">TLEP Infosheet - JC</a></p> 
