@@ -153,10 +153,10 @@ Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resour
 
 <br/>
 <ul>
-<li>memberikan pengalaman yang menarik minat kanak-kanak kepada buku; </li>
- <li>menunjukkan contoh membaca buku yang baik; </li>
- <li>menggalakkan kanak-kanak menggunakan bahasa Melayu dalam suasana yang selesa; </li>
- <li>mengajar dan mengukuhkan kemahiran berbahasa Melayu.</li>
+<li style="text-align:justify;">memberikan pengalaman yang menarik minat kanak-kanak kepada buku; </li>
+ <li style="text-align:justify;">menunjukkan contoh membaca buku yang baik; </li>
+ <li style="text-align:justify;">menggalakkan kanak-kanak menggunakan bahasa Melayu dalam suasana yang selesa; </li>
+ <li style="text-align:justify;">mengajar dan mengukuhkan kemahiran berbahasa Melayu.</li>
 </ul>
 
 </p>
@@ -182,11 +182,11 @@ Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resour
  <br/>
   Selain itu, pengalaman ini juga akan: <br/>
  <ul>
-<li>menggalakkan kanak-kanak bekerjasama ketika meneroka topik yang diminati mereka;
+<li style="text-align:justify;">menggalakkan kanak-kanak bekerjasama ketika meneroka topik yang diminati mereka;
 </li>
-  <li>membangunkan kemahiran memproses ketika kanak-kanak mengumpulkan maklumat daripada pelbagai sumber dan menyampaikan hasil dapatan mereka; dan 
+  <li style="text-align:justify;">membangunkan kemahiran memproses ketika kanak-kanak mengumpulkan maklumat daripada pelbagai sumber dan menyampaikan hasil dapatan mereka; dan 
 </li>
-  <li>menggalakkan kemahiran berkomunikasi ketika kanak-kanak menjalankan projek-projek MuM dalam Bahasa Inggeris dan Bahasa Ibunda mereka.
+  <li style="text-align:justify;">menggalakkan kemahiran berkomunikasi ketika kanak-kanak menjalankan projek-projek MuM dalam Bahasa Inggeris dan Bahasa Ibunda mereka.
 </li>
   </ul></p>
  </td>
@@ -250,12 +250,3 @@ Ibu bapa/Waris boleh menyokong pembelajaran dan pembangunan bahasa Ibunda anak/w
 </ul></p>
  
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
-
- 
- 
- 
- 
- 
- 
- 
- 
