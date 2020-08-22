@@ -15,7 +15,7 @@ width:80% ;
   </style>
    <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
    <p style="font-size:35px;color:#d84178">9.30am - 10.00am <br/>
-      GOH Opening Address Video and CPCLL Chairperson Address</p>
+      GOH Opening Address Video and MLLPC Chairperson Address</p>
   <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
     <br/>
