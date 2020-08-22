@@ -190,7 +190,39 @@ width:100%;
 <a href="/Gallery/H2TLL-Brochure.pdf" target="_blank">JC Syllabus</a><br/>
 <a href="/Gallery/H3TLL-Sharing -by-EJC-Student.pdf" target="_blank">Student’s sharing on H3TLL at Toastmaster Club</a><br/>
  <br/>
- 
+ <h4><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப் பாடத்திட்டம் 
+</span></h4>
+  <div class="row">
+ <div class="column">
+   <p style="text-align:justify;">வழங்கப்படும் உயர்நிலைப்பள்ளிகள்
+
+<br/>
+   <ul>
+    <li style="color:black;">காமன்வெல்த் உயர்நிலைப்பள்ளி
+</li>
+     <li style="color:black;">ரிவர்சைடு உயர்நிலைப்பள்ளி
+</li>
+     <li style="color:black;">யூசூன் டவுன் உயர்நிலைப்பள்ளி
+</li>
+   </ul>
+  <a href="/Gallery/TL-Sec-tlep-sec-infosheet-students-2019.pdf " target="_blank">TLEP Infosheet - Secondary</a></p>
+  </div> 
+
+ <div class="column">
+
+  <p style="text-align:justify;">வழங்கப்படும் தொடக்கக்கல்லூரிகள் 
+<br/>
+  <ul>
+  <li style="color:black;">ஆண்டர்சன் சிராங்கூன்
+  <br/> தொடக்கக்கல்லூரி
+</li>
+    <li style="color:black;">தேசிய தொடக்கக்கல்லூரி
+</li>
+ </ul>
+<a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf " target="_blank">TLEP Infosheet - JC</a></p> 
+   </div> 
+   </div>
+   <br/> 
  <h4><span style="font-size:30px;color:purple;">இலக்கியம்</span></h4>
    <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
@@ -199,7 +231,13 @@ width:100%;
      <div class="tab-content">   
    <img src="/images/TL-PreU-Literature.jpg">
  </div></div>
-<h4 id="C6"><span style="font-size:30px;color:purple;">தொடர்பிணைப்புக் கற்றல் சமூகக் குழு உருவாக்கம் (Networked Learning Community)
+ <h4><span style="font-size:30px;color:purple;">நடவடிக்கைகள்
+ </span></h4>
+ <img src="/images/TL-PreU-Signature-Activities.jpg">
+ <br/> 
+ <a href="/Gallery/TLEP-JC.pdf " target="_blank">TLEP-JC Brochure</a>
+ 
+<h4><span style="font-size:30px;color:purple;">தொடர்பிணைப்புக் கற்றல் சமூகக் குழு உருவாக்கம் (Networked Learning Community)
  </span></h4>
  <p><strong>தொடர்பிணைப்புக் கற்றல் சமூகக் குழு உருவாக்கம் <br/>
  (NLC) – A brief write up will be given 
