@@ -158,7 +158,7 @@ As home parenting and home-based learning become the new normal, parents are spe
    <p> <strong>Mdm Xu Jinhong </strong>
 <br/>Ministry of Education<br/>
     Senior Specialist, CPDD<br/>
-   <strong>Mdm Wu Xiuqing</p>
+    <strong>Mdm Wu Xiuqing</strong></p>
    </div>
 
    <h4 style="font-size:30px;font-family:KaiTi;margin:10px;">介绍</h4>
