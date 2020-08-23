@@ -24,6 +24,3 @@ width:80% ;
      (Live Panel Discussion)</h5>
    <center><iframe width="560" height="315" src="https://player.vimeo.com/video/450683968" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
    
-   <center><iframe width="560" height="315" src="https://player.vimeo.com/video/450685844" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-   
-   <center><iframe width="560" height="315" src="https://player.vimeo.com/video/450687304" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
