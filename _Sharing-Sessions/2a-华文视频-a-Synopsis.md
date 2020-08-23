@@ -153,11 +153,12 @@ As home parenting and home-based learning become the new normal, parents are spe
        <br/>
   <div class="row">
  <div class="column">
-<img src="images/CL-Mdm-Xu-Jinhong.png" style="width:100%">
+<img src="images/CL-Mdm-Xu-Jinhong-Wu-Xiuqing.png" style="width:100%">
    </div>
    <p> <strong>Mdm Xu Jinhong </strong>
 <br/>Ministry of Education<br/>
-    Senior Specialist, CPDD</p>
+    Senior Specialist, CPDD<br/>
+   <strong>Mdm Wu Xiuqing</p>
    </div>
 
    <h4 style="font-size:30px;font-family:KaiTi;margin:10px;">介绍</h4>
