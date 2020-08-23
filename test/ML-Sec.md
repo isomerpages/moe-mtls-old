@@ -244,7 +244,7 @@ Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, sediakan persek
 
 </label>
      <div class="tab-content"> 
-   <p style="font-size:25px;">
+   <p style="font-size:18px;">
      <a href="https://www.facebook.com/groups/MalayLibraryServices.SG" target="_blank">Perpustakaan Negara Singapura
  </a><br/>
        <ul><li>Mari Bercerita – Setiap Minggu <br/> 
@@ -274,7 +274,7 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
 
 </label>
      <div class="tab-content"> 
-   <p style="font-size:25px;">
+   <p style="font-size:18px;">
       <a href="https://www.esplanade.com/festivals-and-series/pentas/2020" target="_blank">Esplanade – Siri Pentas 
  </a><br/>
        <ul>
@@ -299,7 +299,7 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
 
 </label>
      <div class="tab-content"> 
-   <p style="font-size:25px;">
+   <p style="font-size:18px;">
      <a href="https://www.malayheritage.org.sg/en/whats-on " target="_blank">Taman Warisan Melayu  (MLLPC)
  </a><br/>
        <ul><li>Pameran Tetap – 6 galeri
@@ -317,7 +317,7 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
 
 </label>
      <div class="tab-content"> 
-   <p style="font-size:25px;">
+   <p style="font-size:18px;">
       <a href="https://www.nhb.gov.sg/nationalmuseum/~/media/nms/documents/national-museum-of-singapore-guide/national-museum-of-singapore-guide-bahasa-melayu.pdf?la=en" target="_blank">Muzium Negara Singapura 
  </a><br/>
        <ul><li>Pameran tetap – 4 galeri   
