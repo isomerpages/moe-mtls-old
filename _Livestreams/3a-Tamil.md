@@ -1,10 +1,10 @@
 ---
-title: 'Tamil'
+title: 'நேரலைப் பகிர்வுகள்'
 permalink: /Livestreams/Tamil/
-breadcrumb: 'Tamil'
-collection_name: Livestreams
+breadcrumb: 'நேரலைப் பகிர்வுகள்'
+collection_name: நேரலைப் பகிர்வுகள்
 ---
-###  Livestreams
+###  நேரலைப் பகிர்வுகள்
 <html>
 <body>
 <style>
