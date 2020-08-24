@@ -58,9 +58,16 @@ max-width:40%;
     width: 87%;
     height:auto;
     }
+    
     @media only screen and (max-width: 600px) {
    .atab{
   width:69%;
+  }
+}
+
+     @media only screen and (max-width: 600px) {
+   .tab8btn{
+    margin-top:28px;
   }
 }
 
@@ -125,7 +132,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
 
  </div></div> </td>
 <td style="border:0 none;padding: 0;" class="btnImg">
-  <a href="/test/EL-video-Ong/"><img src="/images/MTLS_arrows_V1(19AUG2020)-05.png"></a>
+  <a href="/test/EL-video-Ong/"><img src="/images/MTLS_arrows_V1(19AUG2020)-05.png" class="tab8btn"></a>
 
 </td>
 </tr>
