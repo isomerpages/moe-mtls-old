@@ -38,6 +38,7 @@ third_nav_title: '华文学习展示区'
     margin-bottom: 5px;
     width: 87%;
     height:auto;
+    margin-left: -5px;
     }
     
     @media only screen and (max-width: 600px) {
