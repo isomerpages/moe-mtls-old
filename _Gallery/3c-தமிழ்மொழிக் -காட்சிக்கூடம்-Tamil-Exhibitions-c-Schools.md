@@ -81,7 +81,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg22">
 <a href="/test/TL-School-Gallery/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
 </td>
 </tr>
@@ -100,7 +100,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg22">
  <a href="/test/N4-குழுமம்-(தொடக்கப்பள்ளிகள்)/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
 </td>
 </tr>
@@ -122,7 +122,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg22">
  <a href="/test/மார்சிலிங்-உயர்நிலைப்பள்ளி/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
 </td>
 </tr>
@@ -146,7 +146,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg22">
  <a href="/test/உட்லண்ட்ஸ-உயர்நிலைப்பள்ளி/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
 </td>
 </tr>
