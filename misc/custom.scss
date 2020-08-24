@@ -582,6 +582,12 @@ $desktop: 960px + (2 * $gap) !default;
   display:block;
   margin-top: 28px !important;
 }
+
+ @media only screen and (max-width: 600px) {
+   .btnImg {
+    margin-top:49px !important
+  }
+}
 .btnImg13{
   display:block;
   margin-top: 13px !important;
