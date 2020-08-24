@@ -2,7 +2,7 @@
 title: 'Kurikulum Kementerian Pendidikan Singapura (MOE)'
 permalink: /Gallery/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-a/Moe-Curriculum/
 breadcrumb: 'Kurikulum Kementerian Pendidikan Singapura (MOE)'
-published: true
+published: false
 collection_name: Gallery
 third_nav_title: 'Pameran Bahasa Melayu'
 ---
@@ -60,7 +60,15 @@ third_nav_title: 'Pameran Bahasa Melayu'
  max-width:50%
  }
 </style>
-  <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-726049306');
+</script>
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
 <div class="tab">
   <a href="/test/ML-PreSch/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass lbML1">Prasekolah</div></a>
