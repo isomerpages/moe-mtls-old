@@ -22,16 +22,6 @@ collection_name: Others
 
   gtag('config', 'AW-726049306');
 </script>
-<h2>What  is MTL Challenge about? </h2>
- <p> This is MTL Challenge. <br/><br/>
-  
-  Scan the QR code to access the different MTL Challenge <br/>
-  CL Challenge <br/>
-  <img src="/images/QR-Code_Sample_For-MTL_Challeng.png" ><br/>
-  <br/>
-  ML Challenge <br/>
-  <img src="/images/QR-Code_Sample_For-MTL_Challeng.png"><br/>
-  <br/>
-   How do you win?
-   
-</p>
+<div>
+  <img src="/images/Coming-soon.jpg" >
+</div>
