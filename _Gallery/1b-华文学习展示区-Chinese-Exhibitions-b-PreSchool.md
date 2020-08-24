@@ -43,8 +43,16 @@ third_nav_title: '华文学习展示区'
     overflow:unset !important;
     }
 </style>
-</head>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-726049306');
+</script>
+</head>
 <body>  
  <div><h2 style="font-family:KaiTi;">学前教育中心</h2></div>
  <img src="/images/MTL-Challenge-Banner.jpeg"> <br/>

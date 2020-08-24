@@ -5,11 +5,12 @@ links:
   url: /About-Us-And-Past-Symposiums/
 - title: GOH Message
   url: /GOH-Message/
+- title: Programme 
+  url: /Programme/
 - title: Sharing Sessions
   url: /Sharing-Sessions/
   collection: Sharing-Sessions
 - title: Gallery
-  url: /About-Us-And-Past-Symposiums/
   collection: Gallery
   sub-links:
   - title: Pre-School Cluster
