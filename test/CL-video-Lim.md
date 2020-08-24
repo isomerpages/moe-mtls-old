@@ -21,7 +21,7 @@ max-width:20%;
 <div class="column">
 <img src="images/CL-Mdm-Lim-Kwee-Hua.png" style="width:100%">
    </div>
-  <<p><strong>Mdm Lim Kwee Hua </strong>
+  <p><strong>Mdm Lim Kwee Hua </strong>
 <br/> Academy of Singapore Teachers<br/>
     Singapore Centre for Chinese Language<br/>
     Principal Master Teacher
