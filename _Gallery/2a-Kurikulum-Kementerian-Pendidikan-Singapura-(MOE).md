@@ -55,6 +55,13 @@ third_nav_title: 'Pameran Bahasa Melayu'
   margin-bottom: 5px;
   width:100%;  
 }
+
+    @media only screen and (max-width: 600px) {
+   .atab{
+  width:69%;
+  }
+}
+
  image{
   height:auto;
  max-width:50%
