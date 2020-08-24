@@ -146,7 +146,7 @@ third_nav_title: '华文学习展示区'
  </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg15">
+<td style="border:0 none;padding: 0;" class="btnImg16">
 <a href="/test/MY-World/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
