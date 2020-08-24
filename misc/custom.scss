@@ -469,14 +469,14 @@ $desktop: 960px + (2 * $gap) !default;
   margin-bottom: 5px;
   width:700px;  
 }
+
 @media only screen and (max-width: 600px) {
    .atab{
   width:69%;
   }
 }
 @media only screen and (max-width: 600px) {
-   
-.atab3Line{
+   .atab3Line{
   width:69%;
   }
 }
