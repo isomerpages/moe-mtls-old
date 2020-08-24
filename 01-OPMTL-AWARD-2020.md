@@ -33,7 +33,15 @@ max-width:50%;
 }
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
- <h5> <strong> Outstanding Awards </strong></h5>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-726049306');
+</script>
+<h5> <strong> Outstanding Awards </strong></h5>
 <br/>
 <div class="row">
   <div class="column">
