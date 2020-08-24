@@ -33,5 +33,5 @@ collection_name: Others
   <img src="/images/QR-Code_Sample_For-MTL_Challeng.png"><br/>
   <br/>
    How do you win?
-   
+   mmmm
 </p>
