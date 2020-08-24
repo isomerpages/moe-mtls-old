@@ -38,8 +38,16 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 .atab {
     margin-bottom: 5px;
     width: 87%;
-    neight:auto;
+    height:auto;
+    margin-left: -5px;
     }
+    
+    @media only screen and (max-width: 600px) {
+   .atab{
+  width:69%;
+  }
+}
+
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -73,7 +81,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg22">
 <a href="/test/TL-School-Gallery/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
 </td>
 </tr>
@@ -92,7 +100,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg22">
  <a href="/test/N4-குழுமம்-(தொடக்கப்பள்ளிகள்)/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
 </td>
 </tr>
@@ -114,7 +122,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg22">
  <a href="/test/மார்சிலிங்-உயர்நிலைப்பள்ளி/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
 </td>
 </tr>
@@ -138,7 +146,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg22">
  <a href="/test/உட்லண்ட்ஸ-உயர்நிலைப்பள்ளி/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
 </td>
 </tr>

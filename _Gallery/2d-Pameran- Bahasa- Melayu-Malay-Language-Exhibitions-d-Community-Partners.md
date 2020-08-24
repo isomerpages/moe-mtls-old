@@ -40,10 +40,18 @@ third_nav_title: 'Pameran Bahasa Melayu'
     margin-bottom: 5px;
     width: 87%;
     height:auto;
+    margin-left: -5px;
     }
  .horizontal-scroll {
     overflow: unset !important;
   }
+  
+    @media only screen and (max-width: 600px) {
+   .atab{
+  width:69%;
+  }
+}
+  
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -72,7 +80,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 </div>
 </div>
     </td>
-<td style="border:0 none;padding: 0;" class="btnImg20" >
+<td style="border:0 none;padding: 0;" class="btnImg17" >
 <a href="/test/Berita-Harian/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
@@ -94,7 +102,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg17">
  <a href="/test/Esplanade-Teater-di-Persisiran/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
@@ -139,7 +147,7 @@ Dana ini menyokong pendekatan menarik dan kreatif bagi menggalakkan kedwibahasaa
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg17">
  <a href="/test/M-Kuasa-Tiga-(M3)-Nee-Soon/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
@@ -159,7 +167,7 @@ Dana ini menyokong pendekatan menarik dan kreatif bagi menggalakkan kedwibahasaa
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg23">
  <a href="/test/Jawatankuasa-Pembelajaran-dan-Penggalakkan-Penggunaan-Bahasa-Melayu/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
@@ -184,7 +192,7 @@ Parents can find out more about the learning opportunities available for the you
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg17">
  <a href="/test/Lembaga-Warisan-Negara/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
@@ -205,7 +213,7 @@ Parents can find out more about the learning opportunities available for the you
   </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg24">
  <a href="/test/Institut-Pendidikan-Nasional-(Kumpulan Akademik Bahasa dan Kebudayaan Asia)/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
@@ -225,7 +233,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
   </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg17">
  <a href="/test/Lembaga-Perpustakaan-Negara/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
  </tr>
@@ -244,7 +252,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg17">
  <a href="/test/Wildlife-Reserves-Singapore/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>

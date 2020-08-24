@@ -38,8 +38,16 @@ third_nav_title: 'Pameran Bahasa Melayu'
 .atab {
     margin-bottom: 5px;
     width: 87%;
-    neight:auto;
+    height:auto;
+    margin-left: -5px;
     }
+    
+    @media only screen and (max-width: 600px) {
+   .atab{
+  width:69%;
+  }
+}
+
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -70,7 +78,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg17">
  <a href="/test/Sekolah-Rendah-Bendemeer/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
@@ -92,7 +100,7 @@ Soalan-soalan rangsangan (menggunakan Roda Penaakulan Paul) disertakan dalam Unj
       </div>
 </div>
 </td> 
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg17">
 <a href="/test/Sekolah-Rendah-Yuhua/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
@@ -113,7 +121,7 @@ Soalan-soalan rangsangan (menggunakan Roda Penaakulan Paul) disertakan dalam Unj
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg17">
  <a href="/test/Sekolah-Sains-dan-Teknologi/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>

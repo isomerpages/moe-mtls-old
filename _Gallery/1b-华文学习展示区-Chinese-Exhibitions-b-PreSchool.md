@@ -38,7 +38,15 @@ third_nav_title: '华文学习展示区'
     margin-bottom: 5px;
     width: 87%;
     height:auto;
+    margin-left: -5px;
     }
+    
+    @media only screen and (max-width: 600px) {
+   .atab{
+  width:69%;
+  }
+}
+
  .horizontal-scroll {
     overflow:unset !important;
     }
@@ -55,7 +63,7 @@ third_nav_title: '华文学习展示区'
 </head>
 <body>  
  <div><h2 style="font-family:KaiTi;">学前教育中心</h2></div>
- <img src="/images/MTL-Challenge-Banner.jpeg"> <br/>
+ <img src="/images/MTL-Challenge-Banner.jpeg" style="display:none;"> <br/>
 <table class="tbl">
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -74,7 +82,7 @@ third_nav_title: '华文学习展示区'
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg21">
  <a href="/test/爱加倍实龙岗分校/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
@@ -138,7 +146,7 @@ third_nav_title: '华文学习展示区'
  </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg15">
+<td style="border:0 none;padding: 0;" class="btnImg16">
 <a href="/test/MY-World/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>

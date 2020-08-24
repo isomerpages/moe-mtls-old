@@ -470,6 +470,22 @@ $desktop: 960px + (2 * $gap) !default;
   width:700px;  
 }
 
+@media only screen and (max-width: 600px) {
+   .atab{
+  width:69%;
+  }
+}
+@media only screen and (max-width: 600px) {
+   .atab3Line{
+  width:69%;
+  }
+}
+@media only screen and (max-width: 600px) {
+.atab1Line{
+  width:69%;
+  }
+}
+
 .atab input:checked ~ .tab-content,
 .atab3Line input:checked ~ .tab-content,
 .atab1Line input:checked ~ .tab-content{
@@ -562,9 +578,30 @@ $desktop: 960px + (2 * $gap) !default;
   display:none;
   margin-top: 0px !important;
 }
+ @media only screen and (max-width: 600px) {
+   .btnImgZero {
+    margin-top:-25px !important
+  }
+}
+.btnImgZero1{
+  display:none;
+  margin-top: 0px !important;
+}
+@media only screen and (max-width: 600px) {
+   .btnImgZero1 {
+    margin-top:-23px !important
+  }
+}
+
 .btnImg{
   display:none;
   margin-top: 28px !important;
+}
+
+ @media only screen and (max-width: 600px) {
+   .btnImg {
+    margin-top:49px !important
+  }
 }
 .btnImg13{
   display:none;
@@ -574,6 +611,25 @@ $desktop: 960px + (2 * $gap) !default;
   display:none;
   margin-top: 15px !important;
 }
+ @media only screen and (max-width: 600px) {
+   .btnImg15 {
+    margin-top:23px !important
+  }
+}
+.btnImg16{
+  display:none;
+  margin-top: 15px !important;
+}
+ @media only screen and (max-width: 600px) {
+   .btnImg16{
+    margin-top:19px !important
+  }
+}
+@media only screen and (max-width: 600px) {
+   .btnImg15 {
+    margin-top:29px !important
+  }
+}
 .btnImg18{
   display:none;
   margin-top: 18px !important;
@@ -582,8 +638,63 @@ $desktop: 960px + (2 * $gap) !default;
   display:none;
   margin-top: 20px !important;
 }
+@media only screen and (max-width: 600px) {
+   .btnImg20 {
+    margin-top:35px !important
+  }
+}
+.btnImg17{
+  display:none;
+  margin-top: 20px !important;
+}
+@media only screen and (max-width: 600px) {
+   .btnImg17 {
+    margin-top:20px !important
+  }
+}
+.btnImg23{
+  display:none;
+  margin-top: 20px !important;
+}
+@media only screen and (max-width: 600px) {
+   .btnImg23 {
+    margin-top:37px !important
+  }
+}
+.btnImg24{
+  display:none;
+  margin-top: 20px !important;
+}
+@media only screen and (max-width: 600px) {
+   .btnImg24 {
+    margin-top:47px !important
+  }
+}
+.btnImg22{
+  display:none;
+  margin-top: 20px !important;
+}
+@media only screen and (max-width: 600px) {
+   .btnImg22{
+    margin-top:25px !important
+  }
+}
+.btnImg21{
+  display:none;
+  margin-top: 20px !important;
+}
+@media only screen and (max-width: 600px) {
+   .btnImg21 {
+    margin-top:32px !important
+  }
+}
 .btnImg45{
   display:none;
   margin-top: 45px !important;
+}
+@media only screen and (max-width: 600px) {
+   .btnImg45 {
+    margin-top:67px !important
+  }
 }
 

@@ -23,7 +23,7 @@ breadcrumb: 'Pendidikan Bahasa Melayu (Sekolah Menengah)'
 }
 
 .content table {
-    width: 70%;
+    width: 100%;
     font-family: arial, sans-serif;
      border-collapse: collapse;
 }
@@ -244,6 +244,9 @@ Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, sediakan persek
 
 </label>
      <div class="tab-content"> 
+  <table>
+    <tr>
+    <td>
    <p style="font-size:18px;">
      <a href="https://www.facebook.com/groups/MalayLibraryServices.SG" target="_blank">Perpustakaan Negara Singapura
  </a><br/>
@@ -266,14 +269,18 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
 </li>
          </ul>
  
-</p>
+</p></td>
+<td><img src="/images/ML-Sec-UpdateImage1.jpg"></td>
+</tr>
+</table>
  </div></div> 
  <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
    <label for="tab-4" class="lbML">Esplanade – Siri Pentas  
-
 </label>
      <div class="tab-content"> 
+       <table>
+         <tr><td>
    <p style="font-size:18px;">
       <a href="https://www.esplanade.com/festivals-and-series/pentas/2020" target="_blank">Esplanade – Siri Pentas 
  </a><br/>
@@ -291,7 +298,10 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
 </li>
          </ul>
 
-</p>
+</p></td>
+<td><img src="/images/ML-Sec-UpdateImage2.jpg"></td>
+
+</tr></table>
  </div></div> 
   <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
@@ -309,6 +319,8 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
          </ul>
  
 </p>
+<br/>
+<img src="/images/ML-Sec-HomePageCenter.jpg">
  </div></div> 
  
   <div class="atab">
@@ -326,10 +338,8 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
 </li>
          </ul>
 
-</p>
+</p><br/>
+<img src="/images/ML-Sec-National-Museum.jpg">
  </div></div> 
-
-
-
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>

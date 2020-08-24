@@ -36,8 +36,16 @@ third_nav_title: '华文学习展示区'
 .atab {
     margin-bottom: 5px;
     width: 87%;
-    neight:auto;
+    height:auto;
+    margin-left: -5px;
     }
+    
+   
+    @media only screen and (max-width: 600px) {
+   .atab{
+  width:69%;
+  }
+}
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -73,7 +81,7 @@ third_nav_title: '华文学习展示区'
 </div>
 
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20" >
+<td style="border:0 none;padding: 0;" class="btnImg22" >
 <a href="/test/聚英小学/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
@@ -93,7 +101,7 @@ third_nav_title: '华文学习展示区'
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg22">
  <a href="/test/孺廊小学/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
@@ -113,7 +121,7 @@ third_nav_title: '华文学习展示区'
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg22">
  <a href="/test/伟林小学/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
@@ -132,7 +140,7 @@ third_nav_title: '华文学习展示区'
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20" >
+<td style="border:0 none;padding: 0;" class="btnImg22" >
  <a href="/test/育青中学/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
@@ -142,7 +150,7 @@ third_nav_title: '华文学习展示区'
       <input id="tab-5" type="checkbox" name="tab">
       <label for="tab-5" class="lbCh"><span style="font-size:25px;font-family:KaiTi">圣尼各拉女校（中学）</span><br/>CHIJ St Nicholas Girls School（Sec）</label>
       <div class="tab-content">
-           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">“悦读计划–让孩子爱上阅读”</h4>
+           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">悦读计划–让孩子爱上阅读</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
           圣尼各拉女校（中学部）华文阅读计划旨在让学生的阅读变得更贴近生活、更有趣、更符合自己的语文能力。教师们运用“激、荐、导、搭”的框架，在SLS学生学习平台上开展了很多有意思的活动。其中包括设计阅读喜好图、选择被改编成电影的书籍、将流行歌曲与不同主题的书籍搭配，以及由师生推荐书籍，让学生通过各种有趣的方式选择自己阅读的内容，让阅读变得趣味盎然。</p><br/>
           <h4 style="margin:10px;">SNGS Chinese Reading Programme – Cultivating the Joy of Reading</h4>

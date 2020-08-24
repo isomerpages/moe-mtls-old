@@ -10,7 +10,7 @@ collection_name: Others
 <style>
   img {
     height: auto;
-    max-width: 100%;
+    max-width: 50%;
 }
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
@@ -22,6 +22,16 @@ collection_name: Others
 
   gtag('config', 'AW-726049306');
 </script>
-<div>
-  <img src="/images/Coming-soon.jpg" >
-</div>
+<h2>What  is MTL Challenge about? </h2>
+ <p> This is MTL Challenge. <br/><br/>
+  
+  Scan the QR code to access the different MTL Challenge <br/>
+  CL Challenge <br/>
+  <img src="/images/QR-Code_Sample_For-MTL_Challeng.png" ><br/>
+  <br/>
+  ML Challenge <br/>
+  <img src="/images/QR-Code_Sample_For-MTL_Challeng.png"><br/>
+  <br/>
+   How do you win?
+ 
+</p>
