@@ -470,13 +470,21 @@ $desktop: 960px + (2 * $gap) !default;
   width:700px;  
 }
 @media only screen and (max-width: 600px) {
-   .atab,
-.atab3Line,
+   .atab{
+  width:69%;
+  }
+}
+@media only screen and (max-width: 600px) {
+   
+.atab3Line{
+  width:69%;
+  }
+}
+@media only screen and (max-width: 600px) {
 .atab1Line{
   width:69%;
   }
 }
-
 
 .atab input:checked ~ .tab-content,
 .atab3Line input:checked ~ .tab-content,
