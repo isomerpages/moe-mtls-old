@@ -16,8 +16,8 @@ links:
 - title: Gallery
   collection: Gallery
   sub-links:
-- title: Pre-School Cluster
-  url: /Exhibition/Pre-School Cluster
+  - title: Pre-School Cluster
+    url: /Exhibition/Pre-School Cluster
 - title: OPMTL Teacher Award
   url: /OPMTL-AWARD-2020/
 - title: Others
