@@ -56,8 +56,14 @@ max-width:40%;
 .atab {
     margin-bottom: 5px;
     width: 87%;
-    neight:auto;
+    height:auto;
     }
+    @media only screen and (max-width: 600px) {
+   .atab{
+  width:69%;
+  }
+}
+
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
