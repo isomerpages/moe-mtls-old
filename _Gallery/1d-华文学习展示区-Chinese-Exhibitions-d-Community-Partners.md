@@ -39,7 +39,6 @@ third_nav_title: '华文学习展示区'
     neight:auto;
     }
 </style>
-</head>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
 <script>
@@ -49,6 +48,7 @@ third_nav_title: '华文学习展示区'
 
   gtag('config', 'AW-726049306');
 </script>
+</head>
 <body>
     <div><h2 style="font-family:KaiTi">社区合作伙伴</h2></div>
   <table class="tbl">
