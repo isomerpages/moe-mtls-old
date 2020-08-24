@@ -56,6 +56,12 @@ max-width:40%;
     width: 87%;
     neight:auto;
     }
+    @media only screen and (max-width: 600px) {
+   .atab{
+  width:69%;
+  }
+}
+
  .atab3Line{
     margin-bottom: 5px;
     width: 87%;
