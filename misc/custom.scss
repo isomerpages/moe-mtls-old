@@ -634,6 +634,15 @@ $desktop: 960px + (2 * $gap) !default;
     margin-top:35px !important
   }
 }
+.btnImg22{
+  display:block;
+  margin-top: 20px !important;
+}
+@media only screen and (max-width: 600px) {
+   .btnImg22{
+    margin-top:25px !important
+  }
+}
 .btnImg21{
   display:block;
   margin-top: 20px !important;
