@@ -469,6 +469,12 @@ $desktop: 960px + (2 * $gap) !default;
   margin-bottom: 5px;
   width:700px;  
 }
+@media only screen and (max-width: 600px) {
+   .atab{
+  width:69%;
+  }
+}
+
 
 .atab input:checked ~ .tab-content,
 .atab3Line input:checked ~ .tab-content,
@@ -585,10 +591,5 @@ $desktop: 960px + (2 * $gap) !default;
 .btnImg45{
   display:block;
   margin-top: 45px !important;
-}
-@media only screen and (max-width: 600px) {
-   .atab{
-  width:69%;
-  }
 }
 
