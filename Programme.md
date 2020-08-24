@@ -5,6 +5,14 @@ breadcrumb: Programme
 
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-726049306');
+</script>
 <img src="/images/01MTLS-Programme-CL-Opening.jpg">
 <br/>
 <img src="/images/02MTLS-Programme -ML-Opening.jpg">
