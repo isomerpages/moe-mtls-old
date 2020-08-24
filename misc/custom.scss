@@ -610,6 +610,11 @@ $desktop: 960px + (2 * $gap) !default;
     margin-top:23px !important
   }
 }
+@media only screen and (max-width: 600px) {
+   .btnImg15 {
+    margin-top:29px !important
+  }
+}
 .btnImg18{
   display:block;
   margin-top: 18px !important;
@@ -621,5 +626,10 @@ $desktop: 960px + (2 * $gap) !default;
 .btnImg45{
   display:block;
   margin-top: 45px !important;
+}
+@media only screen and (max-width: 600px) {
+   .btnImg45 {
+    margin-top:67px !important
+  }
 }
 
