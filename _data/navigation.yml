@@ -1,6 +1,9 @@
 
 logo: '/images/emtls-2020-logo-01.png'
 links: 
+- title: Livestreams
+  url: /Livestreams/
+  collection: Livestreams
 - title: About Us
   url: /About-Us-And-Past-Symposiums/
 - title: GOH Message
@@ -13,8 +16,10 @@ links:
 - title: Gallery
   collection: Gallery
   sub-links:
-  - title: Pre-School Cluster
-    url: /Exhibition/Pre-School Cluster
+- title: Pre-School Cluster
+  url: /Exhibition/Pre-School Cluster
+- title: OPMTL Teacher Award
+  url: /OPMTL-AWARD-2020/
 - title: Others
   url: /Others/MTL-Challenge/
   sublinks:
