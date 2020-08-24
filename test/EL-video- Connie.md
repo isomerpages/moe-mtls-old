@@ -17,6 +17,7 @@ max-width:20%;
   <a href="https://staging-moe-mtls.netlify.app/exhibition/english-videos/synopsis/" style="float:right;">Back</a>
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qzuLweVtVxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    <br/>
  <div class="column">
 <img src="images/EL-Dr-Connie.jpg" style="width:100%">
    </div>
