@@ -38,7 +38,8 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 .atab {
     margin-bottom: 5px;
     width: 87%;
-    neight:auto;
+    height:auto;
+    margin-left: -5px;
     }
     
     @media only screen and (max-width: 600px) {
