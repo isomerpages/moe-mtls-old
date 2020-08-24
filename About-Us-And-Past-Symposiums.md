@@ -12,7 +12,7 @@ border : 0;
 width:80% ;
 }
  </style>
- <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
