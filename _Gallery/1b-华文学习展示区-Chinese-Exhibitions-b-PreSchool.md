@@ -39,6 +39,13 @@ third_nav_title: '华文学习展示区'
     width: 87%;
     height:auto;
     }
+    
+    @media only screen and (max-width: 600px) {
+   .atab{
+  width:69%;
+  }
+}
+
  .horizontal-scroll {
     overflow:unset !important;
     }
