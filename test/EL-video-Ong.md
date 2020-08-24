@@ -21,8 +21,8 @@ max-width:20%;
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
    </div>
     <p> <strong> Minister Lawrence Wong </strong>
-  <br/> Ministry for Education<br/>
-   Minister of Education</p>
+  <br/> Ministry of Education<br/>
+   Minister for Education</p>
 
   <h4> Synopsis</h4>
        
