@@ -76,6 +76,7 @@ td{
 <br/><br/>எதார்த்தமான கருத்துப்பரிமாற்றச் சூழல்களை உருவாக்கத் தகவல்தொடர்பு தொழில்நுட்பம் அதிகம் பயன்படுத்தப்படுகிறது.  
 </p>
 <img src="/images/MOE-Curriculum-TL-Primary-Image-7.jpg">
+<a href="http://www.mtl.moe.edu.sg/theenthamizh>Tamil Primary Online Learning Resource</a>
 <h4 id="C3"><span style="font-size:30px; color:purple;">பெற்றோர் பங்கு </span></h4>
 <table style="width:100%">
  <tr>
