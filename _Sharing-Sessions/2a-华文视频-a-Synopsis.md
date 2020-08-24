@@ -168,7 +168,7 @@ As home parenting and home-based learning become the new normal, parents are spe
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
       <label for="tab-4" class="lbCh"><span style="font-size:22px;font-family:KaiTi">2015年小学华文课程简介
-       <br/>徐金红与吴秀清老师老师</span>
+       <br/>徐金红与吴秀清老师</span>
 </label>
   <div class="tab-content">      
        <br/>
