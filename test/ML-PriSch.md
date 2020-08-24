@@ -94,7 +94,7 @@ table.center {
            <li style="text-align:justify;">menulis pelbagai jenis teks berdasarkan pelbagai tajuk yang sesuai;
 </li>
            <li style="text-align:justify;">berinteraksi secara lisan dengan menggunakan sebutan baku;</li>
-           <li style="text-align:justify;">>berinteraksi secara bertulis mengenai pelbagai tajuk tang sesuai;
+           <li style="text-align:justify;">berinteraksi secara bertulis mengenai pelbagai tajuk tang sesuai;
 </li>
            <li style="text-align:justify;">berfikir secara kreatif, kritis dan kritikal;
 </li>
