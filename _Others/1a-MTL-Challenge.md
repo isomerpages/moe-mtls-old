@@ -13,6 +13,15 @@ collection_name: Others
     max-width: 50%;
 }
 </style>
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-726049306');
+</script>
 <h2>What  is MTL Challenge about? </h2>
  <p> This is MTL Challenge. <br/><br/>
   
