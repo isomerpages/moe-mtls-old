@@ -643,6 +643,33 @@ $desktop: 960px + (2 * $gap) !default;
     margin-top:35px !important
   }
 }
+.btnImg17{
+  display:block;
+  margin-top: 20px !important;
+}
+@media only screen and (max-width: 600px) {
+   .btnImg17 {
+    margin-top:20px !important
+  }
+}
+.btnImg23{
+  display:block;
+  margin-top: 20px !important;
+}
+@media only screen and (max-width: 600px) {
+   .btnImg23 {
+    margin-top:37px !important
+  }
+}
+.btnImg24{
+  display:block;
+  margin-top: 20px !important;
+}
+@media only screen and (max-width: 600px) {
+   .btnImg24 {
+    margin-top:47px !important
+  }
+}
 .btnImg22{
   display:block;
   margin-top: 20px !important;
