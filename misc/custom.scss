@@ -470,7 +470,9 @@ $desktop: 960px + (2 * $gap) !default;
   width:700px;  
 }
 @media only screen and (max-width: 600px) {
-   .atab{
+   .atab,
+.atab3Line,
+.atab1Line{
   width:69%;
   }
 }
