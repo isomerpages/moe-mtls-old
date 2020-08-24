@@ -78,7 +78,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg17">
  <a href="/test/Sekolah-Rendah-Bendemeer/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
@@ -100,7 +100,7 @@ Soalan-soalan rangsangan (menggunakan Roda Penaakulan Paul) disertakan dalam Unj
       </div>
 </div>
 </td> 
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg17">
 <a href="/test/Sekolah-Rendah-Yuhua/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
@@ -121,7 +121,7 @@ Soalan-soalan rangsangan (menggunakan Roda Penaakulan Paul) disertakan dalam Unj
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
+<td style="border:0 none;padding: 0;" class="btnImg17">
  <a href="/test/Sekolah-Sains-dan-Teknologi/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
