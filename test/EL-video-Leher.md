@@ -18,6 +18,7 @@ max-width:20%;
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe></div>
+    <br/>
 <div class="column">
 <img src="images/EL-Dr-Leher-Singh.png" style="width:100%">
    </div>
