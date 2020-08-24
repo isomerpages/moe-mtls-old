@@ -40,7 +40,6 @@ third_nav_title: 'Pameran Bahasa Melayu'
     neight:auto;
     }
 </style>
-</head>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
 <script>
@@ -50,6 +49,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 
   gtag('config', 'AW-726049306');
 </script>
+</head>
 <body>
   <table class="tbl">
 <tr>
