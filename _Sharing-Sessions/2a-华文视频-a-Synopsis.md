@@ -57,7 +57,7 @@ max-width:40%;
     neight:auto;
     }
     
-   @media only screen and (max-width: 600px) {
+    @media only screen and (max-width: 600px) {
    .atab{
   width:69%;
   }
@@ -68,6 +68,12 @@ max-width:40%;
     width: 87%;
     height:auto;
     }
+    
+    @media only screen and (max-width: 600px) {
+   .atab{
+  width:69%;
+  }
+}
 
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
