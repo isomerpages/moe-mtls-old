@@ -31,8 +31,6 @@ collections:
         output: true
     Sharing-Sessions:
         output: true
-    Schools:
-        output: true
     Others:
         output: true
     Livestreams:
