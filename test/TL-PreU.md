@@ -213,7 +213,7 @@ width:80%;
  <h4><span style="font-size:30px;color:purple;">இலக்கியம்</span></h4>
    <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-   <label for="tab-2" style="font-size:22px" class="lbTM">இலக்கியம்இலக்கிய வகுப்பு ஆர்வமூட்டக்கூடியதாகஇருக்குமா?
+   <label for="tab-2" style="font-size:22px" class="lbTM">இலக்கிய வகுப்பு ஆர்வமூட்டக்கூடியாக இருக்குமா?
 </label>
      <div class="tab-content">   
    <img src="/images/TL-PreU-Literature.jpg">
