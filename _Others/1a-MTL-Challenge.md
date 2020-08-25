@@ -10,7 +10,7 @@ collection_name: Others
 <style>
   img {
     height: auto;
-    max-width: 50%;
+    max-width: 100%;
 }
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
