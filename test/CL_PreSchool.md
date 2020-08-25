@@ -151,7 +151,7 @@ width:80%;
   <iframe width="560" height="315" src="https://www.youtube.com/embed/lnlNM2YJcOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br/><span style="font-size:18px;font-family:KaiTi">大图书共享阅读视频</span></center>
   <br/><br/>
 <img src="/images/CL-PreSch-Discovery.jpg"> <br/>
-<span style="font-size:18px;font-family:KaiTi">欲了解“奥秘探索周”计划的活动点子设计，请阅读相关活动设计:<br/>
+<span style="font-size:18px;font-family:KaiTi">欲了解“奥秘探索周计划”的活动点子设计，请阅读相关活动设计:<br/>
   <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Activity%20Ideas/Chinese/PDF/K2/2018/NEL-Portal-Big-Book-Activity-Ideas-%E5%A4%A7-%E5%9B%BE-%E4%B9%A6-%E8%B5%84-%E6%BA%90-%E6%88%91-%E4%B9%9F-%E8%A6%81-%E5%AD%A6-MK@PV-%E6%AD%A6-%E6%9C%AF.pdf" target="_blank" style="font-family:KaiTi">“我的爱好是武术”</a><br/>
 <a href="https://www.nel.moe.edu.sg/qql/slot/u577/%E4%BC%A0%E7%BB%9F%E7%BE%8E%E9%A3%9F%E4%B8%8E%E9%A5%AE%E9%A3%9F%E6%96%87%E5%8C%96/NEL%20Portal%20%E5%8D%B0%E5%BA%A6%E7%85%8E%E9%A5%BC_Punggol%20View.pdf" target="_blank" style="font-family:KaiTi">“印度煎饼”</a>
 <h4 id="C3"><span style="font-family:KaiTi;font-size:35px;" >居家活动好点子</span></h4>
@@ -171,7 +171,7 @@ width:80%;
 旧时，人们常受不同虫子干扰，于是用面粉或谷类在门前绘图，让虫子有食物吃，它们就不会进屋里。<br/><br/>
          古拉姆一般都是对称的图案。你可以根据古拉姆图案的特点，和孩子在家绘制属于你们的古拉姆，而且，还是可以吃的古拉姆！选择一些家中即有的食材，例如：沙拉里不同种类的食材（水果、蔬菜、坚果、酱料等）、“一锅煮”的蔬菜杂烩食材、养生汤的药材等，然后进行“摆盘”以制作古拉姆。你可以一边摆，一边说出食材；也可以为孩子录像，让孩子介绍自己设计的古拉姆。
 </p>
-  <img src="/images/CL-preSch-Kolam.png">
+  <img src="/images/CL-preSch-Kolam2.png">
 
   <br/>
   <h4><span style="font-family:KaiTi;font-size:30px;" >水会变变变</span></h4>
