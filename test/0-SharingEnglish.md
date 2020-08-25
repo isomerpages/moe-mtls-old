@@ -1,6 +1,6 @@
 ---
 title: 'Gallery - Chinese'
-permalink: /test/
+permalink: /Gallery-Chinese/
 breadcrumb: 'test'
 
 ---
