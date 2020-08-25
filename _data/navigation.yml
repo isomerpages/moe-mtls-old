@@ -1,9 +1,6 @@
 
 logo: '/images/emtls-2020-logo-01.png'
 links: 
-- title: Livestreams
-  url: /Livestreams/
-  collection: Livestreams
 - title: About Us
   url: /About-Us-And-Past-Symposiums/
 - title: GOH Message
@@ -15,8 +12,6 @@ links:
   collection: Sharing-Sessions
 - title: Gallery
   collection: Gallery
-- title: OPMTL Teacher Award
-  url: /OPMTL-AWARD-2020/
 - title: Others
   url: /Others/MTL-Challenge/
   sublinks:
