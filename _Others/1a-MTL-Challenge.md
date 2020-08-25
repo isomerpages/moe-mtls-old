@@ -22,7 +22,7 @@ collection_name: Others
 
   gtag('config', 'AW-726049306');
 </script>
-<img src="/images/Coming-soon.jpg" style="display:none;>
+<img src="/images/Coming-soon.jpg" style="display:none;">
 <h2 style="display:block;">What  is MTL Challenge about? </h2>
  <p style="display:block;"> This is MTL Challenge. <br/><br/>
   
