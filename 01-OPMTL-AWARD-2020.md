@@ -148,7 +148,7 @@ PCF Sparkletots Preschool @ Bukit Gombak Blk 535 </center>
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
  <p> <center> Mdm Zhang Wei Wei<br/>
   <span style= "font-family:KaiTi; font-size:25px;">张伟玮女士 </span> 
-    <br/> MY World Preschool Ltd</center> 
+    <br/> MY World @ Simei</center> 
   </p>
     </div>
       </div>
