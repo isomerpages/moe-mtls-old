@@ -1,5 +1,5 @@
 ---
-title: 'test'
+title: 'Gallery - Chinese'
 permalink: /test/
 breadcrumb: 'test'
 
