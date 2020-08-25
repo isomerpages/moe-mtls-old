@@ -67,7 +67,7 @@ PCF Sparkletots Preschool @ Sengkang West Blk 303A </center>
  <div class="column">
 <a href="/test/OPMTL-AWARD-Caroline/"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
  <p> <center>Ms Louis Jeya Rubi Caroline <br/>
-  திருமதி லூயிஸ் ஜெய ரூபி கர ோலின் <br/>
+ திருமதி லூயிஸ் ஜெய ரூபி கரோலின்<br/>
 PCF Sparkletots Preschool @ Punggol East Blk 187B </center>
  </p>
   </div>
@@ -114,7 +114,7 @@ PCF Sparkletots Preschool @ Punggol East Blk 187B </center>
   <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
  <p> <center> Mrs Russel Raj Mary Celin Sharmila <br/>
-  திருமதி றசல் ோஜ் ரமரி ஜசலின் ஷர்மிளோ <br/>
+  திருமதி றசல் ராஜ் மேரி செலின் ஷர்மிளா<br/>
   PCF Sparkletots Preschool @ Bedok Blk 30 </center></p>
     </div>
    </div>
@@ -122,7 +122,7 @@ PCF Sparkletots Preschool @ Punggol East Blk 187B </center>
  <div class="column">
 <img src="images/cropped-person-icon-8-2.png" style="width:100%">
  <p> <center>Mrs Shanmugan Shoba <br/>
-  திருமதி சண்முகம் ரஷோபோ <br/>
+  திருமதி சண்முகம் ஷோபா<br/>
 PCF Sparkletots Preschool @ Bukit Gombak Blk 535 </center>
  </p>
  </div>
