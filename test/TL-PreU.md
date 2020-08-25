@@ -147,7 +147,7 @@ width:80%;
 <img src="/images/TL-PreU-Strategies.jpg">
 <br/>
 
-<h4 id="C4"><span style="font-size:30px;color:purple;">ததமிழ்மொழி விருப்பப் பாடத்திட்டம் (Tamil Language Elective Programme)
+<h4 id="C4"><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப் பாடத்திட்டம் (Tamil Language Elective Programme)
  </span></h4>
  <p style="text-align:justify;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. தகுதிவாய்ந்த மாணவர்களைத் தமிழ்மொழியில் ஆற்றல்மிக்கவர்களாகவும், தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வைப் பேணி வளர்க்கவும் இத்திட்டம் வகைசெய்யும். அதோடு, மாணவர்களை இருமொழியாற்றல் மிக்கவர்களாக உருவாக்குவதே இந்தத் திட்டத்தின் நோக்கமாகும்.
 </p>
@@ -157,8 +157,6 @@ width:80%;
     <td class="btab"><img src="/images/TL-PreU-right8.png"></td>
  </tr>
 </table>
-<br/>
- <a href="#" target="_blank">Students’ and Parents’ sharing on TLEP</a>
  <br/>
  <h4><span style="font-size:30px;color:purple;">நோக்கங்கள்</span></h4>
  <table style="width:100%">
@@ -174,8 +172,8 @@ width:80%;
     </tr>
 </table>
 <p>
-<a href="/Gallery/Recommended-reading-of-H2TLL.pdf" target="_blank">Recommended text</a><br/>
-<a href="/Gallery/H2TLL-Recommended-Text.pdf" target="_blank">Recommended text (Condensed)</a><br/>
+<a href="/Gallery/Recommended-reading-of-H2TLL.pdf" target="_blank">Interesting facts about Poets & Writers</a><br/>
+<a href="/Gallery/H2TLL-Recommended-Text.pdf" target="_blank">A sneak preview of Recommended text for H2 TLL</a><br/>
 <a href="/Gallery/H2-&-H3TLL-Launch-Slides.pdf" target="_blank">H2H3TLL Launch 2020 slides</a><br/>
 <a href="/Gallery/H3TLL-Sharing -by-EJC-Student.pdf" target="_blank">Student’s sharing on H3TLL at Toastmaster Club</a>
  </p><br/>
@@ -202,8 +200,8 @@ width:80%;
   <p style="text-align:justify;">வழங்கப்படும் தொடக்கக்கல்லூரிகள் 
 <br/>
   <ul>
-  <li>ஆண்டர்சன் சிராங்கூன்
-  <br/> தொடக்கக்கல்லூரி
+  <li>ஆண்டர்சன் சிராங்கூன்<br/>
+   தொடக்கக்கல்லூரி
 </li>
     <li>தேசிய தொடக்கக்கல்லூரி
 </li>
@@ -288,7 +286,7 @@ width:80%;
 </li>
   <li style="text-align:justify;">மாணவர்கள் தங்களது எண்ணங்களை விரித்து எழுதுவதற்குச் சிறுகதையின் கூறுகளை எவ்வாறு பயன்படுத்துவது என்பதை  அறிந்துகொண்டனர். 
 </li>
-  <li style="text-align:justify;">கட்டுரையின் கருத்துகளைத் திரட்டுவதற்கும், அதை விரித்து எழுதுவதற்கும் iMTL/SLS தளங்களைப் பயன்படுத்தி,  பார் - சிந்தி - தொடர்புபடுத்து மற்றும் 5W 1H என்னும் உத்திமுறைகளைக் கையாளக் கற்றுக்கொண்டனர். 
+  <li style="text-align:justify;">கட்டுரையின் கருத்துகளைத் திரட்டுவதற்கும், அதை விரித்து எழுதுவதற்கும் iMTL/SLS தளங்களைப் பயன்படுத்தி,  பார் - சிந்தி - தொடர்புபடுத்து மற்றும் 5W1H என்னும் உத்திமுறைகளைக் கையாளக் கற்றுக்கொண்டனர். 
 </li>
 </ul>
 <table style="width:100%">
