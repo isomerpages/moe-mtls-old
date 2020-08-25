@@ -75,7 +75,7 @@ td{
  <p style="text-align:justify;">மாணவர்களின் ஆர்வத்தைத் தூண்டவும் அவர்களது கற்றல் அனுபவத்தை மேம்படுத்தவும் தமிழ்மொழி கற்றலில் தகவல் தொடர்பு தொழில்நுட்பம் பயன்படுத்தப்படுகிறது. 
 <br/><br/>எதார்த்தமான கருத்துப்பரிமாற்றச் சூழல்களை உருவாக்கத் தகவல்தொடர்பு தொழில்நுட்பம் அதிகம் பயன்படுத்தப்படுகிறது.  
 </p>
-<img src="/images/MOE-Curriculum-TL-Primary-Image-7.jpg">
+<img src="/images/MOE-Curriculum-TL-Primary-Image-7a.jpg">
 <a href="http://www.mtl.moe.edu.sg/theenthamizh">Tamil Primary Online Learning Resource</a>
 <h4 id="C3"><span style="font-size:30px; color:purple;">பெற்றோர் பங்கு </span></h4>
 <table style="width:100%">
