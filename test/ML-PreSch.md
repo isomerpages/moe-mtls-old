@@ -220,7 +220,7 @@ Ibu bapa/Waris boleh menyokong pembelajaran dan pembangunan bahasa Ibunda anak/w
       
  <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-   <label for="tab-4" class="lbML">Siapakah Orang-orang dan Apakah Tempat-tempat di Sekeliling Saya?
+   <label for="tab-4" class="lbML">Siapakah Orang-orang dan Tempat-tempat di Sekeliling Saya?
 </label>
      <div class="tab-content"> 
  <img src="/images/ML-PreSch-orang.jpg"> 
