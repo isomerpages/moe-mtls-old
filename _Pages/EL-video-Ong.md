@@ -1,6 +1,6 @@
 ---
 title: 'EL video'
-permalink: /test001/EL-video-Ong/
+permalink: /Pages/EL-video-Ong/
 breadcrumb: 'EL video Ong'
 ---
 <html>
