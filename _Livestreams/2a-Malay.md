@@ -14,8 +14,9 @@ width:80% ;
 }
   </style>
    <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
-<h5>9.30am - 10.00am <br/>
-      GOH Opening Address Video and MLLPC Chairperson Address</h5>
+<h5>9.30 -10.00 pagi<br/>
+Ucapan Pembukaan Tetamu Terhormat dan<br/>
+   Ucapan Pengerusi MLLPC</h5>
   <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
     <br/>
