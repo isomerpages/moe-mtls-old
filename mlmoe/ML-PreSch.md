@@ -1,6 +1,6 @@
 ---
 title: 'Pendidikan Bahasa Melayu (Prasekolah)'
-permalink: /test/ML-PreSch/
+permalink: /mlmoe/ML-PreSch/
 breadcrumb: 'Pendidikan Bahasa Melayu (Prasekolah)'
 ---
 <html>
