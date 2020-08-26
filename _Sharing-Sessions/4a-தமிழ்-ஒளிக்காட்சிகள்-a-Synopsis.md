@@ -112,7 +112,7 @@ max-width:40%;
 </div></div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg">
-  <a href="/test/TL-video-Elakeyaa/"><div ><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></div></a>
+  <a href="/tl/TL-video-Elakeyaa/"><div ><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></div></a>
 </td>
 </tr>
  <tr>
@@ -151,7 +151,7 @@ max-width:40%;
 </div></div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg">
-  <a href="/test/TL-video-Rani/"><div ><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></div></a>
+  <a href="/tl/TL-video-Rani/"><div ><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></div></a>
 </td>
  </tr>
  <tr>
@@ -192,7 +192,7 @@ max-width:40%;
  </div></div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg15">
-  <a href="/test/TL-video-Mohan/"><div ><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></div></a>
+  <a href="/tl/TL-video-Mohan/"><div ><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></div></a>
 </td>
  </tr>
   <tr>
@@ -230,7 +230,7 @@ max-width:40%;
  </div></div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg15">
-  <a href="/test/TL-video-Darseni/"><div ><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></div></a>
+  <a href="/tl/Ms-Darseni-Rengasamy/"><div ><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></div></a>
 </td>
    </tr>
  </table>

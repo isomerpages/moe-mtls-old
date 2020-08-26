@@ -7,7 +7,7 @@ collection_name: Gallery
 third_nav_title: 'Pameran Bahasa Melayu'
 ---
 
-<h2 style="padding-top:12px;color:#a3c864;">Kurikulum Kementerian Pendidikan Singapura (MOE)</h2>
+<h2 style="padding-top:12px;color:#a3c864;"><b>Kurikulum Kementerian Pendidikan Singapura (MOE)</b></h2>
 <html>
 <body>
 <style>
@@ -15,6 +15,22 @@ third_nav_title: 'Pameran Bahasa Melayu'
  .tab img{
    width: 80%;
  }
+ .content table {
+    width: 100%;
+    font-family: arial, sans-serif;
+     border-collapse: collapse;
+}
+
+td {
+  border: 1px ;
+  text-align: center;
+  padding: 8px;
+  width:60%;
+}
+table.center {
+  margin-left:auto; 
+  margin-right:auto;
+  }
  .tab table {
    display: none;
 }
@@ -78,7 +94,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
   <a href="/test/ML-PreU/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass lbML1">Prauniversiti</div></a>
 </div>  <br/>
  <div style="margin-top:auto;margin-bottom:auto;text-align:left;">
- <h4 style="padding-top:12px;color:#a3c864;">Memupuk Pelajar Aktif dan Pengguna Cekap</h4>
+ <h4 style="padding-top:12px;color:#a3c864;"><b>Memupuk Pelajar Aktif dan Pengguna Cekap</b></h4>
  
  <p style="text-align:justify;">
 Tujuan utama pendidikan Bahasa Ibunda adalah untuk memperkukuh kemahiran berkomunikasi dan memupuk kesedaran serta penghayatan pelajar kita tentang warisan budaya dan nilai.  Dengan ini, mereka akan berasa yakin apabila berhubung dengan masyarakat di Asia dan seluruh dunia. 
@@ -89,7 +105,20 @@ Kurikulum ini juga bertujuan membentuk kemahiran berfikir aras tinggi dan mended
 <br/><br/>
 Maklumat yang dipaparkan dalam Kurikulum Bahasa Ibunda MOE bertujuan untuk memberikan pemahaman kepada  ibu bapa dan pendidik tentang pelbagai peluang pembelajaran Bahasa Ibunda bermula dari peringkat prasekolah, sekolah rendah, sekolah menengah hingga ke peringkat prauniversiti. Beberapa panduan dan idea telah disediakan untuk ibu bapa dan pendidik bagi menyokong pembelajaran Bahasa Ibunda yang menyeronokkan untuk anak-anak kita.
  </p>
-
+<h4 style="padding-top:12px;color:#a3c864;"> <b>Visi Pendidikan Bahasa Melayu Singapura </b></h4>
+<p><strong> Arif Budiman </strong>(Insan berilmu pengetahuan yang berbakti kepada masyarakat) 
+<table style="width:100%">
+  <tr>
+    <td><p style="text-align:justify;">Visi Arif Budiman menetapkan satu hala tuju bagi guru dan pelajar Bahasa Melayu untuk membina kefasihan berbahasa dan penghayatan nilai dan budaya Melayu.       
+<br/><br/>
+</p></td>
+  <td><img src="/images/ML-Sec-update.jpg"><br/>
+   </td>
+  </tr>
+</table>
+</p>
+<h4 style="padding-top:12px;color:#a3c864;"><b>Matlamat Kurikulum Bahasa Melayu </b> </h4>
+<img src="/images/MTLS-Malay-Matalamat-Kurikulum-Bahasa-Melayu2.jpg">
 <h4 style="padding-top:12px;color:#a3c864;">Nurturing Active Learners and Proficient Users</h4>
   <div style="margin-top:auto;margin-bottom:auto;text-align:justify;">
 <p>The key purpose of MTL education is to equip our young with effective communication skills and to create a greater awareness and appreciation of our culture and values, which in turn enables our young to have the confidence to connect with similar language communities across Asia and the world. <br/><br/>

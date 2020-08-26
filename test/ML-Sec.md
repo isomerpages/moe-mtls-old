@@ -21,7 +21,15 @@ breadcrumb: 'Pendidikan Bahasa Melayu (Sekolah Menengah)'
 .tab table:target {
   display: block;
 }
-
+.column {
+  float: left;
+  width: 80%;
+  padding: 5px;
+}
+ .row {
+    display: flex;
+    height: 3.5%;
+}
 .content table {
     width: 100%;
     font-family: arial, sans-serif;
@@ -72,10 +80,19 @@ table.center {
   margin-bottom: 5px;
   width:100%;  
 }
+ iframe{
+border : 0;
+width:80%;
+}
+ .iframe1{
+border : 0;
+width:100%;
+}
+
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
-<img src="/images/ML-Sec-Header2.jpg">
+<img src="/images/ML-Sec-Header.jpg">
 
  <a href="#C1" style="font-size:20px"><span style="color:blue;font-family:Calibri">Bahan Pengajaran Dan Pembelajaran
 </span></a><br/>
@@ -83,43 +100,12 @@ table.center {
 </span></a><br/>
 <p style="font-size:30px;"><strong>Matlamat Kurikulum Bahasa Melayu</strong></p>
 
-<h5  style="font-size:25px;color:green;">Memupuk Pelajar Aktif Dan Pengguna Cekap (Pembelajaran Yang Menyeronokkan)</h5>
 <p style="text-align:justify;">Kurikulum Bahasa Melayu Peringkat Sekolah Menengah bertujuan melengkapkan pelajar dengan kecekapan berkomunikasi dan menjalin hubungan dengan pihak lain dalam konteks kehidupan di Singapura, rantau dan dunia.
 <br/><br/>
-Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengguna bahasa yang cekap ialah: 
-<img src="/images/ML-Sec-Funlearning.jpg"><br/>
-  <span style="Font size: 28px; color: green;">Visi Pendidikan Bahasa Melayu Singapura
-</span><br/>
-  <strong> Arif Budiman </strong>(Insan berilmu pengetahuan yang berbakti kepada masyarakat) 
-<table style="width:100%">
-  <tr>
-    <td><p style="text-align:justify;">Visi Arif Budiman menetapkan satu hala tuju bagi guru dan pelajar Bahasa Melayu untuk membina kefasihan berbahasa dan penghayatan nilai dan budaya Melayu.       
-<br/><br/>
-      Di peringkat sekolah menengah, pelajar bahasa Melayu dipupuk untuk mendalami dan menghargai bahasa dan budaya Melayu dalam pelanjutan pembangunan negara. 
-</p></td>
-  <td><img src="/images/ML-Sec-update.jpg"><br/>
-    <img src="/images/ML-Sec-Update2.jpg"></td>
-  </tr>
-</table>
-</p>
-<p style="font-size:25px; color: green">Nilai Budaya Arif Budiman
-  <br/>
-<table style="width:100%">
-  <tr>
-    <td><p style="font-size:20px;text-align:justify;">Ciri-ciri seseorang yang <strong> Arif Budiman: </strong>
-<br/>
-      Pendidikan Bahasa Melayu di peringkat menengah dilaksanakan dengan berpandukan nilai dan budaya masyarakat Melayu yang meliputi seni dan artifak, institusi, nilai dan kepercayaan serta bahasa dan kesusasteraan Melayu. 
-</p></td>
-    <td> <img src="/images/ML-Sec-Framework.png"></td>
-  </tr>
-  </table>
-</p>
-<h4><span style="font-size:25px;color:green;" >Gambaran Menyeluruh Kurikulum Bahasa Ibunda </span>
-</h4>
-<img src="/images/ML-Sec-Gambaran.jpg"><br/>
+
 <p style="font-size:25px; color: green">Tonton video di bawah ini bagi informasi selanjutnya. <br/><br/>
   <center> 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/WSq_Lrb2788" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  <br/><span style="font-size:20px;" >Penerangan Kurikulum Sekolah Menengah 2021
  </span>
      </center> 
@@ -197,9 +183,22 @@ Tiga objektif umum pengajaran dan pembelajaran Bahasa Ibunda untuk membina pengg
     <center> 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZANW_F4at9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </center> 
 </p>
-<p style="font-size:25px; color:green">Bahan sokongan dalam talian:
-<br/>
+<div class="row">
+ <div class="column">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Zz3N7AI6Y3o" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+  <span style="color:#d14165;font-size:18px;font-family:KaiTi"> 小学华文数码资源介绍 - “学乐”网 </span>
+</div>
+  <div class="column">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:18px;font-family:KaiTi">小学华文数码资源介绍新加坡学生学习平台</span>
+ </div>
+ </div>
+ <br/>
+<h4 style="font-size:25px; color:green">Bahan sokongan dalam talian:</h4>
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ante in nibh mauris cursus. Duis ultricies lacus sed turpis tincidunt id aliquet. Metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices. Est ante in nibh mauris cursus mattis molestie a. Mattis pellentesque id nibh tortor id. Vulputate mi sit amet mauris commodo. Et ultrices neque ornare aenean euismod elementum. Amet consectetur adipiscing elit duis tristique sollicitudin nibh sit amet. Mi quis hendrerit dolor magna eget est lorem. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. A diam sollicitudin tempor id eu nisl nunc.</p>
 <img src="/images/iMTL-Sec-image"><br/>
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ante in nibh mauris cursus. Duis ultricies lacus sed turpis tincidunt id aliquet. Metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices. Est ante in nibh mauris cursus mattis molestie a. Mattis pellentesque id nibh tortor id. Vulputate mi sit amet mauris commodo. Et ultrices neque ornare aenean euismod elementum. Amet consectetur adipiscing elit duis tristique sollicitudin nibh sit amet. Mi quis hendrerit dolor magna eget est lorem. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. A diam sollicitudin tempor id eu nisl nunc.</p>
   <img src="/images/SLS-image"><br/>
 </p>
   <p id="C2" style="font-size:30px;"><strong>Sokongan Ibu Bapa</strong></p>
@@ -218,6 +217,11 @@ Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, sediakan persek
 <h4  style="font-size:25px;color:green;" >Program-program Bahasa & Budaya Melayu</h4> 
 <p style="font-size:22px;text-align:justify;">Bagi menggalakkan penggunaan dan pendedahan pada bahasa Melayu, sertailah program-program bahasa dan budaya yang telah dianjurkan. Bawa bersama keluarga anda menghadiri aktiviti-aktiviti ini. Anda juga boleh melawat tempat-tempat yang disarankan.
 </p>
+<div class="atab">
+      <input id="tab-3" type="checkbox" name="tab">
+   <label for="tab-3" class="lbML">Majlis Bahasa Melayu Singapura - Bulan Bahasa 2020 
+</label>
+     <div class="tab-content">
 <p style="font-size:25px;"> <strong>Majlis Bahasa Melayu Singapura </strong> - Bulan Bahasa 2020 
   <br/>
   <ul>
@@ -227,7 +231,12 @@ Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, sediakan persek
  <a href="https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa" target="_blank">Majlis Bahasa Melayu Singapura - Bulan Bahasa 
  </a>
 </p>
-
+ </div></div> 
+ <div class="atab">
+      <input id="tab-4" type="checkbox" name="tab">
+   <label for="tab-4" class="lbML">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
+</label>
+     <div class="tab-content">
   <p style="font-size:25px;"> <strong> Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu </strong>(MLLPC) 
   <ul><li>Fiesta Bahasa
 </li>
@@ -235,12 +244,13 @@ Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, sediakan persek
 </li>
          </ul>
  <a href="https://www.mllpc.sg/signature-or-flagship-programme-fund" target="_blank">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
- </a>
+ </a><br/>
+  <a href="https://instagram.com/mllpc.sg?igshid=6lgo3kvwcnka" target="_blank">MLLPC Instagram</a>
 </p>
-
+</div></div>
 <div class="atab">
-      <input id="tab-3" type="checkbox" name="tab">
-   <label for="tab-3" class="lbML">Perpustakaan Negara Singapura
+      <input id="tab-5" type="checkbox" name="tab">
+   <label for="tab-5" class="lbML">Perpustakaan Negara Singapura
 
 </label>
      <div class="tab-content"> 
@@ -275,8 +285,8 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
 </table>
  </div></div> 
  <div class="atab">
-      <input id="tab-4" type="checkbox" name="tab">
-   <label for="tab-4" class="lbML">Esplanade – Siri Pentas  
+      <input id="tab-6" type="checkbox" name="tab">
+   <label for="tab-6" class="lbML">Esplanade – Siri Pentas  
 </label>
      <div class="tab-content"> 
        <table>
@@ -304,8 +314,8 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
 </tr></table>
  </div></div> 
   <div class="atab">
-      <input id="tab-5" type="checkbox" name="tab">
-   <label for="tab-5" class="lbML">Taman Warisan Melayu 
+      <input id="tab-7" type="checkbox" name="tab">
+   <label for="tab-7" class="lbML">Taman Warisan Melayu 
 
 </label>
      <div class="tab-content"> 
@@ -324,8 +334,8 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
  </div></div> 
  
   <div class="atab">
-      <input id="tab-6" type="checkbox" name="tab">
-   <label for="tab-6" class="lbML">Muzium Negara Singapura 
+      <input id="tab-8" type="checkbox" name="tab">
+   <label for="tab-8" class="lbML">Muzium Negara Singapura 
 
 </label>
      <div class="tab-content"> 
@@ -341,5 +351,19 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
 </p><br/>
 <img src="/images/ML-Sec-National-Museum.jpg">
  </div></div> 
+ <div class="atab">
+      <input id="tab-9" type="checkbox" name="tab">
+   <label for="tab-9" class="lbML">Wisma Geylang Serai
+</label>
+     <div class="tab-content">
+       <a href="https://www.facebook.com/WismaGeylangSerai/ 
+" target="_blank"> https://www.facebook.com/WismaGeylangSerai/ </a>
+       <br/>
+       <p><strong>Wisma Geylang Serai
+</strong><br/>Sebuah hab warisan budaya yang mengetengahkan persembahan budaya, sesi bicara, sesi memasak dan lain-lain lagi. Ikuti siaran langsung acara-acara ini melalui FB & IG #wgeylangserai. 
+       </p>
+  </div></div>
+
+*Insert Wisma Geylang Info Here. Include https://instagram.com/wgeylangserai?igshid=nit9a62cgs2w Wisma Geylang Serai Instagram
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>

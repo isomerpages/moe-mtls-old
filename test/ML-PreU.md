@@ -17,7 +17,7 @@ width:80% ;
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
-<img src="/images/ML-PreU-Header2.jpg">
+<img src="/images/ML-PreU-Header.jpg">
 
 <a href="#C1" style="font-size:20px"><span style="color:blue;">Sokongan Video</span></a><br/>
  <a href="#C2" style="font-size:20px"><span style="color:blue;">Program di Prauniversiti
