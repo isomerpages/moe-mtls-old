@@ -81,7 +81,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 </div>
     </td>
 <td style="border:0 none;padding: 0;" class="btnImg17" >
-<a href="/test/Berita-Harian/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+<a href="/mlmoe/Berita-Harian/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -103,7 +103,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg17">
- <a href="/test/Esplanade-Teater-di-Persisiran/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+ <a href="/mlmoe/Esplanade-Teater-di-Persisiran/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 
@@ -129,7 +129,7 @@ Dana ini menyokong pendekatan menarik dan kreatif bagi menggalakkan kedwibahasaa
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
- <a href="/test/Dana-Kedwibahasaan-Lee-Kuan-Yew/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+ <a href="/mlmoe/Dana-Kedwibahasaan-Lee-Kuan-Yew/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -148,7 +148,7 @@ Dana ini menyokong pendekatan menarik dan kreatif bagi menggalakkan kedwibahasaa
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg17">
- <a href="/test/M-Kuasa-Tiga-(M3)-Nee-Soon/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+ <a href="/mlmoe/M-Kuasa-Tiga-(M3)-Nee-Soon/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 
@@ -168,7 +168,7 @@ Dana ini menyokong pendekatan menarik dan kreatif bagi menggalakkan kedwibahasaa
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg23">
- <a href="/test/Jawatankuasa-Pembelajaran-dan-Penggalakkan-Penggunaan-Bahasa-Melayu/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+ <a href="/mlmoe/Jawatankuasa-Pembelajaran-dan-Penggalakkan-Penggunaan-Bahasa-Melayu/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -193,7 +193,7 @@ Parents can find out more about the learning opportunities available for the you
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg17">
- <a href="/test/Lembaga-Warisan-Negara/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+ <a href="/mlmoe/Lembaga-Warisan-Negara/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 
@@ -214,7 +214,7 @@ Parents can find out more about the learning opportunities available for the you
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg24">
- <a href="/test/Institut-Pendidikan-Nasional-(Kumpulan Akademik Bahasa dan Kebudayaan Asia)/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+ <a href="/mlmoe/Institut-Pendidikan-Nasional-(Kumpulan Akademik Bahasa dan Kebudayaan Asia)/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -234,7 +234,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg17">
- <a href="/test/Lembaga-Perpustakaan-Negara/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+ <a href="/mlmoe/Lembaga-Perpustakaan-Negara/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
  </tr>
 <tr>
@@ -253,7 +253,7 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg17">
- <a href="/test/Wildlife-Reserves-Singapore/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+ <a href="/mlmoe/Wildlife-Reserves-Singapore/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 </table>
