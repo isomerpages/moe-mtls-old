@@ -70,7 +70,8 @@ td{
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7bDcJCHpYHM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
-<h4 id="C2"><span style="font-size:30px; color:purple;">இணையம்வழிக் கற்றல்
+<h4 id="C2"><span style="font-size:30px; color:purple;">இணையவழிக் கற்றல் 
+
  </span></h4>
  <p style="text-align:justify;">மாணவர்களின் ஆர்வத்தைத் தூண்டவும் அவர்களது கற்றல் அனுபவத்தை மேம்படுத்தவும் தமிழ்மொழி கற்றலில் தகவல்தொடர்பு தொழில்நுட்பம் பயன்படுத்தப்படுகிறது. 
 <br/><br/>எதார்த்தமான கருத்துப்பரிமாற்றச் சூழல்களை உருவாக்கத் தகவல்தொடர்பு தொழில்நுட்பம் அதிகம் பயன்படுத்தப்படுகிறது.  
