@@ -1,6 +1,6 @@
 ---
 title: 'Madam Zeng Hanyu'
-permalink: /test/OPMTL-AWARD-Hanyu/
+permalink: /award/OPMTL-AWARD-Hanyu/
 breadcrumb: 'OPMTL AWARD - Zeng Hanyu'
 ---
 <html>
