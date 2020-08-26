@@ -165,7 +165,7 @@ width:80%;
  <iframe width="560" height="315" src="https://www.youtube.com/embed/mhJoflfcZWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br/><span style="font-size:18px;font-family:KaiTi">金字塔书制作视频
 </span></center><br/>
 <br/>
-<span style="font-family:KaiTi;font-size:30px;" >美味的古拉姆（Kolam )</span>
+<span style="font-family:KaiTi;font-size:30px;" >美味的古拉姆（Kolam）</span>
 <p style="font-family:KaiTi;font-size:25px;">点子二：<br/>
          配合第三学段课程主题 —— 我和谁共享这个世界？<br/><br/>
          古拉姆是兴都教徒在家门前地上的绘图装饰。
