@@ -1,6 +1,6 @@
 ---
 title: 'Pendidikan Bahasa Melayu (Sekolah Menengah)'
-permalink: /test/ML-Sec/
+permalink: /mlmoe/ML-Sec/
 breadcrumb: 'Pendidikan Bahasa Melayu (Sekolah Menengah)'
 ---
 <html>
