@@ -104,26 +104,16 @@ width:80%;
 <h4 id= "C1"><span style="font-size:35px;font-family:KaiTi ;">繁星语文课程 </span></h4>
 <img src="/images/CL-PreSch-starlight2.jpg">
 <br/>
-<div class="atab">
-      <input id="tab-1" type="checkbox" name="tab">
-   <label for="tab-1" style="font-family:KaiTi;font-size:22px" class="lbCh">学前母语课程框架 </label>
-     <div class="tab-content">
-       <table>
-       <tr>
-         <td><p style="font-size:25px;font-family:KaiTi;text-align:justify;" >
+
+<h4 style="font-family:KaiTi;font-size:22px" class="lbCh">学前母语课程框架 </h4>
+     <p style="font-size:25px;font-family:KaiTi;text-align:justify;" >
     《培育幼儿:学前母语课程框架》的核心理念是:幼儿是好奇、积极、有能力的母语学习者。持有这个理念的教师必能实现这套框架的愿景、 宗旨以及学习目标。<br/>
 <br/>本框架的教学宗旨建立在教学愿景之上，教学宗旨和指导原则又能协助教师设计课堂教学。教师在根据指导原则进行课堂教学时，应谨记课程学习目标，以实现母语教学的愿景。</p> 
-</td>
-<td>
-  <p><img src="/images/CL-Presch-Framework.png"> </p>    
-</td>
-  </tr>
-</table>
-  </div></div>
+
+ <img src="/images/CL-Presch-Framework.png"> 
+
  <h4 id="C2"><span style="font-size:35px;font-family:KaiTi;">大图书共享阅读 </span></h4>
- <table>
-  <tr> 
-    <td>
+ 
      <ol>
    <p> <li style="font-size:25px;font-family:KaiTi">由新加坡教育部编写的大图书是《培育幼儿：新加坡学前课程》的教学资源之一。
 </li>
@@ -135,12 +125,7 @@ width:80%;
      <li style="font-size:25px;font-family:KaiTi">这套教学资源除了支持幼儿的双语发展，也体现了非常浓厚的本土特色。目前，教育部幼儿园都在课堂内使用这套教学资源。</li>
      </p>
 </ol>
-</td>  
-<td>
    <img src="/images/CL-Presch-Textbook.jpg">   
-</td>
-  </tr>
- </table>
  <table>
   <tr><td colspan="2">
   <ol start="4">
@@ -155,7 +140,7 @@ width:80%;
 <span style="font-size:18px;font-family:KaiTi">欲了解“奥秘探索周计划”的活动点子设计，请阅读相关活动设计:<br/>
   <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Activity%20Ideas/Chinese/PDF/K2/2018/NEL-Portal-Big-Book-Activity-Ideas-%E5%A4%A7-%E5%9B%BE-%E4%B9%A6-%E8%B5%84-%E6%BA%90-%E6%88%91-%E4%B9%9F-%E8%A6%81-%E5%AD%A6-MK@PV-%E6%AD%A6-%E6%9C%AF.pdf" target="_blank" style="font-family:KaiTi">“我的爱好是武术”</a><br/>
 <a href="https://www.nel.moe.edu.sg/qql/slot/u577/%E4%BC%A0%E7%BB%9F%E7%BE%8E%E9%A3%9F%E4%B8%8E%E9%A5%AE%E9%A3%9F%E6%96%87%E5%8C%96/NEL%20Portal%20%E5%8D%B0%E5%BA%A6%E7%85%8E%E9%A5%BC_Punggol%20View.pdf" target="_blank" style="font-family:KaiTi">“印度煎饼”</a>
-<h4 id="C4"><span style="font-family:KaiTi;font-size:35px;" >居家活动好点子</span></h4>
+<h4 id="C4"><span style="font-family:KaiTi;font-size:35px;">居家活动好点子</span></h4>
 <p style="font-family:KaiTi;font-size:25px;">
        点子一: 我的家 —— 金字塔书<br/>
 配合第二学段课程主题 —— 我周围有谁，有哪些地方？<br/><br/>
