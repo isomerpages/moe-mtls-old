@@ -1,7 +1,7 @@
 ---
-title: 'ML video'
-permalink: /ml/ML-video-Mariam/
-breadcrumb: 'ML video Mariam'
+title: 'Associate Professor Mariam Aljunied'
+permalink: /ml/Associate-Professor-Mariam-Aljunied/
+breadcrumb: 'Associate Professor Mariam Aljunied'
 ---
 <html>
 <head>
