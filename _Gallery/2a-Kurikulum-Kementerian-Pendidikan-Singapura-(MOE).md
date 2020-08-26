@@ -7,7 +7,7 @@ collection_name: Gallery
 third_nav_title: 'Pameran Bahasa Melayu'
 ---
 
-<h2 style="padding-top:12px;color:#a3c864;"><strong>Kurikulum Kementerian Pendidikan Singapura (MOE)</strong></h2>
+<h2 style="padding-top:12px;color:#a3c864;"><b>Kurikulum Kementerian Pendidikan Singapura (MOE)</b></h2>
 <html>
 <body>
 <style>
