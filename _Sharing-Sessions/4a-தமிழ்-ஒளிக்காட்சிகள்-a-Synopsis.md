@@ -112,7 +112,7 @@ max-width:40%;
 </div></div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg">
-  <a href="/tl/TL-video-Elakeyaa/"><div ><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></div></a>
+  <a href="/tl/Ms-Elakeyaa-Selvaraji/"><div ><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></div></a>
 </td>
 </tr>
  <tr>
@@ -151,7 +151,7 @@ max-width:40%;
 </div></div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg">
-  <a href="/tl/TL-video-Rani/"><div ><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></div></a>
+  <a href="/tl/Mrs-Rani-Kanna-And-Mr-Anandha-Kannan/"><div ><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></div></a>
 </td>
  </tr>
  <tr>
@@ -192,7 +192,7 @@ max-width:40%;
  </div></div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg15">
-  <a href="/tl/TL-video-Mohan/"><div ><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></div></a>
+  <a href="/tl/Mr-Mohan-Suppiah-And-Mr-Balajee-Haridas/"><div ><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></div></a>
 </td>
  </tr>
   <tr>
