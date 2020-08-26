@@ -1,7 +1,7 @@
 ---
-title: 'TL Sec'
+title: 'தமிழ்மொழிப் பாடக்கலைத்திட்டம் (உயர்நிலை)'
 permalink: /test/TL-Sec/
-breadcrumb: 'TL Sec'
+breadcrumb: 'தமிழ்மொழிப் பாடக்கலைத்திட்டம் (உயர்நிலை)'
 ---
 <html>
 <body>
