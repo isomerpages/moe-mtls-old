@@ -1,7 +1,7 @@
 ---
-title: 'TL PreU'
+title: 'பல்கலைக்கழகப் புகுமுக நிலை'
 permalink: /tlmoeTL-PreU/
-breadcrumb: 'TL PreU'
+breadcrumb: 'பல்கலைக்கழகப் புகுமுக நிலை'
 ---
 <html>
 <body>
