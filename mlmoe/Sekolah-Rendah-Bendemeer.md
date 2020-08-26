@@ -1,6 +1,6 @@
 ---
 title: 'Sekolah Rendah Bendemeer'
-permalink: /test/Sekolah-Rendah-Bendemeer/
+permalink: /mlmoe/Sekolah-Rendah-Bendemeer/
 breadcrumb: 'Sekolah Rendah Bendemeer'
 ---
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-c/schools/" style="float:right;">Back</a>
