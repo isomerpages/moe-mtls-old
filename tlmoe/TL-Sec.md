@@ -133,7 +133,7 @@ width:80%;
 </p></td>
   <td>
   <img src="/images/TL-Sec-right1.png"><br/>
-  <span style="color:purple;font-size:22px;"><strong>பாடத்திட்டப் பணிச்சட்டம்</strong></span><br/>
+  <span style="color:purple;font-size:20px;"><strong>பாடத்திட்டப் பணிச்சட்டம்</strong></span><br/>
   </td>
  </tr>
  </table>
@@ -171,22 +171,22 @@ width:80%;
  <img src="/images/TL-Sec-Literature.jpg">
 </center>
 <br/>
- <h4 id="C3"><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப் பாடத்திட்டம்
+ <h4 id="C3"><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்<br/>
 (Tamil Language Elective Programme)
  </span>
 </h4>
-<p style="text-align:justify;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. தகுதிவாய்ந்த மாணவர்களைத் தமிழ்மொழியில் ஆற்றல்மிக்கவர்களாகவும், தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வைப் பேணி வளர்க்கவும் இத்திட்டம் வகைசெய்யும். அதோடு, மாணவர்களை இருமொழியாற்றல் மிக்கவர்களாக உருவாக்குவதே இந்தத் திட்டத்தின் நோக்கமாகும். <br/><br/>
+<p style="text-align:justify;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. தகுதிவாய்ந்த மாணவர்களைத் தமிழ்மொழியில் ஆற்றல் மிக்கவர்களாகவும், தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வைப் பேணி வளர்க்கவும் இத்திட்டம் வகைசெய்யும். அதோடு, மாணவர்களை இருமொழியாற்றல் மிக்கவர்களாக உருவாக்குவதே இந்தத் திட்டத்தின் நோக்கமாகும்.<br/><br/>
  தமிழ்மொழி விருப்பப்பாடத் திட்டம் கீழ்க்கண்ட உயர்நிலைப் பள்ளிகளிலும் தொடக்கக்கல்லூரிகளிலும் வழங்கப்படுகின்றது. </p><br/>
  <div class="row">
  <div class="column">
-   <p>உயர்நிலைப் பள்ளிகள்
+  <p><strong>உயர்நிலைப் பள்ளிகள்</strong>
 <br/>
    <ul>
-    <li style="color:black;">காமன்வெல்த் உயர்நிலைப்பள்ளி
+    <li>காமன்வெல்த் உயர்நிலைப்பள்ளி
 </li>
-     <li style="color:black;">ரிவர்சைடு உயர்நிலைப்பள்ளி
+     <li>ரிவர்சைடு உயர்நிலைப்பள்ளி
 </li>
-     <li style="color:black;">யூசூன் டவுன் உயர்நிலைப்பள்ளி
+     <li>யூசூன் டவுன் உயர்நிலைப்பள்ளி
 </li>
    </ul>
   <a href="/Gallery/TL-Sec-tlep-sec-infosheet-students-2019.pdf " target="_blank">TLEP Infosheet - Secondary</a></p>
@@ -194,24 +194,31 @@ width:80%;
 
  <div class="column">
 
-  <p>தொடக்கக்கல்லூரிகள்
+  <p><strong>தொடக்கக்கல்லூரிகள்</strong>
 <br/>
   <ul>
-  <li style="color:black;">ஆண்டர்சன்  <br/>
-   தொடக்கக்கல்லூரி</li>
-    <li style="color:black;">தேசிய தொடக்கக்கல்லூரி
+  <li>ஆண்டர்சன்-சிராங்கூன் <br/>தொடக்கக்கல்லூரி
+</li>
+    <li>தேசியத் தொடக்கக்கல்லூரி
 </li>
  </ul>
 <a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf " target="_blank">TLEP Infosheet - JC</a></p> 
    </div> 
    </div>
    <br/>
- <img src="/images/TL-Sec-TLEP-Schools-Update.jpg">
-  
+ <img src="/images/TL-Sec-TLEP-Schools-Update.jpg">  
 <br/>
- <p><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப் பாடத்திட்டம்
-</span></p>
- <img src="/images/TL-Sec-Optional-Curriculum-Update.jpg">
+
+ <img src="/images/TL-Sec-Optional-Curriculum-Update.jpg"><br/>
+ <span style="font-size:25px;"><strong>காமன்வெல்த் உயர்நிலைப்பள்ளி</strong></span>
+<center><span style="font-size:18px; text-align:justify;"> ஶ்ரீராம்_உயர்நிலை 3</span><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/giDBQvuLZp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br/><br/>
+ <span style="font-size:25px;"><strong>ரிவர்சைடு உயர்நிலைப்பள்ளி</strong></span>
+<center><span style="font-size:18px; text-align:justify;">அன்பழகன் நிவேதிதா _உயர்நிலை 3 </span><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VbDOJKBV8-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br/><br/>
+<span style="font-size:25px;"><strong>யூசூன் டவுன் உயர்நிலைப்பள்ளி</strong></span>
+<center><span style="font-size:18px; text-align:justify;">ஹீரன்_உயர்நிலை 3</span><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bcwSzzG_gMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br/><br/>
 
  <h4 id="C4"><span style="font-size:30px;color:purple;">இணையவழிக் கற்றல் </span> </h4>
 <img src="/images/TL-Sec_onlineLearning.jpg">
