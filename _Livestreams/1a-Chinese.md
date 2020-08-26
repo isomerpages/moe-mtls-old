@@ -1,10 +1,10 @@
 ---
-title: '现场直播'
+title: '直播视频'
 permalink: /Livestreams/Chinese/
-breadcrumb: '现场直播'
-collection_name: 现场直播
+breadcrumb: '直播视频'
+collection_name: 直播视频
 ---
-###  现场直播
+###  直播视频
 <html>
 <body>
 <style>
