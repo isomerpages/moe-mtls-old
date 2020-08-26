@@ -1,5 +1,5 @@
 ---
 title: 'English Video'
-permalink: /test/
+permalink: /eng/
 breadcrumb: 'English Video'
 ---
