@@ -103,7 +103,7 @@ Maklumat yang dipaparkan dalam Kurikulum Bahasa Ibunda MOE bertujuan untuk membe
 </table>
 </p>
 <h4 style="padding-top:12px;color:#a3c864;">Matlamat Kurikulum Bahasa Melayu </h4>
-
+<img src="/images/MTLS-Malay-Matalamat-Kurikulum-Bahasa-Melayu2.jpg">
 <h4 style="padding-top:12px;color:#a3c864;">Nurturing Active Learners and Proficient Users</h4>
   <div style="margin-top:auto;margin-bottom:auto;text-align:justify;">
 <p>The key purpose of MTL education is to equip our young with effective communication skills and to create a greater awareness and appreciation of our culture and values, which in turn enables our young to have the confidence to connect with similar language communities across Asia and the world. <br/><br/>
