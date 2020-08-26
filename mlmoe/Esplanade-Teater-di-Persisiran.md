@@ -1,6 +1,6 @@
 ---
 title: 'Esplanade - Teater di Persisiran '
-permalink: /test/Esplanade-Teater-di-Persisiran/
+permalink: /mlmoe/Esplanade-Teater-di-Persisiran/
 breadcrumb: 'Esplanade - Teater di Persisiran'
 ---
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-d/community-partners/" style="float:right;">Back</a>
