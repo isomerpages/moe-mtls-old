@@ -20,7 +20,7 @@ max-width:40%;
     <img src="images/cropped-person-icon-8-2.png" style="width:100%">
     </div>
 <p> Ms Louis Jeya Rubi Caroline <br/>
-  திருமதி லூயிஸ் ஜெய ரூபி கர ோலின் <br/>
+ ததிருமதி லூயிஸ் ஜெய ரூபி கரோலின்<br/>
 PCF Sparkletots Preschool @ Punggol East Blk 187B
  </p>
     </div><br/>
@@ -37,10 +37,10 @@ PCF Sparkletots Preschool @ Punggol East Blk 187B
     </p>
     <h4>Write up</h4><p>
     Mrs Jeya Rubi Caroline takes great effort in ensuring that her lessons engage her children’s’ prior knowledge. For example, she used the topic on,“Caring for Animals”, to seamlessly weave her class’sprior knowledge into her storytelling whilst also using self-made props. This was a well-structured lesson that was both innovative and which arousedchildren’s interest and captured their attention.
-<br/>
+<br/><br/>
 Mrs Jeya’s passion for her subject was evident during her lesson delivery. Her lesson was well-plannedand implemented with a dramatic flair that engaged her children throughout.Bysuccessfully engaging the children, Mrs Jeva wasableto continually elicit active responses from herchildren. Mrs Jeva used this positive interaction to regularly check pupils’ understanding of the topic, as well asencouraging them to ask questions. It was clearly evident that 
 MrsJeva has established an excellent rapport with herchildren.
-<br/>
+<br/><br/>
 Mrs Jeya’sown enjoyment of the lesson was also very noticeable. She hadherclass act out the characters from the story byusing the book illustrations, and even mimicked the sounds of the respective animal characters to further engage her class.These continual  efforts to  engage her students in the joy oflearning area hallmark of MrsJeya’s teaching style. Her enthusiasm,engaging personality and her sound knowledge of the curriculum content make her an excellent role model for other Tamil pre-school teachers.
 
 </p>
