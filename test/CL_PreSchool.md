@@ -105,7 +105,7 @@ width:80%;
 <img src="/images/CL-PreSch-starlight2.jpg">
 <br/>
 
-<h4 style="font-family:KaiTi;font-size:30px" class="lbCh">学前母语课程框架 </h4>
+<h4 style="font-family:KaiTi;font-size:35px" class="lbCh">学前母语课程框架 </h4>
      <p style="font-size:25px;font-family:KaiTi;text-align:justify;" >
     《培育幼儿:学前母语课程框架》的核心理念是:幼儿是好奇、积极、有能力的母语学习者。持有这个理念的教师必能实现这套框架的愿景、 宗旨以及学习目标。<br/>
 <br/>本框架的教学宗旨建立在教学愿景之上，教学宗旨和指导原则又能协助教师设计课堂教学。教师在根据指导原则进行课堂教学时，应谨记课程学习目标，以实现母语教学的愿景。</p> 
@@ -134,16 +134,15 @@ width:80%;
   <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Activity%20Ideas/Chinese/PDF/K2/2018/NEL-Portal-Big-Book-Activity-Ideas-%E5%A4%A7-%E5%9B%BE-%E4%B9%A6-%E8%B5%84-%E6%BA%90-%E6%88%91-%E4%B9%9F-%E8%A6%81-%E5%AD%A6-MK@PV-%E6%AD%A6-%E6%9C%AF.pdf" target="_blank" style="font-family:KaiTi">“我的爱好是武术”</a><br/>
 <a href="https://www.nel.moe.edu.sg/qql/slot/u577/%E4%BC%A0%E7%BB%9F%E7%BE%8E%E9%A3%9F%E4%B8%8E%E9%A5%AE%E9%A3%9F%E6%96%87%E5%8C%96/NEL%20Portal%20%E5%8D%B0%E5%BA%A6%E7%85%8E%E9%A5%BC_Punggol%20View.pdf" target="_blank" style="font-family:KaiTi">“印度煎饼”</a>
 <h4 id="C4"><span style="font-family:KaiTi;font-size:35px;">居家活动好点子</span></h4>
-<h3 style="font-family:KaiTi;">
-  点子一: 我的家 —— 金字塔书</h3>
+<h4 style="font-family:KaiTi;">
+  点子一: 我的家 —— 金字塔书</h4>
   <p style="font-size:25px;font-family:KaiTi">
 配合第二学段课程主题 —— 我周围有谁，有哪些地方？<br/><br/>
          先和孩子介绍家里的不同地方，如：客厅、厨房、睡房等。接着，和孩子一起制作金字塔书。你们可以参考视频做出属于孩子独特的金字塔书。孩子可以根据家里的情况画出不同的装饰。完成后，让孩子用金字塔书来说说自己在家的一日活动吧！</p>
        <center>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/mhJoflfcZWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br/><span style="font-size:18px;font-family:KaiTi">金字塔书制作视频
 </span></center><br/>
-<br/>
-<h3 style="font-family:KaiTi;">点子二：美味的古拉姆（Kolam）</h3>
+<h4 style="font-family:KaiTi;">点子二：美味的古拉姆（Kolam）</h4>
   <p style="font-size:25px;font-family:KaiTi">
          配合第三学段课程主题 —— 我和谁共享这个世界？<br/><br/>
          古拉姆是兴都教徒在家门前地上的绘图装饰。旧时，人们常受不同虫子干扰，于是用面粉或谷类在门前绘图，让虫子有食物吃，它们就不会进屋里。<br/><br/>
@@ -153,8 +152,8 @@ width:80%;
   <br/>
 <table>
        <tr>
-         <td><h3 style="font-family:KaiTi" >
-    点子三：水会变变变</h3>
+         <td><h4 style="font-family:KaiTi" >
+    点子三：水会变变变</h4>
    <p style="font-size:25px;font-family:KaiTi">        
 配合第四学段课程主题 —— 我周围的事物是怎么运作的？<br/><br/>
    让孩子观察冰块融化的过程，并画出水在不同阶段（开始、10分钟、30分钟）的状态。活动结束后，让他/她与您分享所观察到的变化。
