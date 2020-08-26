@@ -105,8 +105,8 @@ width:80%;
 இதன் அடிப்படையில் தமிழ்மொழி கற்றல் கற்பித்தலை அடுத்தடுத்த மேம்பட்ட நிலைக்குக் கொண்டு செல்ல அரசாங்கத்தின் உதவியோடு தொடர்ந்து பல முயற்சிகள் மேற்கொள்ளப்பட்டு வருகின்றன. சிங்கப்பூரில் தமிழை வாழும் மொழியாக நிலைபெறச் செய்ய வேண்டும் என்பதே இம்முயற்சிகளின் அடிப்படை நோக்கமாகும்.
 </p>
 <center>
- <iframe  width="560" height="315" src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center><br/>
- <h4 id="C1"><span style="font-size:30px;color:purple;">2021-ஆம் ஆண்டுத் தமிழ்ப் பாடக்கலைத்திட்ட உருவாக்கம்
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/6sBb03SK3wI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center><br/>
+ <h4 id="C1"><span style="font-size:30px;color:purple;">2021-ஆம் ஆண்டுத் தமிழப் பாடக்கலைத்திட்டம்
  </span></h4>
 <table>
   <tr>
@@ -115,6 +115,8 @@ width:80%;
      <br/> <a href="/Gallery/2021-tamil-curriculum.pdf" target="_blank">2021 Tamil Curriculum</a></td>
  </tr> 
  </table>
+ <center><span style="font-size:18px;">உயர்நிலைத் &nbsp; தமிழ்மொழிப் &nbsp; பாட்த்திட்ட &nbsp; வெளியீடு:<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rGFqD2sxPfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br/>
  <br/>
  <h4 id="C2"><span style="font-size:30px;color:purple;">இலக்கியம்
  </span></h4>
