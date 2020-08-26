@@ -1,6 +1,6 @@
 ---
 title: 'Wildlife Reserves Singapore '
-permalink: /test/Wildlife-Reserves-Singapore/
+permalink: /mlmoe/Wildlife-Reserves-Singapore/
 breadcrumb: 'Wildlife Reserves Singapore '
 ---
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-d/community-partners/" style="float:right;">Back</a>
