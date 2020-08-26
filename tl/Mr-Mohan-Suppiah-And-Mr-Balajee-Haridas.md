@@ -1,7 +1,7 @@
 ---
-title: 'TL video'
-permalink: /tl/TL-video-Mohan/
-breadcrumb: 'TL video Mohan'
+title: 'Mr Mohan Suppiah & Mr Balajee Haridas'
+permalink: /tl/Mr-Mohan-Suppiah-And-Mr-Balajee-Haridas/
+breadcrumb: 'Mr Mohan Suppiah And Mr Balajee Haridas'
 ---
 <html>
 <head>
