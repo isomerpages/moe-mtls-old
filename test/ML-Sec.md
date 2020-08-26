@@ -82,11 +82,11 @@ table.center {
 }
  iframe{
 border : 0;
-width:100%;
+width:80%;
 }
  .iframe1{
 border : 0;
-width:80%;
+width:100%;
 }
 
 </style>
