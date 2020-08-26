@@ -1,5 +1,5 @@
 ---
 title: 'Kurikulum Kementerian Pendidikan Singapura (MOE)'
-permalink: /tlmoe/
+permalink: /mlmoe/
 breadcrumb: 'Kurikulum Kementerian Pendidikan Singapura (MOE)'
 ---
