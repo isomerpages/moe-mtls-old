@@ -1,7 +1,7 @@
 ---
-title: 'தமிழ்மொழிப் பாடக்கலைத்திட்டம் (உயர்நிலை)'
-permalink: /test/TL-Sec/
-breadcrumb: 'தமிழ்மொழிப் பாடக்கலைத்திட்டம் (உயர்நிலை)'
+title: 'உயர்நிலை'
+permalink: /tlmoe/TL-Sec/
+breadcrumb: 'உயர்நிலை'
 ---
 <html>
 <body>
