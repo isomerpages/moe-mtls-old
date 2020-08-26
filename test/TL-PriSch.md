@@ -25,9 +25,9 @@ td{
 <p>
 <a href="#C1" style="font-size:20px"><span style="color:blue;">கல்வி அமைச்சின் தொடக்கப்பள்ளிப் பாடக்கலைத்திட்டம் 
 </span></a><br/>
- <a href="#C3" style="font-size:20px"><span style="color:blue;">பெற்றோர் பங்கு
+ <a href="#C3" style="font-size:20px"><span style="color:blue;">இணையம்வழிக் கற்றல்
 </span></a><br/>
- <a href="#C2" style="font-size:20px"><span style="color:blue;">இணையம்வழிக் கற்றல்
+ <a href="#C2" style="font-size:20px"><span style="color:blue;">பெற்றோர் பங்கு 
 </span></a><br/><br/>
 <h4 id="C1"><span style="font-size:30px;color:purple;">கல்வி அமைச்சின் தொடக்கப்பள்ளிப் பாடக்கலைத்திட்டம் 
 </span></h4>
@@ -44,7 +44,7 @@ td{
 </p>
  <p style="font-size:25px;color:purple;">ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் வளங்கள்</p>
 <ul>
-<li style="text-align:justify;">மாணவர்களின் ஆர்வத்தைத் தூண்டி மகிழ்வளிக்கும் மகிழ்வூட்டும் கற்றலில் ஈடுபடுத்த விளையாட்டுகள், கதைகள், பாடல்கள் ஆகியவை துணைபுரிகின்றன.  
+<li style="text-align:justify;">மாணவர்களின் ஆர்வத்தைத் தூண்டி மகிழ்வளிக்கும் கற்றலில் ஈடுபடுத்த விளையாட்டுகள், கதைகள், பாடல்கள் ஆகியவை துணைபுரிகின்றன.  
 </li>
 <li style="text-align:justify;">சொல்விளையாட்டுகள் மாணவர்களின் சிந்தனையைத் தூண்டிச் சுயக்கற்றலுக்கு வழிவகுப்பதோடு அவர்களது வெற்றியைக் கொண்டாடுவதற்கும் வாய்ப்பளிக்கின்றன. 
 </li>
@@ -72,11 +72,11 @@ td{
 </center>
 <h4 id="C2"><span style="font-size:30px; color:purple;">இணையம்வழிக் கற்றல்
  </span></h4>
- <p style="text-align:justify;">மாணவர்களின் ஆர்வத்தைத் தூண்டவும் அவர்களது கற்றல் அனுபவத்தை மேம்படுத்தவும் தமிழ்மொழி கற்றலில் தகவல் தொடர்பு தொழில்நுட்பம் பயன்படுத்தப்படுகிறது. 
+ <p style="text-align:justify;">மாணவர்களின் ஆர்வத்தைத் தூண்டவும் அவர்களது கற்றல் அனுபவத்தை மேம்படுத்தவும் தமிழ்மொழி கற்றலில் தகவல்தொடர்பு தொழில்நுட்பம் பயன்படுத்தப்படுகிறது. 
 <br/><br/>எதார்த்தமான கருத்துப்பரிமாற்றச் சூழல்களை உருவாக்கத் தகவல்தொடர்பு தொழில்நுட்பம் அதிகம் பயன்படுத்தப்படுகிறது.  
 </p>
 <img src="/images/MOE-Curriculum-TL-Primary-Image-7a.jpg">
-<a href="http://www.mtl.moe.edu.sg/theenthamizh">Tamil Primary Online Learning Resource</a>
+<a href="http://www.mtl.moe.edu.sg/theenthamizh target=_blank;">Tamil Primary Online Learning Resource</a>
 <h4 id="C3"><span style="font-size:30px; color:purple;">பெற்றோர் பங்கு </span></h4>
 <table style="width:100%">
  <tr>
