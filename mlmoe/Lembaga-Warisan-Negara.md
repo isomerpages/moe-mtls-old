@@ -1,6 +1,6 @@
 ---
 title: 'Lembaga Warisan Negara '
-permalink: /test/Lembaga-Warisan-Negara/
+permalink: /mlmoe/Lembaga-Warisan-Negara/
 breadcrumb: 'Lembaga Warisan Negara'
 ---
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-d/community-partners/" style="float:right;">Back</a>
