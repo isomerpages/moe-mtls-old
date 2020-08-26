@@ -143,8 +143,9 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
 <br/>
  <img src="/images/ML-PreSch-Starlight2.jpg"> 
 
- <table style="border-style: none;border:0px;" class="tb01"><tr><td>
 <p id="C2" style="font-size:30px;"><strong>Pendekatan Membaca Bersama</strong></p>
+  <img src="/images/Picture1.png"> <br/>
+   <img src="/images/Picture2.png"><br/>
   
 <p style="text-align:justify;">Program Literasi Bintang Kecil dilaksanakan dengan menggunakan pelbagai bahan pembelajaran untuk membina kemahiran bahasa kanak-kanak.<br/>
  Buku besar merupakan bahan utama dalam pengajaran dan pembelajaran bagi setiap unit di Tadika MOE. Guru akan menggunakan Pendekatan Membaca Bersama untuk membacakan cerita. Dengan menggunakan Buku Besar, kanak-kanak dapat melihat gambar dan teks serta mengambil bahagian secara aktif dalam pembacaan. <br/><br/>
@@ -158,25 +159,19 @@ Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resour
  <li style="text-align:justify;">menggalakkan kanak-kanak menggunakan bahasa Melayu dalam suasana yang selesa; </li>
  <li style="text-align:justify;">mengajar dan mengukuhkan kemahiran berbahasa Melayu.</li>
 </ul>
-
 </p>
-</td>
-<td>
-<img src="/images/Picture1.png"> <br/>
-   <img src="/images/Picture2.png">
-</td>
-</tr>
 <tr>
-<td colspan="2">
+
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZSYplOdbes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:20px;" >Pendekatan Membaca Bersama dijalankan di dalam bilik darjah </span></center>
-</td>
-</tr>
+<br/><span style="font-size:20px;" >Pendekatan Membaca Bersama dijalankan di dalam bilik darjah </span>
+</center>
+<br/>
 
-<tr><td>
 <p id="C3" style="font-size:30px;"><strong>Projek MuM (Minggu untuk Meneroka)</strong>
   </p>
+  <img src="/images/Picture3.jpg">
+  <br/>
 <p style="text-align:justify;">Setiap tahun, kanak-kanak di Tadika MOE akan menyelesaikan Projek MuM, dua dalam Bahasa Inggeris dan dua dalam Bahasa Ibunda. Pada akhir setiap penggal, kanak-kanak akan mendalami perkara yang dipelajari dengan meneroka topik yang menarik perhatian mereka. Kanak-kanak bekerjasama dengan rakan-rakan dan guru mereka untuk menyelesaikan projek tersebut.  <br/><br/>
  Melalui projek MuM, kanak-kanak berasa seronok kerana dapat meneroka untuk mencari jawapan bagi soalan-soalan mereka dan mempelajari sesuatu secara kendiri. Pengalaman ini akan membina keyakinan kanak-kanak dan memupuk kecenderungan mereka terhadap pembelajaran Bahasa Melayu. <br/>
  <br/>
@@ -188,13 +183,8 @@ Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resour
 </li>
   <li style="text-align:justify;">menggalakkan kemahiran berkomunikasi ketika kanak-kanak menjalankan projek-projek MuM dalam Bahasa Inggeris dan Bahasa Ibunda mereka.
 </li>
-  </ul></p>
- </td>
-<td>
- <img src="/images/Picture3.jpg">
-</td>
- </tr>
- </table>
+  </ul>
+  </p>
   
 <p>
 Yang berikut merupakan contoh-contoh projek MuM yang terdapat di<a href="https://www.nel.moe.edu.sg/resources/aktiviti-aktiviti-saranan" target="_blank"> Portal NEL.</a><br/>
