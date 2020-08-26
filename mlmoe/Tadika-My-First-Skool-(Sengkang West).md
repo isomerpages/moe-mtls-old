@@ -1,6 +1,6 @@
 ---
 title: 'Tadika My First Skool (Sengkang West) '
-permalink: /test/Tadika-My-First-Skool-(Sengkang West)/
+permalink: /mlmoe/Tadika-My-First-Skool-(Sengkang West)/
 breadcrumb: 'Tadika My First Skool (Sengkang West)'
 ---
 <a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-b/preschool/" style="float:right;">Back</a>
