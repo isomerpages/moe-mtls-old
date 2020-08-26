@@ -1,6 +1,6 @@
 ---
 title: 'Lembaga Perpustakaan Negara'
-permalink: /test/Lembaga-Perpustakaan-Negara/
+permalink: /mlmoe/Lembaga-Perpustakaan-Negara/
 breadcrumb: 'Lembaga Perpustakaan Negara'
 ---
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-d/community-partners/" style="float:right;">Back</a>
