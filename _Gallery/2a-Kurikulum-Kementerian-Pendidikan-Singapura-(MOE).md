@@ -111,10 +111,9 @@ Maklumat yang dipaparkan dalam Kurikulum Bahasa Ibunda MOE bertujuan untuk membe
   <tr>
     <td><p style="text-align:justify;">Visi Arif Budiman menetapkan satu hala tuju bagi guru dan pelajar Bahasa Melayu untuk membina kefasihan berbahasa dan penghayatan nilai dan budaya Melayu.       
 <br/><br/>
-      Di peringkat sekolah menengah, pelajar bahasa Melayu dipupuk untuk mendalami dan menghargai bahasa dan budaya Melayu dalam pelanjutan pembangunan negara. 
 </p></td>
   <td><img src="/images/ML-Sec-update.jpg"><br/>
-    <img src="/images/ML-Sec-Update2.jpg"></td>
+   </td>
   </tr>
 </table>
 </p>
