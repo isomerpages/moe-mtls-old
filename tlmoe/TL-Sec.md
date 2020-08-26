@@ -119,6 +119,8 @@ width:80%;
  </table>
  <center><span style="font-size:18px;">உயர்நிலைத் &nbsp; தமிழ்மொழிப் &nbsp; பாட்த்திட்ட &nbsp; வெளியீடு:</span><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rGFqD2sxPfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br/>
+<center><span style="font-size:18px; text-align:justify;">வழிநடத்தும் குழு உறுப்பினர்களின் பகிர்வும்  முன்னோட்டச் சோதனையில் ஈடுபட்ட பள்ளி ஆசிரியர்களின் பகிர்வும்:</span><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q-YiRGO8S78" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
  <br/>
  <h4 id="C2"><span style="font-size:30px;color:purple;">இலக்கியம்
  </span></h4>
