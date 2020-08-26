@@ -1,7 +1,7 @@
 ---
-title: 'EL video'
-permalink: /eng/EL-video-Leher/
-breadcrumb: 'EL video Leher'
+title: 'A/P Leher Singh '
+permalink: /eng/Leher-Singh/
+breadcrumb: 'Leher-Singh'
 ---
 <html>
 <head>
