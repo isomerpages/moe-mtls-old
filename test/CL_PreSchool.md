@@ -125,14 +125,14 @@ width:80%;
   <tr> 
     <td>
      <ol>
-   <p> <li style="font-size:25x;font-family:KaiTi">由新加坡教育部编写的大图书是《培育幼儿：新加坡学前课程》的教学资源之一。
+   <p> <li style="font-size:25px;font-family:KaiTi">由新加坡教育部编写的大图书是《培育幼儿：新加坡学前课程》的教学资源之一。
 </li>
-     <li style="font-size:25x;font-family:KaiTi">编写大图书的目的是让幼儿：
-       <li style="font-size:25x;font-family:KaiTi"> 培养对英语和母语的兴趣 </li>
-         <li style="font-size:25x;font-family:KaiTi">提升基础语言能力</li>
-         <li style="font-size:25x;font-family:KaiTi">对本地文化有初步的认识</li>
+     <li style="font-size:25px;font-family:KaiTi">编写大图书的目的是让幼儿：
+       <li style="font-size:25px;font-family:KaiTi"> 培养对英语和母语的兴趣 </li>
+         <li style="font-size:25px;font-family:KaiTi">提升基础语言能力</li>
+         <li style="font-size:25px;font-family:KaiTi">对本地文化有初步的认识</li>
          </li>
-     <li style="font-size:25x;font-family:KaiTi">这套教学资源除了支持幼儿的双语发展，也体现了非常浓厚的本土特色。目前，教育部幼儿园都在课堂内使用这套教学资源。</li>
+     <li style="font-size:25px;font-family:KaiTi">这套教学资源除了支持幼儿的双语发展，也体现了非常浓厚的本土特色。目前，教育部幼儿园都在课堂内使用这套教学资源。</li>
      </p>
 </ol>
 </td>  
@@ -144,7 +144,7 @@ width:80%;
  <table>
   <tr><td colspan="2">
   <ol start="4">
-  <li style="font-size:25x;font-family:KaiTi">大图书共享阅读是教育部幼儿园课堂内使用的教学法。共享阅读让幼儿享受阅读的乐趣，并鼓励幼儿通过有趣的活动，掌握听、说、读的能力。欲知教学步骤，请点击<a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Chi/NEL-Big-Book-Chinese-Teaching-Steps.pdf" target="_blank" style="font-family:KaiTi;">此处</a>.</li>
+  <li style="font-size:25px;font-family:KaiTi">大图书共享阅读是教育部幼儿园课堂内使用的教学法。共享阅读让幼儿享受阅读的乐趣，并鼓励幼儿通过有趣的活动，掌握听、说、读的能力。欲知教学步骤，请点击<a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Chi/NEL-Big-Book-Chinese-Teaching-Steps.pdf" target="_blank" style="font-family:KaiTi;">此处</a>.</li>
 </ol>
     </td></tr>
   </table>
@@ -156,16 +156,16 @@ width:80%;
   <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Activity%20Ideas/Chinese/PDF/K2/2018/NEL-Portal-Big-Book-Activity-Ideas-%E5%A4%A7-%E5%9B%BE-%E4%B9%A6-%E8%B5%84-%E6%BA%90-%E6%88%91-%E4%B9%9F-%E8%A6%81-%E5%AD%A6-MK@PV-%E6%AD%A6-%E6%9C%AF.pdf" target="_blank" style="font-family:KaiTi">“我的爱好是武术”</a><br/>
 <a href="https://www.nel.moe.edu.sg/qql/slot/u577/%E4%BC%A0%E7%BB%9F%E7%BE%8E%E9%A3%9F%E4%B8%8E%E9%A5%AE%E9%A3%9F%E6%96%87%E5%8C%96/NEL%20Portal%20%E5%8D%B0%E5%BA%A6%E7%85%8E%E9%A5%BC_Punggol%20View.pdf" target="_blank" style="font-family:KaiTi">“印度煎饼”</a>
 <h4 id="C4"><span style="font-family:KaiTi;font-size:35px;" >居家活动好点子</span></h4>
-  <h4><span style="font-family:KaiTi;font-size:30px;" >我的家 —— 金字塔书</span></h4>
+ <span style="font-family:KaiTi;font-size:30px;" >我的家 —— 金字塔书</span>
 <p style="font-family:KaiTi;font-size:25px;">
        点子一<br/>
-配合第二学段课程主题 - 我周围有谁，有哪些地方？<br/><br/>
+配合第二学段课程主题 —— 我周围有谁，有哪些地方？<br/><br/>
          先和孩子介绍家里的不同地方，如：客厅、厨房、睡房等。接着，和孩子一起制作金字塔书。你们可以参考视频做出属于孩子独特的金字塔书。孩子可以根据家里的情况画出不同的装饰。完成后，让孩子用金字塔书来说说自己在家的一日活动吧！</p>
        <center>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/mhJoflfcZWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br/><span style="font-size:18px;font-family:KaiTi">金字塔书制作视频
 </span></center><br/>
 <br/>
- <h4><span style="font-family:KaiTi;font-size:30px;" >美味的古拉姆（Kolam )</span></h4>
+<span style="font-family:KaiTi;font-size:30px;" >美味的古拉姆（Kolam )</span>
 <p style="font-family:KaiTi;font-size:25px;">点子二：<br/>
          配合第三学段课程主题 —— 我和谁共享这个世界？<br/><br/>
          古拉姆是兴都教徒在家门前地上的绘图装饰。
@@ -173,9 +173,8 @@ width:80%;
          古拉姆一般都是对称的图案。你可以根据古拉姆图案的特点，和孩子在家绘制属于你们的古拉姆，而且，还是可以吃的古拉姆！选择一些家中即有的食材，例如：沙拉里不同种类的食材（水果、蔬菜、坚果、酱料等）、“一锅煮”的蔬菜杂烩食材、养生汤的药材等，然后进行“摆盘”以制作古拉姆。你可以一边摆，一边说出食材；也可以为孩子录像，让孩子介绍自己设计的古拉姆。
 </p>
   <img src="/images/CL-preSch-Kolam2.jpg">
-
   <br/>
-  <h4><span style="font-family:KaiTi;font-size:30px;" >水会变变变</span></h4>
+ <span style="font-family:KaiTi;font-size:30px;">水会变变变</span>
 <table>
        <tr>
          <td><p style="font-size:25px;font-family:KaiTi" >
