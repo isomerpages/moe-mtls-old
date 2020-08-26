@@ -24,6 +24,10 @@ max-width:40%;
   <br/>Islander Preschool by EtonHouse
   </p>
     </div><br/>
+    <h4 style="font-family:KaiTi;">感言：</h4>
+    <p style="font-family:KaiTi; font-size:25px; text-align:justify">
+      幼儿是有能力的学习者，他们通过不同的方法建构知识、表达自己。作为一名华文教师，既要倾听幼儿的声音，与他们建立良好的关系，鼓励他们探索世界，也要不断反思，探索华文教学的新途径。
+    </p>
     <h4 style="font-family:KaiTi;">评语：</h4>
     <p style="font-family:KaiTi; font-size:25px; text-align:justify">
 曾老师在“小小发明家”这堂课中，鼓励幼儿展示他们在之前的课上通过小组协作制作的机器人，并以华语跟全班同学做分享。
@@ -36,6 +40,9 @@ max-width:40%;
 <br/><br/>
       曾老师特别重视每日的课后反思，积极进取，努力提高自己的专业素养和教学能力。</p>
 <br/>
+    <h4>Quote:</h4>
+    <p style="text-align:justify">
+      Children are capable learners who use different approaches to construct knowledge and express themselves. As a Chinese Language teacher, it is important that I build a positive relationshipwith andlisten to each individual child voice in order to encourage every child to discover the world.  I am constantly reflecting upon my teaching and exploring new ways of teaching Chinese Language to my students.</p>
 <h4>Write-up</h4>
     <p style="text-align:justify">
     Madam Zeng’s creative approach to teaching included encouraging her students to give a presentation to the class in Chinese on the robots they created in groups in previous Chinese Language lessons.
