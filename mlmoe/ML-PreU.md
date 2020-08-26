@@ -1,6 +1,6 @@
 ---
 title: 'Pendidikan Bahasa Melayu (Prauniversiti)'
-permalink: /test/ML-PreU/
+permalink: /mlmoe/ML-PreU/
 breadcrumb: 'Pendidikan Bahasa Melayu (Prauniversiti)'
 ---
 <html>
