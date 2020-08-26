@@ -1,6 +1,6 @@
 ---
 title: 'TL video'
-permalink: /test/TL-video-Rani/
+permalink: /tl/TL-video-Rani/
 breadcrumb: 'TL video Rani'
 ---
 <html>
