@@ -84,7 +84,7 @@ width:80%;
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <a href="/gallery/华文学习展示区-chinese-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/CL-Presch-Header.jpg">
-<p style="font-size:35px;font-family:KaiTi" ><h4 style="font-size:35px;font-family:KaiTi;">教育部幼儿园  &nbsp; 
+<p style="font-size:35px;font-family:KaiTi" ><h4 style="font-size:35px;font-family:KaiTi;">教育部幼儿园 
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">繁星语文课程</span></a>
  <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:KaiTi">大图书共享阅读</span></a>
  <a href="#C3" style="font-size:25px"><span style="color:blue;font-family:KaiTi">奥秘探索周</span></a>
