@@ -1,6 +1,6 @@
 ---
 title: 'Berita Harian'
-permalink: /test/Berita-Harian/
+permalink: /mlmoe/Berita-Harian/
 breadcrumb: 'Berita Harian'
 ---
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-d/community-partners/" style="float:right;">Back</a>
