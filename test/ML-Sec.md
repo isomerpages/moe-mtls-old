@@ -21,16 +21,15 @@ breadcrumb: 'Pendidikan Bahasa Melayu (Sekolah Menengah)'
 .tab table:target {
   display: block;
 }
- .column {
+.column {
   float: left;
   width: 80%;
   padding: 5px;
 }
-.row {
+ .row {
     display: flex;
-    height: 8%;
+    height: 3.5%;
 }
-
 .content table {
     width: 100%;
     font-family: arial, sans-serif;
@@ -83,9 +82,13 @@ table.center {
 }
  iframe{
 border : 0;
-height:100%;
 width:100%;
 }
+ .iframe1{
+border : 0;
+width:80%;
+}
+
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
@@ -183,11 +186,11 @@ width:100%;
 </p>
 <div class="row">
  <div class="column">
- <iframe src="https://www.youtube.com/embed/Zz3N7AI6Y3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+ <iframe src="https://www.youtube.com/embed/Zz3N7AI6Y3o" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
   <span style="color:#d14165;font-size:18px;font-family:KaiTi"> 小学华文数码资源介绍 - “学乐”网 </span>
 </div>
   <div class="column">
-  <iframe src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:18px;font-family:KaiTi">小学华文数码资源介绍新加坡学生学习平台</span>
+  <iframe src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:18px;font-family:KaiTi">小学华文数码资源介绍新加坡学生学习平台</span>
  </div>
  </div>
  <br/>
