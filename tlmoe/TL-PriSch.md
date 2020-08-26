@@ -1,6 +1,6 @@
 ---
 title: 'TL PriSch'
-permalink: /test/TL-PriSch/
+permalink: /tlmoe/TL-PriSch/
 breadcrumb: 'TL PriSch'
 ---
 <html>
