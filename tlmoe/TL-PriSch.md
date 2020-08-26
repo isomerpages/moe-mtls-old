@@ -1,7 +1,7 @@
 ---
-title: 'TL PriSch'
+title: 'தமிழ்மொழிப் பாடக்கலைத்திட்டம் (தொடக்கநிலை)'
 permalink: /tlmoe/TL-PriSch/
-breadcrumb: 'TL PriSch'
+breadcrumb: 'தமிழ்மொழிப் பாடக்கலைத்திட்டம் (தொடக்கநிலை)'
 ---
 <html>
 <body>
