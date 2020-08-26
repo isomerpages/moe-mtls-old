@@ -1,6 +1,6 @@
 ---
 title: 'Sekolah Rendah Yuhua'
-permalink: /test/Sekolah-Rendah-Yuhua/
+permalink: /mlmoe/Sekolah-Rendah-Yuhua/
 breadcrumb: 'Sekolah Rendah Yuhua'
 ---
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-c/schools/" style="float:right;">Back</a>
