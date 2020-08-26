@@ -1,6 +1,6 @@
 ---
 title: 'பல்கலைக்கழகப் புகுமுக நிலை'
-permalink: /tlmoeTL-PreU/
+permalink: /tlmoe/TL-PreU/
 breadcrumb: 'பல்கலைக்கழகப் புகுமுக நிலை'
 ---
 <html>
