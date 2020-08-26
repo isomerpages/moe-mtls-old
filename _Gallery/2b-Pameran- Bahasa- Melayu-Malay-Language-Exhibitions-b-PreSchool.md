@@ -81,7 +81,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
-<a href="/test/Tadika-MOE-(Farrer Park)/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+<a href="/mlmoe/Tadika-MOE-(Farrer Park)/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -103,7 +103,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/test/Tadika-MOE-(Waterway)/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+ <a href="/mlmoe/Tadika-MOE-(Waterway)/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/test/Tadika-My-First-Skool-(Sengkang West)/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+ <a href="/mlmoe/Tadika-My-First-Skool-(Sengkang West)/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 </table>
