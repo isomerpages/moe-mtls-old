@@ -127,10 +127,10 @@ width:80%;
      <ol>
    <p> <li style="font-size:25px;font-family:KaiTi">由新加坡教育部编写的大图书是《培育幼儿：新加坡学前课程》的教学资源之一。
 </li>
-     <li style="font-size:25px;font-family:KaiTi">编写大图书的目的是让幼儿：
+     <ul><li style="font-size:25px;font-family:KaiTi">编写大图书的目的是让幼儿：
        <li style="font-size:25px;font-family:KaiTi"> 培养对英语和母语的兴趣 </li>
          <li style="font-size:25px;font-family:KaiTi">提升基础语言能力</li>
-         <li style="font-size:25px;font-family:KaiTi">对本地文化有初步的认识</li>
+       <li style="font-size:25px;font-family:KaiTi">对本地文化有初步的认识</li></ul>
          </li>
      <li style="font-size:25px;font-family:KaiTi">这套教学资源除了支持幼儿的双语发展，也体现了非常浓厚的本土特色。目前，教育部幼儿园都在课堂内使用这套教学资源。</li>
      </p>
