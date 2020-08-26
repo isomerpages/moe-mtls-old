@@ -1,6 +1,6 @@
 ---
 title: 'EL video Connie'
-permalink: /test/EL-video-Connie/
+permalink: /eng/EL-video-Connie/
 breadcrumb: 'EL video Connie'
 ---
 <html>
