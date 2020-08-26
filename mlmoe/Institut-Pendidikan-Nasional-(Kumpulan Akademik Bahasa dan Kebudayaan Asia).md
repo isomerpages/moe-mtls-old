@@ -1,6 +1,6 @@
 ---
 title: 'Institut Pendidikan Nasional (Kumpulan Akademik Bahasa dan Kebudayaan Asia) '
-permalink: /test/Institut-Pendidikan-Nasional-(Kumpulan Akademik Bahasa dan Kebudayaan Asia)/
+permalink: /mlmoe/Institut-Pendidikan-Nasional-(Kumpulan Akademik Bahasa dan Kebudayaan Asia)/
 breadcrumb: 'Institut Pendidikan Nasional (Kumpulan Akademik Bahasa dan Kebudayaan Asia)'
 ---
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-d/community-partners/" style="float:right;">Back</a>
