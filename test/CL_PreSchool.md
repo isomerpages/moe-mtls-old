@@ -158,8 +158,9 @@ width:80%;
   <br/>
 <table>
        <tr>
-         <td><p style="font-size:25px;font-family:KaiTi" >
-    点子三：水会变变变<br/>
+         <td><h4 style="font-size:25px;font-family:KaiTi" >
+    点子三：水会变变变</h4>
+   <p style="font-size:25px;font-family:KaiTi" >        
 配合第四学段课程主题 —— 我周围的事物是怎么运作的？<br/><br/>
    让孩子观察冰块融化的过程，并画出水在不同阶段（开始、10分钟、30分钟）的状态。活动结束后，让他/她与您分享所观察到的变化。
 </p> 
