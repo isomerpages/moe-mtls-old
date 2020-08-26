@@ -100,7 +100,6 @@ width:100%;
 </span></a><br/>
 <p style="font-size:30px;"><strong>Matlamat Kurikulum Bahasa Melayu</strong></p>
 
-<h5  style="font-size:25px;color:green;">Memupuk Pelajar Aktif Dan Pengguna Cekap (Pembelajaran Yang Menyeronokkan)</h5>
 <p style="text-align:justify;">Kurikulum Bahasa Melayu Peringkat Sekolah Menengah bertujuan melengkapkan pelajar dengan kecekapan berkomunikasi dan menjalin hubungan dengan pihak lain dalam konteks kehidupan di Singapura, rantau dan dunia.
 <br/><br/>
 
