@@ -76,14 +76,14 @@ td{
 <br/><br/>எதார்த்தமான கருத்துப்பரிமாற்றச் சூழல்களை உருவாக்கத் தகவல்தொடர்பு தொழில்நுட்பம் அதிகம் பயன்படுத்தப்படுகிறது.  
 </p>
 <img src="/images/MOE-Curriculum-TL-Primary-Image-7a.jpg">
-<a href="http://www.mtl.moe.edu.sg/theenthamizh target=_blank;">Tamil Primary Online Learning Resource</a>
+<a href="http://www.mtl.moe.edu.sg/theenthamizh" target="_blank">Tamil Primary Online Learning Resource</a>
 <h4 id="C3"><span style="font-size:30px; color:purple;">பெற்றோர் பங்கு </span></h4>
 <table style="width:100%">
  <tr>
     <td><p style="text-align:justify;">பிள்ளைகள் வாழும் இடமாகவும் அவர்கள் முதலில் கற்கும் இடமாகவும் திகழ்வது இல்லம் என்பதால் பெற்றோர்களே அவர்களுடைய முதல் ஆசிரியர்கள் ஆவர். ஆதலால் தமிழ்மொழி கற்றலை வீட்டில் தொடங்குவதுதான் பொருத்தமாக இருக்கும். <br/><br/>
      எனவே, பெற்றோர்களுக்கு உதவும் நோக்கில் 2015 தமிழ்மொழிப் பாடக்கலைத்திட்டத்தின் சிறப்பு அம்சங்களையும் கற்றல் வளங்களையும் அறிமுகப்படுத்தும்வகையில் இந்தக் கையேடு தயாரிக்கப்பட்டுள்ளது. <br/><br/>
      தமிழ்மொழியைப் பிள்ளைகள் நன்கு கற்கப் பிள்ளைகளுக்குப் பெற்றோர் எவ்வாறெல்லாம் உதவலாம் என்பதற்கான பரிந்துரைகளும் இக்கையேட்டில் இடம்பெற்றுள்ளன.<br/><br/>
-     <a href="https://online.anyflip.com/cqrzz/lsou/index.html" target="_blank">Flip Book
+     <a href="https://online.anyflip.com/cqrzz/lsou/index.html" target="_blank";>Flip Book
 </a>
 </p></td>
   <td><img src="/images/TL-Pri_Right-Update1.png"><br/>
