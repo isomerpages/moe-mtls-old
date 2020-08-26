@@ -21,7 +21,7 @@ max-width:20%;
      <div class="column">
 <img src="images/ML-Mdm-Asnida.jpg" style="width:100%">
    </div>
-   <<p><strong>Ms Asnida Daud
+   <p><strong>Ms Asnida Daud
  </strong> <br/> Ministry of Education
 <br/>Senior Specialist, ETD
  </p>
