@@ -1,6 +1,6 @@
 ---
 title: 'Sekolah Sains dan Teknologi '
-permalink: /test/Sekolah-Sains-dan-Teknologi/
+permalink: /mlmoe/Sekolah-Sains-dan-Teknologi/
 breadcrumb: 'Sekolah Sains dan Teknologi'
 ---
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-c/schools/" style="float:right;">Back</a>
