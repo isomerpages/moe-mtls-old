@@ -115,7 +115,7 @@ width:80%;
 <br/>本框架的教学宗旨建立在教学愿景之上，教学宗旨和指导原则又能协助教师设计课堂教学。教师在根据指导原则进行课堂教学时，应谨记课程学习目标，以实现母语教学的愿景。</p> 
 </td>
 <td>
-  <p><img src="/images/CL-Pre-right.png"> </p>    
+  <p><img src="/images/CL-Presch-Framework.png"> </p>    
 </td>
   </tr>
 </table>
@@ -137,7 +137,7 @@ width:80%;
 </ol>
 </td>  
 <td>
-   <img src="/images/CL-Presch-right2.png">   
+   <img src="/images/CL-Presch-Textbook.jpg">   
 </td>
   </tr>
  </table>
