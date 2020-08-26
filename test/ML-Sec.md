@@ -167,9 +167,22 @@ table.center {
     <center> 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZANW_F4at9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </center> 
 </p>
-<p style="font-size:25px; color:green">Bahan sokongan dalam talian:
-<br/>
+<div class="row">
+ <div class="column">
+ <iframe src="https://www.youtube.com/embed/Zz3N7AI6Y3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+  <span style="color:#d14165;font-size:18px;font-family:KaiTi"> 小学华文数码资源介绍 - “学乐”网 </span>
+</div>
+  <div class="column">
+  <iframe src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:18px;font-family:KaiTi">小学华文数码资源介绍新加坡学生学习平台</span>
+ </div>
+ </div>
+ <br/>
+<h4 style="font-size:25px; color:green">Bahan sokongan dalam talian:</h4>
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ante in nibh mauris cursus. Duis ultricies lacus sed turpis tincidunt id aliquet. Metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices. Est ante in nibh mauris cursus mattis molestie a. Mattis pellentesque id nibh tortor id. Vulputate mi sit amet mauris commodo. Et ultrices neque ornare aenean euismod elementum. Amet consectetur adipiscing elit duis tristique sollicitudin nibh sit amet. Mi quis hendrerit dolor magna eget est lorem. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. A diam sollicitudin tempor id eu nisl nunc.</p>
 <img src="/images/iMTL-Sec-image"><br/>
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ante in nibh mauris cursus. Duis ultricies lacus sed turpis tincidunt id aliquet. Metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices. Est ante in nibh mauris cursus mattis molestie a. Mattis pellentesque id nibh tortor id. Vulputate mi sit amet mauris commodo. Et ultrices neque ornare aenean euismod elementum. Amet consectetur adipiscing elit duis tristique sollicitudin nibh sit amet. Mi quis hendrerit dolor magna eget est lorem. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. A diam sollicitudin tempor id eu nisl nunc.</p>
   <img src="/images/SLS-image"><br/>
 </p>
   <p id="C2" style="font-size:30px;"><strong>Sokongan Ibu Bapa</strong></p>
