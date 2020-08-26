@@ -105,7 +105,7 @@ Kurikulum ini juga bertujuan membentuk kemahiran berfikir aras tinggi dan mended
 <br/><br/>
 Maklumat yang dipaparkan dalam Kurikulum Bahasa Ibunda MOE bertujuan untuk memberikan pemahaman kepada  ibu bapa dan pendidik tentang pelbagai peluang pembelajaran Bahasa Ibunda bermula dari peringkat prasekolah, sekolah rendah, sekolah menengah hingga ke peringkat prauniversiti. Beberapa panduan dan idea telah disediakan untuk ibu bapa dan pendidik bagi menyokong pembelajaran Bahasa Ibunda yang menyeronokkan untuk anak-anak kita.
  </p>
-<h4 style="padding-top:12px;color:#a3c864;">Visi Pendidikan Bahasa Melayu Singapura</h4>
+<h4 style="padding-top:12px;color:#a3c864;"> <b>Visi Pendidikan Bahasa Melayu Singapura </b></h4>
 <p><strong> Arif Budiman </strong>(Insan berilmu pengetahuan yang berbakti kepada masyarakat) 
 <table style="width:100%">
   <tr>
@@ -118,7 +118,7 @@ Maklumat yang dipaparkan dalam Kurikulum Bahasa Ibunda MOE bertujuan untuk membe
   </tr>
 </table>
 </p>
-<h4 style="padding-top:12px;color:#a3c864;">Matlamat Kurikulum Bahasa Melayu </h4>
+<h4 style="padding-top:12px;color:#a3c864;"><b>Matlamat Kurikulum Bahasa Melayu </b> </h4>
 <img src="/images/MTLS-Malay-Matalamat-Kurikulum-Bahasa-Melayu2.jpg">
 <h4 style="padding-top:12px;color:#a3c864;">Nurturing Active Learners and Proficient Users</h4>
   <div style="margin-top:auto;margin-bottom:auto;text-align:justify;">
