@@ -99,7 +99,7 @@ width:80%;
 <p style="font-size:25px;font-family:KaiTi" >教育部幼儿园的课程是由教育部课程专科督导设计与开发的，并以《培育幼儿:学前母语课程框架》为依据，指引新加坡幼儿园的课程发展。<br/><br/>
 在教育部幼儿园，幼儿将通过HI-Light和繁星语文两个旗舰课程体验丰富多彩的学习旅程。<br/><br/></p>
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi">教育部幼儿园里的第一天 </span>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi">教育部幼儿园里的一天 </span>
 </center>
 <h4 id= "C1"><span style="font-size:35px;font-family:KaiTi ;">繁星语文课程 </span></h4>
 <img src="/images/CL-PreSch-starlight2.jpg">
