@@ -21,6 +21,15 @@ breadcrumb: 'Pendidikan Bahasa Melayu (Sekolah Menengah)'
 .tab table:target {
   display: block;
 }
+ .column {
+  float: left;
+  width: 80%;
+  padding: 5px;
+}
+.row {
+    display: flex;
+    height: 8%;
+}
 
 .content table {
     width: 100%;
@@ -71,6 +80,11 @@ table.center {
 .atab{
   margin-bottom: 5px;
   width:100%;  
+}
+ iframe{
+border : 0;
+height:100%;
+width:100%;
 }
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
