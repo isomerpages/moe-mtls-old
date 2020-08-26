@@ -16,7 +16,7 @@ max-width:20%;
   <body>  
 <a href="https://staging-moe-mtls.netlify.app/exhibition/தமிழ்-ஒளிக்காட்சிகள்/synopsis/" style="float:right;">Back</a>
 <div class="video-container">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/dWEoEWuz8bU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+ <iframe width="560" height="315" src="https://player.vimeo.com/video/451522331" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
     <br/>
    <div class="column">
 <img src="images/TL-Ms-Rani-Kanna-and-Mr-Anandha-Kannan.png" style="width:100%">
