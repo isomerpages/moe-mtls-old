@@ -115,7 +115,7 @@ Kajian neurosains telah membuktikan bahawa pembelajaran akan berhenti apabila ke
  </div></div>
  </td>
 <td style="border:0 none;padding: 0;" class="btnImg45">
-  <a href="/test/ML-video-Asnida/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+  <a href="/ml/Ms-Asnida-Daud/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -152,7 +152,7 @@ Pengajaran dan pembelajaran ini boleh  diterapkan di dalam dan di luar bilik dar
 </div></div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg">
-  <a href="/test/ML-video-Haniman/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+  <a href="/test/Mr-Haniman-Boniran/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
  </tr>
  <tr>
@@ -188,7 +188,7 @@ Early intervention is important. Parents are often seeking ways to maximise the 
 </div></div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg15">
-  <a href="/test/ML-video-Mariam/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+  <a href="/test/Associate-Professor-Mariam-Aljunied/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
  </tr>
  <tr>
@@ -230,7 +230,7 @@ Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal b
         </div></div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg15">
-  <a href="/test/ML-video-Salina/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+  <a href="/test/Ms-Salina-Bte-Saiman-And-Ms-Ganda-Sari-Chokri/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
  </tr>
   <tr>
@@ -265,7 +265,7 @@ Mutiara kata daripada Jacqueline Kennedy ini amat relevan dalam keadaan normal b
         </div></div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg15">
-  <a href="/test/ML-video-Hazliana/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+  <a href="/test/Ms-Hazliana-Md-Lahir/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
    </tr>
    </table>
