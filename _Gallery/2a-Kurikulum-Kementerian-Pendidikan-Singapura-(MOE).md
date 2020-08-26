@@ -78,7 +78,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
   <a href="/test/ML-PreU/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass lbML1">Prauniversiti</div></a>
 </div>  <br/>
  <div style="margin-top:auto;margin-bottom:auto;text-align:left;">
- <h4 style="padding-top:12px;color:#a3c864;"><strong>Memupuk Pelajar Aktif dan Pengguna Cekap</strong></h4>
+ <h4 style="padding-top:12px;color:#a3c864;"><b>Memupuk Pelajar Aktif dan Pengguna Cekap</b></h4>
  
  <p style="text-align:justify;">
 Tujuan utama pendidikan Bahasa Ibunda adalah untuk memperkukuh kemahiran berkomunikasi dan memupuk kesedaran serta penghayatan pelajar kita tentang warisan budaya dan nilai.  Dengan ini, mereka akan berasa yakin apabila berhubung dengan masyarakat di Asia dan seluruh dunia. 
