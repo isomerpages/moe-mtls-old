@@ -15,7 +15,7 @@ width:80% ;
   </style>
    <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <h5>
-<span style="font-family:KaiTi;">早上九点半至十点<br/>
+<span style="font-family:KaiTi;font-size:25px;">早上九点半至十点<br/>
 欢迎词<br/>
 教育部长 黄循财先生<br/>
 推广华文学习委员会主席 孙雪玲女士</span></h5>
