@@ -1,6 +1,6 @@
 ---
 title: 'Tadika MOE (Farrer Park)'
-permalink: /test/Tadika-MOE-(Farrer Park)/
+permalink: /mlmoe/Tadika-MOE-(Farrer Park)/
 breadcrumb: 'Tadika-MOE-(Farrer Park)'
 ---
 <a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-b/preschool/" style="float:right;">Back</a>
