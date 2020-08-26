@@ -15,6 +15,22 @@ third_nav_title: 'Pameran Bahasa Melayu'
  .tab img{
    width: 80%;
  }
+ .content table {
+    width: 100%;
+    font-family: arial, sans-serif;
+     border-collapse: collapse;
+}
+
+td {
+  border: 1px ;
+  text-align: center;
+  padding: 8px;
+  width:60%;
+}
+table.center {
+  margin-left:auto; 
+  margin-right:auto;
+  }
  .tab table {
    display: none;
 }
