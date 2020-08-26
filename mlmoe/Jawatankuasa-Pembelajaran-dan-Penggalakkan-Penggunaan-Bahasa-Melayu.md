@@ -1,6 +1,6 @@
 ---
 title: 'Jawatankuasa Pembelajaran dan Penggalakkan Penggunaan Bahasa Melayu '
-permalink: /test/Jawatankuasa-Pembelajaran-dan-Penggalakkan-Penggunaan-Bahasa-Melayu/
+permalink: /mlmoe/Jawatankuasa-Pembelajaran-dan-Penggalakkan-Penggunaan-Bahasa-Melayu/
 breadcrumb: 'Jawatankuasa Pembelajaran dan Penggalakkan Penggunaan Bahasa Melayu '
 ---
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-d/community-partners/" style="float:right;">Back</a>
