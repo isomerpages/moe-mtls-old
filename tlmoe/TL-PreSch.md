@@ -1,7 +1,7 @@
 ---
-title: 'TL PreSch'
+title: 'கல்வி அமைச்சின் பாலர் பள்ளிகள்'
 permalink: /tlmoe/TL-PreSch/
-breadcrumb: 'TL PreSch'
+breadcrumb: 'கல்வி அமைச்சின் பாலர் பள்ளிகள்'
 ---
 <html>
 <body>
