@@ -1,6 +1,6 @@
 ---
 title: 'Dana Kedwibahasaan Lee Kuan Yew '
-permalink: /test/Dana-Kedwibahasaan-Lee-Kuan-Yew/
+permalink: /mlmoe/Dana-Kedwibahasaan-Lee-Kuan-Yew/
 breadcrumb: 'Dana Kedwibahasaan Lee Kuan Yew'
 ---
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-d/community-partners/" style="float:right;">Back</a>
