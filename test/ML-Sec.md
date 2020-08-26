@@ -201,6 +201,11 @@ Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, sediakan persek
 <h4  style="font-size:25px;color:green;" >Program-program Bahasa & Budaya Melayu</h4> 
 <p style="font-size:22px;text-align:justify;">Bagi menggalakkan penggunaan dan pendedahan pada bahasa Melayu, sertailah program-program bahasa dan budaya yang telah dianjurkan. Bawa bersama keluarga anda menghadiri aktiviti-aktiviti ini. Anda juga boleh melawat tempat-tempat yang disarankan.
 </p>
+<div class="atab">
+      <input id="tab-3" type="checkbox" name="tab">
+   <label for="tab-3" class="lbML">Majlis Bahasa Melayu Singapura - Bulan Bahasa 2020 
+</label>
+     <div class="tab-content">
 <p style="font-size:25px;"> <strong>Majlis Bahasa Melayu Singapura </strong> - Bulan Bahasa 2020 
   <br/>
   <ul>
@@ -210,7 +215,12 @@ Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, sediakan persek
  <a href="https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa" target="_blank">Majlis Bahasa Melayu Singapura - Bulan Bahasa 
  </a>
 </p>
-
+ </div></div> 
+ <div class="atab">
+      <input id="tab-4" type="checkbox" name="tab">
+   <label for="tab-4" class="lbML">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
+</label>
+     <div class="tab-content">
   <p style="font-size:25px;"> <strong> Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu </strong>(MLLPC) 
   <ul><li>Fiesta Bahasa
 </li>
@@ -221,10 +231,10 @@ Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, sediakan persek
  </a><br/>
   <a href="https://instagram.com/mllpc.sg?igshid=6lgo3kvwcnka" target="_blank">MLLPC Instagram</a>
 </p>
-
+</div></div>
 <div class="atab">
-      <input id="tab-3" type="checkbox" name="tab">
-   <label for="tab-3" class="lbML">Perpustakaan Negara Singapura
+      <input id="tab-5" type="checkbox" name="tab">
+   <label for="tab-5" class="lbML">Perpustakaan Negara Singapura
 
 </label>
      <div class="tab-content"> 
@@ -259,8 +269,8 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
 </table>
  </div></div> 
  <div class="atab">
-      <input id="tab-4" type="checkbox" name="tab">
-   <label for="tab-4" class="lbML">Esplanade – Siri Pentas  
+      <input id="tab-6" type="checkbox" name="tab">
+   <label for="tab-6" class="lbML">Esplanade – Siri Pentas  
 </label>
      <div class="tab-content"> 
        <table>
@@ -288,8 +298,8 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
 </tr></table>
  </div></div> 
   <div class="atab">
-      <input id="tab-5" type="checkbox" name="tab">
-   <label for="tab-5" class="lbML">Taman Warisan Melayu 
+      <input id="tab-7" type="checkbox" name="tab">
+   <label for="tab-7" class="lbML">Taman Warisan Melayu 
 
 </label>
      <div class="tab-content"> 
@@ -308,8 +318,8 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
  </div></div> 
  
   <div class="atab">
-      <input id="tab-6" type="checkbox" name="tab">
-   <label for="tab-6" class="lbML">Muzium Negara Singapura 
+      <input id="tab-8" type="checkbox" name="tab">
+   <label for="tab-8" class="lbML">Muzium Negara Singapura 
 
 </label>
      <div class="tab-content"> 
@@ -325,6 +335,18 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
 </p><br/>
 <img src="/images/ML-Sec-National-Museum.jpg">
  </div></div> 
+ <div class="atab">
+      <input id="tab-9" type="checkbox" name="tab">
+   <label for="tab-9" class="lbML">Wisma Geylang Serai
+</label>
+     <div class="tab-content">
+       <a href="https://www.facebook.com/WismaGeylangSerai/ 
+" target="_blank"> https://www.facebook.com/WismaGeylangSerai/ </a>
+       <br/>
+       <p><strong>Wisma Geylang Serai
+</strong><br/>Sebuah hab warisan budaya yang mengetengahkan persembahan budaya, sesi bicara, sesi memasak dan lain-lain lagi. Ikuti siaran langsung acara-acara ini melalui FB & IG #wgeylangserai. 
+       </p>
+  </div></div>
 
 *Insert Wisma Geylang Info Here. Include https://instagram.com/wgeylangserai?igshid=nit9a62cgs2w Wisma Geylang Serai Instagram
 
