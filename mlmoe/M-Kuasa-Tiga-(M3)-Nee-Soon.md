@@ -1,6 +1,6 @@
 ---
 title: 'M Kuasa Tiga (M3) Nee Soon'
-permalink: /test/M-Kuasa-Tiga-(M3)-Nee-Soon/
+permalink: /mlmoe/M-Kuasa-Tiga-(M3)-Nee-Soon/
 breadcrumb: 'M Kuasa Tiga (M3) Nee Soon'
 ---
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-d/community-partners/" style="float:right;">Back</a>
