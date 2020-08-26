@@ -51,13 +51,13 @@ PCF Sparkletots Preschool @ Sengkang West Blk 303A </center>
  </p>
     </div>
   <div class="column">
-<a href="/test/OPMTL-AWARD-Amin/"><img src="images/cropped-person-icon-8-2.png" style="width:100%"> </a>
+<a href="/award/OPMTL-AWARD-Amin/"><img src="images/cropped-person-icon-8-2.png" style="width:100%"> </a>
  <p> <center>Mdm Iryamaya Binti Amin<br/>
   PCF Sparkletots Preschool @ Sembawang Blk 755 </center>
   </p>
     </div>
  <div class="column">
-<a href="/test/OPMTL-AWARD-Skaian/"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
+<a href="/award/OPMTL-AWARD-Skaian/"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
  <p> <center>Mdm Saniah Binte Sakian<br/>
   My First Skool at Chin Swee </center>
   </p>
@@ -65,21 +65,21 @@ PCF Sparkletots Preschool @ Sengkang West Blk 303A </center>
  </div>
  <div class="row">
  <div class="column">
-<a href="/test/OPMTL-AWARD-Caroline/"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
+<a href="/award/OPMTL-AWARD-Caroline/"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
  <p> <center>Ms Louis Jeya Rubi Caroline <br/>
  திருமதி லூயிஸ் ஜெய ரூபி கரோலின்<br/>
 PCF Sparkletots Preschool @ Punggol East Blk 187B </center>
  </p>
   </div>
   <div class="column">
-   <a href="/test/OPMTL-AWARD-Hanyu/"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
+   <a href="/award/OPMTL-AWARD-Hanyu/"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
  <p> <center> Mdm Zeng Hanyu <br/>
   <span style= "font-family:KaiTi; font-size:25px;">曾韩玉女士  </span> 
   <br/>Islander Preschool Pte Ltd</center>
   </p>
     </div>
   <div class="column">
-<a href="/test/OPMTL-AWARD-JiPeng/"><img src="images/cropped-person-icon-8-2.png" style="width:100%"> </a>
+<a href="/award/OPMTL-AWARD-JiPeng/"><img src="images/cropped-person-icon-8-2.png" style="width:100%"> </a>
  <p> <center> Mdm Zhang JiPeng<br/>
   <span style= "font-family:KaiTi; font-size:25px;"> 张纪彭女士 </span> 
   <br/>PCF Sparkletots Preschool @ Woodlands Blk 801</center> 
@@ -89,7 +89,7 @@ PCF Sparkletots Preschool @ Punggol East Blk 187B </center>
    
    <div class="row">
   <div class="column">
-<a href="/test/OPMTL-AWARD-Xuanhong/"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
+<a href="/award/OPMTL-AWARD-Xuanhong/"><img src="images/cropped-person-icon-8-2.png" style="width:100%"></a>
  <p> <center> Mdm Zhang Xuanhong<br/>
   <span style= "font-family:KaiTi; font-size:25px;">张选红女士 </span> 
   <br/> St. James' Church Kindergarten (Harding)</center> 
