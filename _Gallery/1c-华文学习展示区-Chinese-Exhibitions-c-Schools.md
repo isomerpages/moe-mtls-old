@@ -148,7 +148,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5" class="lbCh"><span style="font-size:25px;font-family:KaiTi">圣尼各拉女校（中学）</span><br/>CHIJ St Nicholas Girls School（Sec）</label>
+      <label for="tab-5" class="lbCh"><span style="font-size:25px;font-family:KaiTi">圣尼各拉女校（中学部）</span><br/>CHIJ St Nicholas Girls School（Sec）</label>
       <div class="tab-content">
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">悦读计划–让孩子爱上阅读</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
