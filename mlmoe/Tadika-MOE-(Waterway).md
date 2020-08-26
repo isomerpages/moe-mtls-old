@@ -1,6 +1,6 @@
 ---
 title: 'Tadika MOE (Waterway)'
-permalink: /test/Tadika-MOE-(Waterway)/
+permalink: /mlmoe/Tadika-MOE-(Waterway)/
 breadcrumb: 'Tadika-MOE-(Waterway)'
 ---
 <a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-b/preschool/" style="float:right;">Back</a>
