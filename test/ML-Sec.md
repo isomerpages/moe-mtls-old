@@ -235,7 +235,8 @@ Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, sediakan persek
 </li>
          </ul>
  <a href="https://www.mllpc.sg/signature-or-flagship-programme-fund" target="_blank">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
- </a>
+ </a><br/>
+  <a href="https://instagram.com/mllpc.sg?igshid=6lgo3kvwcnka" target="_blank">MLLPC Instagram</a>
 </p>
 
 <div class="atab">
@@ -341,5 +342,7 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
 </p><br/>
 <img src="/images/ML-Sec-National-Museum.jpg">
  </div></div> 
+
+*Insert Wisma Geylang Info Here. Include https://instagram.com/wgeylangserai?igshid=nit9a62cgs2w Wisma Geylang Serai Instagram
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
