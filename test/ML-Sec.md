@@ -186,11 +186,11 @@ width:100%;
 </p>
 <div class="row">
  <div class="column">
- <iframe src="https://www.youtube.com/embed/Zz3N7AI6Y3o" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Zz3N7AI6Y3o" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
   <span style="color:#d14165;font-size:18px;font-family:KaiTi"> 小学华文数码资源介绍 - “学乐”网 </span>
 </div>
   <div class="column">
-  <iframe src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:18px;font-family:KaiTi">小学华文数码资源介绍新加坡学生学习平台</span>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:18px;font-family:KaiTi">小学华文数码资源介绍新加坡学生学习平台</span>
  </div>
  </div>
  <br/>
