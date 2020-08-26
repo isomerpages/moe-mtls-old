@@ -70,7 +70,7 @@ table.center {
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
-<img src="/images/ML_Header2.jpg">
+<img src="/images/ML-Pri-Header.jpg">
 <p>
  <a href="#C1" style="font-size:20px"><span style="color:blue;font-family:Calibri">Bahan Pengajaran Dan Pembelajaran</span></a><br/>
  <a href="#C2" style="font-size:20px"><span style="color:blue;font-family:Calibri">Sokongan Ibu Bapa</span></a>
