@@ -111,11 +111,12 @@ width:80%;
 <table>
   <tr>
     <td><p style="text-align:justify;">மேற்குறிப்பிடப்பட்ட முக்கிய மாற்றங்களை வழியொற்றி, 2021-ஆம் ஆண்டுத் தமிழ்ப் பாடக்கலைத்திட்டம் மேலும் சில முக்கிய மேம்பாடுகளைக்கொண்டு திருத்தியமைக்கப்பட்டுள்ளது. குறிப்பாக, <strong>கருத்துப்பரிமாற்றம், பண்பாடு, தொடர்பிணைப்பு </strong>ஆகிய மூன்று முக்கியக் கூறுகளில் தனிக்கவனம் செலுத்தப்பட்டுள்ளன.  இவற்றை அடிப்படையாகக்கொண்டு தமிழ்ப் பாடக்கலைத்திட்டப் பணிச்சட்டம் உருவாக்கப்பட்டுள்ளது. </p></td>
-    <td><img src="/images/TL-Sec-Curriculum.jpg">
+   <td><h5><strong>பாடக்கலைத்திட்டப் பணிச்சட்டம்
+</strong></h5><img src="/images/TL-Sec-Curriculum2.png">
      <br/> <a href="/Gallery/2021-tamil-curriculum.pdf" target="_blank">2021 Tamil Curriculum</a></td>
  </tr> 
  </table>
- <center><span style="font-size:18px;">உயர்நிலைத் &nbsp; தமிழ்மொழிப் &nbsp; பாட்த்திட்ட &nbsp; வெளியீடு:<br/>
+ <center><span style="font-size:18px;">உயர்நிலைத் &nbsp; தமிழ்மொழிப் &nbsp; பாட்த்திட்ட &nbsp; வெளியீடு:</span><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rGFqD2sxPfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br/>
  <br/>
  <h4 id="C2"><span style="font-size:30px;color:purple;">இலக்கியம்
