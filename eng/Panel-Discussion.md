@@ -1,7 +1,7 @@
 ---
 title: 'Panel Discussion'
-permalink: /eng/EL-video-Ong/
-breadcrumb: 'EL Panel Discussion'
+permalink: /eng/Panel-Discussion/
+breadcrumb: 'Panel Discussion'
 ---
 <html>
 <head>
