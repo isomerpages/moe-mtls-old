@@ -87,7 +87,7 @@ width:80%;
 <p style="font-size:35px;font-family:KaiTi" ><h4 style="font-size:35px;font-family:KaiTi;">教育部幼儿园 
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">繁星语文课程</span></a>
  <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:KaiTi">大图书共享阅读</span></a>
- <a href="#C3" style="font-size:25px"><span style="color:blue;font-family:KaiTi">奥秘探索周</span></a>
+ <a href="#C3" style="font-size:25px"><span style="color:blue;font-family:KaiTi">奥秘探索周计划</span></a>
  <a href="#C4" style="font-size:25px"><span style="color:blue;font-family:KaiTi">居家活动好点子
 </span></a> <br/><br/></h4>
 <p style="font-size:25px;font-family:KaiTi; text-align:justify;">
@@ -99,7 +99,7 @@ width:80%;
 <p style="font-size:25px;font-family:KaiTi" >教育部幼儿园的课程是由教育部课程专科督导设计与开发的，并以《培育幼儿:学前母语课程框架》为依据，指引新加坡幼儿园的课程发展。<br/><br/>
 在教育部幼儿园，幼儿将通过HI-Light和繁星语文两个旗舰课程体验丰富多彩的学习旅程。<br/><br/></p>
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi">教育部幼儿园的第一天 </span>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi">教育部幼儿园里的第一天 </span>
 </center>
 <h4 id= "C1"><span style="font-size:35px;font-family:KaiTi ;">繁星语文课程 </span></h4>
 <img src="/images/CL-PreSch-starlight2.jpg">
@@ -128,9 +128,9 @@ width:80%;
    <p> <li style="font-size:25x;font-family:KaiTi">由新加坡教育部编写的大图书是《培育幼儿：新加坡学前课程》的教学资源之一。
 </li>
      <li style="font-size:25x;font-family:KaiTi">编写大图书的目的是让幼儿：
-       <ul><li style="font-size:25x;font-family:KaiTi"> 培养对英语和母语的兴趣 </li>
+       <li style="font-size:25x;font-family:KaiTi"> 培养对英语和母语的兴趣 </li>
          <li style="font-size:25x;font-family:KaiTi">提升基础语言能力</li>
-         <li style="font-size:25x;font-family:KaiTi">对本地文化有初步的认识</li></ul>
+         <li style="font-size:25x;font-family:KaiTi">对本地文化有初步的认识</li>
          </li>
      <li style="font-size:25x;font-family:KaiTi">这套教学资源除了支持幼儿的双语发展，也体现了非常浓厚的本土特色。目前，教育部幼儿园都在课堂内使用这套教学资源。</li>
      </p>
