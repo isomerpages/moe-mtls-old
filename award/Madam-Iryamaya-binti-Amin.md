@@ -22,8 +22,9 @@ max-width:40%;
     <p> Mdm Iryamaya Binti Amin<br/>
   PCF Sparkletots Preschool @ Sembawang Blk 755 
   </p>
-    <img src="images/Mdm-Iryamaya-Binti-Amin-Poster.jpg" style="width:100%">
-    </div><br/>
+   </div><br/>
+      <img src="images/Mdm-Iryamaya-Binti-Amin-Poster.jpg" style="width:100%">
+    <br/>
     <h4>Petikan</h4>
     <p>Sebagai pendidik, saya mempunyai tanggungjawab yang besar untuk memupuk minat akan bahasa Melayu dalam kalangan kanak-kanak.  Saya percaya bahawa pembelajaran bahasa haruslah disertakan dengan komponen budaya dan warisan supaya kanak-kanak dapat mengenal dan meneroka budaya dan warisan mereka.  Sokongan padu dan kerjasama ibu bapa, keluarga, sekolah dan masyarakat amatlah penting untuk melestarikan penggunaan  bahasa Melayu. 
 (55 patah perkataan)</p>
