@@ -3,7 +3,7 @@ title: 'Tadika MOE (Waterway)'
 permalink: /mlmoe/Tadika-MOE-(Waterway)/
 breadcrumb: 'Tadika-MOE-(Waterway)'
 ---
-<a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-b/preschool/" style="float:right;">Back</a>
+<a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/" style="float:right;">Back</a>
  <img src="/images/MKWATERWAY-ML.jpg"> <br/>
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
