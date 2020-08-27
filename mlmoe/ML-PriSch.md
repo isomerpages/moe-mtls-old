@@ -123,11 +123,11 @@ table.center {
  Video pengajaran
   <div class="row">
  <div class="column">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/v4ByRIcys3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>Selamat Pagi
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/v4ByRIcys3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
 
 </div>
   <div class="column">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Tc4AkLX35wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>Si Lebai Malang
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Tc4AkLX35wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
  </div>
       </div><br/>
   <div class="atab">
