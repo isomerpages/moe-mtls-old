@@ -3,7 +3,7 @@ title: 'Sekolah Sains dan Teknologi '
 permalink: /mlmoe/Sekolah-Sains-dan-Teknologi/
 breadcrumb: 'Sekolah Sains dan Teknologi'
 ---
-<a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-c/schools/" style="float:right;">Back</a>
+<a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-d/schools/" style="float:right;">Back</a>
  <img src="/images/SST-ML.jpg"> <br/>
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
