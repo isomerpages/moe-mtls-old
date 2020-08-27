@@ -17,13 +17,15 @@ max-width:40%;
   <a href="/opmtl-award-2020/" style="float:right;">Back</a>
   <div class="row">
   <div class="column">
-    <img src="images/cropped-person-icon-8-2.png" style="width:100%">
+    <img src="images/Zhang-JiPeng.png" style="width:100%">
     </div>
     <p> Mdm Zhang JiPeng<br/>
   <span style= "font-family:KaiTi; font-size:25px;"> 张纪彭女士 </span> 
   <br/>PCF Sparkletots Preschool @ Woodlands Blk 801
   </p>
     </div><br/>
+     <img src="images/Zhang-JiPeng-Poster.jpg" style="width:100%">
+    <br/>
     <h4 style="font-family:KaiTi;">感言：</h4>
     <p style="font-family:KaiTi; font-size:25px; text-align:justify">
      作为一名学前华文教师，我深信孩子们都是有能力的学习者。我通过提供真实有趣的材料，创设轻松的学习环境，让幼儿了解华族传统文化，并能充满自信地以华语进行表达。</p>
