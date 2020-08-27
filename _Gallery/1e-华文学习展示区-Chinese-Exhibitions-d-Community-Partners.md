@@ -1,6 +1,6 @@
 ---
 title: '社区合作伙伴'
-permalink: /Gallery/华文学习展示区-Chinese-Exhibitions-d/Community-Partners/
+permalink: /Gallery/华文学习展示区-Chinese-Exhibitions-e/Community-Partners/
 breadcrumb: '社区合作伙伴'
 collection_name: Gallery
 third_nav_title: '华文学习展示区'
