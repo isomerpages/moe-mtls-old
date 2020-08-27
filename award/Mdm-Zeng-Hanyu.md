@@ -39,14 +39,11 @@ max-width:100%;
 <br/>
     <h4>Judges' Comments:</h4>
     <p style="text-align:justify">
-      Children are capable learners who use different approaches to construct knowledge and express themselves. As a Chinese Language teacher, it is important that I build a positive relationshipwith andlisten to each individual child voice in order to encourage every child to discover the world.  I am constantly reflecting upon my teaching and exploring new ways of teaching Chinese Language to my students.</p>
-<h4>Write-up</h4>
-    <p style="text-align:justify">
     Madam Zeng’s creative approach to teaching included encouraging her students to give a presentation to the class in Chinese on the robots they created in groups in previous Chinese Language lessons.
 <br/><br/>
 By adopting a student-centred approach, Madam Zeng helps her students experience the joy of learning Chinese. Focusing on students’ interests and abilities, she uses inquiry-based learning approaches and authentic contexts to enhance their listening and speaking skills. 
 <br/><br/>
-When teaching non-Chinese students with no prior knowledge of the Chinese Language, Madam Zeng immerses these children in a safe and positive environment, that systematically engages them in interesting activities such as role-play and aesthetics., She also provides scaffolding to help her students form proper sentences. Her students’ confidence and ability to speak Chinese fluently are a testament to the success of her efforts. 
+When teaching non-Chinese students with no prior knowledge of the Chinese Language, Madam Zeng immerses these children in a safe and positive environment, that systematically engages them in interesting activities such as role-play and aesthetics. She also provides scaffolding to help her students form proper sentences. Her students’ confidence and ability to speak Chinese fluently are a testament to the success of her efforts. 
 <br/><br/>
 Madam Zeng is always patient and sees positive interaction with her students as vital to their learning.  She listens to each student attentively and encourages them to ask one another questions and respect each other’s contributions.
 <br/><br/>
