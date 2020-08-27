@@ -46,13 +46,13 @@ max-width:50%;
 <br/>
 <div class="row">
   <div class="column">
-   <a href="/award/Madam-Almi-Roafuziah-binte-Mohamed/"><img src="images/Mdm-Almi-Roafuziah-Binte-Mohamed.png" style="width:100%"></a>
+   <a href="/award/Mdm-Almi-Roafuziah-binte-Mohamed/"><img src="images/Mdm-Almi-Roafuziah-Binte-Mohamed.png" style="width:100%"></a>
  <p> <center> Mdm Almi Roafuziah Binte Mohamed <br/>
 PCF Sparkletots Preschool @ Sengkang West Blk 303A </center>
  </p>
     </div>
   <div class="column">
-<a href="/award/Madam-Iryamaya-binti-Amin/"><img src="images/Mdm-Iryamaya-Binti-Amin.png" style="width:100%"> </a>
+<a href="/award/Mdm-Iryamaya-binti-Amin/"><img src="images/Mdm-Iryamaya-Binti-Amin.png" style="width:100%"> </a>
  <p> <center>Mdm Iryamaya Binti Amin<br/>
   PCF Sparkletots Preschool @ Sembawang Blk 755 </center>
   </p>
