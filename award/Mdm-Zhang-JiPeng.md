@@ -39,11 +39,11 @@ max-width:100%;
    <h4>Judges' Comments:</h4><p>
    Madam Zhang’s lesson impressed the panel greatly.
 <br/><br/>
-In order to introduce the Chinese tradition of the Dragon Boat Festival, Madam Zhang used various teaching aids such as “story stage” to engage students whilst integrating the teaching of sentence structures into the storyline. As children immersed themselves in role play, they alsopractised sentence structures and developed their speaking skills.
+In order to introduce the Chinese tradition of the Dragon Boat Festival, Madam Zhang used various teaching aids such as “story stage” to engage students whilst integrating the teaching of sentence structures into the storyline. As children immersed themselves in role play, they also practised sentence structures and developed their speaking skills.
 <br/><br/>
-Madam Zhang also designed a lesson on the making of Rice Dumplings (Zong ZI) for children to learn byusing all five senses. Tapping on their prior knowledge of leaves and experience of sachet-making, she guided children to observe the shapes of the leavesand followed up with a hands-on session on making Rice Dumplings. 
+Madam Zhang also designed a lesson on the making of Rice Dumplings (Zong Zi) for children to learn byusing all five senses. Tapping on their prior knowledge of leaves and experience of sachet-making, she guided children to observe the shapes of the leaves and followed up with a hands-on session on making Rice Dumplings. 
 <br/><br/>
-Extending the activity, Madam Zhang developed children’s creativity by having them design their own menu of different kinds of Rice Dumplings following simple instructions. This activity also included an adapted song to further enhance their learning. Unsurprisingly,the happy atmosphere of this lesson encouraged children to learn. 
+Extending the activity, Madam Zhang developed children’s creativity by having them design their own menu of different kinds of Rice Dumplings following simple instructions. This activity also included an adapted song to further enhance their learning. Unsurprisingly, the happy atmosphere of this lesson encouraged children to learn. 
 <br/><br/>
 Madam Zhang pays daily attention to each child’s needs and interests as a basis for creating a conducive environment for learning Chinese. She engages her students through games, sources interesting books from the National Libraries to read to her students and encourages them to read as much as possible by themselves to build their vocabulary. 
 <br/><br/>
