@@ -183,10 +183,11 @@ width:100%;
     <center> 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZANW_F4at9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </center> 
 </p>
- Contoh video-video pengajaran.<br/>
+ Contoh video-video pengajaran.
+ <br/>
 <div class="row">
  <div class="column">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNKevnURy6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNKevnURy6c" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
    Fikir Dahulu
 </div>
   <div class="column">
