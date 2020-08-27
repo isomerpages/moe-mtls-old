@@ -17,13 +17,15 @@ max-width:40%;
   <a href="/opmtl-award-2020/" style="float:right;">Back</a>
   <div class="row">
   <div class="column">
-    <img src="images/cropped-person-icon-8-2.png" style="width:100%">
+    <img src="images/Zhang-Xuanhong.png" style="width:100%">
     </div>
     <p>  Mdm Zhang Xuanhong<br/>
   <span style= "font-family:KaiTi; font-size:25px;">张选红女士 </span> 
   <br/> St. James' Church Kindergarten (Harding)
   </p>
     </div><br/>
+     <img src="images/Zhang-Xuanhong-Poster.jpg" style="width:100%">
+    <br/>
      <h4 style="font-family:KaiTi;">感言：</h4>
     <p style="font-family:KaiTi; font-size:25px; text-align:justify">
     幼儿是好奇、积极、有能力的学习者。我在课堂中采用儿歌说唱、互动游戏、展示和讲述等多元活动，为幼儿创造一个互动学习和探索空间，提高他们的华语运用能力，让他们爱上华文！</p>
