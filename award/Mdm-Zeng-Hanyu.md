@@ -41,7 +41,7 @@ max-width:100%;
 <br/><br/>
       曾老师特别重视每日的课后反思，积极进取，努力提高自己的专业素养和教学能力。</p>
 <br/>
-    <h4>Quote:</h4>
+    <h4>Judges' Comments:</h4>
     <p style="text-align:justify">
       Children are capable learners who use different approaches to construct knowledge and express themselves. As a Chinese Language teacher, it is important that I build a positive relationshipwith andlisten to each individual child voice in order to encourage every child to discover the world.  I am constantly reflecting upon my teaching and exploring new ways of teaching Chinese Language to my students.</p>
 <h4>Write-up</h4>
