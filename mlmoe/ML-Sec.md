@@ -185,21 +185,25 @@ width:100%;
 </p>
 <div class="row">
  <div class="column">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/Zz3N7AI6Y3o" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-  <span style="color:#d14165;font-size:18px;font-family:KaiTi"> 小学华文数码资源介绍 - “学乐”网 </span>
+ Contoh video-video pengajaran.<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNKevnURy6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+   Fikir Dahulu
 </div>
   <div class="column">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:18px;font-family:KaiTi">小学华文数码资源介绍新加坡学生学习平台</span>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/WuGvP2z-b_s" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+    Ketua Darjah
  </div>
  </div>
  <br/>
 <h4 style="font-size:25px; color:green">Bahan sokongan dalam talian:</h4>
-<p>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ante in nibh mauris cursus. Duis ultricies lacus sed turpis tincidunt id aliquet. Metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices. Est ante in nibh mauris cursus mattis molestie a. Mattis pellentesque id nibh tortor id. Vulputate mi sit amet mauris commodo. Et ultrices neque ornare aenean euismod elementum. Amet consectetur adipiscing elit duis tristique sollicitudin nibh sit amet. Mi quis hendrerit dolor magna eget est lorem. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. A diam sollicitudin tempor id eu nisl nunc.</p>
-<img src="/images/iMTL-Sec-image"><br/>
-<p>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ante in nibh mauris cursus. Duis ultricies lacus sed turpis tincidunt id aliquet. Metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices. Est ante in nibh mauris cursus mattis molestie a. Mattis pellentesque id nibh tortor id. Vulputate mi sit amet mauris commodo. Et ultrices neque ornare aenean euismod elementum. Amet consectetur adipiscing elit duis tristique sollicitudin nibh sit amet. Mi quis hendrerit dolor magna eget est lorem. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. A diam sollicitudin tempor id eu nisl nunc.</p>
-  <img src="/images/SLS-image"><br/>
+<p style="text-align:justify;">
+  SLS dan Portal iMTL menyokong pembelajaran pelajar dan pengajaran guru. Melalui SLS, pelajar dapat menjalankan pembelajaran kendiri atau dengan bimbingan guru. Antara bahan yang ada dalam SLS ialah video seminit, artikel akhbar, dan permainan interaktif. 
+</p>
+<img src="/images/iMTL-Sec-image2.png"><br/>
+<p style="text-align:justify;">
+  Portal iMTL pula menggalakkan pembelajaran kolaboratif. Pelajar belajar secara berpasangan atau berkumpulan sambil bertukar-tukar pandangan untuk menyelesaikan sesuatu tugasan. Fitur-fitur seperti peta minda, kanvas kolaboratif dan penulisan kolaboratif menyokong pembelajaran seperti ini secara dalam talian.
+</p>
+  <img src="/images/SLS-image2.png"><br/>
 </p>
   <p id="C2" style="font-size:30px;"><strong>Sokongan Ibu Bapa</strong></p>
 <p style="font-size:22px;text-align:justify">
@@ -355,15 +359,14 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
       <input id="tab-9" type="checkbox" name="tab">
    <label for="tab-9" class="lbML">Wisma Geylang Serai
 </label>
-     <div class="tab-content">
-       <a href="https://www.facebook.com/WismaGeylangSerai/ 
-" target="_blank"> https://www.facebook.com/WismaGeylangSerai/ </a>
+     <div class="tab-content">       
+       <a href="https://www.facebook.com/WismaGeylangSerai/" target="_blank"> https://www.facebook.com/WismaGeylangSerai/ </a><br/>
+       <a href="https://instagram.com/wgeylangserai?igshid=nit9a62cgs2w" target="_blank"> Wisma Geylang Serai Instagram</a>
        <br/>
        <p><strong>Wisma Geylang Serai
 </strong><br/>Sebuah hab warisan budaya yang mengetengahkan persembahan budaya, sesi bicara, sesi memasak dan lain-lain lagi. Ikuti siaran langsung acara-acara ini melalui FB & IG #wgeylangserai. 
        </p>
+       
   </div></div>
-
-*Insert Wisma Geylang Info Here. Include https://instagram.com/wgeylangserai?igshid=nit9a62cgs2w Wisma Geylang Serai Instagram
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
