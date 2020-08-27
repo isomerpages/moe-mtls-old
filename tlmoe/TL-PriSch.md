@@ -25,7 +25,7 @@ td{
 <p>
 <a href="#C1" style="font-size:20px"><span style="color:blue;">கல்வி அமைச்சின் தொடக்கப்பள்ளிப் பாடக்கலைத்திட்டம் 
 </span></a><br/>
- <a href="#C3" style="font-size:20px"><span style="color:blue;">இணையம்வழிக் கற்றல்
+ <a href="#C3" style="font-size:20px"><span style="color:blue;">இணையவழிக் கற்றல்
 </span></a><br/>
  <a href="#C2" style="font-size:20px"><span style="color:blue;">பெற்றோர் பங்கு 
 </span></a><br/><br/>
