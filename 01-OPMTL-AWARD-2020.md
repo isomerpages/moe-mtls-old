@@ -41,7 +41,7 @@ max-width:50%;
 
   gtag('config', 'AW-726049306');
 </script>
-<h5> <strong> Outstanding Awards </strong></h5>
+<h5> <strong> Outstanding Award Winners </strong></h5>
 <br/>
 <div class="row">
   <div class="column">
@@ -97,7 +97,7 @@ PCF Sparkletots Preschool @ Punggol East Blk 187B </center>
     </div>
       </div> 
      
-  <h5> <strong> Merit Award </strong></h5>
+  <h5> <strong> Merit Award Winners</strong></h5>
   <div class="row">
   <div class="column">
   <img src="images/Ms-Maslina-Bte-Mashudi.png" style="width:100%">
