@@ -95,7 +95,7 @@ Soalan-soalan rangsangan (menggunakan Roda Penaakulan Paul) disertakan dalam Unj
  </p><br/>
 
 <h4 style="padding-top:12px;margin:10px;color:#a3c864;">The Use Of Paul’s Wheel of Reasoning Model In Learning of Malay Language</h4>
-<p style="margin:10px;">The use of Paul’s Wheel of Reasoning model in learning of Malay Language by Yuhua Primary School aims to equip students with critical and creative thinking (CCT) skills. The Wheel of Reasoning categorises all thinking into eight basic structures  known as Elements of Thought (EOT). <br/>Using Paul’s Wheel of Reasoning, key questions are incorporated into“Show and Tell”, E-Book Shared Reading, and Reading Comprehension to engage lower primary students at different levels of thinking and discussion. This approach has motivated students to actively participate in Malay Language lessons. It also promotes a culture of thinking in students.
+<p style="margin:10px;">The use of Paul’s Wheel of Reasoning model in learning of Malay Language by Yuhua Primary School aims to equip students with critical and creative thinking (CCT) skills. The Wheel of Reasoning categorises all thinking into eight basic structures  known as Elements of Thought (EOT). <br/>Using Paul’s Wheel of Reasoning, key questions are incorporated into “Show and Tell”, E-Book Shared Reading, and Reading Comprehension to engage lower primary students at different levels of thinking and discussion. This approach has motivated students to actively participate in Malay Language lessons. It also promotes a culture of thinking in students.
 </p>
       </div>
 </div>
