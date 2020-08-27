@@ -79,7 +79,8 @@ max-width:40%;
 </script>
 </head>
 <body>  
-  <img class="btnImg" src="/images/ML-SharingSession-Challenge.jpg">
+  <img src="/images/ML-SharingSession-Challenge.jpg">
+ <br/>
 <table class="tbl">
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
