@@ -1,5 +1,5 @@
 ---
-title: 'OPMTL AWARD'
+title: 'Madam Iryamaya binti Amin'
 permalink: /award/Madam-Iryamaya-binti-Amin/
 breadcrumb: 'Madam Iryamaya binti Amin'
 ---
