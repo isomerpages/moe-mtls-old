@@ -82,7 +82,7 @@ third_nav_title: '华文学习展示区'
 
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22" >
-<a href="/test/聚英小学/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+<a href="/clmoe/聚英小学/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ third_nav_title: '华文学习展示区'
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/test/孺廊小学/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ <a href="/clmoe/孺廊小学/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -122,7 +122,7 @@ third_nav_title: '华文学习展示区'
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/test/伟林小学/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ <a href="/clmoe/伟林小学/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -141,7 +141,7 @@ third_nav_title: '华文学习展示区'
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22" >
- <a href="/test/育青中学/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ <a href="/clmoe/育青中学/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -161,7 +161,7 @@ third_nav_title: '华文学习展示区'
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
- <a href="/test/圣尼各拉女校（中学部）/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ <a href="/clmoe/圣尼各拉女校（中学部）/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 </table>
