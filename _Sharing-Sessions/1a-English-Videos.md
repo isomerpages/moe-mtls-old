@@ -1,10 +1,10 @@
 ---
-title: 'Profile and Synopsis'
-permalink: /Exhibition/English-Videos/Synopsis/
-breadcrumb: 'Profile and Synopsis'
+title: 'English Videos'
+permalink: /Sharing-Sessions/English-Videos/
+breadcrumb: 'English Videos'
 collection_name: Sharing-Sessions
-third_nav_title: 'English Videos'
 ---
+
 <h2 style="padding-top:12px;color:#72c6e9;">English Videos</h2>
 <html>
 <head>
