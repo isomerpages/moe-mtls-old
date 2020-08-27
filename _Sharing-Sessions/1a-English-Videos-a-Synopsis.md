@@ -147,7 +147,7 @@ With years of experience in the television and entertainment industry, Ben Yeo i
    <p> <strong>Dr Connie Lum </strong>
  <br/> NTUC First Campus
 <br/>
- Principal Curriculum Specialist
+ Director, Mother Tongue Languages
 </p>
    </div>
        <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4></p>
