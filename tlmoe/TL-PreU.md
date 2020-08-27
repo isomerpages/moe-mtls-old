@@ -95,19 +95,16 @@ width:80%;
 <a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/TL-PreU-Header.jpg">
 <p>
-<a href="#C1" style="font-size:20px"><span style="color:blue;">பல்கலைக்கழகப் புகுமுக நிலை </span></a><br/> 
-<a href="#C4" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி விருப்பப் பாடத்திட்டம் (Tamil Language Elective Programme)
+<a href="#C1" style="font-size:20px"><span style="color:blue;">அறிமுகம்
+ </span></a><br/> 
+<a href="#C2" style="font-size:20px"><span style="color:blue;">இலக்கியம்
 </span></a><br/>
- <a href="#C5" style="font-size:20px"><span style="color:blue;">இலக்கியம்
+ <a href="#C3" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்
 </span></a><br/>
-<a href="#C6" style="font-size:20px"><span style="color:blue;">தொடர்பிணைப்புக் கற்றல் சமூகக் குழு உருவாக்கம் (Networked Learning Community)
+<a href="#C4" style="font-size:20px"><span style="color:blue;">பால்மரக்காட்டினிலே -கற்றல்பயணம் 
 </span></a><br/>
-<a href="#C7" style="font-size:20px"><span style="color:blue;">பால்மரக்காட்டினிலே – கற்றல் பயணம்
-</span></a><br/>
- <a href="#C8" style="font-size:20px"><span style="color:blue;">இணையம்வழிக் கற்றல்
-</span></a>
-<br/><br/>
-<h4><span style="font-size:30px;color:purple;">அறிமுகம் 
+<br/>
+<h4 id="C1"><span style="font-size:30px;color:purple;">அறிமுகம்
  </span></h4>
  <p style="text-align:justify;">வருங்காலச் சிங்கப்பூர்த் தமிழ்ச் சந்ததியினரிடையே தமிழ் வாழும் மொழியாகத் திகழ வேண்டும். பலவகைப் பண்பாட்டுப் பாரம்பரியத்தைக் கொண்டு உலக நகராக விளங்கும் சிங்கப்பூரின் தனித்தன்மைக்கு வலுவூட்டும் அம்சமாக அது விளங்க வேண்டும்.
 </p>
@@ -121,43 +118,13 @@ width:80%;
     <td><img src="/images/TL-PreU-Intro.jpg"></td>
     </tr>
 </table>
-<h4><span style="font-size:30px;color:purple;">பல்கலைக்கழகப் புகுமுக நிலை 
- </span>
-</h4>
 <img src="/images/TL-PreU-Curriculum.jpg">
 <br/>
 <a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/mother-tongue-languages/files/2020-h1-tamil-language-tamil-language-b-syllabus.pdf" target="_blank">2020 H1 Tamil Language & Tamil Language ‘B’ Syllabus
 </a>
 
-<h4 id="C2"><span style="font-size:30px;color:purple;">பல்கலைகழகப் புகுமுகநிலை உயர்தரம் 2/3 பாடத்திட்ட வெளியீடு
+<h4><span style="font-size:30px;color:purple;">பல்கலைகழகப் புகுமுகநிலை உயர்தரம் 2 & 3 பாடத்திட்ட வெளியீடு
  </span></h4>
- <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OHI3rlQR2vU" class="iframe1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size=20px;">H2 & H3 TLL Syllabus Launch 2020
-</span></center>
-<br/><br/>
-
-
-
-
-<img src="/images/TL-PreU-Comic2.jpg">
-<br/>
-
-<h4><span style="font-size:30px;color:purple;">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமூட்டும் உத்திமுறைகள் 
- </span></h4> 
-<img src="/images/TL-PreU-Strategies.jpg">
-<br/>
-
-<h4 id="C4"><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப் பாடத்திட்டம் (Tamil Language Elective Programme)
- </span></h4>
- <p style="text-align:justify;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. தகுதிவாய்ந்த மாணவர்களைத் தமிழ்மொழியில் ஆற்றல்மிக்கவர்களாகவும், தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வைப் பேணி வளர்க்கவும் இத்திட்டம் வகைசெய்யும். அதோடு, மாணவர்களை இருமொழியாற்றல் மிக்கவர்களாக உருவாக்குவதே இந்தத் திட்டத்தின் நோக்கமாகும்.
-</p>
-<table style="width:100%">
-  <tr>
-    <td class="btab" ><img src="/images/TL-PreU-rigth7.png"></td>
-    <td class="btab"><img src="/images/TL-PreU-right8.png"></td>
- </tr>
-</table>
- <br/>
  <h4><span style="font-size:30px;color:purple;">நோக்கங்கள்</span></h4>
  <table style="width:100%">
   <tr>
@@ -177,7 +144,40 @@ width:80%;
 <a href="/Gallery/H2-&-H3TLL-Launch-Slides.pdf" target="_blank">H2H3TLL Launch 2020 slides</a><br/>
 <a href="/Gallery/H3TLL-Sharing -by-EJC-Student.pdf" target="_blank">Student’s sharing on H3TLL at Toastmaster Club</a>
  </p><br/>
- <h4><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 
+ <h4 id="C2"><span style="font-size:30px;color:purple;">இலக்கியம்</span></h4>
+   <div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+   <label for="tab-2" style="font-size:22px" class="lbTM">இலக்கிய வகுப்பு ஆர்வமூட்டக்கூடியாக இருக்குமா?
+</label>
+     <div class="tab-content">   
+   <img src="/images/TL-PreU-Literature.jpg">
+ </div></div>
+ <center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OHI3rlQR2vU" class="iframe1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size=20px;">பல்கலைகழகப் புகுமுகநிலை உயர்தரம் 2 & 3 பாடத்திட்ட வெளியீடு
+</span></center>
+<br/><br/>
+
+<img src="/images/TL-PreU-Comic2.jpg">
+<br/>
+
+<h4><span style="font-size:30px;color:purple;">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமூட்டும் உத்திமுறைகள் 
+ </span></h4> 
+<img src="/images/TL-PreU-Strategies.jpg">
+<br/>
+
+<h4><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப் பாடத்திட்டம் (Tamil Language Elective Programme)
+ </span></h4>
+ <p style="text-align:justify;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. தகுதிவாய்ந்த மாணவர்களைத் தமிழ்மொழியில் ஆற்றல்மிக்கவர்களாகவும், தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வைப் பேணி வளர்க்கவும் இத்திட்டம் வகைசெய்யும். அதோடு, மாணவர்களை இருமொழியாற்றல் மிக்கவர்களாக உருவாக்குவதே இந்தத் திட்டத்தின் நோக்கமாகும்.
+</p>
+<table style="width:100%">
+  <tr>
+    <td class="btab" ><img src="/images/TL-PreU-rigth7.png"></td>
+    <td class="btab"><img src="/images/TL-PreU-right8.png"></td>
+ </tr>
+</table>
+ <br/>
+ 
+ <h4 id="C3"><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 
 </span></h4>
   <div class="row">
  <div class="column">
@@ -210,14 +210,7 @@ width:80%;
    </div> 
    </div>
    <br/> 
- <h4><span style="font-size:30px;color:purple;">இலக்கியம்</span></h4>
-   <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-   <label for="tab-2" style="font-size:22px" class="lbTM">இலக்கிய வகுப்பு ஆர்வமூட்டக்கூடியாக இருக்குமா?
-</label>
-     <div class="tab-content">   
-   <img src="/images/TL-PreU-Literature.jpg">
- </div></div>
+ 
  <h4><span style="font-size:30px;color:purple;">நடவடிக்கைகள்
  </span></h4>
  <img src="/images/TL-PreU-Signature-Activities.jpg">
@@ -250,7 +243,7 @@ width:80%;
 </span>
 </center>
  <br/>
- <h4><span style="font-size:30px;color:purple;">பால்மரக்காட்டினிலே – கற்றல் பயணம்
+ <h4 id="C4"><span style="font-size:30px;color:purple;">பால்மரக்காட்டினிலே – கற்றல் பயணம்
  </span></h4>
  <p style="text-align:justify;">தமிழ்மொழி கற்றல் வளர்ச்சி குழுவின் ஆதரவில் தொடக்கக் கல்லூரி ஆசிரியர்கள் சென்ற ஆண்டு <br/><br/>
 நவம்பர் 10 -ஆம் தேதி சிரம்பான் ரப்பர்த் தோட்டத்திற்குக் கற்றல் பயணத்தை மேற்கொண்டனர். பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2 இலக்கியப்பாடத்திற்கான நாவல் பால்மரக்காட்டினிலே ஆகும். மலேசிய ரப்பர் தோட்டங்களில் பணிபுரியும் தமிழர்களின் வாழ்க்கையைப் பற்றிய கதை அது. நாவலில் நிகழ்ந்த சம்பவங்களையும் பால்வெட்டு ஊழியர்களின் வாழ்க்கைமுறையையும் நேரில் காணும்வண்ணம் இந்தக் கற்றல் பயணம் ஏற்பாடு செய்யப்பெற்றது. ரப்பர் மரங்கள், பால்வெட்டும் செயல்முறை, பால்வெட்டு ஊழியர்களின் அணுகுமுறை, பால் சேகரிக்கப்படும் இடங்கள் முதலியவற்றை ஆசிரியர்கள் நேரடியாக அறிந்துகொள்ளும்வண்ணம் பயன்மிக்க கற்றல் பயணமாக அமைந்தது.
