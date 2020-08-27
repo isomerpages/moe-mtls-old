@@ -62,7 +62,7 @@ third_nav_title: '华文学习展示区'
 </script>
 </head>
 <body>  
- <div><h2 style="font-family:KaiTi;">学前教育中心</h2></div>
+ <div><h2 style="font-family:KaiTi;">学前中心</h2></div>
  <img src="/images/MTL-Challenge-Banner.jpeg" style="display:none;"> <br/>
 <table class="tbl">
 <tr>
