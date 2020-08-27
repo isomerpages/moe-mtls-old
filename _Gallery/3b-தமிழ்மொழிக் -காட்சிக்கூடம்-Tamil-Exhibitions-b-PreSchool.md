@@ -1,6 +1,6 @@
 ---
 title: 'பாலர் பள்ளிகள்'
-permalink: /Gallery/தமிழ்மொழிக் -காட்சிக்கூடம்-Tamil-Exhibitions-b/பாலர் பள்ளிகள்/
+permalink: /Gallery/தமிழ்மொழிக் -காட்சிக்கூடம்-Tamil-Exhibitions-b/moe-curriculum/
 breadcrumb: 'பாலர் பள்ளிகள்'
 collection_name: Gallery
 third_nav_title: 'தமிழ்மொழிக் காட்சிக்கூடம்'
