@@ -15,15 +15,7 @@ max-width:40%;
   <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
   <body> 
   <a href="/opmtl-award-2020/" style="float:right;">Back</a>
-  <div class="row">
-  <div class="column">
-    <img src="images/Mdm-Saniah-Binte-Sakian.png" style="width:100%">
-    </div>
-    <p> Mdm Saniah Binte Sakian<br/>
-  My First Skool at Chin Swee
-  </p>
-     </div><br/>
-    <img src="images/Mdm-Saniah-Binte-Sakian-Poster.jpg" style="width:100%">
+  <img src="images/Mdm-Saniah-Binte-Sakian-Poster.jpg" style="width:100%">
     <br/>
      <h4>Petikan</h4><p>
     Pada pendapat saya, penting bagi kanak-kanak didedahkan pada bahasa Melayu sejak peringkat awal lagi.  Oleh itu, saya memastikan setiap aktiviti yang dirancang memerlukan pelibatan kanak-kanak secara aktif. Sebagai guru Bahasa Melayu, saya juga mendedahkan budaya dan warisan Melayu kepada kanak-kanak supaya mereka kenal akan jati diri mereka. 
