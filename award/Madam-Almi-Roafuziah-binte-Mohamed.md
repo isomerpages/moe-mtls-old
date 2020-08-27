@@ -22,8 +22,9 @@ max-width:40%;
     <p>Mdm Almi Roafuziah Binte Mohamed <br/>
     PCF Sparkletots Preschool @ Sengkang West Blk 303A
   </p>
-     <img src="images/Mdm-Almi-Roafuziah-Binte-Mohamed-Poster.jpg" style="width:100%">
     </div>
+    <br/>
+     <img src="images/Mdm-Almi-Roafuziah-Binte-Mohamed-Poster.jpg" style="width:100%">
     <br/>
       <h4>Petikan</h4>
     <p>
