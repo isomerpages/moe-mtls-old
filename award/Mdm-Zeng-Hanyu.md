@@ -17,12 +17,13 @@ max-width:40%;
   <a href="/opmtl-award-2020/" style="float:right;">Back</a>
   <div class="row">
   <div class="column">
-    <img src="images/cropped-person-icon-8-2.png" style="width:100%">
+    <img src="images/Zeng-Hanyu.png" style="width:100%">
     </div>
     <p> Mdm Zeng Hanyu <br/>
   <span style= "font-family:KaiTi; font-size:25px;">曾韩玉女士  </span> 
   <br/>Islander Preschool by EtonHouse
   </p>
+     <img src="images/Zeng-Hanyu-Poster.jpg" style="width:100%">
     </div><br/>
     <h4 style="font-family:KaiTi;">感言：</h4>
     <p style="font-family:KaiTi; font-size:25px; text-align:justify">
