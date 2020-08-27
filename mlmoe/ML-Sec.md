@@ -188,23 +188,21 @@ width:100%;
 <div class="row">
  <div class="column">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JNKevnURy6c" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-   Fikir Dahulu
 </div>
   <div class="column">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/WuGvP2z-b_s" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-    Ketua Darjah
  </div>
  </div>
  <br/>
 <h4 style="font-size:25px; color:green">Bahan sokongan dalam talian:</h4>
 <p style="text-align:justify;">
-  SLS dan Portal iMTL menyokong pembelajaran pelajar dan pengajaran guru. Melalui SLS, pelajar dapat menjalankan pembelajaran kendiri atau dengan bimbingan guru. Antara bahan yang ada dalam SLS ialah video seminit, artikel akhbar, dan permainan interaktif. 
+  SLS dan Portal iMTL menyokong pembelajaran pelajar dan pengajaran guru. Melalui SLS, pelajar dapat menjalankan pembelajaran kendiri atau dengan bimbingan guru. Antara bahan yang ada dalam SLS ialah video seminit, artikel akhbar dan permainan interaktif. 
 </p>
-<img src="/images/iMTL-Sec-image2.png" style="width:50%;"><br/>
+ <img src="/images/SLS-image2.png" style="width:50%;"><br/>
 <p style="text-align:justify;">
   Portal iMTL pula menggalakkan pembelajaran kolaboratif. Pelajar belajar secara berpasangan atau berkumpulan sambil bertukar-tukar pandangan untuk menyelesaikan sesuatu tugasan. Fitur-fitur seperti peta minda, kanvas kolaboratif dan penulisan kolaboratif menyokong pembelajaran seperti ini secara dalam talian.
 </p>
-  <img src="/images/SLS-image2.png" style="width:50%;"><br/>
+ <img src="/images/iMTL-Sec-image2.png" style="width:50%;"><br/>
 </p>
   <p id="C2" style="font-size:30px;"><strong>Sokongan Ibu Bapa</strong></p>
 <p style="font-size:22px;text-align:justify">
@@ -327,6 +325,7 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
    <p style="font-size:18px;">
      <a href="https://www.malayheritage.org.sg/en/whats-on " target="_blank">Taman Warisan Melayu  (MLLPC)
  </a><br/>
+     <a href="https://instagram.com/malayheritage?igshid=31lxnz03v24e" target="_blank">Taman Warisan Melayu</a><br/>
        <ul><li>Pameran Tetap – 6 galeri
 </li>
          <li>Pameran Khas - Seekor Singa, Seorang Putera dan Sebingkai Cermin: Pantulan dan Biasan Singapura
