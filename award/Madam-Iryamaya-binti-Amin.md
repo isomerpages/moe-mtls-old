@@ -15,15 +15,7 @@ max-width:40%;
   <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
   <body> 
   <a href="/opmtl-award-2020/" style="float:right;">Back</a>
-  <div class="row">
-  <div class="column">
-    <img src="images/Mdm-Iryamaya-Binti-Amin.png" style="width:100%">
-    </div>
-    <p> Mdm Iryamaya Binti Amin<br/>
-  PCF Sparkletots Preschool @ Sembawang Blk 755 
-  </p>
-   </div><br/>
-      <img src="images/Mdm-Iryamaya-Binti-Amin-Poster.jpg" style="width:100%">
+<img src="images/Mdm-Iryamaya-Binti-Amin-Poster.jpg" style="width:100%">
     <br/>
     <h4>Petikan</h4>
     <p>Sebagai pendidik, saya mempunyai tanggungjawab yang besar untuk memupuk minat akan bahasa Melayu dalam kalangan kanak-kanak.  Saya percaya bahawa pembelajaran bahasa haruslah disertakan dengan komponen budaya dan warisan supaya kanak-kanak dapat mengenal dan meneroka budaya dan warisan mereka.  Sokongan padu dan kerjasama ibu bapa, keluarga, sekolah dan masyarakat amatlah penting untuk melestarikan penggunaan  bahasa Melayu. 
