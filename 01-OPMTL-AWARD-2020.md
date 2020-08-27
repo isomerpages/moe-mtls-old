@@ -121,7 +121,7 @@ PCF Sparkletots Preschool @ Punggol East Blk 187B </center>
    <div class="row">
  <div class="column">
 <img src="images/Mrs-Shanmugan-Shoba.png" style="width:100%">
- <p> <center>Mrs Shanmugan Shoba <br/>
+ <p> <center>Mrs Shanmugam Shoba <br/>
   திருமதி சண்முகம் ஷோபா<br/>
 PCF Sparkletots Preschool @ Bukit Gombak Blk 535 </center>
  </p>
