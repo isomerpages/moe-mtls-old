@@ -5,6 +5,7 @@ breadcrumb: 'Institut Pendidikan Nasional (Kumpulan Akademik Bahasa dan Kebudaya
 ---
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-e/community-partners/" style="float:right;">Back</a>
  <img src="/images/NIE-ML.jpg"> <br/>
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<a href="/Sharing-Sessions/01-website-exhibitor-template-pdf.pdf" download>PDF Downloads</a>
+ 
+<a href="/clmoe/MTLS 2020_National Institute of Education_Storytelling_Language Learning and Values Inculcation.pdf" download>MTLS 2020 National Institute of Education  -  Language Learning and Values Inculcation through Storytelling</a><br/>
+<a href="/mlmoe/Soalan Panduan - Gibran _ Rakan-rakannya.pdf" download>Soalan Panduan - Gibran & Rakan-rakannya</a><br/>
+<a href="/mlmoe/Soalan Panduan - Pandemik Melanda Dunia.pdf" download>Soalan Panduan - Pandemik Melanda Dunia</a>
