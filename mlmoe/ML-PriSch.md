@@ -133,8 +133,8 @@ width:100%;
   </p>
  <p id="C1" style="font-size:30px;color:black"><strong>Bahan Pengajaran dan Pembelajaran </strong><br/>
   <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran Pakej Cekap:</span>
-  <br/>
- Video pengajaran</p>
+  <br/> <br/> 
+  <span style="font-size:20px;">Video pengajaran </span></p>
  <br/>
   <div class="row">
  <div class="column">
