@@ -132,17 +132,22 @@ width:100%;
  Lihat <a href="https://tinyurl.com/emasmlep" target="_blank">https://tinyurl.com/emasmlep </a>
   </p>
  <p id="C1" style="font-size:30px;color:black"><strong>Bahan Pengajaran dan Pembelajaran </strong><br/>
-  <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran Pakej Cekap:</span></p>
- Video pengajaran
+  <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran Pakej Cekap:</span>
+  <br/>
+ Video pengajaran</p>
+ <br/>
   <div class="row">
  <div class="column">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/v4ByRIcys3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/v4ByRIcys3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">Selamat Pagi
+</span>
 
 </div>
   <div class="column">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Tc4AkLX35wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Tc4AkLX35wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">Si Lebai Malang
+</span>
  </div>
       </div><br/>
+      <br/>
   <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
   <label for="tab-2" class="lbML">- Dekat dengan kehidupan murid </label>
