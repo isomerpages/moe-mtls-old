@@ -78,7 +78,7 @@ width:100%;
 }
  .row {
     display: flex;
-    height: 3.5%;
+    height: 5%;
 }
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
