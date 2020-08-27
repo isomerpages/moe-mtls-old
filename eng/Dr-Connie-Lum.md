@@ -24,7 +24,7 @@ max-width:20%;
     <p><strong> Dr Connie Lum </strong>
  <br/> NTUC First Campus
 <br/>
- Principal Curriculum Specialist
+ Director, Mother Tongue Languages
 </p>
 
   <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4></p>
