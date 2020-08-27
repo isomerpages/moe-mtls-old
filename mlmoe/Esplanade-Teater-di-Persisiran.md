@@ -5,6 +5,6 @@ breadcrumb: 'Esplanade - Teater di Persisiran'
 ---
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-e/community-partners/" style="float:right;">Back</a>
  <img src="/images/Esplanade-Malay.jpg"> <br/>
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<a href="/Sharing-Sessions/01-website-exhibitor-template-pdf.pdf" download>PDF Downloads</a>
+
+<a href="https://www.esplanade.com/offstage/arts/pesta-raya-its-still-hari-raya?sc_lang=ms-MY" target="_blank"> Masih lagi Hari Raya</a><br/>
+<a href="https://www.esplanade.com/offstage/arts/40-trees-1-arrow?sc_lang=ms-MY" target="_blank"> 40 Pokok, 1 Anak Panah</a>
