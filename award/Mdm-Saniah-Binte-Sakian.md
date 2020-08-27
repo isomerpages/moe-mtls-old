@@ -8,7 +8,7 @@ breadcrumb: 'Mdm Saniah Binte Sakian'
 <style>
   img {
 height:auto;
-max-width:40%;
+max-width:100%;
 }
 </style>
 </head>
