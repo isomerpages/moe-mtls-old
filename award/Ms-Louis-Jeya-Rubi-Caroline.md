@@ -15,16 +15,7 @@ max-width:40%;
   <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
   <body> 
   <a href="/opmtl-award-2020/" style="float:right;">Back</a>
-  <div class="row">
-  <div class="column">
-    <img src="images/Mrs-Louis-Jeya-Rubi-Caroline.png" style="width:100%">
-    </div>
-<p> Ms Louis Jeya Rubi Caroline <br/>
- ததிருமதி லூயிஸ் ஜெய ரூபி கரோலின்<br/>
-PCF Sparkletots Preschool @ Punggol East Blk 187B
- </p>
-    </div><br/>
-    <img src="images/Mrs-Loui- Jeya-Rubi-Caroline-Poster.jpg" style="width:100%">
+  <img src="images/Mrs-Loui- Jeya-Rubi-Caroline-Poster.jpg" style="width:100%">
     <br/>
   <p>தாய்மொழிகருத்துப்பரிமாற்றத்திற்குமட்டுமல்லாமல், பண்பாட்டின்பலமாகவும்அமைகிறது. தாய்மொழிகுழந்தைகளுக்குக்கல்விசார்ந்தசிந்தனைவளத்தையும்பண்பாட்டறிவையும் மரபையும் வளர்ப்பதற்குஆதாரமாகவிளங்குகிறது. குறிப்பாக, தொன்மையும்விழுமியமும் இலக்கியச்செழுமையுமிக்கதமிழ்மொழியைஅடுத்ததலைமுறைக்குக்கொண்டுசெல்லும்வாய்ப்புஎனக்குக்கிடைத்திருப்பதைஎண்ணிமகிழ்ச்சியும்பெருமையும்கொள்கிறேன்.
     </p>
