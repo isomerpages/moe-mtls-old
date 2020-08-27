@@ -67,6 +67,19 @@ table.center {
   margin-bottom: 5px;
   width:100%;  
 }
+iframe{
+border : 0;
+width:100%;
+}
+ .column {
+  float: left;
+  width: 80%;
+  padding: 5px;
+}
+ .row {
+    display: flex;
+    height: 3.5%;
+}
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-b/moe-curriculum/" style="float:right;">Back</a><br/>
