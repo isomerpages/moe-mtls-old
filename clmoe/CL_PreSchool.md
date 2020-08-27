@@ -1,6 +1,6 @@
 ---
 title: '教育部幼儿园'
-permalink: /test/CL_PreSchool/
+permalink: /clmoe/CL_PreSchool/
 breadcrumb: '教育部幼儿园'
 ---
 <html>
