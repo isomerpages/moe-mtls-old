@@ -15,8 +15,9 @@ width:80% ;
   </style>
    <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
    <h5>9.30am to 10.00am<br/>
-      சிறப்பு விருந்தினரின்  தொடக்கவுரையும்<br/>
-      தமிழ்மொழி கற்றல் வளர்ச்சிக் குழுத் தலைவரின் அறிமுகவுரையும்</h5>
+     சிறப்பு விருந்தினர், கல்வி அமைச்சர் திரு லாரன்ஸ் <br/>
+      வோங் அவர்களின் தொடக்கவுரையும் தமிழ்மொழி கற்றல் <br/>
+      வளர்ச்சிக் குழுத் தலைவர் திரு விக்ரம் நாயர் அவர்களின் அறிமுகவுரையும்</h5>
   <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
     <br/>
