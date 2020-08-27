@@ -1,7 +1,7 @@
 ---
-title: '学前教育中心'
+title: '学前中心'
 permalink: /Gallery/华文学习展示区-Chinese-Exhibitions-c/PreSchool/
-breadcrumb: '学前教育中心'
+breadcrumb: '学前中心'
 collection_name: Gallery
 third_nav_title: '华文学习展示区'
 ---
