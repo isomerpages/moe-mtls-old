@@ -25,10 +25,6 @@ max-width:100%;
   <a href="/opmtl-award-2020/" style="float:right;">Back</a>
 <img src="images/Zeng-Hanyu-Poster.jpg" style="width:100%">
     <br/>
-    <h4 style="font-family:KaiTi;">感言：</h4>
-    <p style="font-family:KaiTi; font-size:25px; text-align:justify">
-      幼儿是有能力的学习者，他们通过不同的方法建构知识、表达自己。作为一名华文教师，既要倾听幼儿的声音，与他们建立良好的关系，鼓励他们探索世界，也要不断反思，探索华文教学的新途径。
-    </p>
     <h4 style="font-family:KaiTi;">评语：</h4>
     <p style="font-family:KaiTi; font-size:25px; text-align:justify">
 曾老师在“小小发明家”这堂课中，鼓励幼儿展示他们在之前的课上通过小组协作制作的机器人，并以华语跟全班同学做分享。
