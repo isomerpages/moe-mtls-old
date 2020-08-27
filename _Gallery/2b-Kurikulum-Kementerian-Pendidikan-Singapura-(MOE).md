@@ -1,6 +1,6 @@
 ---
 title: 'Kurikulum Kementerian Pendidikan Singapura (MOE)'
-permalink: /Gallery/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-a/Moe-Curriculum/
+permalink: /Gallery/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-b/Moe-Curriculum/
 breadcrumb: 'Kurikulum Kementerian Pendidikan Singapura (MOE)'
 published: true
 collection_name: Gallery
