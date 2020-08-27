@@ -1,6 +1,6 @@
 ---
 title: 'MY World @ Simei'
-permalink: /test/MY-World/
+permalink: /clmoe/MY-World/
 breadcrumb: 'MY World @ Simei'
 ---
 <a href="/gallery/华文学习展示区-chinese-exhibitions-c/preschool/" style="float:right;">Back</a>
