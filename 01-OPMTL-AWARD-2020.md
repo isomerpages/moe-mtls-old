@@ -100,19 +100,19 @@ PCF Sparkletots Preschool @ Punggol East Blk 187B </center>
   <h5> <strong> Merit Award </strong></h5>
   <div class="row">
   <div class="column">
-  <img src="images/cropped-person-icon-8-2.png" style="width:100%">
+  <img src="images/Ms-Maslina-Bte-Mashudi.png" style="width:100%">
  <p> <center> Ms Maslina Bte Mashudi
   <br/>PCF Sparkletots Preschool @ Bukit Batok Blk 206 </center>
 </p>
     </div>
   <div class="column">
-<img src="images/cropped-person-icon-8-2.png" style="width:100%"> 
+<img src="images/Mdm-Siti-Zaleha-Bte-Mohamed-Puteh.png" style="width:100%"> 
  <p> <center> Mdm Siti Zaleha Bte Mohamed Puteh  <br/>
   PCF Sparkletots Preschool @ Sembawang Blk 789 </center>
    </p>
     </div>
   <div class="column">
-<img src="images/cropped-person-icon-8-2.png" style="width:100%">
+<img src="images/Mrs-Russel-Raj-Mary-Celin-Sharmila.png" style="width:100%">
  <p> <center> Mrs Russel Raj Mary Celin Sharmila <br/>
   திருமதி றசல் ராஜ் மேரி செலின் ஷர்மிளா<br/>
   PCF Sparkletots Preschool @ Bedok Blk 30 </center></p>
@@ -120,7 +120,7 @@ PCF Sparkletots Preschool @ Punggol East Blk 187B </center>
    </div>
    <div class="row">
  <div class="column">
-<img src="images/cropped-person-icon-8-2.png" style="width:100%">
+<img src="images/Mrs-Shanmugan-Shoba.png" style="width:100%">
  <p> <center>Mrs Shanmugan Shoba <br/>
   திருமதி சண்முகம் ஷோபா<br/>
 PCF Sparkletots Preschool @ Bukit Gombak Blk 535 </center>
@@ -128,14 +128,14 @@ PCF Sparkletots Preschool @ Bukit Gombak Blk 535 </center>
  </div>
   
   <div class="column">
-   <img src="images/cropped-person-icon-8-2.png" style="width:100%">
+   <img src="images/Su-Zhewei.png" style="width:100%">
  <p> <center>Ms Su Zhewei<br/>
   <span style= "font-family:KaiTi; font-size:25px;">苏哲纬女士 </span>
     <br/>My First Skool At Blk 269 Compassvale Link</center>
   </p>
     </div>
   <div class="column">
-<img src="images/cropped-person-icon-8-2.png" style="width:100%"> 
+<img src="images/Yang-Hong.png" style="width:100%"> 
  <p> <center>Mdm Yang Hong<br/>
   <span style= "font-family:KaiTi; font-size:25px;">杨红女士</span> 
     <br/> My First Skool At Chong Pang Blk 142</center> 
@@ -145,7 +145,7 @@ PCF Sparkletots Preschool @ Bukit Gombak Blk 535 </center>
     
    <div class="row">
   <div class="column">
-<img src="images/cropped-person-icon-8-2.png" style="width:100%">
+<img src="images/Zhang-Wei-Wei.png" style="width:100%">
  <p> <center> Mdm Zhang Wei Wei<br/>
   <span style= "font-family:KaiTi; font-size:25px;">张伟玮女士 </span> 
     <br/> MY World @ Simei</center> 
