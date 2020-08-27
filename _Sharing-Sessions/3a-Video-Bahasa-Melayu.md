@@ -1,9 +1,8 @@
 ---
-title: 'Profil dan Sinopsis'
-permalink: /Exhibition/Video-Bahasa-Melayu/Synopsis/
-breadcrumb: 'Profil dan Sinopsis'
+title: 'Video Bahasa Melayu'
+permalink: /Exhibition/Video-Bahasa-Melayu/
+breadcrumb: 'Video-Bahasa-Melayu'
 collection_name: Sharing-Sessions
-third_nav_title: 'Video Bahasa Melayu'
 ---
 <h2 style="padding-top:12px;color:#a3c864;">Video Bahasa Melayu</h2>
 <html>
