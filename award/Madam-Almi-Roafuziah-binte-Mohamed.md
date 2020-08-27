@@ -17,12 +17,14 @@ max-width:40%;
   <a href="/opmtl-award-2020/" style="float:right;">Back</a>
   <div class="row">
   <div class="column">
-    <img src="images/cropped-person-icon-8-2.png" style="width:100%">
+    <img src="images/Mdm-Almi-Roafuziah-Binte-Mohamed.png" style="width:100%">
     </div>
     <p>Mdm Almi Roafuziah Binte Mohamed <br/>
     PCF Sparkletots Preschool @ Sengkang West Blk 303A
   </p>
-    </div><br/>
+     <img src="images/Mdm-Almi-Roafuziah-Binte-Mohamed-Poster.jpg" style="width:100%">
+    </div>
+    <br/>
       <h4>Petikan</h4>
     <p>
       Sebagaimana cinta saya akan bahasa Melayu, begitulah impian saya untuk menerapkan cinta akan bahasa kepada kanak-kanak.  Saya percaya aktiviti yang dirancang mestilah melibatkan kanak-kanak secara aktif dan penting disulami nilai-nilai murni supaya mereka berjaya menjadi berlian yang berkilauan pada masa hadapan. 
