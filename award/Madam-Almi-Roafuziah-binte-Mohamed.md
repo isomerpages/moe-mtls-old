@@ -15,16 +15,7 @@ max-width:40%;
   <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
   <body> 
   <a href="/opmtl-award-2020/" style="float:right;">Back</a>
-  <div class="row">
-  <div class="column">
-    <img src="images/Mdm-Almi-Roafuziah-Binte-Mohamed.png" style="width:100%">
-    </div>
-    <p>Mdm Almi Roafuziah Binte Mohamed <br/>
-    PCF Sparkletots Preschool @ Sengkang West Blk 303A
-  </p>
-    </div>
-    <br/>
-     <img src="images/Mdm-Almi-Roafuziah-Binte-Mohamed-Poster.jpg" style="width:100%">
+ <img src="images/Mdm-Almi-Roafuziah-Binte-Mohamed-Poster.jpg" style="width:100%">
     <br/>
       <h4>Petikan</h4>
     <p>
