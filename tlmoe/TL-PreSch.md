@@ -28,7 +28,7 @@ margin-bottom:10px;
 }
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
-<a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-a/moe-curriculum/" style="float:right;">Back</a><br/>
+<a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/TL-PreSch-Header.jpg">
 <p>
 <a href="#C1" style="font-size:18px"><span style="color:blue;text-align:justify;">ஸ்டார்லைட் &nbsp; எழுத்தறிவுத் திட்டம்
