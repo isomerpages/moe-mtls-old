@@ -15,3 +15,4 @@ third_nav_title: 'Pameran Bahasa Melayu'
   <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-d/schools/"><img src="/images/ML-Schools.jpg"></a>
     <br/>
   <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-e/community-partners/"><img src="/images/ML-Community-Partners.jpg"></a><br/><br/>
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
