@@ -27,7 +27,7 @@ max-width:100%;
        <br/>
        இதன்வழியே பாடத் தயாரிப்பில் அவருக்கு ஆழ்ந்த அறிவும் அனுபவமும் இருந்ததை அறிய முடிந்தது. துடிப்புமிக்க ஆசிரியராகத் தொடர்ந்து மாணவர்களை மகிழ்வூட்டும் கற்றல் கற்பித்தலில் ஈடுபடுத்துவதற்கு அவராற்றும் முயிற்சிகள் பாராட்டிற்குரியவை. பிள்ளைகளைக் கவரும் ஆளுமையும் அவரிடையே இருந்ததைத் தெளிவாக உணர முடிந்தது. திருமதி லூயிஸ் ஜெய ரூபி கரோலின் மற்றப் பாலர் பள்ளி ஆசிரியர்களுக்குச் சிறந்த முன்மாதிரியாய் விளங்குபவர்.
  </p>
-    <h4>Judges' Comments</h4><p style="text-align:justify;">
+    <h4>Judges' Comments:</h4><p style="text-align:justify;">
     Mrs Jeya Rubi Caroline takes great effort in ensuring that her lessons engage her children’s prior knowledge. For example, she used the topic on, “Caring for Animals”, to seamlessly weave her class’s prior knowledge into her storytelling whilst also using self-made props. This was a well-structured lesson that was both innovative and which aroused children’s interest and captured their attention.
 <br/><br/>
 Mrs Jeya’s passion for her subject was evident during her lesson delivery. Her lesson was well-plannedand implemented with a dramatic flair that engaged her children throughout. By successfully engaging the children, Mrs Jeva was able to continually elicit active responses from her children. Mrs Jeya used this positive interaction to regularly check pupils’ understanding of the topic, as well asencouraging them to ask questions. It was clearly evident that Mrs Jeya has established an excellent rapport with her children.
