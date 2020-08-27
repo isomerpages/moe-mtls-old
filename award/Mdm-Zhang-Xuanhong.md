@@ -25,7 +25,7 @@ max-width:100%;
   <a href="/opmtl-award-2020/" style="float:right;">Back</a>
    <img src="images/Zhang-Xuanhong-Poster.jpg" style="width:100%">
     <br/>
-     <h4 style="font-family:KaiTi;">感言：</h4>
+     <h4 style="font-family:KaiTi;">评语：</h4>
     <p style="font-family:KaiTi; font-size:25px; text-align:justify">
    张老师的课由浅入深，有条有理，生动有趣。幼儿能在有意义的学习环境中，建构新知识，实现学习目标。
   <br/><br/>
@@ -36,11 +36,11 @@ max-width:100%;
       张老师在教学上循序渐进，帮助幼儿逐步达成学习目标。她对教学充满热忱，她的课生动有趣，引人入胜。在她营造的欢乐、积极的学习氛围中，幼儿都能感受到老师的关爱和重视，并能更有信心地参与活动。
 </p>
     <h4>Judges' Comments:</h4><p>
-    Madam Zhang’s lesson was well organisedinto stages of increasing difficulty, whilst at the same time remaining vivid and interesting. The lesson achieved its learning goals byencouraging children to construct new knowledge in a meaningful context.
+    Madam Zhang’s lesson was well organised into stages of increasing difficulty, whilst at the same time remaining vivid and interesting. The lesson achieved its learning goals by encouraging children to construct new knowledge in a meaningful context.
  <br/><br/>
 Atthe start of the lesson, Madam Zhang used singing and rhythmic movements to bring the children into an imaginary world of a concert in a forest. Madam Zhang then used pictures and questioning techniques to deepen her children's understanding of the lyrics. Next, the children put on headgear, held simulated musical instruments made by Madam Zhang (using environmentally friendly materials!) and role-played as animal characters in the songs-an activity that further deepened their understanding of the content.
  <br/><br/>
-Guided by Madam Zhang, the children also made use of the characters, musical instruments and song lyrics to construct simple sentences. After the children had grasped the sentence structures taught, Madam Zhang stimulatedchildren’s’ imagination by asking them to use items found in the classroom to construct more complex sentences. This was then taken one step further by encouraging the class to construct sentences using familiaritems and memories from their daily lives. Thisincluded what theywould usually see and hear, their recollection of things their family members often did,topics recently discussed in class, and things they noticed on the way to school.
+Guided by Madam Zhang, the children also made use of the characters, musical instruments and song lyrics to construct simple sentences. After the children had grasped the sentence structures taught, Madam Zhang stimulated children’s imagination by asking them to use items found in the classroom to construct more complex sentences. This was then taken one step further by encouraging the class to construct sentences using familiar items and memories from their daily lives. This included what they would usually see and hear, their recollection of things their family members often did, topics recently discussed in class, and things they noticed on the way to school.
  <br/><br/>
 Madam Zhang’s structured learning procedures enable children to achieve her desired learning outcomes. She uses simple and easy-to-understand class rules to create an enjoyable and positive learning atmosphere for her children. Her enthusiasm for teaching and approachable personality shone throughout these engaging lessons. The children could feel their teacher's care and attention, which gave them the confidence to eagerly participate in all the classroom activities.
 </p>
