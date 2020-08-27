@@ -81,7 +81,7 @@ CPCLL’s signature programmes and key activities include Xin Kong Xia National 
 
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
-<a href="/test/推广华文学习委员会 /"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+<a href="/clmoe/推广华文学习委员会 /"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -104,7 +104,7 @@ CPCLL’s signature programmes and key activities include Xin Kong Xia National 
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/test/滨海艺术中心/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ <a href="/clmoe/滨海艺术中心/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 
@@ -128,7 +128,7 @@ CPCLL’s signature programmes and key activities include Xin Kong Xia National 
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/test/李光耀双语基金/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ <a href="/clmoe/李光耀双语基金/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -149,7 +149,7 @@ Parents can find out more about the learning opportunities available to the youn
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/test/国家文物局/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ <a href="/clmoe/国家文物局/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -168,7 +168,7 @@ Parents can find out more about the learning opportunities available to the youn
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
- <a href="/test/国立教育学院（亚洲语言文化学部）/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ <a href="/clmoe/国立教育学院（亚洲语言文化学部）/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -188,7 +188,7 @@ Parents can find out more about the learning opportunities available to the youn
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/test/国家图书馆管理局/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ <a href="/clmoe/国家图书馆管理局/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -208,7 +208,7 @@ Parents can find out more about the learning opportunities available to the youn
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/test/新加坡华文教研中心/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ <a href="/clmoe/新加坡华文教研中心/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -225,7 +225,7 @@ Parents can find out more about the learning opportunities available to the youn
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
- <a href="/test/新加坡宗乡会馆联合总会/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ <a href="/clmoe/新加坡宗乡会馆联合总会/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -244,7 +244,7 @@ Parents can find out more about the learning opportunities available to the youn
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/test/新加坡野生动物保育集团/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ <a href="/clmoe/新加坡野生动物保育集团/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -264,7 +264,7 @@ Parents can find out more about the learning opportunities available to the youn
     
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/test/早报校园/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ <a href="/clmoe/早报校园/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 </table>
