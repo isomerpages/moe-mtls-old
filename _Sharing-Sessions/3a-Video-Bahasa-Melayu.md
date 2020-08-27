@@ -1,6 +1,6 @@
 ---
 title: 'Video Bahasa Melayu'
-permalink: /Exhibition/Video-Bahasa-Melayu/
+permalink: /Sharing-Sessions/Video-Bahasa-Melayu/
 breadcrumb: 'Video-Bahasa-Melayu'
 collection_name: Sharing-Sessions
 ---
