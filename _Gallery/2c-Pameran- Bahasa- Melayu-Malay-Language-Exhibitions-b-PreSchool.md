@@ -1,6 +1,6 @@
 ---
 title: 'Prasekolah'
-permalink: /Gallery/Pameran-Bahasa-Melayu-Malay-Language-Exhibitions-b/PreSchool/
+permalink: /Gallery/Pameran-Bahasa-Melayu-Malay-Language-Exhibitions-c/PreSchool/
 breadcrumb: 'Prasekolah'
 collection_name: Gallery
 third_nav_title: 'Pameran Bahasa Melayu'
