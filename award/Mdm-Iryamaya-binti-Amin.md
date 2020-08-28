@@ -28,7 +28,7 @@ max-width:100%;
     <h4>Ulasan Pengadil</h4>
     <p style="text-align:justify;">Puan Iryamaya seorang guru cemerlang yang berpengalaman.  Beliau menyampaikan pengajaran yang berkualiti agar kanak-kanak dapat belajar dengan seronok.  Beliau merancang aktiviti yang melibatkan kanak-kanak secara aktif.  Pendekatan yang digunakan oleh beliau sangat berkesan kerana kanak-kanak berjaya menyelesaikan aktiviti dengan sedikit penduan dan pada masa yang sama menggalakkan pembelajaran bersama-sama rakan mereka.  Beliau juga memastikan persekitaran pembelajaran yang selamat. Kanak-kanaknya berasa selesa bertanya apabila mereka memerlukan bantuan atau pun perhatian. Cikgu Iryamaya komited dan berdedikasi serta bijak menyulam nilai dan budaya secara langsung dalam pengajaran beliau. Tutur kata dan cara beliau berinteraksi dengan kanak-kanak membangkitkan motivasi dalam diri kanak-kanak. 
 </p>
-    <h4>Judges' Comments</h4>
+    <h4>Judges' Write-up</h4>
     <p style="text-align:justify;">
     Madam Iryamaya is an experienced teacher who excels in her craft, and who always delivers high-quality and enjoyable lessons.  Children are actively engaged in carefully planned activities that ensure the children can complete their tasks with minimal supervision whilst learning from one another.  She also creates a safe learning environment in which the children feel they may approach her without hesitation when they require her attention or assistance. Madam Iryamaya is a committed and dedicated teacher who creatively integrates values and culture intoher lessons and who communicates and interacts with her children in ways that continually motivate them to learn. 
 </p>
