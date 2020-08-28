@@ -109,8 +109,11 @@ width:80%;
 <br/><br/>
 இதன் அடிப்படையில் தமிழ்மொழி கற்றல் கற்பித்தலை அடுத்தடுத்த மேம்பட்ட நிலைக்குக் கொண்டு செல்ல அரசாங்கத்தின் உதவியோடு தொடர்ந்து பல முயற்சிகள் மேற்கொள்ளப்பட்டு வருகின்றன. சிங்கப்பூரில் தமிழை வாழும் மொழியாக நிலைபெறச் செய்ய வேண்டும் என்பதே இம்முயற்சிகளின் அடிப்படை நோக்கமாகும்.
 </p>
-<center><span style="font-size:18px;">தமிழ்மொழி கற்றல் கற்பித்தல் பாடத்திட்டங்கள் (1958 – 2011)</span>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/6sBb03SK3wI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center><br/>
+<center>
+ <span style="font-size:18px;">தமிழ்மொழி கற்றல் கற்பித்தல் பாடத்திட்டங்கள் (1958 – 2011)</span>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/6sBb03SK3wI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+<br/>
+     *Video is best viewed in 1080p.<br/>
  <h4 id="C1"><span style="font-size:30px;color:purple;">2021-ஆம் ஆண்டுத் தமிழ்ப் பாடக்கலைத்திட்டம்
  </span></h4>
 <table>
@@ -122,11 +125,15 @@ width:80%;
      <a href="/Gallery/2021-tamil-curriculum.pdf" target="_blank">2021 Tamil Curriculum</a></td>
  </tr> 
  </table>
- <center><span style="font-size:18px;">உயர்நிலைத் &nbsp; தமிழ்மொழிப் &nbsp; பாடத்திட்ட &nbsp; வெளியீடு:</span><br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rGFqD2sxPfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br/>
+ <center>
+ <span style="font-size:18px;">உயர்நிலைத் &nbsp; தமிழ்மொழிப் &nbsp; பாடத்திட்ட &nbsp; வெளியீடு:</span><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rGFqD2sxPfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<br/>
+     *Video is best viewed in 1080p.<br/>
 <center><span style="font-size:18px; text-align:justify;">வழிநடத்தும் குழு உறுப்பினர்களின் பகிர்வும்  முன்னோட்டச் சோதனையில் ஈடுபட்ட பள்ளி ஆசிரியர்களின் பகிர்வும்:</span><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q-YiRGO8S78" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
  <br/>
+     *Video is best viewed in 1080p.<br/>
  <h4 id="C2"><span style="font-size:30px;color:purple;">இலக்கியம்
  </span></h4>
 <table>
@@ -216,14 +223,20 @@ width:80%;
 
  <img src="/images/TL-Sec-Optional-Curriculum-Update.jpg"><br/>
  <span style="font-size:25px;"><strong>காமன்வெல்த் உயர்நிலைப்பள்ளி</strong></span>
-<center><span style="font-size:18px; text-align:justify;"> ஶ்ரீராம்_உயர்நிலை 3</span><br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/giDBQvuLZp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br/><br/>
+<center>
+ <span style="font-size:18px; text-align:justify;"> ஶ்ரீராம்_உயர்நிலை 3</span><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/giDBQvuLZp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br/>
+     *Video is best viewed in 1080p.<br/>
  <span style="font-size:25px;"><strong>ரிவர்சைடு உயர்நிலைப்பள்ளி</strong></span>
-<center><span style="font-size:18px; text-align:justify;">அன்பழகன் நிவேதிதா _உயர்நிலை 3 </span><br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VbDOJKBV8-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br/><br/>
+<center>
+ <span style="font-size:18px; text-align:justify;">அன்பழகன் நிவேதிதா _உயர்நிலை 3 </span><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VbDOJKBV8-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br/>
+     *Video is best viewed in 1080p.<br/>
 <span style="font-size:25px;"><strong>யீசூன் டவுன் உயர்நிலைப்பள்ளி</strong></span>
-<center><span style="font-size:18px; text-align:justify;">ஹீரன்_உயர்நிலை 3</span><br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bcwSzzG_gMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br/><br/>
+<center>
+ <span style="font-size:18px; text-align:justify;">ஹீரன்_உயர்நிலை 3</span><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bcwSzzG_gMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br/>
+     *Video is best viewed in 1080p.<br/>
 
  <h4 id="C4"><span style="font-size:30px;color:purple;">இணையவழிக் கற்றல் </span> </h4>
 <img src="/images/TL-Sec_onlineLearning.jpg">
