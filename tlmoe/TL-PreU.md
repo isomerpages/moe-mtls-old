@@ -101,7 +101,7 @@ width:80%;
 </span></a><br/>
  <a href="#C3" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி &nbsp; விருப்பப்பாடத் &nbsp; திட்டம்
 </span></a><br/>
-<a href="#C4" style="font-size:20px"><span style="color:blue;">பால்மரக்காட்டினிலே &nbsp; - &nbsp; கற்றல்பயணம் 
+<a href="#C4" style="font-size:20px"><span style="color:blue;">பால்மரக்காட்டினிலே &nbsp; - &nbsp; கற்றல் &nbsp; பயணம்
 </span></a><br/>
  <a href="#C5" style="font-size:20px"><span style="color:blue;">இணையவழிக்கற்றல் 
 </span></a><br/>
