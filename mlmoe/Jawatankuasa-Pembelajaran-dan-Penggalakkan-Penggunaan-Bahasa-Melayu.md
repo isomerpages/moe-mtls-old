@@ -8,3 +8,4 @@ breadcrumb: 'Jawatankuasa Pembelajaran dan Penggalakkan Penggunaan Bahasa Melayu
 
 <a href="https://www.liinks.co/mllpc.secretariat" target="_blank"> MLLPC Pengembaraan Nabil dan Nabilah menggunakan Pantun dan Simpulan Bahasa </a>
 
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
