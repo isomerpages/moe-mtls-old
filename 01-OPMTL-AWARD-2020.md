@@ -132,14 +132,14 @@ PCF Sparkletots Preschool @ Bukit Gombak Blk 535 </center>
    <img src="images/Su-Zhewei.png" style="width:100%">
  <p> <center>Ms Su Zhewei<br/>
   <span style= "font-family:KaiTi; font-size:25px;">苏哲纬女士 </span>
-    <br/>My First Skool At Blk 269 Compassvale Link</center>
+    <br/>My First Skool at Blk 269 Compassvale Link</center>
   </p>
     </div>
   <div class="column">
 <img src="images/Yang-Hong.png" style="width:100%"> 
  <p> <center>Mdm Yang Hong<br/>
   <span style= "font-family:KaiTi; font-size:25px;">杨红女士</span> 
-    <br/> My First Skool At Chong Pang Blk 142</center> 
+    <br/> My First Skool at Chong Pang Blk 142</center> 
   </p>
     </div>
        </div>
