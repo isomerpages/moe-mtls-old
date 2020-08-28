@@ -27,7 +27,7 @@ max-width:100%;
     <br/>
      <h4>Ulasan Pengadil</h4>
     <p style="text-align:justify;">
-      Puan Almi guru cemerlang yang mempunyai minat yang mendalam terhadap bahasa Melayu.  Sebagai suri teladan, beliau menggunakan bahasa Melayu secara konsisten di dalam kelas.  Oleh yang demikian, kanak-kanak terdorong untuk bertutur dalam bahasa Melayu sepenuhnya.  Pendekatan ini sangat berkesan kerana kanak-kanak akan menjadi pengguna bahasa Melayu yang cekap.  Beliau juga bijak memanfaatkan saat boleh didik untuk menerapkan pembelajaran nilai dalam kanak-kanak. Beliau menyampaikan pengajaran dengan baik dan berkesan.  Kanak-kanak teruja dengan aktiviti main peran kerana terdedah kepada situasi autentik bahasa.  Beliau menunjukkan keperibadian yang profesional dan menghormati kanak-kanak.  
+      Puan Almi guru cemerlang yang mempunyai minat yang mendalam terhadap bahasa Melayu.  Sebagai suri teladan, beliau menggunakan bahasa Melayu secara konsisten di dalam kelas.  Oleh yang demikian, kanak-kanak terdorong untuk bertutur dalam bahasa Melayu sepenuhnya.  Pendekatan ini sangat berkesan kerana kanak-kanak akan menjadi pengguna bahasa Melayu yang cekap.  Beliau juga bijak memanfaatkan saat boleh didik untuk menerapkan pembelajaran nilai dalam kanak-kanak. Beliau menyampaikan pengajaran dengan baik dan berkesan.  Kanak-kanak teruja dengan aktiviti main peranan  kerana terdedah kepada situasi autentik bahasa.  Beliau menunjukkan keperibadian yang profesional dan menghormati kanak-kanak.  
 </p>
     <h4>Judges' Write-up</h4>
     <p style="text-align:justify;">
