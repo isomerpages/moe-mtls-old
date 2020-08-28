@@ -122,20 +122,20 @@ width:80%;
 </table>
 <img src="/images/TL-PreU-Curriculum.jpg">
 <br/>
-<a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/mother-tongue-languages/files/2020-h1-tamil-language-tamil-language-b-syllabus.pdf" target="_blank">2020 H1 Tamil Language & Tamil Language ‘B’ Syllabus
+<a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/mother-tongue-languages/files/2020-h1-tamil-language-tamil-language-b-syllabus.pdf" target="_blank"><span style="font-size:22px;">2020 H1 Tamil Language & Tamil Language ‘B’ Syllabus</span>
 </a>
 
 <h4><span style="font-size:30px;color:purple;">பல்கலைகழகப் புகுமுகநிலை உயர்தரம் 2 & 3 பாடத்திட்ட வெளியீடு
  </span></h4>
  <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OHI3rlQR2vU" class="iframe1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size=20px;">பல்கலைகழகப் புகுமுகநிலை உயர்தரம் 2 & 3 பாடத்திட்ட வெளியீடு
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OHI3rlQR2vU" class="iframe1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size=20px;">பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2 & உயர்தரம் 3 பாடத்திட்ட வெளியீடு   
 </span></center>
 
  <h4><span style="font-size:30px;color:purple;">நோக்கங்கள்</span></h4>
  <table style="width:100%">
   <tr>
  <td>
-     <p style="text-align:justify;">மாணவர்களைத் தமிழ்மொழியில் ஆற்றல் மிக்கவர்களாக உருவாக்குவது.
+     <p style="text-align:justify;">மாணவர்களைத் தமிழ்மொழியில் ஆற்றல் மிக்கவர்களாக உருவாக்குவது
 <br/><br/>
       தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வை வளர்ப்பது
 <br/><br/>
@@ -146,9 +146,11 @@ width:80%;
 </table>
 <p>
 <a href="/Gallery/Recommended-reading-of-H2TLL.pdf" target="_blank">Interesting facts about Poets & Writers</a><br/>
-<a href="/Gallery/H2TLL-Recommended-Text.pdf" target="_blank">A sneak preview of Recommended text for H2 TLL</a><br/>
-<a href="/Gallery/H2-&-H3TLL-Launch-Slides.pdf" target="_blank">H2H3TLL Launch 2020 slides</a><br/>
-<a href="/Gallery/H3TLL-Sharing -by-EJC-Student.pdf" target="_blank">Student’s sharing on H3TLL at Toastmaster Club</a>
+<a href="/Gallery/H2TLL-Recommended-Text.pdf" target="_blank">A sneak preview of Recommended Text for H2 TLL</a><br/>
+<a href="/Gallery/H2-&-H3TLL-Launch-Slides2.pdf" target="_blank">H2 & H3 TLL Launch 2020 slides</a><br/>
+ <br/>
+<h5 style="font-size:30px;color:purple;"> உயர்தரம் 3 தாய்மொழிப் பாடம்</h5>
+<a href="/Gallery/H3TLL-Sharing -by-EJC-Student.pdf" target="_blank">EJC Student’s Sharing at Tamil Toastmaster Club</a>
  </p><br/>
  <h4 id="C2"><span style="font-size:30px;color:purple;">இலக்கியம்</span></h4>
    <div class="atab">
@@ -167,18 +169,15 @@ width:80%;
 <img src="/images/TL-PreU-Strategies.jpg">
 <br/>
 
-<h4><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப் பாடத்திட்டம் (Tamil Language Elective Programme)
+<h4><span style="font-size:30px;color:purple;">தமிழ்மொழி &nbsp; விருப்பப்பாடத் &nbsp; திட்டம் <br/>(Tamil Language Elective Programme)
  </span></h4>
  <p style="text-align:justify;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. தகுதிவாய்ந்த மாணவர்களைத் தமிழ்மொழியில் ஆற்றல்மிக்கவர்களாகவும், தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வைப் பேணி வளர்க்கவும் இத்திட்டம் வகைசெய்யும். அதோடு, மாணவர்களை இருமொழியாற்றல் மிக்கவர்களாக உருவாக்குவதே இந்தத் திட்டத்தின் நோக்கமாகும்.
 </p>
-<table style="width:100%">
-  <tr>
-    <td class="btab" ><img src="/images/TL-PreU-rigth7.png"></td>
-    <td class="btab"><img src="/images/TL-PreU-right8.png"></td>
- </tr>
-</table>
- <br/>
- 
+<br/> 
+<h4><span style="font-size:30px;color:purple;">நடவடிக்கைகள்
+ </span></h4>
+ <img src="/images/TL-PreU-Signature-Activities.jpg">
+ <br/> 
  <h4 id="C3"><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 
 </span></h4>
   <div class="row">
@@ -212,13 +211,9 @@ width:80%;
    </div> 
    </div>
    <br/> 
- 
- <h4><span style="font-size:30px;color:purple;">நடவடிக்கைகள்
- </span></h4>
- <img src="/images/TL-PreU-Signature-Activities.jpg">
- <br/> 
- <a href="/Gallery/TLEP-JC.pdf " target="_blank">TLEP-JC Brochure</a>
+  <a href="/Gallery/TLEP-JC.pdf " target="_blank">TLEP-JC Brochure</a>
  <br/> <br/>
+ 
 <div class="row">
  <div class="column">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/z1DOuNAkQc8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px;">ASRJC Poetry Forum with Local Poet Pichanikaadu Ilango 
@@ -254,8 +249,7 @@ width:80%;
  <br/>
  <h4 id="C4"><span style="font-size:30px;color:purple;">பால்மரக்காட்டினிலே – கற்றல் பயணம்
  </span></h4>
- <p style="text-align:justify;">தமிழ்மொழி கற்றல் வளர்ச்சி குழுவின் ஆதரவில் தொடக்கக் கல்லூரி ஆசிரியர்கள் சென்ற ஆண்டு <br/><br/>
-நவம்பர் 10 -ஆம் தேதி சிரம்பான் ரப்பர்த் தோட்டத்திற்குக் கற்றல் பயணத்தை மேற்கொண்டனர். பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2 இலக்கியப்பாடத்திற்கான நாவல் பால்மரக்காட்டினிலே ஆகும். மலேசிய ரப்பர் தோட்டங்களில் பணிபுரியும் தமிழர்களின் வாழ்க்கையைப் பற்றிய கதை அது. நாவலில் நிகழ்ந்த சம்பவங்களையும் பால்வெட்டு ஊழியர்களின் வாழ்க்கைமுறையையும் நேரில் காணும்வண்ணம் இந்தக் கற்றல் பயணம் ஏற்பாடு செய்யப்பெற்றது. ரப்பர் மரங்கள், பால்வெட்டும் செயல்முறை, பால்வெட்டு ஊழியர்களின் அணுகுமுறை, பால் சேகரிக்கப்படும் இடங்கள் முதலியவற்றை ஆசிரியர்கள் நேரடியாக அறிந்துகொள்ளும்வண்ணம் பயன்மிக்க கற்றல் பயணமாக அமைந்தது.
+ <p style="text-align:justify;">தமிழ்மொழி கற்றல் வளர்ச்சி குழுவின் ஆதரவில் தொடக்கக் கல்லூரி ஆசிரியர்கள் சென்ற ஆண்டு நவம்பர் 10 -ஆம் தேதி சிரம்பான் ரப்பர்த் தோட்டத்திற்குக் கற்றல் பயணத்தை மேற்கொண்டனர். பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2 இலக்கியப்பாடத்திற்கான நாவல் பால்மரக்காட்டினிலே ஆகும். மலேசிய ரப்பர் தோட்டங்களில் பணிபுரியும் தமிழர்களின் வாழ்க்கையைப் பற்றிய கதை அது. நாவலில் நிகழ்ந்த சம்பவங்களையும் பால்வெட்டு ஊழியர்களின் வாழ்க்கைமுறையையும் நேரில் காணும்வண்ணம் இந்தக் கற்றல் பயணம் ஏற்பாடு செய்யப்பெற்றது. ரப்பர் மரங்கள், பால்வெட்டும் செயல்முறை, பால்வெட்டு ஊழியர்களின் அணுகுமுறை, பால் சேகரிக்கப்படும் இடங்கள் முதலியவற்றை ஆசிரியர்கள் நேரடியாக அறிந்துகொள்ளும்வண்ணம் பயன்மிக்க கற்றல் பயணமாக அமைந்தது.
 </p>
 <h4><span style="font-size:30px;color:purple;">நாவல் - பால்மரக்காட்டினிலே  
 </span></h4>
@@ -277,6 +271,7 @@ width:80%;
  </span></h4>
   <img src="/images/TL-Sec_onlineLearning.jpg">
 <br/>
+<strong>மின்னூல்:  </strong>
 <a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/19f208ee-e005-48bf-8d65-6dd6bdbb3722?fromCcpm=false" target="_blank">நானும் ஒரு படைப்பாளி </a><br/>
 <a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/88e3a47c-e7d0-4210-a2fe-567824b5863b?fromCcpm=false" target="_blank">I-Book (திறந்த ஜன்னல்)</a>
 
