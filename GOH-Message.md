@@ -21,7 +21,7 @@ width:80% ;
 
   gtag('config', 'AW-726049306');
 </script>
-<img src="/images/Coming-soon.jpg">
+<img src="/images/GOH-Message-Banner.jpg">
 <h4 style="display:none;"><strong> GOH Address (Chinese) </strong></h4>
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>

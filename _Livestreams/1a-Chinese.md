@@ -4,7 +4,6 @@ permalink: /Livestreams/Chinese/
 breadcrumb: '直播视频'
 collection_name: 直播视频
 ---
-###  直播视频
 <html>
 <body>
 <style>
@@ -14,17 +13,17 @@ width:80% ;
 }
   </style>
    <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
-<h5>
-<span style="font-family:KaiTi;font-size:25px;">早上九点半至十点<br/>
-欢迎词<br/>
+<h4 style="font-family:KaiTi;">早上9点30分至10点<br/><br/>
+   <strong>欢迎词</strong><br/>
 教育部长 黄循财先生<br/>
-推广华文学习委员会主席 孙雪玲女士</span></h5>
-  <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
-    <br/>
-  <h5>10.00am - 11.00am <br/>
-  Creating an Immersive Environment for the Learning of Our Mother Tongue Languages <br/>
-     (Live Panel Discussion)</h5>
-   <center><iframe width="560" height="315" src="https://player.vimeo.com/video/451523980" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<br/>
-<span style="font-size:18px;">*Head on to the Sharing Sessions Page to rewatch any of our Live Sessions!</span>
+推广华文学习委员会主席 孙雪玲女士</h4>
+   <img src="/images/GOH-Message-Banner.jpg" style="display:block;">
+  
+  <h5>10.00am - 11.00am<br/><br/>
+Live Panel Discussion<br/>
+Creating an Immersive Environment for the Learning of Our Mother Tongue Languages</h5>
+   <div class="video-container">
+<iframe src="https://player.vimeo.com/video/452213588?autoplay=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div> *Video is best viewed in 1080p.
+<br/><br/><br/>
+<span style="font-size:18px;">*Head on to the Sharing Sessions page to rewatch any of our Livestream sessions!</span>
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>

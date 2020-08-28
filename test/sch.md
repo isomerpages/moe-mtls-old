@@ -84,7 +84,9 @@ width:100%;
 
 <div class="row">
  <div class="column">
- <iframe src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+ <iframe src="https://www.youtube.com/embed/QJk6HzQjyJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   *Video is best viewed in 1080p.<br/>
+   <br/>
  <span style="color:#d14165;font-size:15px;font-family:Calibri (Body)"> 2015小学华文教材介绍 1</span>
 </div>
   <div class="column">
@@ -107,11 +109,11 @@ width:100%;
 <hr>
 <div class="row">
  <div class="column">
- <iframe src="https://www.youtube.com/embed/Zz3N7AI6Y3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+ <iframe src="https://www.youtube.com/embed/Zz3N7AI6Y3o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>*Video is best viewed in 1080p.<br/>
   <span style="color:#d14165;font-size:15px;font-family:Calibri (Body)"> 小学华文数码资源介绍 - “学乐”网 </span>
 </div>
   <div class="column">
-  <iframe src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="color:#d14165;font-size:15px">小学华文数码资源介绍新加坡学生学习平台</span>
+  <iframe src="https://www.youtube.com/embed/ZGsMFS7xZC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>*Video is best viewed in 1080p.<br/><span style="color:#d14165;font-size:15px">小学华文数码资源介绍新加坡学生学习平台</span>
 
     </div>
       </div>
