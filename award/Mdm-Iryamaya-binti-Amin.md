@@ -30,6 +30,6 @@ max-width:100%;
 </p>
     <h4>Judges' Write-up</h4>
     <p style="text-align:justify;">
-    Madam Iryamaya is an experienced teacher who excels in her craft, and who always delivers high-quality and enjoyable lessons.  Children are actively engaged in carefully planned activities that ensure the children can complete their tasks with minimal supervision whilst learning from one another.  She also creates a safe learning environment in which the children feel they may approach her without hesitation when they require her attention or assistance. Madam Iryamaya is a committed and dedicated teacher who creatively integrates values and culture intoher lessons and who communicates and interacts with her children in ways that continually motivate them to learn. 
+    Madam Iryamaya is an experienced teacher who excels in her crafts and always delivers high-quality and enjoyable lessons.  Children are actively engaged in carefully planned activities that ensure the children can complete their tasks with minimal supervision whilst learning from one another.  She also creates a safe learning environment in which the children feel they may approach her without hesitation when they require her attention or assistance. Madam Iryamaya is a committed and dedicated teacher who creatively integrates values and culture into her lessons and who communicates and interacts with her children in ways that continually motivate them to learn. 
 </p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
