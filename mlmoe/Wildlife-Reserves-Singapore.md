@@ -7,6 +7,7 @@ breadcrumb: 'Wildlife Reserves Singapore '
  <img src="/images/WRS-ML.jpg"> <br/>
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/YdN86Nhz2MY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+*Video is best viewed in 1080p.<br/>
   <a href="/mlmoe/WRS Publication PDF_Revised.pdf">Bahan Terbitan WRS</a><br/>
 <a href="https://www.wrs.com.sg/en/singapore-zoo/learning-with-us/mother-tongue-language-resources.html?cmp=sg|sz|mtl|edu|visit_website|e_poster||mothertonguelanguage|mtl&utm_campaign=edu&utm_medium=visit_website&utm_source=e_poster&utm_content=mtl" target="_blank"> Untuk mendapatkan sumber pendidikan yang lanjut, sila lungsur ke laman web kami </a> 
 
