@@ -47,7 +47,7 @@ Extending the activity, Madam Zhang developed children’s creativity by having 
 <br/><br/>
 Madam Zhang pays daily attention to each child’s needs and interests as a basis for creating a conducive environment for learning Chinese. She engages her students through games, sources interesting books from the National Libraries to read to her students and encourages them to read as much as possible by themselves to build their vocabulary. 
 <br/><br/>
-Madam Zhang continues to improve her teaching so to better instil a love for learning Chinese in her children. Her children will grow up with fond memories of her passion for teaching and their early childhood education in the Chinese Language. 
+Madam Zhang continues to improve her teaching so as to instil a love for learning Chinese in her children. Her children will grow up with fond memories of her passion for teaching and their early childhood education in the Chinese Language. 
 
 </p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
