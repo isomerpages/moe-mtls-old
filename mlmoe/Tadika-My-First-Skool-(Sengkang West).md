@@ -1,7 +1,7 @@
 ---
-title: 'Tadika My First Skool (Sengkang West) '
+title: 'Tadika My First Skool (Sengkang West Way) '
 permalink: /mlmoe/Tadika-My-First-Skool-(Sengkang West)/
-breadcrumb: 'Tadika My First Skool (Sengkang West)'
+breadcrumb: 'Tadika My First Skool (Sengkang West Way)'
 ---
 <a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/" style="float:right;">Back</a>
 <img src="/images/ML-MYFIRSTSKOOL-Poster.jpg"> <br/>
