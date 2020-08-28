@@ -37,7 +37,7 @@ max-width:100%;
 <br/><br/>
       曾老师特别重视每日的课后反思，积极进取，努力提高自己的专业素养和教学能力。</p>
 <br/>
-    <h4>Judges' Comments:</h4>
+    <h4>Judges' Write-up</h4>
     <p style="text-align:justify">
     Madam Zeng’s creative approach to teaching included encouraging her students to give a presentation to the class in Chinese on the robots they created in groups in previous Chinese Language lessons.
 <br/><br/>
