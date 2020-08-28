@@ -100,7 +100,9 @@ width:80%;
 在教育部幼儿园，幼儿将通过HI-Light和繁星语文两个旗舰课程体验丰富多彩的学习旅程。<br/><br/></p>
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi">教育部幼儿园里的一天 </span>
-</center>
+ </center>
+  <br/>
+     *Video is best viewed in 1080p.<br/>
 <h4 id= "C1"><span style="font-size:35px;font-family:KaiTi ;">繁星语文课程 </span></h4>
 <img src="/images/CL-PreSch-starlight2.jpg">
 <br/>
@@ -128,6 +130,8 @@ width:80%;
    <img src="/images/CL-Presch-Textbook.jpg">   
  <center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/lnlNM2YJcOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br/><span style="font-size:18px;font-family:KaiTi">大图书共享阅读视频</span></center>
+  <br/>
+     *Video is best viewed in 1080p.<br/>
   <br/><br/>
 <h4 id="C3"><img src="/images/CL-PreSch-Discovery2.jpg"> <br/>
   <span style="font-size:25px;font-family:KaiTi">欲了解“奥秘探索周计划”的活动点子设计，请阅读相关活动设计:<br/> </span>
@@ -142,6 +146,8 @@ width:80%;
        <center>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/mhJoflfcZWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br/><span style="font-size:18px;font-family:KaiTi">金字塔书制作视频
 </span></center><br/>
+   <br/>
+     *Video is best viewed in 1080p.<br/>
 <h4 style="font-family:KaiTi;font-size:25px;">点子二：美味的古拉姆（Kolam）</h4>
   <p style="font-size:25px;font-family:KaiTi">
          配合第三学段课程主题 —— 我和谁共享这个世界？<br/><br/>
