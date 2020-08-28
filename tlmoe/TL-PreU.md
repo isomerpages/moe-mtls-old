@@ -178,17 +178,17 @@ width:80%;
  <br/> 
  <h4 id="C3"><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 
 </span></h4>
+<br/>
   <div class="row">
  <div class="column">
-   <p style="text-align:justify;">வழங்கப்படும் உயர்நிலைப்பள்ளிகள்
-
+  <p style="text-align:justify;"><strong>வழங்கப்படும் உயர்நிலைப்பள்ளிகள்</strong>
 <br/>
    <ul>
     <li>காமன்வெல்த் உயர்நிலைப்பள்ளி
 </li>
      <li>ரிவர்சைடு உயர்நிலைப்பள்ளி
 </li>
-     <li>யூசூன் டவுன் உயர்நிலைப்பள்ளி
+     <li>யீசூன் டவுன் உயர்நிலைப் பள்ளிி
 </li>
    </ul>
   <a href="/Gallery/TL-Sec-tlep-sec-infosheet-students-2019.pdf " target="_blank">TLEP Infosheet - Secondary</a></p>
@@ -196,13 +196,13 @@ width:80%;
 
  <div class="column">
 
-  <p style="text-align:justify;">வழங்கப்படும் தொடக்கக்கல்லூரிகள் 
+  <p style="text-align:justify;"><strong>வழங்கப்படும் தொடக்கக்கல்லூரிகள் </strong>
 <br/>
   <ul>
   <li>ஆண்டர்சன் சிராங்கூன்<br/>
    தொடக்கக்கல்லூரி
 </li>
-    <li>தேசிய தொடக்கக்கல்லூரி
+    <li>தேசியத் தொடக்கக் கல்லூரி
 </li>
  </ul>
 <a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf " target="_blank">TLEP Infosheet - JC</a></p> 
