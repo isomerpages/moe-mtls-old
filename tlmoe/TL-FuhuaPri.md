@@ -11,5 +11,7 @@ breadcrumb: 'பூஹுவா தொடக்கப்பள்ளி'
 <div class="video-container"><iframe src="https://www.youtube.com/embed/fnfv7bLU078" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <span style="font-size:18px;">என் உலகம்</span>
 <div class="video-container"><iframe src="https://www.youtube.com/embed/63586lTmQhY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<span style="font-size:18px;">ஞாபகம் வருகிறதே!</span>
+<span style="font-size:18px;">ஞாபகம் வருகிறதே!</span><br/>
+
+  <a href="/tlmoe/Fuhua Attachment.pdf">Malay Cultural and ICT Trail</a>
 
