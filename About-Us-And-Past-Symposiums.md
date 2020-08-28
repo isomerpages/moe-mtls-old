@@ -32,9 +32,11 @@ width:80% ;
  <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wvuiXKf_bJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </center>
- <center>
+*Video is best viewed in 1080p.<br/>
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RXaW1jeuEj4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </center>
+*Video is best viewed in 1080p.<br/>
 <img src="/images/New-Supporter- Banner.PNG">
 </div>
 
