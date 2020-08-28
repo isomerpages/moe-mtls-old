@@ -36,7 +36,7 @@ max-width:100%;
     在日常教学中，张老师十分关注幼儿的需求，以便更好地了解幼儿的兴趣。她创设良好的学习环境，通过各种游戏，让幼儿乐学华语。她每个月还会去图书馆借绘本读给幼儿听，鼓励幼儿阅读华文书籍，丰富华语词汇。<br/><br/>
     张老师不断寻找并尝试激发幼儿学习华文的方法，相信她对教学的热忱和用心，会让许多幼儿对自己的华文学习拥有更多美好的回忆。
   </p>
-   <h4>Judges' Comments:</h4><p>
+   <h4>Judges' Write-up</h4><p>
    Madam Zhang’s lesson impressed the panel greatly.
 <br/><br/>
 In order to introduce the Chinese tradition of the Dragon Boat Festival, Madam Zhang used various teaching aids such as “story stage” to engage students whilst integrating the teaching of sentence structures into the storyline. As children immersed themselves in role play, they also practised sentence structures and developed their speaking skills.
