@@ -91,7 +91,7 @@ width:80% ;
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-b/moe-curriculum/" style="float:right;">Back</a><br/>
-<img src="/images/ML-PreSch-Header.jpg"><br/>
+<img src="/images/ML-Pre-Sch-Header.jpg"><br/>
 <a href="#C1" style="font-size:20px"><span style="color:blue;">Program Literasi Bintang Kecil
 </span></a><br/>
  <a href="#C2" style="font-size:20px"><span style="color:blue;">Pendekatan Membaca Bersama
