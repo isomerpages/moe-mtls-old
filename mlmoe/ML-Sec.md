@@ -109,8 +109,7 @@ width:100%;
  <br/><span style="font-size:20px;" >Penerangan Kurikulum Sekolah Menengah 2021
  </span>
      </center> 
-  <br/>
-     *Video is best viewed in 1080p.<br/>
+ <br/>
 </p>
 <h4  style="font-size:25px;color:green;" >Program Elektif Bahasa Melayu Sekolah Menengah
 </h4>
@@ -185,7 +184,6 @@ width:100%;
     <center> 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZANW_F4at9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </center> 
   <br/>
-     *Video is best viewed in 1080p.<br/>
 </p>
  Contoh video-video pengajaran.
  <br/> <br/>
@@ -193,12 +191,10 @@ width:100%;
  <div class="column">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JNKevnURy6c" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    <br/>
-     *Video is best viewed in 1080p.<br/>
 </div>
   <div class="column">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/WuGvP2z-b_s" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    <br/>
-     *Video is best viewed in 1080p.<br/>
  </div>
  </div>
  <br/><br/>
