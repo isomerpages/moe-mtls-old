@@ -111,18 +111,18 @@ width:80%;
 </p>
 <center><span style="font-size:18px;">தமிழ்மொழி கற்றல் கற்பித்தல் பாடத்திட்டங்கள் (1958 – 2011)</span>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/6sBb03SK3wI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center><br/>
- <h4 id="C1"><span style="font-size:30px;color:purple;">2021-ஆம் ஆண்டுத் தமிழப் பாடக்கலைத்திட்டம்
+ <h4 id="C1"><span style="font-size:30px;color:purple;">2021-ஆம் ஆண்டுத் தமிழ்ப் பாடக்கலைத்திட்டம்
  </span></h4>
 <table>
   <tr>
     <td><p style="text-align:justify;">மேற்குறிப்பிடப்பட்ட முக்கிய மாற்றங்களை வழியொற்றி, 2021-ஆம் ஆண்டுத் தமிழ்ப் பாடக்கலைத்திட்டம் மேலும் சில முக்கிய மேம்பாடுகளைக்கொண்டு திருத்தியமைக்கப்பட்டுள்ளது. குறிப்பாக, <strong>கருத்துப்பரிமாற்றம், பண்பாடு, தொடர்பிணைப்பு </strong>ஆகிய மூன்று முக்கியக் கூறுகளில் தனிக்கவனம் செலுத்தப்பட்டுள்ளன.  இவற்றை அடிப்படையாகக்கொண்டு தமிழ்ப் பாடக்கலைத்திட்டப் பணிச்சட்டம் உருவாக்கப்பட்டுள்ளது. </p></td>
    <td>
 <img src="/images/TL-Sec-Curriculum2.png"><br/>
-    <span style="color:purple;font-size:22px;"><strong>பாடக்கலைத்திட்டப் பணிச்சட்டம்</strong></span><br/>
+    <center><span style="color:purple;font-size:22px;"><strong>பாடக்கலைத்திட்டப் பணிச்சட்டம்</strong></span></center><br/>
      <br/> <a href="/Gallery/2021-tamil-curriculum.pdf" target="_blank">2021 Tamil Curriculum</a></td>
  </tr> 
  </table>
- <center><span style="font-size:18px;">உயர்நிலைத் &nbsp; தமிழ்மொழிப் &nbsp; பாட்த்திட்ட &nbsp; வெளியீடு:</span><br/>
+ <center><span style="font-size:18px;">உயர்நிலைத் &nbsp; தமிழ்மொழிப் &nbsp; பாடத்திட்ட &nbsp; வெளியீடு:</span><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rGFqD2sxPfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br/>
 <center><span style="font-size:18px; text-align:justify;">வழிநடத்தும் குழு உறுப்பினர்களின் பகிர்வும்  முன்னோட்டச் சோதனையில் ஈடுபட்ட பள்ளி ஆசிரியர்களின் பகிர்வும்:</span><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q-YiRGO8S78" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -159,7 +159,7 @@ width:80%;
 </li>
     <li style="text-align:justify;">புத்தாய்வுச் சிந்தனையுடைய படைப்பாளிகளை வளர்த்தல்
 </li>
-    <li style="text-align:justify;">நூண்ணாய்வுச் சிந்தனையுடையவர்களை உருவாக்குதல்
+    <li style="text-align:justify;">நுண்ணாய்வுச் சிந்தனையுடையவர்களை உருவாக்குதல்
 </li>
     <li style="text-align:justify;">உலகளாவிய பார்வையுடையவர்களை உருவாக்குதல்
 </li>
@@ -221,7 +221,7 @@ width:80%;
  <span style="font-size:25px;"><strong>ரிவர்சைடு உயர்நிலைப்பள்ளி</strong></span>
 <center><span style="font-size:18px; text-align:justify;">அன்பழகன் நிவேதிதா _உயர்நிலை 3 </span><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VbDOJKBV8-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br/><br/>
-<span style="font-size:25px;"><strong>யூசூன் டவுன் உயர்நிலைப்பள்ளி</strong></span>
+<span style="font-size:25px;"><strong>யீசூன் டவுன் உயர்நிலைப்பள்ளி</strong></span>
 <center><span style="font-size:18px; text-align:justify;">ஹீரன்_உயர்நிலை 3</span><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bcwSzzG_gMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br/><br/>
 
