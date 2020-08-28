@@ -114,7 +114,7 @@ Soalan-soalan rangsangan (menggunakan Roda Penaakulan Paul) disertakan dalam Unj
       <div class="tab-content">
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mengasah Kemahiran Bahasa melalui Aplikasi Clips</h4>
         <p style="margin:10px;">
-          Di Sekolah Sains dan Teknologi, para pelajar terlibat secara aktif dalam pembelajaran dengan penggunaan teknologi. Penggunaan aplikasi iOS Clips memperkaya pengalaman pembelajaran mereka dan menjadikan aktiviti harian sebagai peluang pembelajaran Bahasa Ibunda. Clips membolehkan para pelajar untuk menghasilkan projek-projek yang menarik dan autentik untuk mengasah kemahiran dan penguasaan bahasa. Pelajar juga dapat memanfaatkan fungsi  Clips untuk menghasilkan pelbagai  kandungan digital bagi pembelajaran. Pada masa yang sama, mereka mampu meningkatkan keyakinan diri dan daya kreatif melalui tugasan-tugasan yang bermakna dan bersifat peribadi.
+          Di Sekolah Sains dan Teknologi, para pelajar terlibat secara aktif dalam pembelajaran dengan penggunaan teknologi. Penggunaan aplikasi iOS Clips memperkaya pengalaman pembelajaran mereka dan menjadikan aktiviti harian sebagai peluang pembelajaran bahasa ibunda. Clips membolehkan para pelajar untuk menghasilkan projek-projek yang menarik dan autentik untuk mengasah kemahiran dan penguasaan bahasa. Pelajar juga dapat memanfaatkan fungsi  Clips untuk menghasilkan pelbagai  kandungan digital bagi pembelajaran. Pada masa yang sama, mereka mampu meningkatkan keyakinan diri dan daya kreatif melalui tugasan-tugasan yang bermakna dan bersifat peribadi.
         </p><br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Sharpening Language Skills through Clips App</h4>
         <p style="margin:10px;">
