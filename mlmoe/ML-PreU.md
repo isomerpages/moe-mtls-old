@@ -30,10 +30,16 @@ width:80% ;
 <a href="/Gallery/Annex A -Sukatan-Pelajaran-H1.pdf" target="_blank">Sukatan Pelajaran H1</a><br/>
 <a href="/Gallery/Annex B - Sukatan-Pelajaran-H2-&-H3.pdf" target="_blank">Sukatan Pelajaran H2 & H3</a><br/>
 <p id="C1" style="font-size:30px;"><strong>Sokongan Video </strong></p>
- <p style="text-align:justify;">
+  <p style="text-align:justify;">
+ Kami sediakan pautan video yang boleh didapati di ruang SLS untuk kegunaan pelajar:
+</p>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/qOTg6ZTNYWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">Hubungan Kekeluargaan</span>
+</center>
+ <center><iframe width="560" height="315" src="https://www.youtube.com/embed/iB2IAjZIYH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">Sudut Pandangan </span>
+</center>
+<p style="text-align:justify;">
  Kami sediakan pautan video yang memaparkan strategi untuk ibu bapa supaya dapat memberi sokongan pembelajaran kepada anak-anak mereka.
 </p>
-<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3CQzWKQaGmc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">Video Membantu Pembelajaran Bahasa
 </span>
  </center>
