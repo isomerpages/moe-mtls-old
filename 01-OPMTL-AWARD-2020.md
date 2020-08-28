@@ -1,10 +1,10 @@
 ---
-title: 'Outstanding Preschools Mother Tongue Language  Teacher Award'
+title: 'Outstanding Pre-school Mother Tongue Language  Teacher Award'
 permalink: /OPMTL-AWARD-2020/
 breadcrumb: 'OPMTL Teacher Award'
 collection_name: OPMTL AWARD 2020
 ---
-### Outstanding Preschools Mother Tongue Language  Teacher Award
+### Outstanding Pre-school Mother Tongue Language  Teacher Award
 
 <html>
 <head>
