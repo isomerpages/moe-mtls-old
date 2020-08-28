@@ -153,13 +153,10 @@ width:80%;
 <a href="/tlmoe/H3 TLL - EJC Student's Sharing.pdf" target="_blank">EJC Student’s Sharing at Tamil Toastmaster Club</a>
  </p><br/>
  <h4 id="C2"><span style="font-size:30px;color:purple;">இலக்கியம்</span></h4>
-   <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-   <label for="tab-2" style="font-size:22px" class="lbTM">இலக்கிய வகுப்பு ஆர்வமூட்டக்கூடியாக இருக்குமா?
-</label>
-     <div class="tab-content">   
+   <p>இலக்கிய வகுப்பு ஆர்வமூட்டக்கூடியாக இருக்குமா?</p>
+ 
    <img src="/images/TL-PreU-Literature.jpg">
- </div></div>
+<br/>
  
 <img src="/images/TL-PreU-Comic2.jpg">
 <br/>
@@ -238,15 +235,17 @@ width:80%;
  <br/>
  <div class="row">
  <div class="column">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/eQXI0DqaCBs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:20px;">Online Poetry Discourse with Poet PachaiBalan
-</span>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GfLuSyFwYF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
   <div class="column">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/YtnQl3v5-Ys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px;">Student Vaishnavi’ sharing on Short Story
 </span>
  </div></div>
  <br/>
+ <center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/eQXI0DqaCBs" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/><span style="font-size:20px;">Online Poetry Discourse with Poet PachaiBalan
+</span></center>
  <h4 id="C4"><span style="font-size:30px;color:purple;">பால்மரக்காட்டினிலே – கற்றல் பயணம்
  </span></h4>
  <p style="text-align:justify;">தமிழ்மொழி கற்றல் வளர்ச்சி குழுவின் ஆதரவில் தொடக்கக் கல்லூரி ஆசிரியர்கள் சென்ற ஆண்டு நவம்பர் 10 -ஆம் தேதி சிரம்பான் ரப்பர்த் தோட்டத்திற்குக் கற்றல் பயணத்தை மேற்கொண்டனர். பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2 இலக்கியப்பாடத்திற்கான நாவல் பால்மரக்காட்டினிலே ஆகும். மலேசிய ரப்பர் தோட்டங்களில் பணிபுரியும் தமிழர்களின் வாழ்க்கையைப் பற்றிய கதை அது. நாவலில் நிகழ்ந்த சம்பவங்களையும் பால்வெட்டு ஊழியர்களின் வாழ்க்கைமுறையையும் நேரில் காணும்வண்ணம் இந்தக் கற்றல் பயணம் ஏற்பாடு செய்யப்பெற்றது. ரப்பர் மரங்கள், பால்வெட்டும் செயல்முறை, பால்வெட்டு ஊழியர்களின் அணுகுமுறை, பால் சேகரிக்கப்படும் இடங்கள் முதலியவற்றை ஆசிரியர்கள் நேரடியாக அறிந்துகொள்ளும்வண்ணம் பயன்மிக்க கற்றல் பயணமாக அமைந்தது.
