@@ -151,7 +151,7 @@ width:80%;
  <br/>
 <h5 style="color:purple;">உயர்தரம் 3  மாணவர் பகிர்வு</h5>
 <a href="/tlmoe/H3 TLL - EJC Student's Sharing.pdf" target="_blank">EJC Student’s Sharing at Tamil Toastmaster Club</a>
- </p><br/>
+ </p>
  <h4 id="C2"><span style="font-size:30px;color:purple;">இலக்கியம்</span></h4>
    <p>இலக்கிய வகுப்பு ஆர்வமூட்டக்கூடியாக இருக்குமா?</p>
  
