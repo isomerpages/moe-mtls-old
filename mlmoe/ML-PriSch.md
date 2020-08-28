@@ -302,7 +302,7 @@ width:100%;
   </tr>
   <tr>
     <td>Anak: </td>
-  <td>Pada hari Ahad, Ayah pergi ke kedai bersama Ibu  <span style="color:red">untuk  membeli tepung, susu dan gula </span></td>
+  <td>Pada hari Ahad, Ayah pergi ke kedai bersama Ibu  <span style="color:red">untuk  membeli tepung, susu dan gula. </span></td>
    </tr>
 </table>
 </p>
