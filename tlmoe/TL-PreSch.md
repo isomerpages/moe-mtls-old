@@ -117,6 +117,8 @@ margin-bottom:10px;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/><span style="font-size:18px;">A Day At An MOE Kindergarten
 </span></center>
+<br/>
+     *Video is best viewed in 1080p.<br/>
 <h4 id="C2"><span style="font-size:30px;color:purple;">தாய்மொழிகளுக்கான &nbsp; இளம் &nbsp; மாணவர்களைப் &nbsp; பேணி &nbsp; வளர்க்கும் &nbsp; பணிச்சட்டம் </span>
 </h4>
 <p style="text-align:justify;">தாய்மொழி கற்றல் கற்பித்தலில் தெளிவான புரிந்துணர்வை ஏற்படுத்த இளம் மாணவர்களைப் பேணி வளர்க்கும் தாய்மொழிகளுக்கான பணிச்சட்டம் உருவாக்கப்பட்டுள்ளது. 
@@ -156,6 +158,8 @@ margin-bottom:10px;
   <iframe width="560" height="315" src="https://www.youtube.com/embed/RfP2dGBTlQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br/><span style="font-size:18px;">Shared Book Approach
 </span></center>
+<br/>
+     *Video is best viewed in 1080p.<br/>
 <h4 id="C4"><span style="font-size:30px;color:purple;">அதிசய &nbsp; வாரத் &nbsp; திட்டப்பணி (WoW Project) &nbsp; - &nbsp; உடனிணைந்த &nbsp; சுயக்கற்றலில் &nbsp;  ஈடுபடுதல் </span>
 </h4>
 <img src="/images/TL-PreSch-MiracleWeek.jpg">
