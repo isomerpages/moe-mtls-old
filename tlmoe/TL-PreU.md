@@ -103,7 +103,7 @@ width:80%;
 </span></a><br/>
 <a href="#C4" style="font-size:20px"><span style="color:blue;">பால்மரக்காட்டினிலே &nbsp; - &nbsp; கற்றல் &nbsp; பயணம்
 </span></a><br/>
- <a href="#C5" style="font-size:20px"><span style="color:blue;">இணையவழிக்கற்றல் 
+ <a href="#C5" style="font-size:20px"><span style="color:blue;">இணையவழிக்   கற்றல் 
 </span></a><br/>
 <br/>
 <h4 id="C1"><span style="font-size:30px;color:purple;">அறிமுகம்
@@ -283,7 +283,7 @@ width:80%;
 </center>
 <br/>
      *Video is best viewed in 1080p.<br/>
-<h4 id="C5"><span style="font-size:30px;color:purple;">இணையவழிக்கற்றல் 
+<h4 id="C5"><span style="font-size:30px;color:purple;">இணையவழிக்   கற்றல்
  </span></h4>
   <img src="/images/TL-PreU_OnlineLearning.jpg">
 <br/>
