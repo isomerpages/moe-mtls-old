@@ -103,6 +103,8 @@ width:80%;
 </span></a><br/>
 <a href="#C4" style="font-size:20px"><span style="color:blue;">பால்மரக்காட்டினிலே -கற்றல்பயணம் 
 </span></a><br/>
+ <a href="#C5" style="font-size:20px"><span style="color:blue;">இணையவழிக்கற்றல்
+</span></a><br/>
 <br/>
 <h4 id="C1"><span style="font-size:30px;color:purple;">அறிமுகம்
  </span></h4>
@@ -125,6 +127,10 @@ width:80%;
 
 <h4><span style="font-size:30px;color:purple;">பல்கலைகழகப் புகுமுகநிலை உயர்தரம் 2 & 3 பாடத்திட்ட வெளியீடு
  </span></h4>
+ <center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OHI3rlQR2vU" class="iframe1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size=20px;">பல்கலைகழகப் புகுமுகநிலை உயர்தரம் 2 & 3 பாடத்திட்ட வெளியீடு
+</span></center>
+<br/><br/>
  <h4><span style="font-size:30px;color:purple;">நோக்கங்கள்</span></h4>
  <table style="width:100%">
   <tr>
@@ -152,11 +158,7 @@ width:80%;
      <div class="tab-content">   
    <img src="/images/TL-PreU-Literature.jpg">
  </div></div>
- <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OHI3rlQR2vU" class="iframe1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size=20px;">பல்கலைகழகப் புகுமுகநிலை உயர்தரம் 2 & 3 பாடத்திட்ட வெளியீடு
-</span></center>
-<br/><br/>
-
+ 
 <img src="/images/TL-PreU-Comic2.jpg">
 <br/>
 
@@ -264,7 +266,7 @@ width:80%;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Db0MlO7f9Ow" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px;">An Educational Visit to Seremban Rubber Estate 
 </span>
 </center>
-<h4><span style="font-size:30px;color:purple;">இணையவழிக்கற்றல் 
+<h4 id="C5"><span style="font-size:30px;color:purple;">இணையவழிக்கற்றல் 
  </span></h4>
   <img src="/images/TL-Sec_onlineLearning.jpg">
 <br/>
