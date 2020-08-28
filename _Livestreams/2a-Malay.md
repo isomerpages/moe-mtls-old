@@ -1,8 +1,8 @@
 ---
-title: 'Siaran Langsung'
+title: 'Strim Langsung'
 permalink: /Livestreams/Malay/
-breadcrumb: 'Siaran Langsung'
-collection_name: Siaran Langsung
+breadcrumb: 'Strim Langsung'
+collection_name: Strim Langsung
 ---
 <html>
 <body>
