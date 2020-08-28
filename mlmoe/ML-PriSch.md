@@ -140,15 +140,13 @@ width:100%;
  <div class="column">
    <iframe width="560" height="315" src="https://www.youtube.com/embed/v4ByRIcys3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">Selamat Pagi
 </span>
-   <br/>
-     *Video is best viewed in 1080p.<br/>
+  <br/>
 
 </div>
   <div class="column">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Tc4AkLX35wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">Si Lebai Malang
 </span>
-  <br/>
-     *Video is best viewed in 1080p.<br/>
+ <br/>
  </div>
       </div><br/>
       <br/>
