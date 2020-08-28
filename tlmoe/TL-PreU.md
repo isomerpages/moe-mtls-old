@@ -270,7 +270,7 @@ width:80%;
  </span></h4>
   <img src="/images/TL-Sec_onlineLearning.jpg">
 <br/>
-<a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/19f208ee-e005-48bf-8d65-6dd6bdbb3722?fromCcpm=false" target="_blank">Naanum Oru Padaipaali: E-Book (2017/2018)</a><br/>
+<a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/19f208ee-e005-48bf-8d65-6dd6bdbb3722?fromCcpm=false" target="_blank">நானும் ஒரு படைப்பாளி </a><br/>
 <a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/88e3a47c-e7d0-4210-a2fe-567824b5863b?fromCcpm=false" target="_blank">I-Book (திறந்த ஜன்னல்)</a>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
