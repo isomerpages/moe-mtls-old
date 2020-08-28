@@ -125,7 +125,7 @@ width:80%;
 <a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/mother-tongue-languages/files/2020-h1-tamil-language-tamil-language-b-syllabus.pdf" target="_blank"><span style="font-size:22px;">2020 H1 Tamil Language & Tamil Language ‘B’ Syllabus</span>
 </a>
 
-<h4><span style="font-size:30px;color:purple;">பல்கலைகழகப் புகுமுகநிலை உயர்தரம் 2 & 3 பாடத்திட்ட வெளியீடு
+<h4><span style="font-size:30px;color:purple;">பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2 & உயர்தரம் 3 பாடத்திட்ட வெளியீட
  </span></h4>
  <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OHI3rlQR2vU" class="iframe1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size=20px;">பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2 & உயர்தரம் 3 பாடத்திட்ட வெளியீடு   
