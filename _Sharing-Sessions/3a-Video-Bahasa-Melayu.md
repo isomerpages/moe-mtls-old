@@ -4,7 +4,6 @@ permalink: /Sharing-Sessions/Video-Bahasa-Melayu/
 breadcrumb: 'Video Bahasa Melayu'
 collection_name: Sharing-Sessions
 ---
-<h2 style="padding-top:12px;color:#a3c864;">Video Bahasa Melayu</h2>
 <html>
 <head>
 <style>
