@@ -35,7 +35,7 @@ max-width:100%;
       <br/><br/>
       张老师在教学上循序渐进，帮助幼儿逐步达成学习目标。她对教学充满热忱，她的课生动有趣，引人入胜。在她营造的欢乐、积极的学习氛围中，幼儿都能感受到老师的关爱和重视，并能更有信心地参与活动。
 </p>
-    <h4>Judges' Comments:</h4><p>
+    <h4>Judges' Write-up</h4><p>
     Madam Zhang’s lesson was well organised into stages of increasing difficulty, whilst at the same time remaining vivid and interesting. The lesson achieved its learning goals by encouraging children to construct new knowledge in a meaningful context.
  <br/><br/>
 At the start of the lesson, Madam Zhang used singing and rhythmic movements to bring the children into an imaginary world of a concert in a forest. Madam Zhang then used pictures and questioning techniques to deepen her children's understanding of the lyrics. Next, the children put on headgear, held simulated musical instruments made by Madam Zhang (using environmentally friendly materials!) and role-played as animal characters in the songs an activity that further deepened their understanding of the content.
