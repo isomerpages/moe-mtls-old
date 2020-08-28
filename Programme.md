@@ -13,7 +13,7 @@ breadcrumb: Programme
 
   gtag('config', 'AW-726049306');
 </script>
- <a href="/eng/panel-discussion/"><img src="/images/01MTLS-Programme-CL-Opening.jpg"></a>
+ <a href="/eng/panel-discussion/"><img src="/images/01mtls-programme-cl-opening-1.jpg"></a>
 <br/>
 <a href="/eng/panel-discussion/"><img src="/images/02MTLS-Programme -ML-Opening.jpg"></a>
 <br/>
