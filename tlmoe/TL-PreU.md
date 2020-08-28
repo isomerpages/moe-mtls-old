@@ -235,11 +235,11 @@ width:80%;
  <br/>
  <div class="row">
  <div class="column">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YtnQl3v5-Ys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px;">Student Vaishnavi’ sharing on Short Story
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YtnQl3v5-Ys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px;">Student Vaishnavi’s sharing on Short Story
 </span>
 </div>
   <div class="column">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/GfLuSyFwYF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px;">Student Nanthini sharing on Short Story 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/GfLuSyFwYF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px;">Student Nanthini's sharing on Short Story 
 </span>
    </div></div>
  <br/>
