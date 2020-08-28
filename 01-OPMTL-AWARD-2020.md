@@ -4,8 +4,6 @@ permalink: /OPMTL-AWARD-2020/
 breadcrumb: 'OPMTL Teacher Award'
 collection_name: OPMTL AWARD 2020
 ---
-### Outstanding Pre-school Mother Tongue Language  Teacher Award
-
 <html>
 <head>
 <style>
