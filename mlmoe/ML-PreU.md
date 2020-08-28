@@ -36,12 +36,10 @@ width:80% ;
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/qOTg6ZTNYWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">Hubungan Kekeluargaan</span>
 </center>
 <br/>
-     *Video is best viewed in 1080p.<br/>
  <center>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/iB2IAjZIYH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">Sudut Pandangan </span>
 </center>
 <br/>
-     *Video is best viewed in 1080p.<br/>
 <p style="text-align:justify;">
  Kami sediakan pautan video yang memaparkan strategi untuk ibu bapa supaya dapat memberi sokongan pembelajaran kepada anak-anak mereka.
 </p>
@@ -49,14 +47,12 @@ width:80% ;
  <iframe width="560" height="315" src="https://www.youtube.com/embed/zEne6YrbUqI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">Video Membantu Pembelajaran Bahasa
 </span>
  </center>
- <br/>
-     *Video is best viewed in 1080p.<br/>
+<br/>
  <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H8Z89b0qQgA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">Video Membantu Pembelajaran Sastera
 </span>
 </center>
 <br/>
-     *Video is best viewed in 1080p.<br/>
 <p id="C2" style="font-size:30px;"><strong>Program di Prauniversiti </strong> </p>
 <img src="/images/ML-PreU-Brosur-Program.png">
 <p>Untuk memuat turun brosur ini, klik <a href="/images/ML-PreU-Brosur-Program.png" target="_blank">di sini</a></p>
