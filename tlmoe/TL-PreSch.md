@@ -161,7 +161,7 @@ margin-bottom:10px;
 <img src="/images/TL-PreSch-MiracleWeek.jpg">
 <br/><p style="font-size:20px;text-align:justify">இந்த இணைப்பின்வழி அதிசய வாரத் திட்டப்பணிகளைப்பற்றித் தெரிந்துகொள்ளுங்கள் <a href="https://www.nel.moe.edu.sg/resources/49800/49802" target="_blank">https://www.nel.moe.edu.sg/resources/49800/49802
 </a></p>
-<h4 id="C5"><span style="font-size:30px;color:purple;"பெற்றோருக்கான உதவிக்குறிப்புகள்</span>
+<h4 id="C5"><span style="font-size:30px;color:purple;">பெற்றோருக்கான உதவிக்குறிப்புகள்</span>
 </h4>
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
