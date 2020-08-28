@@ -92,9 +92,9 @@ margin-bottom:10px;
        <tr>
          <td>
 <ul>
-<li style="text-align:justify;">சிங்கப்பூர்ச் &nbsp; சூழலில், &nbsp; பிள்ளைகளின் &nbsp; அனுபவத்திற்கு &nbsp; உட்பட்ட &nbsp; நிலையில் &nbsp; எழுதப்பட்டிருக்கும் &nbsp; பெரிய &nbsp; புத்தகங்கள்
+<li>சிங்கப்பூர்ச் &nbsp; சூழலில், &nbsp; பிள்ளைகளின் &nbsp; அனுபவத்திற்கு &nbsp; உட்பட்ட &nbsp; நிலையில் &nbsp; எழுதப்பட்டிருக்கும் &nbsp; பெரிய &nbsp; புத்தகங்கள்
 </li>
-<li style="text-align:justify;">ஒவ்வொரு &nbsp; கருப்பொருளுக்கும் &nbsp; தொடர்பான &nbsp; சிறுவர் &nbsp; பாடல்கள் 
+<li>ஒவ்வொரு &nbsp; கருப்பொருளுக்கும் &nbsp; தொடர்பான &nbsp; சிறுவர் &nbsp; பாடல்கள் 
  </li>
 <li style="text-align:justify;">மகிழ்வூட்டும் &nbsp; கற்றலுக்கு &nbsp; வழிவகுக்கும் &nbsp; விளையாட்டுகள்
 </li>
