@@ -240,10 +240,17 @@ width:80%;
 <br/><span style="font-size:20px;">NJC students’ quick sharing on Poet Azha Valliappa’s poems
 </span>
  </div></div>
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YtnQl3v5-Ys" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px;">Student Vaishnavi’ sharing on Short Story
+ <br/>
+ <div class="row">
+ <div class="column">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/eQXI0DqaCBs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/><span style="font-size:20px;">Online Poetry Discourse with Poet PachaiBalan
 </span>
-</center>
+</div>
+  <div class="column">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/YtnQl3v5-Ys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px;">Student Vaishnavi’ sharing on Short Story
+</span>
+ </div></div>
  <br/>
  <h4 id="C4"><span style="font-size:30px;color:purple;">பால்மரக்காட்டினிலே – கற்றல் பயணம்
  </span></h4>
