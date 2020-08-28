@@ -191,7 +191,7 @@ width:80%;
 </li>
      <li>ரிவர்சைடு உயர்நிலைப்பள்ளி
 </li>
-     <li>யூசூன் டவுன் உயர்நிலைப்பள்ளி
+     <li>யீசூன் டவுன் உயர்நிலைப்பள்ளி
 </li>
    </ul>
   <a href="/Gallery/TL-Sec-tlep-sec-infosheet-students-2019.pdf " target="_blank">TLEP Infosheet - Secondary</a></p>
