@@ -116,7 +116,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
       <div class="tab-content">
       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Bercerita dengan Wayang Kuit</h4>
         <p style="margin:10px;">
-          ‘Bercerita dengan menggunakan wayang kulit’ merupakan satu usaha My First Skool @ 50 Sengkang West untuk menggalakkan pengajaran dan pembelajaran Bahasa Melayu secara interaktif bagi kanak-kanak Prasekolah 1 dan 2. Melalui pendekatan ini, kami berharap dapat  menimbulkan rasa ingin tahu dan merangsang imaginasi kanak-kanak.<br/>
+          ‘Bercerita dengan menggunakan wayang kulit’ merupakan satu usaha My First Skool @ 50 Sengkang West Way untuk menggalakkan pengajaran dan pembelajaran Bahasa Melayu secara interaktif bagi kanak-kanak Prasekolah 1 dan 2. Melalui pendekatan ini, kami berharap dapat  menimbulkan rasa ingin tahu dan merangsang imaginasi kanak-kanak.<br/>
          Ibu bapa juga boleh mempelajari teknik bercerita dengan menggunakan wayang kulit. Dengan membuat boneka dan membina alatan menggunakan bahan kitar semula, ibu bapa boleh menjalankan sesi bercerita yang menarik bersama anak-anak mereka.
         </p><br/>
             <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Storytelling using Shadow Puppetry</h4>
