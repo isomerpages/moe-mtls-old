@@ -22,7 +22,7 @@ collection_name: Others
 
   gtag('config', 'AW-726049306');
 </script>
-<img src="/images/Coming-soon.jpg" style="display:none;">
 <h2 style="display:block;">MTL Challenge</h2>
- <p style="display:block;">Earn 150 points and stand a chance to win a prize!
+<img src="/images/MTL-Challenge-Banner.jpg" style="display:inline-block;">
+<p style="display:block;">Earn 150 points and stand a chance to win a prize!
 </p>
