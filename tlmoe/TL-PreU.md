@@ -276,8 +276,8 @@ width:80%;
 <a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/88e3a47c-e7d0-4210-a2fe-567824b5863b?fromCcpm=false" target="_blank">I-Book (திறந்த ஜன்னல்)</a><br/>
 <p>
 <img src="/images/Poet-talking.jpg"><br/>
- <img src="/images/TL-PreU-Dialogue 1.jpg"><br/>
- <img src="/images/TL-PreU-Dialogue2.jpg">
+<img src="/images/TL-PreU-Dialogue1.jpg"><br/>
+<img src="/images/TL-PreU-Dialogue2.jpg">
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
 
