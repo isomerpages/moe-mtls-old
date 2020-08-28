@@ -147,10 +147,10 @@ width:80%;
 <p>
 <a href="/Gallery/Recommended-reading-of-H2TLL.pdf" target="_blank">Interesting facts about Poets & Writers</a><br/>
 <a href="/Gallery/H2TLL-Recommended-Text.pdf" target="_blank">A sneak preview of Recommended Text for H2 TLL</a><br/>
-<a href="/Gallery/H2-&-H3TLL-Launch-Slides2.pdf" target="_blank">H2 & H3 TLL Launch 2020 slides</a><br/>
+<a href="/tlmoe/H2 &H3 TLL Launch 2020 slides.pdf" target="_blank">H2 & H3 TLL Launch 2020 slides</a><br/>
  <br/>
 <h5 style="font-size:30px;color:purple;"> உயர்தரம் 3 தாய்மொழிப் பாடம்</h5>
-<a href="/Gallery/H3TLL-Sharing -by-EJC-Student.pdf" target="_blank">EJC Student’s Sharing at Tamil Toastmaster Club</a>
+<a href="/tlmoe/H3 TLL - EJC Student's Sharing.pdf" target="_blank">EJC Student’s Sharing at Tamil Toastmaster Club</a>
  </p><br/>
  <h4 id="C2"><span style="font-size:30px;color:purple;">இலக்கியம்</span></h4>
    <div class="atab">
