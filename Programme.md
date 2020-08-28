@@ -13,11 +13,11 @@ breadcrumb: Programme
 
   gtag('config', 'AW-726049306');
 </script>
- <a href="/eng/panel-discussion/"><img src="/images/01mtls-programme-cl-opening-1.jpg"></a>
+ <a href="/goh-message/"><img src="/images/01mtls-programme-cl-opening-1.jpg"></a>
 <br/>
-<a href="/eng/panel-discussion/"><img src="/images/02MTLS-Programme -ML-Opening.jpg"></a>
+<a href="/goh-message/"><img src="/images/02MTLS-Programme -ML-Opening.jpg"></a>
 <br/>
-<a href="/eng/panel-discussion/"><img src="/images/03MTLS-Programme -TL-Opening.jpg"></a>
+<a href="/goh-message/"><img src="/images/03MTLS-Programme -TL-Opening.jpg"></a>
 <br/>
 <a href="/eng/panel-discussion/"><img src="/images/04MTLS-Programme -Panel.jpg"></a>
 <br/>
