@@ -160,7 +160,8 @@ Dana ini menyokong pendekatan menarik dan kreatif bagi menggalakkan kedwibahasaa
       <input id="tab-5" type="checkbox" name="tab">
       <label for="tab-5" class="lbML">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu <br/>Malay Language Learning and Promotion Committee</label>
       <div class="tab-content">
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Jawatankuasa Penggalakan dan Penggunaan Bahasa Melayu</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu
+</h4>
         <p style="margin:10px;">
           Mari ikuti pengembaraan Nabil dan Nabilah meneroka sebahagian warisan Melayu merentas zaman melalui pantun dan simpulan bahasa.  Pengalaman Nabil dan Nabilah menerokai keindahan dan kekayaan budaya dan bahasa masyarakat Melayu ini bertujuan untuk melestari dan meningkatkan penggunaan bahasa Melayu dalam interaksi harian masyarakat Melayu.  Menerusi kedua-dua watak ini, pengunjung akan dapat menyemai rasa minat dan cinta akan bahasa yang diwarisi.
         </p><br/>
