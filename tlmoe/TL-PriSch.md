@@ -36,11 +36,15 @@ td{
  <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7o1l0CkF_oo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br/>
+     *Video is best viewed in 1080p.<br/>
+<br/>
 <p style="font-size:25px;color:purple">தமிழ்மொழிக் கல்வியில் மகிழ்வூட்டும் கற்றல் <br/>
  
  <img src="/images/MOE-Curriculum-TL-Primary-Image-2.jpg"><br/><br/>
  <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rb4242jPdKA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<br/>
+     *Video is best viewed in 1080p.<br/>
 </p>
  <p style="font-size:25px;color:purple;">ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் வளங்கள்</p>
 <ul>
@@ -55,12 +59,16 @@ td{
 <br/>
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JrvKTB1Oxj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<br/>
+     *Video is best viewed in 1080p.<br/>
 
 <p style="font-size:25px; color:purple;">மாணவர்களை மையப்படுத்திய கற்றல் வளங்களும் நடவடிக்கைகளும் <br/>
 <img src="/images/MOE-Curriculum-TL-Primary-Image-4.jpg">
  <br/>
  <center>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/vF-qlj-s0QM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+ <br/>
+     *Video is best viewed in 1080p.<br/>
 </p>
 
 <p style="font-size:25px; color:purple;" >ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் </p> <br/>
@@ -70,6 +78,8 @@ td{
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7bDcJCHpYHM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
+<br/>
+     *Video is best viewed in 1080p.<br/>
 <h4 id="C2"><span style="font-size:30px; color:purple;">இணையவழிக் கற்றல் 
 
  </span></h4>
