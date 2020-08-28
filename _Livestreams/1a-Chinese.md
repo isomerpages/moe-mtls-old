@@ -18,7 +18,7 @@ width:80% ;
 教育部长 黄循财先生<br/>
 推广华文学习委员会主席 孙雪玲女士</h4>
   <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+<iframe src="https://player.vimeo.com/video/452482456?autoplay=1&quality=1080p" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> </center>
     <br/>
   <h5>10.00am - 11.00am<br/>
 Live Panel Discussion<br/>
