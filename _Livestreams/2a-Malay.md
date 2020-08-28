@@ -26,6 +26,6 @@ Creating an Immersive Environment for the Learning of Our Mother Tongue Language
    <div class="video-container">
 <iframe src="https://player.vimeo.com/video/452213588?autoplay=1&quality=1080p" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
     *Video is best viewed in 1080p.
-   <br/>
+   <br/><br/><br/>
 <span style="font-size:18px;">*Head on to the Sharing Sessions page to rewatch any of our Livestream sessions!</span>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
