@@ -150,7 +150,7 @@ width:80%;
 <a href="/tlmoe/H2 &H3 TLL Launch 2020 slides.pdf" target="_blank">H2 & H3 TLL Launch 2020 slides</a><br/>
  <br/>
 <h4 style="color:purple;">உயர்தரம் 3  மாணவர் பகிர்வு</h4>
-<a href="/tlmoe/H3 TLL - EJC Student's Sharing.pdf" target="_blank"><span style=font-size:20px;">EJC Student’s Sharing at Tamil Toastmaster Club</span></a>
+<a href="/tlmoe/H3 TLL - EJC Student's Sharing.pdf" target="_blank" style="font-size:20px;">EJC Student’s Sharing at Tamil Toastmaster Club</a>
  </p>
  <h4 id="C2"><span style="font-size:30px;color:purple;">இலக்கியம்</span></h4>
    <p>மகிழ்வூட்டும் இலக்கிய வகுப்பு</p>
