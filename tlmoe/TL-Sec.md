@@ -93,14 +93,14 @@ width:80%;
 <p>
  <a href="#C5" style="font-size:20px"><span style="color:blue;">அறிமுகம்
 </span></a><br/>
-<a href="#C1" style="font-size:20px"><span style="color:blue;">2021-ஆம் ஆண்டுத் தமிழ்ப் பாடக்கலைத்திட்ட உருவாக்கம்
+<a href="#C1" style="font-size:20px"><span style="color:blue;">2021-ஆம் ஆண்டுத் தமிழ்ப் பாடக்கலைத்திட்டம்
 </span></a><br/>
  <a href="#C2" style="font-size:20px"><span style="color:blue;">இலக்கியம்
 </span></a><br/>
-<a href="#C3" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி விருப்பப் பாடத்திட்டம்
+<a href="#C3" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்
 (Tamil Language Elective Programme)
 </span></a><br/>
-<a href="#C4" style="font-size:20px"><span style="color:blue;">இணையம்வழிக் கற்றல்
+<a href="#C4" style="font-size:20px"><span style="color:blue;">இணையவழிக் கற்றல்
 </span></a><br/><br/>
   <h4 id="C5"><span style="font-size:30px;color:purple;">அறிமுகம் 
  </span></h4>
