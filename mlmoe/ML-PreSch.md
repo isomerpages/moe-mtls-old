@@ -106,6 +106,8 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
  </p>
  <center><span style="font-size:20px;" >Sila klik di sini untuk menonton Sehari di Tadika MOE</span><br/>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+ <br/>
+     *Video is best viewed in 1080p.<br/>
 
 <p>Berikut merupakan dua program utama Tadika MOE:  
 </p>
@@ -167,6 +169,8 @@ Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resour
 <br/><span style="font-size:20px;" >Pendekatan Membaca Bersama dijalankan di dalam bilik darjah </span>
 </center>
 <br/>
+     *Video is best viewed in 1080p.<br/>
+
 
 <p id="C3" style="font-size:30px;"><strong>Projek MuM (Minggu untuk Meneroka)</strong>
   </p>
