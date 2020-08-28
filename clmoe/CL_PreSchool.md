@@ -99,7 +99,7 @@ width:80%;
 <p style="font-size:25px;font-family:KaiTi" >教育部幼儿园的课程是由教育部课程专科督导设计与开发的，并以《培育幼儿:学前母语课程框架》为依据，指引新加坡幼儿园的课程发展。<br/><br/>
 在教育部幼儿园，幼儿将通过HI-Light和繁星语文两个旗舰课程体验丰富多彩的学习旅程。<br/><br/></p>
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi">教育部幼儿园里的一天 </span>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>*Video is best viewed in 1080p.<br/><br/><span style="font-size:18px;font-family:KaiTi">教育部幼儿园里的一天 </span>
  </center>
   <br/>
      *Video is best viewed in 1080p.<br/>
@@ -129,7 +129,7 @@ width:80%;
 </ol>
    <img src="/images/CL-Presch-Textbook.jpg">   
  <center>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/lnlNM2YJcOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br/><span style="font-size:18px;font-family:KaiTi">大图书共享阅读视频</span></center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lnlNM2YJcOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  *Video is best viewed in 1080p.<br/><br/><span style="font-size:18px;font-family:KaiTi">大图书共享阅读视频</span></center>
   <br/>
      *Video is best viewed in 1080p.<br/>
   <br/><br/>
@@ -144,7 +144,7 @@ width:80%;
 配合第二学段课程主题 —— 我周围有谁，有哪些地方？<br/><br/>
          先和孩子介绍家里的不同地方，如：客厅、厨房、睡房等。接着，和孩子一起制作金字塔书。你们可以参考视频做出属于孩子独特的金字塔书。孩子可以根据家里的情况画出不同的装饰。完成后，让孩子用金字塔书来说说自己在家的一日活动吧！</p>
        <center>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/mhJoflfcZWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br/><span style="font-size:18px;font-family:KaiTi">金字塔书制作视频
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/mhJoflfcZWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> *Video is best viewed in 1080p.<br/><br/><span style="font-size:18px;font-family:KaiTi">金字塔书制作视频
 </span></center><br/>
    <br/>
      *Video is best viewed in 1080p.<br/>
