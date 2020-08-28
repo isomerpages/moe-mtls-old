@@ -25,13 +25,12 @@ max-width:100%;
   <a href="/opmtl-award-2020/" style="float:right;">Back</a>
  <img src="images/Mdm-Almi-Roafuziah-Binte-Mohamed-Poster.jpg" style="width:100%">
     <br/>
-     <h4>Ulasan</h4>
+     <h4>Ulasan Pengadil</h4>
     <p style="text-align:justify;">
       Puan Almi guru cemerlang yang mempunyai minat yang mendalam terhadap bahasa Melayu.  Sebagai suri teladan, beliau menggunakan bahasa Melayu secara konsisten di dalam kelas.  Oleh yang demikian, kanak-kanak terdorong untuk bertutur dalam bahasa Melayu sepenuhnya.  Pendekatan ini sangat berkesan kerana kanak-kanak akan menjadi pengguna bahasa Melayu yang cekap.  Beliau juga bijak memanfaatkan saat boleh didik untuk menerapkan pembelajaran nilai dalam kanak-kanak. Beliau menyampaikan pengajaran dengan baik dan berkesan.  Kanak-kanak teruja dengan aktiviti main peran kerana terdedah kepada situasi autentik bahasa.  Beliau menunjukkan keperibadian yang profesional dan menghormati kanak-kanak.  
 </p>
     <h4>Write-up</h4>
     <p style="text-align:justify;">
-    Mdm Almi is an outstanding teacher with a deep and passionate interest in the Malay language.  She role models by consistently using the languagewith the children so they arecontinually encouraged to speak Malay. This approach has proven very effective in developing the children’s proficiency in the language.  Mdm Almi  consistentlydelivers effective lessons,often using role-play to captures the students’ enthusiasmwhilst exposing themto authentic language situations. Shealso takes advantage of teachable moments in the classroom to inculcate values in the children.  One of Mdm Almi’s most admirable qualities is the continued respect she shows her children. This exemplifies herprofessionalism.
-(105 words)
+    Mdm Almi is an outstanding teacher with a deep and passionate interest in the Malay language.  She role models by consistently using the languagewith the children so they are continually encouraged to speak Malay. This approach has proven very effective in developing the children’s proficiency in the language.  Mdm Almi consistently delivers effective lessons, often using role-play to captures the students’ enthusiasm whilst exposing them to authentic language situations. She also takes advantage of teachable moments in the classroom to inculcate values in the children.  One of Mdm Almi’s most admirable qualities is the continued respect she shows her children. This exemplifies her professionalism.
 </p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
