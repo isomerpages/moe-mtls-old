@@ -130,7 +130,8 @@ width:80%;
  <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OHI3rlQR2vU" class="iframe1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size=20px;">பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2 & உயர்தரம் 3 பாடத்திட்ட வெளியீடு   
 </span></center>
-
+<br/>
+     *Video is best viewed in 1080p.<br/>
  <h4><span style="font-size:30px;color:purple;">நோக்கங்கள்</span></h4>
  <table style="width:100%">
   <tr>
@@ -215,10 +216,14 @@ width:80%;
  <div class="column">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/z1DOuNAkQc8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px;">ASRJC Poetry Forum with Local Poet Pichanikaadu Ilango 
 </span>
+  <br/>
+     *Video is best viewed in 1080p.<br/>
 </div>
   <div class="column">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/QWvTSMtiopU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/><span style="font-size:20px;">Q& A session with Local Poet & ASRJC students</span>
+   <br/>
+     *Video is best viewed in 1080p.<br/>
  </div></div>
  <br/>
 <div class="row">
@@ -226,27 +231,37 @@ width:80%;
  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ss0CN2L5SYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/><span style="font-size:20px;">ASRJC student’s sharing on Poet Azha Valliappa
 </span>
+  <br/>
+     *Video is best viewed in 1080p.<br/>
 </div>
   <div class="column">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZbvDUQFSdO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/><span style="font-size:20px;">NJC students’ quick sharing on Poet Azha Valliappa’s poems
 </span>
+   <br/>
+     *Video is best viewed in 1080p.<br/>
  </div></div>
  <br/>
  <div class="row">
  <div class="column">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YtnQl3v5-Ys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px;">Student Vaishnavi’s sharing on Short Story
 </span>
+  <br/>
+     *Video is best viewed in 1080p.<br/>
 </div>
   <div class="column">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/GfLuSyFwYF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px;">Student Nanthini's sharing on Short Story 
 </span>
+   <br/>
+     *Video is best viewed in 1080p.<br/>
    </div></div>
  <br/>
  <center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/eQXI0DqaCBs" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/><span style="font-size:20px;">Online Poetry Discourse with Poet PachaiBalan
 </span></center>
+<br/>
+     *Video is best viewed in 1080p.<br/>
  <h4 id="C4"><span style="font-size:30px;color:purple;">பால்மரக்காட்டினிலே – கற்றல் பயணம்
  </span></h4>
  <p style="text-align:justify;">தமிழ்மொழி கற்றல் வளர்ச்சி குழுவின் ஆதரவில் தொடக்கக் கல்லூரி ஆசிரியர்கள் சென்ற ஆண்டு நவம்பர் 10 -ஆம் தேதி சிரம்பான் ரப்பர்த் தோட்டத்திற்குக் கற்றல் பயணத்தை மேற்கொண்டனர். பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2 இலக்கியப்பாடத்திற்கான நாவல் பால்மரக்காட்டினிலே ஆகும். மலேசிய ரப்பர் தோட்டங்களில் பணிபுரியும் தமிழர்களின் வாழ்க்கையைப் பற்றிய கதை அது. நாவலில் நிகழ்ந்த சம்பவங்களையும் பால்வெட்டு ஊழியர்களின் வாழ்க்கைமுறையையும் நேரில் காணும்வண்ணம் இந்தக் கற்றல் பயணம் ஏற்பாடு செய்யப்பெற்றது. ரப்பர் மரங்கள், பால்வெட்டும் செயல்முறை, பால்வெட்டு ஊழியர்களின் அணுகுமுறை, பால் சேகரிக்கப்படும் இடங்கள் முதலியவற்றை ஆசிரியர்கள் நேரடியாக அறிந்துகொள்ளும்வண்ணம் பயன்மிக்க கற்றல் பயணமாக அமைந்தது.
@@ -267,6 +282,8 @@ width:80%;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Db0MlO7f9Ow" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px;">சிரம்பான் ரப்பர்த் தோட்டத்திற்குக் கற்றல் பயணம்
 </span>
 </center>
+<br/>
+     *Video is best viewed in 1080p.<br/>
 <h4 id="C5"><span style="font-size:30px;color:purple;">இணையவழிக்கற்றல் 
  </span></h4>
   <img src="/images/TL-PreU_OnlineLearning.jpg">
