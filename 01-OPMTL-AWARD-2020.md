@@ -1,8 +1,8 @@
 ---
-title: 'Outstanding Pre-school Mother Tongue Language  Teacher Award'
-permalink: /OPMTL-AWARD-2020/
-breadcrumb: 'OPMTL Teacher Award'
-collection_name: OPMTL AWARD 2020
+title: 'OPMTL AWARD 2020'
+permalink: /School/
+breadcrumb: School
+collection_name: School
 ---
 
 <html>
@@ -41,23 +41,24 @@ max-width:50%;
 
   gtag('config', 'AW-726049306');
 </script>
-<h5> <strong> Outstanding Award Winners </strong></h5>
+<img src="/images/OPMTL-Message-Banner.jpg" style="display:none;">
+<h5 style="display:block;"> <strong> Outstanding Award Winners </strong></h5>
 <br/>
 <div class="row">
   <div class="column">
-   <a href="/award/Mdm-Almi-Roafuziah-binte-Mohamed/"><img src="images/Mdm-Almi-Roafuziah-Binte-Mohamed.png" style="width:100%"></a>
+   <a href="/award/Mdm-Almi-Roafuziah-binte-Mohamed/"><img src="images/Mdm-Almi-Roafuziah-Binte-Mohamed.png" style="width:100%;display:block;""></a>
  <p> <center> Mdm Almi Roafuziah Binte Mohamed <br/>
 PCF Sparkletots Preschool @ Sengkang West Blk 303A </center>
  </p>
     </div>
   <div class="column">
-<a href="/award/Mdm-Iryamaya-binti-Amin/"><img src="images/Mdm-Iryamaya-Binti-Amin.png" style="width:100%"> </a>
+<a href="/award/Mdm-Iryamaya-binti-Amin/"><img src="images/Mdm-Iryamaya-Binti-Amin.png" style="width:100%; display:block;"> </a>
  <p> <center>Mdm Iryamaya Binti Amin<br/>
   PCF Sparkletots Preschool @ Sembawang Blk 755 </center>
   </p>
     </div>
  <div class="column">
-<a href="/award/Mdm-Saniah-Binte-Sakian/"><img src="images/Mdm-Saniah-Binte-Sakian.png" style="width:100%"></a>
+<a href="/award/Mdm-Saniah-Binte-Sakian/"><img src="images/Mdm-Saniah-Binte-Sakian.png" style="width:100%; display:block;"></a>
  <p> <center>Mdm Saniah Binte Sakian<br/>
   My First Skool at Chin Swee </center>
   </p>
@@ -65,21 +66,21 @@ PCF Sparkletots Preschool @ Sengkang West Blk 303A </center>
  </div>
  <div class="row">
  <div class="column">
-<a href="/award/Ms-Louis-Jeya-Rubi-Caroline/"><img src="images/Mrs-Louis-Jeya-Rubi-Caroline.png" style="width:100%"></a>
+<a href="/award/Ms-Louis-Jeya-Rubi-Caroline/"><img src="images/Mrs-Louis-Jeya-Rubi-Caroline.png" style="width:100%;display:block;"></a>
  <p> <center>Mrs Louis Jeya Rubi Caroline <br/>
  திருமதி லூயிஸ் ஜெய ரூபி கரோலின்<br/>
 PCF Sparkletots Preschool @ Punggol East Blk 187B </center>
  </p>
   </div>
   <div class="column">
-   <a href="/award/Mdm-Zeng-Hanyu/"><img src="images/Zeng-Hanyu.png" style="width:100%"></a>
- <p> <center> Mdm Zeng Hanyu <br/>
+   <a href="/award/Mdm-Zeng-Hanyu/"><img src="images/Zeng-Hanyu.png" style="width:100%;display:block;"></a>
+ <p display="display:block;> <center> Mdm Zeng Hanyu <br/>
   <span style= "font-family:KaiTi; font-size:25px;">曾韩玉女士  </span> 
   <br/>Islander Preschool Pte Ltd</center>
   </p>
     </div>
   <div class="column">
-<a href="/award/Mdm-Zhang-JiPeng/"><img src="images/Zhang-JiPeng.png" style="width:100%"> </a>
+<a href="/award/Mdm-Zhang-JiPeng/"><img src="images/Zhang-JiPeng.png" style="width:100% ;display:block;"> </a>
  <p> <center> Mdm Zhang JiPeng<br/>
   <span style= "font-family:KaiTi; font-size:25px;"> 张纪彭女士 </span> 
   <br/>PCF Sparkletots Preschool @ Woodlands Blk 801</center> 
