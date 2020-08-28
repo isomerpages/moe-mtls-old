@@ -130,7 +130,7 @@ width:80%;
  <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OHI3rlQR2vU" class="iframe1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size=20px;">பல்கலைகழகப் புகுமுகநிலை உயர்தரம் 2 & 3 பாடத்திட்ட வெளியீடு
 </span></center>
-<br/><br/>
+
  <h4><span style="font-size:30px;color:purple;">நோக்கங்கள்</span></h4>
  <table style="width:100%">
   <tr>
