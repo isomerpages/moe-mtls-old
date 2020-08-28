@@ -39,7 +39,7 @@ margin-bottom:10px;
  </span></a><br/>
 <a href="#C4" style="font-size:18px"><span style="color:blue;text-align:justify;">அதிசய &nbsp; வாரத் &nbsp; திட்டப்பணி (WoW Project)
  </span></a><br/>
-<a href="#C5" style="font-size:18px"><span style="color:blue;text-align:justify;">பெற்றொருக்கான &nbsp; உதவிக்குறிப்புகள்
+<a href="#C5" style="font-size:18px"><span style="color:blue;text-align:justify;">பெற்றோருக்கான &nbsp; உதவிக்குறிப்புகள்
 </span></a><br/>
 
 <p style="text-align:justify;">கல்வி  அமைச்சின்  பாலர்  பள்ளி  சிங்கப்பூரர்களுக்கும் நிரந்தரவாசிகளுக்கும்  தரமான  பாலர்  கல்வியை  (பாலர் பள்ளி  முதலாம்  ஆண்டு,  பாலர்  பள்ளி  இரண்டாம்  ஆண்டு)  வழங்குவதற்காகத்  தொடங்கப்பட்டது.  ஒவ்வொரு  பிள்ளைக்கும்  வலுவான  அடித்தளத்தை  அமைத்துத்  தருவதே  கல்வி  அமைச்சின்  பாலர்  பள்ளியின்  தொலைநோக்காகும். <br/><br/>
