@@ -158,7 +158,7 @@ Dana ini menyokong pendekatan menarik dan kreatif bagi menggalakkan kedwibahasaa
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5" class="lbML">Jawatankuasa Pembelajaran dan Penggalakkan Penggunaan Bahasa Melayu <br/>Malay Language Learning and Promotion Committee</label>
+      <label for="tab-5" class="lbML">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu <br/>Malay Language Learning and Promotion Committee</label>
       <div class="tab-content">
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Jawatankuasa Penggalakan dan Penggunaan Bahasa Melayu</h4>
         <p style="margin:10px;">
