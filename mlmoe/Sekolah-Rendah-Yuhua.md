@@ -7,6 +7,7 @@ breadcrumb: 'Sekolah Rendah Yuhua'
  <img src="/images/YuhuaPri-ML.jpg"> <br/>
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/wpc9oMcZ8Vk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+*Video is best viewed in 1080p.<br/>
   <a href="/mlmoe/Yuhua Attachment.pdf">Yuhua Primary School - The Use Of Paul’s Wheel of Reasoning Model In Learning of Malay Language</a><br/>
   <a href="mailto:yuhua_ps@moe.edu.sg">Contact Us</a>
 
