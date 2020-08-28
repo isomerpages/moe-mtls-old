@@ -16,7 +16,7 @@ max-width:20%;
   <body>  
 <a href="https://staging-moe-mtls.netlify.app/Sharing-Sessions/English-Videos/" style="float:right;">Back</a>
 <div class="video-container">
-  <iframe width="560" height="315" src="https://player.vimeo.com/video/451529049" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe src="https://player.vimeo.com/video/452213588?autoplay=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
   <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Moderator</h4>
    
    <p style="margin:10px;"><strong>Ms Sun Xueling </strong><br/>
