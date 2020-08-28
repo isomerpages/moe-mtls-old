@@ -21,7 +21,7 @@ width:80% ;
     <img src="/images/GOH-Message-Banner.jpg" style="display:block;">
   
     <br/>
-  <h5>10.00am - 11.00am<br/>
+  <h5>10.00am - 11.00am<br/><br/>
 Live Panel Discussion<br/>
 Creating an Immersive Environment for the Learning of Our Mother Tongue Languages</h5>
   <div class="video-container">
