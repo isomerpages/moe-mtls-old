@@ -23,6 +23,7 @@ collection_name: Others
   gtag('config', 'AW-726049306');
 </script>
 <h2 style="display:block;">MTL Challenge</h2>
-<img src="/images/MTL-Challenge-Banner.jpg" style="display:inline-block;">
+<img src="/images/MTL-Challenge-Banner.jpg" style="display:inline-block;"><br/>
+<img src="/images/Feedback-Banner2.jpg" style="display:inline-block;">
 <p style="display:block;">Earn 150 points and stand a chance to win a prize!
 </p>
