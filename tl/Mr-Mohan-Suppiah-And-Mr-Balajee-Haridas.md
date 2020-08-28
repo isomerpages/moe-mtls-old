@@ -17,7 +17,7 @@ max-width:20%;
 <a href="https://staging-moe-mtls.netlify.app/Sharing-Sessions/தமிழ்-ஒளிக்காட்சிகள்/" style="float:right;">Back</a>
 <div class="video-container">
 <iframe src="https://player.vimeo.com/video/452424489?autoplay=1&quality=1080p" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
-    <br/><br/>
+*Video is best viewed in 1080p.<br/><br/>
   <div class="column">
 <img src="images/TL-Mr-Mohan-Suppiah-and-Mr-Balajee-Harridas.png" style="width:100%">
    </div>
