@@ -109,7 +109,7 @@ width:80%;
 <br/><br/>
 இதன் அடிப்படையில் தமிழ்மொழி கற்றல் கற்பித்தலை அடுத்தடுத்த மேம்பட்ட நிலைக்குக் கொண்டு செல்ல அரசாங்கத்தின் உதவியோடு தொடர்ந்து பல முயற்சிகள் மேற்கொள்ளப்பட்டு வருகின்றன. சிங்கப்பூரில் தமிழை வாழும் மொழியாக நிலைபெறச் செய்ய வேண்டும் என்பதே இம்முயற்சிகளின் அடிப்படை நோக்கமாகும்.
 </p>
-<center>
+<center><span style="font-size:18px;">தமிழ்மொழி கற்றல் கற்பித்தல் பாடத்திட்டங்கள் (1958 – 2011)</span>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/6sBb03SK3wI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center><br/>
  <h4 id="C1"><span style="font-size:30px;color:purple;">2021-ஆம் ஆண்டுத் தமிழப் பாடக்கலைத்திட்டம்
  </span></h4>
@@ -228,8 +228,8 @@ width:80%;
  <h4 id="C4"><span style="font-size:30px;color:purple;">இணையவழிக் கற்றல் </span> </h4>
 <img src="/images/TL-Sec_onlineLearning.jpg">
 <br/><br/>
-மின்னூல்:<br/>
-<a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/19f208ee-e005-48bf-8d65-6dd6bdbb3722?fromCcpm=false" target="_blank">நானும் ஒரு படைப்பாளி (2017/2018)</a><br/>
-<a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/dc9ea75d-2b9f-4e93-9e65-6ec982ff1c6b?fromCcpm=false" target="_blank">புயல் (I-Book)</a>
+<p style="font-size:22px;"><strong>மின்னூல்:</strong><br/>
+<a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/19f208ee-e005-48bf-8d65-6dd6bdbb3722?fromCcpm=false" target="_blank">நானும் ஒரு படைப்பாளி </a><br/>
+<a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/dc9ea75d-2b9f-4e93-9e65-6ec982ff1c6b?fromCcpm=false" target="_blank">புயல் (I-Book)</a></p>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
