@@ -17,8 +17,8 @@ width:80% ;
    <strong>欢迎词</strong><br/>
 教育部长 黄循财先生<br/>
 推广华文学习委员会主席 孙雪玲女士</h4>
-<img src="/images/GOH-Message-Banner.jpg" style="display:inline-block;">
-<div class="video-container" style="display:inline-block;">
+<img src="/images/GOH-Message-Banner.jpg" style="display:none;">
+<div class="video-container" >
 <iframe src="https://player.vimeo.com/video/452482456?autoplay=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div> *Video is best viewed in 1080p.
     <br/>
   <h5>10.00am - 11.00am<br/><br/>
