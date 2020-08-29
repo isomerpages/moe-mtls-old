@@ -1,8 +1,8 @@
 ---
-title: 'OPMTL AWARD 2020'
-permalink: /School/
-breadcrumb: School
-collection_name: School
+title: 'Outstanding Pre-school Mother Tongue Language  Teacher Award'
+permalink: /OPMTL-AWARD-2020/
+breadcrumb: 'OPMTL Teacher Award'
+collection_name: OPMTL AWARD 2020
 ---
 
 <html>
