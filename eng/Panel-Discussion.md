@@ -30,7 +30,7 @@ max-width:20%;
 </p><br/>
        
   <p style="margin:10px;"><strong>A/P Mukhlis Abu Bakar  </strong><br/>
-Dr Mukhlis Abu Bakar is Associate Professor and Assistant Head/Malay at the Asian Languages and Cultures Academic Group of the National Institute of Education, Nanyang Technological University. Trained as an applied linguist, he teaches in the area of grammar, linguistics, discourse, bilingualism and literacy. His current research interests lie in the field of childhood bilingualism and biliteracy, and a sociocultural approach to literacy learning in the home, school and faith settings.
+Dr Mukhlis Abu Bakar is Associate Professor and Assistant Head/Malay at the Asian Languages and Cultures Academic Group of the National Institute of Education, Nanyang Technological University. Trained as an applied linguist, he teaches in the area of grammar, linguistics, discourse, bilingualism and literacy. His current research interests lie in the field of childhood bilingualism and biliteracy, and a sociocultural approach to literacy learning in the home, school and faith settings. He is a Co-Editor of an upcoming book "The Bloomsbury Handbook on Cultural Identity from Early Childhood to Early Adulthood" due out in 2021.
 </p><br/>
 
  <p style="margin:10px;"><strong>Kamilah Binte Kamis </strong><br/>
@@ -38,7 +38,7 @@ Miss Kamilah has been teaching in the preschool sector for 6 years. She was insp
 </p><br/>
 
  <p style="margin:10px;"><strong>Dr Sukuna S. Vijayadevar </strong><br/>
-Dr Sukuna S. Vijayadevar is a senior lecturer with NIEC-City Campus. She has served for many years training and developing on-going professional development for practitioners in early childhood education. Her areas of interest in early childhood include teaching language and literacy, inclusive education and leadership in ECE. Dr Sukuna has also conducted talks and workshops for teachers about teaching Tamil Language in preschools. Her workshops for both early childhood and primary school teachers on story-telling and creation of big books in Tamil have always been well received. 
+Dr Sukuna S. Vijayadevar is a Lead Curriculum Specialist with NIEC. She has served for many years training and developing on-going professional development for practitioners in early childhood education. Her areas of interest in early childhood include teaching language and literacy, inclusive education and leadership in ECE. Dr Sukuna has also conducted talks and workshops for teachers about teaching Tamil Language in preschools. Her workshops for both early childhood and primary school teachers on story-telling and creation of big books in Tamil have always been well received. 
 </p><br/>
 
  <p style="margin:10px;"><strong> Danny Yeo </strong>

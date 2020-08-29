@@ -18,8 +18,11 @@ width:80% ;
      சிறப்பு விருந்தினர், கல்வி அமைச்சர் திரு லாரன்ஸ் <br/>
       வோங் அவர்களின் தொடக்கவுரையும் தமிழ்மொழி கற்றல் <br/>
       வளர்ச்சிக் குழுத் தலைவர் திரு விக்ரம் நாயர் அவர்களின் அறிமுகவுரையும்</h5>
-    <img src="/images/GOH-Message-Banner.jpg" style="display:block;">
-  
+    <img src="/images/GOH-Message-Banner.jpg" style="display:none;">
+  <div class="video-container" >
+<iframe src="https://player.vimeo.com/video/452709296?autoplay=1&quality=1080p" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+   *Video is best viewed in 1080p.
+    <br/>
     <br/>
   <h5>10.00am - 11.00am<br/><br/>
 Live Panel Discussion<br/>

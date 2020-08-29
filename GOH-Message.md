@@ -9,7 +9,6 @@ breadcrumb: GOH Message
    iframe{
 border : 0;
 width:80% ;
-   display:none;
 }
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
@@ -21,17 +20,32 @@ width:80% ;
 
   gtag('config', 'AW-726049306');
 </script>
-<img src="/images/GOH-Message-Banner.jpg">
-<h4 style="display:none;"><strong> GOH Address (Chinese) </strong></h4>
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+<img src="/images/GOH-Message-Banner.jpg" style="display:none;">
+<h4 style="font-family:KaiTi;">早上9点30分至10点<br/><br/>
+   <strong>欢迎词</strong><br/>
+教育部长 黄循财先生<br/>
+推广华文学习委员会主席 孙雪玲女士</h4>
+<img src="/images/GOH-Message-Banner.jpg" style="display:none;">
+<div class="video-container" >
+<iframe src="https://player.vimeo.com/video/452706510?autoplay=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div> *Video is best viewed in 1080p.
     <br/>
-   <h4 style="display:none;"><strong> GOH Address (Malay) </strong></h4>
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+    
+<h5>9.30 -10.00 pagi<br/><br/>
+Ucapan Pembukaan oleh Tetamu Terhormat, Menteri Pendidikan, Encik Lawrence Wong dan Ucapan Pengerusi Jawatankuasa Pembelajaran dan Penggalakkan Penggunaan Bahasa Melayu (MLLPC), Dr Mohamad Maliki Bin Osman<br/>
+   </h5>
+    <img src="/images/GOH-Message-Banner.jpg" style="display:none;">
+<div class="video-container" >
+<iframe src="https://player.vimeo.com/video/452708404?autoplay=1&quality=1080p" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+   *Video is best viewed in 1080p.
     <br/>
-   <h4 style="display:none;"><strong> GOH Address (Tamil) </strong></h4>
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d6fmLlW8eoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+    
+<h5>காலை 9.30 மணி முதல் 10.00 மணி வரை<br/><br/>
+     சிறப்பு விருந்தினர், கல்வி அமைச்சர் திரு லாரன்ஸ் <br/>
+      வோங் அவர்களின் தொடக்கவுரையும் தமிழ்மொழி கற்றல் <br/>
+      வளர்ச்சிக் குழுத் தலைவர் திரு விக்ரம் நாயர் அவர்களின் அறிமுகவுரையும்</h5>
+    <img src="/images/GOH-Message-Banner.jpg" style="display:none;">
+  <div class="video-container" >
+<iframe src="https://player.vimeo.com/video/452709296?autoplay=1&quality=1080p" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+   *Video is best viewed in 1080p.
     <br/>
   
