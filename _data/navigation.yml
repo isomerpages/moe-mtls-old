@@ -3,7 +3,6 @@ logo: '/images/emtls-2020-logo-01.png'
 links: 
 - title: Livestreams
   url: /Livestreams/
-  collection: Livestreams
 - title: About Us
   url: /About-Us-And-Past-Symposiums/
 - title: GOH Message
@@ -22,7 +21,7 @@ links:
   sublinks:
   - title: MTL Challenge
     url: /Others/MTL-Challenge/
-  - title: Sales Booth
-    url: https://yuyi.com.sg/pages/mother-tongue-languages-symposium-mtls
   - title: Online Quest
     url: /Others/Online-Quest/
+  - title: Sales Booth
+    url: https://yuyi.com.sg/pages/mother-tongue-languages-symposium-mtls

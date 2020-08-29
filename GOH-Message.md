@@ -31,7 +31,7 @@ width:80% ;
     <br/>
     
 <h5>9.30 -10.00 pagi<br/><br/>
-Ucapan Pembukaan oleh Tetamu Terhormat, Menteri Pendidikan, Encik Lawrence Wong dan Ucapan Pengerusi Jawatankuasa Pembelajaran dan Penggalakkan Penggunaan Bahasa Melayu (MLLPC), Dr Mohamad Maliki Bin Osman<br/>
+Ucapan Pembukaan oleh Tetamu Terhormat, Menteri Pendidikan, Encik Lawrence Wong dan Ucapan Pengerusi Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC), Dr Mohamad Maliki Bin Osman<br/>
    </h5>
     <img src="/images/GOH-Message-Banner.jpg" style="display:none;">
 <div class="video-container" >

@@ -3,6 +3,16 @@ title: 'MY World @ Simei'
 permalink: /clmoe/MY-World/
 breadcrumb: 'MY World @ Simei'
 ---
+
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-726049306');
+</script>
 <a href="/gallery/华文学习展示区-chinese-exhibitions-c/preschool/" style="float:right;">Back</a>
  <img src="/images/CL-MYWorld-Poster.jpg"><br/>
 <div class="video-container">

@@ -3,6 +3,15 @@ title: 'Esplanade - Teater di Persisiran '
 permalink: /mlmoe/Esplanade-Teater-di-Persisiran/
 breadcrumb: 'Esplanade - Teater di Persisiran'
 ---
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-726049306');
+</script>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-e/community-partners/" style="float:right;">Back</a>
  <img src="/images/Esplanade-Malay.jpg"> <br/>
 

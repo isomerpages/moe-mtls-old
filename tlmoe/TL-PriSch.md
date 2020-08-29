@@ -20,6 +20,14 @@ td{
 }
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-726049306');
+</script>
 <a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/TL-Pri-Header.jpg">
 <p>

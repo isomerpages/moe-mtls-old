@@ -3,6 +3,15 @@ title: 'Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu '
 permalink: /mlmoe/Jawatankuasa-Pembelajaran-dan-Penggalakkan-Penggunaan-Bahasa-Melayu/
 breadcrumb: 'Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu '
 ---
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-726049306');
+</script>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-e/community-partners/" style="float:right;">Back</a>
  <img src="/images/MLLPC-01.jpg"> <br/>
 

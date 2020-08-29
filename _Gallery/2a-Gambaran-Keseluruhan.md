@@ -7,6 +7,15 @@ collection_name: Gallery
 third_nav_title: 'Pameran Bahasa Melayu'
 ---
 ### Gambaran Keseluruhan
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-726049306');
+</script>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-b/moe-curriculum/">
   <img src="/images/ML-MOE-Curriculum.jpg"></a>
   <br/>
