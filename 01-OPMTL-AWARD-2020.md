@@ -41,12 +41,12 @@ max-width:50%;
 
   gtag('config', 'AW-726049306');
 </script>
-<img src="/images/OPMTL-Message-Banner.jpg" style="display:none;">
-<h5 style="display:block;"> <strong> Outstanding Award Winners </strong></h5>
+
+<h5> <strong> Outstanding Award Winners </strong></h5>
 <br/>
 <div class="row">
   <div class="column">
-   <a href="/award/Mdm-Almi-Roafuziah-binte-Mohamed/"><img src="images/Mdm-Almi-Roafuziah-Binte-Mohamed.png" style="width:100%;display:block;""></a>
+   <a href="/award/Mdm-Almi-Roafuziah-binte-Mohamed/"><img src="images/Mdm-Almi-Roafuziah-Binte-Mohamed.png" style="width:100%;display:block;"></a>
  <p> <center> Mdm Almi Roafuziah Binte Mohamed <br/>
 PCF Sparkletots Preschool @ Sengkang West Blk 303A </center>
  </p>
