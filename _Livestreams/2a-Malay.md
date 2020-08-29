@@ -12,7 +12,15 @@ border : 0;
 width:80% ;
 }
   </style>
-   <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-726049306');
+</script>
 <h5>9.30 -10.00 pagi<br/><br/>
 Ucapan Pembukaan oleh Tetamu Terhormat, Menteri Pendidikan, Encik Lawrence Wong dan Ucapan Pengerusi Jawatankuasa Pembelajaran dan Penggalakkan Penggunaan Bahasa Melayu (MLLPC), Dr Mohamad Maliki Bin Osman<br/>
    </h5>
