@@ -82,6 +82,14 @@ width:80%;
  
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-726049306');
+</script>
 <a href="/gallery/华文学习展示区-chinese-exhibitions-b/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/CL-Presch-Header.jpg">
 <p style="font-size:35px;font-family:KaiTi" ><h4 style="font-size:35px;font-family:KaiTi;">教育部幼儿园 
