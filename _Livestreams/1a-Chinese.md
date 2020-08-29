@@ -12,7 +12,15 @@ border : 0;
 width:80% ;
 }
   </style>
-   <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
+<!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-726049306');
+</script>
 <h4 style="font-family:KaiTi;">早上9点30分至10点<br/><br/>
    <strong>欢迎词</strong><br/>
 教育部长 黄循财先生<br/>
