@@ -1,8 +1,8 @@
 ---
-title: '直播视频'
-permalink: /Livestreams/Chinese/
-breadcrumb: '直播视频'
-collection_name: 直播视频
+title: 'OPMTL AWARD 2020'
+permalink: /School/
+breadcrumb: School
+collection_name: School
 ---
 <html>
 <body>
