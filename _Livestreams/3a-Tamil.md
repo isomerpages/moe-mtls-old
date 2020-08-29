@@ -14,6 +14,14 @@ width:80% ;
 }
   </style>
    <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-726049306');
+</script>
    <h5>காலை 9.30 மணி முதல் 10.00 மணி வரை<br/><br/>
      சிறப்பு விருந்தினர், கல்வி அமைச்சர் திரு லாரன்ஸ் <br/>
       வோங் அவர்களின் தொடக்கவுரையும் தமிழ்மொழி கற்றல் <br/>
