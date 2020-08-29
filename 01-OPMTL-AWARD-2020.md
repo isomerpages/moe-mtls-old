@@ -74,7 +74,7 @@ PCF Sparkletots Preschool @ Punggol East Blk 187B </center>
   </div>
   <div class="column">
    <a href="/award/Mdm-Zeng-Hanyu/"><img src="images/Zeng-Hanyu.png" style="width:100%;display:block;"></a>
- <p display="display:block;> <center> Mdm Zeng Hanyu <br/>
+ <p> <center> Mdm Zeng Hanyu <br/>
   <span style= "font-family:KaiTi; font-size:25px;">曾韩玉女士  </span> 
   <br/>Islander Preschool Pte Ltd</center>
   </p>
