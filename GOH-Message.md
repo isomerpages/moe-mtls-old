@@ -27,7 +27,7 @@ width:80% ;
 推广华文学习委员会主席 孙雪玲女士</h4>
 <img src="/images/GOH-Message-Banner.jpg" style="display:none;">
 <div class="video-container" >
-<iframe src="https://player.vimeo.com/video/452706510?autoplay=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div> *Video is best viewed in 1080p.
+<iframe src="https://player.vimeo.com/video/452644795?autoplay=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div> *Video is best viewed in 1080p.
     <br/>
     
 <h5>9.30 -10.00 pagi<br/><br/>
