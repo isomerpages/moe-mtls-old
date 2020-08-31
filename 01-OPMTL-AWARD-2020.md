@@ -139,7 +139,7 @@ PCF Sparkletots Preschool @ Bukit Gombak Blk 535 </center>
 <img src="images/Yang-Hong.png" style="width:100%"> 
  <p> <center>Mdm Yang Hong<br/>
   <span style= "font-family:KaiTi; font-size:25px;">杨红女士</span> 
-    <br/> My First Skool at Chong Pang Blk 142</center> 
+    <br/>PCF Sparkletots Preschool @ Chong Pang Blk 142</center> 
   </p>
     </div>
        </div>
