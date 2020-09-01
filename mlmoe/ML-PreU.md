@@ -37,7 +37,7 @@ td{
  .column {
   float: left;
   width: 80%;
-  padding: 10px;
+  padding: 2px;
 }
 .atab label {
     position: relative;
