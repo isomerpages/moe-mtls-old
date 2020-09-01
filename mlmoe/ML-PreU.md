@@ -41,8 +41,9 @@ width:80% ;
 <center>Memperkasakan jati diri dan membina insan berilmu serta dinamik untuk mencapai keunggulan melalui aktiviti kebahasaan, kesusasteraan dan kebudayaan.</center>
 
 <a href="/mlmoe/ML-PreU-Outreach-Secondary-Schools-Final.pdf" target="_blank">Program Elektif Bahasa Melayu Maktab Rendah (MLEP JC)</a><br/>
-Untuk memuat turun brosur ini, klik <a href="/images/ML-PreU-Brosur-Program.png" target="_blank">di sini</a><br/>
-<a href="https://sites.google.com/view/emasmlep/home?authuser=0" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu</a>
+<a href="https://sites.google.com/view/emasmlep/home?authuser=0" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu</a></br>
+Untuk memuat turun brosur ini, klik <a href="/images/ML-PreU-Brosur-Program.png" target="_blank">di sini</a>
+
 <p id="C1" style="font-size:30px;"><strong>Program Elektif Bahasa Melayu Maktab Rendah (MLEP-JC)</strong></p>
   <p style="text-align:justify;">
 Berikut adalah video-video pengajaran yang kami sediakan di SLS bagi pembelajaran pelajar dan pengajaran guru.
