@@ -111,8 +111,68 @@ width:80% ;
     <td><p>Memperkasakan jati diri dan membina insan berilmu serta dinamik untuk mencapai keunggulan melalui aktiviti kebahasaan, kesusasteraan dan kebudayaan.</p></td>
     <td><img src="/images/ML-PreU-01092020.png"></td>
    </tr>
+  </table>
+  <div class="atab">
+      <input id="tab-1" type="checkbox" name="tab">
+   <label for="tab-1" class="lbML">Maktab Rendah yang menawarkan MLEP
+</label>
+     <div class="tab-content">
+      <p><strong>Maktab Rendah yang menawarkan MLEP: </strong>
+      <ul>
+       <li>Maktab Rendah Jurong Pioneer</li>
+       <li>Maktab Rendah Kebangsaan</li>
+       <li>Institusi Raffles</li>
+       <li>Maktab Rendah Tampines Meridian</li>
+       <li>Maktab Rendah Yishun Innova </li>
+      </ul></p>    
+  </div></div>
   
-</table>
+  <div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+   <label for="tab-2" class="lbML">Kemasukan ke Maktab Rendah
+</label>
+     <div class="tab-content">
+      <p><strong>Kemasukan ke Maktab Rendah: </strong></p>
+      <p><strong>Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC)</strong>
+       <ul>
+       <li>Pelajar Menengah 4 atau 5 mohon ke Pre-U1 berdasarkan pencapaian dan kecenderungan mereka sebelum keputusan peperiksaan GCE Peringkat ‘O’ diumumkan.
+       </li>
+        <li>Permohonan dibuka pada <strong> pertengahan Mei hingga akhir Jun. </strong> </li></ul>
+      </p>   
+      <p><strong>Mata Bonus</strong>
+       <ul>
+       <li>Pelajar yang berjaya memasuki Program MLEP-JC melalui JAE akan mendapat dua mata bonus.</li>
+        <li>Pelajar tidak dibenarkan untuk menarik diri daripada MLEP-JC, tidak kira sama ada mereka menggunakan dua mata bonus untuk kemasukan.
+</li></ul> </p>  
+       <p><strong>Pasca-JAE</strong>
+       <ul>
+       <li>Pihak sekolah masih boleh menerima masuk pelajar ke Program MLEP-JC selepas Latihan JAE. </li>
+        <li>Untuk layak, pelajar perlu menawarkan subjek <u>H2 Bahasa dan Kesusasteraan Melayu (H2MLL) </u> dalam permohonan mereka. </li> </ul></p> 
+       </div></div>
+  
+  <div class="atab">
+      <input id="tab-3" type="checkbox" name="tab">
+   <label for="tab-3" class="lbML">Biasiswa MLEP-JC (MLES)
+
+</label>
+     <div class="tab-content">
+      p><strong>Biasiswa MLEP-JC (MLES)</strong>
+      <ul>
+       <li>Warganegara Singapura 
+</li>
+       <li>Yang cemerlang dalam keputusan akademik
+</li>
+       <li>Biasiswa bernilai $1,000 setiap tahun selama dua tahun
+</li>
+       <li>Yuran sekolah akan dibiayai ($2,400 setiap tahun)
+</li>
+       <li>Subsidi penuh bagi Program Penyerapan ke Luar Negara
+</li>
+       <li></li>
+      </ul>
+ Sila rujuk pautan-pautan ini jika ingin informasi selanjutnya.
+</p>    
+  </div></div>
 
 Untuk memuat turun brosur ini, klik <a href="/images/ML-PreU-Brosur-Program.png" target="_blank">di sini</a><br/>
 <a href="https://sites.google.com/view/emasmlep/home?authuser=0" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu</a><br/>
