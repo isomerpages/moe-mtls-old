@@ -235,8 +235,6 @@ width:80%;
  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ss0CN2L5SYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/><span style="font-size:18px;">குழந்தைக் கவிஞர் அழ. வள்ளியப்பா அவர்களின் பாடல்களைப்பற்றி ஆண்டர்சன் சிராங்கூன் தொடக்கக்கல்லூரி மாணவி வள்ளி பகிர்ந்துகொண்டார்.    
 </span>
-  <br/>
-     *Video is best viewed in 1080p.<br/>
 </div>
   <div class="column">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZbvDUQFSdO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -279,8 +277,6 @@ width:80%;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Db0MlO7f9Ow" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px;">சிரம்பான் ரப்பர்த் தோட்டத்திற்குக் கற்றல் பயணம்
 </span>
 </center>
-<br/>
-     *Video is best viewed in 1080p.<br/>
 <h4 id="C5"><span style="font-size:30px;color:purple;">இணையவழிக்   கற்றல்
  </span></h4>
   <img src="/images/TL-PreU_OnlineLearning.jpg">
