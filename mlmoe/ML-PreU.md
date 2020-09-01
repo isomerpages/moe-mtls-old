@@ -105,6 +105,7 @@ width:80% ;
 <img src="/images/ML-PreU-Syllabus.jpeg">
 <a href="/Gallery/Annex A -Sukatan-Pelajaran-H1.pdf" target="_blank">Sukatan Pelajaran H1</a><br/>
 <a href="/Gallery/Annex B - Sukatan-Pelajaran-H2-&-H3.pdf" target="_blank">Sukatan Pelajaran H2 & H3</a><br/>
+
 <p style="font-size:30px;"><strong>Program Elektif Bahasa Melayu Maktab Rendah (MLEP- JC) </strong></p>
 <table style="width:100%">
   <tr>
@@ -178,7 +179,7 @@ width:80% ;
 Untuk memuat turun brosur ini, klik <a href="/images/ML-PreU-Brosur-Program.png" target="_blank">di sini</a><br/>
 <a href="https://sites.google.com/view/emasmlep/home?authuser=0" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu</a><br/>
 <a href="/mlmoe/ML-PreU-Outreach-Secondary-Schools-Final.pdf" target="_blank">Program Elektif Bahasa Melayu Maktab Rendah (MLEP JC)</a>
-
+<br/><br/>
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
    <label for="tab-4" class="lbML">Aktiviti-aktiviti program MLEP-JC
