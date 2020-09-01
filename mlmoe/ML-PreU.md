@@ -27,8 +27,9 @@ width:80% ;
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-b/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/ML-PreU-Header3.jpg">
 
-<a href="#C1" style="font-size:20px"><span style="color:blue;">Sokongan Video</span></a><br/>
- <a href="#C2" style="font-size:20px"><span style="color:blue;">Program di Prauniversiti
+<a href="#C1" style="font-size:20px"><span style="color:blue;">Bahan Pengajaran dan Pembelajaran</span></a><br/>
+<a href="#C2" style="font-size:20px"><span style="color:blue;">Sokongan Ibu Bapa</span></a><br/>
+ <a href="#C3" style="font-size:20px"><span style="color:blue;">Program di Prauniversiti
 </span></a>
 <h4 style="color:green;font-size:30px;">Matlamat Pendidikan Prauniversiti </h4>  
  <p style="text-align:justify;">
@@ -37,9 +38,9 @@ width:80% ;
 <img src="/images/ML-PreU-Syllabus.jpeg">
 <a href="/Gallery/Annex A -Sukatan-Pelajaran-H1.pdf" target="_blank">Sukatan Pelajaran H1</a><br/>
 <a href="/Gallery/Annex B - Sukatan-Pelajaran-H2-&-H3.pdf" target="_blank">Sukatan Pelajaran H2 & H3</a><br/>
-<p id="C1" style="font-size:30px;"><strong>Sokongan Video </strong></p>
+<p id="C1" style="font-size:30px;"><strong>Bahan Pengajaran dan Pembelajaran </strong></p>
   <p style="text-align:justify;">
- Kami sediakan pautan video yang boleh didapati di ruang SLS untuk kegunaan pelajar:
+Berikut adalah video-video pengajaran yang kami sediakan di SLS bagi pembelajaran pelajar dan pengajaran guru.
 </p>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/qOTg6ZTNYWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">Hubungan Kekeluargaan</span>
 </center>
@@ -48,8 +49,9 @@ width:80% ;
  <iframe width="560" height="315" src="https://www.youtube.com/embed/iB2IAjZIYH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">Sudut Pandangan </span>
 </center>
 <br/>
+<p id="C2" style="font-size:30px;"><strong>Sokongan Ibu Bapa </strong></p>
 <p style="text-align:justify;">
- Kami sediakan pautan video yang memaparkan strategi untuk ibu bapa supaya dapat memberi sokongan pembelajaran kepada anak-anak mereka.
+Kami sediakan pautan video-video yang memaparkan strategi untuk ibu bapa supaya anda dapat memberi sokongan pembelajaran kepada anak-anak anda. 
 </p>
 <center>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/zEne6YrbUqI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">Video Membantu Pembelajaran Bahasa
@@ -61,7 +63,7 @@ width:80% ;
 </span>
 </center>
 <br/>
-<p id="C2" style="font-size:30px;"><strong>Program di Prauniversiti </strong> </p>
+<p id="C3" style="font-size:30px;"><strong>Program di Prauniversiti </strong> </p>
 <img src="/images/ML-PreU-Brosur-Program.png">
 <p>Untuk memuat turun brosur ini, klik <a href="/images/ML-PreU-Brosur-Program.png" target="_blank">di sini</a></p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
