@@ -156,7 +156,7 @@ width:80% ;
 
 </label>
      <div class="tab-content">
-      p><strong>Biasiswa MLEP-JC (MLES)</strong>
+      <p><strong>Biasiswa MLEP-JC (MLES)</strong>
       <ul>
        <li>Warganegara Singapura 
 </li>
