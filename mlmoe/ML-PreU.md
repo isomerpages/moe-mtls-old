@@ -220,10 +220,48 @@ Untuk memuat turun brosur ini, klik <a href="/images/ML-PreU-Brosur-Program.png"
 </p> 
   </div></div>
 
+<div class="row">
+ <div class="column">
+  <img src="/images/Perkhemahan-Kesusasteraan.png"><span style="font-size:20px">Perkhemahan Kesusasteraan
+</span><br/>
+</div>
+  <div class="column">
+  <img src="/images/Sesi-Bicara-Bersama-Penulis.png"><span style="font-size:20px">Sesi Bicara Bersama Penulis
+</span>
+     <br/>
+</div>
+      </div><br/>
 
+<div class="row">
+ <div class="column">
+  <img src="/images/Siri-Ceramah-MLEP.jpg"><span style="font-size:20px">Siri Ceramah MLEP
+</span><br/>
+</div>
+  <div class="column">
+  <img src="/images/Bengkel-Penterjemahan.png"><span style="font-size:20px">Bengkel Penterjemahan (MCI & BERITA Mediacorp)
+</span>
+     <br/>
+</div>
+ Penerbitan karya pelajar - Saujana Pujangga
+</div>
+      <br/>
 
+<p><img src="/images/Penerbitan-karya-pelajar.jpg"><span style="font-size:20px">Penerbitan karya pelajar - Saujana Pujangga
+</span></p>
 
-
+<h4>Program Penyerapan ke Luar negara
+</h4>
+<p><img src="/images/ML-Update-01092020.png"></p>
+<br/>
+<div class="row">
+ <div class="column">
+  <img src="/images/ML-update1-01092020.png"><br/>
+</div>
+  <div class="column">
+  <img src="/images/ML-Update2-01092020.jpg">
+     <br/>
+</div>
+      </div><br/>
 
 <p id="C1" style="font-size:30px;"><strong>Bahan Pengajaran dan Pembelajaran </strong></p>
   <p style="text-align:justify;">
