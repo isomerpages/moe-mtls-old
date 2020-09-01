@@ -9,6 +9,74 @@ breadcrumb: 'Pendidikan Bahasa Melayu (Prauniversiti)'
  <html>
 <body>
 <style>
+  table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td{
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  width:60%;
+}
+  .tab img{
+   width: 80%;
+ }
+  * {
+  box-sizing: border-box;
+}
+
+ .tab table {
+   display: none;
+}
+.tab table:target {
+  display: block;
+}
+ .column {
+  float: left;
+  width: 80%;
+  padding: 10px;
+}
+.atab label {
+    position: relative;
+    display: block;
+    background: #d14165;
+    color: #fff;
+    font-weight: 700;
+    padding: 10px;
+    cursor: pointer;
+ }
+ .row {
+    display: flex;
+    height: %;
+}
+ .atab label::after {
+  content: "+";
+  font-size: 22px;
+  position: absolute;
+  right: 10px;
+  top: 7px;
+  transition: all 0.4s;
+}
+ .atab input[type=checkbox]:checked + label::after,
+.atab input[type=radio]:checked + label::after {
+    content: 'x';
+    right: 14px;
+    top: 7px;
+  //transform:rotate(-225deg);
+   /* transform: rotate(90deg); */
+}
+.tab-content {
+  overflow: hidden;
+  display: none;
+  width:100%; 
+}
+.atab{
+  margin-bottom: 5px;
+  width:100%;  
+}
  iframe{
 border : 0;
 width:80% ;
@@ -38,7 +106,13 @@ width:80% ;
 <a href="/Gallery/Annex A -Sukatan-Pelajaran-H1.pdf" target="_blank">Sukatan Pelajaran H1</a><br/>
 <a href="/Gallery/Annex B - Sukatan-Pelajaran-H2-&-H3.pdf" target="_blank">Sukatan Pelajaran H2 & H3</a><br/>
 <p style="font-size:30px;"><strong>Program Elektif Bahasa Melayu Maktab Rendah (MLEP- JC) </strong></p>
-<center>Memperkasakan jati diri dan membina insan berilmu serta dinamik untuk mencapai keunggulan melalui aktiviti kebahasaan, kesusasteraan dan kebudayaan.</center>
+<table style="width:100%">
+  <tr>
+    <td><p>Memperkasakan jati diri dan membina insan berilmu serta dinamik untuk mencapai keunggulan melalui aktiviti kebahasaan, kesusasteraan dan kebudayaan.</p></td>
+    <td><img src="/images/ML-PreU-01092020.png"></td>
+   </tr>
+  
+</table>
 
 Untuk memuat turun brosur ini, klik <a href="/images/ML-PreU-Brosur-Program.png" target="_blank">di sini</a><br/>
 <a href="https://sites.google.com/view/emasmlep/home?authuser=0" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu</a><br/>
