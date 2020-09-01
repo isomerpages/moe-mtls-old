@@ -242,8 +242,8 @@ Untuk memuat turun brosur ini, klik <a href="/images/ML-PreU-Brosur-Program.png"
 </span>
      <br/>
 </div>
- Penerbitan karya pelajar - Saujana Pujangga
-</div>
+ </div>
+ <p>Penerbitan karya pelajar - Saujana Pujangga</p>
       <br/>
 
 <p><img src="/images/Penerbitan-karya-pelajar.jpg"><span style="font-size:20px">Penerbitan karya pelajar - Saujana Pujangga
