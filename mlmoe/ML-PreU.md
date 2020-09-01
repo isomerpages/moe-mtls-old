@@ -168,7 +168,8 @@ width:80% ;
 </li>
        <li>Subsidi penuh bagi Program Penyerapan ke Luar Negara
 </li>
-       <li></li>
+       <li>Sijil pengiktirafan
+</li>
       </ul>
  Sila rujuk pautan-pautan ini jika ingin informasi selanjutnya.
 </p>    
@@ -177,6 +178,51 @@ width:80% ;
 Untuk memuat turun brosur ini, klik <a href="/images/ML-PreU-Brosur-Program.png" target="_blank">di sini</a><br/>
 <a href="https://sites.google.com/view/emasmlep/home?authuser=0" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu</a><br/>
 <a href="/mlmoe/ML-PreU-Outreach-Secondary-Schools-Final.pdf" target="_blank">Program Elektif Bahasa Melayu Maktab Rendah (MLEP JC)</a>
+
+<div class="atab">
+      <input id="tab-4" type="checkbox" name="tab">
+   <label for="tab-4" class="lbML">Aktiviti-aktiviti program MLEP-JC
+</label>
+     <div class="tab-content">
+      <p><strong>Anjuran MOE:</strong>
+      <ul>
+       <li>Perkhemahan Kesusasteraan Melayu 
+</li>
+       <li>Bengkel Penterjemahan  (MOE-MCI)
+</li>
+       <li>Siri Ceramah MLEP
+</li>
+       <li>Program Penyerapan ke Luar Negara (Malaysia, Indonesia, Brunei Darusalam)
+</li>
+       <li>Penerbitan Karya-karya Pelajar - Saujana Pujangga 
+</li>
+       <li>Dialog bersama Pemimpin Masyarakat
+</li>
+        <li>Program Latihan Amali
+</li>
+      </ul>
+</p>  
+ 
+ <p><strong>Anjuran  Maktab Rendah:
+</strong>
+      <ul>
+       <li>Kegiatan Penglibatan dalam Masyarakat
+</li>
+       <li>Bengkel Penulisan
+</li>
+       <li>Bengkel Drama
+</li>
+       <li>Bengkel Budaya
+</li>
+       <li>Darmawisata
+</li></ul>
+</p> 
+  </div></div>
+
+
+
+
+
 
 <p id="C1" style="font-size:30px;"><strong>Bahan Pengajaran dan Pembelajaran </strong></p>
   <p style="text-align:justify;">
