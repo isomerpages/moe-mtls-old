@@ -37,14 +37,14 @@ width:80% ;
 <img src="/images/ML-PreU-Syllabus.jpeg">
 <a href="/Gallery/Annex A -Sukatan-Pelajaran-H1.pdf" target="_blank">Sukatan Pelajaran H1</a><br/>
 <a href="/Gallery/Annex B - Sukatan-Pelajaran-H2-&-H3.pdf" target="_blank">Sukatan Pelajaran H2 & H3</a><br/>
-<p style="font-size:30px;"><strong>Bahan Pengajaran dan Pembelajaran </strong></p>
+<p style="font-size:30px;"><strong>Program Elektif Bahasa Melayu Maktab Rendah (MLEP- JC) </strong></p>
 <center>Memperkasakan jati diri dan membina insan berilmu serta dinamik untuk mencapai keunggulan melalui aktiviti kebahasaan, kesusasteraan dan kebudayaan.</center>
 
 Untuk memuat turun brosur ini, klik <a href="/images/ML-PreU-Brosur-Program.png" target="_blank">di sini</a><br/>
 <a href="https://sites.google.com/view/emasmlep/home?authuser=0" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu</a><br/>
 <a href="/mlmoe/ML-PreU-Outreach-Secondary-Schools-Final.pdf" target="_blank">Program Elektif Bahasa Melayu Maktab Rendah (MLEP JC)</a>
 
-<p id="C1" style="font-size:30px;"><strong>Program Elektif Bahasa Melayu Maktab Rendah (MLEP-JC)</strong></p>
+<p id="C1" style="font-size:30px;"><strong>Bahan Pengajaran dan Pembelajaran </strong></p>
   <p style="text-align:justify;">
 Berikut adalah video-video pengajaran yang kami sediakan di SLS bagi pembelajaran pelajar dan pengajaran guru.
 </p>
