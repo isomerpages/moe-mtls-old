@@ -1,7 +1,7 @@
 ---
-title: '学前中心'
+title: '学前教育'
 permalink: /clmoe/CL_PreSchool/
-breadcrumb: '学前中心'
+breadcrumb: '学前教育'
 ---
 <html>
 <body>
