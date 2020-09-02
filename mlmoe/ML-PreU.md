@@ -246,7 +246,7 @@ Untuk memuat turun brosur ini, klik <a href="/images/ML-PreU-Brosur-Program.png"
 <p><img src="/images/Penerbitan-karya-pelajar.jpg"><span style="font-size:20px">Penerbitan karya pelajar - Saujana Pujangga
 </span></p>
 
-<h4>Program Penyerapan ke Luar negara
+<h4 style="color:green;">Program Penyerapan ke Luar negara
 </h4>
 <p><img src="/images/ML-Update-01092020.png"></p>
 <br/>
