@@ -221,63 +221,51 @@ width:80%;
  
 <div class="row">
  <div class="column">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/z1DOuNAkQc8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px;">ASRJC Poetry Forum with Local Poet Pichanikaadu Ilango 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/z1DOuNAkQc8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">ஆண்டர்சன் சிராங்கூன் தொடக்கக்கல்லூரி ஏற்பாடு செய்த கவிதைக் கருத்தாடலில் உள்ளூர்க் கவிஞர் பிச்சினிக்காடு இளங்கோ அவர்களின் பகிர்வு
 </span>
   <br/>
-     *Video is best viewed in 1080p.<br/>
 </div>
   <div class="column">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/QWvTSMtiopU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:20px;">Q& A session with Local Poet & ASRJC students</span>
-   <br/>
-     *Video is best viewed in 1080p.<br/>
+<br/><span style="font-size:18px;">கவிஞர் பிச்சினிக்காடு இளங்கோ அவர்களிடம் மாணவர்கள் தொடுக்கும் வினாக்கள்.</span>
  </div></div>
  <br/>
 <div class="row">
  <div class="column">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ss0CN2L5SYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:20px;">ASRJC student’s sharing on Poet Azha Valliappa
+<br/><span style="font-size:18px;">குழந்தைக் கவிஞர் அழ. வள்ளியப்பா அவர்களின் பாடல்களைப்பற்றி ஆண்டர்சன் சிராங்கூன் தொடக்கக்கல்லூரி மாணவி வள்ளி பகிர்ந்துகொண்டார்.    
 </span>
-  <br/>
-     *Video is best viewed in 1080p.<br/>
 </div>
   <div class="column">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZbvDUQFSdO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:20px;">NJC students’ quick sharing on Poet Azha Valliappa’s poems
+<br/><span style="font-size:18px;">குழந்தைக் கவிஞர் அழ. வள்ளியப்பா  அவர்களின் பாடல்களைப்பற்றித் தேசியத் தொடக்கக்கல்லூரி மாணவர்கள் பகிர்ந்துகொண்டனர்.    
 </span>
-   <br/>
-     *Video is best viewed in 1080p.<br/>
  </div></div>
  <br/>
  <div class="row">
  <div class="column">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YtnQl3v5-Ys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px;">Student Vaishnavi’s sharing on Short Story
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YtnQl3v5-Ys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">ஆண்டர்சன் சிராங்கூன் தொடக்கக்கல்லூரியைச் சேர்ந்த  மாணவி வைஷ்ணவியின் சிறுகதைப் பகிர்வு 
 </span>
-  <br/>
-     *Video is best viewed in 1080p.<br/>
 </div>
   <div class="column">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/GfLuSyFwYF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px;">Student Nanthini's sharing on Short Story 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/GfLuSyFwYF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">ஆண்டர்சன் சிராங்கூன் தொடக்கக்கல்லூரியைச் சேர்ந்த மாணவி நந்தினியின் சிறுகதைப் பகிர்வு  
 </span>
-   <br/>
-     *Video is best viewed in 1080p.<br/>
    </div></div>
  <br/>
  <center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/eQXI0DqaCBs" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:20px;">Online Poetry Discourse with Poet PachaiBalan
+<br/><span style="font-size:18px;">மலேசியா கவிஞர் பச்சைபாலன் அவர்களோடு ஒரு கவிதைக் கருத்தாடல்  
 </span></center>
-<br/>
-     *Video is best viewed in 1080p.<br/>
+
  <h4 id="C4"><span style="font-size:30px;color:purple;">பால்மரக்காட்டினிலே – கற்றல் பயணம்
  </span></h4>
- <p style="text-align:justify;">தமிழ்மொழி கற்றல் வளர்ச்சி குழுவின் ஆதரவில் தொடக்கக் கல்லூரி ஆசிரியர்கள் சென்ற ஆண்டு நவம்பர் 10 -ஆம் தேதி சிரம்பான் ரப்பர்த் தோட்டத்திற்குக் கற்றல் பயணத்தை மேற்கொண்டனர். பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2 இலக்கியப்பாடத்திற்கான நாவல் பால்மரக்காட்டினிலே ஆகும். மலேசிய ரப்பர் தோட்டங்களில் பணிபுரியும் தமிழர்களின் வாழ்க்கையைப் பற்றிய கதை அது. நாவலில் நிகழ்ந்த சம்பவங்களையும் பால்வெட்டு ஊழியர்களின் வாழ்க்கைமுறையையும் நேரில் காணும்வண்ணம் இந்தக் கற்றல் பயணம் ஏற்பாடு செய்யப்பெற்றது. ரப்பர் மரங்கள், பால்வெட்டும் செயல்முறை, பால்வெட்டு ஊழியர்களின் அணுகுமுறை, பால் சேகரிக்கப்படும் இடங்கள் முதலியவற்றை ஆசிரியர்கள் நேரடியாக அறிந்துகொள்ளும்வண்ணம் பயன்மிக்க கற்றல் பயணமாக அமைந்தது.
+ <p style="text-align:justify;">தமிழ்மொழி கற்றல் வளர்ச்சி குழுவின் ஆதரவில் தொடக்கக் கல்லூரி ஆசிரியர்கள் சென்ற ஆண்டு நவம்பர் 10-ஆம் தேதி சிரம்பான் ரப்பர்த் தோட்டத்திற்குக் கற்றல் பயணத்தை மேற்கொண்டனர். பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2 இலக்கியப்பாடத்திற்கான நாவல் பால்மரக்காட்டினிலே ஆகும். மலேசிய ரப்பர்த் தோட்டங்களில் பணிபுரியும் தமிழர்களின் வாழ்க்கையைப் பற்றிய கதை அது. நாவலில் நிகழ்ந்த சம்பவங்களையும் பால்வெட்டு ஊழியர்களின் வாழ்க்கைமுறையையும் நேரில் காணும்வண்ணம் இந்தக் கற்றல் பயணம் ஏற்பாடு செய்யப்பெற்றது. ரப்பர் மரங்கள், பால்வெட்டும் செயல்முறை, பால்வெட்டு ஊழியர்களின் அணுகுமுறை, பால் சேகரிக்கப்படும் இடங்கள் முதலியவற்றை ஆசிரியர்கள் நேரடியாக அறிந்துகொள்ளும்வண்ணம் பயன்மிக்க கற்றல் இது பயணமாக அமைந்தது.
 </p>
 <h4><span style="font-size:30px;color:purple;">நாவல் - பால்மரக்காட்டினிலே  
 </span></h4>
 <table style="width:100%">
   <tr>
-    <td><p style="text-align:justify;">1975இல் அகிலன் மலேசியத் தமிழ் எழுத்தாளர் சங்கத்தின் அழைப்பையேற்று மலேசியாவில் நான்கு வாரம் பயணம் மேற்கொண்டார். ‘வரும் போது நாவலுடன் வாருங்கள்' என்று சொன்னாராம் கலைமகள் ஆசிரியர் கி.வா.ஜ. உடனிருந்த கலைமகள் அதிபர் ராமரத்னமும் ஆமோதித்தாராம். அதன் விளைவாக ஒரு நாவலுக்கான கருப்பொருளைத் தேடிக்கொண்டிருந்தவர், மலேசிய ரப்பர் தோட்டங்களில் பணிபுரியும் தமிழர்களின் வாழ்க்கையைப் பற்றி நாவல் எழுதலாம் என்று தீர்மானித்து அதற்குரிய முயற்சிகளை மேற்கொண்டாராம். அதன் விளைவு தான் ‘பால்மரக்காட்டினிலே’ என்ற நாவல். 
+    <td><p style="text-align:justify;">1975-இல் அகிலன் மலேசியத் தமிழ் எழுத்தாளர் சங்கத்தின் அழைப்பையேற்று மலேசியாவில் நான்கு வாரம் பயணம் மேற்கொண்டார். கலைமகள் ஆசிரியர் கி.வா.ஜ, “வரும்போது நாவலுடன் வாருங்கள்” என்று சொன்னாராம். உடனிருந்த கலைமகள் அதிபர் ராமரத்னமும் ஆமோதித்தாராம். அதன் விளைவாக ஒரு நாவலுக்கான கருப்பொருளைத் தேடிக்கொண்டிருந்த அகிலன், மலேசிய ரப்பர்த் தோட்டங்களில் பணிபுரியும் தமிழர்களின் வாழ்க்கையைப் பற்றி நாவல் எழுதலாம் என்று தீர்மானித்து அதற்குரிய முயற்சிகளை மேற்கொண்டார். அதன் விளைவு தான் ‘பால்மரக்காட்டினிலே’ என்ற நாவல்.
      </p></td>
     <td><img src="/images/TL-PreU-updateImg.jpg">
    <br/>
@@ -289,8 +277,6 @@ width:80%;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Db0MlO7f9Ow" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px;">சிரம்பான் ரப்பர்த் தோட்டத்திற்குக் கற்றல் பயணம்
 </span>
 </center>
-<br/>
-     *Video is best viewed in 1080p.<br/>
 <h4 id="C5"><span style="font-size:30px;color:purple;">இணையவழிக்   கற்றல்
  </span></h4>
   <img src="/images/TL-PreU_OnlineLearning.jpg">

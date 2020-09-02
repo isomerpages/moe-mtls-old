@@ -222,7 +222,7 @@ Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, sediakan persek
 
 <img src="/images/Motivator.png"><br/>
 <img src="/images/Role-Model.png"><br/>
-<img src="/images/Facilitator.png"><br/>
+<img src="/images/Facilitator2.png"><br/>
 <p>Sila rujuk lampiran-lampiran ini sekiranya ingin tahu lebih lanjut,
 <br/>
   <a href="https://beta.moe.gov.sg/uploads/secondary-school-education-booklet-malay.pdf" target="_blank">https://beta.moe.gov.sg/uploads/secondary-school-education-booklet-malay.pdf</a><br/><br/>
@@ -276,7 +276,7 @@ Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, sediakan persek
      <a href="https://www.facebook.com/groups/MalayLibraryServices.SG" target="_blank">Perpustakaan Negara Singapura
  </a><br/>
        <ul><li>Mari Bercerita – Setiap Minggu <br/> 
-Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
+(Selasa, 8.00 malam / Sabtu, 11.30 pagi)</li>
          <li>Saranan Bacaan – 2 kali setiap bulan  <br/>
 (Khamis pertama & ketiga)
 </li>
@@ -284,7 +284,7 @@ Selasa, 8.00 malam / Sabtu, 11.30 pagi</li>
 (Sabtu ke 2, 2.30ptg)
 </li>
          <li>Ilmu Pustaka – Setiap bulan  <br/>
-(Sabtu ke 4, 2.3p ptg
+(Sabtu ke 4, 2.30ptg)
 </li>
          <li>Bicara Kata – Setiap bulan  <br/>
 (Ikut Jadual Khas)
