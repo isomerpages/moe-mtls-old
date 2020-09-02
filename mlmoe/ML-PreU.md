@@ -148,7 +148,7 @@ width:80% ;
        <p><strong>Pasca-JAE</strong>
        <ul>
        <li>Pihak sekolah masih boleh menerima masuk pelajar ke Program MLEP-JC selepas Latihan JAE. </li>
-        <li>Untuk layak, pelajar perlu menawarkan subjek <u>H2 Bahasa dan Kesusasteraan Melayu (H2MLL) </u> dalam permohonan mereka. </li> </ul></p> 
+        <li>Untuk layak, pelajar perlu menawarkan subjek H2 Bahasa dan Kesusasteraan Melayu (H2MLL) dalam permohonan mereka. </li> </ul></p> 
        </div></div>
   
   <div class="atab">
@@ -176,7 +176,8 @@ width:80% ;
 </p>    
   </div></div>
 
-Untuk memuat turun brosur ini, klik <a href="/images/ML-PreU-Brosur-Program.png" target="_blank">di sini</a><br/>
+Sila klik pautan-pautan di bawah ini jika ingin informasi selanjutnya.<br/>
+<a href="/images/ML-PreU-Brosur-Program.png" target="_blank">Brosur MLEP</a><br/>
 <a href="https://sites.google.com/view/emasmlep/home?authuser=0" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu</a><br/>
 <a href="/mlmoe/ML-PreU-Outreach-Secondary-Schools-Final.pdf" target="_blank">Program Elektif Bahasa Melayu Maktab Rendah (MLEP JC)</a>
 <br/><br/>
