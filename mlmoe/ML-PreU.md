@@ -172,7 +172,6 @@ width:80% ;
        <li>Sijil pengiktirafan
 </li>
       </ul>
- Sila rujuk pautan-pautan ini jika ingin informasi selanjutnya.
 </p>    
   </div></div>
 
