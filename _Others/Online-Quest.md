@@ -14,6 +14,8 @@ collection_name: Others
 
   gtag('config', 'AW-726049306');
 </script>
-<h4>Coming soon in November.</h4><br/>
-<iframe src="https://player.vimeo.com/video/452631885" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
+<iframe src="https://player.vimeo.com/video/452631885" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><br/>
+<h4>Online Quest</h4>
+This November, the e-MTLS Online Quest warmly invites children to join the MTLS mascots, Peppy, Kavin, Sani and Xiao Tao for a playdate and experience the joy of learning our MTLs. <br/><br/>
+Come discover why the mascots are shrunk and help them restore back to their normal size. Challenge yourselves to eight interactive task-based games to earn ingredients and create a magical potion. <br/><br/>
+Embark on an exciting and magical journey with Peppy, Kavin, Sani and Xiao Tao at the e-MTLS Online Quest!
