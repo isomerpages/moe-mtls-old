@@ -26,9 +26,9 @@ Embark on an exciting and magical journey with Peppy, Kavin, Sani and Xiao Tao a
 小桃、加文、佩比和山尼等着你和他们一起完成这段精彩奇幻的旅程！</span>
 
 <h4>Misi dalam Talian</h4>
-<span style="text-align:justify;">Pada bulan November ini, Misi dalam Talian e-MTLS menjemput kanak-kanak turut serta bermain bersama-sama maskot-maskot MTLS, Peppy, Kavin, Sani dan Xiao Tao dan mengalami keseronokan mempelajari bahasa Ibunda. <br/><br/>
+<span style="text-align:justify;">Pada bulan November ini, Misi dalam Talian e-MTLS menjemput kanak-kanak turut serta bermain bersama-sama maskot-maskot MTLS, Peppy, Kavin, Sani dan Xiao Tao dan mengalami keseronokan mempelajari bahasa Ibunda. <br/><br/></span>
 Ayuh, teroka sebab maskot-maskot ini berubah menjadi kecil dan bantu mereka kembali ke saiz normal. Cabar diri kamu supaya dapat menyelesaikan lapan permainan berasaskan tugasan interaktif untuk mengumpulkan bahan bagi  mencipta cecair ajaib. <br/><br/>
-Mulakan kembara yang penuh keajaiban bersama-sama Peppy, Kavin, Sani dan Xiao Tao di Misi dalam Talian e-MTLS!</span>
+Mulakan kembara yang penuh keajaiban bersama-sama Peppy, Kavin, Sani dan Xiao Tao di Misi dalam Talian e-MTLS!
 
 <h4>இணையத்துவழிப் புதிர் வேட்டை   </h4>
 <span style="text-align:justify;">இவ்வாண்டு நவம்பர் மாதம் நடைபெறவிருக்கும் இணையவழிப் புதிர்வேட்டை மின்வழித் தாய்மொழிகளுக்கான கருத்தரங்குச் சின்னங்களான பெப்பி, கவின், சனி, சியாவ் தாவ்  ஆகியோருடன் சேர்ந்து தாய்மொழிகளை மகிழ்ச்சியூட்டும் வகையில் கற்றுக்கொள்ளச் சிறார்களை அழைக்கின்றது.<br/><br/>
