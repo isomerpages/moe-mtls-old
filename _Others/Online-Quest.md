@@ -20,8 +20,8 @@ collection_name: Others
 Come discover why the mascots are shrunk and help them restore back to their normal size. Challenge yourselves to eight interactive tasks to earn ingredients and create a magical potion. <br/><br/>
 Embark on an exciting and magical journey with Peppy, Kavin, Sani and Xiao Tao at the e-MTLS Online Quest!</p>
 
-<h3 style="font-family:KaiTi">母语乐园奇妙探险之旅</h3>
-<p style="font-family:KaiTi; font-size:25px;text-align:justify;">在来临的11月，“母语乐园奇妙探险之旅”邀请小朋友们和小桃、加文、佩比、山尼一起到母语论坛游戏屋闯关玩游戏，体验学习母语的乐趣。<br/><br/>
+<h4 style="font-family:KaiTi">母语乐园奇妙探险之旅</h4>
+<p style="font-family:KaiTi; font-size:22px;text-align:justify;">在来临的11月，“母语乐园奇妙探险之旅”邀请小朋友们和小桃、加文、佩比、山尼一起到母语论坛游戏屋闯关玩游戏，体验学习母语的乐趣。<br/><br/>
 你知道小桃、加文、佩比和山尼为什么会变得这么小吗？你想帮他们变回原来的样子吗？只要你在母语论坛游戏屋完成八个任务，收集材料制作出魔法药水，就可以帮助他们变回原来的样子。 <br/><br/>
 小桃、加文、佩比和山尼等着你和他们一起完成这段精彩奇幻的旅程！
 </p>
