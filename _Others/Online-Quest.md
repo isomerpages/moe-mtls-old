@@ -17,17 +17,18 @@ collection_name: Others
 <iframe src="https://player.vimeo.com/video/452631885" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <h4>Online Quest</h4>
 <p style="text-align:justify">This November, the e-MTLS Online Quest warmly invites children to join the MTLS mascots, Peppy, Kavin, Sani and Xiao Tao for a playdate and experience the joy of learning our MTLs. <br/><br/>
-Come discover why the mascots are shrunk and help them restore back to their normal size. Challenge yourselves to eight interactive task-based games to earn ingredients and create a magical potion. <br/><br/>
+Come discover why the mascots are shrunk and help them restore back to their normal size. Challenge yourselves to eight interactive tasks to earn ingredients and create a magical potion. <br/><br/>
 Embark on an exciting and magical journey with Peppy, Kavin, Sani and Xiao Tao at the e-MTLS Online Quest!</p>
 
-<h3 style="font-family:KaiTi">母语乐园奇妙探险之旅</h3>
-<p style="font-family:KaiTi; font-size:25px;text-align:justify;">在来临的11月，“母语乐园奇妙探险之旅”邀请小朋友们和小桃、加文、佩比、山尼一起到母语论坛游戏屋闯关玩游戏，体验学习母语的乐趣。<br/><br/>
+<h4 style="font-family:KaiTi">母语乐园奇妙探险之旅</h4>
+<p style="font-family:KaiTi; font-size:21px;text-align:justify;">在来临的11月，“母语乐园奇妙探险之旅”邀请小朋友们和小桃、加文、佩比、山尼一起到母语论坛游戏屋闯关玩游戏，体验学习母语的乐趣。<br/><br/>
 你知道小桃、加文、佩比和山尼为什么会变得这么小吗？你想帮他们变回原来的样子吗？只要你在母语论坛游戏屋完成八个任务，收集材料制作出魔法药水，就可以帮助他们变回原来的样子。 <br/><br/>
-小桃、加文、佩比和山尼等着你和他们一起完成这段精彩奇幻的旅程！</p>
+小桃、加文、佩比和山尼等着你和他们一起完成这段精彩奇幻的旅程！
+</p>
 
 <h4>Misi dalam Talian</h4>
-<p style="text-align:justify">Pada bulan November ini, Misi dalam Talian e-MTLS menjemput kanak-kanak turut serta bermain bersama-sama maskot-maskot MTLS, Peppy, Kavin, Sani dan Xiao Tao dan mengalami keseronokan mempelajari bahasa Ibunda. <br/><br/>
-Ayuh, teroka sebab maskot-maskot ini berubah menjadi kecil dan bantu mereka kembali ke saiz asal. Cabar diri kamu supaya dapat menyelesaikan lapan permainan berasaskan tugasan interaktif untuk mengumpulkan bahan-bahan untuk mencipta cecair ajaib. <br/><br/>
+<p style="text-align:justify">Pada bulan November ini, Misi dalam Talian e-MTLS menjemput kanak-kanak turut serta bermain bersama-sama maskot-maskot MTLS, Peppy, Kavin, Sani dan Xiao Tao dan mengalami keseronokan mempelajari bahasa Ibunda.<br/><br/>
+Ayuh, teroka sebab maskot-maskot ini berubah menjadi kecil dan bantu mereka kembali ke saiz asal. Cabar diri kamu supaya dapat menyelesaikan lapan tugasan interaktif untuk mengumpulkan bahan-bahan untuk mencipta cecair ajaib.<br/><br/>
 Mulakan kembara yang penuh keajaiban bersama-sama Peppy, Kavin, Sani dan Xiao Tao di Misi dalam Talian e-MTLS!</p>
 
 <h4>இணையத்துவழிப் புதிர் வேட்டை</h4>
