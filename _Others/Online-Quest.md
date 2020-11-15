@@ -14,7 +14,7 @@ collection_name: Others
 
   gtag('config', 'AW-726049306');
 </script>
-
+<img src="/images/07_Facebook Single Static.png" style="display:block;">
 <h4>Online Quest</h4>
 <p style="text-align:justify">This November, the e-MTLS Online Quest warmly invites children to join the MTLS mascots, Peppy, Kavin, Sani and Xiao Tao for a playdate and experience the joy of learning our MTLs. <br/><br/>
 Come discover why the mascots are shrunk and help them restore back to their normal size. Challenge yourselves to eight interactive tasks to earn ingredients and create a magical potion. <br/><br/>
