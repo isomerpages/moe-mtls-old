@@ -27,7 +27,7 @@ Click here to play the Online Quest in Malay Language:<br/>
   <br/><br/>
 Click here to play the Online Quest in Tamil Language:<br/>
 <a href="https://onlinequest.mllpc.sg/tamillanguage/" target="_blank">https://onlinequest.mllpc.sg/tamillanguage/ </a><br/>
-<span style="font-size:12px">Note: Android device users are encouraged to use Chrome browsers for maximum compatibility. </span>
+<span style="font-size:12px">Note: Kindly use Chrome browsers on a desktop/laptop computer for maximum compatibility. </span>
 </p>
 
 <h4 style="font-family:KaiTi">母语乐园奇妙探险之旅</h4>
