@@ -132,7 +132,7 @@ width:80%;
        <li style="font-size:25px;font-family:KaiTi">对本地文化有初步的认识</li></ul>
          </li>
      <li style="font-size:25px;font-family:KaiTi">这套教学资源除了支持幼儿的双语发展，也体现了非常浓厚的本土特色。目前，教育部幼儿园都在课堂内使用这套教学资源。</li>
-     <li style="font-size:25px;font-family:KaiTi">大图书共享阅读是教育部幼儿园课堂内使用的教学法。共享阅读让幼儿享受阅读的乐趣，并鼓励幼儿通过有趣的活动，掌握听、说、读的能力。欲知教学步骤，请点击<a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Chi/CL-MTLS-pre-sch-Annex1.pdf" target="_blank" style="font-family:KaiTi;">此处</a>.</li>
+     <li style="font-size:25px;font-family:KaiTi">大图书共享阅读是教育部幼儿园课堂内使用的教学法。共享阅读让幼儿享受阅读的乐趣，并鼓励幼儿通过有趣的活动，掌握听、说、读的能力。欲知教学步骤，请点击<a href="/clmoe/CL-MTLS-pre-sch-Annex1.pdf" target="_blank" style="font-family:KaiTi;">此处</a>.</li>
      </p>
 </ol>
    <img src="/images/CL-Presch-Textbook.jpg">   
@@ -142,8 +142,8 @@ width:80%;
   <br/><br/>
 <h4 id="C3"><img src="/images/CL-PreSch-Discovery2.jpg"> <br/>
   <span style="font-size:25px;font-family:KaiTi">欲了解“奥秘探索周计划”的活动点子设计，请阅读相关活动设计:<br/> </span>
-  <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Activity%20Ideas/Chinese/PDF/K2/2018/NEL-Portal-Big-Book-Activity-Ideas-%E5%A4%A7-%E5%9B%BE-%E4%B9%A6-%E8%B5%84-%E6%BA%90-%E6%88%91-%E4%B9%9F-%E8%A6%81-%E5%AD%A6-MK@PV-%E6%AD%A6-%E6%9C%AF.pdf" target="_blank" style="font-family:KaiTi">“风”</a><br/>
-<a href="https://www.nel.moe.edu.sg/qql/slot/u577/%E4%BC%A0%E7%BB%9F%E7%BE%8E%E9%A3%9F%E4%B8%8E%E9%A5%AE%E9%A3%9F%E6%96%87%E5%8C%96/NEL%20Portal%20%E5%8D%B0%E5%BA%A6%E7%85%8E%E9%A5%BC_Punggol%20View.pdf" target="_blank" style="font-family:KaiTi">“我来做红鸡蛋”</a>
+  <a href="/clmoe/CL-MTLS-pre-sch-Annex2.pdf" target="_blank" style="font-family:KaiTi">“风”</a><br/>
+<a href="/clmoe/CL-MTLS-pre-sch-Annex3.pdf" target="_blank" style="font-family:KaiTi">“我来做红鸡蛋”</a>
 <h4 id="C4"><span style="font-family:KaiTi;font-size:35px;">居家活动好点子</span></h4>
 <h4 style="font-family:KaiTi;font-size:25px;">
   点子一: 我的家 —— 金字塔书</h4>
