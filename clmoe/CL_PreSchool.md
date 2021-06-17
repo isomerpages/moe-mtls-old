@@ -148,18 +148,29 @@ width:80%;
 <h4 style="font-family:KaiTi;font-size:25px;">
   点子一: 我的家 —— 金字塔书</h4>
   <p style="font-size:25px;font-family:KaiTi">
-配合第二学段课程主题 —— 我周围有谁，有哪些地方？<br/><br/>
-         先和孩子介绍家里的不同地方，如：客厅、厨房、睡房等。接着，和孩子一起制作金字塔书。你们可以参考视频做出属于孩子独特的金字塔书。孩子可以根据家里的情况画出不同的装饰。完成后，让孩子用金字塔书来说说自己在家的一日活动吧！</p>
+配合第一学段课程主题 —— 我是谁？<br/><br/>
+    你和孩子一起制作四页书。你可以点按以下链接 <a href="https://tinyurl.com/4pagebook2021" target="_blank">（https://tinyurl.com/4pagebook2021）</a>，跟着视频做出属于孩子的心情小书。在每一页，让孩子画出让他快乐／伤心／生气／害怕的事情。完成活动后，让孩子用小书来说一说自己心情！为增添趣味，你也可以准备不同的颜色纸和手工材料让孩子使用。
+</p>
        <center>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/mhJoflfcZWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi">金字塔书制作视频
 </span></center><br/>
    <br/>
-<h4 style="font-family:KaiTi;font-size:25px;">点子二：美味的古拉姆（Kolam）</h4>
+<h4 style="font-family:KaiTi;font-size:25px;">点子二: 我家附近 </h4>
   <p style="font-size:25px;font-family:KaiTi">
-         配合第三学段课程主题 —— 我和谁共享这个世界？<br/><br/>
-         古拉姆是兴都教徒在家门前地上的绘图装饰。旧时，人们常受不同虫子干扰，于是用面粉或谷类在门前绘图，让虫子有食物吃，它们就不会进屋里。<br/><br/>
-         古拉姆一般都是对称的图案。你可以根据古拉姆图案的特点，和孩子在家绘制属于你们的古拉姆，而且，还是可以吃的古拉姆！选择一些家中即有的食材，例如：沙拉里不同种类的食材（水果、蔬菜、坚果、酱料等）、“一锅煮”的蔬菜杂烩食材、养生汤的药材等，然后进行“摆盘”以制作古拉姆。你可以一边摆，一边说出食材；也可以为孩子录像，让孩子介绍自己设计的古拉姆。
+         配合第二学段课程主题 —— 我周围有谁，有哪些地方？
+<br/><br/>
+         孩子熟悉你们家的环境吗？他知道住家附近有哪些地方吗？你可以和孩子一起朗读以下的儿歌，问一问孩子儿歌里出现的地方你们家附近也有吗？
 </p>
+  <p style="font-size:25px;font-family:KaiTi, text-align:center">
+  《我家附近》<br/>
+  我家附近真热闹，不信你来瞧一瞧。<br/>
+  这里有间咖啡店，小贩阿姨很亲切。<br/>
+  各种美味的佳肴，饿了可以吃个饱。<br/>
+  这里有间图书馆，有报纸，有杂志，<br/>
+  还有很多故事书，一家大小都喜欢。<br/>
+  这里有邻里警岗，警察叔叔很友善。<br/><br/>
+</p>
+  <p style="font-size:25px;font-family:KaiTi">你也可使用 ,a href="https://www.google.com/earth" target="_blank">卫星地图影像 </a>，和孩子一起看一看，认识你们家附近有些什么地方和设施</p>
   <img src="/images/CL-preSch-Kolam2.jpg">
   <br/>
 <table>
@@ -167,8 +178,10 @@ width:80%;
          <td><h4 style="font-family:KaiTi;font-size:25px;">
     点子三：水会变变变</h4>
    <p style="font-size:25px;font-family:KaiTi">        
-配合第四学段课程主题 —— 我周围的事物是怎么运作的？<br/><br/>
-   让孩子观察冰块融化的过程，并画出水在不同阶段（开始、10分钟、30分钟）的状态。活动结束后，让他/她与您分享所观察到的变化。
+配合第三学段课程主题 —— 我和谁共享这个世界？
+<br/><br/>
+  孩子使用身体的部位书空不同的笔画——小至手指、手，大至脚、腰甚至使用全身。你可以根据幼儿的兴趣和能力挑战以下不同的笔画：<br/><br/>
+     <img src="/images/presch1.png">
 </p> 
 </td>
 <td>
