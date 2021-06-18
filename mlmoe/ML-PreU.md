@@ -109,7 +109,8 @@ width:80% ;
 <p style="font-size:30px;"><strong>Program Elektif Bahasa Melayu Maktab Rendah (MLEP- JC) </strong></p>
 <table style="width:100%">
   <tr>
-    <td><p>Memperkasakan jati diri dan membina insan berilmu serta dinamik untuk mencapai keunggulan melalui aktiviti kebahasaan, kesusasteraan dan kebudayaan.</p></td>
+    <td><p>Visi MLEP-JC<br/><br/>
+     Memperkasakan jati diri dan membina insan berilmu serta dinamik untuk mencapai keunggulan melalui aktiviti kebahasaan, kesusasteraan dan kebudayaan.</p></td>
     <td><img src="/images/ML-PreU-01092020.png"></td>
    </tr>
   </table>
