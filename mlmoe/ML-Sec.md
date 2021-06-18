@@ -171,7 +171,7 @@ width:100%;
   <tr>
     <td style=" text-align: left;
   padding: 8px;width:50%">
-  <img src="/mlmoe-sec2.png"></td>
+  <img src="/mlmoe/ml-sec2.png"></td>
     <td style=" text-align: left;
   padding: 8px; width:50%"><p>Dalam kurikulum baharu ini, aspek budaya didekati dengan cara yang lebih menarik. Pelajar diajak meneroka, mengumpul maklumat dan membuat rumusan tentang budaya mereka sendiri. Mereka mengaitkan aspek budaya dengan kehidupan mereka lalu memikirkan cara untuk melestarikannya dalam dunia yang sering berubah-ubah.</p></td>
     </tr>
