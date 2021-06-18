@@ -127,10 +127,10 @@ width:100%;
 </th>
   </tr>
   <tr>
-    <td style=" text-align: left;padding: 8px;">berkomunikasi dengan menggunakan bahasa Melayu baku<br/><br/><br/></td>
-    <td style=" text-align: left;padding: 8px;">Membina identiti melalui penghayatan yang mendalam tentang bahasa, budaya, tradisi, sastera dan sejarah
+    <td style=" text-align: left;padding: 8px; width: 33.33%;">berkomunikasi dengan menggunakan bahasa Melayu baku<br/><br/><br/></td>
+    <td style=" text-align: left;padding: 8px; width: 33.33%;">Membina identiti melalui penghayatan yang mendalam tentang bahasa, budaya, tradisi, sastera dan sejarah
 </td>
-    <td style=" text-align: left;padding: 8px;">Menjalin hubungan dengan masyarakat Nusantara dan dunia yang bertutur dalam bahasa Melayu atau yang mengamalkan budaya Melayu 
+    <td style=" text-align: left;padding: 8px; width: 33.33%;">Menjalin hubungan dengan masyarakat Nusantara dan dunia yang bertutur dalam bahasa Melayu atau yang mengamalkan budaya Melayu 
 </td>
   </tr>
 </table>
