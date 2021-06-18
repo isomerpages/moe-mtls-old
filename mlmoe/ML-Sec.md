@@ -149,8 +149,8 @@ width:100%;
   <p style="text-align:justify;">
   Keempat-empat ciri utama dalam Kurikulum Bahasa Melayu Sekolah Menengah 2021 menyokong pengajaran dan pembelajaran di dalam bilik darjah. Ciri-ciri ini diserlahkan dalam bahan Pengajaran dan Pembelajaran JATi yang sedang diguna pakai di sekolah menengah bagi kohort menengah satu tahun ini.</p>
   <div class="atab">
-      <input id="tab-1" type="checkbox" name="tab">
-   <label for="tab-1" class="lbML">BUDAYA
+      <input id="tab-10" type="checkbox" name="tab">
+   <label for="tab-10" class="lbML">BUDAYA
 </label>
      <div class="tab-content">
        <p>Pilih sekolah menengah <strong>EMAS </strong> & <strong> MLEP</strong><br/>
