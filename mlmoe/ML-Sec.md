@@ -134,8 +134,6 @@ width:100%;
 </td>
   </tr>
 </table>
-
-<p style="font-size:25px; color: green">Tonton video di bawah ini bagi informasi selanjutnya. <br/><br/>
   <center> 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/WSq_Lrb2788" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  <br/><span style="font-size:20px;" >Penerangan Kurikulum Sekolah Menengah 2021
@@ -143,6 +141,15 @@ width:100%;
      </center> 
  <br/>
 </p>
+  <p style="text-align:justify;">Kurikulum Bahasa Melayu Sekolah Menengah 2021 mula dilaksanakan di sekolah-sekolah untuk kohort menengah satu mulai tahun ini.
+</p>
+  <img src="/mlmoe/ml-sec1.jpg">
+  <h4  style="font-size:25px;color:green;" >EMPAT CIRI UTAMA
+</h4>
+  <p style="text-align:justify;">
+  Keempat-empat ciri utama dalam Kurikulum Bahasa Melayu Sekolah Menengah 2021 menyokong pengajaran dan pembelajaran di dalam bilik darjah. Ciri-ciri ini diserlahkan dalam bahan Pengajaran dan Pembelajaran JATi yang sedang diguna pakai di sekolah menengah bagi kohort menengah satu tahun ini.</p>
+  
+  
 <h4  style="font-size:25px;color:green;" >Program Elektif Bahasa Melayu Sekolah Menengah
 </h4>
 <p style="text-align:justify;">Jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS.
