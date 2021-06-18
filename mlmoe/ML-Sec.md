@@ -176,11 +176,8 @@ width:100%;
   padding: 8px; width:50%"><p>Dalam kurikulum baharu ini, aspek budaya didekati dengan cara yang lebih menarik. Pelajar diajak meneroka, mengumpul maklumat dan membuat rumusan tentang budaya mereka sendiri. Mereka mengaitkan aspek budaya dengan kehidupan mereka lalu memikirkan cara untuk melestarikannya dalam dunia yang sering berubah-ubah.</p></td>
     </tr>
     </table>
- </div></div>
  <iframe width="560" height="315" src="https://vimeo.com/469636667/7d05c0254e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-   
-  
-  
+        </div></div>
 <h4  style="font-size:25px;color:green;" >Program Elektif Bahasa Melayu Sekolah Menengah
 </h4>
 <p style="text-align:justify;">Jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS.
