@@ -106,10 +106,34 @@ width:100%;
 </span></a><br/>
  <a href="#C2" style="font-size:20px"><span style="color:blue;font-family:Calibri">Sokongan Ibu Bapa
 </span></a><br/>
-<p style="font-size:30px;"><strong>Matlamat Kurikulum Bahasa Melayu</strong></p>
-
-<p style="text-align:justify;">Kurikulum Bahasa Melayu Peringkat Sekolah Menengah bertujuan melengkapkan pelajar dengan kecekapan berkomunikasi dan menjalin hubungan dengan pihak lain dalam konteks kehidupan di Singapura, rantau dan dunia.
+<p style="font-size:30px;"><strong>TUJUAN KURIKULUM SEKOLAH MENENGAN</strong></p>
+  <p style="font-size:25px;">MEMUPUK PELAJAR  AKTIF DAN PENGGUNA CEKAP<br/>
+(Pembelajaran yang Menyeronokkan)
+</p>
+<p style="text-align:justify;">Kurikulum Bahasa Melayu Peringkat Sekolah Menengah bertujuan untuk melengkapkan pelajar dengan kecekapan berkomunikasi dan menjalin hubungan dengan pihak lain dalam konteks kehidupan di Singapura, rantau dan dunia. Tiga tujuan umum pengajaran dan pembelajaran Bahasa Ibunda adalah untuk:
 <br/><br/>
+  <table style="font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;">
+  <tr>
+    <th style=" text-align: left;padding: 8px;">KOMUNIKASI<br/>
+(Communication)
+</th>
+    <th style=" text-align: left;padding: 8px;">BUDAYA<br/>
+(CULTURE)
+</th>
+    <th style=" text-align: left;padding: 8px;">HUBUNGAN<br/>
+(CONNECTION)
+</th>
+  </tr>
+  <tr>
+    <td style=" text-align: left;padding: 8px;">berkomunikasi dengan menggunakan bahasa Melayu baku<br/><br/><br/></td>
+    <td style=" text-align: left;padding: 8px;">Membina identiti melalui penghayatan yang mendalam tentang bahasa, budaya, tradisi, sastera dan sejarah
+</td>
+    <td style=" text-align: left;padding: 8px;">Menjalin hubungan dengan masyarakat Nusantara dan dunia yang bertutur dalam bahasa Melayu atau yang mengamalkan budaya Melayu 
+</td>
+  </tr>
+</table>
 
 <p style="font-size:25px; color: green">Tonton video di bawah ini bagi informasi selanjutnya. <br/><br/>
   <center> 
