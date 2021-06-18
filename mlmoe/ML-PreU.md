@@ -162,15 +162,13 @@ width:80% ;
       <ul>
        <li>Warganegara Singapura 
 </li>
-       <li>Yang cemerlang dalam keputusan akademik
+       <li>cemerlang dalam keputusan akademik
 </li>
        <li>Biasiswa bernilai $1,000 setiap tahun selama dua tahun
 </li>
        <li>Yuran sekolah akan dibiayai ($2,400 setiap tahun)
 </li>
        <li>Subsidi penuh bagi Program Penyerapan ke Luar Negara
-</li>
-       <li>Sijil pengiktirafan
 </li>
       </ul>
 </p>    
