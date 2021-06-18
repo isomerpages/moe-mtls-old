@@ -148,6 +148,37 @@ width:100%;
 </h4>
   <p style="text-align:justify;">
   Keempat-empat ciri utama dalam Kurikulum Bahasa Melayu Sekolah Menengah 2021 menyokong pengajaran dan pembelajaran di dalam bilik darjah. Ciri-ciri ini diserlahkan dalam bahan Pengajaran dan Pembelajaran JATi yang sedang diguna pakai di sekolah menengah bagi kohort menengah satu tahun ini.</p>
+  <div class="atab">
+      <input id="tab-1" type="checkbox" name="tab">
+   <label for="tab-1" class="lbML">BUDAYA
+</label>
+     <div class="tab-content">
+       <p>Pilih sekolah menengah <strong>EMAS </strong> & <strong> MLEP</strong><br/>
+       <p>Penerapan pengetahuan budaya yang lebih menyerlah untuk:</p>
+     <ul><li>Sekolah Menengah Anderson
+</li>
+     <li>Meningkatkan penghargaan terhadap budaya
+
+</li>
+     <li>Membina jati diri Melayu Singapura
+
+</li>
+    </ul>
+    <table style=" font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;">
+  
+  <tr>
+    <td style=" text-align: left;
+  padding: 8px;width:50%">
+  <img src="/mlmoe-sec2.png"></td>
+    <td style=" text-align: left;
+  padding: 8px; width:50%"><p>Dalam kurikulum baharu ini, aspek budaya didekati dengan cara yang lebih menarik. Pelajar diajak meneroka, mengumpul maklumat dan membuat rumusan tentang budaya mereka sendiri. Mereka mengaitkan aspek budaya dengan kehidupan mereka lalu memikirkan cara untuk melestarikannya dalam dunia yang sering berubah-ubah.</p></td>
+    </tr>
+    </table>
+ </div></div>
+ <iframe width="560" height="315" src="https://vimeo.com/469636667/7d05c0254e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   
   
   
 <h4  style="font-size:25px;color:green;" >Program Elektif Bahasa Melayu Sekolah Menengah
