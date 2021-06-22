@@ -510,15 +510,14 @@ width:100%;
 </p>
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-   <label for="tab-3" class="lbML">Majlis Bahasa Melayu Singapura - Bulan Bahasa 2020 
+   <label for="tab-3" class="lbML">Majlis Bahasa Melayu Singapura - Bulan Bahasa
 </label>
      <div class="tab-content">
-<p style="font-size:25px;"> <strong>Majlis Bahasa Melayu Singapura </strong> - Bulan Bahasa 2020 
-  <br/>
-  <ul>
-<li>Ikutilah majlis pelancaran Bulan Bahasa yang akan disiarkan menerusi saluran televisyen Suria, pada Sabtu (5 Sep 2020) pada jam 8.30 malam. 
-</li>
-</ul>
+       <p style="font-size:25px;"> <strong>Majlis Bahasa Melayu Singapura - Bulan Bahasa</strong>
+  <br/><br/>
+         <strong>Cita. Citra. Cinta. Bahasa Kita </strong><br/>
+         Tema Bulan Bahasa, ‘Cita. Citra. Cinta. Bahasa Kita.’  menggambarkan langkah kita mengharungi era baharu; berkembang daripada tema ‘Ilmu. Budaya. Mesra.’ sebelum ini.
+<br/><br/>
  <a href="https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa" target="_blank">Majlis Bahasa Melayu Singapura - Bulan Bahasa 
  </a>
 </p>
@@ -528,10 +527,11 @@ width:100%;
    <label for="tab-4" class="lbML">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
 </label>
      <div class="tab-content">
-  <p style="font-size:25px;"> <strong> Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu </strong>(MLLPC) 
-  <ul><li>Fiesta Bahasa
+  <p style="font-size:25px;"> <strong>Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)</strong>
+       <ul><li> <strong>Fiesta Bahasa</strong>
 </li>
-         <li>Kesantunan Bahasa
+         <li><strong>Siri Bacaan Nabil Nabilah</strong>
+
 </li>
          </ul>
  <a href="https://www.mllpc.sg/signature-or-flagship-programme-fund" target="_blank">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
@@ -541,31 +541,34 @@ width:100%;
 </div></div>
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-   <label for="tab-5" class="lbML">Perpustakaan Negara Singapura
-
+   <label for="tab-5" class="lbML">Perpustakaan Negara Singapura (TBC)
 </label>
      <div class="tab-content"> 
+       <p><strong>Perpustakaan Negara Singapura (TBC)</strong><br/>
+         Program dan aktiviti sepanjang tahun yang dijalankan di perpusatakaan-perpustakaan awam.
+
+</p>
   <table>
     <tr>
     <td>
    <p style="font-size:18px;">
      <a href="https://www.facebook.com/groups/MalayLibraryServices.SG" target="_blank">Perpustakaan Negara Singapura
  </a><br/>
-       <ul><li>Mari Bercerita – Setiap Minggu <br/> 
+      <ul><li><span style="color:blue;">Mari Bercerita</span> – Setiap Minggu <br/> 
 (Selasa, 8.00 malam / Sabtu, 11.30 pagi)</li>
-         <li>Saranan Bacaan – 2 kali setiap bulan  <br/>
+        <li><span style="color:blue;">Saranan Bacaan </span>– 2 kali setiap bulan  <br/>
 (Khamis pertama & ketiga)
 </li>
-         <li>Gig Puisi – Setiap Bulan  <br/>
+        <li><span style="color:blue;">Gig Puisi</span> – Setiap Bulan  <br/>
 (Sabtu ke 2, 2.30ptg)
 </li>
-         <li>Ilmu Pustaka – Setiap bulan  <br/>
+        <li><span style="color:blue;">Ilmu Pustaka </span>– Setiap bulan  <br/>
 (Sabtu ke 4, 2.30ptg)
 </li>
-         <li>Bicara Kata – Setiap bulan  <br/>
+        <li><span style="color:blue;">Bicara Kata</span> – Setiap bulan  <br/>
 (Ikut Jadual Khas)
 </li>
-         <li>Penulis Bercerita – 2 sesi setiap 3 bulan  <br/>
+        <li><span style="color:blue;">Penulis Bercerita </span>– 2 sesi setiap 3 bulan  <br/>
 (Ikut Jadual Khas) 
 </li>
          </ul>
@@ -577,7 +580,7 @@ width:100%;
  </div></div> 
  <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
-   <label for="tab-6" class="lbML">Esplanade – Siri Pentas  
+   <label for="tab-6" class="lbML">Program Pentas Esplanade (TBC)
 </label>
      <div class="tab-content"> 
        <table>
@@ -585,16 +588,21 @@ width:100%;
    <p style="font-size:18px;">
       <a href="https://www.esplanade.com/festivals-and-series/pentas/2020" target="_blank">Esplanade – Siri Pentas 
  </a><br/>
+           <p><strong>Program Pentas Esplanade (TBC)</strong><br/>
+             Persembahan seni dan budaya Melayu sepanjang tahun.
+</p>
        <ul>
-         <li>Cipta Cita - aneka jenis kesenian dan alami kepelbagaian dan kekayaan dunia Melayu.
-</li>
-         <li>Festival Muara – Persembahan tarian Melayu Nusantara
+         <li><span style="color:blue;">Gemadah </span>– Festival Muzik Tradisional Melayu
 
 </li>
-         <li>Gemadah – Festival Muzik Tradisional Melayu
+         <li><span style="color:blue;">Festival Muara</span> – Persembahan tarian Melayu Nusantara
 
 </li>
-         <li>Pesta Raya - kesenian teater, tarian dan muzik dari Melayu nusantara sempena sambutan hari raya.
+         <li><span style="color:blue;">Cipta Cita</span> - Aneka jenis  kesenian dan alami kepelbagaian dan kekayaan dunia Melayu
+
+</li>
+         <li><span style="color:blue;">Pesta Raya</span> - Kesenian teater, tarian dan muzik dari Melayu nusantara sempena sambutan hari raya
+
 
 </li>
          </ul>
@@ -606,17 +614,24 @@ width:100%;
  </div></div> 
   <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
-   <label for="tab-7" class="lbML">Taman Warisan Melayu 
-
+   <label for="tab-7" class="lbML">Taman Warisan Melayu  
 </label>
      <div class="tab-content"> 
    <p style="font-size:18px;">
      <a href="https://www.malayheritage.org.sg/en/whats-on " target="_blank">Taman Warisan Melayu  (MLLPC)
  </a><br/>
      <a href="https://instagram.com/malayheritage?igshid=31lxnz03v24e" target="_blank">Taman Warisan Melayu</a><br/>
-       <ul><li>Pameran Tetap – 6 galeri
+     <p>Taman Warisan Melayu  <br/>
+       Pameran Tetap: 6 galeri<br/>
+        Penampilan Khas:</p>
+       <ul>
+         <li>Jejak Seni
+
 </li>
-         <li>Pameran Khas - Seekor Singa, Seorang Putera dan Sebingkai Cermin: Pantulan dan Biasan Singapura
+         <li><i>Adventures in Nusantara</i>
+
+</li>
+         <li><i>Moonsoons and Movements</i>
 </li>
          </ul>
  
@@ -634,9 +649,13 @@ width:100%;
    <p style="font-size:18px;">
       <a href="https://www.nhb.gov.sg/nationalmuseum/~/media/nms/documents/national-museum-of-singapore-guide/national-museum-of-singapore-guide-bahasa-melayu.pdf?la=en" target="_blank">Muzium Negara Singapura 
  </a><br/>
-       <ul><li>Pameran tetap – 4 galeri   
+       <p><strong>Muzium Negara Singapura </strong>
+</p>
+       <ul><li>Pameran Tetap: TBC
+ 
 </li>
-         <li>Pameran Khas – Khazanah Dunia dari Muzium British
+         <li>Pameran Khas: TBC
+
 </li>
          </ul>
 
@@ -646,15 +665,21 @@ width:100%;
  <div class="atab">
       <input id="tab-9" type="checkbox" name="tab">
    <label for="tab-9" class="lbML">Wisma Geylang Serai
+
 </label>
      <div class="tab-content">       
-       <a href="https://www.facebook.com/WismaGeylangSerai/" target="_blank"> https://www.facebook.com/WismaGeylangSerai/ </a><br/>
-       <a href="https://instagram.com/wgeylangserai?igshid=nit9a62cgs2w" target="_blank"> Wisma Geylang Serai Instagram</a>
+       <a href="https://www.facebook.com/WismaGeylangSerai/
+" target="_blank">https://www.facebook.com/WismaGeylangSerai/
+ </a><br/>
+       <a href="https://www.instagram.com/wgeylangserai/?igshid=nit9a62cgs2w" target="_blank"> Wisma Geylang Serai Instagram</a>
        <br/>
-       <p><strong>Wisma Geylang Serai
-</strong><br/>Sebuah hab warisan budaya yang mengetengahkan persembahan budaya, sesi bicara, sesi memasak dan lain-lain lagi. Ikuti siaran langsung acara-acara ini melalui FB & IG #wgeylangserai. 
+       <p><strongWisma Geylang Serai
+
+</strong><br/>Sebuah hab warisan budaya yang mengetengahkan persembahan budaya, sesi bicara, sesi memasak dan lain-lain lagi. Ikuti siaran langsung acara-acara ini melalui FB & IG #wgeylangserai.
+
        </p>
        
   </div></div>
+  <p>Organisasi-organisasi ini telah mengubahsuaikan program-program mereka semasa pandemik COVID-19. </p>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
