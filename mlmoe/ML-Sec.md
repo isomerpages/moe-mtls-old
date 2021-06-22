@@ -337,12 +337,12 @@ width:100%;
  </td>
     <td style="border: 0;
   text-align: left;
-  padding: 8px;"><p>Program EMAS</p>
+  padding: 8px;width:35%"">Program EMAS<br/>
    <img src="/mlmoe/ml-sec10.png">
 </td>
 <td style="border: 0;
   text-align: left;
-  padding: 8px;"><p>Program <br/>MLEP-Menengah</p>
+  padding: 8px;width:35%"">Program <br/>MLEP-Menengah<br/>
    <img src="/mlmoe/ml-sec11.png">
 </td>
     </tr>
