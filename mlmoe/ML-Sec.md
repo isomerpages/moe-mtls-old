@@ -286,6 +286,73 @@ width:100%;
   </tr>
 </table>
   </div></div>
+  <p style="text-align:justify;">Kurikulum Bahasa Melayu Peringkat Sekolah Menengah 2021 menyokong pembelajaran secara kolaboratif untuk menggalakkan pemikiran kritis dan pembelajaran bersama dan daripada satu sama lain</p>
+  <img src="/mlmoe/ml-sec7.png">
+  <center><iframe width="560" height="315" src="https://vimeo.com/469639582/8e0c371a58
+ frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+  <h4>Gambaran Kurikulum Sekolah Menengah 2021</h4>
+  <p style="text-align:justify;">Dasar Pendidikan Singapura yang menegaskan prinsip dwibahasa telah menjadikan Bahasa Melayu sebagai salah satu pelajaran yang wajib dalam kurikulum sekolah di Singapura 1 . Untuk memastikan bahawa dasar kedwibahasaan terus berkesan dan relevan dalam persekitaran bahasa yang dinamik, semakan kurikulum Bahasa Ibunda dijalankan dari semasa ke semasa. Sebagai pelanjutan Kurikulum Bahasa Melayu Sekolah Rendah 20152 , Kurikulum Bahasa Melayu Sekolah Menengah bermula dengan kohort Menengah 1 tahun 2021. Kurikulum Bahasa Melayu Sekolah Menengah dibina untuk memperkukuh dan meningkatkan kemahiran berkomunikasi dan keterampilan berbahasa para pelajar yang telah diperoleh di peringkat sekolah rendah. Beberapa dokumen dan bahan pengajaran bercetak dan digital diterbitkan untuk melaksanakan Kurikulum Bahasa Melayu Sekolah Menengah 2021. Antaranya ialah Sukatan Pengajaran dan Pembelajaran Sekolah Menengah 2021 ini sebagai rujukan guru untuk menyediakan pengajaran dan pembelajaran bagi memenuhi keperluan kurikulum dan program-program Bahasa Melayu di sekolah menengah. Sukatan pengajaran dan pembelajaran ini perlu digunakan sebagai rujukan rasmi bagi kemahiran dan pengetahuan bahasa yang perlu diajarkan kepada pelajar peringkat menengah. Namun, sukatan ini tidak mengandungi kesemua pengetahuan bahasa, pedagogi atau bahan rujukan tuntas untuk guru. Rujukan bahan-bahan lain yang sesuai untuk membantu pembelajaran pelajar perlu dilakukan oleh guru. Pembinaan sukatan pengajaran dan pembelajaran ini telah melibatkan pelbagai pihak yang berkepentingan termasuk guru, pelajar, pengetua sekolah, guru pakar dan ahli akademik. Yang berikut ialah pautan-pautan yang berhubung dengan dasar, sukatan, bahan-bahan pengajaran dan jaringan sokongan:
+</p>
+   <p>MOE: </p>
+  <a href="https://www.moe.gov.sg/education
+" target="_blank">https://www.moe.gov.sg/education
+</a>
+  <br/><br/>
+  <p>Bahasa Ibunda:</p>
+  <a href="https://www.moe.gov.sg/education/syllabuses/mother-tongue-languages
+" target="_blank">https://www.moe.gov.sg/education/syllabuses/mother-tongue-languages
+</a>
+  <br/><br/>
+  <p>SLS: </p>
+  <a href="https://vle.learning.moe.edu.sg" target="_blank">https://vle.learning.moe.edu.sg</a>
+  <br/><br/>
+  <p>AST: </p>
+  <a href="https://academyofsingaporeteachers.moe.edu.sg" target="_blank">https://academyofsingaporeteachers.moe.edu.sg</a>
+  <br/><br/>
+  <p>Pusat Bahasa Melayu Singapura: </p>
+  <a href="https://academyofsingaporeteachers.moe.edu.sg/mlcs
+" target="_blank">https://academyofsingaporeteachers.moe.edu.sg/mlcs
+</a>
+  <br/><br/>
+  <p>OPAL2.0: </p>
+  <a href="https://idm.opal2.moe.edu.sg
+" target="_blank">https://idm.opal2.moe.edu.sg
+</a>
+  <br/><br/>
+  <h4>Gambaran Bahan Pengajaran JATi
+</h4>
+  <h4>Program Elektif Bahasa Melayu Peringkat Sekolah Menengah 
+</h4>
+  <p>MOE menawarkan dua program elektif Bahasa Melayu yang berikut di peringkat sekolah menengah: 
+</p>
+          
+<table style="font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;">
+   <tr>
+    <td rowspan="2" style="border: 0;
+  text-align: left;
+  padding: 8px;">
+  <img src="/mlmoe/ml-sec9.png">
+ </td>
+    <td style="border: 0;
+  text-align: left;
+  padding: 8px;"><p>Program EMAS</p>
+   <img src="/mlmoe/ml-sec10.png">
+</td>
+<td style="border: 0;
+  text-align: left;
+  padding: 8px;"><p>Program <br/>MLEP-Menengah</p>
+   <img src="/mlmoe/ml-sec11.png">
+</td>
+    </tr>
+   </table>
+  
+  
+  
+  
+  
+
 
   
   
