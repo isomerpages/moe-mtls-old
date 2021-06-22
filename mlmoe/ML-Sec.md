@@ -353,7 +353,7 @@ width:100%;
    <table style="font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;">
-  Perkhemahan EMAS untuk pelajar Menengah 1
+  <strong>Perkhemahan EMAS untuk pelajar Menengah 1</strong>
 
    <tr>
     <td style="border: 0;
@@ -379,10 +379,11 @@ width:100%;
 </td>
     </tr>
    </table>
+     <br/>
    <table style="font-family: arial, sans-serif;
   border-collapse: collapse;
-  width: 100%;">
-  Bengkel Pengayaan Maya untuk pelajar Menengah 2 dan 3
+ width: 100%;">
+  <strong> Bengkel Pengayaan Maya untuk pelajar Menengah 2 dan 3 </strong>
 
 
    <tr>
@@ -397,16 +398,16 @@ width:100%;
    <img src="/mlmoe/pda6.jpg">
 </td></tr>
    </table>
-   
+   <br/>
    <table style="font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;">
-  Simposium EMAS untuk pelajar Menengah 3 dan 4
+  <strong> Simposium EMAS untuk pelajar Menengah 3 dan 4</strong>
 <tr>
     <td style="border: 0;
   text-align: left;
-  padding: 8px;">
-  <img src="/mlmoe/pda7.png">
+  padding: 8px;"> 
+  <img src="/mlmoe/pda7.png" style="margin-top:20%;">
  </td>
     <td style="border: 0;
   text-align: left;
@@ -416,6 +417,7 @@ width:100%;
      <img src="/mlmoe/pda10.png">
 </td></tr>
    </table>
+     <br/>
   
   
   
