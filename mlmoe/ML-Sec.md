@@ -259,13 +259,15 @@ width:100%;
   padding: 8px;">
   <div class="row">
   <div class="column" style="float: left;
-  width: 33.33%;
-  padding: 5px;">
-    <img src="/mlmoe/ml-sec6.png" style="width:100%">
+  width: 49%;
+  padding: 0px;">
+    <br/>
+    <img src="/mlmoe/ml-sec5.png" style="width:100%">
   </div>
   <div class="column" style="float: left;
-  width: 33.33%;
-  padding: 5px;">
+  width: 49%;
+  padding: 0px;">
+      <br/>
     <img src="/mlmoe/ml-sec6.png" style="width:100%">
   </div>
 </div>
