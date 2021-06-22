@@ -332,7 +332,7 @@ width:100%;
    <tr>
     <td rowspan="2" style="border: 0;
   text-align: left;
-  padding: 8px;">
+  padding: 8px;width:35%">
   <img src="/mlmoe/ml-sec9.png">
  </td>
     <td style="border: 0;
