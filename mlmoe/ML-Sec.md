@@ -178,7 +178,8 @@ width:100%;
     </tr>
     <tr>
      <td colspan="2" style="border: 0;
-  padding: 15px;"><center><iframe width="560" height="315" src="https://www.youtube.com/embed/JNKevnURy6c" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td></tr>
+  padding: 15px;"><center><iframe width="560" height="315" src="https://vimeo.com/469636667/7d05c0254e
+" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td></tr>
 </table>
        </div></div>
        <div class="atab">
@@ -207,7 +208,7 @@ width:100%;
     </tr>
     <tr>
      <td colspan="2" style="border: 0;
-  padding: 15px;"><center><iframe width="560" height="315" src="https://www.youtube.com/embed/JNKevnURy6c" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td></tr>
+  padding: 15px;"><center><iframe width="560" height="315" src="https://vimeo.com/469636809/105876b9ff" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td></tr>
 </table>
   </div></div>
   <h4>Sorotan Empat Ciri Utama dalam Kurikulum Bahasa Melayu Sekolah Menengah 2021</h4>
@@ -237,7 +238,8 @@ width:100%;
     </tr>
     <tr>
      <td colspan="2" style="border: 0;
-  padding: 15px;"><center><iframe width="560" height="315" src="https://www.youtube.com/embed/JNKevnURy6c" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td>
+  padding: 15px;"><center><iframe width="560" height="315" src="https://vimeo.com/469639162/87fe10771b
+" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td>
   <td colspan="2" style="border: 0;
   padding: 15px;">Perbincangan Ehwal Semasa disokong dengan bahan-bahan tambahan autentik dari Berita Mediacorp dan Berita Harian. </td></tr>
 </table>
@@ -280,7 +282,7 @@ width:100%;
     </tr>
     <tr>
      <td colspan="2" style="border: 0;
-  padding: 15px;"><center><iframe width="560" height="315" src="https://www.youtube.com/embed/JNKevnURy6c" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td>
+  padding: 15px;"><center><iframe width="560" height="315" src="https://vimeo.com/469639281/3bd76e6839" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td>
   </tr>
 </table>
   </div></div>
