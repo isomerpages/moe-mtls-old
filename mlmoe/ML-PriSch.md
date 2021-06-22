@@ -97,66 +97,76 @@ width:100%;
  <a href="#C2" style="font-size:20px"><span style="color:blue;font-family:Calibri">Sokongan Ibu Bapa</span></a>
 </p>
 <br/>
+  <p><strong>Matlamat Kurikulum Bahasa Melayu adalah untuk membolehkan murid </strong></p>
+  <ul>
+    <li><strong>berkomunikasi</strong> secara efektif dalam kehidupan seharian dan untuk berdaya saing; 
+</li>
+    <li>memahami dan membina jati diri melalui penghayatan yang mendalam tentang <strong>budaya</strong>, tradisi, sastera dan sejarah; dan
+</li>
+    <li><strong>berhubung</strong> dengan masyarakat Nusantara dan dunia yang bertutur dalam bahasa atau berkongsi budaya yang sama.
+</li>
+  </ul>
+  
+  
+  
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
    <label for="tab-1" style="font-size:25px;" class="lbML">Objektif Kurikulum Bahasa Melayu
 </label>
      <div class="tab-content">
-       <p style="text-align:justify;">Pada akhir perngajaran dan pembelajaran Bahasa Melayu di sekolah rendah, murid depat:
-         <ul>
+       <p style="text-align:justify;">Pada akhir pengajaran dan pembelajaran Bahasa Melayu di sekolah rendah, murid dapat:
+       <ol type="i">
 
-  <li>mendengar dan memahami pengucapan dengan teliti;
+           <li style="text-align:justify;">mendengar dan memahami pengucapan dengan teliti;
+
 </li>
-           <li style="text-align:justify;">bertutur dengan petah menggunakan sebutan bak dan intonasi yang betul;
+           <li style="text-align:justify;">bertutur dengan petah menggunakan sebutan baku dan intonasi yang betul;
+
 </li>
            <li style="text-align:justify;">membaca pelbagai bahan bercetak dan bahan media elektronik dan memberikan respons yang sesuai;
+
 </li>
            <li style="text-align:justify;">menulis pelbagai jenis teks berdasarkan pelbagai tajuk yang sesuai;
 </li>
-           <li style="text-align:justify;">berinteraksi secara lisan dengan menggunakan sebutan baku;</li>
-           <li style="text-align:justify;">berinteraksi secara bertulis mengenai pelbagai tajuk tang sesuai;
+           
+           <li style="text-align:justify;">berinteraksi secara lisan dengan menggunakan sebutan baku;
+
 </li>
-           <li style="text-align:justify;">berfikir secara kreatif, kritis dan kritikal;
+           <li style="text-align:justify;"> berinteraksi secara bertulis mengenai pelbagai tajuk yang sesuai;
+
+
 </li>
-           <li style="text-align:justify;">mengenali dan memahami budaya dan nilai-nilai murni masyarakay Melayu dan kaum-kaum lain; dan
+           <li style="text-align:justify;"> berfikir secara kreatif, kritis dan kritikal;
+
+
 </li>
-            <li style="text-align:justify;">memupuk minat membaca dan menjadikannya amalan ke arah membina budaya belajar sepanjang hayat.
+            <li style="text-align:justify;">mengenali dan memahami budaya dan nilai-nilai murni masyarakat Melayu dan kaum-kaum lain; dan
+
+
 </li>
-           </ul> 
+         <li style="text-align:justify;">memupuk minat membaca dan menjadikannya amalan ke arah membina budaya belajar sepanjang hayat.
+
+</li>
+           </ol> 
        </p>
        </div></div>
 <ul><p style="text-align:justify;">
-<li style="text-align:justify;">Bahasa Melayu merupakan salah satu Bahasa Ibunda yang ditawarkan di sekolah rendah.  Murid-murid diberikan peluang untuk mempelajari Bahasa Melayu setinggi mana yang terdaya dan sejauh mana yang termampu.
+<li style="text-align:justify;">Bahasa Melayu merupakan salah satu subjek Bahasa Ibunda yang ditawarkan di sekolah rendah. Murid-murid diberikan peluang untuk mempelajari Bahasa Melayu setinggi mana yang terdaya dan sejauh mana yang termampu. 
 </li>
 <li style="text-align:justify;">Di sekolah, Kurikulum Bahasa Melayu Sekolah Rendah dijalankan dengan menggunakan pendekatan yang berpusatkan murid.  Pengajaran yang dijalankan bersifat interaktif agar murid-murid mudah mempelajari dan memahami pelajaran yang diikuti. Memandangkan murid yang memasuki sekolah rendah mempunyai latar belakang bahasa yang pelbagai, keperluan pembelajaran mereka juga seharusnya berbeza-beza. Oleh itu, pembelajaran pembezaan harus ditekankan untuk memenuhi keupayaan yang pelbagai ini. 
 </li>
 <li style="text-align:justify;">Murid yang mempunyai pelbagai keupayaan juga akan disokong untuk membina kecekapan bahasa dan budaya. Hal ini bukan sahaja dapat mengekalkan minat mereka untuk menggunakan dan menguasai bahasa Ibunda, malahan untuk menggunakan bahasa itu sebagai alat komunikasi secara berkesan.
 </li>
-<li>Sila lihat <strong> Program Bahasa Melayu Lanjutan, Program Sokongan Bahasa Ibunda bagi murid Darjah 3 dan 4 </strong>
-  </li></p>
+</p>
 </ul>
   <img src="/images/MTLS-Malay-PriSch-Malay-Program2.jpg" class="image">  <br/>
-  <p style="text-align:justify;">Jika anak anda berminat dalam bahasa, budaya dan kesusateraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS melalui: Direct School Admission (DSA) untuk Bahasa Melayu atau selepas mendapat keputusan PSLE. <br/>
- Lihat <a href="https://tinyurl.com/emasmlep" target="_blank">https://tinyurl.com/emasmlep </a>
-  </p>
+ 
  <p id="C1" style="font-size:30px;color:black"><strong>Bahan Pengajaran dan Pembelajaran </strong><br/>
   <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran Pakej Cekap:</span>
   <br/> <br/> 
   <span style="font-size:20px;">Video pengajaran </span></p>
  <br/>
-  <div class="row">
- <div class="column">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/v4ByRIcys3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">Selamat Pagi
-</span>
   <br/>
-
-</div>
-  <div class="column">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Tc4AkLX35wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">Si Lebai Malang
-</span>
- <br/>
- </div>
-      </div><br/>
       <br/>
   <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
