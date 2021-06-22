@@ -337,8 +337,8 @@ width:100%;
  </td>
     <td style="border: 0;
   text-align: left;
-  padding: 8px;width:35%">Program EMAS<br/>
-   <img src="/mlmoe/ml-sec10.png">
+  padding: 8px;width:35%">Program EMAS<br/><br/>
+   <img src="/mlmoe/ml-sec10.png" style="margin-left:-16%;">
 </td>
 <td style="border: 0;
   text-align: left;
