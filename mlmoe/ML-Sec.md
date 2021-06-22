@@ -223,23 +223,63 @@ width:100%;
    <tr>
     <td style="border: 0;
   text-align: left;
-  padding: 8px;"><img src="/mlmoe/ml-sec4.png"></td>
+  padding: 8px;width:25%;"><img src="/mlmoe/ml-sec4.png"></td>
     <td style="border: 0;
   text-align: left;
-  padding: 8px;">Segmen Ehwal Semasa dalam setiap unit memberikan peluang kepada pelajar untuk membincangkan tentang isu-isu semasa. Dalam unit ini, pelajar memberikan pandangan tentang kilang peras tenaga. 
+  padding: 8px;width:25%;">Segmen Ehwal Semasa dalam setiap unit memberikan peluang kepada pelajar untuk membincangkan tentang isu-isu semasa. Dalam unit ini, pelajar memberikan pandangan tentang kilang peras tenaga. 
 </td>
 <td style="border: 0;
   text-align: left;
-  padding: 8px;"><img src="/mlmoe/ml-sec4.png"></td>
+  padding: 8px;width:25%;"><img src="/mlmoe/ml-sec4.png"></td>
 <td style="border: 0;
   text-align: left;
-  padding: 8px;"><img src="/mlmoe/ml-sec4.png"></td>
+  padding: 8px;width:25%;"><img src="/mlmoe/ml-sec4.png"></td>
     </tr>
     <tr>
      <td colspan="2" style="border: 0;
   padding: 15px;"><center><iframe width="560" height="315" src="https://www.youtube.com/embed/JNKevnURy6c" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td>
   <td colspan="2" style="border: 0;
   padding: 15px;">Perbincangan Ehwal Semasa disokong dengan bahan-bahan tambahan autentik dari Berita Mediacorp dan Berita Harian. </td></tr>
+</table>
+  </div></div>
+  
+  
+  <div class="atab">
+      <input id="tab-13" type="checkbox" name="tab">
+   <label for="tab-13" class="lbML">TEKNOLOGI 
+
+</label>
+     <div class="tab-content">       
+<table style="font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;">
+   <tr>
+    <td style="border: 0;
+  text-align: left;
+  padding: 8px;">
+  <div class="row">
+  <div class="column" style="float: left;
+  width: 33.33%;
+  padding: 5px;">
+    <img src="/mlmoe/ml-sec6.png" style="width:100%">
+  </div>
+  <div class="column" style="float: left;
+  width: 33.33%;
+  padding: 5px;">
+    <img src="/mlmoe/ml-sec6.png" style="width:100%">
+  </div>
+</div>
+ </td>
+    <td style="border: 0;
+  text-align: left;
+  padding: 8px;">Penggunaan teknologi merupakan sebahagian daripada ciri utama kurikulum baharu ini. Bahan-bahan digital yang disediakan merupakan bahan pelengkap yang mengajak pelajar belajar secara teradun. Bahan-bahan yang disediakan, selain mengandungi maklumat, juga mengajak pelajar untuk berfikir, membuat pertimbangan dan pilihan.
+ 
+</td>
+    </tr>
+    <tr>
+     <td colspan="2" style="border: 0;
+  padding: 15px;"><center><iframe width="560" height="315" src="https://www.youtube.com/embed/JNKevnURy6c" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td>
+  </tr>
 </table>
   </div></div>
 
