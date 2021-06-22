@@ -514,10 +514,9 @@ width:100%;
 </label>
      <div class="tab-content">
        <p style="font-size:25px;"> <strong>Majlis Bahasa Melayu Singapura - Bulan Bahasa</strong>
-<p>
+</p>
        <p>  <strong>Cita. Citra. Cinta. Bahasa Kita </strong><br/>
          Tema Bulan Bahasa, ‘Cita. Citra. Cinta. Bahasa Kita.’  menggambarkan langkah kita mengharungi era baharu; berkembang daripada tema ‘Ilmu. Budaya. Mesra.’ sebelum ini.
-       </p>
  <a href="https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa" target="_blank">Majlis Bahasa Melayu Singapura - Bulan Bahasa 
  </a>
 </p>
