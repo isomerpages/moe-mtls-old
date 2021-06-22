@@ -143,7 +143,7 @@ width:100%;
 </p>
   <h4>KURIKULUM SEKOLAH MENENGAH</h4>
   <p style="text-align:justify;">Kurikulum Bahasa Melayu Sekolah Menengah 2021 mula dilaksanakan di sekolah-sekolah untuk kohort menengah satu mulai tahun ini.
-  <img src="/mlmoe/ml-sec1.jpg">
+  <img src="/mlmoe/ml-sec1.jpg" style="width:100%;">
   <h4  style="font-size:25px;color:green;" >EMPAT CIRI UTAMA
 </h4>
   <p style="text-align:justify;">
@@ -287,7 +287,7 @@ width:100%;
 </table>
   </div></div>
   <p style="text-align:justify;">Kurikulum Bahasa Melayu Peringkat Sekolah Menengah 2021 menyokong pembelajaran secara kolaboratif untuk menggalakkan pemikiran kritis dan pembelajaran bersama dan daripada satu sama lain</p>
-  <img src="/mlmoe/ml-sec07.png">
+  <img src="/mlmoe/ml-sec07.png" style="width:100%;">
   <center><iframe width="560" height="315" src="https://vimeo.com/469639582/8e0c371a58"
  frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
   <h4>Gambaran Kurikulum Sekolah Menengah 2021</h4>
