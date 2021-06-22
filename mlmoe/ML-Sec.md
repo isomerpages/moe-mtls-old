@@ -348,6 +348,37 @@ width:100%;
     </tr>
    </table>
    <img src="/mlmoe/ml-sec12.png" style="width:100%;">
+   <br/>
+   <h4>PROGRAM DIGITAL ALTERNATIF</h4>
+   <table style="font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;">
+  Perkhemahan EMAS untuk pelajar Menengah 1
+
+   <tr>
+    <td style="border: 0;
+  text-align: left;
+  padding: 8px;">
+  <img src="/mlmoe/pda1.jpg">
+ </td>
+    <td style="border: 0;
+  text-align: left;
+  padding: 8px;">
+   <img src="/mlmoe/pda2.jpg">
+</td></tr>
+<tr>
+<td style="border: 0;
+  text-align: left;
+  padding: 8px;">
+   <img src="/mlmoe/pda3.jpg">
+</td>
+<td style="border: 0;
+  text-align: left;
+  padding: 8px;">
+   <img src="/mlmoe/pda4.jpg">
+</td>
+    </tr>
+   </table>
   
   
   
@@ -432,47 +463,7 @@ width:100%;
 </li>
     </ul>
    </p>  </div></div>
-   <p id="C1" style="font-size:30px;"><strong>Bahan Pengajaran dan Pembelajaran</strong></p>
-<p style="text-align:justify;">Tonton video pengenalan tentang bahan-bahan pengajaran bahasa Melayu sekolah menengah.<br/>
-  <br/>
-    <center> 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZANW_F4at9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </center> 
-  <br/>
-</p>
- Contoh video-video pengajaran.
- <br/> <br/>
-<div class="row">
- <div class="column">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNKevnURy6c" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-   <br/>
-</div>
-  <div class="column">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/WuGvP2z-b_s" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-   <br/>
- </div>
- </div>
- <br/><br/>
-<h4 style="font-size:25px; color:green">Bahan sokongan dalam talian:</h4>
-<p style="text-align:justify;">
-  SLS dan Portal iMTL menyokong pembelajaran pelajar dan pengajaran guru. Melalui SLS, pelajar dapat menjalankan pembelajaran kendiri atau dengan bimbingan guru. Antara bahan yang ada dalam SLS ialah video seminit, artikel akhbar dan permainan interaktif. 
-</p>
- <img src="/images/SLS-image2.png" style="width:50%;"><br/>
-<p style="text-align:justify;">
-  Portal iMTL pula menggalakkan pembelajaran kolaboratif. Pelajar belajar secara berpasangan atau berkumpulan sambil bertukar-tukar pandangan untuk menyelesaikan sesuatu tugasan. Fitur-fitur seperti peta minda, kanvas kolaboratif dan penulisan kolaboratif menyokong pembelajaran seperti ini secara dalam talian.
-</p>
- <img src="/images/iMTL-Sec-image2.png" style="width:50%;"><br/>
-</p>
-  <p id="C2" style="font-size:30px;"><strong>Sokongan Ibu Bapa</strong></p>
-<p style="font-size:22px;text-align:justify">
-Untuk menyokong anak-anak anda dalam pembelajaran bahasa Melayu, sediakan persekitaran dan sokongan yang berterusan. Hal ini akan menjadikan pembelajaran bahasa Melayu lebih menyeronokkan dan bermakna. Anda boleh amalkan beberapa peranan berikut dalam mencapai usaha ini.</p> <br/>
-
-<img src="/images/Motivator.png"><br/>
-<img src="/images/Role-Model.png"><br/>
-<img src="/images/Facilitator2.png"><br/>
-<p>Sila rujuk lampiran-lampiran ini sekiranya ingin tahu lebih lanjut,
-<br/>
-  <a href="https://beta.moe.gov.sg/uploads/secondary-school-education-booklet-malay.pdf" target="_blank">https://beta.moe.gov.sg/uploads/secondary-school-education-booklet-malay.pdf</a><br/><br/>
-   <a href="https://www.schoolbag.sg/docs/default-source/default-document-library/(ml)mlpg2016.pdf" target="_blank">https://www.schoolbag.sg/docs/default-source/default-document-library/(ml)mlpg2016.pdf </a><br/>
+  
    
 </p>
 <h4  style="font-size:25px;color:green;" >Program-program Bahasa & Budaya Melayu</h4> 
