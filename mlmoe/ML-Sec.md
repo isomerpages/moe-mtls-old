@@ -673,7 +673,7 @@ width:100%;
  </a><br/>
        <a href="https://www.instagram.com/wgeylangserai/?igshid=nit9a62cgs2w" target="_blank"> Wisma Geylang Serai Instagram</a>
        <br/>
-       <p><strongWisma Geylang Serai
+       <p><strong>Wisma Geylang Serai
 
 </strong><br/>Sebuah hab warisan budaya yang mengetengahkan persembahan budaya, sesi bicara, sesi memasak dan lain-lain lagi. Ikuti siaran langsung acara-acara ini melalui FB & IG #wgeylangserai.
 
