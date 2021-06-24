@@ -102,9 +102,9 @@ width:80%;
 在教育部幼儿园，我们深信幼儿是好奇、积极、有能力的学习者。<br/><br/>
 我们的愿景是为每一个幼儿提供良好的起点，同时，通过优质且能负担得起的学前教育，进一步提升新加坡学前教育的素质。<br/>
 </p>
-  <h4 style="font-size:30px;font-family:KaiTi ;">教育部幼儿园课程
+  <h4 style="font-size:30px;font-family:KaiTi;">教育部幼儿园课程
 </h4>
-<p style="font-size:25px;font-family:KaiTi" >教育部幼儿园的课程是由教育部课程专科督导设计与开发的，并以《培育幼儿:学前母语课程框架》为依据，指引新加坡幼儿园的课程发展。<br/><br/>
+<p style="font-size:25px;font-family:KaiTi" >教育部幼儿园的课程是由教育部课程专科督导设计与开发的，并以《培育幼儿：学前母语课程框架》为依据，指引新加坡幼儿园的课程发展。<br/><br/>
 在教育部幼儿园，幼儿将通过HI-Light和繁星语文两个旗舰课程体验丰富多彩的学习旅程。<br/><br/></p>
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi">教育部幼儿园里的一天 </span>
@@ -117,7 +117,7 @@ width:80%;
 
 <h4 style="font-family:KaiTi;font-size:35px" class="lbCh">学前母语课程框架 </h4>
      <p style="font-size:25px;font-family:KaiTi;text-align:justify;" >
-    《培育幼儿:学前母语课程框架》的核心理念是:幼儿是好奇、积极、有能力的母语学习者。持有这个理念的教师必能实现这套框架的愿景、 宗旨以及学习目标。<br/>
+    《培育幼儿：学前母语课程框架》的核心理念是：幼儿是好奇、积极、有能力的母语学习者。持有这个理念的教师必能实现这套框架的愿景、宗旨以及学习目标。<br/>
 <br/>本框架的教学宗旨建立在教学愿景之上，教学宗旨和指导原则又能协助教师设计课堂教学。教师在根据指导原则进行课堂教学时，应谨记课程学习目标，以实现母语教学的愿景。</p> 
 
  <img src="/images/CL-Presch-Framework.png"> 
