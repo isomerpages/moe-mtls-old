@@ -183,7 +183,7 @@ PENGAJARAN DAN PEMBELAJARAN
 </li>
 <li style="text-align:justify;">Seterusnya, anak memilih benda dan memberikan perkataan yang berkaitan dengan benda yang dipilih.  Kemudian, anak meminta ibu bapa memberikan perkataan lain.
 </li></ul>
-         Contoh : benda: meja
+        <p style="text-align:justify;"> Contoh : benda: meja </p>
          <table class="center">
   <tr>
     <td>    Ibu/Bapa     :</td>
