@@ -164,9 +164,7 @@ width:100%;
  <p id="C1" style="font-size:30px;color:black"><strong>BAHAN 
 PENGAJARAN DAN PEMBELAJARAN
 </strong><br/>
-  <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran Pakej 
-    <img src="/mlmoe/ml-prisch1.png">:</span>
-  <br/> <br/> 
+  <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran Pakej cepak:</span>
 </p>
  <br/>
   <br/>
