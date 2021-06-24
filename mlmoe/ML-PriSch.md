@@ -139,7 +139,7 @@ width:100%;
 PENGAJARAN DAN PEMBELAJARAN
 </strong></p>
   <p style="font-size:25px;color:black">Kandungan bahan pengajaran dan pembelajaran Pakej <img src="/mlmoe/cakap1.png" style="width:10%;margin-right: 16%;
-    margin-top: -4%;">:
+    margin-top: -4%;">
 </p>
   <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
