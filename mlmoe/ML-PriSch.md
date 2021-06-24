@@ -117,34 +117,34 @@ width:100%;
        <p style="text-align:justify;">Pada akhir pengajaran dan pembelajaran Bahasa Melayu di sekolah rendah, murid dapat:
        <ol type="i">
 
-           <li style="text-align:justify;">mendengar dan memahami pengucapan dengan teliti;
+           <li style="text-align:justify;margin: 2%;">mendengar dan memahami pengucapan dengan teliti;
 
 </li>
-           <li style="text-align:justify;">bertutur dengan petah menggunakan sebutan baku dan intonasi yang betul;
+           <li style="text-align:justify;margin: 2%;">bertutur dengan petah menggunakan sebutan baku dan intonasi yang betul;
 
 </li>
-           <li style="text-align:justify;">membaca pelbagai bahan bercetak dan bahan media elektronik dan memberikan respons yang sesuai;
+           <li style="text-align:justify;margin: 2%;">membaca pelbagai bahan bercetak dan bahan media elektronik dan memberikan respons yang sesuai;
 
 </li>
-           <li style="text-align:justify;">menulis pelbagai jenis teks berdasarkan pelbagai tajuk yang sesuai;
+           <li style="text-align:justify;margin: 2%;">menulis pelbagai jenis teks berdasarkan pelbagai tajuk yang sesuai;
 </li>
            
-           <li style="text-align:justify;">berinteraksi secara lisan dengan menggunakan sebutan baku;
+           <li style="text-align:justify;margin: 2%;">berinteraksi secara lisan dengan menggunakan sebutan baku;
 
 </li>
-           <li style="text-align:justify;"> berinteraksi secara bertulis mengenai pelbagai tajuk yang sesuai;
-
-
-</li>
-           <li style="text-align:justify;"> berfikir secara kreatif, kritis dan kritikal;
+           <li style="text-align:justify;margin: 2%;"> berinteraksi secara bertulis mengenai pelbagai tajuk yang sesuai;
 
 
 </li>
-            <li style="text-align:justify;">mengenali dan memahami budaya dan nilai-nilai murni masyarakat Melayu dan kaum-kaum lain; dan
+           <li style="text-align:justify;margin: 2%;"> berfikir secara kreatif, kritis dan kritikal;
 
 
 </li>
-         <li style="text-align:justify;">memupuk minat membaca dan menjadikannya amalan ke arah membina budaya belajar sepanjang hayat.
+            <li style="text-align:justify;margin: 2%;">mengenali dan memahami budaya dan nilai-nilai murni masyarakat Melayu dan kaum-kaum lain; dan
+
+
+</li>
+         <li style="text-align:justify;margin: 2%;">memupuk minat membaca dan menjadikannya amalan ke arah membina budaya belajar sepanjang hayat.
 
 </li>
            </ol> 
@@ -161,10 +161,13 @@ width:100%;
 </ul>
   <img src="/images/MTLS-Malay-PriSch-Malay-Program2.jpg" class="image">  <br/>
  
- <p id="C1" style="font-size:30px;color:black"><strong>Bahan Pengajaran dan Pembelajaran </strong><br/>
-  <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran Pakej Cekap:</span>
+ <p id="C1" style="font-size:30px;color:black"><strong>BAHAN 
+PENGAJARAN DAN PEMBELAJARAN
+</strong><br/>
+  <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran Pakej 
+    <img src="/mlmoe/mi-prisch1.png":</span>
   <br/> <br/> 
-  <span style="font-size:20px;">Video pengajaran </span></p>
+</p>
  <br/>
   <br/>
       <br/>
