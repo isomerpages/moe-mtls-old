@@ -166,7 +166,7 @@ width:80%;
   还有很多故事书，一家大小都喜欢。<br/>
   这里有邻里警岗，警察叔叔很友善。<br/><br/>
 </p>
-  <p style="font-size:25px;font-family:KaiTi">你也可使用 <a href="https://www.google.com/earth" target="_blank">卫星地图影像 </a>，和孩子一起看一看，认识你们家附近有些什么地方和设施.</p>
+  <p style="font-size:25px;font-family:KaiTi">你也可使用 <a href="https://www.google.com/earth" target="_blank" style="font-size:25px;font-family:KaiTi">卫星地图影像 </a>，和孩子一起看一看，认识你们家附近有些什么地方和设施.</p>
 
 
    <h4 style="font-family:KaiTi;font-size:25px;">
