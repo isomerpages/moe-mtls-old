@@ -245,7 +245,7 @@ PENGAJARAN DAN PEMBELAJARAN
 <table class="center">
   
   <tr>
-    <td>Ibu/Bapa     : </td>
+    <td style="width:22%;">Ibu/Bapa     : </td>
   <td>Ada satu benda besar di dalam dapur. Ibu/Bapa menyimpan sekotak susu sejuk di dalamnya.  Cuba teka benda itu apa?</td>
  </tr>
   <tr>
