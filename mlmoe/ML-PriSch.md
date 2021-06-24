@@ -138,7 +138,7 @@ width:100%;
  <p id="C1" style="font-size:30px;color:black"><strong>BAHAN 
 PENGAJARAN DAN PEMBELAJARAN
 </strong><br/>
-  <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran Pakej cepak:</span>
+  Kandungan bahan pengajaran dan pembelajaran Pakej <img src="/mlmoe/cakap1.png">:
 </p>
   <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
