@@ -140,9 +140,6 @@ PENGAJARAN DAN PEMBELAJARAN
 </strong><br/>
   <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran Pakej cepak:</span>
 </p>
- <br/>
-  <br/>
-      <br/>
   <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
   <label for="tab-2" class="lbML">- Dekat dengan kehidupan murid </label>
@@ -207,7 +204,7 @@ PENGAJARAN DAN PEMBELAJARAN
    </div></div>   
    <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
-   <label for="tab-7" class="lbML">Permainan Suku Kata (Repeated from last year with different word example)
+   <label for="tab-7" class="lbML">Permainan Suku Kata 
 </label>
      <div class="tab-content">
        <p style="text-align:justify;">Ibu bapa boleh memulakan permainan dengan memberikan satu perkataan. Contohnya, pasu.  Kemudian, anak harus membina perkataan lain yang bermula dengan suka kata akhir perkataan tadi. 
@@ -239,7 +236,7 @@ PENGAJARAN DAN PEMBELAJARAN
    <label for="tab-8" class="lbML">Permainan Teka Saya
  </label>
      <div class="tab-content">
-       <p style="text-align:justify;">Ibu bapa membawa anak ke dalam setiap bahagian di dalam rumah.    Di setiap bahagian tersebut, pilih beberapa objek.  Deskripsikan objek tersebut. Kemudian, memberikan arahan kepada anak untuk meneka.
+       <p style="text-align:justify;">Ibu bapa membawa anak ke setiap bahagian di dalam rumah.    Di setiap bahagian tersebut, pilih beberapa objek.  Deskripsikan objek tersebut. Kemudian, memberikan arahan kepada anak untuk meneka.
 <br/><br/>
          Contoh : </p>
 <table class="center">
