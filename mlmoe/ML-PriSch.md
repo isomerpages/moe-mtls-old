@@ -106,47 +106,21 @@ width:100%;
     <li><strong>berhubung</strong> dengan masyarakat Nusantara dan dunia yang bertutur dalam bahasa atau berkongsi budaya yang sama.
 </li>
   </ul>
-  
-  
-  
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-   <label for="tab-1" style="font-size:25px;" class="lbML">Objektif Kurikulum Bahasa Melayu
-</label>
+   <label for="tab-1" style="font-size:25px;" class="lbML">Objektif Kurikulum Bahasa Melayu</label>
      <div class="tab-content">
        <p style="text-align:justify;">Pada akhir pengajaran dan pembelajaran Bahasa Melayu di sekolah rendah, murid dapat:
        <ol type="i">
-
-           <li style="text-align:justify;margin: 2%;">mendengar dan memahami pengucapan dengan teliti;
-
-</li>
-           <li style="text-align:justify;margin: 2%;">bertutur dengan petah menggunakan sebutan baku dan intonasi yang betul;
-
-</li>
-           <li style="text-align:justify;margin: 2%;">membaca pelbagai bahan bercetak dan bahan media elektronik dan memberikan respons yang sesuai;
-
-</li>
-           <li style="text-align:justify;margin: 2%;">menulis pelbagai jenis teks berdasarkan pelbagai tajuk yang sesuai;
-</li>
-           
-           <li style="text-align:justify;margin: 2%;">berinteraksi secara lisan dengan menggunakan sebutan baku;
-
-</li>
-           <li style="text-align:justify;margin: 2%;"> berinteraksi secara bertulis mengenai pelbagai tajuk yang sesuai;
-
-
-</li>
-           <li style="text-align:justify;margin: 2%;"> berfikir secara kreatif, kritis dan kritikal;
-
-
-</li>
-            <li style="text-align:justify;margin: 2%;">mengenali dan memahami budaya dan nilai-nilai murni masyarakat Melayu dan kaum-kaum lain; dan
-
-
-</li>
-         <li style="text-align:justify;margin: 2%;">memupuk minat membaca dan menjadikannya amalan ke arah membina budaya belajar sepanjang hayat.
-
-</li>
+           <li style="text-align:justify;margin: 2%;">mendengar dan memahami pengucapan dengan teliti;</li>
+           <li style="text-align:justify;margin: 2%;">bertutur dengan petah menggunakan sebutan baku dan intonasi yang betul;</li>
+           <li style="text-align:justify;margin: 2%;">membaca pelbagai bahan bercetak dan bahan media elektronik dan memberikan respons yang sesuai;</li>
+           <li style="text-align:justify;margin: 2%;">menulis pelbagai jenis teks berdasarkan pelbagai tajuk yang sesuai;</li>
+           <li style="text-align:justify;margin: 2%;">berinteraksi secara lisan dengan menggunakan sebutan baku;</li>
+           <li style="text-align:justify;margin: 2%;"> berinteraksi secara bertulis mengenai pelbagai tajuk yang sesuai;</li>
+           <li style="text-align:justify;margin: 2%;"> berfikir secara kreatif, kritis dan kritikal;</li>
+           <li style="text-align:justify;margin: 2%;">mengenali dan memahami budaya dan nilai-nilai murni masyarakat Melayu dan kaum-kaum lain; dan</li>
+          <li style="text-align:justify;margin: 2%;">memupuk minat membaca dan menjadikannya amalan ke arah membina budaya belajar sepanjang hayat.</li>
            </ol> 
        </p>
        </div></div>
@@ -196,147 +170,138 @@ PENGAJARAN DAN PEMBELAJARAN
       <p id="C2" style="font-size:30px;"><strong>Sokongan Ibu Bapa </strong><br/><br/>
 <img src="/images/MTLS-Malay-PriSch-Role-of-Parents2.jpg"> 
 </p>
-<p style="font-size:25px;text-align:justify;">Anda boleh bermain beberapa permainan dengan anak anda agar dapat meningkatkan dan meluaskan kosa kata mereka.</p>
+  
+  
+  
+<p style="font-size:25px;text-align:justify;"> Ibu bapa boleh bermain beberapa permainan dengan anak anda agar dapat meningkatkan dan meluaskan kosa kata anak. </p>
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
-   <label for="tab-6" class="lbML">Permainan Huruf/Abjad </label>
+   <label for="tab-6" class="lbML">Permainan Perkataan Berangkai
+ </label>
      <div class="tab-content">
-       <p style="text-align:justify;">Ibu bapa meminta anak memberikan perkataan lain yang bermula dengan huruf terakhir perkataan yang telah disebut.<br/><br/>
-         Contoh perbualan: 
+<ul><li style="text-align:justify;"> Ibu bapa memilih benda dan memberikan satu perkataan mengenai benda itu.  Kemudian, ibu bapa meminta anak memberikan perkataan lain yang berkaitan dengan benda tersebut.
+</li>
+<li style="text-align:justify;">Seterusnya, anak memilih benda dan memberikan perkataan yang berkaitan dengan benda yang dipilih.  Kemudian, anak meminta ibu bapa memberikan perkataan lain.
+</li></ul>
+         Contoh : benda: meja
          <table class="center">
-  
   <tr>
-    <td>Ibu/Bapa:</td>
-    <td>tika<span style="color:red">r</span></td>
-   
-  </tr>
-  
-  <tr>
+    <td>    Ibu/Bapa     :</td>
+    <td>bulat</td>
+   </tr>
+   <tr>
     <td>Anak:  </td>
-    <td><span style="color:red">r</span>ot<span style="color:red">i</span></td>
-
-  </tr>
+    <td>besar
+</td>
+ </tr>
   <tr>
     <td>Ibu/Bapa: </td>
-    <td><span style="color:red">i</span>ka<span style="color:red">n</span></td>
-    
-  </tr>
+    <td>   hitam
+</td>
+ </tr>
   <tr>
     <td>Anak: </td>
-    <td><span style="color:red">n</span>as<span style="color:red">i</span></td>
-   
-  </tr>
-  
-</table></p>
+    <td>kayu
+</td></tr>
+ </table>
    </div></div>   
    <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
-   <label for="tab-7" class="lbML">Permainan Kategori </label>
+   <label for="tab-7" class="lbML">Permainan Suku Kata (Repeated from last year with different word example)
+</label>
      <div class="tab-content">
-       <p style="text-align:justify;">Ibu bapa memberikan satu kategori.   Anak harus memberikan perkataan yang terdapat dalam kategori ini.
-         <br/><br/>Contoh perbualan : 
-         <br/>
-         Kategori – perabot
-         <table class="center">
+       <p style="text-align:justify;">Ibu bapa boleh memulakan permainan dengan memberikan satu perkataan. Contohnya, pasu.  Kemudian, anak harus membina perkataan lain yang bermula dengan suka kata akhir perkataan tadi. 
+         <br/><br/>    Contoh :</p>
+<table class="center">
   <tr>
     <td>Ibu/Bapa:</td>
-  <td>katil</td>
+    <td>   <span style="color:red;"> su</span>ka</td>
   </tr>
   <tr>
     <td>Anak:  </td>
-  <td>almari</td>
+    <td>ka<span style="color:red;">ki</span>
+</td>
   </tr>
   <tr>
     <td>Ibu/Bapa:</td>
-  <td>kerusi</td>
+    <td><span style="color:red;">ki</span>ra
+</td>
   </tr>
   <tr>
     <td>Anak: </td>
-    <td>meja</td>
+    <td>    ra<span style="color:red;">sa</span></td>
   </tr>
 </table>
-</p>
+
 </div></div>
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
-   <label for="tab-8" class="lbML">Permainan Suku Kata </label>
+   <label for="tab-8" class="lbML">Permainan Teka Saya
+ </label>
      <div class="tab-content">
-       <p style="text-align:justify;">Ibu bapa boleh memulakan permainan dengan memberikan satu perkataan. Contohnya, roti.  Kemudian anak harus membina perkataan lain yang bermula dengan suka kata akhir perkataan tadi. <br/><br/>
-         Contoh perbualan:
+       <p style="text-align:justify;">Ibu bapa membawa anak ke dalam setiap bahagian di dalam rumah.    Di setiap bahagian tersebut, pilih beberapa objek.  Deskripsikan objek tersebut. Kemudian, memberikan arahan kepada anak untuk meneka.
+<br/><br/>
+         Contoh : </p>
 <table class="center">
   
   <tr>
-    <td>Ibu/Bapa:</td>
-  <td>ro<strong>ti</strong></td>
+    <td>Ibu/Bapa     : </td>
+  <td>Ada satu benda besar di dalam dapur. Ibu/Bapa menyimpan sekotak susu sejuk di dalamnya.  Cuba teka benda itu apa?</td>
  </tr>
   <tr>
     <td>Anak:  </td>
-  <td><strong>ti</strong>lam</td>
+  <td>     peti sejuk
+</td>
 </tr>
-  <tr>
-    <td>Ibu/Bapa: </td>
-  <td><strong>lam</strong>pu</td>
-  </tr>
-  <tr>
-    <td>Anak: </td>
-  <td><strong>pu</strong>sing</td>
-   </tr>
 </table>
-</p>
-</div></div>
-<p style="font-size:25px;text-align:justify;">Anda juga boleh bermain  beberapa permainan dengan anak anda agar dapat membantu mereka menguasai kemahiran membina ayat.
-</p>
-<div class="atab">
-      <input id="tab-9" type="checkbox" name="tab">
-   <label for="tab-9" class="lbML">Permainan Membina Ayat </label>
-     <div class="tab-content">
-       <p style="text-align:justify;">Ibu bapa boleh memberikan satu perkataan atau beberapa perkataan secara lisan atau bertulis kepada anak (mengikut keupayaan anak membina ayat). Kemudian ibu bapa meminta anak membina ayat dengan perkataan yang diberikan.<br/><br/>
-         Contoh 1 : <span style="background-color:green;color:white;"> kereta </span>
-<br/>
-         <strong>Kereta </strong> itu berwarna merah.<br/><br/>
-         Contoh 2 : <span style="background-color:green;color:white;"> kereta </span>&nbsp; <span style="background-color:green;color:white;"> laju </span>
- <br/>
-         <strong>Kereta</strong> Ayah bergerak dengan <strong>laju.</strong><br/>
-</p>
 </div></div>
 
 <div class="atab">
-      <input id="tab-10" type="checkbox" name="tab">
-   <label for="tab-10" class="lbML">Permainan Meluaskan Ayat </label>
+      <input id="tab-9" type="checkbox" name="tab">
+   <label for="tab-9" class="lbML">Permainan Cerita Berangkai
+ </label>
      <div class="tab-content">
-       <p style="text-align:justify;">Ibu bapa memberikan satu ayat tunggal kepada anak.  Kemudian, anak meluaskan ayat itu.  Selepas itu, giliran ibu/bapa pula meluaskan ayat itu.  Begitulah seterusnya hingga ayat itu tidak dapat diluaskan lagi. <br/><br/>
-         Contoh perbualan : 
+       <p style="text-align:justify;">Ibu bapa memberikan sekeping gambar keluarga kepada anak.  Kemudian, ibu bapa dan anak bercerita tentang gambar itu.  Ibu/bapa memulakan cerita. Selepas itu, giliran anak pula meluaskan cerita itu.  Begitulah seterusnya hingga cerita itu tamat.
+ <br/><br/>
+         Contoh : </p>
 
 <table class="center">
    <tr>
-    <td>Ibu/Bapa:</td>
-  <td>Ayah pergi ke kedai.</td>
+    <td>Ibu/Bapa     :</td>
+  <td>Ibu, Ayah, Abang dan adik…</td>
  </tr>
   <tr>
     <td>Anak:  </td>
-  <td><span style="color:red">Pada hari Ahad </span>, Ayah pergi ke kedai.</td>
-</tr>
-  <tr>
-    <td>Ibu/Bapa: </td>
-    <td> Pada hari Ahad, Ayah pergi ke kedai <span style="color:red"> bersama Ibu</span>.</td>
-   
+  <td>pergi ke Taman Haiwan.</td>
   </tr>
   <tr>
+    <td>Ibu/Bapa: </td>
+    <td> Di sana…</td>
+    </tr>
+  <tr>
     <td>Anak: </td>
-  <td>Pada hari Ahad, Ayah pergi ke kedai bersama Ibu  <span style="color:red">untuk  membeli tepung, susu dan gula. </span></td>
+  <td>ada banyak haiwan.
+</td>
    </tr>
+  <tr>
+    <td>Ibu/Bapa      :</td>
+    <td>Ibu ternampak beberapa ekor…
+</td></tr>
 </table>
-</p>
 </div></div>
 <p>
   <li style="text-align:justify;">Permainan yang disarankan di atas haruslah dilakukan secara santai dan menyeronokkan. </li>
   
-  <li>Betulkan jawapan anak anda dengan teguran yang lembut.  </li>
+  <li>Membetulkan jawapan anak anda dengan teguran yang 
+   lembut. 
+
+</li>
   
-  <li>Galakkan anak anda untuk terus mencuba.  </li>
+  <li>Menggalakkan anak anda untuk terus mencuba.    </li>
 
-  <li>Permainan yang disarankan juga dapat mengeratkan hubungan anda dengan anak anda.</li>
+  <li>Selain itu, permainan yang disarankan juga dapat 
+   mengeratkan hubungan antara anak dengan ibu bapa.
+</li>
 </p>
-
- <img src="/images/MTLS-Malay-PriSch-Footer2.jpg">  
+<img src="/images/MTLS-Malay-PriSch-Footer2.jpg">  
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
