@@ -144,7 +144,7 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
  <br/>
  <table style="border:none;border-style: none;">
   <tr>
-    <td><p style="text-align:justify;">Kurikulum dan Program Tadika MOE dibina berdasarkan <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines" target="_blank">Rangka Kerja Memupuk Pelajar pada Peringkat Awal. </a> <br/><br/>
+    <td><p>Kurikulum dan Program Tadika MOE dibina berdasarkan <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines" target="_blank">Rangka Kerja Memupuk Pelajar pada Peringkat Awal. </a> <br/><br/>
       Kanak-kanak dipupuk secara holistik dalam enam <a href="https://www.nel.moe.edu.sg/teaching-and-learning/learning-areas/aesthetics-and-creative-expression" target="_blank">bidang pembelajaran.</a>
 </p></td>
     <td><p>Yang berikut merupakan gambaran keseluruhan bagi <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines
