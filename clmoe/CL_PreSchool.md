@@ -95,7 +95,7 @@ width:80%;
 <p style="font-size:30px;font-family:KaiTi" ><h4 style="font-size:30px;font-family:KaiTi;">教育部幼儿园 
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">繁星语文课程</span></a>
  <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:KaiTi">大图书共享阅读</span></a>
- <a href="#C3" style="font-size:25px"><span style="color:blue;font-family:KaiTi">奥秘探索周计划</span></a>
+ <a href="#C3" style="font-size:25px"><span style="color:blue;font-family:KaiTi">奥秘探索周计划</span></a><br/>
  <a href="#C4" style="font-size:25px"><span style="color:blue;font-family:KaiTi">居家活动好点子
 </span></a> <br/><br/></h4>
 <p style="font-size:25px;font-family:KaiTi; text-align:justify;">
