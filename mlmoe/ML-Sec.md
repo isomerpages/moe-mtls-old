@@ -148,70 +148,7 @@ width:100%;
 </h4>
   <p style="text-align:justify;">
   Keempat-empat ciri utama dalam Kurikulum Bahasa Melayu Sekolah Menengah 2021 menyokong pengajaran dan pembelajaran di dalam bilik darjah. Ciri-ciri ini diserlahkan dalam bahan Pengajaran dan Pembelajaran JATi yang sedang diguna pakai di sekolah menengah bagi kohort menengah satu tahun ini.</p>
-  
-  
-   <div class="atab">
-      <input id="tab-10" type="checkbox" name="tab">
-   <label for="tab-10" class="lbML">BUDAYA
-</label>
-     <div class="tab-content">       
-       <p><strong>BUDAYA
-</strong><br/>Penerapan pengetahuan budaya yang lebih menyerlah untuk:
-       <ul>
-         <li>Meningkatkan penghargaan terhadap budaya
-</li>
-         <li>Membina jati diri Melayu Singapura
-</li>
-       </ul>
-       </p>
-     <table style="font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;">
-   <tr>
-    <td style="border: 0;
-  text-align: left;
-  padding: 8px;"><img src="/mlmoe/ml-sec2.png"></td>
-    <td style="border: 0;
-  text-align: left;
-  padding: 8px;">Dalam kurikulum baharu ini, aspek budaya didekati dengan cara yang lebih menarik. Pelajar diajak meneroka, mengumpul maklumat dan membuat rumusan tentang budaya mereka sendiri. Mereka mengaitkan aspek budaya dengan kehidupan mereka lalu memikirkan cara untuk melestarikannya dalam dunia yang sering berubah-ubah.
-</td>
-    </tr>
-    <tr>
-     <td colspan="2" style="border: 0;
-  padding: 15px;"><center><iframe width="560" height="315" src="https://vimeo.com/469636667/7d05c0254e
-" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td></tr>
-</table>
-       </div></div>
-       <div class="atab">
-      <input id="tab-11" type="checkbox" name="tab">
-   <label for="tab-11" class="lbML">SASTERA
-</label>
-     <div class="tab-content">       
-       <p><strong>SASTERA
-</strong><br/>Peningkatan pada pendedahan dan keterlibatan pelajar dengan teks sastera untuk:
-</p>
-<ul>
-<li>Menarik dan memupuk minat membaca sastera Melayu
-</li></ul>
-
-<table style="font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;">
-   <tr>
-    <td style="border: 0;
-  text-align: left;
-  padding: 8px;"><img src="/mlmoe/ml-sec3.png"></td>
-    <td style="border: 0;
-  text-align: left;
-  padding: 8px;">Bahan Sastera yang dipilih berkaitan dengan tema unit. Nukilan sastera yang dipilih, sama ada dari Singapura atau serantau mengajak pelajar membincangkan tentang tindakan watak, perhubungan antara manusia, isu sosial. Diharapkan perbincangan tentang bahan sastera ini mengajal pelajar berfikir secara kritis dan memupuk sifat suka membaca. 
-</td>
-    </tr>
-    <tr>
-     <td colspan="2" style="border: 0;
-  padding: 15px;"><center><iframe width="560" height="315" src="https://vimeo.com/469636809/105876b9ff" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td></tr>
-</table>
-  </div></div>
-  <h4>Sorotan Empat Ciri Utama dalam Kurikulum Bahasa Melayu Sekolah Menengah 2021</h4>
+<h4>Sorotan Empat Ciri Utama dalam Kurikulum Bahasa Melayu Sekolah Menengah 2021</h4>
   <div class="atab">
       <input id="tab-12" type="checkbox" name="tab">
    <label for="tab-12" class="lbML">EHWAL SEMASA
@@ -244,6 +181,71 @@ width:100%;
   padding: 15px;">Perbincangan Ehwal Semasa disokong dengan bahan-bahan tambahan autentik dari Berita Mediacorp dan Berita Harian. </td></tr>
 </table>
   </div></div>
+   <div class="atab">
+      <input id="tab-11" type="checkbox" name="tab">
+   <label for="tab-11" class="lbML">SASTERA
+</label>
+     <div class="tab-content">       
+       <p><strong>SASTERA
+</strong><br/>Peningkatan pada pendedahan dan keterlibatan pelajar dengan teks sastera untuk:
+</p>
+<ul>
+<li>Menarik dan memupuk minat membaca sastera Melayu
+</li></ul>
+
+<table style="font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;">
+   <tr>
+    <td style="border: 0;
+  text-align: left;
+  padding: 8px;"><img src="/mlmoe/ml-sec3.png"></td>
+    <td style="border: 0;
+  text-align: left;
+  padding: 8px;">Bahan Sastera yang dipilih berkaitan dengan tema unit. Nukilan sastera yang dipilih, sama ada dari Singapura atau serantau mengajak pelajar membincangkan tentang tindakan watak, perhubungan antara manusia, isu sosial. Diharapkan perbincangan tentang bahan sastera ini mengajal pelajar berfikir secara kritis dan memupuk sifat suka membaca. 
+</td>
+    </tr>
+    <tr>
+     <td colspan="2" style="border: 0;
+  padding: 15px;"><center><iframe width="560" height="315" src="https://vimeo.com/469636809/105876b9ff" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td></tr>
+</table>
+  </div></div>
+   <div class="atab">
+      <input id="tab-10" type="checkbox" name="tab">
+   <label for="tab-10" class="lbML">BUDAYA
+</label>
+     <div class="tab-content">       
+       <p><strong>BUDAYA
+</strong><br/>Penerapan pengetahuan budaya yang lebih menyerlah untuk:
+       <ul>
+         <li>Meningkatkan penghargaan terhadap budaya
+</li>
+         <li>Membina jati diri Melayu Singapura
+</li>
+       </ul>
+       </p>
+     <table style="font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;">
+   <tr>
+    <td style="border: 0;
+  text-align: left;
+  padding: 8px;"><img src="/mlmoe/ml-sec2.png"></td>
+    <td style="border: 0;
+  text-align: left;
+  padding: 8px;">Dalam kurikulum baharu ini, aspek budaya didekati dengan cara yang lebih menarik. Pelajar diajak meneroka, mengumpul maklumat dan membuat rumusan tentang budaya mereka sendiri. Mereka mengaitkan aspek budaya dengan kehidupan mereka lalu memikirkan cara untuk melestarikannya dalam dunia yang sering berubah-ubah.
+</td>
+    </tr>
+    <tr>
+     <td colspan="2" style="border: 0;
+  padding: 15px;"><center><iframe width="560" height="315" src="https://vimeo.com/469636667/7d05c0254e
+" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td></tr>
+</table>
+       </div></div>
+  
+  
+  
+  
   
   
   <div class="atab">
