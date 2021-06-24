@@ -165,7 +165,7 @@ width:100%;
 PENGAJARAN DAN PEMBELAJARAN
 </strong><br/>
   <span style="font-size:25px;">Kandungan bahan pengajaran dan pembelajaran Pakej 
-    <img src="/mlmoe/mi-prisch1.png":</span>
+    <img src="/mlmoe/mi-prisch1.png">:</span>
   <br/> <br/> 
 </p>
  <br/>
