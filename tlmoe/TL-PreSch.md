@@ -185,16 +185,16 @@ margin-bottom:10px;
     ஒவ்வொரு கருப்பொருளையொட்டி அமைந்த சிறுவர் பாடல்கள்</p>
       <table style="width: 100%;">
 <tr>
-<tdstyle="text-align: left; padding: 8px;border:0;">
-  <img src="/tlmoe/tl-presch06.png">
+<td style="text-align: left; padding: 8px;border:0;">
+  <img src="/tlmoe/tl-presch06.png" style="width: 63%;">
 </td>
     <td style="text-align: left;padding: 8px;border:0;">
-    <img src="/tlmoe/tl-presch07.png">
+    <img src="/tlmoe/tl-presch07.png" style="width: 63%;">
    </td>
        </tr>
 <tr>
  <td style="text-align: left;padding: 8px;border:0;">
-    <img src="/tlmoe/tl-presch08.png">
+    <img src="/tlmoe/tl-presch08.png"  style="width: 63%;">
    </td>
        <td style="text-align: left;padding: 8px;border:0;">
           <img src="/tlmoe/tl-presch09.png">
