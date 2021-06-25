@@ -161,6 +161,17 @@ margin-bottom:10px;
     <label for="tab-9" style="font-family:KaiTi;font-size:22px" class="lbTM">1. நாசிங்கப்பூர்ச் சூழலில், பிள்ளைகளின் அனுபவத்திற்கு உட்பட்ட நிலையில் எழுதப்பட்டிருக்கும் பெரிய புத்தகங்கள்
 </label>
      <div class="tab-content">
+      <table style="width: 100%;">
+<tr>
+    <td style="text-align: left; padding: 8px;border:0;">
+    <p style="text-align:justify;"><strong>சகதைநூல்கள் </strong><br/>
+    சிங்கப்பூர்ச் சூழலில், பிள்ளைகளின் அனுபவத்திற்கு உட்பட்ட நிலையில் எழுதப்பட்டிருக்கும் பெரிய புத்தகங்கள்</p>
+    
+    </td>
+    <td style="text-align: left;padding: 8px;border:0;">
+    img pending</td>
+</tr>
+</table>
     
     </div></div>
 <div class="atab">
@@ -169,6 +180,30 @@ margin-bottom:10px;
 
 </label>
      <div class="tab-content">
+      <table style="width: 100%;">
+<tr>
+    <td rowspan="2" style="text-align: left; padding: 8px;border:0;">
+    <p style="text-align:justify;"><strong>பாடல்கள்
+ </strong><br/>
+    ஒவ்வொரு கருப்பொருளையொட்டி அமைந்த சிறுவர் பாடல்கள்</p>
+    
+    </td>
+    <td style="text-align: left;padding: 8px;border:0;">
+    <img src="/mlmoe/ml-presch06.png">
+   </td>
+       <td style="text-align: left;padding: 8px;border:0;">
+          <img src="/mlmoe/ml-presch07.png">
+   </td>
+</tr>
+<tr>
+ <td style="text-align: left;padding: 8px;border:0;">
+    <img src="/mlmoe/ml-presch08.png">
+   </td>
+       <td style="text-align: left;padding: 8px;border:0;">
+          <img src="/mlmoe/ml-presch09.png">
+   </td>
+</tr>
+</table>
 </div></div>
 <div class="atab">
       <input id="tab-11" type="checkbox" name="tab">
@@ -176,8 +211,19 @@ margin-bottom:10px;
 
 </label>
      <div class="tab-content">
-<p style="font-family:KaiTi;font-size:25px;">
-  </p>
+<p style="text-align:justify;">பாவிளையாட்டு <br/>அட்டைகள்</p>
+    <table style="width: 100%;">
+<tr>
+<td style="text-align: left;padding: 8px;border:0;">
+          <img src="/mlmoe/ml-presch10.png">
+   </td>
+</tr>
+<tr>
+<td style="text-align: left;padding: 8px;border:0;">
+          <img src="/mlmoe/ml-presch11.png">
+   </td>
+</tr>
+</table>
 </div></div>
 <div class="atab">
       <input id="tab-12" type="checkbox" name="tab">
@@ -185,6 +231,30 @@ margin-bottom:10px;
 
 </label>
      <div class="tab-content">
+      <p style="text-align:justify;">நடவடிக்கைத் தாள்கள்
+ <br/>குடும்ப உறுப்பினர்களும் பிள்ளையின் கற்றலில் ஈடுபடும்வண்ணம் அவர்களுடன் இணைந்து செய்யக்கூடிய நடவடிக்கைகள் 
+</p>
+    <table style="width: 100%;">
+<tr>
+<td style="text-align: left;padding: 8px;border:0;">
+          <img src="/mlmoe/ml-presch12.png">
+   </td>
+
+<td style="text-align: left;padding: 8px;border:0;">
+          <img src="/mlmoe/ml-presch13.png">
+   </td>
+</tr>
+
+<tr>
+<td style="text-align: left;padding: 8px;border:0;">
+          <img src="/mlmoe/ml-presch14.png">
+   </td>
+
+<td style="text-align: left;padding: 8px;border:0;">
+          <img src="/mlmoe/ml-presch15.png">
+   </td>
+</tr>
+</table>
      </div></div>
 
  
