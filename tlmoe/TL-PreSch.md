@@ -180,21 +180,18 @@ margin-bottom:10px;
 
 </label>
      <div class="tab-content">
-      <table style="width: 100%;">
-<tr>
-    <td rowspan="2" style="text-align: left; padding: 8px;border:0;">
-    <p style="text-align:justify;"><strong>பாடல்கள்
+       <p style="text-align:justify;"><strong>பாடல்கள்
  </strong><br/>
     ஒவ்வொரு கருப்பொருளையொட்டி அமைந்த சிறுவர் பாடல்கள்</p>
-    
-    </td>
+      <table style="width: 100%;">
+<tr>
+<tdstyle="text-align: left; padding: 8px;border:0;">
+  <img src="/tlmoe/tl-presch06.png">
+</td>
     <td style="text-align: left;padding: 8px;border:0;">
-    <img src="/tlmoe/tl-presch06.png">
+    <img src="/tlmoe/tl-presch07.png">
    </td>
-       <td style="text-align: left;padding: 8px;border:0;">
-          <img src="/tlmoe/tl-presch07.png">
-   </td>
-</tr>
+       </tr>
 <tr>
  <td style="text-align: left;padding: 8px;border:0;">
     <img src="/tlmoe/tl-presch08.png">
@@ -237,7 +234,7 @@ margin-bottom:10px;
     <table style="width: 100%;">
 <tr>
 <td style="text-align: left;padding: 8px;border:0;">
-          <img src="/tlmoe/tl-presch12.png">
+          <img src="/tlmoe/tl-presch12.png" style="width:67%;">
    </td>
 
 <td style="text-align: left;padding: 8px;border:0;">
@@ -247,7 +244,7 @@ margin-bottom:10px;
 
 <tr>
 <td style="text-align: left;padding: 8px;border:0;">
-          <img src="/tlmoe/tl-presch14.png">
+          <img src="/tlmoe/tl-presch14.png" style="width:67%;">
    </td>
 
 <td style="text-align: left;padding: 8px;border:0;">
