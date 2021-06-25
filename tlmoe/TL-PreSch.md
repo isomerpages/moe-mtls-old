@@ -79,7 +79,7 @@ margin-bottom:10px;
 <h4><span style="font-size:30px;color:purple;">தாய்மொழிகளுக்கான &nbsp; இளம் &nbsp; மாணவர்களைப் &nbsp; பேணி &nbsp; வளர்க்கும் &nbsp; பணிச்சட்டம் </span>
 </h4>
 <h4><span style="font-size:30px;color:purple;">தாய்மொழி கற்றல் கற்பித்தலில் தெளிவான புரிந்துணர்வை ஏற்படுத்த இளம் மாணவர்களைப் பேணி வளர்க்கும் தாய்மொழிகளுக்கான பணிச்சட்டம் உருவாக்கப்பட்டுள்ளது. 
-இந்தப் பணிச்சட்டம், தாய்மொழிகளின் கற்றல், கற்பித்தலுக்கான தொலைநோக்கு, நோக்கங்கள், வழிகாட்டும் கோட்பாடுகள், கற்றல் குறிக்கோள்கள் ஆகியவற்றை எடுத்துரைக்கிறது.</h4>
+இந்தப் பணிச்சட்டம், தாய்மொழிகளின் கற்றல், கற்பித்தலுக்கான தொலைநோக்கு, நோக்கங்கள், வழிகாட்டும் கோட்பாடுகள், கற்றல் குறிக்கோள்கள் ஆகியவற்றை எடுத்துரைக்கிறது.</span></h4>
 <img src="/images/TL-PreSch-right4.jpg" style="width:80%">
 <br/>
 <h4><span style="font-size:30px;color:purple;">இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டத்தின் அடிப்படையில் அமைந்த கற்றல் குறிக்கோள்கள்</span>
@@ -189,18 +189,18 @@ margin-bottom:10px;
     
     </td>
     <td style="text-align: left;padding: 8px;border:0;">
-    <img src="/mlmoe/ml-presch06.png">
+    <img src="/tlmoe/tl-presch06.png">
    </td>
        <td style="text-align: left;padding: 8px;border:0;">
-          <img src="/mlmoe/ml-presch07.png">
+          <img src="/tlmoe/tl-presch07.png">
    </td>
 </tr>
 <tr>
  <td style="text-align: left;padding: 8px;border:0;">
-    <img src="/mlmoe/ml-presch08.png">
+    <img src="/tlmoe/tl-presch08.png">
    </td>
        <td style="text-align: left;padding: 8px;border:0;">
-          <img src="/mlmoe/ml-presch09.png">
+          <img src="/tlmoe/tl-presch09.png">
    </td>
 </tr>
 </table>
@@ -215,12 +215,12 @@ margin-bottom:10px;
     <table style="width: 100%;">
 <tr>
 <td style="text-align: left;padding: 8px;border:0;">
-          <img src="/mlmoe/ml-presch10.png">
+          <img src="/tlmoe/tl-presch10.png">
    </td>
 </tr>
 <tr>
 <td style="text-align: left;padding: 8px;border:0;">
-          <img src="/mlmoe/ml-presch11.png">
+          <img src="/tlmoe/tl-presch11.png">
    </td>
 </tr>
 </table>
@@ -237,21 +237,21 @@ margin-bottom:10px;
     <table style="width: 100%;">
 <tr>
 <td style="text-align: left;padding: 8px;border:0;">
-          <img src="/mlmoe/ml-presch12.png">
+          <img src="/tlmoe/tl-presch12.png">
    </td>
 
 <td style="text-align: left;padding: 8px;border:0;">
-          <img src="/mlmoe/ml-presch13.png">
+          <img src="/tlmoe/tl-presch13.png">
    </td>
 </tr>
 
 <tr>
 <td style="text-align: left;padding: 8px;border:0;">
-          <img src="/mlmoe/ml-presch14.png">
+          <img src="/tlmoe/tl-presch14.png">
    </td>
 
 <td style="text-align: left;padding: 8px;border:0;">
-          <img src="/mlmoe/ml-presch15.png">
+          <img src="/tlmoe/tl-presch15.png">
    </td>
 </tr>
 </table>
