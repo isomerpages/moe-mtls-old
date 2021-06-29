@@ -68,18 +68,18 @@ margin-bottom:10px;
  <p style="text-align:center;">தாய்மொழிகளுக்கான இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டம்: சிங்கப்பூர்ப் பாலர் பள்ளிகளுக்கான பாடக்கலைத்திட்டம்; இளம் மாணவர்களைப் பேணி வளர்த்தல் பணிச்சட்டம்; தமிழ்மொழிக் கல்வியாளர்க்குரிய வழிகாட்டி </p>
  <table style="width: 100%;">
 <tr>
-    <td style="text-align: left; padding: 8px;border:0;">
+    <td style="text-align: left; padding: 8px;border:0;width: 33%;">
     <img src="/tlmoe/tl-presch01.png"></td>
-    <td style="text-align: left;padding: 8px;border:0;">
+    <td style="text-align: left;padding: 8px;border:0;width: 33%;">
     <img src="/tlmoe/tl-presch02.png"></td>
-    <td  style="text-align: center;padding: 8px;border:0;">
+    <td  style="text-align: center;padding: 8px;border:0;width: 33%;">
     <img src="/tlmoe/tl-presch03.png"></td>
     </tr>
 </table>
 <h4><span style="font-size:30px;color:purple;">தாய்மொழிகளுக்கான &nbsp; இளம் &nbsp; மாணவர்களைப் &nbsp; பேணி &nbsp; வளர்க்கும் &nbsp; பணிச்சட்டம் </span>
 </h4>
-<h4><span style="font-size:30px;color:purple;">தாய்மொழி கற்றல் கற்பித்தலில் தெளிவான புரிந்துணர்வை ஏற்படுத்த இளம் மாணவர்களைப் பேணி வளர்க்கும் தாய்மொழிகளுக்கான பணிச்சட்டம் உருவாக்கப்பட்டுள்ளது. 
-இந்தப் பணிச்சட்டம், தாய்மொழிகளின் கற்றல், கற்பித்தலுக்கான தொலைநோக்கு, நோக்கங்கள், வழிகாட்டும் கோட்பாடுகள், கற்றல் குறிக்கோள்கள் ஆகியவற்றை எடுத்துரைக்கிறது.</span></h4>
+<h4><span style="font-size:30px;color:purple;">தாய்மொழிகளுக்கான இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டம்  தாய்மொழி கற்றலில் பிள்ளைகள் ஆர்வம், ஈடுபாடு, செயல்திறன்மிக்கவர்களாக விளங்குவார்கள் என்னும் நம்பிக்கையின் அடிப்படையில் இயங்குகிறது.
+</span></h4>
 <img src="/images/TL-PreSch-right4.jpg" style="width:80%">
 <br/>
 <h4><span style="font-size:30px;color:purple;">இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டத்தின் அடிப்படையில் அமைந்த கற்றல் குறிக்கோள்கள்</span>
@@ -88,10 +88,10 @@ margin-bottom:10px;
 <tr>
     <td style="text-align: left; padding: 8px;border:0;">
     <ul>
-    <li style="text-align:justify;">தாய்மொழி கற்றலில் ஆர்வங்கொள்ளுதல்</li>
-      <li style="text-align:justify;">அடிப்படை மொழித்திறன்களை வளர்த்தல்
+    <li>தாய்மொழி கற்றலில் ஆர்வங்கொள்ளுதல்</li>
+      <li>அடிப்படை மொழித்திறன்களை வளர்த்தல்
 </li>
-        <li style="text-align:justify;">நம் பல்லினப் பண்பாட்டைத் தெரிந்துகொள்ளுதல்
+        <li>நம் பல்லினப் பண்பாட்டைத் தெரிந்துகொள்ளுதல்
 </li>
     </ul>
     </td>
@@ -107,12 +107,12 @@ margin-bottom:10px;
 <tr>
     <td style="text-align: left; padding: 8px;border:0;">
     <ul>
-    <li style="text-align:justify;">இருமொழிக் கல்வியை இளம் பருவத்திலேயே பேணி வளர்த்தல் 
+    <li>இருமொழிக் கல்வியை இளம் பருவத்திலேயே பேணி வளர்த்தல் 
  </li>
-      <li style="text-align:justify;"> பிள்ளைகள் ஆங்கிலத்தையும் தமது தாய்மொழியையும் மகிழ்ச்சியுடன் கற்பதற்கும் தன்னம்பிக்கையுடன் கருத்துப்பரிமாற்றத்தில் ஈடுபடுவதற்கும் வாய்ப்பளித்தல்</li>
-        <li style="text-align:justify;"> பிள்ளைகள் தம் மரபையும் பழக்க வழக்கங்களையும் அறிந்துகொள்ள வாய்ப்பளித்தல் </li>
-        <li style="text-align:justify;">பிள்ளைகள் கேட்டல், பேசுதல், திறன்களில் தகுந்த தேர்ச்சியையும் படித்தல், எழுதுதல் திறன்களில் ஆயத்த நிலையையும் பெறுவதற்கு வழிவகுத்தல் </li>
-                <li style="text-align:justify;">பிள்ளைகளின் எதிர்கால மொழி கற்றலுக்கு வலுவான அடித்தளத்தை அமைத்துத் தர உதவுதல் </li>
+      <li> பிள்ளைகள் ஆங்கிலத்தையும் தமது தாய்மொழியையும் மகிழ்ச்சியுடன் கற்பதற்கும் தன்னம்பிக்கையுடன் கருத்துப்பரிமாற்றத்தில் ஈடுபடுவதற்கும் வாய்ப்பளித்தல்</li>
+        <li> பிள்ளைகள் தம் மரபையும் பழக்க வழக்கங்களையும் அறிந்துகொள்ள வாய்ப்பளித்தல் </li>
+        <li>பிள்ளைகள் கேட்டல், பேசுதல், திறன்களில் தகுந்த தேர்ச்சியையும் படித்தல், எழுதுதல் திறன்களில் ஆயத்த நிலையையும் பெறுவதற்கு வழிவகுத்தல் </li>
+        <li>பிள்ளைகளின் எதிர்கால மொழி கற்றலுக்கு வலுவான அடித்தளத்தை அமைத்துத் தர உதவுதல் </li>
     </ul>
     </td>
     <td style="text-align: left;padding: 8px;border:0;">
@@ -145,7 +145,7 @@ margin-bottom:10px;
     <label for="tab-7" style="font-family:KaiTi;font-size:22px" class="lbTM">நான் யாருடன் இந்த உலகத்தைப் பகிர்ந்துகொள்கிறேன்?
 </label>
      <div class="tab-content">
-<p style="font-family:KaiTi;font-size:25px;">
+<p style="style="font-size:20px;text-align:justify;">
   </p>
 </div></div>
 <div class="atab">
@@ -154,7 +154,7 @@ margin-bottom:10px;
 </label>
      <div class="tab-content">
      </div></div>
- <p style="font-family:KaiTi;">மொழி கற்றல் மகிழ்ச்சிமிக்கதாக அமையப் பயன்படும் வளங்கள்:
+ <p style="font-size:20px;text-align:justify;">மொழி கற்றல் மகிழ்ச்சிமிக்கதாக அமையப் பயன்படும் வளங்கள்:
 </p>
  <div class="atab">
       <input id="tab-9" type="checkbox" name="tab">
@@ -164,7 +164,7 @@ margin-bottom:10px;
       <table style="width: 100%;">
 <tr>
     <td style="text-align: left; padding: 8px;border:0;">
-    <p style="text-align:justify;"><strong>சகதைநூல்கள் </strong><br/>
+    <p><strong>சகதைநூல்கள் </strong><br/>
     சிங்கப்பூர்ச் சூழலில், பிள்ளைகளின் அனுபவத்திற்கு உட்பட்ட நிலையில் எழுதப்பட்டிருக்கும் பெரிய புத்தகங்கள்</p>
     
     </td>
@@ -253,28 +253,6 @@ margin-bottom:10px;
 </tr>
 </table>
      </div></div>
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 <h4 id="C3"><span style="font-size:30px;color:purple;">ஆசிரியர் துணையோடு படித்தல்
  </span>
 </h4>
@@ -294,7 +272,6 @@ margin-bottom:10px;
             <li style="text-align:justify;">மாணவர்கள் தங்கள் சொல்வளத்தைப் பெருக்கிக்கொள்ள வழிவகுத்தல் 
 </li>
           </ul>
-
 </td>
  <td><img src="/images/TL-PreSch-right5.jpg"> <br/>
 <img src="/images/TL-PreSch-right6.jpg"></td>
@@ -303,89 +280,91 @@ margin-bottom:10px;
  <br/>
  <img src="/images/TL-PreSch-ReadingApproach.jpg">
   <br/>
+ <p style="font-size:20px;text-align:justify">‘ஆசிரியர் துணையோடு வாசித்தல் அணுகுமுறை’ என்னும் ஒளிக்காட்சியின் இணைப்பைக் கிளிக் செய்யுங்கள்.</p>
   <center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/RfP2dGBTlQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br/><span style="font-size:18px;">Shared Book Approach
 </span></center>
 <br/>
-
-<h4 id="C4"><span style="font-size:30px;color:purple;">அதிசய வாரத் திட்டப்பணி
+ <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Tamil/NEL-Big-Book-Tamil-Teaching-Steps.pdf" target="_blank">ஆசிரியரின் துணையுடன் படித்தல் அணுகுமுறையைப்பற்றிக் கூடுதல் விவரங்கள் பெற இந்த இணைப்பைச் சொடுக்கவும்.</a> 
+<h4 id="C4"><span style="font-size:30px;color:purple;">அதிசய வாரத் திட்டப்பணி (WoW Project)
  </span>
 </h4>
 <img src="/images/TL-PreSch-MiracleWeek.jpg">
-<br/><p style="font-size:20px;text-align:justify">இந்த இணைப்பின்வழி அதிசய வாரத் திட்டப்பணிகளைப்பற்றித் தெரிந்துகொள்ளுங்கள் <a href="https://www.nel.moe.edu.sg/resources/49800/49802" target="_blank">https://www.nel.moe.edu.sg/resources/49800/49802
+<br/>
+ <p style="font-size:20px;text-align:justify">
+ அதிசய வாரத் திட்டப்பணி பின்வருவனவற்றை நிறைவேற்ற முயல்கின்றன.</p>
+   <ul>
+<li style="font-size:20px;text-align:justify">விருப்பமான தலைப்பு ஒன்றைப்பற்றி மற்றவருடன் இணைந்து ஆராயும்போது பிள்ளைகளை உடனிணைந்து செயலாற்ற ஊக்குவித்தல்.
+</li>
+ <li style="font-size:20px;text-align:justify">பல்வேறு மூலங்களிலிருந்து தகவல்களைத் திரட்டுவதன்வழியும் தங்களது கண்டுபிடிப்புகளை மற்றவரோடு பகிர்ந்துகொள்வதன்வழியும் பிள்ளைகளின் செயல்முறைத் திறன்களை வளர்த்தல்.
+</li>
+ <li style="font-size:20px;text-align:justify">அதிசய வாரத் திட்டப் பணிகளைத் தாய்மொழிகளில் மேற்கொள்வதன்வழிப் பிள்ளைகளின் கருத்துப்பரிமாற்றத்திறனை மேம்படுத்துதல்.
+</li>
+</ul>
+ <p style="font-size:20px;text-align:justify">இந்த இணைப்பின்வழி அதிசய வாரத் திட்டப்பணிகளைப்பற்றித் தெரிந்துகொள்ளுங்கள் <a href="https://www.nel.moe.edu.sg/resources/49800/49802" target="_blank">https://www.nel.moe.edu.sg/resources/49800/49802
 </a></p>
-<h4 id="C5"><span style="font-size:30px;color:purple;">பெற்றோருக்கான உதவிக்குறிப்புகள்
-</span>
-</h4>
+ <h4 id="C5"><span style="font-size:30px;color:purple;">வீட்டில் தாய்மொழிப் புழக்கத்தை ஊக்குவிக்கப் பிள்ளைகளுடன் பெற்றோர் வீட்டிலிருந்து செய்யும் நடவடிக்கைகள்
+</span></h4>
+<p  style="font-size:20px;text-align:justify">பெற்றோர்களே, பின்வரும் நடவடிக்கைகளின்வழி வீட்டில் உங்கள் பிள்ளையின் கற்றலுக்கும் வளர்ச்சிக்கும் நீங்கள் ஆதரவு அளிக்கலாம். இந்த நடவடிக்கைகள் கருத்துப்பரிமாற்றத்தையும் குடும்பப் பிணைப்பையும் ஊக்குவிக்கின்றன.
+</p>
+                                             
+                                             
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-   <label for="tab-1" style="font-size:22px" class="lbTM">‘படித்தல், பேசுதல்’ நடவடிக்கை
+   <label for="tab-1" style="font-size:22px" class="lbTM">என்னிடமுள்ள வண்ண உடைகள்!’
 </label>
      <div class="tab-content">
- <ol type="i">
-    <li style="text-align:justify;">பிள்ளைக்குப் பிடித்த ஒரு கதைப்புத்தகத்தைத் தேர்ந்தெடுங்கள்.
- </li>
-   <li style="text-align:justify;">பின் அக்கதையை அவருக்குப் படித்துக் காட்டிப் பின்வரும் கேள்விகளைக் கேளுங்கள்:<br/>
-    <ul>
-  <li style="text-align:justify;">கதை எதைப் பற்றியது என்று நீ நினைக்கிறாய்? 
-</li>
-  <li style="text-align:justify;">கதையில் உனக்குப் பிடித்த கதாபாத்திரம் எது? ஏன்? </li>
-     <li style="text-align:justify;">உனக்குக் கதை பிடித்திருக்கிறதா? கதையின் எந்தப் பகுதி உனக்குப் பிடித்திருக்கிறது? ஏன்? 
-</li>
-  </ul>
-</li>
-   <li style="text-align:justify;">பிள்ளையிடம் அவர் கேட்ட கதையை மற்றக் குடும்ப உறுப்பினர்களிடம் சொல்லச் சொல்லுங்கள். 
-</li>
-   </ol>
+<p style="font-size:20px;text-align:justify">என்னிடமுள்ள வண்ண உடைகள்!’ நடவடிக்கை
+<br/><br/>பிள்ளையிடம் பச்சை, சிவப்பு, நீலம், மஞ்சள் ஆகிய நான்கு வண்ணத்தாள்களைக் கொடுங்கள். பின்னர், பிள்ளையின் அலமாரியில் அந்தந்த வண்ணத்தில் எத்தனை உடைகள் இருக்கின்றன என்பதை எண்ணச் சொல்லுங்கள். எண்ணுவதில் சிரமம் ஏற்பட்டால் பிள்ளைக்கு உதவிசெய்யுங்கள் <br/><br/>பிள்ளையிடம் இருக்கும் வண்ணத்தாளில் அந்தந்த வண்ணத்தில் அவரிடமுள்ள உடையின் எண்ணிக்கையை எழுதச் சொல்லுங்கள். பின்னர், அவருக்குப் பிடித்த உடையை வரைந்து வண்ணம் தீட்டச் சொல்லுங்கள். </p>
   </div></div>
   
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-   <label for="tab-2" style="font-size:22px" class="lbTM">இது &nbsp;எங்கிருக்கிறது?’ &nbsp; நடவடிக்கை
+   <label for="tab-2" style="font-size:22px" class="lbTM">கதை கேளு, கதை கேளு!’ நடவடிக்கை
 </label>
      <div class="tab-content">
-      <ul>
-  <li style="text-align:justify;">செய்தித்தாளிலிருந்தோ சஞ்சிகையிலிருந்தோ வீட்டில் பயன்படுத்தும் பொருள்களின் படங்கள் சிலவற்றைக்  கத்திரிக்குமாறு பிள்ளையிடம் சொல்லுங்கள். (எ.டு: படுக்கை, கோப்பைகள், துண்டு, தொலைக்காட்சி, இன்னும் பல...)
- </li>
- <li style="text-align:justify;">பின் ஒரு வெள்ளைத்தாளில் 4 கட்டங்கள் வரைந்து வீட்டின் வெவ்வேறு பகுதியின் பெயர்களை எழுதி வைத்துக்கொள்ளுங்கள்.
+<p style="font-size:20px;text-align:justify"><strong>கதை கேளு, கதை கேளு!’ நடவடிக்கை</strong><br/><br/>
+பிள்ளையிடம் *‘Kani & Mani’ என்னும் செயலியில் உள்ள ‘கனியும் மணியும்’ என்னும் கதையைக் கேட்கச் சொல்லுங்கள். பின்னர், கீழ்க்காணும் கேள்விகளைக் கேட்டுப் பிள்ளையுடன் கலந்துரையாடுங்கள். 
+</p>
+<ul>
+<li style="font-size:20px;text-align:justify">கதை எதைப்பற்றியது என்று நீ நினைக்கிறாய்? 
 </li>
-<li style="text-align:justify;">பிள்ளையைக் கத்திரித்த படங்களிலுள்ள பொருள்களின் பெயரைச் சொல்லச் சொல்லுங்கள். பின்னர், அப்பொருள் வீட்டின் எந்தப் பகுதியில் இருக்கும் என்று கேட்டுக்  கலந்துரையாடுங்கள். 
+<li style="font-size:20px;text-align:justify">கதையில் உனக்குப் பிடித்த கதாபாத்திரம் எது? ஏன்? 
 </li>
- <li style="text-align:justify;">பின் படத்தைச் சரியான கட்டத்தில் ஒட்டுமாறு 
+<li style="font-size:20px;text-align:justify">உனக்குக் கதை பிடித்திருக்கிறதா? கதையின் எந்தப் பகுதி உனக்குப் பிடித்திருக்கிறது? ஏன்? 
 </li>
 </ul>
+<p style="font-size:20px;text-align:justify">பிள்ளைக்குப் பிடித்த கதாபாத்திரத்தை வரைந்து வண்ணம் தீட்டி, அந்தப் படத்தைக் காட்டி மற்றக் குடும்ப உறுப்பினர்களிடம் கதையைச் சொல்லச் சொல்லுங்கள். <br/><br/>
+<strong> *‘Kani & Mani’ என்னும் செயலியை Appstore அல்லது Playstore வாயிலாகப் பதிவிறக்கம் செய்துகொள்ளுங்கள். </strong>
+
+</p>
 </div></div>
 
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-   <label for="tab-3" style="font-size:22px" class="lbTM">‘என் &nbsp; அருமைக் &nbsp; குடும்பத்தார்’ &nbsp; நடவடிக்கை
+   <label for="tab-3" style="font-size:22px" class="lbTM">இது எங்கிருக்கிறது?’ நடவடிக்கை
+
 </label>
      <div class="tab-content">
-<ul>
-  <li style="text-align:justify;">பிள்ளையிடம் ஒவ்வொரு குடும்ப உறுப்பினரின் உள்ளங்கையையும் வெள்ளைத்தாளில் வைத்து அதன் வடிவத்தை அத்தாளில் வரைந்துகொள்ளுமாறு சொல்லுங்கள். 
-</li>
- <li style="text-align:justify;">பின் குடும்ப உறுப்பினர்களின் படத்தை அவரவர் உள்ளங்கை வடிவத்தினுள் வரைந்து வண்ணம் தீட்டச் சொல்லுங்கள். 
-</li>
-<li style="text-align:justify;">பின் வடிவம் சிதையாமல் கத்திரிக்கச் சொல்லுங்கள். 
-</li>
-<li style="text-align:justify;">பின் ஒவ்வொரு படத்தையும் சுட்டிக்காட்டி, அக்குடும்ப உறுப்பினரை ஏன் தனக்குப் பிடிக்கும் என்று சொல்லச் சொல்லுங்கள். 
-</li>
-</ul>
+ <p style="font-size:20px;text-align:justify"><strong>இது எங்கிருக்கிறது?’ நடவடிக்கை</strong><br/><br/>
+ செய்தித்தாளிலிருந்தோ சஞ்சிகைகளிலிருந்தோ வீட்டில் பயன்படுத்தும் பொருள்களின் படங்கள் சிலவற்றைக் கத்தரிக்குமாறு பிள்ளையிடம் சொல்லுங்கள். (எ-டு: படுக்கை, கோப்பைகள், துண்டு, தொலைக்காட்சி, இன்னும் பல.).
+கீழே கொடுக்கப்பட்டுள்ளதுபோல் ஒரு வெள்ளைத்தாளில் 4 கட்டங்கள் வரைந்து வீட்டின் வெவ்வேறு பகுதியின் பெயரை எழுதி வைத்துக்கொள்ளுங்கள்.
+</p>
+<img src="/tlmoe/tl-presch16.png">
+<p style="font-size:20px;text-align:justify">பிள்ளையிடம் கத்தரித்த படங்களிலுள்ள பொருள்களின் பெயரைச் சொல்லச் சொல்லுங்கள். பின்னர், அந்தப் பொருள் வீட்டின் எந்தப் பகுதியில் இருக்கும் என்று கேட்டுக் கலந்துரையாடுங்கள்; படத்தைச் சரியான கட்டத்தில் ஒட்டுமாறு பிள்ளையிடம் சொல்லுங்கள்.
+ </p>
 </div></div>
 
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-   <label for="tab-4" style="font-size:22px" class="lbTM">‘எனது &nbsp; வண்ண &nbsp; வண்ண &nbsp; உடைகள்!’ &nbsp; நடவடிக்கை
+   <label for="tab-4" style="font-size:22px" class="lbTM">‘என் குடும்பத்தினர்’ நடவடிக்கை
+
 </label>
      <div class="tab-content">
-      <ul>
-  <li style="text-align:justify;">பிள்ளையிடம் பச்சை, சிவப்பு, நீலம், மஞ்சள் ஆகிய நான்கு வண்ணத்தாள்களைக் கொடுங்கள். 
-</li>
-  <li style="text-align:justify;">பின்னர், பிள்ளையின் அலமாரியில் அந்தந்த வண்ணத்தில் எத்தனை உடைகள் இருக்கின்றன என்பதை எண்ணச் சொல்லுங்கள். (எண்ணுவதில் சிரமம் ஏற்பட்டால் பிள்ளைக்கு உதவி செய்யுங்கள்.)  
-</li>
- <li style="text-align:justify;">பிள்ளையிடம் வண்ணத்தாளில் அந்தந்த வண்ணத்தில் தன்னிடமுள்ள உடையின் எண்ணிக்கையை எழுதச் சொல்லுங்கள். 
-</li>
-</ul>
+<p style="font-size:20px;text-align:justify"><strong>‘என் குடும்பத்தினர்’ நடவடிக்கை</strong><br/><br/>
+குடும்ப உறுப்பினர் ஒவ்வொருவரின் உள்ளங்கையை வெள்ளைத்தாளில் வைத்து, அதைச் சுற்றிக்கோடிட்டு உள்ளங்கையின் வடிவத்தைத் தாளில் வரைந்துகொள்ளுமாறு பிள்ளையிடம் சொல்லுங்கள். பிறகு, பிள்ளையைக் குடும்ப உறுப்பினர்களின் படத்தை அவரவர் உள்ளங்கை வடிவத்தினுள் வரைந்து, வண்ணம் தீட்டச் சொல்லுங்கள். பின்னர், பிள்ளையிடம் உள்ளங்கையின் வடிவம் சிதையாமல் அதனைக்  கத்தரித்துக்கொள்ளச் சொல்லுங்கள். பிறகு, ஒவ்வொரு படத்தையும் சுட்டி, அந்தக் குடும்ப உறுப்பினரை ஏன் தனக்குப் பிடிக்கும் என்று பிள்ளையைச் சொல்லச் சொல்லுங்கள். (எ.டு: ‘என் அப்பா அன்பானவர்.) <br/><br/>
+பின்னர், கத்தரித்த உள்ளங்கை வடிவங்களின் நுனியில் துளையிட்டு, அவற்றை நூலால் வரிசையாகக் கோத்துத் தோரணம்போல் பிள்ளையின் அறையில் தொங்கவிடுங்கள்.
+ </p>
 </div></div>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
