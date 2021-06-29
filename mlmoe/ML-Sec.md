@@ -446,17 +446,11 @@ width:100%;
     <img src="/mlmoe/ml-sec20.png"></td>
     <td style=" text-align: left;padding: 8px;width: 33%;">
     <img src="/mlmoe/ml-sec21.png">
-    <img src="/mlmoe/ml-sec22.png">
-    <img src="/mlmoe/ml-sec23.png"></td>
+    <img src="/mlmoe/ml-sec22.png" style="margin-top: -128px;margin-left: -72px;">
+    <img src="/mlmoe/ml-sec23.png" style="margin-top: -182px;margin-left: 7px;"></td>
   </tr>
   </table>
-     
-     
-     
-     
-     
-     
- <h4  style="font-size:25px;color:green;" >Program Elektif Bahasa Melayu Sekolah Menengah
+<h4  style="font-size:25px;color:green;" >Program Elektif Bahasa Melayu Sekolah Menengah
 </h4>
 <p style="text-align:justify;">Jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS.
 </p>
