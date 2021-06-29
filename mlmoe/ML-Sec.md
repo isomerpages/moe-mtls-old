@@ -292,28 +292,23 @@ width:100%;
   <a href="https://www.moe.gov.sg/education
 " target="_blank">https://www.moe.gov.sg/education
 </a>
-  <br/><br/>
-  <p>Bahasa Ibunda:</p>
+   <p>Bahasa Ibunda:</p>
   <a href="https://www.moe.gov.sg/education/syllabuses/mother-tongue-languages
 " target="_blank">https://www.moe.gov.sg/education/syllabuses/mother-tongue-languages
 </a>
-  <br/><br/>
-  <p>SLS: </p>
+ <p>SLS: </p>
   <a href="https://vle.learning.moe.edu.sg" target="_blank">https://vle.learning.moe.edu.sg</a>
-  <br/><br/>
-  <p>AST: </p>
+<p>AST: </p>
   <a href="https://academyofsingaporeteachers.moe.edu.sg" target="_blank">https://academyofsingaporeteachers.moe.edu.sg</a>
-  <br/><br/>
-  <p>Pusat Bahasa Melayu Singapura: </p>
-  <a href="https://academyofsingaporeteachers.moe.edu.sg/mlcs
+<p>Pusat Bahasa Melayu Singapura: </p>
+<a href="https://academyofsingaporeteachers.moe.edu.sg/mlcs
 " target="_blank">https://academyofsingaporeteachers.moe.edu.sg/mlcs
 </a>
-  <br/><br/>
-  <p>OPAL2.0: </p>
+<p>OPAL2.0: </p>
   <a href="https://idm.opal2.moe.edu.sg
 " target="_blank">https://idm.opal2.moe.edu.sg
 </a>
-  <br/><br/>
+
   
   
  <h4>Gambaran Bahan Pengajaran JATi</h4> 
@@ -353,7 +348,7 @@ width:100%;
   text-align: left;
   padding: 29px;width:35%">
   <img src="/mlmoe/ml-sec9.png">
- <img src="/mlmoe/ml-sec18.png">
+ <img src="/mlmoe/ml-sec18.png" style="margin-top: -127px;margin-left: 24px;">
       </td>
     <td style="border: 0;
   text-align: left;
