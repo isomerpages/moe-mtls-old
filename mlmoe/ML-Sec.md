@@ -192,7 +192,6 @@ width:100%;
 <ul>
 <li>Menarik dan memupuk minat membaca sastera Melayu
 </li></ul>
-
 <table style="font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;">
@@ -245,7 +244,6 @@ width:100%;
 <div class="atab">
       <input id="tab-13" type="checkbox" name="tab">
    <label for="tab-13" class="lbML">TEKNOLOGI 
-
 </label>
      <div class="tab-content">       
 <table style="font-family: arial, sans-serif;
@@ -285,7 +283,7 @@ width:100%;
   <img src="/mlmoe/ml-sec07.png" style="width:100%;">
   <center><iframe width="560" height="315" src="https://vimeo.com/469639582/8e0c371a58"
  frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-  <h4>Gambaran Kurikulum Sekolah Menengah 2021</h4>
+  <h4 style="font-size:25px;color:green;">Gambaran Kurikulum Sekolah Menengah 2021</h4>
   <p style="text-align:justify;">Dasar Pendidikan Singapura yang menegaskan prinsip dwibahasa telah menjadikan Bahasa Melayu sebagai salah satu pelajaran yang wajib dalam kurikulum sekolah di Singapura 1 . Untuk memastikan bahawa dasar kedwibahasaan terus berkesan dan relevan dalam persekitaran bahasa yang dinamik, semakan kurikulum Bahasa Ibunda dijalankan dari semasa ke semasa. Sebagai pelanjutan Kurikulum Bahasa Melayu Sekolah Rendah 20152 , Kurikulum Bahasa Melayu Sekolah Menengah bermula dengan kohort Menengah 1 tahun 2021. Kurikulum Bahasa Melayu Sekolah Menengah dibina untuk memperkukuh dan meningkatkan kemahiran berkomunikasi dan keterampilan berbahasa para pelajar yang telah diperoleh di peringkat sekolah rendah. Beberapa dokumen dan bahan pengajaran bercetak dan digital diterbitkan untuk melaksanakan Kurikulum Bahasa Melayu Sekolah Menengah 2021. Antaranya ialah Sukatan Pengajaran dan Pembelajaran Sekolah Menengah 2021 ini sebagai rujukan guru untuk menyediakan pengajaran dan pembelajaran bagi memenuhi keperluan kurikulum dan program-program Bahasa Melayu di sekolah menengah. Sukatan pengajaran dan pembelajaran ini perlu digunakan sebagai rujukan rasmi bagi kemahiran dan pengetahuan bahasa yang perlu diajarkan kepada pelajar peringkat menengah. Namun, sukatan ini tidak mengandungi kesemua pengetahuan bahasa, pedagogi atau bahan rujukan tuntas untuk guru. Rujukan bahan-bahan lain yang sesuai untuk membantu pembelajaran pelajar perlu dilakukan oleh guru. Pembinaan sukatan pengajaran dan pembelajaran ini telah melibatkan pelbagai pihak yang berkepentingan termasuk guru, pelajar, pengetua sekolah, guru pakar dan ahli akademik. Yang berikut ialah pautan-pautan yang berhubung dengan dasar, sukatan, bahan-bahan pengajaran dan jaringan sokongan:
 </p>
    <p>MOE: </p>
@@ -328,7 +326,7 @@ width:100%;
    <img src="/mlmoe/ml-sec16.png">
   </div>
 </div>
-<h4>Program Elektif Bahasa Melayu Peringkat Sekolah Menengah 
+<h4 style="font-size:25px;color:green;">Program Elektif Bahasa Melayu Peringkat Sekolah Menengah 
 </h4>
   <p>MOE menawarkan dua program elektif Bahasa Melayu yang berikut di peringkat sekolah menengah: 
 </p>
@@ -357,27 +355,22 @@ width:100%;
    </table>
    <img src="/mlmoe/ml-sec12.png" style="width:100%;">
    <br/>
-   <h4>Program Elektif Bahasa Melayu di Peringkat Sekolah Menengah 
+   <h4 style="font-size:25px;color:green;">Program Elektif Bahasa Melayu di Peringkat Sekolah Menengah 
 </h4>
 <a href="https://sites.google.com/view/emasmlep/home
 " target="_blank">https://sites.google.com/view/emasmlep/home
 </a>
 
-<h4>Sebagai pelajar MLEP-Menengah, anak anda akan berpeluang menikmati aktiviti pengayaan yang berikut:
+<h4 style="font-size:25px;color:green;">Sebagai pelajar MLEP-Menengah, anak anda akan berpeluang menikmati aktiviti pengayaan yang berikut:
 </h4>
 <a href="https://sites.google.com/view/emasmlep/home" target="_blank">Untuk maklumat lanjut tentang Program Elektif Bahasa Melayu:
 </a>
 
-<h4>Permohonan Biasiswa MLEP-Menengah
+<h4 style="font-size:25px;color:green;">Permohonan Biasiswa MLEP-Menengah
 </h4>
 <a href="https://www.moe.gov.sg/programmes/mlep-se" target="_blank">Untuk maklumat lanjut tentang Permohonan Biasiswa:
 </a>
-   
-   
-   
-   
-   
-   <h4>PROGRAM DIGITAL ALTERNATIF</h4>
+<h4>PROGRAM DIGITAL ALTERNATIF</h4>
    <table style="font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;">
@@ -443,6 +436,26 @@ width:100%;
 </td></tr>
    </table>
      <br/>
+      <h4  style="font-size:25px;color:green;" >Program Elektif Bahasa Melayu Sekolah Menengah
+</h4>
+<table style=" border-collapse: collapse; width: 100%;">
+<tr>
+    <td style=" text-align: left;padding: 8px;">
+    <img src="/mlmoe/ml-sec19.png"></td>
+    <td style=" text-align: left;padding: 8px;">
+    <img src="/mlmoe/ml-sec20.png"></td>
+    <td style=" text-align: left;padding: 8px;">
+    <img src="/mlmoe/ml-sec21.png">
+    <img src="/mlmoe/ml-sec22.png">
+    <img src="/mlmoe/ml-sec23.png"></td>
+  </tr>
+  </table>
+     
+     
+     
+     
+     
+     
  <h4  style="font-size:25px;color:green;" >Program Elektif Bahasa Melayu Sekolah Menengah
 </h4>
 <p style="text-align:justify;">Jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS.
