@@ -316,7 +316,7 @@ width:100%;
   <br/><br/>
   
   
-  
+ <h4>Gambaran Bahan Pengajaran JATi</h4> 
   <div class="row">
   <div class="column" style=" float: left;width: 33.33%;padding: 5px;">
    <img src="/mlmoe/ml-sec13.png">
@@ -328,11 +328,11 @@ width:100%;
      <img src="/mlmoe/ml-sec17.png">
   </div>
 </div>
-<div class="row">
-  <div class="column" style=" float: left;width: 33.33%;padding: 5px;">
+<div class="row" style="height:1.5%;">
+  <div class="column" style=" float: left;width: 33.33%;padding: 5px;margin-top:-84px;margin-left:140px;">
    <img src="/mlmoe/ml-sec14.png">
   </div>
-  <div class="column" style=" float: left;width: 33.33%;padding: 5px;">
+  <div class="column" style=" float: left;width: 33.33%;padding: 5px; margin-top:-97px;">
    <img src="/mlmoe/ml-sec16.png">
   </div>
 </div>
