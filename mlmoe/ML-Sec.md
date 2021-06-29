@@ -308,10 +308,7 @@ width:100%;
   <a href="https://idm.opal2.moe.edu.sg
 " target="_blank">https://idm.opal2.moe.edu.sg
 </a>
-
-  
-  
- <h4>Gambaran Bahan Pengajaran JATi</h4> 
+<h4>Gambaran Bahan Pengajaran JATi</h4> 
   <div class="row">
   <div class="column" style=" float: left;width: 33.33%;padding: 5px;">
    <img src="/mlmoe/ml-sec13.png">
@@ -331,10 +328,6 @@ width:100%;
    <img src="/mlmoe/ml-sec16.png">
   </div>
 </div>
- 
- 
- 
- 
 <h4>Program Elektif Bahasa Melayu Peringkat Sekolah Menengah 
 </h4>
   <p>MOE menawarkan dua program elektif Bahasa Melayu yang berikut di peringkat sekolah menengah: 
@@ -364,6 +357,26 @@ width:100%;
    </table>
    <img src="/mlmoe/ml-sec12.png" style="width:100%;">
    <br/>
+   <h4>Program Elektif Bahasa Melayu di Peringkat Sekolah Menengah 
+</h4>
+<a href="https://sites.google.com/view/emasmlep/home
+" target="_blank">https://sites.google.com/view/emasmlep/home
+</a>
+
+<h4>Sebagai pelajar MLEP-Menengah, anak anda akan berpeluang menikmati aktiviti pengayaan yang berikut:
+</h4>
+<a href="https://sites.google.com/view/emasmlep/home" target="_blank">Untuk maklumat lanjut tentang Program Elektif Bahasa Melayu:
+</a>
+
+<h4>Permohonan Biasiswa MLEP-Menengah
+</h4>
+<a href="https://www.moe.gov.sg/programmes/mlep-se" target="_blank">Untuk maklumat lanjut tentang Permohonan Biasiswa:
+</a>
+   
+   
+   
+   
+   
    <h4>PROGRAM DIGITAL ALTERNATIF</h4>
    <table style="font-family: arial, sans-serif;
   border-collapse: collapse;
