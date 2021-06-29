@@ -242,13 +242,7 @@ width:100%;
 " frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td></tr>
 </table>
        </div></div>
-  
-  
-  
-  
-  
-  
-  <div class="atab">
+<div class="atab">
       <input id="tab-13" type="checkbox" name="tab">
    <label for="tab-13" class="lbML">TEKNOLOGI 
 
@@ -279,8 +273,7 @@ width:100%;
     <td style="border: 0;
   text-align: left;
   padding: 8px;">Penggunaan teknologi merupakan sebahagian daripada ciri utama kurikulum baharu ini. Bahan-bahan digital yang disediakan merupakan bahan pelengkap yang mengajak pelajar belajar secara teradun. Bahan-bahan yang disediakan, selain mengandungi maklumat, juga mengajak pelajar untuk berfikir, membuat pertimbangan dan pilihan.
- 
-</td>
+ </td>
     </tr>
     <tr>
      <td colspan="2" style="border: 0;
@@ -321,42 +314,32 @@ width:100%;
 " target="_blank">https://idm.opal2.moe.edu.sg
 </a>
   <br/><br/>
-  <h4>Gambaran Bahan Pengajaran JATi
-</h4>
-<table style="font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;">
-   <tr>
-    <td style="text-align: left;padding: 8px;">
-  <img src="/mlmoe/ml-sec13.png">
-     </td>
- <td style="text-align: left;padding: 8px;">
+  
+  
+  
+  <div class="row">
+  <div class="column" style=" float: left;width: 33.33%;padding: 5px;">
+   <img src="/mlmoe/ml-sec13.png">
+  </div>
+  <div class="column" style=" float: left;width: 33.33%;padding: 5px;">
    <img src="/mlmoe/ml-sec15.png">
-     </td>
- <td style="text-align: left;padding: 8px;">
-   <img src="/mlmoe/ml-sec17.png">
-     </td>
-  </tr>
-  <tr>
- <td style="text-align: left;padding: 8px;">
-   <img src="/mlmoe/ml-sec14.png"></td>
-    <td style="text-align: left;
-  padding: 8px;"><img src="/mlmoe/ml-sec16.png"></td>
-     </tr>
- </table>
-
-
-
-
-
-
-
-
-
-
-
-
-  <h4>Program Elektif Bahasa Melayu Peringkat Sekolah Menengah 
+  </div>
+  <div class="column" style=" float: left;width: 33.33%;padding: 5px;">
+     <img src="/mlmoe/ml-sec17.png">
+  </div>
+</div>
+<div class="row">
+  <div class="column" style=" float: left;width: 33.33%;padding: 5px;">
+   <img src="/mlmoe/ml-sec14.png">
+  </div>
+  <div class="column" style=" float: left;width: 33.33%;padding: 5px;">
+   <img src="/mlmoe/ml-sec16.png">
+  </div>
+ 
+ 
+ 
+ 
+<h4>Program Elektif Bahasa Melayu Peringkat Sekolah Menengah 
 </h4>
   <p>MOE menawarkan dua program elektif Bahasa Melayu yang berikut di peringkat sekolah menengah: 
 </p>
@@ -389,8 +372,7 @@ width:100%;
   border-collapse: collapse;
   width: 100%;">
   <strong>Perkhemahan EMAS untuk pelajar Menengah 1</strong>
-
-   <tr>
+  <tr>
     <td style="border: 0;
   text-align: left;
   padding: 8px;">
@@ -419,9 +401,7 @@ width:100%;
   border-collapse: collapse;
  width: 100%;">
   <strong> Bengkel Pengayaan Maya untuk pelajar Menengah 2 dan 3 </strong>
-
-
-   <tr>
+  <tr>
     <td style="border: 0;
   text-align: left;
   padding: 8px;">
@@ -453,24 +433,7 @@ width:100%;
 </td></tr>
    </table>
      <br/>
-  
-  
-  
-  
-  
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <h4  style="font-size:25px;color:green;" >Program Elektif Bahasa Melayu Sekolah Menengah
+ <h4  style="font-size:25px;color:green;" >Program Elektif Bahasa Melayu Sekolah Menengah
 </h4>
 <p style="text-align:justify;">Jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS.
 </p>
@@ -537,9 +500,7 @@ width:100%;
 </li>
     </ul>
    </p>  </div></div>
-  
-   
-</p>
+  </p>
 <h4  style="font-size:25px;color:green;" >Program-program Bahasa & Budaya Melayu</h4> 
 <p style="font-size:22px;text-align:justify;">Bagi menggalakkan penggunaan dan pendedahan pada bahasa Melayu, sertailah program-program bahasa dan budaya yang telah dianjurkan. Bawa bersama keluarga anda menghadiri aktiviti-aktiviti ini. Anda juga boleh melawat tempat-tempat yang disarankan.
 </p>
@@ -565,7 +526,6 @@ width:100%;
        <ul><li> <strong>Fiesta Bahasa</strong>
 </li>
          <li><strong>Siri Bacaan Nabil Nabilah</strong>
-
 </li>
          </ul>
        <p>
