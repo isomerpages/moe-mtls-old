@@ -264,7 +264,7 @@ Pending Image
 <h4 id="C2"><span style="font-size:30px;color:purple;">தமிழ் இலக்கியம் 
  </span></h4>
  <p style="text-align:justify;">
-   <strong>உயர்நிலை 3-இல் பயிலும் மாணவர்களுக்குத் தமிழ் இலக்கியம் ஒரு பாடமாக வழங்கப்படுகிறது. 
+  <strong>உயர்நிலை 3-இல் </strong>பயிலும் மாணவர்களுக்குத் தமிழ் இலக்கியம் ஒரு பாடமாக வழங்கப்படுகிறது. 
 இப்பாடத்தைப் பயில விரும்பும் மாணவர்கள் உயர்நிலை 2 இறுதியில் தமிழ்மொழியில் A2 அல்லது உயர்தமிழில் B3 பெற்றிருத்தல் வேண்டும். <br/><br/>
 </p>
 <table>
@@ -277,9 +277,9 @@ Pending Image
 உலகளாவிய பார்வையுடையவர்களை உருவாக்குதல்<br/>
 நுண்ணாய்வுச் சிந்தனையுடையவர்களை உருவாக்குதல்<br/>
 புத்தாய்வுச் சிந்தனையுடைய படைப்பாளிகளை வளர்த்தல்
-<br/><br/>
+<br/><br/></p>
     <a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf"  target="_blank"> தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019</a>
-</p></td>
+</td>
   <td>
   <img src="/images/TL-Sec-right1.png"><br/>
    <span style="color:purple;font-size:20px;"><strong> <center>இலக்கியப் பாடத்திட்டப் <br/>பணிச்சட்டம் </center> </strong></span><br/>
