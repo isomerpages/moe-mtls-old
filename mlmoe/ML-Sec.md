@@ -323,6 +323,39 @@ width:100%;
   <br/><br/>
   <h4>Gambaran Bahan Pengajaran JATi
 </h4>
+<table style="font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;">
+   <tr>
+    <td style="text-align: left;padding: 8px;">
+  <img src="/mlmoe/ml-sec13.png">
+     </td>
+ <td style="text-align: left;padding: 8px;">
+   <img src="/mlmoe/ml-sec15.png">
+     </td>
+ <td style="text-align: left;padding: 8px;">
+   <img src="/mlmoe/ml-sec17.png">
+     </td>
+  </tr>
+  <tr>
+ <td style="text-align: left;padding: 8px;">
+   <img src="/mlmoe/ml-sec14.png"></td>
+    <td style="text-align: left;
+  padding: 8px;"><img src="/mlmoe/ml-sec16.png"></td>
+     </tr>
+ </table>
+
+
+
+
+
+
+
+
+
+
+
+
   <h4>Program Elektif Bahasa Melayu Peringkat Sekolah Menengah 
 </h4>
   <p>MOE menawarkan dua program elektif Bahasa Melayu yang berikut di peringkat sekolah menengah: 
