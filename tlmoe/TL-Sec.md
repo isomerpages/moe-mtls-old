@@ -150,8 +150,8 @@ width:80%;
 <center><span style="font-size:18px; text-align:justify;">வழிநடத்தும் குழு உறுப்பினர்களின் பகிர்வும்  முன்னோட்டச் சோதனையில் ஈடுபட்ட பள்ளி ஆசிரியர்களின் பகிர்வும்:</span><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q-YiRGO8S78" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
  <br/>
- <p style="text-align:justify;"><strong>தமிழருவி – பாடநூல், பயிற்சிநூல் </strong><br/></br/>
- புதிய கூறுகள் இளைய தலைமுறையினரை ஈர்க்கும் தன்மை கொண்ட பயிற்றுவளங்கள். <br/></br/>
+ <p style="text-align:justify;"><strong>தமிழருவி – பாடநூல், பயிற்சிநூல் </strong><br/><br/>
+ புதிய கூறுகள் இளைய தலைமுறையினரை ஈர்க்கும் தன்மை கொண்ட பயிற்றுவளங்கள். <br/><br/>
  Pending Image
 </p>
  <p style="text-align:justify;"><strong></strong>
@@ -162,8 +162,7 @@ width:80%;
     <p style="text-align:justify;"><strong>பண்பாட்டறிவை வளப்படுத்துதல்</strong><br/><br/>
  மொழிக் கல்வியில் பண்பாட்டுக் கூறுகள் இரண்டறக் கலந்துள்ளன. பாடங்களுக்கு ஏற்பப் பொருந்துகின்ற வகையில் பண்பாட்டுக் கூறுகளை ஒருங்கிணைத்துக் கற்பிப்பதும் அவை தொடர்பான கலந்துரையாடல்களை மேற்கொள்வதும் தமிழ்மொழிக் கற்றலை வளப்படுத்தும்.  <br/><br/>
  ஆகவே, பண்பாட்டறிவை வளப்படுத்தும் கற்றல் கற்பித்தலுக்குரிய வளங்கள் பாடநூலில்  இணைக்கப்பெற்றிருக்கின்றன.
-
-</p>
+     </p></td>
     <td style=" text-align: left;padding: 8px;">
   Image Pending
     </td>
@@ -178,7 +177,7 @@ width:80%;
 <br/><br/>
  இதற்கு ஏதுவாக ஒவ்வோர் ஆண்டும் மாணவர்களுக்கு இலக்கியப் பனுவல்கள் அறிமுகப்படுத்தப்பெறுகின்றன.  இவ்வாண்டு உயர்நிலை ஒன்று மாணவர்களுக்குச் சிறுகதைகள் பாடவளங்களாக வழங்கப்பெற்றுள்ளன.
 அடுத்தாண்டு உயர்நிலை இரண்டு மாணவர்கள் கவிதை இலக்கியத்தைப் படித்து மகிழ்வர். 
-</p>
+     </p></td>
     <td style=" text-align: left;padding: 8px;">
   Image Pending
     </td>
