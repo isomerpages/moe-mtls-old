@@ -189,7 +189,7 @@ margin-bottom:10px;
   <img src="/tlmoe/tl-presch06.png" style="width: 63%;">
 </td>
     <td style="text-align: left;padding: 8px;border:0;">
-    <img src="/tlmoe/tl-presch07.png" style="width: 63%;">
+    <img src="/tlmoe/tl-presch07.png" style="width: 87%;">
    </td>
        </tr>
 <tr>
