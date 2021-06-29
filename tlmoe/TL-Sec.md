@@ -269,13 +269,13 @@ Pending Image
 </p>
  <table style="border-collapse: collapse; width: 100%;">
  <tr>
-  <td><strong>இலக்கு</strong><br/><br/>
+  <td><p><strong>இலக்கு</strong><br/><br/>
 இலக்கியப் படைப்பாளிகளை உருவாக்குதல்<br/>
 சிந்தனை வளமுடைய வாசகர்களை வளர்த்தல்<br/>
 உலகளாவிய பார்வையுடையவர்களை உருவாக்குதல்<br/>
 நுண்ணாய்வுச் சிந்தனையுடையவர்களை உருவாக்குதல்<br/>
 புத்தாய்வுச் சிந்தனையுடைய படைப்பாளிகளை வளர்த்தல்<br/><br/>
-<a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank"> தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019</a>
+<a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank"> தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019</a></p>
 </td>
   <td>
   <img src="/images/TL-Sec-right1.png"><br/>
