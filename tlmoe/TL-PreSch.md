@@ -82,7 +82,7 @@ margin-bottom:10px;
  </p>
 <img src="/images/TL-PreSch-right4.jpg" style="width:80%">
 <br/>
-<p style="font-size:20px;text-align:justify;">இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டத்தின் அடிப்படையில் அமைந்த கற்றல் குறிக்கோள்கள்</span>
+<p style="font-size:20px;text-align:justify;">இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டத்தின் அடிப்படையில் அமைந்த கற்றல் குறிக்கோள்கள்
 </p>
 <table style="width: 100%;">
 <tr>
