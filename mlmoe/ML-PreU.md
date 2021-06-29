@@ -99,9 +99,17 @@ width:80% ;
 <a href="#C2" style="font-size:20px"><span style="color:blue;">Sokongan Ibu Bapa</span></a><br/>
 
 <h4 style="color:green;font-size:30px;">Matlamat Pendidikan Prauniversiti </h4>  
- <p style="text-align:justify;">
+ <table style=" border-collapse: collapse; width: 100%;">
+<tr>
+    <td style=" text-align: left;padding: 8px;width:60%;">
+    <p style="text-align:justify;">
  Matlamat program Bahasa Melayu peringkat prauniversiti adalah untuk melengkapkan pelajar dengan kecekapan berbahasa dan membolehkan pelajar mendalami dan menghargai bahasa dan budaya masyarakat Melayu dalam pelanjutan pembangunan negara. Pelajar diharap akan berupaya berkomunikasi dengan menggunakan bahasa Melayu baku bagi memenuhi keperluan diri dan membina hubungan sosial dalam konteks masyarakat majmuk Singapura dan masyarakat dunia.
 </p>
+    <td style=" text-align: left;padding: 8px;">
+    <img src="/mlmoe/ml-preU01.jpg">
+    </td>
+  </tr>
+  </table>
 <img src="/images/ML-PreU-Syllabus.jpeg">
 <a href="/Gallery/Annex A -Sukatan-Pelajaran-H1.pdf" target="_blank">Sukatan Pelajaran H1</a><br/>
 <a href="/Gallery/Annex B - Sukatan-Pelajaran-H2-&-H3.pdf" target="_blank">Sukatan Pelajaran H2 & H3</a><br/>
@@ -162,11 +170,11 @@ width:80% ;
       <ul>
        <li>Warganegara Singapura 
 </li>
-       <li>cemerlang dalam keputusan akademik
+       <li>Cemerlang dalam keputusan akademik
 </li>
        <li>Biasiswa bernilai $1,000 setiap tahun selama dua tahun
 </li>
-       <li>Yuran sekolah akan dibiayai ($2,400 setiap tahun)
+       <li>Yuran sekolah akan dibiayai (terhad pada $1,400 setiap tahun)
 </li>
        <li>Subsidi penuh bagi Program Penyerapan ke Luar Negara
 </li>
@@ -270,18 +278,6 @@ Berikut adalah video-video pengajaran yang kami sediakan di SLS bagi pembelajara
  <iframe width="560" height="315" src="https://www.youtube.com/embed/iB2IAjZIYH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">Sudut Pandangan </span>
 </center>
 <br/>
-<p id="C2" style="font-size:30px;"><strong>Sokongan Ibu Bapa </strong></p>
-<p style="text-align:justify;">
-Kami sediakan pautan video-video yang memaparkan strategi untuk ibu bapa supaya anda dapat memberi sokongan pembelajaran kepada anak-anak anda. 
-</p>
-<center>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/zEne6YrbUqI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">Video Membantu Pembelajaran Bahasa
-</span>
- </center>
-<br/>
- <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H8Z89b0qQgA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">Video Membantu Pembelajaran Sastera
-</span>
-</center>
+
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
