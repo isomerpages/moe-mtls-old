@@ -306,7 +306,7 @@ width:100%;
   <a href="https://idm.opal2.moe.edu.sg
 " target="_blank">https://idm.opal2.moe.edu.sg
 </a>
-<h4>Gambaran Bahan Pengajaran JATi</h4> 
+<h4 style="font-size:25px;color:green;" >Gambaran Bahan Pengajaran JATi</h4> 
   <div class="row">
   <div class="column" style=" float: left;width: 33.33%;padding: 5px;">
    <img src="/mlmoe/ml-sec13.png">
@@ -370,7 +370,7 @@ width:100%;
 </h4>
 <a href="https://www.moe.gov.sg/programmes/mlep-se" target="_blank">Untuk maklumat lanjut tentang Permohonan Biasiswa:
 </a>
-<h4>PROGRAM DIGITAL ALTERNATIF</h4>
+<h4 style="font-size:25px;color:green;" >PROGRAM DIGITAL ALTERNATIF</h4>
    <table style="font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;">
@@ -440,11 +440,11 @@ width:100%;
 </h4>
 <table style=" border-collapse: collapse; width: 100%;">
 <tr>
-    <td style=" text-align: left;padding: 8px;">
+    <td style=" text-align: left;padding: 8px;width: 33%;">
     <img src="/mlmoe/ml-sec19.png"></td>
-    <td style=" text-align: left;padding: 8px;">
+    <td style=" text-align: left;padding: 8px;width: 33%;">
     <img src="/mlmoe/ml-sec20.png"></td>
-    <td style=" text-align: left;padding: 8px;">
+    <td style=" text-align: left;padding: 8px;width: 33%;">
     <img src="/mlmoe/ml-sec21.png">
     <img src="/mlmoe/ml-sec22.png">
     <img src="/mlmoe/ml-sec23.png"></td>
