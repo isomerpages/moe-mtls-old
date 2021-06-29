@@ -121,11 +121,11 @@ width:80%;
  <p style="text-align:justify;"><strong>நம் தொலை இலக்கு</strong><br/><br/>
  தமிழை வாழும் மொழியாக நிலைபெறச் செய்வதன் வாயிலாக நம் இளம் தலைமுறையினர் பயன்மிகு வாழ்க்கை வாழ வழிகாட்டுதல்.<br/><br/>
  தொடக்கநிலைக் கல்வியை நிறைவு செய்யும் மாணவர்கள் உயர்நிலையில் கல்வியைத் தொடர்வார்கள். இவர்களுக்குத் தமிழ்மொழி, தமிழ் இலக்கியம், தமிழ்மொழி விருப்பப்பாடத் திட்டம் என பல்வேறு பாடத்திட்டங்கள் வழங்கப்படுகின்றன.   </p>
- <p><a href="#C6" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி</a></p>
-<p><a href="#C7" style="font-size:20px"><span style="color:blue;">தமிழ் இலக்கியம்
-</a></p>
-<p><a href="#C8" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 
-</a></p>
+ <a href="#C6" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி</span></a><br/>
+<a href="#C7" style="font-size:20px"><span style="color:blue;">தமிழ் இலக்கியம்</span>
+</a><br/>
+<a href="#C8" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் </span>
+</a><br/>
 <h2 id="C6">தமிழ்மொழி</h2>
  <p style="text-align:justify;"><strong>தமிழ்மொழிப் பாடத்திட்டம் – 1958 முதல் 2011 வரை</strong><br/><br/>
   சிங்கப்பூரில் 1834-ஆம் ஆண்டில்தான் முதல் தமிழ் வகுப்புத் தொடங்கப்பட்டது. ஆனால், 1958-ஆம் ஆண்டில்தான் தொடக்கநிலை, உயர்நிலைப் பள்ளிகளுக்குரிய தமிழ்மொழிப் பாடத்திட்டம் உருவாக்கப்பட்டது. இது ஆங்கிலத்தில் அச்சிடப்பெற்றிருந்தது. அதன் பின்னர், நமது அரசாங்கத்தால் செயற்படுத்தப்பெற்ற பல புதிய கல்விக்கொள்கைகளுக்கு ஏற்பப் பாடத்திட்டங்கள் திருத்தியமைக்கப்பெற்றன. <br/><br/>
@@ -140,8 +140,7 @@ width:80%;
    <td>
 <img src="/images/TL-Sec-Curriculum2.png">
     <span style="color:purple;font-size:22px;"><strong> <center> பாடக்கலைத்திட்டப் பணிச்சட்டம் </center></strong></span>
-     <a href="2021 Secondary Curriculum Link https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf
-" target="_blank">2021 Tamil Curriculum</a></td>
+  <a href="2021 Secondary Curriculum Link https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf" target="_blank">2021 Tamil Curriculum</a></td>
  </tr> 
  </table>
  <center>
@@ -176,12 +175,9 @@ width:80%;
     <p style="text-align:justify;"><strong>இலக்கியப் பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல் 
 </strong><br/><br/>
  மாணவர்களின் மொழியறிவுக்கு ஏற்ற நல்ல இலக்கிய பனுவல்கள் கற்பனையாற்றலைத் தூண்டி நூல் வாசித்தலில் ஈர்ப்பை ஏற்படுத்தும். அதனால், அவர்களின் மொழி கற்றல் மேம்பட்டு, அவர்கள் பரந்துபட்ட நிலையில் வாசிக்க தொடங்குவார்கள்.
-
-  <br/><br/>
+<br/><br/>
  இதற்கு ஏதுவாக ஒவ்வோர் ஆண்டும் மாணவர்களுக்கு இலக்கியப் பனுவல்கள் அறிமுகப்படுத்தப்பெறுகின்றன.  இவ்வாண்டு உயர்நிலை ஒன்று மாணவர்களுக்குச் சிறுகதைகள் பாடவளங்களாக வழங்கப்பெற்றுள்ளன.
 அடுத்தாண்டு உயர்நிலை இரண்டு மாணவர்கள் கவிதை இலக்கியத்தைப் படித்து மகிழ்வர். 
-
-
 </p>
     <td style=" text-align: left;padding: 8px;">
   Image Pending
