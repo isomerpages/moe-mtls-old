@@ -269,7 +269,7 @@ Pending Image
 </p>
  <table style="border-collapse: collapse; width: 100%;">
  <tr>
-  <td><strong>இலக்கு<br/><br/>
+  <td><strong>இலக்கு</strong><br/><br/>
 இலக்கியப் படைப்பாளிகளை உருவாக்குதல்<br/>
 சிந்தனை வளமுடைய வாசகர்களை வளர்த்தல்<br/>
 உலகளாவிய பார்வையுடையவர்களை உருவாக்குதல்<br/>
