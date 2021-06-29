@@ -139,13 +139,15 @@ margin-bottom:10px;
     <label for="tab-6" style="font-family:KaiTi;font-size:22px" class="lbTM">என்னைச் சுற்றியுள்ளவர்கள் யார்? /என்னைச் சுற்றியுள்ள இடங்கள் யாவை?
 </label>
      <div class="tab-content">
+       Pending
 </div></div>
 <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
     <label for="tab-7" style="font-family:KaiTi;font-size:22px" class="lbTM">நான் யாருடன் இந்த உலகத்தைப் பகிர்ந்துகொள்கிறேன்?
 </label>
      <div class="tab-content">
-<p style="style="font-size:20px;text-align:justify;">
+<p style="font-size:20px;text-align:justify;">
+ Pending
   </p>
 </div></div>
 <div class="atab">
