@@ -61,7 +61,7 @@ td{
  
  <table style="border-collapse: collapse; width: 100%;">
 <tr>
-    <td rowspan="2" style="text-align:left;padding:8px; width:60%;"><strong> நெகிழ்வுத்தன்மைமிக்க  <br/> பாடத்திட்டம்</strong><br/><br/>
+    <td rowspan="2" style="text-align:left;padding:8px; width:50%;"><strong> நெகிழ்வுத்தன்மைமிக்க  <br/> பாடத்திட்டம்</strong><br/><br/>
     மாணவர்களின் பல்வேறுபட்ட தொடங்குநிலைகளையும் தேவைகளையும் நிறைவுசெய்யும் வகையில் தொடக்கநிலைப் பாடக்கலைத்திட்டம் நெகிழ்வுத்தன்மைமிக்கதாக அமைக்கப்பட்டுள்ளது. 
 <br/><br/>
 எடுத்துக்காட்டாகக் கட்புலன்வழிக் கற்கும் மாணவர்களுக்குக் கதைகளையும் பாடல்களையும் காட்சிப்படுத்திக் காட்ட வேண்டும் என்பதற்காக அசைவுப்படக் காட்சிகள் உருவாக்கப்பட்டுள்ளன. <br/><br/>
@@ -73,9 +73,11 @@ td{
     <img src="/tlmoe/tl-prisch04.png"></td>
      </tr>
      <tr>
-     <td style="text-align: left;padding: 8px;"><img src="/tlmoe/tl-prisch02.png"></td>
-   <td style="text-align: left;padding: 8px;"><img src="/tlmoe/tl-prisch03.png"></td>
-     </tr>
+      <td style="text-align: left;padding: 8px;">
+    <img src="/tlmoe/tl-prisch03.png"></td>
+     <td style="text-align: left;padding: 8px;">
+<img src="/tlmoe/tl-prisch02.png"></td>
+ </tr>
   </table>
 <img src="/images/MOE-Curriculum-TL-Primary-Image-4.jpg">
 
