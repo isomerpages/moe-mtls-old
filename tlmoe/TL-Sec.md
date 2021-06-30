@@ -136,20 +136,18 @@ width:80%;
  </span></h4>
 <table>
   <tr>
-    <td><p style="text-align:justify;">2021-ஆம் ஆண்டுத் தமிழ்மொழிப் பாடக்கலைத்திட்டம் மேலும் சில முக்கிய மேம்பாடுகளைக் கொண்டு திருத்தியமைக்கப்பெற்றது. குறிப்பாகக் கருத்துப்பரிமாற்றம், பண்பாடு, தொடர்பிணைப்பு ஆகிய மூன்று முக்கியக் கூறுகளில் தனிக்கவனம் செலுத்தப்பட்டுள்ளது. இவற்றை அடிப்படையாகக் கொண்டு தமிழ்மொழிப் பாடக்கலைத்திட்டப் பணிச்சட்டம் உருவாக்கப்பெற்றது.</p></td>
+    <td><p style="text-align:justify;">2021-ஆம் ஆண்டுத் தமிழ்மொழிப் பாடக்கலைத்திட்டம் மேலும் சில முக்கிய மேம்பாடுகளைக் கொண்டு திருத்தியமைக்கப்பெற்றது. குறிப்பாகக் கருத்துப்பரிமாற்றம், பண்பாடு, தொடர்பிணைப்பு ஆகிய மூன்று முக்கியக் கூறுகளில் தனிக்கவனம் செலுத்தப்பட்டுள்ளது. இவற்றை அடிப்படையாகக் கொண்டு தமிழ்மொழிப் பாடக்கலைத்திட்டப் பணிச்சட்டம் உருவாக்கப்பெற்றது.<br/>
+      <a href="2021 Secondary Curriculum Link https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf" target="_blank">2021 Tamil Curriculum</a></p></td>
    <td>
 <img src="/images/TL-Sec-Curriculum2.png">
-    <span style="color:purple;font-size:22px;"><strong> <center> பாடக்கலைத்திட்டப் பணிச்சட்டம் </center></strong></span>
-  <a href="2021 Secondary Curriculum Link https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf" target="_blank">2021 Tamil Curriculum</a></td>
+    <span style="color:purple;font-size:22px;"><strong> <center> தமிழ்மொழிப் பாடக்கலைத்திட்டப் பணிச்சட்டம் </center></strong></span>
+ </td>
  </tr> 
  </table>
  <center>
  <span style="font-size:18px;">உயர்நிலைத் &nbsp; தமிழ்மொழிப் &nbsp; பாடத்திட்ட &nbsp; வெளியீடு:</span><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rGFqD2sxPfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br/>
-<center><span style="font-size:18px; text-align:justify;">வழிநடத்தும் குழு உறுப்பினர்களின் பகிர்வும்  முன்னோட்டச் சோதனையில் ஈடுபட்ட பள்ளி ஆசிரியர்களின் பகிர்வும்:</span><br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q-YiRGO8S78" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
- <br/>
  <p style="text-align:justify;"><strong>தமிழருவி – பாடநூல், பயிற்சிநூல் </strong><br/><br/>
  புதிய கூறுகள் இளைய தலைமுறையினரை ஈர்க்கும் தன்மை கொண்ட பயிற்றுவளங்கள். <br/><br/>
  Pending Image
@@ -286,7 +284,7 @@ Pending Image
 
 <h2 id="C8">தமிழ்மொழி விருப்பப்பாடத் திட்டம் </h2>
  <h4 id="C3"><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்<br/>
-(Tamil Language Elective Programme)
+(Tamil Language Elective Programme - TLEP)
  </span>
 </h4>
 <p style="text-align:justify;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. இத்திட்டம் உயர்நிலை 3-இல் தமிழ் இலக்கியம் பயிலும் மாணவர்களுக்கு உரியது. இது தற்போது மூன்று உயர்நிலைப்பள்ளிகளில் செயற்படுத்தப்படுகிறது.
