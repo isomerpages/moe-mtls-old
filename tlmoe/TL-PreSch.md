@@ -39,19 +39,19 @@ margin-bottom:10px;
 <a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/TL-PreSch-Header.jpg">
 <p>
-<a href="#C1" style="font-size:18px"><span style="color:blue;text-align:justify;">(Point 1) தாய்மொழிகளுக்கான இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டம்
+<a href="#C1" style="font-size:18px"><span style="color:blue;text-align:justify;">தாய்மொழிகளுக்கான இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டம்
 
  </span></a><br/>
-<a href="#C2" style="font-size:18px"><span style="color:blue;text-align:justify;">(Point 2)ஸ்டார்லைட் எழுத்தறிவுத் திட்டம்
+<a href="#C2" style="font-size:18px"><span style="color:blue;text-align:justify;">ஸ்டார்லைட் எழுத்தறிவுத் திட்டம்
 
   </span></a><br/>
-<a href="#C3" style="font-size:18px"><span style="color:blue;text-align:justify;">(Point 3)ஆசிரியர் துணையோடு படித்தல்
+<a href="#C3" style="font-size:18px"><span style="color:blue;text-align:justify;">ஆசிரியர் துணையோடு படித்தல்
 
  </span></a><br/>
-<a href="#C4" style="font-size:18px"><span style="color:blue;text-align:justify;">(Point 4) அதிசய வாரத் திட்டப்பணி
+<a href="#C4" style="font-size:18px"><span style="color:blue;text-align:justify;"> அதிசய வாரத் திட்டப்பணி
 
  </span></a><br/>
-<a href="#C5" style="font-size:18px"><span style="color:blue;text-align:justify;">(Point 5)பெற்றோருக்கான உதவிக்குறிப்புகள்
+<a href="#C5" style="font-size:18px"><span style="color:blue;text-align:justify;">பெற்றோருக்கான உதவிக்குறிப்புகள்
 
 </span></a><br/>
  <p style="text-align:justify;">ஒவ்வொரு பிள்ளைக்கும் வலுவான அடித்தளத்தை அமைத்துத் தருவதே கல்வி அமைச்சின் பாலர் பள்ளியின் தொலைநோக்காகும். கல்வி அமைச்சின் பாலர் பள்ளிப் பாடக்கலைத்திட்டம், இளம் மாணவர்களைப் பேணி வளர்த்தல் பணிச்சட்டத்தை அடிப்படையாகக்கொண்டு, ஸ்டார்லைட் (விண்மீன்) எழுத்தறிவுத் திட்டம் என்னும் முக்கியத் திட்டங்களை உள்ளடக்கியது. ஸ்டார்லைட் எழுத்தறிவுத் திட்டம் ஆங்கிலத்திலும் மூன்று தாய்மொழிகளிலும் வழங்கப்படுகிறது. 
@@ -76,8 +76,6 @@ margin-bottom:10px;
     <img src="/tlmoe/tl-presch03.png"></td>
     </tr>
 </table>
-<h4><span style="font-size:30px;color:purple;">தாய்மொழிகளுக்கான &nbsp; இளம் &nbsp; மாணவர்களைப் &nbsp; பேணி &nbsp; வளர்க்கும் &nbsp; பணிச்சட்டம் </span>
-</h4>
 <p style="font-size:20px;text-align:justify;">தாய்மொழிகளுக்கான <strong>இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டம்  </strong>தாய்மொழி கற்றலில் பிள்ளைகள் ஆர்வம், ஈடுபாடு, செயல்திறன்மிக்கவர்களாக விளங்குவார்கள் என்னும் நம்பிக்கையின் அடிப்படையில் இயங்குகிறது.
  </p>
 <img src="/images/TL-PreSch-right4.jpg" style="width:80%">
@@ -262,26 +260,12 @@ margin-bottom:10px;
        <tr>
          <td><p style="text-align:justify;">ஆசிரியர் துணையோடு வாசித்தல் என்னும் அணுகுமுறை பெரிய புத்தகங்களின்வழிப் பிள்ளைகளுக்கு மகிழ்ச்சிமிக்க கற்றல் அனுபவத்தை ஏற்படுத்தித் தருகிறது. இது பிள்ளைகளின் ஈடுபாட்டை அதிகரிப்பதோடு கேட்டல், பேசுதல், படித்தல் ஆகிய மொழித்திறன்களை வளர்த்துக்கொள்ளவும் துணைபுரிகிறது. </p><br/><br/>
           
-<span style="color:purple;font-size:20px;">இந்த அணுகுமுறை கீழ்க்காணும் நோக்கங்களை அடைய உதவுகிறது.</span>
-          
- <ul>
-           <li style="text-align:justify;">மாணவர்களின் கேட்டல், பேசுதல் திறன்களை வளர்த்தல்
-</li>
-            <li style="text-align:justify;">மாணவர்களுக்கு வாய்விட்டு வாசிக்க ஊக்கமளித்தல்
-</li>
-           <li style="text-align:justify;">மாணவர்கள் சொற்களைச் சரியாக ஒலிக்கக் கற்பித்தல்
-</li>
-            <li style="text-align:justify;">மாணவர்கள் தங்கள் சொல்வளத்தைப் பெருக்கிக்கொள்ள வழிவகுத்தல் 
-</li>
-          </ul>
 </td>
- <td><img src="/images/TL-PreSch-right5.jpg"> <br/>
-<img src="/images/TL-PreSch-right6.jpg"></td>
+ <td><img src="/images/TL-PreSch-right5.jpg">
+</td>
          </tr>
  </table>
  <br/>
- <img src="/images/TL-PreSch-ReadingApproach.jpg">
-  <br/>
  <p style="font-size:20px;text-align:justify">‘ஆசிரியர் துணையோடு வாசித்தல் அணுகுமுறை’ என்னும் ஒளிக்காட்சியின் இணைப்பைக் கிளிக் செய்யுங்கள்.</p>
   <center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/RfP2dGBTlQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -294,16 +278,6 @@ margin-bottom:10px;
 </h4>
 <img src="/images/TL-PreSch-MiracleWeek.jpg">
 <br/>
- <p style="font-size:20px;text-align:justify">
- அதிசய வாரத் திட்டப்பணி பின்வருவனவற்றை நிறைவேற்ற முயல்கின்றன.</p>
-   <ul>
-<li style="font-size:20px;text-align:justify">விருப்பமான தலைப்பு ஒன்றைப்பற்றி மற்றவருடன் இணைந்து ஆராயும்போது பிள்ளைகளை உடனிணைந்து செயலாற்ற ஊக்குவித்தல்.
-</li>
- <li style="font-size:20px;text-align:justify">பல்வேறு மூலங்களிலிருந்து தகவல்களைத் திரட்டுவதன்வழியும் தங்களது கண்டுபிடிப்புகளை மற்றவரோடு பகிர்ந்துகொள்வதன்வழியும் பிள்ளைகளின் செயல்முறைத் திறன்களை வளர்த்தல்.
-</li>
- <li style="font-size:20px;text-align:justify">அதிசய வாரத் திட்டப் பணிகளைத் தாய்மொழிகளில் மேற்கொள்வதன்வழிப் பிள்ளைகளின் கருத்துப்பரிமாற்றத்திறனை மேம்படுத்துதல்.
-</li>
-</ul>
  <p style="font-size:20px;text-align:justify">இந்த <a href="https://www.nel.moe.edu.sg/resources/49800/49802" target="_blank">இணைப்பின்வழி</a> அதிசய வாரத் திட்டப்பணிகளைப்பற்றித் தெரிந்துகொள்ளுங்கள் 
 </p>
  <h4 id="C5"><span style="font-size:30px;color:purple;">வீட்டில் தாய்மொழிப் புழக்கத்தை ஊக்குவிக்கப் பிள்ளைகளுடன் பெற்றோர் வீட்டிலிருந்து செய்யும் நடவடிக்கைகள்
