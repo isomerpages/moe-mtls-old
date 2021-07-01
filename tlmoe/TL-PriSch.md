@@ -95,6 +95,37 @@ td{
 </table>
 <img src="/images/MOE-Curriculum-TL-Primary-Image-3.jpg">
 <br/>
+  <p style="font-size:25px; color:purple;" >இல்லம் சார்ந்த கற்றலுக்கு உதவும் தகவல் தொடர்புத் தொழில்நுட்பம் </p>
+ <table style="border-collapse: collapse; width: 100%;">
+<tr>
+<td style="text-align: left;padding: 8px;border:0; width:33.33%;">
+     <img src="/tlmoe/tl-prisch08.png">
+    </td>
+    <td style="text-align: left;padding: 8px;border:0;width:33.33%;">
+     <img src="/tlmoe/tl-prisch09.png">
+    </td>
+    <td style="text-align: left;padding: 8px;border:0;width:33.33%;">
+     <img src="/tlmoe/tl-prisch10.png">
+    </td>
+    </tr>
+    <tr>
+    <td style="text-align: left;padding: 8px;border:0;width:33.33%;">
+     <img src="/tlmoe/tl-prisch11.png">
+    </td>
+    <td colspan="2" rowspan="2" style="text-align: left;padding: 8px;border:0; width:33.33%;"> <p>மாணவர்களின் ஆர்வத்தைத் தூண்டி  அவர்களது கற்றல் அனுபவத்தை மேம்படுத்தத் தமிழ்மொழி கற்பித்தலில் தகவல் தொடர்புத் தொழில்நுட்பம் பயன்படுத்தப்படுகிறது. மாணவர்கள் இல்லம் சார்ந்த கற்றலில் ஈடுபட்டுத் தொடர்ந்து கற்கவும் தகவல் தொடர்புத் தொழில்நுட்பம் துணைபுரிகிறது.  
+</p>
+    </td>
+    </tr>
+    <tr>
+      <td style="text-align:left;padding:8px; border:0;width:33.33%;"> 
+      <img src="/tlmoe/tl-prisch12.png">
+</td>
+</tr>
+</table>
+ 
+ 
+ 
+ 
  
  
  
