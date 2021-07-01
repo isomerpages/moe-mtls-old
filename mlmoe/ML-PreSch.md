@@ -100,8 +100,6 @@ width:80% ;
 </script>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-b/moe-curriculum/" style="float:right;">Back</a><br/>
 <img src="/images/ML-Pre-Sch-Header.jpg"><br/>
-<a href="#C1" style="font-size:20px"><span style="color:blue;">Program Literasi Bintang Kecil
-</span></a><br/>
  <a href="#C2" style="font-size:20px"><span style="color:blue;">Pendekatan Membaca Bersama
 </span></a><br/>
 <a href="#C3" style="font-size:20px"><span style="color:blue;">PROJEK MuM
@@ -138,10 +136,9 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
 
 </p> </div></div>
 
- <p id="C1" style="font-size:30px;"><strong>Program Literasi Bintang Kecil </strong>
+ <p style="font-size:30px;"><strong>KURIKULUM TADIKA MOE
+ </strong>
 </p>
-  <img src="/images/ML-PreSch-Starlight1.jpg">   
- <br/>
  <table style="border:none;border-style: none;">
   <tr>
     <td><p>Kurikulum dan Program Tadika MOE dibina berdasarkan <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines" target="_blank">Rangka Kerja Memupuk Pelajar pada Peringkat Awal. </a> <br/><br/>
@@ -153,7 +150,7 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
     </tr>
 </table>
 <br/>
- <img src="/images/ML-PreSch-Starlight2.jpg"> 
+
 
 <p id="C2" style="font-size:30px;"><strong>PENDEKATAN MEMBACA BERSAMA
 </strong></p>
