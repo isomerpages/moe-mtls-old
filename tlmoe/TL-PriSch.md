@@ -95,59 +95,6 @@ td{
 </table>
 <img src="/images/MOE-Curriculum-TL-Primary-Image-3.jpg">
 <br/>
- <p style="font-size:25px; color:purple;" >இல்லம் சார்ந்த கற்றலுக்கு உதவும் தகவல் தொடர்புத் தொழில்நுட்பம் </p>
- <table style="border-collapse: collapse; width: 100%;">
-<tr>
-<td style="text-align: left;padding: 8px;border:0; width:33.33%;">
-     <img src="/tlmoe/tl-prisch08.png"><br/>
-     <span style="font-size:15px;">இருவழித்தொடர்புத் தளம் </span>
-    </td>
-    <td style="text-align: left;padding: 8px;border:0;width:33.33%;">
-     <img src="/tlmoe/tl-prisch09.png"><br/>
-     <span style="font-size:15px;">தட்டச்சுப் பயிற்சி
-</span>
-    </td>
-    <td style="text-align: left;padding: 8px;border:0;width:33.33%;">
-     <img src="/tlmoe/tl-prisch10.png"><br/>
-     <span style="font-size:15px;">மாணவர் கற்றல் தளம் 
-</span>
-    </td>
-    </tr>
-    <tr>
-    <td style="text-align: left;padding: 8px;border:0;width:33.33%;">
-     <img src="/tlmoe/tl-prisch11.png"><br/>
-     <span style="font-size:15px;">மன வரைபடம்</span>
-    </td>
-    <td colspan="2" rowspan="2" style="text-align: left;padding: 8px;border:0; width:33.33%;"> <p>மாணவர்களின் ஆர்வத்தைத் தூண்டி  அவர்களது கற்றல் அனுபவத்தை மேம்படுத்தத் தமிழ்மொழி கற்பித்தலில் தகவல் தொடர்புத் தொழில்நுட்பம் பயன்படுத்தப்படுகிறது. மாணவர்கள் இல்லம் சார்ந்த கற்றலில் ஈடுபட்டுத் தொடர்ந்து கற்கவும் தகவல் தொடர்புத் தொழில்நுட்பம் துணைபுரிகிறது.  
-</p>
-    </td>
-    </tr>
-    <tr>
-      <td style="text-align:left;padding:8px; border:0;width:33.33%;"> 
-      <img src="/tlmoe/tl-prisch12.png"><br/>
-      <span style="font-size:15px;">உடனிணைவு வரைதிரை
- </span>
-</td>
-</tr>
-</table>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 <img src="/images/MOE-Curriculum-TL-Primary-Image-4.jpg">
  <p style="font-size:25px; color:purple;" >ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் </p> <br/>
 
@@ -157,20 +104,20 @@ td{
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7bDcJCHpYHM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 <br/>
-<h4 id="C2"><span style="font-size:30px; color:purple;">இணையவழிக் கற்றல் 
+<h4 id="C2"><span style="font-size:30px; color:purple;">இல்லம் சார்ந்த கற்றலுக்கு உதவும் தகவல் தொடர்புத் தொழில்நுட்பம் 
 
  </span></h4>
- <p style="text-align:justify;">மாணவர்களின் ஆர்வத்தைத் தூண்டவும் அவர்களது கற்றல் அனுபவத்தை மேம்படுத்தவும் தமிழ்மொழி கற்றலில் தகவல்தொடர்புத் தொழில்நுட்பம் பயன்படுத்தப்படுகிறது. 
-<br/><br/>எதார்த்தமான கருத்துப்பரிமாற்றச் சூழல்களை உருவாக்கத் தகவல்தொடர்புத் தொழில்நுட்பம் அதிகம் பயன்படுத்தப்படுகிறது.  
+ <p style="text-align:justify;">மாணவர்களின் ஆர்வத்தைத் தூண்டி  அவர்களது கற்றல் அனுபவத்தை மேம்படுத்தத் தமிழ்மொழி கற்பித்தலில் தகவல் தொடர்புத் தொழில்நுட்பம் பயன்படுத்தப்படுகிறது. மாணவர்கள் இல்லம் சார்ந்த கற்றலில் ஈடுபட்டுத் தொடர்ந்து கற்கவும் தகவல் தொடர்புத் தொழில்நுட்பம் துணைபுரிகிறது.  
+
 </p>
 <img src="/images/MOE-Curriculum-TL-Primary-Image-7a.jpg">
 <a href="http://www.mtl.moe.edu.sg/theenthamizh" target="_blank">Tamil Primary Online Learning Resource</a>
 <h4 id="C3"><span style="font-size:30px; color:purple;">பெற்றோர் பங்கு </span></h4>
 <table style="width:100%">
  <tr>
-    <td><p style="text-align:justify;">பிள்ளைகள் வாழும் இடமாகவும் அவர்கள் முதலில் கற்கும் இடமாகவும் திகழ்வது இல்லம் என்பதால் பெற்றோர்களே அவர்களுடைய முதல் ஆசிரியர்கள் ஆவர். ஆதலால் தமிழ்மொழி கற்றலை வீட்டில் தொடங்குவதுதான் பொருத்தமாக இருக்கும். <br/><br/>
-     எனவே, பெற்றோர்களுக்கு உதவும் நோக்கில் 2015 தமிழ்மொழிப் பாடக்கலைத்திட்டத்தின் சிறப்பு அம்சங்களையும் கற்றல் வளங்களையும் அறிமுகப்படுத்தும்வகையில் இந்தக் கையேடு தயாரிக்கப்பட்டுள்ளது. <br/><br/>
-     தமிழ்மொழியைப் பிள்ளைகள் நன்கு கற்கப் பிள்ளைகளுக்குப் பெற்றோர் எவ்வாறெல்லாம் உதவலாம் என்பதற்கான பரிந்துரைகளும் இக்கையேட்டில் இடம்பெற்றுள்ளன.<br/><br/>
+    <td><p style="text-align:justify;">நம் பிள்ளைகள் தமிழ்மொழியை ஆர்வத்துடன் கற்றுத் திறம்படப் பயன்படுத்துவதற்குப் பலருடைய முயற்சி தேவைப்படுகிறது. குடும்ப உறுப்பினர்களே பிள்ளைகளின் கற்றலுக்கு முதல் வித்திடுகிறார்கள். ஆசிரியர்களின் பொறுமைமிகுந்த வழிகாட்டுதல் இருந்தபோதிலும் பெற்றோரின் ஆதரவும் முக்கியமாகிறது. பிள்ளைகளை ஊக்கப்படுத்திக் கற்றலில் ஈடுபடுத்துவதில் பெற்றோர்கள் முக்கியப் பங்காற்றுகிறார்கள்.<br/><br/>
+     எனவே, பெற்றோர்களுக்கு உதவும் நோக்கில் 2015 தமிழ்மொழிப் பாடக்கலைத்திட்டத்தின் சிறப்பு அம்சங்களையும் கற்றல் வளங்களையும் அறிமுகப்படுத்தும்வகையில் இந்தக் கையேடு தயாரிக்கப்பட்டுள்ளது. தமிழ்மொழியைப் பிள்ளைகள் நன்கு கற்கப் பிள்ளைகளுக்குப் பெற்றோர் எவ்வாறெல்லாம் உதவலாம் என்பதற்கான பரிந்துரைகளும் இக்கையேட்டில் இடம்பெற்றுள்ளன.
+<br/><br/>
     <a href="https://online.anyflip.com/cqrzz/lsou/index.html" target="_blank">Flip Book</a>
 </p></td>
   <td><img src="/images/TL-Pri_Right-Update1.png"><br/>
