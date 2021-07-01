@@ -150,17 +150,17 @@ width:80%;
     <td style="text-align: left;padding: 8px;border:0;">உயர்தரம் 1 
 பரந்துபட்ட மூன்று கருப்பொருள்கள் 
 <br/><br/>
-    <img src="/tlmoe/tl-preU02.png"></td>
+    <img src="/tlmoe/tl-preU02.png" style="width: 50%;"></td>
     <td style="text-align: left;padding: 8px;border:0;">
     உயர்தரம் 2 & 3 
 பரந்துபட்ட மூன்று கருப்பொருள்கள் 
 <br/><br/>
-    <img src="/tlmoe/tl-preU01.png"></td>
+    <img src="/tlmoe/tl-preU01.png" style="width: 50%;"></td>
     </tr>
 </table>
 <p style="text-align:justify;">இந்தப் பாடத்திட்டத்தில் 21-ஆம் நூற்றாண்டுத்திறன் சட்டகத்தில் இடம்பெற்றுள்ள  திறன்வளர்ச்சியையும் விழுமியங்களையும் பெற்று அவற்றை முறையே பயன்படுத்தும் ஆற்றலை மாணவர்கள் வளர்த்துக்கொள்வர்.
 </p>
-   <img src="/tlmoe/tl-preU03.png">
+   <img src="/tlmoe/tl-preU03.png" style="width: 50%;">
  <br/>
  <h4><span style="font-size:30px;color:purple;">உயர்தரம் 2 & 3 தமிழ்மொழிப் பாடத்திற்கான கல்வியின் விரும்பத்தக்க விளைவுகள்.</span></h4>
   <p>Pending</p>
@@ -175,8 +175,8 @@ width:80%;
 </td>
     <td style="text-align: left;padding: 8px;border:0;">
   
-    <img src="/tlmoe/tl-preU05.png"><br/>
-    <a href="#" target="_blank">Jc Brochure PDF</a></td>
+    <img src="/tlmoe/tl-preU05.png" style="width: 50%;"><br/>
+    <a href="#" target="_blank" style="margin-left: 123px;">Jc Brochure PDF</a></td>
     </tr>
 </table>
   <h4><span style="font-size:30px;color:purple;">பாடத்திட்டப் பணிச்சட்டம்</span></h4>
