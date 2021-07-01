@@ -104,7 +104,7 @@ width:80% ;
 </span></a><br/>
 <a href="#C3" style="font-size:20px"><span style="color:blue;">PROJEK MuM
 </span></a><br/>
- <a href="#C4" style="font-size:20px"><span style="color:blue;">Tips Buat Ibu Bapa
+ <a href="#C4" style="font-size:20px"><span style="color:blue;">Tip Buat Ibu Bapa
 </span></a><br/><br/>
   <p style="text-align:justify;font-size:30px"><strong>TADIKA MOE</strong></p>
  <p style="text-align:justify;">
