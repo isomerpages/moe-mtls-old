@@ -50,7 +50,7 @@ td{
  
  <table style="border-collapse: collapse; width: 100%;border:0;">
 <tr>
-    <td rowspan="2" style="text-align:left;padding:8px; width:40.33%;"><strong> நெகிழ்வுத்தன்மைமிக்க  <br/> பாடத்திட்டம்</strong><br/><br/>
+    <td rowspan="2" style="text-align:left;padding:8px; width:40.33%;border:0;"><strong> நெகிழ்வுத்தன்மைமிக்க  <br/> பாடத்திட்டம்</strong><br/><br/>
     மாணவர்களின் பல்வேறுபட்ட தொடங்குநிலைகளையும் தேவைகளையும் நிறைவுசெய்யும் வகையில் தொடக்கநிலைப் பாடக்கலைத்திட்டம் நெகிழ்வுத்தன்மைமிக்கதாக அமைக்கப்பட்டுள்ளது. 
 <br/><br/>
 எடுத்துக்காட்டாகக் கட்புலன்வழிக் கற்கும் மாணவர்களுக்குக் கதைகளையும் பாடல்களையும் காட்சிப்படுத்திக் காட்ட வேண்டும் என்பதற்காக அசைவுப்படக் காட்சிகள் உருவாக்கப்பட்டுள்ளன. <br/><br/>
@@ -72,7 +72,7 @@ td{
   <table style="border-collapse: collapse; width: 100%;border:0;">
 <tr>
     <td style="text-align:left;padding:8px; width:33.33%;">மாணவர்களுக்குக் கூடுதல் ஆதரவு வழங்க வேண்டும் என்ற நோக்கில் கட்டுரைப் பயிற்சிகளில் ஆர்வமூட்டும் முன்நடவடிக்கைகள் இணைக்கப்பட்டுள்ளன. இவை கட்டுரை எழுதுவதற்குத் தேவையான திறன்களை மாணவர்களிடையே வளர்க்கும் வண்ணம் வடிவமைக்கப்பட்டுள்ளன<br/><br/>
-      <img src="/tlmoe/tl-prisch06.png">
+      <img src="/tlmoe/tl-prisch06.png" style="width: 25%; margin-left: 286px;margin-top: -64px;">
     <img src="/tlmoe/tl-prisch05.png">
     
 </td>
@@ -86,7 +86,7 @@ td{
 </p>
 <table style="border-collapse: collapse; width: 100%;border:0;">
 <tr>
-<td style="text-align: left;padding: 8px;border:0;">
+<td style="text-align: left;padding: 8px;border:0; width: 20%;">
      <img src="/tlmoe/tl-prisch06.png">
     </td>
     <td style="text-align:left;padding:8px; border:0;">மாபாடநூல்களில் சொல் விளையாட்டுகள் சேர்க்கப்பட்டுள்ளன. மாணவர்கள் படித்தவற்றைப் புரிந்துகொண்டார்களா என்பதை ஆசிரியர் சோதித்துப் பார்க்க இவ்விளையாட்டுகள் துணைபுரிகின்றன. அதுமட்டுமன்றி சொல் விளையாட்டுகள் மாணவர்களின் புரிந்துணர்வுக்கு ஒரு சவாலாக அமைவதோடு அவற்றைச் செய்து முடிக்கும் மாணவர்களுடைய வெற்றியைக் கொண்டாட வாய்ப்பாகவும் அமைகின்றன. 
