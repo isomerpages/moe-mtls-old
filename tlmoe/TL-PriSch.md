@@ -48,7 +48,7 @@ td{
 
 <p style="font-size:25px; color:purple;">மாணவர்களை மையப்படுத்திய கற்றல் வளங்களும் நடவடிக்கைகளும் <br/></p>
  
- <table style="border-collapse: collapse; width: 100%;">
+ <table style="border-collapse: collapse; width: 100%;border:0;">
 <tr>
     <td rowspan="2" style="text-align:left;padding:8px; width:40.33%;"><strong> நெகிழ்வுத்தன்மைமிக்க  <br/> பாடத்திட்டம்</strong><br/><br/>
     மாணவர்களின் பல்வேறுபட்ட தொடங்குநிலைகளையும் தேவைகளையும் நிறைவுசெய்யும் வகையில் தொடக்கநிலைப் பாடக்கலைத்திட்டம் நெகிழ்வுத்தன்மைமிக்கதாக அமைக்கப்பட்டுள்ளது. 
@@ -69,11 +69,12 @@ td{
  </tr>
   </table>
  <br/>
-  <table style="border-collapse: collapse; width: 100%;">
+  <table style="border-collapse: collapse; width: 100%;border:0;">
 <tr>
     <td style="text-align:left;padding:8px; width:33.33%;">மாணவர்களுக்குக் கூடுதல் ஆதரவு வழங்க வேண்டும் என்ற நோக்கில் கட்டுரைப் பயிற்சிகளில் ஆர்வமூட்டும் முன்நடவடிக்கைகள் இணைக்கப்பட்டுள்ளன. இவை கட்டுரை எழுதுவதற்குத் தேவையான திறன்களை மாணவர்களிடையே வளர்க்கும் வண்ணம் வடிவமைக்கப்பட்டுள்ளன<br/><br/>
+      <img src="/tlmoe/tl-prisch06.png">
     <img src="/tlmoe/tl-prisch05.png">
-     <img src="/tlmoe/tl-prisch06.png">
+    
 </td>
     <td style="text-align: left;padding: 8px;width:33.33%;">
      Pending image
@@ -83,7 +84,7 @@ td{
  <br/>
   <p style="font-size:25px;color:purple;">விளையாட்டுவழிக் கற்றலும் வெற்றிக் கொண்டாட்டமும்
 </p>
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%;border:0;">
 <tr>
 <td style="text-align: left;padding: 8px;border:0;">
      <img src="/tlmoe/tl-prisch06.png">
