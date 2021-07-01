@@ -45,17 +45,7 @@ td{
 <p style="font-size:25px;color:purple">மகிழ்வூட்டும் கற்றல்  <br/>
  <img src="/images/MOE-Curriculum-TL-Primary-Image-2.jpg"><br/><br/>
 </p>
- <p style="font-size:25px;color:purple;">ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் வளங்கள்</p>
-<ul>
-<li style="text-align:justify;">மாணவர்களின் ஆர்வத்தைத் தூண்டி மகிழ்வளிக்கும் கற்றலில் ஈடுபடுத்த விளையாட்டுகள், கதைகள், பாடல்கள் ஆகியவை துணைபுரிகின்றன.  
-</li>
-<li style="text-align:justify;">சொல்விளையாட்டுகள் மாணவர்களின் சிந்தனையைத் தூண்டிச் சுயக்கற்றலுக்கு வழிவகுப்பதோடு அவர்களது வெற்றியைக் கொண்டாடுவதற்கும் வாய்ப்பளிக்கின்றன. 
-</li>
-<li style="text-align:justify;">கதைகளையும் பாடல்களையும் காட்சிப்படுத்திக் காட்டும்போது மாணவர்களைக் கற்றலில் அர்த்தமுள்ள வகையில் ஈடுபடுத்த முடிகிறது. இதனால் மாணவர்கள் மகிழ்வுடன் கற்கின்றனர்.
-</li>
-</ul>
-<img src="/images/MOE-Curriculum-TL-Primary-Image-3.jpg">
-<br/>
+
 <p style="font-size:25px; color:purple;">மாணவர்களை மையப்படுத்திய கற்றல் வளங்களும் நடவடிக்கைகளும் <br/></p>
  
  <table style="border-collapse: collapse; width: 100%;">
@@ -78,6 +68,46 @@ td{
 <img src="/tlmoe/tl-prisch02.png" style="transform: rotate(5deg);margin-top: -201px;margin-left: -47px;"></td>
  </tr>
   </table>
+ <br/>
+  <table style="border-collapse: collapse; width: 100%;">
+<tr>
+    <td style="text-align:left;padding:8px; width:33.33%;">மாணவர்களுக்குக் கூடுதல் ஆதரவு வழங்க வேண்டும் என்ற நோக்கில் கட்டுரைப் பயிற்சிகளில் ஆர்வமூட்டும் முன்நடவடிக்கைகள் இணைக்கப்பட்டுள்ளன. இவை கட்டுரை எழுதுவதற்குத் தேவையான திறன்களை மாணவர்களிடையே வளர்க்கும் வண்ணம் வடிவமைக்கப்பட்டுள்ளன<br/><br/>
+    <img src="/tlmoe/tl-prisch05.png">
+     <img src="/tlmoe/tl-prisch06.png">
+</td>
+    <td style="text-align: left;padding: 8px;width:33.33%;">
+     Pending image
+ </td>
+     </tr>
+     </table>
+ <br/>
+  <p style="font-size:25px;color:purple;">விளையாட்டுவழிக் கற்றலும் வெற்றிக் கொண்டாட்டமும்
+</p>
+<table style="border-collapse: collapse; width: 100%;">
+<tr>
+<td style="text-align: left;padding: 8px;border:0;">
+     <img src="/tlmoe/tl-prisch06.png">
+    </td>
+    <td style="text-align:left;padding:8px; border:0;">மாபாடநூல்களில் சொல் விளையாட்டுகள் சேர்க்கப்பட்டுள்ளன. மாணவர்கள் படித்தவற்றைப் புரிந்துகொண்டார்களா என்பதை ஆசிரியர் சோதித்துப் பார்க்க இவ்விளையாட்டுகள் துணைபுரிகின்றன. அதுமட்டுமன்றி சொல் விளையாட்டுகள் மாணவர்களின் புரிந்துணர்வுக்கு ஒரு சவாலாக அமைவதோடு அவற்றைச் செய்து முடிக்கும் மாணவர்களுடைய வெற்றியைக் கொண்டாட வாய்ப்பாகவும் அமைகின்றன. 
+</td>
+ </tr>
+</table>
+<img src="/images/MOE-Curriculum-TL-Primary-Image-3.jpg">
+<br/>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <img src="/images/MOE-Curriculum-TL-Primary-Image-4.jpg">
  <p style="font-size:25px; color:purple;" >ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் </p> <br/>
 
