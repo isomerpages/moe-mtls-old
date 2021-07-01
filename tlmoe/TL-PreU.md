@@ -118,7 +118,71 @@ width:80%;
  </span></h4>
  <p style="text-align:justify;">வருங்காலச் சிங்கப்பூர்த் தமிழ்ச் சந்ததியினரிடையே தமிழ் வாழும் மொழியாகத் திகழ வேண்டும். பலவகைப் பண்பாட்டுப் பாரம்பரியத்தைக் கொண்டு உலக நகராக விளங்கும் சிங்கப்பூரின் தனித்தன்மைக்கு வலுவூட்டும் அம்சமாக அது விளங்க வேண்டும்.
 </p>
-<h4><span style="font-size:30px;color:purple;">வழிகாட்டும் கோட்பாடுகள்  
+ <h4><span style="font-size:30px;color:purple;">உயர்தரம் 1 பாடக்கலைத்திட்டத்தின் முக்கிய நோக்கங்கள் </span></h4>
+ <p style="text-align:justify;"><strong>மாணவர்கள் </strong></p>
+ <ul>
+  <li style="text-align:justify;">தம் தாய்மொழியில் தன்னம்பிக்கையுடன் பேசுவதோடு மொழித்திறன்களையும் மேம்படுத்திக்கொள்வர்.
+</li>
+   <li style="text-align:justify;">மரபு, பண்பாடு, வரலாறு, இலக்கியம் ஆகியவற்றைப் போற்றுவதன்வழி தேசிய, பண்பாட்டு அடையாளத்தைப் புரிந்துகொள்வர்.
+</li>
+   <li style="text-align:justify;">உலகளாவிய நோக்கில் சிங்கப்பூர் வகிக்கும் இடங்குறித்துத் தெளிவான புரிந்துணர்வைப் பெற்றிருப்பர் 
+</li></ul>
+  <h4><span style="font-size:30px;color:purple;">உயர்தரம் 2 & 3 பாடக்கலைத்திட்டத்தின் முக்கிய நோக்கங்கள்
+</span></h4>
+ <p style="text-align:justify;"><strong>மாணவர்களை</strong></p>
+ <ul>
+  <li style="text-align:justify;">மொழித் திறன்களிலும் இலக்கியத் திறன்களிலும் மேம்பட்ட ஆற்றல் பெற்றவர்களாக உருவாக்குதல்
+</li>
+    <li style="text-align:justify;">தமிழ்மொழியின் பண்பாட்டு மூலங்கள், மரபுவழிப் பண்புகள் முதலானவற்றில் ஆழமான புரிந்துணர்வு கொண்டவர்களாக வளர்த்தல்
+</li>
+    <li style="text-align:justify;">நுண்ணாய்வுச் சிந்தனையும் படைப்பாக்கச் சிந்தனையும் கொண்டவர்களாக உருவாக்குதல்
+</li>
+ </ul>
+ <br/>
+ <ul>
+  <li style="text-align:justify;">புகுமுகநிலைப் பாடத்திட்டம் பரந்துபட்ட மூன்று கருப்பொருள்களைக் வழிகாட்டியாகக் கொண்டுள்ளது. 
+</li>
+    <li style="text-align:justify;">மொழிப்பாடங்களிலுள்ள பனுவல்களையும் இலக்கிய பாடங்களிலுள்ள செய்திகளையும் அந்தக் கருப்பொருள்களோடு மாணவர்கள் தொடர்புபடுத்திப் பார்ப்பார்கள். 
+</li>
+ </ul>
+ <table style="border-collapse: collapse; width: 100%;border:0;">
+ <tr>
+    <td style="text-align: left;padding: 8px;border:0;">உயர்தரம் 1 
+பரந்துபட்ட மூன்று கருப்பொருள்கள் 
+<br/><br/>
+    <img src="/tlmoe/tl-preU02.png"></td>
+    <td style="text-align: left;padding: 8px;border:0;">
+    உயர்தரம் 2 & 3 
+பரந்துபட்ட மூன்று கருப்பொருள்கள் 
+<br/><br/>
+    <img src="/tlmoe/tl-preU01.png"></td>
+    </tr>
+</table>
+<p style="text-align:justify;">இந்தப் பாடத்திட்டத்தில் 21-ஆம் நூற்றாண்டுத்திறன் சட்டகத்தில் இடம்பெற்றுள்ள  திறன்வளர்ச்சியையும் விழுமியங்களையும் பெற்று அவற்றை முறையே பயன்படுத்தும் ஆற்றலை மாணவர்கள் வளர்த்துக்கொள்வர்.
+</p>
+   <img src="/tlmoe/tl-preU03.png">
+ <br/>
+ <h4><span style="font-size:30px;color:purple;">உயர்தரம் 2 & 3 தமிழ்மொழிப் பாடத்திற்கான கல்வியின் விரும்பத்தக்க விளைவுகள்.</span></h4>
+  <p>Pending</p>
+  <table style="border-collapse: collapse; width: 100%;border:0;">
+ <tr>
+    <td style="text-align: left;padding: 8px;border:0;"> இலக்கியப் பனுவலை அனுபவித்தல்<br/>
+இலக்கிய வகைமைகளைப் போற்றுதல்<br/>
+கருப்பொருளைத் தக்கவாறு பொருள்விளங்கிக்  கொள்ளல்<br/>
+பனுவலோடும் உகலத்தோடும் தம்மை இணைத்துக் காணல்<br/>
+கருத்துக்களைப் பரிமாறிக்கொள்ளுதல்<br/>
+இலக்கியப் படைப்புகளை உருவாக்குதல்<br/>
+</td>
+    <td style="text-align: left;padding: 8px;border:0;">
+  
+    <img src="/tlmoe/tl-preU05.png"><br/>
+    <a href="#" target="_blank">Jc Brochure PDF</a></td>
+    </tr>
+</table>
+  <h4><span style="font-size:30px;color:purple;">பாடத்திட்டப் பணிச்சட்டம்</span></h4>
+    <img src="/tlmoe/tl-preU04.png"><br/>
+ 
+ <h4><span style="font-size:30px;color:purple;">வழிகாட்டும் கோட்பாடுகள்  
  </span></h4>
  <table style="width:100%">
  <tr>
