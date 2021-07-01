@@ -80,9 +80,7 @@ td{
  </tr>
   </table>
 <img src="/images/MOE-Curriculum-TL-Primary-Image-4.jpg">
-
-
-<p style="font-size:25px; color:purple;" >ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் </p> <br/>
+ <p style="font-size:25px; color:purple;" >ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் </p> <br/>
 
 <img src="/images/MOE-Curriculum-TL-Primary-Image-5.jpg"><br/>
 <img src="/images/MOE-Curriculum-TL-Primary-Image-6.jpg"><br/>
