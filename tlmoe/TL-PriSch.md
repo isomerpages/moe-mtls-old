@@ -56,7 +56,6 @@ td{
 </ul>
 <img src="/images/MOE-Curriculum-TL-Primary-Image-3.jpg">
 <br/>
-
 <p style="font-size:25px; color:purple;">மாணவர்களை மையப்படுத்திய கற்றல் வளங்களும் நடவடிக்கைகளும் <br/></p>
  
  <table style="border-collapse: collapse; width: 100%;">
@@ -68,15 +67,15 @@ td{
 இவற்றைப் பயன்படுத்தி மாணவர்களின் ஆர்வத்தைத் தூண்டிக் கற்றலில் அவர்களை அர்த்தமுள்ள வகையில் ஈடுபடுத்தலாம். 
 </td>
     <td style="text-align: left;padding: 8px;width:33.33%;">
-    <img src="/tlmoe/tl-prisch01.png"></td>
+    <img src="/tlmoe/tl-prisch01.png" style="transform: rotate(-20deg);margin-top: 29px;"></td>
     <td style="text-align: left;padding: 8px;width:33.33%;">
     <img src="/tlmoe/tl-prisch04.png"></td>
      </tr>
      <tr>
       <td style="text-align: left;padding: 8px;width:33.33%;">
-    <img src="/tlmoe/tl-prisch03.png"></td>
+    <img src="/tlmoe/tl-prisch03.png" style="margin-left: -16px;margin-top: 7px;width:60%"></td>
      <td style="text-align: left;padding: 8px;width:33.33%;">
-<img src="/tlmoe/tl-prisch02.png"></td>
+<img src="/tlmoe/tl-prisch02.png" style="transform: rotate(5deg);margin-top: -201px;margin-left: -47px;"></td>
  </tr>
   </table>
 <img src="/images/MOE-Curriculum-TL-Primary-Image-4.jpg">
