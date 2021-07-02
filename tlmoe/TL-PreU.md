@@ -179,6 +179,7 @@ width:80%;
     <a href="#" target="_blank" style="margin-left: 123px;">Jc Brochure PDF</a></td>
     </tr>
 </table>
+ <br/>
   <h4><span style="font-size:30px;color:purple;">பாடத்திட்டப் பணிச்சட்டம்</span></h4>
     <img src="/tlmoe/tl-preU04.png"><br/>
  
@@ -192,6 +193,7 @@ width:80%;
     <td><img src="/images/TL-PreU-Intro.jpg"></td>
     </tr>
 </table>
+  <br/>
 <img src="/images/TL-PreU-Curriculum.jpg">
 <br/>
 <a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/mother-tongue-languages/files/2020-h1-tamil-language-tamil-language-b-syllabus.pdf" target="_blank"><span style="font-size:22px;">2020 H1 Tamil Language & Tamil Language ‘B’ Syllabus</span>
@@ -219,6 +221,7 @@ width:80%;
     <td><img src="/images/TLL-text-cover.gif"></td>
     </tr>
 </table>
+  <br/>
 <p>
 <a href="/Gallery/Recommended-reading-of-H2TLL.pdf" target="_blank">Interesting facts about Poets & Writers</a><br/>
 <a href="/Gallery/H2TLL-Recommended-Text.pdf" target="_blank">A sneak preview of Recommended Text for H2 TLL</a><br/>
@@ -248,6 +251,7 @@ width:80%;
     </td>
 </tr>
 </table>
+  <br/>
 <p style="text-align:justify;">இந்த இலக்கியங்களையும் அவற்றைப் படைத்த எழுத்தாளர்களையும் பற்றி மேலும் அறிந்திட பின்வரும் இணைப்புகளுக்குச் செல்லவும்.
 </p>
 <center>
@@ -289,6 +293,7 @@ August 12 2020
                30 ஏப்ரல் 2021</span></td>
  </tr>
 </table>
+  <br/>
  <p style="text-align:justify;">ஆர்வமூட்டும் கற்பித்தலை உறுதிசெய்ய 
 ஆசிரியர்களுக்கான பயிலரங்குகள்</p>
   <img src="/tlmoe/tl-preU11.png"><br/>
@@ -307,6 +312,7 @@ August 12 2020
      </td>
  </tr>
 </table>
+  <br/>
 <p style="text-align:justify;">ல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2&3 பாடத்திட்ட அறிமுகப் பயிலரங்கு
 26 அக்டோபர் 2020
 </p>
@@ -325,6 +331,7 @@ August 12 2020
      </td>
  </tr>
 </table>
+  <br/>
  <p style="text-align:justify;">தமிழ்மொழி மாதம் 2021 
 யீசூன் இன்னோவா தொடக்கக்கல்லூரி ஏற்பாடு செய்த
 32-ஆம் புகுமுகப் பல்கலைக்கழகத் தமிழ்மொழி இலக்கியக் கருத்தரங்கு</p>
@@ -344,54 +351,47 @@ August 12 2020
      </td>
  </tr>
 </table>
+  <br/>
  <table style="border-collapse: collapse;
   width: 100%; border:0;">
   <tr>
     <td style=" border: 0;text-align: left;padding: 8px;">
     <img src="/tlmoe/tl-preU18.png">
-    <br/><span style="font-size:20px;">கணியன் பூங்குன்றனாரின் கவிதையை ஆய்வு செய்து படைத்த மாணவிகள் 
-
-</span>
+    <br/><span style="font-size:20px;">கணியன் பூங்குன்றனாரின் கவிதையை ஆய்வு செய்து படைத்த மாணவிகள் </span>
    </td>
     <td style=" border: 0;text-align: left;padding: 8px;">
       <img src="/tlmoe/tl-preU19.png"><br/>
-      <span style="font-size:20px;">வகுப்பில் இலக்கியம் கற்றல் கற்பித்தல் தொடர்பாக சில பரிந்துரைகளை முன்வைத்த 
-
-</span>
+      <span style="font-size:20px;">வகுப்பில் இலக்கியம் கற்றல் கற்பித்தல் தொடர்பாக சில பரிந்துரைகளை முன்வைத்த </span>
      </td>
  </tr>
 </table>
+  <br/>
  <table style="border-collapse: collapse;
   width: 100%; border:0;">
   <tr>
     <td style=" border: 0;text-align: left;padding: 8px;">
     <img src="/tlmoe/tl-preU20.png">
-    <br/><span style="font-size:20px;">இலக்கியத்தை இக்காலச் சூழலுக்கு ஏற்றவாறு மாற்றியமைத்து நாடகமாக நடித்த மாணவிகள் 
-
-</span>
+    <br/><span style="font-size:20px;">இலக்கியத்தை இக்காலச் சூழலுக்கு ஏற்றவாறு மாற்றியமைத்து நாடகமாக நடித்த மாணவிகள் </span>
    </td>
     <td style=" border: 0;text-align: left;padding: 8px;">
       <img src="/tlmoe/tl-preU21.png"><br/>
-      <span style="font-size:20px;">விடியுமா? என்ற சிறுகதையை ஆராய்ந்து படைத்த தமிழ்மொழி விருப்பப்பாடத்திட்ட மாணவர்கள்
-
-</span>
+      <span style="font-size:20px;">விடியுமா? என்ற சிறுகதையை ஆராய்ந்து படைத்த தமிழ்மொழி விருப்பப்பாடத்திட்ட மாணவர்கள்</span>
      </td>
  </tr>
 </table>
+  <br/>
  <table style="border-collapse: collapse;
   width: 100%; border:0;">
   <tr>
     <td style=" border: 0;text-align: left;padding: 8px;">
     <img src="/tlmoe/tl-preU22.png">
-    
-   </td>
+    </td>
     <td style=" border: 0;text-align: left;padding: 8px;">
       <img src="/tlmoe/tl-preU23.png"><br/>
-      
-     </td>
+      </td>
  </tr>
 </table>
-
+ <br/>
  
  
  
