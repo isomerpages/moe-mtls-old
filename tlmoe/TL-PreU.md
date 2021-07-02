@@ -506,28 +506,28 @@ August 12 2020
   <table style="border-collapse: collapse;
   width: 100%; border:0;">
   <tr>
-<td style=" border: 0;text-align: left;padding: 8px;">
+<td style=" border: 0;text-align: left;padding: 8px; width:33.33%;">
 <img src="/tlmoe/tl-preU31.png">
 </td>
- <td style=" border: 0;text-align: left;padding: 8px;">
+ <td style=" border: 0;text-align: left;padding: 8px; width:33.33%;">
    <img src="/tlmoe/tl-preU32.png">
     </td>
-    <td style=" border: 0;text-align: left;padding: 8px;">
+    <td style=" border: 0;text-align: left;padding: 8px; width:33.33%;">
    <img src="/tlmoe/tl-preU33.png">
     </td>
  </tr>
  
  <tr>
-<td style=" border: 0;text-align: left;padding: 8px;">
+<td style=" border: 0;text-align: left;padding: 8px; width:33.33%;">
 <img src="/tlmoe/tl-preU34.png"><br/>
 <span style="font-size:30px;">இயல்... </span>
 </td>
- <td style=" border: 0;text-align: left;padding: 8px;">
+ <td style=" border: 0;text-align: left;padding: 8px; width:33.33%;">
    <img src="/tlmoe/tl-preU35.png">
    <br/>
 <span style="font-size:30px;">இசை... </span>
     </td>
-    <td style=" border: 0;text-align: left;padding: 8px;">
+    <td style=" border: 0;text-align: left;padding: 8px; width:33.33%;">
    <img src="/tlmoe/tl-preU36.png">
    <br/>
 <span style="font-size:30px;">நாடகம்.</span>
