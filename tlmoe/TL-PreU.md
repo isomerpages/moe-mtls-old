@@ -195,12 +195,11 @@ width:80%;
 <img src="/images/TL-PreU-Curriculum.jpg">
 <br/>
 <a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/mother-tongue-languages/files/2020-h1-tamil-language-tamil-language-b-syllabus.pdf" target="_blank"><span style="font-size:22px;">2020 H1 Tamil Language & Tamil Language ‘B’ Syllabus</span>
- </a>
+ </a><br/>
  <a href="#" target="_blank"><span style="font-size:22px;">2020 H1 Tamil Language & Tamil Language ‘B’ Syllabus (PDF)</span>
-</a>
- <a href="#" target="_blank"><span style="font-size:22px;">H2& H3 Tamil Language & Literature Syllabus (PDF )
-</span>
-</a>
+</a><br/>
+ <a href="#" target="_blank"><span style="font-size:22px;">H2& H3 Tamil Language & Literature Syllabus (PDF )</span>
+</a><br/>
 <h4><span style="font-size:30px;color:purple;">பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2 & உயர்தரம் 3 பாடத்திட்ட வெளியீடு
  </span></h4>
  <center>
