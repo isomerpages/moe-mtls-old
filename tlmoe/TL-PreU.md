@@ -396,9 +396,9 @@ August 12 2020
   width: 100%; border:0;">
   <tr>
     <td style=" border: 0;text-align: left;padding: 8px;">
-    <img src="/tlmoe/tl-preU24.jpg">
+    <img src="/tlmoe/tl-preU24.jpg" style="transform: rotate(-14deg); margin-top: 53px; width: 84%;">
  </td>
-    <td style=" border: 0;text-align: left;padding: 8px;"><strong>
+    <td style=" border: 0;text-align: left;padding: 8px; width:40%;"><strong>
      யுனோயா தொடக்கக்கல்லூரி மாணவிகள் </strong> ‘சிங்கப்பூர் மாப்பிள்ளை’ என்னும் நாடகத்தின் கதையோட்டத்தைப் புரிந்துகொண்டு அதை இக்கால ரசனைக்கு ஏற்ப புதுமையான பாணியில் நடித்துக்காட்டினர்.
 <br/><br/>
 கு.பா.ராஜகோபாலன் (கு.பா.ரா)
