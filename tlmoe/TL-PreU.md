@@ -195,8 +195,12 @@ width:80%;
 <img src="/images/TL-PreU-Curriculum.jpg">
 <br/>
 <a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/mother-tongue-languages/files/2020-h1-tamil-language-tamil-language-b-syllabus.pdf" target="_blank"><span style="font-size:22px;">2020 H1 Tamil Language & Tamil Language ‘B’ Syllabus</span>
+ </a>
+ <a href="#" target="_blank"><span style="font-size:22px;">2020 H1 Tamil Language & Tamil Language ‘B’ Syllabus (PDF)</span>
 </a>
-
+ <a href="#" target="_blank"><span style="font-size:22px;">H2& H3 Tamil Language & Literature Syllabus (PDF )
+</span>
+</a>
 <h4><span style="font-size:30px;color:purple;">பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2 & உயர்தரம் 3 பாடத்திட்ட வெளியீடு
  </span></h4>
  <center>
@@ -229,9 +233,181 @@ width:80%;
  
    <img src="/images/TL-PreU-Literature.jpg">
 <br/>
- 
-<img src="/images/TL-PreU-Comic2.jpg">
+ <img src="/images/TL-PreU-Comic2.jpg">
 <br/>
+ Pending Video
+ <h4><span style="font-size:30px;color:purple;">புதிதாக அறிமுகம் கண்ட இலக்கியங்கள் </span></h4>
+ <table style="border-collapse: collapse;width: 100%;border:0;">
+  <tr>
+    <td style="  border: 0; text-align: left; padding: 8px;">
+  Image pending
+   </td>
+    <td style="  border: 0; text-align: left; padding: 8px;">
+      <img src="/tlmoe/tl-preU06.png"><br/>
+       <img src="/tlmoe/tl-preU07.png"><br/>
+        <img src="/tlmoe/tl-preU08.png">
+    </td>
+</tr>
+</table>
+<p style="text-align:justify;">இந்த இலக்கியங்களையும் அவற்றைப் படைத்த எழுத்தாளர்களையும் பற்றி மேலும் அறிந்திட பின்வரும் இணைப்புகளுக்குச் செல்லவும்.
+</p>
+<center>
+<iframe class="iframe1" width="560" height="315" src="https://www.youtube.com/embed/5foX5Qdi3Tw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+<span style="font-size:20px;">(கதவு) </span>
+</center>
+<br/>
+<center>
+<iframe  class="iframe1" width="560" height="315" src="https://www.youtube.com/embed/5foX5Qdi3Tw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+<span style="font-size:20px;">கி.ராஜநாராயணன் (Pending)  </span>
+</center>
+<br/>
+<center>
+<iframe class="iframe1" width="560" height="315" src="https://www.youtube.com/embed/5foX5Qdi3Tw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+<span style="font-size:20px;">Oonjal Drama Audio  (Pending) </span>
+</center>
+<br/>
+<center>
+<iframe class="iframe1" width="560" height="315" src="https://www.youtube.com/embed/5foX5Qdi3Tw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+<span style="font-size:20px;">samuthaya veethi authors audio(Pending)
+ </span>
+</center>
+<br/>
+ <h4><span style="font-size:30px;color:purple;">முக்கிய நிகழ்வுகள் </span></h4>
+ <p style="text-align:justify;">ஆர்வமூட்டும் கற்பித்தலை உறுதிசெய்ய 
+ஆசிரியர்களுக்கான பயிலரங்குகள்
+</p>
+ <table style="border-collapse: collapse;
+  width: 100%; border:0;">
+  <tr>
+    <td style=" border: 0;text-align: left;padding: 8px;">
+    <img src="/tlmoe/tl-preU09.png"><br/>
+    <span style="font-size:20px;">பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2&3 பாடத்திட்ட அறிமுக நிகழ்வு 
+August 12 2020
+ </span></td>
+    <td style=" border: 0;text-align: left;padding: 8px;">
+      <img src="/tlmoe/tl-preU10.png"><br/>
+      <span style="font-size:20px;">பார்த்திராத பனுவல்கள் பயிலரங்கம்
+               30 ஏப்ரல் 2021</span></td>
+ </tr>
+</table>
+ <p style="text-align:justify;">ஆர்வமூட்டும் கற்பித்தலை உறுதிசெய்ய 
+ஆசிரியர்களுக்கான பயிலரங்குகள்</p>
+  <img src="/tlmoe/tl-preU11.png"><br/>
+    <span style="font-size:20px;">பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2&3 பாடத்திட்ட அறிமுக பயிலரங்கு
+26 அக்டோபர் 2020</span>
+ <p style="text-align:justify;">சிங்கப்பூர்க் கற்பித்தல் முறைமைப் பயிற்றுமுறைகள் பற்றிய தலைமை முதன்மை ஆசிரியர் திரு ஜெயராஜதாஸ் பாண்டியன் அவர்களின் பகிர்வு
+</p>
+ <table style="border-collapse: collapse;
+  width: 100%; border:0;">
+  <tr>
+    <td style=" border: 0;text-align: left;padding: 8px;">
+    <img src="/tlmoe/tl-preU012.png"><br/>
+   </td>
+    <td style=" border: 0;text-align: left;padding: 8px;">
+      <img src="/tlmoe/tl-preU13.png"><br/>
+     </td>
+ </tr>
+</table>
+<p style="text-align:justify;">ல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2&3 பாடத்திட்ட அறிமுகப் பயிலரங்கு
+26 அக்டோபர் 2020
+</p>
+ <table style="border-collapse: collapse;
+  width: 100%; border:0;">
+  <tr>
+    <td style=" border: 0;text-align: left;padding: 8px;">
+    <img src="/tlmoe/tl-preU014.png">
+    <br/><span style="font-size:20px;">கவிஞர் சுபா செந்தில்குமார் வழிநடத்திய கவிதைப் பயிலரங்கு
+</span>
+   </td>
+    <td style=" border: 0;text-align: left;padding: 8px;">
+      <img src="/tlmoe/tl-preU15.png"><br/>
+      <span style="font-size:20px;">இணையமவழியே நடந்த பயிலரங்கில் மாணவர்கள் ஆர்வத்துடன் பங்கெடுத்தனர்
+</span>
+     </td>
+ </tr>
+</table>
+ <p style="text-align:justify;">தமிழ்மொழி மாதம் 2021 
+யீசூன் இன்னோவா தொடக்கக்கல்லூரி ஏற்பாடு செய்த
+32-ஆம் புகுமுகப் பல்கலைக்கழகத் தமிழ்மொழி இலக்கியக் கருத்தரங்கு</p>
+ <table style="border-collapse: collapse;
+  width: 100%; border:0;">
+  <tr>
+    <td style=" border: 0;text-align: left;padding: 8px;">
+    <img src="/tlmoe/tl-preU016.png">
+    <br/><span style="font-size:20px;">தமிழ்மொழி கற்றல் வளர்ச்சிக்குழுவின் ஆதரவுடன் நடந்த இலக்கியக் கருத்தரங்கு 
+</span>
+   </td>
+    <td style=" border: 0;text-align: left;padding: 8px;">
+      <img src="/tlmoe/tl-preU17.png"><br/>
+      <span style="font-size:20px;">இம்மாணவிகளின் தமிழ்மொழி வாழ்த்துப்பாடலுடன் தொடங்கியது இலக்கியக் கருத்தரங்கு 
+
+</span>
+     </td>
+ </tr>
+</table>
+ <table style="border-collapse: collapse;
+  width: 100%; border:0;">
+  <tr>
+    <td style=" border: 0;text-align: left;padding: 8px;">
+    <img src="/tlmoe/tl-preU018.png">
+    <br/><span style="font-size:20px;">கணியன் பூங்குன்றனாரின் கவிதையை ஆய்வு செய்து படைத்த மாணவிகள் 
+
+</span>
+   </td>
+    <td style=" border: 0;text-align: left;padding: 8px;">
+      <img src="/tlmoe/tl-preU19.png"><br/>
+      <span style="font-size:20px;">வகுப்பில் இலக்கியம் கற்றல் கற்பித்தல் தொடர்பாக சில பரிந்துரைகளை முன்வைத்த 
+
+</span>
+     </td>
+ </tr>
+</table>
+ <table style="border-collapse: collapse;
+  width: 100%; border:0;">
+  <tr>
+    <td style=" border: 0;text-align: left;padding: 8px;">
+    <img src="/tlmoe/tl-preU020.png">
+    <br/><span style="font-size:20px;">இலக்கியத்தை இக்காலச் சூழலுக்கு ஏற்றவாறு மாற்றியமைத்து நாடகமாக நடித்த மாணவிகள் 
+
+</span>
+   </td>
+    <td style=" border: 0;text-align: left;padding: 8px;">
+      <img src="/tlmoe/tl-preU21.png"><br/>
+      <span style="font-size:20px;">விடியுமா? என்ற சிறுகதையை ஆராய்ந்து படைத்த தமிழ்மொழி விருப்பப்பாடத்திட்ட மாணவர்கள்
+
+</span>
+     </td>
+ </tr>
+</table>
+ <table style="border-collapse: collapse;
+  width: 100%; border:0;">
+  <tr>
+    <td style=" border: 0;text-align: left;padding: 8px;">
+    <img src="/tlmoe/tl-preU022.png">
+    
+   </td>
+    <td style=" border: 0;text-align: left;padding: 8px;">
+      <img src="/tlmoe/tl-preU23.png"><br/>
+      
+     </td>
+ </tr>
+</table>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 <h4><span style="font-size:30px;color:purple;">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமூட்டும் உத்திமுறைகள் 
  </span></h4> 
