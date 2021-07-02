@@ -300,7 +300,7 @@ August 12 2020
   width: 100%; border:0;">
   <tr>
     <td style=" border: 0;text-align: left;padding: 8px;">
-    <img src="/tlmoe/tl-preU012.png"><br/>
+    <img src="/tlmoe/tl-preU12.png"><br/>
    </td>
     <td style=" border: 0;text-align: left;padding: 8px;">
       <img src="/tlmoe/tl-preU13.png"><br/>
@@ -314,7 +314,7 @@ August 12 2020
   width: 100%; border:0;">
   <tr>
     <td style=" border: 0;text-align: left;padding: 8px;">
-    <img src="/tlmoe/tl-preU014.png">
+    <img src="/tlmoe/tl-preU14.png">
     <br/><span style="font-size:20px;">கவிஞர் சுபா செந்தில்குமார் வழிநடத்திய கவிதைப் பயிலரங்கு
 </span>
    </td>
@@ -332,7 +332,7 @@ August 12 2020
   width: 100%; border:0;">
   <tr>
     <td style=" border: 0;text-align: left;padding: 8px;">
-    <img src="/tlmoe/tl-preU016.png">
+    <img src="/tlmoe/tl-preU16.png">
     <br/><span style="font-size:20px;">தமிழ்மொழி கற்றல் வளர்ச்சிக்குழுவின் ஆதரவுடன் நடந்த இலக்கியக் கருத்தரங்கு 
 </span>
    </td>
@@ -348,7 +348,7 @@ August 12 2020
   width: 100%; border:0;">
   <tr>
     <td style=" border: 0;text-align: left;padding: 8px;">
-    <img src="/tlmoe/tl-preU018.png">
+    <img src="/tlmoe/tl-preU18.png">
     <br/><span style="font-size:20px;">கணியன் பூங்குன்றனாரின் கவிதையை ஆய்வு செய்து படைத்த மாணவிகள் 
 
 </span>
@@ -365,7 +365,7 @@ August 12 2020
   width: 100%; border:0;">
   <tr>
     <td style=" border: 0;text-align: left;padding: 8px;">
-    <img src="/tlmoe/tl-preU020.png">
+    <img src="/tlmoe/tl-preU20.png">
     <br/><span style="font-size:20px;">இலக்கியத்தை இக்காலச் சூழலுக்கு ஏற்றவாறு மாற்றியமைத்து நாடகமாக நடித்த மாணவிகள் 
 
 </span>
@@ -382,7 +382,7 @@ August 12 2020
   width: 100%; border:0;">
   <tr>
     <td style=" border: 0;text-align: left;padding: 8px;">
-    <img src="/tlmoe/tl-preU022.png">
+    <img src="/tlmoe/tl-preU22.png">
     
    </td>
     <td style=" border: 0;text-align: left;padding: 8px;">
