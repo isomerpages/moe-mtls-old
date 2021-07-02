@@ -503,17 +503,49 @@ August 12 2020
 </p>
   <img src="/tlmoe/tl-preU30.png">
   <br/>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- <h4 id="C3"><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 
+  <table style="border-collapse: collapse;
+  width: 100%; border:0;">
+  <tr>
+<td style=" border: 0;text-align: left;padding: 8px;">
+<img src="/tlmoe/tl-preU31.png">
+</td>
+ <td style=" border: 0;text-align: left;padding: 8px;">
+   <img src="/tlmoe/tl-preU32.png">
+    </td>
+    <td style=" border: 0;text-align: left;padding: 8px;">
+   <img src="/tlmoe/tl-preU33.png">
+    </td>
+ </tr>
+ 
+ <tr>
+<td style=" border: 0;text-align: left;padding: 8px;">
+<img src="/tlmoe/tl-preU34.png"><br/>
+<span style="font-size:30px;">இயல்... </span>
+</td>
+ <td style=" border: 0;text-align: left;padding: 8px;">
+   <img src="/tlmoe/tl-preU35.png">
+   <br/>
+<span style="font-size:30px;">இசை... </span>
+    </td>
+    <td style=" border: 0;text-align: left;padding: 8px;">
+   <img src="/tlmoe/tl-preU36.png">
+   <br/>
+<span style="font-size:30px;">நாடகம்.</span>
+    </td>
+ </tr>
+</table>
+<p style="text-align:justify;">மூன்றும் பவனி வந்தன ஒரே நிகழ்ச்சியில்.. <br/>
+ஆண்டர்சன் சிராங்கூன் தொடக்கக் கல்லூரி மாணவர்கள் தமிழ்பால் கொண்ட ஆர்வத்தால்...
+</p>
+  <p style="text-align:justify;">தமிழ்ச்செய்தியில் நம் கல்லூரிகள்
+</p>
+  <ul>
+   <li><a href="https://www.tamilmurasu.com.sg/" target="_blank">தமிழ் முரசு
+</a></li>
+      <li><a href="https://www.tamilmurasu.com.sg/singapore/story20210222-61692.html" target="_blank">உயர்தரம் 3 தமிழ்மொழிப் பாடம் பயில ஆர்வம் இருந்தால் போதும்
+</a></li>
+  </ul>
+  <h4 id="C3"><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 
 </span></h4>
 <br/>
   <div class="row">
