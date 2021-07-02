@@ -246,7 +246,7 @@ width:80%;
    </td>
     <td style="  border: 0; text-align: left; padding: 8px;">
       <img src="/tlmoe/tl-preU06.png" style="width: 47%; margin-left: -28px; width:50%;"><br/>
-       <img src="/tlmoe/tl-preU07.png" style="margin-top: -166px;margin-left: 147px;width:50%;"><br/>
+       <img src="/tlmoe/tl-preU07.png" style="margin-top: -166px; margin-left: 135px;width: 50%; transform: rotate(18deg);"><br/>
         <img src="/tlmoe/tl-preU08.png" style="margin-top: -163px; margin-left: -3px;width:50%;">
     </td>
 </tr>
