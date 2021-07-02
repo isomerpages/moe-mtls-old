@@ -242,9 +242,9 @@ width:80%;
   Image pending
    </td>
     <td style="  border: 0; text-align: left; padding: 8px;">
-      <img src="/tlmoe/tl-preU06.png"><br/>
-       <img src="/tlmoe/tl-preU07.png"><br/>
-        <img src="/tlmoe/tl-preU08.png">
+      <img src="/tlmoe/tl-preU06.png" style="width: 47%; margin-left: -28px; width:50%;"><br/>
+       <img src="/tlmoe/tl-preU07.png" style="margin-top: -166px;margin-left: 147px;width:50%;"><br/>
+        <img src="/tlmoe/tl-preU08.png" style="margin-top: -163px; margin-left: -3px;width:50%;">
     </td>
 </tr>
 </table>
