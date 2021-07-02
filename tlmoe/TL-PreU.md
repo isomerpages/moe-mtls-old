@@ -436,7 +436,7 @@ August 12 2020
       <li style="text-align:justify;">பள்ளி சார்ந்த திட்ட நடவடிக்கைகள்
 </li>
   </ul>
-  <img src="/tlmoe/tl-preU25.jpg"><br/>
+  <img src="/images/TL-PreU-Signature-Activities.jpg"><br/>
  <br/>
   <p> Image Pending</p>
   <br/>
