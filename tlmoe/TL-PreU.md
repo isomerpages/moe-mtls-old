@@ -426,17 +426,93 @@ August 12 2020
 </strong></li>
  <ul>
 <br/> 
- 
- 
- 
- 
- 
- 
- 
-<h4><span style="font-size:30px;color:purple;">நடவடிக்கைகள்
+ <h4><span style="font-size:30px;color:purple;">முத்திரை நடவடிக்கைகள்
  </span></h4>
- <img src="/images/TL-PreU-Signature-Activities.jpg">
- <br/> 
+  <ul>
+   <li style="text-align:justify;" >தொடக்கக்கல்லூரி ஒன்றாம் ஆண்டு மாணவர்களுக்கு தமிழ்மொழி முகாம்.
+</li>
+      <li style="text-align:justify;">ஆண்டிறுதியில் தொடக்கக்கல்லூரி ஒன்றாம் ஆண்டு மாணவர்களுக்குக் கல்விப்பயணம்
+</li>
+      <li style="text-align:justify;">பள்ளி சார்ந்த திட்ட நடவடிக்கைகள்
+</li>
+  </ul>
+  <img src="/tlmoe/tl-preU25.png"><br/>
+ <br/>
+  <p> Image Pending</p>
+  <br/>
+   <h4><span style="font-size:30px;color:purple;">கல்வி அமைச்சு வழிநடத்தும் நடவடிக்கைகள்
+</span></h4>
+  <table style="border-collapse: collapse;
+  width: 100%; border:0;">
+  <tr>
+<td style=" border: 0;text-align: left;padding: 8px;">இணையம் வழி தமிழ்மொழி முகாம் 
+<br/>
+தமிழ்மொழி விருப்பப்பாடத்திட்டம் செயற்குழு ஏற்பாடு செய்த தமிழ்மொழி முகாம் டிசம்பர் 5-ஆம் தேதி சிறப்பாக நடந்தேறியது. இந்நிகழ்ச்சியில் விருப்பப்பாடத்திட்டத்தை வழங்கும் இரண்டு கல்லூரிகளைச் சேர்ந்த மாணவர்கள் பங்கெடுத்து பயனடைந்தனர். அந்நிகழ்ச்சி முக்கிய நிகழ்வுகளைத் தொகுத்து வழங்கும் ஒளிக்காட்சி.
+</td>
+ <td style=" border: 0;text-align: left;padding: 8px;">
+    <img src="/tlmoe/tl-preU26.png">
+    </td>
+ </tr>
+
+<tr>
+<td style=" border: 0;text-align: left;padding: 8px;">Pending video</td>
+<td style=" border: 0;text-align: left;padding: 8px;">Pending video</td>
+</tr>
+</table>
+  <p style="text-align:justify;"><strong>ஒலி 96.8 வானொலி படைப்பாளர் திரு முகமது ரஃபியுடன் ஒரு சந்திப்பு</strong>
+   <br/>
+   Image Pending
+</p>
+   <p style="text-align:justify;"> <strong>ஏ.கே.டி கலைக்குழு நடத்திய பாரம்பரிய இசைப் பகிர்வில் பறையிசையைப் பற்றி மாணவர்கள் அறிந்துகொண்டார்கள்.</strong>
+</p>
+  <table style="border-collapse: collapse;
+  width: 100%; border:0;">
+  <tr>
+<td style=" border: 0;text-align: left;padding: 8px;">
+<img src="/tlmoe/tl-preU27.png">
+</td>
+ <td style=" border: 0;text-align: left;padding: 8px;">
+    image pending
+    </td>
+ </tr>
+</table>
+  <br/>
+  <p style="text-align:justify;"> <strong>சிங்கை நாடகக் கலைஞர்களுள் மூத்த நாடக்கலைஞராக விளங்கும் திரு மதியழகன் வழிநடத்த மாணவர்கள் நாடகக்கலை, கதை வசனம் முதலான முக்கியச் செய்திகளைக் கற்றறிந்தனர்.
+</strong><br/>
+   Image Pending
+</p>
+  <p style="text-align:justify;"> <strong>தமிழ்மொழி விருப்பப்பாடத் திட்டத்தில் பங்கெடுக்கும் மாணவர்களிடம் நடத்தப்பட்ட கருத்துக்களம். 
+மாணவர்கள் தங்கள் கருத்துகளையும் பரிந்துரைகளையும் முன்வைத்தனர்.
+</strong></p>
+  <table style="border-collapse: collapse;
+  width: 100%; border:0;">
+  <tr>
+<td style=" border: 0;text-align: left;padding: 8px;">
+<img src="/tlmoe/tl-preU28.png">
+</td>
+ <td style=" border: 0;text-align: left;padding: 8px;">
+   <img src="/tlmoe/tl-preU29.png">
+    </td>
+ </tr>
+</table>
+  <h4><span style="font-size:30px;color:purple;">பள்ளி சார்ந்த திட்ட நடவடிக்கைகள்
+</span></h4>
+  <p style="text-align:center;">திரையிசைப் பாடல்களில் வழி இலக்கியமும் வாழ்வியல் கருத்துகளும்
+ஆண்டர்சன் சிராங்கூன் தொடக்கக்கல்லூரி  </p>
+  <p style="text-align:justify;">தமிழ்மொழி மாதத்தில் ஆண்டர்சன் சிராங்கூன் தொடக்கக்கல்லூரியைச் சார்ந்த தமிழ்மொழி விருப்பப்பாடத்திட்ட மாணவர்கள் சீரிய முயற்சி. மாணவர்களுக்கும் இலக்கியத்தில் ஆர்வமுண்டு அதை மற்றவர்கள் விரும்பும் வகையில் படைத்துக் காட்டவும் முடியும் என்று களத்தில் இறங்கினர் இக்கல்லூரி மாணவர்கள். திரையிசைப்பாடல்கள் வழி இலக்கியமும் வாழ்வியல் கருத்துகளும் என்ற தலைப்பில் அரங்கேறிய இந்நிகழ்ச்சி அனைவரது பாராட்டையும் பெற்றது.
+</p>
+  <img src="/tlmoe/tl-preU30.png">
+  <br/>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
  <h4 id="C3"><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 
 </span></h4>
 <br/>
