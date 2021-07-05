@@ -111,8 +111,8 @@ width:80% ;
  Kementerian Pendidikan Singapura mengambil langkah memulakan Tadika MOE bagi menyediakan Pendidikan Prasekolah (Tadika 1 dan Tadika 2) berkualiti yang berpatutan untuk rakyat serta penduduk tetap Singapura. 
 Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-kanak. Untuk mencapai visi ini, Tadika MOE berpegang pada prinsip bahawa kanak-kanak merupakan pelajar yang mempunyai sifat ingin tahu, aktif dan cekap.
  </p>
- <center><span style="font-size:20px;" >Sila klik di sini untuk menonton Sehari di Tadika MOE</span><br/>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+ <center><span style="font-size:20px;" >Sila klik di sini untuk menonton video Tadika MOE- Di Mana Setiap Ruang Adalah Ruang Pembelajaran: </span><br/>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/LockyOmaNB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
  <br/>
   <p style="font-size:30px;"><strong>KURIKULUM TADIKA MOE
  </strong>
@@ -149,10 +149,6 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
        Melalui program ini, kanak-kanak akan membina kemahiran literasi awal melalui kemahiran mendengar dan bertutur.  Kemahiran ini akan membantu bagi membina asas yang kukuh dalam pembelajaran bahasa untuk masa hadapan. <br/>
 
 </p> </div></div>
-
- 
-
-
 <p id="C2" style="font-size:30px;"><strong>PENDEKATAN MEMBACA BERSAMA
 </strong></p>
   <img src="/images/Picture1.png"> <br/>
@@ -209,7 +205,7 @@ Ibu bapa/Waris boleh menyokong pembelajaran dan pembangunan bahasa Ibunda anak/w
  Yang berikut merupakan contoh-contoh Aktiviti Belajar Bahasa Ibunda mengikut 4 tema utama dalam pembelajaran dan pengajaran Bahasa Melayu.
 </p>
 <h4>Siapakah Saya?</h4>
-<p style="text-align:justify;">Mari Melakukan Aktiviti Kegemaran<br/><br/>
+<p style="text-align:justify;">Mari Lakukan Aktiviti Kegemaran<br/><br/>
 Anda boleh meluangkan masa dengan anak/ waris untuk melakukan aktiviti kegemaran mereka. Contoh: bermain basikal, bermain peranan dan melukis gambar.<br/><br/>
 Langkah-langkah:</p>
 <ul>
@@ -272,26 +268,11 @@ Dengan Siapakah Saya Berkongsi Dunia ini?</h4>
    <li style="text-align:justify;">Ajak anak/ waris anda berkongsi dengan ahli keluarga dalam Bahasa Melayu mengenai alat yang diperbaik itu.
 </li>
 </ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      
- <p style="text-align:justify;">Untuk mendapatkan contoh Aktiviti Belajar Bahasa Ibunda di Rumah yang lain, sila layari lelaman daripada tadika-tadika ini
+<p style="text-align:justify;">Untuk mendapatkan contoh Aktiviti Belajar Bahasa Ibunda di Rumah yang lain, sila layari lelaman daripada tadika-tadika ini
 <br/>
 <ul>
- <li><a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/">Tadika MOE @ Farrer Park </a></li>
- <li><a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/">Tadika MOE @ Waterway  </a></li>
+ <li><a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/">Tadika MOE @ Fernvale </a></li>
+ <li><a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/">Tadika MOE @ Punggol Green </a></li>
 </ul></p>
  
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
