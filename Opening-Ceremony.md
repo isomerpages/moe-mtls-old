@@ -1,6 +1,6 @@
 ---
 title: Opening Ceremony
-permalink: /GOH-Message/
+permalink: /Opening Ceremony/
 breadcrumb: GOH Message
 --- 
 <html>
