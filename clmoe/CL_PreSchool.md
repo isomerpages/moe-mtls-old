@@ -101,7 +101,7 @@ margin-left:25px;
 
   gtag('config', 'AW-726049306');
 </script>
-<a href="/gallery/华文学习展示区-chinese-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Prevoius</a><br/>
+<a href="/gallery/华文学习展示区-chinese-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Prevoius</a>
   <a href="/clmoe/小学/" class="btn" style="float:right;">Next</a><br/>
   
   
