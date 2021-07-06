@@ -1,7 +1,7 @@
 ---
 title: Opening Ceremony
-permalink: /Opening Ceremony/
-breadcrumb: GOH Message
+permalink: /Opening-Ceremony/
+breadcrumb: Opening Ceremony
 --- 
 <html>
 <body>
