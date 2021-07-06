@@ -1,7 +1,7 @@
 ---
 title: Live Sessions
-permalink: /Programme/
-breadcrumb: Programme
+permalink: /Live-Sessions/
+breadcrumb: Live Sessions
 
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
