@@ -89,7 +89,17 @@ width:80%;
 .btab{
   width:0%;
 }
- 
+  a.btn:hover, a.btn:active 
+{background: lightgrey;
+border-radius: 12px;}
+
+.btn {
+padding-top: 10px !important;
+padding-right: 23px !important;
+padding-bottom: 10px !important;
+padding-left: 23px !important;
+margin-left:25px;
+}
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -100,7 +110,7 @@ width:80%;
 
   gtag('config', 'AW-726049306');
 </script>
-<a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" style="float:right;">Back</a><br/>
+<a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" class="btn" style="float:right;">Previous</a><br/>
 <img src="/images/TL-PreU-Header.jpg">
 <p>
 <a href="#C1" style="font-size:20px"><span style="color:blue;">அறிமுகம்
