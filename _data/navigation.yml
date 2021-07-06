@@ -3,9 +3,9 @@ logo: '/images/emtls-2020-logo-01.png'
 links: 
 - title: About Us
   url: /About-Us-And-Past-Symposiums/
-- title: GOH Message
+- title: Opening Ceremony
   url: /GOH-Message/
-- title: Launch Programme 
+- title: Live Sessions 
   url: /Programme/
 - title: Sharing Sessions
   url: /Sharing-Sessions/
@@ -14,6 +14,8 @@ links:
   collection: Gallery
 - title: OPMTL Teacher Award
   url: /OPMTL-AWARD-2020/
+- title: Online Quest
+  url: /Online Quest/
 - title: Others
   url: /Others/MTL-Challenge/
   sublinks:
