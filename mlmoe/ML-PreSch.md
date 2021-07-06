@@ -88,6 +88,17 @@ td, th {
 border : 0;
 width:80% ;
 }
+   a.btn:hover, a.btn:active 
+{background: lightgrey;
+border-radius: 12px;}
+
+.btn {
+padding-top: 10px !important;
+padding-right: 23px !important;
+padding-bottom: 10px !important;
+padding-left: 23px !important;
+margin-left:25px;
+}
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -98,7 +109,9 @@ width:80% ;
 
   gtag('config', 'AW-726049306');
 </script>
-<a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-b/moe-curriculum/" style="float:right;">Back</a><br/>
+   <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-b/moe-curriculum/"  class="btn" style="float:left;">Previous</a>
+<a href="/mlmoe/ml-prisch/" class="btn" style="float:right;">Next</a>
+ <br/>
 <img src="/images/ML-Pre-Sch-Header.jpg"><br/>
  <a href="#C2" style="font-size:20px"><span style="color:blue;">Pendekatan Membaca Bersama
 </span></a><br/>
