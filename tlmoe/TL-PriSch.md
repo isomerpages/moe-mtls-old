@@ -134,7 +134,7 @@ margin-left:25px;
       <img src="/tlmoe/tl-prisch08.png" style="width: 20%; margin-left: 10px;"><br/>
     <a href="https://online.anyflip.com/cqrzz/lsou/index.html" target="_blank">Flip Book</a>
 </p></td>
-  <td><img src="/tlmoe/tl-prisch10.jpeg"><br/>
+  <td><img src="/tlmoe/tl-prisch10.jpeg" style="margin-top: 138px;"><br/>
   </td>
  </tr>
  </table>
