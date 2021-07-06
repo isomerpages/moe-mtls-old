@@ -79,6 +79,17 @@ width:80%;
   margin-bottom: 5px;
   width:100%;  
 }
+  a.btn:hover, a.btn:active 
+{background: lightgrey;
+border-radius: 12px;}
+
+.btn {
+padding-top: 10px !important;
+padding-right: 23px !important;
+padding-bottom: 10px !important;
+padding-left: 23px !important;
+margin-left:25px;
+}
  
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
@@ -90,7 +101,11 @@ width:80%;
 
   gtag('config', 'AW-726049306');
 </script>
-<a href="/gallery/华文学习展示区-chinese-exhibitions-b/moe-curriculum/" style="float:right;">Back</a><br/>
+<a href="/gallery/华文学习展示区-chinese-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Prevoius</a><br/>
+  <a href="/clmoe/小学/" class="btn" style="float:right;">Next</a><br/>
+  
+  
+  
 <img src="/images/CL-Presch-Header.jpg">
 <p style="font-size:30px;font-family:KaiTi" ><h4 style="font-size:30px;font-family:KaiTi;">教育部幼儿园 
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">繁星语文课程</span></a>
