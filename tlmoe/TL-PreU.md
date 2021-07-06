@@ -124,7 +124,7 @@ margin-left:25px;
  <a href="#C5" style="font-size:20px"><span style="color:blue;">இணையவழிக்   கற்றல் 
 </span></a><br/>
 <br/>
-<h4 id="C1"><span style="font-size:30px;color:purple;">அறிமுகம்
+<h4 id="C1"><span style="font-size:30px;color:purple;">தாய்மொழியின் இலக்கு
  </span></h4>
  <p style="text-align:justify;">வருங்காலச் சிங்கப்பூர்த் தமிழ்ச் சந்ததியினரிடையே தமிழ் வாழும் மொழியாகத் திகழ வேண்டும். பலவகைப் பண்பாட்டுப் பாரம்பரியத்தைக் கொண்டு உலக நகராக விளங்கும் சிங்கப்பூரின் தனித்தன்மைக்கு வலுவூட்டும் அம்சமாக அது விளங்க வேண்டும்.
 </p>
@@ -193,45 +193,12 @@ margin-left:25px;
   <h4><span style="font-size:30px;color:purple;">பாடத்திட்டப் பணிச்சட்டம்</span></h4>
     <img src="/tlmoe/tl-preU04.png"><br/>
  
- <h4><span style="font-size:30px;color:purple;">வழிகாட்டும் கோட்பாடுகள்  
- </span></h4>
- <table style="width:100%">
- <tr>
- <td>
-     <p style="text-align:justify;">பலதரப்பட்ட மாணவர்களின் தேவைகளை நிறைவு செய்யும் வகையிலும் நெகிழ்வுத்தன்மை மிக்கதாகவும் பல்கலைக்கழகப் புகுமுகநிலைப் பாடக்கலைத்திட்டம் அமைந்துள்ளது. மாணவர்கள் தமிழைச்  சிரமமின்றிக் கற்கவும் தமிழின்பால் ஆர்வங்கொள்ளவும் இப்பாடக்கலைத்திட்டம் வழிவகுக்கிறது. பள்ளியில் மட்டுமன்றிப் பள்ளிக்கு அப்பாலும் தமிழ்மொழியின் புழக்கத்தை அதிகரித்துச் சிங்கப்பூரில் தமிழை வாழும் மொழியாக நிலைத்திருக்கச் செய்யவும் இது உறுதுணைபுரியும். தமிழ்மொழி கற்றல் பயன்முனைப்புமிக்கதாக அமையப் பெறவேண்டுமாயின் உயிரோட்டமிக்க வகுப்பறைச் சூழலை உருவாக்கி ஆர்வமூட்டும் வகையில் கற்பித்தல் நிகழ்த்தப்பட வேண்டும்.
-</p></td>
-    <td><img src="/images/TL-PreU-Intro.jpg"></td>
-    </tr>
-</table>
   <br/>
 <img src="/images/TL-PreU-Curriculum.jpg">
 <br/>
-<a href="https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/mother-tongue-languages/files/2020-h1-tamil-language-tamil-language-b-syllabus.pdf" target="_blank"><span style="font-size:22px;">2020 H1 Tamil Language & Tamil Language ‘B’ Syllabus</span>
- </a><br/>
- <a href="#" target="_blank"><span style="font-size:22px;">2020 H1 Tamil Language & Tamil Language ‘B’ Syllabus (PDF)</span>
-</a><br/>
- <a href="#" target="_blank"><span style="font-size:22px;">H2& H3 Tamil Language & Literature Syllabus (PDF )</span>
-</a><br/>
 <h4><span style="font-size:30px;color:purple;">பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2 & உயர்தரம் 3 பாடத்திட்ட வெளியீடு
  </span></h4>
- <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OHI3rlQR2vU" class="iframe1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size=20px;">பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2 & உயர்தரம் 3 பாடத்திட்ட வெளியீடு   
-</span></center>
 <br/>
- <h4><span style="font-size:30px;color:purple;">நோக்கங்கள்</span></h4>
- <table style="width:100%">
-  <tr>
- <td>
-     <p style="text-align:justify;">மாணவர்களைத் தமிழ்மொழியில் ஆற்றல் மிக்கவர்களாக உருவாக்குவது
-<br/><br/>
-      தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வை வளர்ப்பது
-<br/><br/>
-      மாணவர்களை இருமொழியாற்றல் மிக்கவர்களாக உருவாக்குவது
-</p></td>
-    <td><img src="/images/TLL-text-cover.gif"></td>
-    </tr>
-</table>
-  <br/>
 <p>
 <a href="/Gallery/Recommended-reading-of-H2TLL.pdf" target="_blank">Interesting facts about Poets & Writers</a><br/>
 <a href="/Gallery/H2TLL-Recommended-Text.pdf" target="_blank">A sneak preview of Recommended Text for H2 TLL</a><br/>
