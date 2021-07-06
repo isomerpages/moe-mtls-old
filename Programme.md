@@ -1,5 +1,5 @@
 ---
-title: Programme
+title: Live Sessions
 permalink: /Programme/
 breadcrumb: Programme
 
