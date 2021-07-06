@@ -52,7 +52,7 @@ margin-left:25px;
 </span></a><br/>
  <a href="#C3" style="font-size:20px"><span style="color:blue;">பெற்றோர் பங்கு 
 </span></a><br/><br/>
-<h4 id="C1"><span style="font-size:30px;color:purple;">தொடக்கப்பள்ளிப் 
+<h4 id="C1"><span style="font-size:30px;color:purple;">தொடக்கப்பள்ளிப் பாடக்கலைத்திட்டம்
 </span></h4>
  <img src="/images/MOE-Curriculum-TL-Primary-Image-1.jpg">
  <br/>
@@ -92,7 +92,7 @@ margin-left:25px;
     
 </td>
     <td style="text-align: left;padding: 8px;width:33.33%;">
-     Pending image
+    <img src="/tlmoe/tl-prisch09.jpeg">
  </td>
      </tr>
      </table>
@@ -110,14 +110,12 @@ margin-left:25px;
 </table>
 <img src="/images/MOE-Curriculum-TL-Primary-Image-3.jpg">
 <br/>
-<img src="/images/MOE-Curriculum-TL-Primary-Image-4.jpg">
+
  <p style="font-size:25px; color:purple;" >ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் </p> <br/>
 
 <img src="/images/MOE-Curriculum-TL-Primary-Image-5.jpg"><br/>
 <img src="/images/MOE-Curriculum-TL-Primary-Image-6.jpg"><br/>
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7bDcJCHpYHM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
+
 <br/>
 <h4 id="C2"><span style="font-size:30px; color:purple;">இல்லம் சார்ந்த கற்றலுக்கு உதவும் தகவல் தொடர்புத் தொழில்நுட்பம் 
 
