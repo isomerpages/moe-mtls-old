@@ -1,9 +1,9 @@
 ---
 title: 'Overview'
-permalink: /Exhibits/Gallery-Overview/
+permalink: /Gallery/Gallery-Overview/
 breadcrumb: 'Gallery Overview'
 published: false
-collection_name: Exhibits
+collection_name: Gallery
 
 ---
 ###  	Overview
