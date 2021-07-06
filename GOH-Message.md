@@ -1,5 +1,5 @@
 ---
-title: GOH Message
+title: Opening Ceremony
 permalink: /GOH-Message/
 breadcrumb: GOH Message
 --- 
