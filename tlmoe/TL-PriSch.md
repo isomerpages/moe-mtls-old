@@ -92,7 +92,7 @@ margin-left:25px;
     
 </td>
     <td style="text-align: left;padding: 8px;width:33.33%;">
-    <img src="/tlmoe/tl-prisch09.jpeg">
+    <img src="/tlmoe/tl-prisch09.jpeg" style=" margin-top: 141px;">
  </td>
      </tr>
      </table>
@@ -134,10 +134,8 @@ margin-left:25px;
       <img src="/tlmoe/tl-prisch08.png" style="width: 20%; margin-left: 10px;"><br/>
     <a href="https://online.anyflip.com/cqrzz/lsou/index.html" target="_blank">Flip Book</a>
 </p></td>
-  <td><img src="/images/TL-Pri_Right-Update1.png"><br/>
-   <img src="/images/TL-Pri-Right-Update2.png"><br/>
-   <img src="/images/TL-Pri-Right-Update3.png">
-   </td>
+  <td><img src="/tlmoe/tl-prisch10.jpeg"><br/>
+  </td>
  </tr>
  </table>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
