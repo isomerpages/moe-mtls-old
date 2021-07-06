@@ -219,7 +219,7 @@ margin-left:25px;
  <table style="border-collapse: collapse;width: 100%;border:0;">
   <tr>
     <td style="  border: 0; text-align: left; padding: 8px;">
-  Image pending
+ <img src="/tlmoe/tl-preU37.jpeg">
    </td>
     <td style="  border: 0; text-align: left; padding: 8px;">
       <img src="/tlmoe/tl-preU06.png" style="width: 47%; margin-left: -28px; width:50%;"><br/>
