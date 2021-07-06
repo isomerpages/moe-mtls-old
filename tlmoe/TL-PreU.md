@@ -191,7 +191,7 @@ margin-left:25px;
 </table>
  <br/>
   <h4><span style="font-size:30px;color:purple;">பாடத்திட்டப் பணிச்சட்டம்</span></h4>
-    <img src="/tlmoe/tl-preU04.png"><br/>
+    <img src="/tlmoe/tl-preU04.jpeg"><br/>
  
   <br/>
 <img src="/images/TL-PreU-Curriculum.jpg">
