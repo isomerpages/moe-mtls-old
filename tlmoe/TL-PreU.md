@@ -218,13 +218,14 @@ margin-left:25px;
  <h4><span style="font-size:30px;color:purple;">புதிதாக அறிமுகம் கண்ட இலக்கியங்கள் </span></h4>
  <table style="border-collapse: collapse;width: 100%;border:0;">
   <tr>
-    <td style="  border: 0; text-align: left; padding: 8px;">
+    <td style="  border: 0; text-align: left; padding: 8px;width:50%;">
  <img src="/tlmoe/tl-preU37.jpeg">
    </td>
-    <td style="  border: 0; text-align: left; padding: 8px;">
+    <td style=" border: 0; text-align: left; padding: 8px;">
+     <div class="v1" style="padding: 3px;">
       <img src="/tlmoe/tl-preU06.png" style="width: 47%; margin-left: -28px; width:50%;"><br/>
        <img src="/tlmoe/tl-preU07.png" style="margin-top: -166px; margin-left: 135px;width: 50%; transform: rotate(18deg);"><br/>
-        <img src="/tlmoe/tl-preU08.png" style="margin-top: -163px; margin-left: -3px;width:50%;">
+        <img src="/tlmoe/tl-preU08.png" style="margin-top: -163px; margin-left: -3px;width:50%;"></div>
     </td>
 </tr>
 </table>
@@ -415,7 +416,7 @@ August 12 2020
   </ul>
   <img src="/images/TL-PreU-Signature-Activities.jpg"><br/>
  <br/>
-  <p> Image Pending</p>
+<img src="/tlmoe/tl-preU38.jpeg">
   <br/>
    <h4><span style="font-size:30px;color:purple;">கல்வி அமைச்சு வழிநடத்தும் நடவடிக்கைகள்
 </span></h4>
@@ -436,10 +437,10 @@ August 12 2020
 <td style=" border: 0;text-align: left;padding: 8px;">Pending video</td>
 </tr>
 </table>
-  <p style="text-align:justify;"><strong>ஒலி 96.8 வானொலி படைப்பாளர் திரு முகமது ரஃபியுடன் ஒரு சந்திப்பு</strong>
-   <br/>
-   Image Pending
-</p>
+  <p style="text-align:justify;"><strong>ஒலி 96.8 வானொலி படைப்பாளர் திரு முகமது ரஃபியுடன் ஒரு சந்திப்பு</strong></p>
+
+   <img src="/tlmoe/tl-preU39.jpeg">
+<br/>
    <p style="text-align:justify;"> <strong>ஏ.கே.டி கலைக்குழு நடத்திய பாரம்பரிய இசைப் பகிர்வில் பறையிசையைப் பற்றி மாணவர்கள் அறிந்துகொண்டார்கள்.</strong>
 </p>
   <table style="border-collapse: collapse;
@@ -449,15 +450,15 @@ August 12 2020
 <img src="/tlmoe/tl-preU27.png">
 </td>
  <td style=" border: 0;text-align: left;padding: 8px;">
-    image pending
+ <img src="/tlmoe/tl-preU40.jpeg">
     </td>
  </tr>
 </table>
   <br/>
   <p style="text-align:justify;"> <strong>சிங்கை நாடகக் கலைஞர்களுள் மூத்த நாடக்கலைஞராக விளங்கும் திரு மதியழகன் வழிநடத்த மாணவர்கள் நாடகக்கலை, கதை வசனம் முதலான முக்கியச் செய்திகளைக் கற்றறிந்தனர்.
-</strong><br/>
-   Image Pending
-</p>
+</strong></p>
+ <img src="/tlmoe/tl-preU41.jpeg">
+<br/>
   <p style="text-align:justify;"> <strong>தமிழ்மொழி விருப்பப்பாடத் திட்டத்தில் பங்கெடுக்கும் மாணவர்களிடம் நடத்தப்பட்ட கருத்துக்களம். 
 மாணவர்கள் தங்கள் கருத்துகளையும் பரிந்துரைகளையும் முன்வைத்தனர்.
 </strong></p>
