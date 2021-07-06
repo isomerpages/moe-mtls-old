@@ -113,7 +113,7 @@ margin-left:25px;
 <a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" class="btn" style="float:right;">Previous</a><br/>
 <img src="/images/TL-PreU-Header.jpg">
 <p>
-<a href="#C1" style="font-size:20px"><span style="color:blue;">அறிமுகம்
+<a href="#C1" style="font-size:20px"><span style="color:blue;">தாய்மொழியின் இலக்கு
  </span></a><br/> 
 <a href="#C2" style="font-size:20px"><span style="color:blue;">இலக்கியம்
 </span></a><br/>
@@ -160,7 +160,7 @@ margin-left:25px;
     <td style="text-align: left;padding: 8px;border:0;">உயர்தரம் 1 
 பரந்துபட்ட மூன்று கருப்பொருள்கள் 
 <br/><br/>
-    <img src="/tlmoe/tl-preU02.png" style="width: 50%;"></td>
+    <img src="/tlmoe/tl-preU02.jpeg" style="width: 50%;"></td>
     <td style="text-align: left;padding: 8px;border:0;">
     உயர்தரம் 2 & 3 
 பரந்துபட்ட மூன்று கருப்பொருள்கள் 
