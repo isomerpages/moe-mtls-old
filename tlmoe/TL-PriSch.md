@@ -18,6 +18,19 @@ td{
   padding: 8px;
   width:60%;
 }
+  a.btn:hover, a.btn:active 
+{background: lightgrey;
+border-radius: 12px;}
+
+.btn {
+padding-top: 10px !important;
+padding-right: 23px !important;
+padding-bottom: 10px !important;
+padding-left: 23px !important;
+margin-left:25px;
+}
+ 
+ 
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -28,7 +41,9 @@ td{
 
   gtag('config', 'AW-726049306');
 </script>
-<a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" style="float:right;">Back</a><br/>
+<a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Previous</a>
+ <a href="/tlmoe/tl-sec/" class="btn" style="float:right;">Next</a>
+ <br/>
 <img src="/images/TL-Pri-Header.jpg">
 <p>
 <a href="#C1" style="font-size:20px"><span style="color:blue;">கல்வி அமைச்சின் தொடக்கப்பள்ளிப் பாடக்கலைத்திட்டம் 
