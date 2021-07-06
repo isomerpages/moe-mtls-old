@@ -80,6 +80,17 @@ width:100%;
     display: flex;
     height: 5%;
 }
+  a.btn:hover, a.btn:active 
+{background: lightgrey;
+border-radius: 12px;}
+
+.btn {
+padding-top: 10px !important;
+padding-right: 23px !important;
+padding-bottom: 10px !important;
+padding-left: 23px !important;
+margin-left:25px;
+}
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -90,7 +101,8 @@ width:100%;
 
   gtag('config', 'AW-726049306');
 </script>
-<a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-b/moe-curriculum/" style="float:right;">Back</a><br/>
+<a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-b/moe-curriculum/" class="btn" style="float:right;">Previous</a>
+   <a href="/mlmoe/ml-sec/"  class="btn" style="float:right;">Next</a><br/>
 <img src="/images/ML-Pri-Header.jpg">
 <p>
  <a href="#C1" style="font-size:20px"><span style="color:blue;font-family:Calibri">Bahan Pengajaran dan Pembelajaran</span></a><br/>
