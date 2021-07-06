@@ -26,6 +26,17 @@ width:80%;
 margin-top:200px;
 margin-bottom:10px;
 }
+  a.btn:hover, a.btn:active 
+{background: lightgrey;
+border-radius: 12px;}
+
+.btn {
+padding-top: 10px !important;
+padding-right: 23px !important;
+padding-bottom: 10px !important;
+padding-left: 23px !important;
+margin-left:25px;
+}
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -36,7 +47,9 @@ margin-bottom:10px;
 
   gtag('config', 'AW-726049306');
 </script>
-<a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" style="float:right;">Back</a><br/>
+<a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Previous</a>
+ <a href="/tlmoe/tl-prisch/" class="btn" style="float:right;">Next</a>
+ <br/>
 <img src="/images/TL-PreSch-Header.jpg">
 <p>
 <a href="#C1" style="font-size:18px"><span style="color:blue;text-align:justify;">தாய்மொழிகளுக்கான இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டம்
