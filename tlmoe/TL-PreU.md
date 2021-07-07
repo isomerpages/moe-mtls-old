@@ -196,17 +196,7 @@ margin-left:25px;
   <br/>
 <img src="/images/TL-PreU-Curriculum.jpg">
 <br/>
-<h4><span style="font-size:30px;color:purple;">பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2 & உயர்தரம் 3 பாடத்திட்ட வெளியீடு
- </span></h4>
-<br/>
-<p>
-<a href="/Gallery/Recommended-reading-of-H2TLL.pdf" target="_blank">Interesting facts about Poets & Writers</a><br/>
-<a href="/Gallery/H2TLL-Recommended-Text.pdf" target="_blank">A sneak preview of Recommended Text for H2 TLL</a><br/>
-<a href="/tlmoe/H2 &H3 TLL Launch 2020 slides.pdf" target="_blank">H2 & H3 TLL Launch 2020 slides</a><br/>
- <br/>
-<h4 style="color:purple;">உயர்தரம் 3  மாணவர் பகிர்வு</h4>
-<a href="/tlmoe/H3-TLL-EJC-Student-Sharing.pdf" target="_blank" style="font-size:20px;">EJC Student’s Sharing at Tamil Toastmaster Club</a>
- </p>
+
  <h4 id="C2"><span style="font-size:30px;color:purple;">இலக்கியம்</span></h4>
    <p>மகிழ்வூட்டும் இலக்கிய வகுப்பு</p>
  
@@ -443,18 +433,9 @@ August 12 2020
 <br/>
    <p style="text-align:justify;"> <strong>ஏ.கே.டி கலைக்குழு நடத்திய பாரம்பரிய இசைப் பகிர்வில் பறையிசையைப் பற்றி மாணவர்கள் அறிந்துகொண்டார்கள்.</strong>
 </p>
-  <table style="border-collapse: collapse;
-  width: 100%; border:0;">
-  <tr>
-<td style=" border: 0;text-align: left;padding: 8px;">
-<img src="/tlmoe/tl-preU27.png">
-</td>
- <td style=" border: 0;text-align: left;padding: 8px;">
- <img src="/tlmoe/tl-preU40.jpeg">
-    </td>
- </tr>
-</table>
-  <br/>
+  
+<img src="/tlmoe/tl-preUnew.jpeg">
+<br/>
   <p style="text-align:justify;"> <strong>சிங்கை நாடகக் கலைஞர்களுள் மூத்த நாடக்கலைஞராக விளங்கும் திரு மதியழகன் வழிநடத்த மாணவர்கள் நாடகக்கலை, கதை வசனம் முதலான முக்கியச் செய்திகளைக் கற்றறிந்தனர்.
 </strong></p>
  <img src="/tlmoe/tl-preU41.jpeg">
