@@ -7,7 +7,7 @@ breadcrumb: '学前教育'
 <body>
 <style>
   table {
-  font-family: arial, sans-serif;
+  font-family: KaiTi;
   border-collapse: collapse;
   width: 100%;
 }
@@ -103,10 +103,7 @@ margin-left:25px;
 </script>
 <a href="/gallery/华文学习展示区-chinese-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Prevoius</a>
   <a href="/clmoe/小学/" class="btn" style="float:right;">Next</a><br/>
-  
-  
-  
-<img src="/images/CL-Presch-Header.jpg">
+  <img src="/images/CL-Presch-Header.jpg">
 <p style="font-size:30px;font-family:KaiTi" ><h4 style="font-size:30px;font-family:KaiTi;">教育部幼儿园 
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">繁星语文课程</span></a>
  <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:KaiTi">大图书共享阅读</span></a>
@@ -119,14 +116,14 @@ margin-left:25px;
 </p>
   <h4 style="font-size:30px;font-family:KaiTi;">教育部幼儿园课程
 </h4>
-<p style="font-size:25px;font-family:KaiTi" >教育部幼儿园的课程是由教育部课程专科督导设计与开发的，并以《培育幼儿：学前母语课程框架》为依据，指引新加坡幼儿园的课程发展。<br/><br/>
+<p style="font-size:25px;font-family:KaiTi;" >教育部幼儿园的课程是由教育部课程专科督导设计与开发的，并以《培育幼儿：学前母语课程框架》为依据，指引新加坡幼儿园的课程发展。<br/><br/>
 在教育部幼儿园，幼儿将通过HI-Light和繁星语文两个旗舰课程体验丰富多彩的学习旅程。<br/><br/></p>
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QXvV21a-TqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi">教育部幼儿园里的一天 </span>
  </center>
   <br/>
      
-<h4 id= "C1"><span style="font-size:35px;font-family:KaiTi ;">繁星语文课程 </span></h4>
+<h4 id= "C1"><span style="font-size:35px;font-family:KaiTi;">繁星语文课程 </span></h4>
 <img src="/images/CL-PreSch-starlight2.jpg">
 <br/>
 
@@ -152,11 +149,11 @@ margin-left:25px;
 </ol>
    <img src="/images/CL-Presch-Textbook.jpg">   
  <center>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/lnlNM2YJcOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi">大图书共享阅读视频</span></center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lnlNM2YJcOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi;">大图书共享阅读视频</span></center>
   <br/>
   <br/><br/>
 <h4 id="C3"><img src="/images/CL-PreSch-Discovery2.jpg"> <br/>
-  <span style="font-size:25px;font-family:KaiTi">欲了解“奥秘探索周计划”的活动点子设计，请阅读相关活动设计:<br/> </span>
+  <span style="font-size:25px;font-family:KaiTi;">欲了解“奥秘探索周计划”的活动点子设计，请阅读相关活动设计:<br/> </span>
   <a href="/clmoe/CL-MTLS-pre-sch-Annex2.pdf" target="_blank" style="font-family:KaiTi">“风”</a><br/>
 <a href="/clmoe/CL-MTLS-pre-sch-Annex3.pdf" target="_blank" style="font-family:KaiTi">“我来做红鸡蛋”</a>
 <h4 id="C4"><span style="font-family:KaiTi;font-size:35px;">居家活动好点子</span></h4>
@@ -181,12 +178,10 @@ margin-left:25px;
   还有很多故事书，一家大小都喜欢。<br/>
   这里有邻里警岗，警察叔叔很友善。<br/><br/>
 </p>
-  <p style="font-size:25px;font-family:KaiTi">你也可使用 <a href="https://www.google.com/earth" target="_blank" style="font-size:25px;font-family:KaiTi">卫星地图影像 </a>，和孩子一起看一看，认识你们家附近有些什么地方和设施.</p>
-
-
-   <h4 style="font-family:KaiTi;font-size:25px;">
+  <p style="font-size:25px;font-family:KaiTi;">你也可使用 <a href="https://www.google.com/earth" target="_blank" style="font-size:25px;font-family:KaiTi">卫星地图影像 </a>，和孩子一起看一看，认识你们家附近有些什么地方和设施.</p>
+<h4 style="font-family:KaiTi;font-size:25px;">
     点子三：小小瑜伽初学者</h4>
-   <p style="font-size:25px;font-family:KaiTi">        
+   <p style="font-size:25px;font-family:KaiTi;">        
 配合第三学段课程主题 —— 我和谁共享这个世界？
 <br/><br/>
   孩子使用身体的部位书空不同的笔画——小至手指、手，大至脚、腰甚至使用全身。你可以根据幼儿的兴趣和能力挑战以下不同的笔画：<br/><br/>
