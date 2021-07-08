@@ -187,6 +187,6 @@ margin-left:25px;
   孩子使用身体的部位书空不同的笔画——小至手指、手，大至脚、腰甚至使用全身。你可以根据幼儿的兴趣和能力挑战以下不同的笔画：<br/><br/>
      <img src="/clmoe/presch1.png">
 </p> 
-  <p style="font-size:25px;font-family:KaiTi">之后，你也可以和孩子对照书空的不同笔画，从周围找与笔画接近的事物。</p>
+  <p style="font-size:25px;font-family:KaiTi;">之后，你也可以和孩子对照书空的不同笔画，从周围找与笔画接近的事物。</p>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
