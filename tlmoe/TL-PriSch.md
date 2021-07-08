@@ -101,7 +101,7 @@ margin-left:25px;
  <img src="/images/MOE-Curriculum-TL-Primary-Image-3.jpg">
  <br/>
     <p style="text-align:left;padding:8px; border:0;">பாடநூல்களில் சொல் விளையாட்டுகள் சேர்க்கப்பட்டுள்ளன. மாணவர்கள் படித்தவற்றைப் புரிந்துகொண்டார்களா என்பதை ஆசிரியர் சோதித்துப் பார்க்க இவ்விளையாட்டுகள் துணைபுரிகின்றன. அதுமட்டுமன்றி சொல் விளையாட்டுகள் மாணவர்களின் புரிந்துணர்வுக்கு ஒரு சவாலாக அமைவதோடு அவற்றைச் செய்து முடிக்கும் மாணவர்களுடைய வெற்றியைக் கொண்டாட வாய்ப்பாகவும் அமைகின்றன. <nr/>
-       <img src="/tlmoe/tl-prisch07.png" style="width: 25%;float: left;">
+       <img src="/tlmoe/tl-prisch07.png" style="width: 14%;float: left;">
 <br/><br/>
 <p style="font-size:25px; color:purple;" >ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் </p> <br/>
 
