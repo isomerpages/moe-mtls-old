@@ -88,50 +88,50 @@ margin-left:25px;
 <tr>
     <td style="text-align:left;padding:8px; width:33.33%;">மாணவர்களுக்குக் கூடுதல் ஆதரவு வழங்க வேண்டும் என்ற நோக்கில் கட்டுரைப் பயிற்சிகளில் ஆர்வமூட்டும் முன்நடவடிக்கைகள் இணைக்கப்பட்டுள்ளன. இவை கட்டுரை எழுதுவதற்குத் தேவையான திறன்களை மாணவர்களிடையே வளர்க்கும் வண்ணம் வடிவமைக்கப்பட்டுள்ளன<br/><br/>
       <img src="/tlmoe/tl-prisch06.png" style="width: 25%; margin-left: 286px;margin-top: -64px;">
-    <img src="/tlmoe/tl-prisch09.jpeg">
-    
-</td>
+      <img src="/tlmoe/image4.png">
+    </td>
     <td style="text-align: left;padding: 8px;width:33.33%;">
-    <img src="/tlmoe/image4.png" style=" margin-top: 201px;">
+   <img src="/tlmoe/tl-prisch09.jpeg" style=" margin-top: 201px;">
  </td>
      </tr>
      </table>
  <br/>
   <p style="font-size:25px;color:purple;">விளையாட்டுவழிக் கற்றலும் வெற்றிக் கொண்டாட்டமும்
 </p>
-<table style="border-collapse: collapse; width: 100%;border:0;">
-<tr>
-<td style="text-align: left;padding: 8px;border:0; width: 20%;">
-     <img src="/tlmoe/tl-prisch07.png">
-    </td>
-    <td style="text-align:left;padding:8px; border:0;">மாபாடநூல்களில் சொல் விளையாட்டுகள் சேர்க்கப்பட்டுள்ளன. மாணவர்கள் படித்தவற்றைப் புரிந்துகொண்டார்களா என்பதை ஆசிரியர் சோதித்துப் பார்க்க இவ்விளையாட்டுகள் துணைபுரிகின்றன. அதுமட்டுமன்றி சொல் விளையாட்டுகள் மாணவர்களின் புரிந்துணர்வுக்கு ஒரு சவாலாக அமைவதோடு அவற்றைச் செய்து முடிக்கும் மாணவர்களுடைய வெற்றியைக் கொண்டாட வாய்ப்பாகவும் அமைகின்றன. 
-</td>
- </tr>
-</table>
-<img src="/images/MOE-Curriculum-TL-Primary-Image-3.jpg">
+ <img src="/images/MOE-Curriculum-TL-Primary-Image-3.jpg">
+ <br/>
+    <p style="text-align:left;padding:8px; border:0;">பாடநூல்களில் சொல் விளையாட்டுகள் சேர்க்கப்பட்டுள்ளன. மாணவர்கள் படித்தவற்றைப் புரிந்துகொண்டார்களா என்பதை ஆசிரியர் சோதித்துப் பார்க்க இவ்விளையாட்டுகள் துணைபுரிகின்றன. அதுமட்டுமன்றி சொல் விளையாட்டுகள் மாணவர்களின் புரிந்துணர்வுக்கு ஒரு சவாலாக அமைவதோடு அவற்றைச் செய்து முடிக்கும் மாணவர்களுடைய வெற்றியைக் கொண்டாட வாய்ப்பாகவும் அமைகின்றன. <nr/>
+       <img src="/tlmoe/tl-prisch07.png">
 <br/>
-
- <p style="font-size:25px; color:purple;" >ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் </p> <br/>
+<p style="font-size:25px; color:purple;" >ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் </p> <br/>
 
 <img src="/tlmoe/image2.png"><br/>
-<img src="/tlmoe/image3.png"><br/>
-
+<table style="border-collapse: collapse;
+  width: 100%;">
+  
+  <tr>
+    <td style=" border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;"><p style="text-align:justify;">மாணவர்கள் பாடப்பகுதிகளைப் படித்துக் கருத்துணர உதவும் வகையில் பற்பல உத்திகள் கற்பிக்கப்படுகின்றன. இவை மாணவர்கள் பகுதிகளைப் பொருளுணர்ந்து படித்துப் புரிந்துகொண்டு வினாக்களுக்கு விடையளிக்க உதவுகின்றன.</p><br/><img src="/tlmoe/image3.png"><br/>
+  <img src="/tlmoe/image3(3).png"></td>
+    <td style=" border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;">
+  <img src="/tlmoe/image3(2).png"></td>
+    </tr>
+ </table>
 <br/>
 <h4 id="C2"><span style="font-size:30px; color:purple;">இல்லம் சார்ந்த கற்றலுக்கு உதவும் தகவல் தொடர்புத் தொழில்நுட்பம் 
-
- </span></h4>
+</span></h4>
  <p style="text-align:justify;">மாணவர்களின் ஆர்வத்தைத் தூண்டி  அவர்களது கற்றல் அனுபவத்தை மேம்படுத்தத் தமிழ்மொழி கற்பித்தலில் தகவல் தொடர்புத் தொழில்நுட்பம் பயன்படுத்தப்படுகிறது. மாணவர்கள் இல்லம் சார்ந்த கற்றலில் ஈடுபட்டுத் தொடர்ந்து கற்கவும் தகவல் தொடர்புத் தொழில்நுட்பம் துணைபுரிகிறது.  
 
 </p>
 <img src="/tlmoe/image5.png">
-<a href="http://www.mtl.moe.edu.sg/theenthamizh" target="_blank">Tamil Primary Online Learning Resource</a>
 <h4 id="C3"><span style="font-size:30px; color:purple;">பெற்றோர் பங்கு </span></h4>
- <img src="/tlmoe/image6.png" style="margin-top: 47px;"><br/>
+
     <p style="text-align:justify;">நம் பிள்ளைகள் தமிழ்மொழியை ஆர்வத்துடன் கற்றுத் திறம்படப் பயன்படுத்துவதற்குப் பலருடைய முயற்சி தேவைப்படுகிறது. குடும்ப உறுப்பினர்களே பிள்ளைகளின் கற்றலுக்கு முதல் வித்திடுகிறார்கள். ஆசிரியர்களின் பொறுமைமிகுந்த வழிகாட்டுதல் இருந்தபோதிலும் பெற்றோரின் ஆதரவும் முக்கியமாகிறது. பிள்ளைகளை ஊக்கப்படுத்திக் கற்றலில் ஈடுபடுத்துவதில் பெற்றோர்கள் முக்கியப் பங்காற்றுகிறார்கள்.<br/><br/>
      எனவே, பெற்றோர்களுக்கு உதவும் நோக்கில் 2015 தமிழ்மொழிப் பாடக்கலைத்திட்டத்தின் சிறப்பு அம்சங்களையும் கற்றல் வளங்களையும் அறிமுகப்படுத்தும்வகையில் இந்தக் கையேடு தயாரிக்கப்பட்டுள்ளது. தமிழ்மொழியைப் பிள்ளைகள் நன்கு கற்கப் பிள்ளைகளுக்குப் பெற்றோர் எவ்வாறெல்லாம் உதவலாம் என்பதற்கான பரிந்துரைகளும் இக்கையேட்டில் இடம்பெற்றுள்ளன.</p>
       <img src="/tlmoe/tl-prisch08.png" style="width: 20%; margin-left: 10px;"><br/>
+  <img src="/tlmoe/image6.png" style="margin-top: 47px;">
     <a href="https://online.anyflip.com/cqrzz/lsou/index.html" target="_blank">Flip Book</a>
-
-
- 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
