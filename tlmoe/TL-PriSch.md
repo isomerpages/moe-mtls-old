@@ -92,7 +92,7 @@ margin-left:25px;
     
 </td>
     <td style="text-align: left;padding: 8px;width:33.33%;">
-    <img src="/tlmoe/tl-prisch05.png" style=" margin-top: 141px;">
+    <img src="/tlmoe/image4.png" style=" margin-top: 201px;">
  </td>
      </tr>
      </table>
@@ -123,10 +123,10 @@ margin-left:25px;
  <p style="text-align:justify;">மாணவர்களின் ஆர்வத்தைத் தூண்டி  அவர்களது கற்றல் அனுபவத்தை மேம்படுத்தத் தமிழ்மொழி கற்பித்தலில் தகவல் தொடர்புத் தொழில்நுட்பம் பயன்படுத்தப்படுகிறது. மாணவர்கள் இல்லம் சார்ந்த கற்றலில் ஈடுபட்டுத் தொடர்ந்து கற்கவும் தகவல் தொடர்புத் தொழில்நுட்பம் துணைபுரிகிறது.  
 
 </p>
-<img src="/images/MOE-Curriculum-TL-Primary-Image-7a.jpg">
+<img src="/tlmoe/image5.png">
 <a href="http://www.mtl.moe.edu.sg/theenthamizh" target="_blank">Tamil Primary Online Learning Resource</a>
 <h4 id="C3"><span style="font-size:30px; color:purple;">பெற்றோர் பங்கு </span></h4>
- <img src="/tlmoe/tl-prisch10.jpeg" style="margin-top: 47px;"><br/>
+ <img src="/tlmoe/image6.png" style="margin-top: 47px;"><br/>
     <p style="text-align:justify;">நம் பிள்ளைகள் தமிழ்மொழியை ஆர்வத்துடன் கற்றுத் திறம்படப் பயன்படுத்துவதற்குப் பலருடைய முயற்சி தேவைப்படுகிறது. குடும்ப உறுப்பினர்களே பிள்ளைகளின் கற்றலுக்கு முதல் வித்திடுகிறார்கள். ஆசிரியர்களின் பொறுமைமிகுந்த வழிகாட்டுதல் இருந்தபோதிலும் பெற்றோரின் ஆதரவும் முக்கியமாகிறது. பிள்ளைகளை ஊக்கப்படுத்திக் கற்றலில் ஈடுபடுத்துவதில் பெற்றோர்கள் முக்கியப் பங்காற்றுகிறார்கள்.<br/><br/>
      எனவே, பெற்றோர்களுக்கு உதவும் நோக்கில் 2015 தமிழ்மொழிப் பாடக்கலைத்திட்டத்தின் சிறப்பு அம்சங்களையும் கற்றல் வளங்களையும் அறிமுகப்படுத்தும்வகையில் இந்தக் கையேடு தயாரிக்கப்பட்டுள்ளது. தமிழ்மொழியைப் பிள்ளைகள் நன்கு கற்கப் பிள்ளைகளுக்குப் பெற்றோர் எவ்வாறெல்லாம் உதவலாம் என்பதற்கான பரிந்துரைகளும் இக்கையேட்டில் இடம்பெற்றுள்ளன.</p>
       <img src="/tlmoe/tl-prisch08.png" style="width: 20%; margin-left: 10px;"><br/>
