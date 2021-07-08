@@ -101,23 +101,18 @@ margin-left:25px;
  <img src="/images/MOE-Curriculum-TL-Primary-Image-3.jpg">
  <br/>
     <p style="text-align:left;padding:8px; border:0;">பாடநூல்களில் சொல் விளையாட்டுகள் சேர்க்கப்பட்டுள்ளன. மாணவர்கள் படித்தவற்றைப் புரிந்துகொண்டார்களா என்பதை ஆசிரியர் சோதித்துப் பார்க்க இவ்விளையாட்டுகள் துணைபுரிகின்றன. அதுமட்டுமன்றி சொல் விளையாட்டுகள் மாணவர்களின் புரிந்துணர்வுக்கு ஒரு சவாலாக அமைவதோடு அவற்றைச் செய்து முடிக்கும் மாணவர்களுடைய வெற்றியைக் கொண்டாட வாய்ப்பாகவும் அமைகின்றன. <nr/>
-       <img src="/tlmoe/tl-prisch07.png">
-<br/>
+       <img src="/tlmoe/tl-prisch07.png" style="width: 25%;float: left;">
+<br/><br/>
 <p style="font-size:25px; color:purple;" >ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் </p> <br/>
 
 <img src="/tlmoe/image2.png"><br/>
-<table style="border-collapse: collapse;
-  width: 100%;">
-  
+ <h4><span style="font-size:30px; color:purple;">ஈடுபாடுமிகுந்த கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள்</span></h4>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style=" border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;"><p style="text-align:justify;">மாணவர்கள் பாடப்பகுதிகளைப் படித்துக் கருத்துணர உதவும் வகையில் பற்பல உத்திகள் கற்பிக்கப்படுகின்றன. இவை மாணவர்கள் பகுதிகளைப் பொருளுணர்ந்து படித்துப் புரிந்துகொண்டு வினாக்களுக்கு விடையளிக்க உதவுகின்றன.</p><br/><img src="/tlmoe/image3.png"><br/>
-  <img src="/tlmoe/image3(3).png"></td>
-    <td style=" border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;">
-  <img src="/tlmoe/image3(2).png"></td>
+ <td style=" border: 0; text-align: left; padding: 8px;"><p style="text-align:justify;">மாணவர்கள் பாடப்பகுதிகளைப் படித்துக் கருத்துணர உதவும் வகையில் பற்பல உத்திகள் கற்பிக்கப்படுகின்றன. இவை மாணவர்கள் பகுதிகளைப் பொருளுணர்ந்து படித்துப் புரிந்துகொண்டு வினாக்களுக்கு விடையளிக்க உதவுகின்றன.</p><br/><img src="/tlmoe/image3.png"><br/>
+  <img src="/tlmoe/image3(3).png" style="width: 25%;float: left;"></td>
+    <td style=" border:0;text-align: left; padding: 8px;">
+  <img src="/tlmoe/image3(2).png" style="margin-top: 241px;"></td>
     </tr>
  </table>
 <br/>
