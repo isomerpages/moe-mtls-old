@@ -54,11 +54,11 @@ margin-left:25px;
 </span></a><br/><br/>
 <h4 id="C1"><span style="font-size:30px;color:purple;">தொடக்கப்பள்ளிப் பாடக்கலைத்திட்டம்
 </span></h4>
- <img src="/images/MOE-Curriculum-TL-Primary-Image-1.jpg">
+ <img src="/tlmoe/image0.png">
  <br/>
 <br/>
 <p style="font-size:25px;color:purple">மகிழ்வூட்டும் கற்றல்  <br/>
- <img src="/images/MOE-Curriculum-TL-Primary-Image-2.jpg"><br/><br/>
+ <img src="/tlmoe/image1.png"><br/><br/>
 </p>
 
 <p style="font-size:25px; color:purple;">மாணவர்களை மையப்படுத்திய கற்றல் வளங்களும் நடவடிக்கைகளும் <br/></p>
@@ -113,8 +113,8 @@ margin-left:25px;
 
  <p style="font-size:25px; color:purple;" >ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் </p> <br/>
 
-<img src="/images/MOE-Curriculum-TL-Primary-Image-5.jpg"><br/>
-<img src="/images/MOE-Curriculum-TL-Primary-Image-6.jpg"><br/>
+<img src="/tlmoe/image2.png"><br/>
+<img src="/tlmoe/image3.png"><br/>
 
 <br/>
 <h4 id="C2"><span style="font-size:30px; color:purple;">இல்லம் சார்ந்த கற்றலுக்கு உதவும் தகவல் தொடர்புத் தொழில்நுட்பம் 
