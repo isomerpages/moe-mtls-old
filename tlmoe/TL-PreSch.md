@@ -138,7 +138,7 @@ margin-left:25px;
  <h4 id="C2"><span style="font-size:30px;color:purple;">ஸ்டார்லைட் எழுத்தறிவுத் திட்டம்
  </span>
 </h4>
- <h5><span style="color:black;"><strong>கருப்பொருள்கள்</strong></span></h5>
+ <p style="font-size:20px; color:black;"><strong>கருப்பொருள்கள்</strong></p>
  <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
     <label for="tab-5" style="font-family:KaiTi;font-size:22px" class="lbTM">நான் யார்?</label>
