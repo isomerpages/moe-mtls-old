@@ -52,19 +52,19 @@ margin-left:25px;
  <br/>
 <img src="/images/TL-PreSch-Header.jpg">
 <p>
-<a href="#C1" style="font-size:18px"><span style="color:blue;text-align:justify;">தாய்மொழிகளுக்கான இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டம்
+<a href="#C1" style="font-size:18px"><span style="color:blue;text-align:justify;">தாய்மொழிகளுக்கான &nbsp; இளம் &nbsp; மாணவர்களைப் &nbsp; பேணி &nbsp; வளர்க்கும் &nbsp; பணிச்சட்டம்
 
  </span></a><br/>
-<a href="#C2" style="font-size:18px"><span style="color:blue;text-align:justify;">ஸ்டார்லைட் எழுத்தறிவுத் திட்டம்
+<a href="#C2" style="font-size:18px"><span style="color:blue;text-align:justify;">ஸ்டார்லைட் &nbsp; எழுத்தறிவுத் &nbsp; திட்டம்
 
   </span></a><br/>
-<a href="#C3" style="font-size:18px"><span style="color:blue;text-align:justify;">ஆசிரியர் துணையோடு படித்தல்
+<a href="#C3" style="font-size:18px"><span style="color:blue;text-align:justify;">ஆசிரியர் &nbsp; துணையோடு &nbsp; படித்தல்
 
  </span></a><br/>
-<a href="#C4" style="font-size:18px"><span style="color:blue;text-align:justify;"> அதிசய வாரத் திட்டப்பணி
+<a href="#C4" style="font-size:18px"><span style="color:blue;text-align:justify;"> அதிசய &nbsp; வாரத் &nbsp; திட்டப்பணி
 
  </span></a><br/>
-<a href="#C5" style="font-size:18px"><span style="color:blue;text-align:justify;">பெற்றோருக்கான உதவிக்குறிப்புகள்
+<a href="#C5" style="font-size:18px"><span style="color:blue;text-align:justify;">பெற்றோருக்கான &nbsp; உதவிக்குறிப்புகள்
 
 </span></a><br/>
  <p style="text-align:justify;">ஒவ்வொரு பிள்ளைக்கும் வலுவான அடித்தளத்தை அமைத்துத் தருவதே கல்வி அமைச்சின் பாலர் பள்ளியின் தொலைநோக்காகும். கல்வி அமைச்சின் பாலர் பள்ளிப் பாடக்கலைத்திட்டம், இளம் மாணவர்களைப் பேணி வளர்த்தல் பணிச்சட்டத்தை அடிப்படையாகக்கொண்டு, ஸ்டார்லைட் (விண்மீன்) எழுத்தறிவுத் திட்டம் என்னும் முக்கியத் திட்டங்களை உள்ளடக்கியது. ஸ்டார்லைட் எழுத்தறிவுத் திட்டம் ஆங்கிலத்திலும் மூன்று தாய்மொழிகளிலும் வழங்கப்படுகிறது. 
