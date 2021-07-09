@@ -107,7 +107,6 @@ margin-left:25px;
 <img src="/images/ML-PreU-Header3.jpg">
 
 <a href="#C1" style="font-size:20px"><span style="color:blue;">Bahan Pengajaran dan Pembelajaran</span></a><br/>
-<a href="#C2" style="font-size:20px"><span style="color:blue;">Sokongan Ibu Bapa</span></a><br/>
 
 <h4 style="color:green;font-size:30px;">Matlamat Pendidikan Prauniversiti </h4>  
  <table style=" border-collapse: collapse; width: 100%;">
@@ -280,7 +279,7 @@ Sila klik pautan-pautan di bawah ini jika ingin informasi selanjutnya.<br/>
 
 <p id="C1" style="font-size:30px;"><strong>Bahan Pengajaran dan Pembelajaran </strong></p>
   <p style="text-align:justify;">
-Berikut adalah video-video pengajaran yang kami sediakan di SLS bagi pembelajaran pelajar dan pengajaran guru.
+Berikut ialah video-video pengajaran yang kami sediakan di SLS bagi pembelajaran pelajar dan pengajaran guru.
 </p>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/qOTg6ZTNYWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">Hubungan Kekeluargaan</span>
 </center>
