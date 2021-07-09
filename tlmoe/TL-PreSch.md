@@ -69,7 +69,7 @@ margin-left:25px;
 </span></a><br/>
  <p style="text-align:justify;">ஒவ்வொரு பிள்ளைக்கும் வலுவான அடித்தளத்தை அமைத்துத் தருவதே கல்வி அமைச்சின் பாலர் பள்ளியின் தொலைநோக்காகும். கல்வி அமைச்சின் பாலர் பள்ளிப் பாடக்கலைத்திட்டம், இளம் மாணவர்களைப் பேணி வளர்த்தல் பணிச்சட்டத்தை அடிப்படையாகக்கொண்டு, ஸ்டார்லைட் (விண்மீன்) எழுத்தறிவுத் திட்டம் என்னும் முக்கியத் திட்டங்களை உள்ளடக்கியது. ஸ்டார்லைட் எழுத்தறிவுத் திட்டம் ஆங்கிலத்திலும் மூன்று தாய்மொழிகளிலும் வழங்கப்படுகிறது. 
 </p>
- <p style="text-align:center;">கல்வி அமைச்சின் பாலர் பள்ளியில் ஒரு நாள்’ என்னும் ஒளிக்காட்சியின் இணைப்பைக் கிளிக் செய்யுங்கள்.
+ <p style="text-align:center;"><strong>கல்வி அமைச்சின் பாலர் பள்ளியில் ஒரு நாள்’ என்னும் ஒளிக்காட்சி. </strong>
 </p>
 
 <center>
@@ -82,18 +82,18 @@ margin-left:25px;
  <table style="width: 100%;">
 <tr>
     <td style="text-align: left; padding: 8px;border:0;width: 33%;">
-    <img src="/tlmoe/tl-presch01.png"></td>
+     <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines " target="_blank"><img src="/tlmoe/tl-presch01.png"></a></td>
     <td style="text-align: left;padding: 8px;border:0;width: 33%;">
-    <img src="/tlmoe/tl-presch02.png"></td>
+     <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines " target="_blank"><img src="/tlmoe/tl-presch02.png"></a></td>
     <td  style="text-align: center;padding: 8px;border:0;width: 33%;">
-    <img src="/tlmoe/tl-presch03.png"></td>
+     <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines " target="_blank"><img src="/tlmoe/tl-presch03.png"></a></td>
     </tr>
 </table>
 <p style="font-size:20px;text-align:justify;">தாய்மொழிகளுக்கான <strong>இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டம்  </strong>தாய்மொழி கற்றலில் பிள்ளைகள் ஆர்வம், ஈடுபாடு, செயல்திறன்மிக்கவர்களாக விளங்குவார்கள் என்னும் நம்பிக்கையின் அடிப்படையில் இயங்குகிறது.
  </p>
 <img src="/images/TL-PreSch-right4.jpg" style="width:80%">
 <br/>
-<p style="font-size:20px;text-align:justify;">இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டத்தின் அடிப்படையில் அமைந்த கற்றல் குறிக்கோள்கள்
+<p style="font-size:20px;text-align:justify;">இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டத்தின் அடிப்படையில் அமைந்த கற்றல் குறிக்கோள்கள்.
 </p>
 <table style="width: 100%;">
 <tr>
@@ -130,7 +130,7 @@ margin-left:25px;
     img pending</td>
 </tr>
 </table>
- <h4><span style="font-size:25px;color:purple;">கல்வி அமைச்சின் பாலர் பள்ளியின் முக்கியத் திட்டங்கள் </span></h4>
+ <h4><span style="font-size:30px;color:purple;">கல்வி அமைச்சின் பாலர் பள்ளியின் முக்கியத் திட்டங்கள் </span></h4>
 <p style="text-align:justify;"><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/hi-light" target="_blank;">ஹை-லைட் திட்டம்</a></p>
 <p  style="text-align:justify;"><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/starlight" target="_blank;">ஸ்டார்லைட் எழுத்தறிவுத் திட்டம்  </a></p>
  <p  style="text-align:justify;">ஸ்டார்லைட் எழுத்தறிவுத் திட்டம் இந்த நான்கு கருப்பொருள்களை மையமாகக்கொண்டு அமைந்துள்ளது
@@ -138,7 +138,7 @@ margin-left:25px;
  <h4 id="C2"><span style="font-size:30px;color:purple;">ஸ்டார்லைட் எழுத்தறிவுத் திட்டம்
  </span>
 </h4>
- <h5>கருப்பொருள்கள்</h5>
+ <h5><span style="color:black;"><strong>கருப்பொருள்கள்</strong></span></h5>
  <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
     <label for="tab-5" style="font-family:KaiTi;font-size:22px" class="lbTM">நான் யார்?</label>
@@ -167,17 +167,18 @@ margin-left:25px;
 </label>
      <div class="tab-content">
      </div></div>
- <p style="font-size:20px;text-align:justify;">மொழி கற்றல் மகிழ்ச்சிமிக்கதாக அமையப் பயன்படும் வளங்கள்:
+ <p style="font-size:20px;text-align:justify;"><strong>மொழி கற்றல் மகிழ்ச்சிமிக்கதாக அமையப் பயன்படும் வளங்கள்:</strong>
 </p>
  <div class="atab">
       <input id="tab-9" type="checkbox" name="tab">
-    <label for="tab-9" style="font-family:KaiTi;font-size:22px" class="lbTM">1. நாசிங்கப்பூர்ச் சூழலில், பிள்ளைகளின் அனுபவத்திற்கு உட்பட்ட நிலையில் எழுதப்பட்டிருக்கும் பெரிய புத்தகங்கள்
+    <label for="tab-9" style="font-family:KaiTi;font-size:22px" class="lbTM">1.சிங்கப்பூர்ச் 
+ சூழலில், பிள்ளைகளின் அனுபவத்திற்கு உட்பட்ட நிலையில் எழுதப்பட்டிருக்கும் பெரிய புத்தகங்கள்
 </label>
      <div class="tab-content">
       <table style="width: 100%;">
 <tr>
     <td style="text-align: left; padding: 8px;border:0;">
-    <p><strong>சகதைநூல்கள் </strong><br/>
+    <p><strong>கமைநூல்கள </strong><br/>
     சிங்கப்பூர்ச் சூழலில், பிள்ளைகளின் அனுபவத்திற்கு உட்பட்ட நிலையில் எழுதப்பட்டிருக்கும் பெரிய புத்தகங்கள்</p>
     
     </td>
@@ -221,7 +222,8 @@ margin-left:25px;
 
 </label>
      <div class="tab-content">
-<p style="text-align:justify;">பாவிளையாட்டு <br/>அட்டைகள்</p>
+      <p style="text-align:justify;"><strong>விமையாட்டு அட்மைகள்</strong>
+</p>
     <table style="width: 100%;">
 <tr>
 <td style="text-align: left;padding: 8px;border:0;">
@@ -241,7 +243,7 @@ margin-left:25px;
 
 </label>
      <div class="tab-content">
-      <p style="text-align:justify;">நடவடிக்கைத் தாள்கள்
+      <p style="text-align:justify;"><strong>நடவடிக்கைத் தாள்கள்</strong>
  <br/>குடும்ப உறுப்பினர்களும் பிள்ளையின் கற்றலில் ஈடுபடும்வண்ணம் அவர்களுடன் இணைந்து செய்யக்கூடிய நடவடிக்கைகள் 
 </p>
     <table style="width: 100%;">
@@ -279,7 +281,8 @@ margin-left:25px;
          </tr>
  </table>
  <br/>
- <p style="font-size:20px;text-align:justify">‘ஆசிரியர் துணையோடு வாசித்தல் அணுகுமுறை’ என்னும் ஒளிக்காட்சியின் இணைப்பைக் கிளிக் செய்யுங்கள்.</p>
+ <p style="font-size:20px;text-align:justify"><strong>‘ஆசிரியர் துமையயாடு வாசித்ைல் அணுகுமுமை’ என்னும் ஒளிக்காட்ச</strong>
+</p>
   <center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/RfP2dGBTlQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br/><span style="font-size:18px;">Shared Book Approach
