@@ -118,7 +118,7 @@ margin-left:25px;
 </span></a><br/>
  <a href="#C2" style="font-size:20px"><span style="color:blue;font-family:Calibri">Sokongan Ibu Bapa
 </span></a><br/>
-<p style="font-size:30px;"><strong>TUJUAN KURIKULUM SEKOLAH MENENGAN</strong></p>
+<p style="font-size:30px;"><strong>TUJUAN KURIKULUM SEKOLAH MENENGAH</strong></p>
   <p style="font-size:25px;">MEMUPUK PELAJAR  AKTIF DAN PENGGUNA CEKAP<br/>
 (Pembelajaran yang Menyeronokkan)
 </p>
