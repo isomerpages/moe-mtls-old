@@ -37,7 +37,7 @@ collections:
         output: true
        
 resources_name: resource-room
-favicon: /images/emtls-2020-logo-01-favicon.ico
+favicon: /images/MTLS21-Favicon-Logo.ico
 google_analytics: UA-175313072-2
 facebook-pixel: 404827880132568
 is_government: false
