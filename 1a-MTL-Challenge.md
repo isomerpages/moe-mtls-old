@@ -1,7 +1,7 @@
 ---
 title: 'MTL Challenge'
-permalink: /MTL-Challenge-sl/
-breadcrumb: 'MTL Challenge-sl'
+permalink: /Others/MTL-Challenge/
+breadcrumb: 'MTL Challenge'
 ---
 
 <html>
