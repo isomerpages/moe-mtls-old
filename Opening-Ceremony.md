@@ -1,7 +1,7 @@
 ---
 title: Opening Ceremony
-permalink: /Opening Ceremony sl/
-breadcrumb: Opening Ceremony sl
+permalink: /Opening Ceremony/
+breadcrumb: Opening Ceremony
 ---
 ### Opening Ceremony
 <html>
