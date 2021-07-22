@@ -1,7 +1,7 @@
 ---
 title: 'MTL Challenge'
-permalink: /Others/MTL-Challenge-sl/
-breadcrumb: 'MTL Challenge-sl'
+permalink: /Others/MTL-Challenge/
+breadcrumb: 'MTL Challenge'
 collection_name: Others
 ---
 
