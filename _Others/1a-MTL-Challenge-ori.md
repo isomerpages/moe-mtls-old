@@ -2,7 +2,6 @@
 title: 'MTL Challenge'
 permalink: /Others/MTL-Challenge-ori/
 breadcrumb: 'MTL Challenge-ori'
-collection_name: Others
 ---
 
 <html>
