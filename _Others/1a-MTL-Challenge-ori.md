@@ -1,6 +1,6 @@
 ---
 title: 'MTL Challenge'
-permalink: /Others/MTL-Challenge-ori/
+permalink: /Others-ori/MTL-Challenge-ori/
 breadcrumb: 'MTL Challenge-ori'
 ---
 
