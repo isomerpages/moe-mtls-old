@@ -3,7 +3,7 @@ title: Opening Ceremony
 permalink: /Opening-Ceremony/
 breadcrumb: Opening Ceremony
 ---
-### Opening Ceremony
+
 <html>
 <body>
 <style>
