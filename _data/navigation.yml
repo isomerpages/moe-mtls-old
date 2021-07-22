@@ -9,10 +9,8 @@ links:
   url: /Live-Sessions/
 - title: Sharing Sessions
   url: /Sharing-Sessions/
-  collection: Sharing-Sessions
 - title: Exhibits
   url: /Exhibits/
-  collection: Gallery
 - title: OPMTL Teacher Award
   url: /OPMTL-AWARD-2020/
 - title: Online Quest
@@ -22,7 +20,3 @@ links:
   sublinks:
   - title: MTL Challenge
     url: /Others/MTL-Challenge/
-  - title: Online Quest
-    url: /Others/Online-Quest/
-  - title: Sales Booth
-    url: /Sales-Booth/
