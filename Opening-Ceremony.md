@@ -1,6 +1,6 @@
 ---
 title: Opening Ceremony
-permalink: /Opening Ceremony/
+permalink: /Opening-Ceremony/
 breadcrumb: Opening Ceremony
 ---
 ### Opening Ceremony
