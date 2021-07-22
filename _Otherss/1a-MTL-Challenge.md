@@ -1,8 +1,8 @@
 ---
 title: 'MTL Challenge'
-permalink: /Others/MTL-Challenge/
+permalink: /Otherss/MTL-Challenge/
 breadcrumb: 'MTL Challenge'
-collection_name: Others
+collection_name: Otherss
 ---
 
 <html>
