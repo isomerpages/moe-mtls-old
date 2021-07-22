@@ -1,6 +1,6 @@
 ---
 title: 'Outstanding Pre-school Mother Tongue Language  Teacher Award'
-permalink: /OPMTL-AWARD-2020-sl/
+permalink: /OPMTL-AWARD-2020/
 breadcrumb: 'OPMTL Teacher Award'
 ---
 
