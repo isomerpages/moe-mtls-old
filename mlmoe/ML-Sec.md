@@ -161,6 +161,7 @@ margin-left:25px;
   <p style="text-align:justify;">
   Keempat-empat ciri utama dalam Kurikulum Bahasa Melayu Sekolah Menengah 2021 menyokong pengajaran dan pembelajaran di dalam bilik darjah. Ciri-ciri ini diserlahkan dalam bahan Pengajaran dan Pembelajaran JATi yang sedang diguna pakai di sekolah menengah bagi kohort menengah satu tahun ini.</p>
 
+  <h4>Sorotan Empat Ciri Utama dalam Kurikulum Bahasa Melayu Sekolah Menengah 2021</h4>
   <img src="/images/ML-Sec_Image1.jpg" style="width:100%;">
   
   <p style="text-align:justify;">Kurikulum Bahasa Melayu Peringkat Sekolah Menengah 2021 menyokong pembelajaran secara kolaboratif untuk menggalakkan pemikiran kritis dan pembelajaran bersama dan daripada satu sama lain</p>
