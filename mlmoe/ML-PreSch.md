@@ -162,14 +162,11 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
        Melalui program ini, kanak-kanak akan membina kemahiran literasi awal melalui kemahiran mendengar dan bertutur.  Kemahiran ini akan membantu bagi membina asas yang kukuh dalam pembelajaran bahasa untuk masa hadapan. <br/>
 
 </p> </div></div>
-<p id="C2" style="font-size:30px;"><strong>PENDEKATAN MEMBACA BERSAMA
-</strong></p>
-  <img src="/images/Picture1.png"> <br/>
-   <img src="/images/Picture2.png"><br/>
-  
-<p style="text-align:justify;">Program Literasi Bintang Kecil dilaksanakan dengan menggunakan pelbagai bahan pembelajaran untuk membina kemahiran bahasa kanak-kanak.<br/>
- Buku besar merupakan bahan utama dalam pengajaran dan pembelajaran bagi setiap unit di Tadika MOE. Guru akan menggunakan Pendekatan Membaca Bersama untuk membacakan cerita. Dengan menggunakan Buku Besar, kanak-kanak dapat melihat gambar dan teks serta mengambil bahagian secara aktif dalam pembacaan. <br/><br/>
 
+  
+  <img src="/images/ML-PRESCHOOL_Image1.jpg"> <br/>
+
+<p style="text-align:justify;">
 Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/resources/bahan-bahan-buku-besar/langkah-pengajaran" target="_blank"> Pendekatan Membaca Bersama (Shared Book Approach) </a> adalah untuk:
 
 <br/>
@@ -186,19 +183,7 @@ Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/resources/bahan-baha
   </p>
   <img src="/images/Picture3.jpg">
   <br/>
-<p style="text-align:justify;">Setiap tahun, kanak-kanak di Tadika MOE akan menyelesaikan Projek MuM, dua dalam Bahasa Inggeris dan dua dalam Bahasa Ibunda. Pada akhir setiap penggal, kanak-kanak akan mendalami perkara yang dipelajari dengan meneroka topik yang menarik perhatian mereka. Kanak-kanak bekerjasama dengan rakan-rakan dan guru mereka untuk menyelesaikan projek tersebut.  <br/><br/>
- Melalui projek MuM, kanak-kanak berasa seronok kerana dapat meneroka untuk mencari jawapan bagi soalan-soalan mereka dan mempelajari sesuatu secara kendiri. Pengalaman ini akan membina keyakinan kanak-kanak dan memupuk kecenderungan mereka terhadap pembelajaran Bahasa Melayu. <br/>
- <br/>
-  Selain itu, pengalaman ini juga akan: <br/>
- <ul>
-<li style="text-align:justify;">menggalakkan kanak-kanak bekerjasama ketika meneroka topik yang diminati mereka;
-</li>
-  <li style="text-align:justify;">membangunkan kemahiran memproses ketika kanak-kanak mengumpulkan maklumat daripada pelbagai sumber dan menyampaikan hasil dapatan mereka; dan 
-</li>
-  <li style="text-align:justify;">menggalakkan kemahiran berkomunikasi ketika kanak-kanak menjalankan projek-projek MuM dalam Bahasa Inggeris dan Bahasa Ibunda mereka.
-</li>
-  </ul>
-  </p>
+
   
 <p>
 Yang berikut merupakan contoh-contoh projek MuM yang terdapat di<a href="https://www.nel.moe.edu.sg/resources/aktiviti-aktiviti-saranan" target="_blank"> Portal NEL.</a><br/>
