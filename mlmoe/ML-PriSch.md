@@ -145,7 +145,7 @@ margin-left:25px;
 </li>
 </p>
 </ul>
-  <img src="/images/MTLS-Malay-PriSch-Malay-Program2.jpg" class="image">  <br/>
+  <img src="/images/ML-PRI_Image1.jpg" class="image">  <br/>
  
  <p id="C1" style="font-size:30px;color:black"><strong>BAHAN 
 PENGAJARAN DAN PEMBELAJARAN
@@ -157,13 +157,13 @@ PENGAJARAN DAN PEMBELAJARAN
       <input id="tab-2" type="checkbox" name="tab">
   <label for="tab-2" class="lbML">- Dekat dengan kehidupan murid </label>
      <div class="tab-content">
-       <img src="/images/MTLS-Malay-PriSch-kehidupan-murid2.jpg">  
+       <img src="/images/ML-PRI_Image2.jpg">  
        </div></div>
        <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
    <label for="tab-3" class="lbML">- Kaya dan pelbagai</label>
      <div class="tab-content">
-       <img src="/images/MTLS-Malay-Pri-Sch-Pelbagai2.jpg">  
+       <img src="/images/ML-PRI_Image3.jpg">  
        </div></div>
        <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
@@ -178,8 +178,8 @@ PENGAJARAN DAN PEMBELAJARAN
        <img src="/images/ML-10.png">  
        </div></div>
       <p id="C2" style="font-size:30px;"><strong>Sokongan Ibu Bapa </strong><br/><br/>
-<img src="/images/MTLS-Malay-PriSch-Role-of-Parents2.jpg"> 
-</p>
+      <img src="/images/ML-PRI_Image4.jpg"> 
+      </p>
   
   
   
