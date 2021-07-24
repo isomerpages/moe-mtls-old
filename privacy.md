@@ -29,5 +29,4 @@ a)	have any enquiries or feedback on our data protection policies and procedures
 b)	need more information on or access to the data which you have provided to us in the past. </p>
 
 
- <img src="images/New_footer.jpg" class="Image" width="1000" height="300">
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
