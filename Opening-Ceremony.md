@@ -43,7 +43,7 @@ width:80% ;
     <td>11.00am – 12.00pm</td>
     <td>
       Live Panel Discussion<br/>
-      Sparking Rich Conversation with Young Children in Mother Tongue Languages
+      'Sparking Rich Conversation with Young Children in Mother Tongue Languages'
     </td>
   </tr>
 </table>
