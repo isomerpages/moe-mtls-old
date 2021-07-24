@@ -58,5 +58,5 @@ b)	resulting from any delay in the operation or transmission, communications fai
 
 c)	the conduct or the views of any person who accesses or uses The Website.
 
- <img src="images/New_footer.jpg" class="Image" width="1000" height="300">
+
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
