@@ -16,41 +16,41 @@ permalink: /terms-of-use/
 
 <h4>Access to The Website</h4>
 
-1.	The accessibility and operation of The Website relies on technologies outside our control. We do not guarantee continued accessibility or uninterrupted operation of The Website.
+5.	The accessibility and operation of The Website relies on technologies outside our control. We do not guarantee continued accessibility or uninterrupted operation of The Website.
 
 <h4>Relying on Information</h4>
 
-1.	The Website is provided for general information only. We do not guarantee the timeliness, accuracy, completeness or reliability of any statements, opinion, representation or other information in The Website. You should do your own checks.
+6.	The Website is provided for general information only. We do not guarantee the timeliness, accuracy, completeness or reliability of any statements, opinion, representation or other information in The Website. You should do your own checks.
 
-2.	The materials located on The Website, including the information as well as software programs available on or through it (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by MTLS.
+7.	The materials located on The Website, including the information as well as software programs available on or through it (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by MTLS.
 
 <h4>Security</h4>
 
-1.	Where appropriate we use available technology to protect the security of communications made through The Website. We do not, however, accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through The Website.
+8.	Where appropriate we use available technology to protect the security of communications made through The Website. We do not, however, accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through The Website.
 
-2.	Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that The Website is free of infection by computer viruses or other unauthorised software.
+9.	Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that The Website is free of infection by computer viruses or other unauthorised software.
 
 <h4>Hyperlinks</h4>
 
-1.	We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from The Website. Access to any other site is at your own risk.
+10.	We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from The Website. Access to any other site is at your own risk.
 
-2.	If you create a link or frame to The Website you do so at your own risk.
+11.	If you create a link or frame to The Website you do so at your own risk.
 
-3.	Private entities who wish to have their websites hyperlinked on The Website can write to The Webmaster at moe_mtls@moe.gov.sg, with their contact details, the Uniform Resource Locator (URL) of the proposed link, a brief write-up of their website’s function, and reasons for wanting to be hyperlinked on The Website.
+12.	Private entities who wish to have their websites hyperlinked on The Website can write to The Webmaster at moe_mtls@moe.gov.sg, with their contact details, the Uniform Resource Locator (URL) of the proposed link, a brief write-up of their website’s function, and reasons for wanting to be hyperlinked on The Website.
 
-4.	We reserve the right to object to, or disable any link or frame to or from The Website.
+13.	We reserve the right to object to, or disable any link or frame to or from The Website.
 
-5.	We reserve the right to change the URL of The Website.
+14.	We reserve the right to change the URL of The Website.
 
 <h4>Intellectual Property</h4>
 
-1.	Materials, including design, source codes, pages, documents and online graphics, audio and video in The Website are protected by law. The intellectual property rights in the materials are owned or licensed to us. All rights reserved (© Ministry of Education, Government of Singapore)
+15.	Materials, including design, source codes, pages, documents and online graphics, audio and video in The Website are protected by law. The intellectual property rights in the materials are owned or licensed to us. All rights reserved (© Ministry of Education, Government of Singapore)
 
-2.	Apart from any fair dealings for the purposes of private study, research, criticism or review, as permitted by law, no part of The Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission. The modification of the materials on The Website is prohibited.
+16.	Apart from any fair dealings for the purposes of private study, research, criticism or review, as permitted by law, no part of The Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission. The modification of the materials on The Website is prohibited.
 
 <h4>Disclaimer of Warranties and Liability</h4>
 
-1.	We will not be liable for any loss or damage:
+17.	We will not be liable for any loss or damage:
 
 a)	that you may incur on account of using, visiting or relying on any statement, opinion, representation or information in The Website;
 
