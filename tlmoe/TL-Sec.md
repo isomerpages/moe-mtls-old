@@ -267,22 +267,28 @@ Image Pending 5</p>
 மாணவர்கள் சரளமாக உரையாடுவதற்கு அவர்களிடம் போதுமான சொல்வளம் இருத்தல் வேண்டும். அதற்குரிய சொல்வளப் பெருக்க நடவடிக்கைகள் உயர்நிலைப் பாடநூல்களில் இணைக்கப்பெற்றுள்ளன. <br/><br/>
 Pending Image 7
 </p>
- <p style="text-align:justify;">சமொழி விளையாட்டு 
-<br/><br/>
-சொல்வளப் பெருக்கம், பேச்சுவழிக் கருத்துப்பரிமாற்றம், எழுத்துவழிக் கருத்துப்பரிமாற்றம் முதலியவற்றுக்கு உதவும் மொழி விளையாட்டுகள் பாடநூல்களில் வழங்கப்படுகின்றன. 
-</p>
+ <p style="text-align:center;"><strong>சமொழி விளையாட்டு </strong></p>
 
-<table style=" border-collapse: collapse; width: 100%;">
-<tr>
-    <td style=" text-align: left;padding: 8px;width:60%;width:33%;">
-    <img src="/tlmoe/tl-sec04.png">
-   </td>
- <td style=" text-align: left;padding: 8px;width:33%;">
-  <img src="/tlmoe/tl-sec05.png">
-    </td>
-    <td style=" text-align: left;padding: 8px;width:33%;">
-  <img src="/tlmoe/tl-sec06.png">
-    </td>
+<table style="  border-collapse: collapse;
+  width: 100%;">
+ 
+  <tr>
+    <td style=" text-align:justify;
+  padding: 8px;font-size:20px;"> சொல்வளப் பெருக்கம், பேச்சுவழிக் கருத்துப்பரிமாற்றம், எழுத்துவழிக் கருத்துப்பரிமாற்றம் முதலியவற்றுக்கு உதவும் </td>
+   <td style="text-align:justify;
+  padding: 8px;font-size:20px;">  மொழி விளையாட்டுகள் பாடநூல்களில் வழங்கப்படுகின்றன.</td>
+ 
+  </tr>
+</table>
+<br/>
+<table style="  border-collapse: collapse;
+  width: 100%;">
+ 
+  <tr>
+  <td><img src="/tlmoe/image01.png" style="width:23%;"></td>
+    <td><img src="/tlmoe/image02.png" style="width:23%;"></td>
+      <td><img src="/tlmoe/image03.png" style="width:23%;"></td>
+        <td><img src="/tlmoe/image04.png" style="width:23%;"></td>
   </tr>
   </table>
  <p style="text-align:justify;">கற்போம்; படைப்போம் – நானும் ஒரு படைப்பாளி 
