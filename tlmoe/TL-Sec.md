@@ -283,12 +283,20 @@ Pending Image 7
 <br/>
 <table style=" border-collapse: collapse; width: 100%;">
 <tr>
-  <td style=" text-align: left;padding: 8px;width:23%;"><img src="/tlmoe/image01.png"></td>
-    <td style=" text-align: left;padding: 8px;width:23%;"><img src="/tlmoe/image02.png" ></td>
-      <td style=" text-align: left;padding: 8px;width:23%;"><img src="/tlmoe/image03.png"></td>
-        <td style=" text-align: left;padding: 8px;width:23%;"><img src="/tlmoe/image04.png" ></td>
+  <td style=" text-align: left;padding: 8px;width:50%;"><img src="/tlmoe/image01.png"></td>
+    <td style=" text-align: left;padding: 8px;width:50%;"><img src="/tlmoe/image02.png" ></td>
+     
   </tr>
   </table>
+     <table style="  border-collapse: collapse;
+  width: 100%;">
+ 
+  <tr>
+      <td style=" text-align: left;padding: 8px;width:50%;"><img src="/tlmoe/image03.png"></td>
+        <td style=" text-align: left;padding: 8px;width:50%;"><img src="/tlmoe/image04.png" ></td>
+    </tr>
+</table>
+<br/>
  <p style="text-align:justify;">கற்போம்; படைப்போம் – நானும் ஒரு படைப்பாளி 
 
 <br/><br/>
