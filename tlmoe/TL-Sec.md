@@ -225,7 +225,7 @@ margin-left:25px;
  
   </tr>
 </table>
-  <img src="/tlmoe/TL-Books.gif">
+  <img src="/tlmoe/TL-Books.gif" style="width: 60%;">
   
      <p style="text-align:justify;"><strong>தகவல் தொடர்புத் தொழில்நுட்பத்தின் கூடுதல் ஒருங்கிணைப்பு
 </strong><br/><br/>
