@@ -112,71 +112,91 @@ margin-left:25px;
 </script>
 <a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" class="btn" style="float:right;">Previous</a><br/>
 <img src="/images/TL-PreU-Header.jpg">
-<p>
-<a href="#C1" style="font-size:20px"><span style="color:blue;">தாய்மொழியின் இலக்கு
- </span></a><br/> 
-<a href="#C2" style="font-size:20px"><span style="color:blue;">இலக்கியம்
-</span></a><br/>
- <a href="#C3" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி &nbsp; விருப்பப்பாடத் &nbsp; திட்டம்
-</span></a><br/>
-<a href="#C4" style="font-size:20px"><span style="color:blue;">பால்மரக்காட்டினிலே &nbsp; - &nbsp; கற்றல் &nbsp; பயணம்
-</span></a><br/>
- <a href="#C5" style="font-size:20px"><span style="color:blue;">இணையவழிக்   கற்றல் 
-</span></a><br/>
+
 <br/>
 <h4 id="C1"><span style="font-size:30px;color:purple;">தாய்மொழியின் இலக்கு
  </span></h4>
- <p style="text-align:justify;">வருங்காலச் சிங்கப்பூர்த் தமிழ்ச் சந்ததியினரிடையே தமிழ் வாழும் மொழியாகத் திகழ வேண்டும். பலவகைப் பண்பாட்டுப் பாரம்பரியத்தைக் கொண்டு உலக நகராக விளங்கும் சிங்கப்பூரின் தனித்தன்மைக்கு வலுவூட்டும் அம்சமாக அது விளங்க வேண்டும்.
-</p>
- <h4><span style="font-size:30px;color:purple;">உயர்தரம் 1 பாடக்கலைத்திட்டத்தின் முக்கிய நோக்கங்கள் </span></h4>
- <p style="text-align:justify;"><strong>மாணவர்கள் </strong></p>
- <ul>
+  <div class="atab">
+      <input id="tab-1" type="checkbox" name="tab">
+    <label for="tab-1" style="font-family:KaiTi;font-size:22px" class="lbTM">உயர்தரம் பாடக்கலைத்திட்டம் முக்கியத் தகவல்கள்
+</label>
+     <div class="tab-content">
+     <h4>உயர்தரம் 1 பாடக்கலைத்திட்டத்தின் முக்கிய நோக்கங்கள்</h4>
+     <p><strong>மாணவர்கள் </strong></p>
+     <table style=" border-collapse: collapse;
+  width: 100%;">
+ <tr>
+    <td style=" text-align: left;
+  padding: 8px;font-size:20px;">
+  <ul>
   <li style="text-align:justify;">தம் தாய்மொழியில் தன்னம்பிக்கையுடன் பேசுவதோடு மொழித்திறன்களையும் மேம்படுத்திக்கொள்வர்.
 </li>
-   <li style="text-align:justify;">மரபு, பண்பாடு, வரலாறு, இலக்கியம் ஆகியவற்றைப் போற்றுவதன்வழி தேசிய, பண்பாட்டு அடையாளத்தைப் புரிந்துகொள்வர்.
+    <li style="text-align:justify;">மரபு, பண்பாடு, வரலாறு, இலக்கியம் ஆகியவற்றைப் போற்றுவதன்வழி தேசிய, பண்பாட்டு அடையாளத்தைப் புரிந்துகொள்வர்.
+
 </li>
-   <li style="text-align:justify;">உலகளாவிய நோக்கில் சிங்கப்பூர் வகிக்கும் இடங்குறித்துத் தெளிவான புரிந்துணர்வைப் பெற்றிருப்பர் 
-</li></ul>
-  <h4><span style="font-size:30px;color:purple;">உயர்தரம் 2 & 3 பாடக்கலைத்திட்டத்தின் முக்கிய நோக்கங்கள்
-</span></h4>
- <p style="text-align:justify;"><strong>மாணவர்களை</strong></p>
- <ul>
+      <li style="text-align:justify;">உலகளாவிய நோக்கில் சிங்கப்பூர் வகிக்கும் இடங்குறித்துத் தெளிவான புரிந்துணர்வைப் பெற்றிருப்பர் 
+</li>
+  </ul></td>
+    <td><img src="/tlmoe/h1-lens.png"><br/><span style="font-size:20px;">உயர்தரம் 1 
+பரந்துபட்ட மூன்று கருப்பொருள்கள் </span>
+</td>
+</tr>
+</table>
+<br/>
+<h4>உயர்தரம் 2 & 3 பாடக்கலைத்திட்டத்தின் முக்கிய நோக்கங்கள்
+</h4>
+<p><strong>மாணவர்களை</strong></p>
+<table style=" border-collapse: collapse;
+  width: 100%;">
+ 
+  <tr>
+    <td style=" text-align: left;
+  padding: 8px;font-size:20px;">
+  <ul>
   <li style="text-align:justify;">மொழித் திறன்களிலும் இலக்கியத் திறன்களிலும் மேம்பட்ட ஆற்றல் பெற்றவர்களாக உருவாக்குதல்
+
+
 </li>
     <li style="text-align:justify;">தமிழ்மொழியின் பண்பாட்டு மூலங்கள், மரபுவழிப் பண்புகள் முதலானவற்றில் ஆழமான புரிந்துணர்வு கொண்டவர்களாக வளர்த்தல்
+
+
 </li>
-    <li style="text-align:justify;">நுண்ணாய்வுச் சிந்தனையும் படைப்பாக்கச் சிந்தனையும் கொண்டவர்களாக உருவாக்குதல்
+      <li style="text-align:justify;">நுண்ணாய்வுச் சிந்தனையும் படைப்பாக்கச் சிந்தனையும் கொண்டவர்களாக உருவாக்குதல்
+
 </li>
- </ul>
- <br/>
- <ul>
-  <li style="text-align:justify;">புகுமுகநிலைப் பாடத்திட்டம் பரந்துபட்ட மூன்று கருப்பொருள்களைக் வழிகாட்டியாகக் கொண்டுள்ளது. 
-</li>
-    <li style="text-align:justify;">மொழிப்பாடங்களிலுள்ள பனுவல்களையும் இலக்கிய பாடங்களிலுள்ள செய்திகளையும் அந்தக் கருப்பொருள்களோடு மாணவர்கள் தொடர்புபடுத்திப் பார்ப்பார்கள். 
-</li>
- </ul>
- <table style="border-collapse: collapse; width: 100%;border:0;">
- <tr>
-    <td style="text-align: left;padding: 8px;border:0;">உயர்தரம் 1 
+  </ul></td>
+    <td><img src="/tlmoe/h2-lens.png"><br/><span style="font-size:20px;">உயர்தரம் 2 & 3 
 பரந்துபட்ட மூன்று கருப்பொருள்கள் 
-<br/><br/>
-    <img src="/tlmoe/tl-preU02.jpeg" style="width: 50%;"></td>
-    <td style="text-align: left;padding: 8px;border:0;">
-    உயர்தரம் 2 & 3 
-பரந்துபட்ட மூன்று கருப்பொருள்கள் 
-<br/><br/>
-    <img src="/tlmoe/tl-preU01.png" style="width: 50%;"></td>
-    </tr>
+</span></td>
+  
+  </tr>
 </table>
-<p style="text-align:justify;">இந்தப் பாடத்திட்டத்தில் 21-ஆம் நூற்றாண்டுத்திறன் சட்டகத்தில் இடம்பெற்றுள்ள  திறன்வளர்ச்சியையும் விழுமியங்களையும் பெற்று அவற்றை முறையே பயன்படுத்தும் ஆற்றலை மாணவர்கள் வளர்த்துக்கொள்வர்.
-</p>
-   <img src="/tlmoe/tl-preU03.png" style="width: 50%;">
- <br/>
- <h4><span style="font-size:30px;color:purple;">உயர்தரம் 2 & 3 தமிழ்மொழிப் பாடத்திற்கான கல்வியின் விரும்பத்தக்க விளைவுகள்.</span></h4>
+<br/>
+<ul>
+<li  style="text-align:justify;">புகுமுகநிலைப் பாடத்திட்டம் பரந்துபட்ட மூன்று கருப்பொருள்களைக் வழிகாட்டியாகக் கொண்டுள்ளது. </li>
+<li  style="text-align:justify;">மொழிப்பாடங்களிலுள்ள பனுவல்களையும் இலக்கிய பாடங்களிலுள்ள செய்திகளையும் அந்தக் கருப்பொருள்களோடு மாணவர்கள் தொடர்புபடுத்திப் பார்ப்பார்கள். 
+</li>
+<li  style="text-align:justify;">இந்தப் பாடத்திட்டத்தில் 21-ஆம் நூற்றாண்டுத்திறன் சட்டகத்தில் இடம்பெற்றுள்ள  திறன்வளர்ச்சியையும் விழுமியங்களையும் பெற்று அவற்றை முறையே பயன்படுத்தும் ஆற்றலை மாணவர்கள் வளர்த்துக்கொள்வர்.
+</li>
+</ul>
+<img src="/tlmoe/21st-cc-diagram.png">
+    </div></div>
+<div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+    <label for="tab-2" style="font-family:KaiTi;font-size:22px" class="lbTM">கல்வியின் விரும்பத்தக்க விளைவுகள்
+</label>
+     <div class="tab-content">
+     image pending
+    </div></div>
+<div class="atab">
+      <input id="tab-3" type="checkbox" name="tab">
+    <label for="tab-3" style="font-family:KaiTi;font-size:22px" class="lbTM">உயர்தரம் தமிழ்மொழி பாடத்திற்கான கற்றல் விளைவுகள்</label>
+     <div class="tab-content">
+     <h4><span style="font-size:30px;color:purple;">உயர்தரம் 2 & 3 தமிழ்மொழிப் பாடத்திற்கான கல்வியின் விரும்பத்தக்க விளைவுகள்.</span></h4>
   <p>Pending</p>
   <table style="border-collapse: collapse; width: 100%;border:0;">
  <tr>
-    <td style="text-align: left;padding: 8px;border:0;"> இலக்கியப் பனுவலை அனுபவித்தல்<br/>
+    <td style="text-align: left;text-align: justify;padding: 8px;border:0;font-size: 20px;"> இலக்கியப் பனுவலை அனுபவித்தல்<br/>
 இலக்கிய வகைமைகளைப் போற்றுதல்<br/>
 கருப்பொருளைத் தக்கவாறு பொருள்விளங்கிக்  கொள்ளல்<br/>
 பனுவலோடும் உகலத்தோடும் தம்மை இணைத்துக் காணல்<br/>
@@ -186,14 +206,26 @@ margin-left:25px;
     <td style="text-align: left;padding: 8px;border:0;">
   
     <img src="/tlmoe/tl-preU05.png" style="width: 50%;"><br/>
-    <a href="#" target="_blank" style="margin-left: 123px;">Jc Brochure PDF</a></td>
+    <a href="/tlmoe/JC-Syllabus-brochure.pdf" target="_blank" style="margin-left: 123px;">Jc Brochure PDF</a></td>
     </tr>
 </table>
- <br/>
-  <h4><span style="font-size:30px;color:purple;">பாடத்திட்டப் பணிச்சட்டம்</span></h4>
+    
+    </div></div>
+    
+     <div class="atab">
+      <input id="tab-4" type="checkbox" name="tab">
+    <label for="tab-4" style="font-family:KaiTi;font-size:22px" class="lbTM">பணிச்சட்டமும் பாடத்திட்டங்களும்</label>
+     <div class="tab-content">
+    <h4><span style="font-size:30px;color:purple;">பாடத்திட்டப் பணிச்சட்டம்</span></h4>
     <img src="/tlmoe/tl-preU04.jpeg"><br/>
- 
+    <a href="/tlmoe/H1-Syllabus-Tamil.pdf" target="_blank" style="text-align:left;">2020 H1 Tamil Language & Tamil Language ‘B’ Syllabus</a><br/>
+    <a href="/tlmoe/H2-&-H3-TLL-Syllabus-2021.pdf" target="_blank" style="text-align:left;">H2& H3 Tamil Language & Literature Syllabus
+</a>
+    </div></div>
+ <p style="text-align:justify;">வருங்காலச் சிங்கப்பூர்த் தமிழ்ச் சந்ததியினரிடையே தமிழ் வாழும் மொழியாகத் திகழ வேண்டும். பலவகைப் பண்பாட்டுப் பாரம்பரியத்தைக் கொண்டு உலக நகராக விளங்கும் சிங்கப்பூரின் தனித்தன்மைக்கு வலுவூட்டும் அம்சமாக அது விளங்க வேண்டும்.
+</p>
   <br/>
+
 <img src="/images/TL-PreU-Curriculum.jpg">
 <br/>
 
@@ -202,8 +234,7 @@ margin-left:25px;
  
    <img src="/images/TL-PreU-Literature.jpg">
 <br/>
- <img src="/images/TL-PreU-Comic2.jpg">
-<br/>
+ 
  Pending Video
  <h4><span style="font-size:30px;color:purple;">புதிதாக அறிமுகம் கண்ட இலக்கியங்கள் </span></h4>
  <table style="border-collapse: collapse;width: 100%;border:0;">
@@ -213,9 +244,8 @@ margin-left:25px;
    </td>
     <td style=" border: 0; text-align: left; padding: 8px;">
      <div class="v1" style="padding: 21px;">
-      <img src="/tlmoe/tl-preU06.png" style="width: 47%; margin-left: -28px; width:50%;"><br/>
-       <img src="/tlmoe/tl-preU07.png" style="margin-top: -166px; margin-left: 135px;width: 50%; transform: rotate(18deg);"><br/>
-        <img src="/tlmoe/tl-preU08.png" style="margin-top: -163px; margin-left: -3px;width:50%;"></div>
+      <img src="/tlmoe/TL-JC_Updated.gif" style="width: 47%; margin-left: -28px; width:50%;"><br/>
+      </div>
     </td>
 </tr>
 </table>
@@ -247,118 +277,21 @@ margin-left:25px;
  <p style="text-align:justify;">ஆர்வமூட்டும் கற்பித்தலை உறுதிசெய்ய 
 ஆசிரியர்களுக்கான பயிலரங்குகள்
 </p>
- <table style="border-collapse: collapse;
-  width: 100%; border:0;">
-  <tr>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-    <img src="/tlmoe/tl-preU09.png"><br/>
-    <span style="font-size:20px;">பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2&3 பாடத்திட்ட அறிமுக நிகழ்வு 
-August 12 2020
- </span></td>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-      <img src="/tlmoe/tl-preU10.png"><br/>
-      <span style="font-size:20px;">பார்த்திராத பனுவல்கள் பயிலரங்கம்
-               30 ஏப்ரல் 2021</span></td>
- </tr>
-</table>
-  <br/>
+<img src="/tlmoe/TL-JC_Picture1.png"><br/>
+<br/>
  <p style="text-align:justify;">ஆர்வமூட்டும் கற்பித்தலை உறுதிசெய்ய 
 ஆசிரியர்களுக்கான பயிலரங்குகள்</p>
-  <img src="/tlmoe/tl-preU11.png"><br/>
-    <span style="font-size:20px;">பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2&3 பாடத்திட்ட அறிமுக பயிலரங்கு
-26 அக்டோபர் 2020</span>
- <p style="text-align:justify;">சிங்கப்பூர்க் கற்பித்தல் முறைமைப் பயிற்றுமுறைகள் பற்றிய தலைமை முதன்மை ஆசிரியர் திரு ஜெயராஜதாஸ் பாண்டியன் அவர்களின் பகிர்வு
-</p>
- <table style="border-collapse: collapse;
-  width: 100%; border:0;">
-  <tr>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-    <img src="/tlmoe/tl-preU12.png"><br/>
-   </td>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-      <img src="/tlmoe/tl-preU13.png"><br/>
-     </td>
- </tr>
-</table>
-  <br/>
+<br/>
 <p style="text-align:justify;">ல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2&3 பாடத்திட்ட அறிமுகப் பயிலரங்கு
 26 அக்டோபர் 2020
 </p>
- <table style="border-collapse: collapse;
-  width: 100%; border:0;">
-  <tr>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-    <img src="/tlmoe/tl-preU14.png">
-    <br/><span style="font-size:20px;">கவிஞர் சுபா செந்தில்குமார் வழிநடத்திய கவிதைப் பயிலரங்கு
-</span>
-   </td>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-      <img src="/tlmoe/tl-preU15.png"><br/>
-      <span style="font-size:20px;">இணையமவழியே நடந்த பயிலரங்கில் மாணவர்கள் ஆர்வத்துடன் பங்கெடுத்தனர்
-</span>
-     </td>
- </tr>
-</table>
-  <br/>
- <p style="text-align:justify;">தமிழ்மொழி மாதம் 2021 
-யீசூன் இன்னோவா தொடக்கக்கல்லூரி ஏற்பாடு செய்த
-32-ஆம் புகுமுகப் பல்கலைக்கழகத் தமிழ்மொழி இலக்கியக் கருத்தரங்கு</p>
- <table style="border-collapse: collapse;
-  width: 100%; border:0;">
-  <tr>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-    <img src="/tlmoe/tl-preU16.png">
-    <br/><span style="font-size:20px;">தமிழ்மொழி கற்றல் வளர்ச்சிக்குழுவின் ஆதரவுடன் நடந்த இலக்கியக் கருத்தரங்கு 
-</span>
-   </td>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-      <img src="/tlmoe/tl-preU17.png"><br/>
-      <span style="font-size:20px;">இம்மாணவிகளின் தமிழ்மொழி வாழ்த்துப்பாடலுடன் தொடங்கியது இலக்கியக் கருத்தரங்கு 
+ <img src="/tlmoe/TL-JC_Picture2.png">
+<br/>
+<img src="/tlmoe/TL-JC_Picture3.png"><br/>
+      <br/>
 
-</span>
-     </td>
- </tr>
-</table>
-  <br/>
- <table style="border-collapse: collapse;
-  width: 100%; border:0;">
-  <tr>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-    <img src="/tlmoe/tl-preU18.png">
-    <br/><span style="font-size:20px;">கணியன் பூங்குன்றனாரின் கவிதையை ஆய்வு செய்து படைத்த மாணவிகள் </span>
-   </td>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-      <img src="/tlmoe/tl-preU19.png"><br/>
-      <span style="font-size:20px;">வகுப்பில் இலக்கியம் கற்றல் கற்பித்தல் தொடர்பாக சில பரிந்துரைகளை முன்வைத்த </span>
-     </td>
- </tr>
-</table>
-  <br/>
- <table style="border-collapse: collapse;
-  width: 100%; border:0;">
-  <tr>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-    <img src="/tlmoe/tl-preU20.png">
-    <br/><span style="font-size:20px;">இலக்கியத்தை இக்காலச் சூழலுக்கு ஏற்றவாறு மாற்றியமைத்து நாடகமாக நடித்த மாணவிகள் </span>
-   </td>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-      <img src="/tlmoe/tl-preU21.png"><br/>
-      <span style="font-size:20px;">விடியுமா? என்ற சிறுகதையை ஆராய்ந்து படைத்த தமிழ்மொழி விருப்பப்பாடத்திட்ட மாணவர்கள்</span>
-     </td>
- </tr>
-</table>
-  <br/>
- <table style="border-collapse: collapse;
-  width: 100%; border:0;">
-  <tr>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-    <img src="/tlmoe/tl-preU22.png">
-    </td>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-      <img src="/tlmoe/tl-preU23.png"><br/>
-      </td>
- </tr>
-</table>
+      <img src="/tlmoe/TL-JC_Picture4.png"><br/>
+     
  <br/>
  <table style="border-collapse: collapse;
   width: 100%; border:0;">
@@ -462,40 +395,7 @@ August 12 2020
 </p>
   <img src="/tlmoe/tl-preU30.png">
   <br/>
-  <table style="border-collapse: collapse;
-  width: 100%; border:0;">
-  <tr>
-<td style=" border: 0;text-align: left;padding: 8px; width:33.33%;">
-<img src="/tlmoe/tl-preU31.png">
-</td>
- <td style=" border: 0;text-align: left;padding: 8px; width:33.33%;">
-   <img src="/tlmoe/tl-preU32.png">
-    </td>
-    <td style=" border: 0;text-align: left;padding: 8px; width:33.33%;">
-   <img src="/tlmoe/tl-preU33.png">
-    </td>
- </tr>
  
- <tr>
-<td style=" border: 0;text-align: left;padding: 8px; width:33.33%;">
-<img src="/tlmoe/tl-preU34.png"><br/>
-<span style="font-size:30px;">இயல்... </span>
-</td>
- <td style=" border: 0;text-align: left;padding: 8px; width:33.33%;">
-   <img src="/tlmoe/tl-preU35.png">
-   <br/>
-<span style="font-size:30px;">இசை... </span>
-    </td>
-    <td style=" border: 0;text-align: left;padding: 8px; width:33.33%;">
-   <img src="/tlmoe/tl-preU36.png">
-   <br/>
-<span style="font-size:30px;">நாடகம்.</span>
-    </td>
- </tr>
-</table>
-<p style="text-align:justify;">மூன்றும் பவனி வந்தன ஒரே நிகழ்ச்சியில்.. <br/>
-ஆண்டர்சன் சிராங்கூன் தொடக்கக் கல்லூரி மாணவர்கள் தமிழ்பால் கொண்ட ஆர்வத்தால்...
-</p>
   <p style="text-align:justify;">தமிழ்ச்செய்தியில் நம் கல்லூரிகள்
 </p>
   <ul>
