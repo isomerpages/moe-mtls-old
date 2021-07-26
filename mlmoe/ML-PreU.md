@@ -120,7 +120,7 @@ margin-left:25px;
     </td>
   </tr>
   </table>
-<img src="/images/ML PreU_Image1.png">
+<img src="/images/ML-PreU_Image1.png">
 <a href="/Gallery/Annex A -Sukatan-Pelajaran-H1.pdf" target="_blank">Sukatan Pelajaran H1</a><br/>
 <a href="/Gallery/Annex B - Sukatan-Pelajaran-H2-&-H3.pdf" target="_blank">Sukatan Pelajaran H2 & H3</a><br/>
 
