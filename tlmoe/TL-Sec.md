@@ -386,6 +386,9 @@ Pending Image 7
 
  <img src="/images/TL-Sec-Optional-Curriculum-Update.jpg"><br/>
  <span style="font-size:25px;"><strong>காமன்வெல்த் உயர்நிலைப்பள்ளி</strong></span>
+     <h2>மாணவர்களின் இலக்கியப் படைப்பு 
+</h2>
+     
 <center>
  <span style="font-size:18px; text-align:justify;"> ஶ்ரீராம்_உயர்நிலை 3</span><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/giDBQvuLZp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br/>
