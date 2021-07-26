@@ -184,19 +184,14 @@ margin-left:25px;
 </ul>
 <img src="/tlmoe/21st-cc-diagram.png">
     </div></div>
-    
-    
-    
-     <div class="atab">
+<div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
     <label for="tab-2" style="font-family:KaiTi;font-size:22px" class="lbTM">கல்வியின் விரும்பத்தக்க விளைவுகள்
 </label>
      <div class="tab-content">
      image pending
     </div></div>
-    
-    
-     <div class="atab">
+<div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
     <label for="tab-3" style="font-family:KaiTi;font-size:22px" class="lbTM">உயர்தரம் தமிழ்மொழி பாடத்திற்கான கற்றல் விளைவுகள்</label>
      <div class="tab-content">
