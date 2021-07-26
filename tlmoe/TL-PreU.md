@@ -206,7 +206,7 @@ margin-left:25px;
     <td style="text-align: left;padding: 8px;border:0;">
   
     <img src="/tlmoe/tl-preU05.png" style="width: 50%;"><br/>
-    <a href="JC-Syllabus-brochure.pdf" target="_blank" style="margin-left: 123px;">Jc Brochure PDF</a></td>
+    <a href="/tlmoe/JC-Syllabus-brochure.pdf" target="_blank" style="margin-left: 123px;">Jc Brochure PDF</a></td>
     </tr>
 </table>
     
@@ -218,8 +218,8 @@ margin-left:25px;
      <div class="tab-content">
     <h4><span style="font-size:30px;color:purple;">பாடத்திட்டப் பணிச்சட்டம்</span></h4>
     <img src="/tlmoe/tl-preU04.jpeg"><br/>
-    <a href="H1-Syllabus-Tamil.pdf" target="_blank" style="text-align:left;">2020 H1 Tamil Language & Tamil Language ‘B’ Syllabus</a><br/>
-    <a href="H2-&-H3-TLL-Syllabus-2021.pdf" target="_blank" style="text-align:left;">H2& H3 Tamil Language & Literature Syllabus
+    <a href="/tlmoe/H1-Syllabus-Tamil.pdf" target="_blank" style="text-align:left;">2020 H1 Tamil Language & Tamil Language ‘B’ Syllabus</a><br/>
+    <a href="/tlmoe/H2-&-H3-TLL-Syllabus-2021.pdf" target="_blank" style="text-align:left;">H2& H3 Tamil Language & Literature Syllabus
 </a>
     </div></div>
  <p style="text-align:justify;">வருங்காலச் சிங்கப்பூர்த் தமிழ்ச் சந்ததியினரிடையே தமிழ் வாழும் மொழியாகத் திகழ வேண்டும். பலவகைப் பண்பாட்டுப் பாரம்பரியத்தைக் கொண்டு உலக நகராக விளங்கும் சிங்கப்பூரின் தனித்தன்மைக்கு வலுவூட்டும் அம்சமாக அது விளங்க வேண்டும்.
