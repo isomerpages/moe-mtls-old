@@ -244,9 +244,8 @@ margin-left:25px;
    </td>
     <td style=" border: 0; text-align: left; padding: 8px;">
      <div class="v1" style="padding: 21px;">
-      <img src="/tlmoe/tl-preU06.png" style="width: 47%; margin-left: -28px; width:50%;"><br/>
-       <img src="/tlmoe/tl-preU07.png" style="margin-top: -166px; margin-left: 135px;width: 50%; transform: rotate(18deg);"><br/>
-        <img src="/tlmoe/tl-preU08.png" style="margin-top: -163px; margin-left: -3px;width:50%;"></div>
+      <img src="/tlmoe/TL-JC_Updated.gif" style="width: 47%; margin-left: -28px; width:50%;"><br/>
+      </div>
     </td>
 </tr>
 </table>
@@ -278,118 +277,21 @@ margin-left:25px;
  <p style="text-align:justify;">ஆர்வமூட்டும் கற்பித்தலை உறுதிசெய்ய 
 ஆசிரியர்களுக்கான பயிலரங்குகள்
 </p>
- <table style="border-collapse: collapse;
-  width: 100%; border:0;">
-  <tr>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-    <img src="/tlmoe/tl-preU09.png"><br/>
-    <span style="font-size:20px;">பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2&3 பாடத்திட்ட அறிமுக நிகழ்வு 
-August 12 2020
- </span></td>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-      <img src="/tlmoe/tl-preU10.png"><br/>
-      <span style="font-size:20px;">பார்த்திராத பனுவல்கள் பயிலரங்கம்
-               30 ஏப்ரல் 2021</span></td>
- </tr>
-</table>
-  <br/>
+<img src="/tlmoe/TL-JC_Picture1.png"><br/>
+<br/>
  <p style="text-align:justify;">ஆர்வமூட்டும் கற்பித்தலை உறுதிசெய்ய 
 ஆசிரியர்களுக்கான பயிலரங்குகள்</p>
-  <img src="/tlmoe/tl-preU11.png"><br/>
-    <span style="font-size:20px;">பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2&3 பாடத்திட்ட அறிமுக பயிலரங்கு
-26 அக்டோபர் 2020</span>
- <p style="text-align:justify;">சிங்கப்பூர்க் கற்பித்தல் முறைமைப் பயிற்றுமுறைகள் பற்றிய தலைமை முதன்மை ஆசிரியர் திரு ஜெயராஜதாஸ் பாண்டியன் அவர்களின் பகிர்வு
-</p>
- <table style="border-collapse: collapse;
-  width: 100%; border:0;">
-  <tr>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-    <img src="/tlmoe/tl-preU12.png"><br/>
-   </td>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-      <img src="/tlmoe/tl-preU13.png"><br/>
-     </td>
- </tr>
-</table>
-  <br/>
+<br/>
 <p style="text-align:justify;">ல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2&3 பாடத்திட்ட அறிமுகப் பயிலரங்கு
 26 அக்டோபர் 2020
 </p>
- <table style="border-collapse: collapse;
-  width: 100%; border:0;">
-  <tr>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-    <img src="/tlmoe/tl-preU14.png">
-    <br/><span style="font-size:20px;">கவிஞர் சுபா செந்தில்குமார் வழிநடத்திய கவிதைப் பயிலரங்கு
-</span>
-   </td>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-      <img src="/tlmoe/tl-preU15.png"><br/>
-      <span style="font-size:20px;">இணையமவழியே நடந்த பயிலரங்கில் மாணவர்கள் ஆர்வத்துடன் பங்கெடுத்தனர்
-</span>
-     </td>
- </tr>
-</table>
-  <br/>
- <p style="text-align:justify;">தமிழ்மொழி மாதம் 2021 
-யீசூன் இன்னோவா தொடக்கக்கல்லூரி ஏற்பாடு செய்த
-32-ஆம் புகுமுகப் பல்கலைக்கழகத் தமிழ்மொழி இலக்கியக் கருத்தரங்கு</p>
- <table style="border-collapse: collapse;
-  width: 100%; border:0;">
-  <tr>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-    <img src="/tlmoe/tl-preU16.png">
-    <br/><span style="font-size:20px;">தமிழ்மொழி கற்றல் வளர்ச்சிக்குழுவின் ஆதரவுடன் நடந்த இலக்கியக் கருத்தரங்கு 
-</span>
-   </td>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-      <img src="/tlmoe/tl-preU17.png"><br/>
-      <span style="font-size:20px;">இம்மாணவிகளின் தமிழ்மொழி வாழ்த்துப்பாடலுடன் தொடங்கியது இலக்கியக் கருத்தரங்கு 
+ <img src="/tlmoe/TL-JC_Picture2.png">
+<br/>
+<img src="/tlmoe/TL-JC_Picture3.png"><br/>
+      <br/>
 
-</span>
-     </td>
- </tr>
-</table>
-  <br/>
- <table style="border-collapse: collapse;
-  width: 100%; border:0;">
-  <tr>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-    <img src="/tlmoe/tl-preU18.png">
-    <br/><span style="font-size:20px;">கணியன் பூங்குன்றனாரின் கவிதையை ஆய்வு செய்து படைத்த மாணவிகள் </span>
-   </td>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-      <img src="/tlmoe/tl-preU19.png"><br/>
-      <span style="font-size:20px;">வகுப்பில் இலக்கியம் கற்றல் கற்பித்தல் தொடர்பாக சில பரிந்துரைகளை முன்வைத்த </span>
-     </td>
- </tr>
-</table>
-  <br/>
- <table style="border-collapse: collapse;
-  width: 100%; border:0;">
-  <tr>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-    <img src="/tlmoe/tl-preU20.png">
-    <br/><span style="font-size:20px;">இலக்கியத்தை இக்காலச் சூழலுக்கு ஏற்றவாறு மாற்றியமைத்து நாடகமாக நடித்த மாணவிகள் </span>
-   </td>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-      <img src="/tlmoe/tl-preU21.png"><br/>
-      <span style="font-size:20px;">விடியுமா? என்ற சிறுகதையை ஆராய்ந்து படைத்த தமிழ்மொழி விருப்பப்பாடத்திட்ட மாணவர்கள்</span>
-     </td>
- </tr>
-</table>
-  <br/>
- <table style="border-collapse: collapse;
-  width: 100%; border:0;">
-  <tr>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-    <img src="/tlmoe/tl-preU22.png">
-    </td>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-      <img src="/tlmoe/tl-preU23.png"><br/>
-      </td>
- </tr>
-</table>
+      <img src="/tlmoe/TL-JC_Picture4.png"><br/>
+     
  <br/>
  <table style="border-collapse: collapse;
   width: 100%; border:0;">
@@ -493,40 +395,7 @@ August 12 2020
 </p>
   <img src="/tlmoe/tl-preU30.png">
   <br/>
-  <table style="border-collapse: collapse;
-  width: 100%; border:0;">
-  <tr>
-<td style=" border: 0;text-align: left;padding: 8px; width:33.33%;">
-<img src="/tlmoe/tl-preU31.png">
-</td>
- <td style=" border: 0;text-align: left;padding: 8px; width:33.33%;">
-   <img src="/tlmoe/tl-preU32.png">
-    </td>
-    <td style=" border: 0;text-align: left;padding: 8px; width:33.33%;">
-   <img src="/tlmoe/tl-preU33.png">
-    </td>
- </tr>
  
- <tr>
-<td style=" border: 0;text-align: left;padding: 8px; width:33.33%;">
-<img src="/tlmoe/tl-preU34.png"><br/>
-<span style="font-size:30px;">இயல்... </span>
-</td>
- <td style=" border: 0;text-align: left;padding: 8px; width:33.33%;">
-   <img src="/tlmoe/tl-preU35.png">
-   <br/>
-<span style="font-size:30px;">இசை... </span>
-    </td>
-    <td style=" border: 0;text-align: left;padding: 8px; width:33.33%;">
-   <img src="/tlmoe/tl-preU36.png">
-   <br/>
-<span style="font-size:30px;">நாடகம்.</span>
-    </td>
- </tr>
-</table>
-<p style="text-align:justify;">மூன்றும் பவனி வந்தன ஒரே நிகழ்ச்சியில்.. <br/>
-ஆண்டர்சன் சிராங்கூன் தொடக்கக் கல்லூரி மாணவர்கள் தமிழ்பால் கொண்ட ஆர்வத்தால்...
-</p>
   <p style="text-align:justify;">தமிழ்ச்செய்தியில் நம் கல்லூரிகள்
 </p>
   <ul>
