@@ -94,7 +94,7 @@ margin-left:25px;
 </table>
 <p style="font-size:20px;text-align:justify;">தாய்மொழிகளுக்கான <strong>இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டம்  </strong>தாய்மொழி கற்றலில் பிள்ளைகள் ஆர்வம், ஈடுபாடு, செயல்திறன்மிக்கவர்களாக விளங்குவார்கள் என்னும் நம்பிக்கையின் அடிப்படையில் இயங்குகிறது.
  </p>
-<img src="/images/TL-PreSch-right4.jpg" style="width:80%">
+<img src="/tlmoe/TL-PreSch-rightImg1.png" style="width:80%">
 <br/>
 <p style="font-size:20px;text-align:justify;">இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டத்தின் அடிப்படையில் அமைந்த கற்றல் குறிக்கோள்கள்.
 </p>
@@ -284,6 +284,8 @@ margin-left:25px;
          </tr>
  </table>
  <br/>
+ <img src="/tlmoe/TL-PreSch-rightImg2.png">
+ <br/>
  <p style="font-size:20px;text-align:justify"><strong>‘ஆசிரியர் துமையயாடு வாசித்ைல் அணுகுமுமை’ என்னும் ஒளிக்காட்ச</strong>
 </p>
   <center>
@@ -303,8 +305,6 @@ margin-left:25px;
 </span></h4>
 <p  style="font-size:20px;text-align:justify">பெற்றோர்களே, பின்வரும் நடவடிக்கைகளின்வழி வீட்டில் உங்கள் பிள்ளையின் கற்றலுக்கும் வளர்ச்சிக்கும் நீங்கள் ஆதரவு அளிக்கலாம். இந்த நடவடிக்கைகள் கருத்துப்பரிமாற்றத்தையும் குடும்பப் பிணைப்பையும் ஊக்குவிக்கின்றன.
 </p>
-                                             
-                                             
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
    <label for="tab-1" style="font-size:22px" class="lbTM">என்னிடமுள்ள வண்ண உடைகள்!’
@@ -313,8 +313,7 @@ margin-left:25px;
 <p style="font-size:20px;text-align:justify"><strong>என்னிடமுள்ள வண்ண உடைகள்!’ நடவடிக்கை</strong>
 <br/><br/>பிள்ளையிடம் பச்சை, சிவப்பு, நீலம், மஞ்சள் ஆகிய நான்கு வண்ணத்தாள்களைக் கொடுங்கள். பின்னர், பிள்ளையின் அலமாரியில் அந்தந்த வண்ணத்தில் எத்தனை உடைகள் இருக்கின்றன என்பதை எண்ணச் சொல்லுங்கள். எண்ணுவதில் சிரமம் ஏற்பட்டால் பிள்ளைக்கு உதவிசெய்யுங்கள் <br/><br/>பிள்ளையிடம் இருக்கும் வண்ணத்தாளில் அந்தந்த வண்ணத்தில் அவரிடமுள்ள உடையின் எண்ணிக்கையை எழுதச் சொல்லுங்கள். பின்னர், அவருக்குப் பிடித்த உடையை வரைந்து வண்ணம் தீட்டச் சொல்லுங்கள். </p>
   </div></div>
-  
-<div class="atab">
+  <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
    <label for="tab-2" style="font-size:22px" class="lbTM">கதை கேளு, கதை கேளு!’ நடவடிக்கை
 </label>
@@ -332,29 +331,24 @@ margin-left:25px;
 </ul>
 <p style="font-size:20px;text-align:justify">பிள்ளைக்குப் பிடித்த கதாபாத்திரத்தை வரைந்து வண்ணம் தீட்டி, அந்தப் படத்தைக் காட்டி மற்றக் குடும்ப உறுப்பினர்களிடம் கதையைச் சொல்லச் சொல்லுங்கள். <br/><br/>
 <strong> *‘Kani & Mani’ என்னும் செயலியை Appstore அல்லது Playstore வாயிலாகப் பதிவிறக்கம் செய்துகொள்ளுங்கள். </strong>
-
 </p>
 </div></div>
-
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
    <label for="tab-3" style="font-size:22px" class="lbTM">இது எங்கிருக்கிறது?’ நடவடிக்கை
-
 </label>
      <div class="tab-content">
  <p style="font-size:20px;text-align:justify"><strong>இது எங்கிருக்கிறது?’ நடவடிக்கை</strong><br/><br/>
  செய்தித்தாளிலிருந்தோ சஞ்சிகைகளிலிருந்தோ வீட்டில் பயன்படுத்தும் பொருள்களின் படங்கள் சிலவற்றைக் கத்தரிக்குமாறு பிள்ளையிடம் சொல்லுங்கள். (எ-டு: படுக்கை, கோப்பைகள், துண்டு, தொலைக்காட்சி, இன்னும் பல.).
 கீழே கொடுக்கப்பட்டுள்ளதுபோல் ஒரு வெள்ளைத்தாளில் 4 கட்டங்கள் வரைந்து வீட்டின் வெவ்வேறு பகுதியின் பெயரை எழுதி வைத்துக்கொள்ளுங்கள்.
 </p>
-<img src="/tlmoe/tl-presch16.png">
+<img src="/tlmoe/TL-PreSch-rightImg3.png">
 <p style="font-size:20px;text-align:justify">பிள்ளையிடம் கத்தரித்த படங்களிலுள்ள பொருள்களின் பெயரைச் சொல்லச் சொல்லுங்கள். பின்னர், அந்தப் பொருள் வீட்டின் எந்தப் பகுதியில் இருக்கும் என்று கேட்டுக் கலந்துரையாடுங்கள்; படத்தைச் சரியான கட்டத்தில் ஒட்டுமாறு பிள்ளையிடம் சொல்லுங்கள்.
  </p>
 </div></div>
-
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
    <label for="tab-4" style="font-size:22px" class="lbTM">‘என் குடும்பத்தினர்’ நடவடிக்கை
-
 </label>
      <div class="tab-content">
 <p style="font-size:20px;text-align:justify"><strong>‘என் குடும்பத்தினர்’ நடவடிக்கை</strong><br/><br/>
