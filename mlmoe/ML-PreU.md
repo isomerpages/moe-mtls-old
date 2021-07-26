@@ -116,7 +116,7 @@ margin-left:25px;
  Matlamat program Bahasa Melayu peringkat prauniversiti adalah untuk melengkapkan pelajar dengan kecekapan berbahasa dan membolehkan pelajar mendalami dan menghargai bahasa dan budaya masyarakat Melayu dalam pelanjutan pembangunan negara. Pelajar diharap akan berupaya berkomunikasi dengan menggunakan bahasa Melayu baku bagi memenuhi keperluan diri dan membina hubungan sosial dalam konteks masyarakat majmuk Singapura dan masyarakat dunia.
      </p></td>
     <td style=" text-align: left;padding: 8px;">
-    <img src="/mlmoe/ml-preU01.jpeg">
+    <img src="/mlmoe/ML PreU_Image1.png">
     </td>
   </tr>
   </table>
