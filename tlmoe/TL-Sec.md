@@ -400,11 +400,6 @@ Pending Image 7
 <center>
  <span style="font-size:18px; text-align:justify;">ஹீரன்_உயர்நிலை 3</span><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bcwSzzG_gMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br/>
- <h4 id="C4"><span style="font-size:30px;color:purple;">இணையவழிக் கற்றல் </span> </h4>
-<img src="/images/TL-Sec_onlineLearning.jpg">
-<br/><br/>
-<p style="font-size:22px;"><strong>மின்னூல்:</strong><br/>
-<a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/19f208ee-e005-48bf-8d65-6dd6bdbb3722?fromCcpm=false" target="_blank">நானும் ஒரு படைப்பாளி </a><br/>
-<a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/dc9ea75d-2b9f-4e93-9e65-6ec982ff1c6b?fromCcpm=false" target="_blank">புயல் (I-Book)</a></p>
+
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
