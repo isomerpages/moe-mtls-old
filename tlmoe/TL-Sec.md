@@ -281,14 +281,12 @@ Pending Image 7
   </tr>
 </table>
 <br/>
-<table style="  border-collapse: collapse;
-  width: 100%;">
- 
-  <tr>
-  <td><img src="/tlmoe/image01.png" style="width:23%;"></td>
-    <td><img src="/tlmoe/image02.png" style="width:23%;"></td>
-      <td><img src="/tlmoe/image03.png" style="width:23%;"></td>
-        <td><img src="/tlmoe/image04.png" style="width:23%;"></td>
+<table style=" border-collapse: collapse; width: 100%;">
+<tr>
+  <td style=" text-align: left;padding: 8px;width:23%;"><img src="/tlmoe/image01.png"></td>
+    <td style=" text-align: left;padding: 8px;width:23%;"><img src="/tlmoe/image02.png" ></td>
+      <td style=" text-align: left;padding: 8px;width:23%;"><img src="/tlmoe/image03.png"></td>
+        <td style=" text-align: left;padding: 8px;width:23%;"><img src="/tlmoe/image04.png" ></td>
   </tr>
   </table>
  <p style="text-align:justify;">கற்போம்; படைப்போம் – நானும் ஒரு படைப்பாளி 
@@ -299,7 +297,7 @@ Pending Image 7
 
 <table style=" border-collapse: collapse; width: 100%;">
 <tr>
-    <td style=" text-align: left;padding: 8px;width:60%;width:33%;">
+    <td style=" text-align: left;padding: 8px;width:33%;">
     <img src="/tlmoe/tl-sec01.png">
    </td>
  <td style=" text-align: left;padding: 8px;width:33%;">
