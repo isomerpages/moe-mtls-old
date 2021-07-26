@@ -1,4 +1,4 @@
-title: 'e-Mother Tongue Languages Symposium'
+title: 'Mother Tongue Languages Symposium'
 description: Description
 url: 'https://www.mtls.sg'
 remote_theme: isomerpages/isomerpages-template@next-gen
@@ -37,7 +37,7 @@ collections:
         output: true
        
 resources_name: resource-room
-favicon: /images/emtls-2020-logo-01-favicon.ico
+favicon: /images/MTLS21-Favicon-Logo.ico
 google_analytics: UA-175313072-2
 facebook-pixel: 404827880132568
 is_government: false

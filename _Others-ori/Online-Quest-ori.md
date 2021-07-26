@@ -1,8 +1,7 @@
 ---
 title: 'Online Quest'
-permalink: /Others/Online-Quest/
-breadcrumb: 'Online Quest'
-collection_name: Others
+permalink: /Others-ori/Online-Quest-ori/
+breadcrumb: 'Online Quest-ori'
 ---
 
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
