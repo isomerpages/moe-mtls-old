@@ -123,11 +123,9 @@ margin-left:25px;
      <div class="tab-content">
      <h4>உயர்தரம் 1 பாடக்கலைத்திட்டத்தின் முக்கிய நோக்கங்கள்</h4>
      <p><strong>மாணவர்கள் </strong></p>
-     
-<table style=" border-collapse: collapse;
+     <table style=" border-collapse: collapse;
   width: 100%;">
- 
-  <tr>
+ <tr>
     <td style=" text-align: left;
   padding: 8px;font-size:20px;">
   <ul>
@@ -140,10 +138,9 @@ margin-left:25px;
 </li>
   </ul></td>
     <td><img src="/tlmoe/h1-lens.png"><br/><span style="font-size:20px;">உயர்தரம் 1 
-பரந்துபட்ட மூன்று கருப்பொருள்கள் 
+பரந்துபட்ட மூன்று கருப்பொருள்கள் </span>
 </td>
-  
-  </tr>
+</tr>
 </table>
 <br/>
 <h4>உயர்தரம் 2 & 3 பாடக்கலைத்திட்டத்தின் முக்கிய நோக்கங்கள்
