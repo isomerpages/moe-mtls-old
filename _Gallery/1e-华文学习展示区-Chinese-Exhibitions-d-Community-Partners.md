@@ -50,6 +50,11 @@ td, th {
   text-align: left;
   padding: 8px;
 }
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+ 
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
