@@ -1,6 +1,6 @@
 ---
 title: Live Sessions
-permalink: /Live-Sessions/
+permalink: /Live-Sessions-softlaunch/
 breadcrumb: Live Sessions
 
 ---
