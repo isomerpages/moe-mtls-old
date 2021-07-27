@@ -45,7 +45,11 @@ third_nav_title: '华文学习展示区'
   width:69%;
   }
 }
-
+td, th {
+  border: 1px solid gray;
+  text-align: left;
+  padding: 8px;
+}
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -62,6 +66,7 @@ third_nav_title: '华文学习展示区'
      <img src="/images/CL-Gallery-Challenge.jpg" style="display:block;">
  <br/>
   <table class="tbl">
+      <tbody>
       <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
@@ -276,6 +281,7 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
 <a href="/clmoe/推广华文学习委员会 /"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
+ </tbody>
 </table>
 
 <hr>
