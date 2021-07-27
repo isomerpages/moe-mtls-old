@@ -1,7 +1,7 @@
 ---
 title: Opening Ceremony
-permalink: /Opening-Ceremony-ori/
-breadcrumb: Opening Ceremony-ori
+permalink: /Opening-Ceremony/
+breadcrumb: Opening Ceremony
 --- 
 <html>
 <body>
