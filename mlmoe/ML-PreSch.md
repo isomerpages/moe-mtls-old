@@ -161,8 +161,7 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
    
 <p id="C3" style="font-size:30px;"><strong>PENDEKATAN MEMBACA BERSAMA</strong>
   </p>
-  <img src="/images/ML Curriculum Preschool V2-03.jpg"> <br/>
-
+  <img src="/images/ML Curriculum Preschool V2-03.jpg">
 <p style="text-align:justify;">
 Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/resources/bahan-bahan-buku-besar/langkah-pengajaran" target="_blank"> Pendekatan Membaca Bersama (Shared Book Approach) </a> adalah untuk:
 
