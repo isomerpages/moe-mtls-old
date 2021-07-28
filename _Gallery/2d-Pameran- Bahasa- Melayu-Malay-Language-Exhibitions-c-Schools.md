@@ -67,15 +67,15 @@ third_nav_title: 'Pameran Bahasa Melayu'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbML">	Sekolah Rendah Bendemeer<br/>Bendemeer Primary School</label>
+      <label for="tab-2" class="lbML">	Perkhemahan Budaya dan Bahasa Melayu Darjah 3<br/> Admiralty Primary School</label>
       <div class="tab-content">
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Jejak Bahasa dan Budaya Melayu berasaskan ICT</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Perkhemahan Budaya dan Bahasa Melayu Darjah 3</h4>
         <p style="margin:10px;">
-         Jejak Bahasa dan Budaya Melayu berasaskan ICT yang dijalankan di Sekolah Rendah Bendemeer menyediakan wadah bagi murid-murid untuk memupuk minat terhadap bahasa dan budaya Melayu. Ini dijalankan melalui stesen-stesen pembelajaran autentik yang diterapkan dengan penggunaan ICT bagi meningkatkan pelibatan dan menyeronokkan pembelajaran. Murid-murid berpeluang untuk menggunakan pancaindera mereka ketika berada di stesen-stesen yang terletak di kawasan sekolah apabila mereka meneroka, belajar dan bermain melalui item-item yang disediakan. Peranan ICT melalui penggunaan iPad dan Google Sites memberikan peluang kepada murid-murid melakukan pembelajaran secara virtual. Lantas, ini mewujudkan sebuah pembelajaran yang lebih holistik.
+         Perkhemahan ini bertujuan untuk menggalakkan penggunaan bahasa Melayu dalam kehidupan seharian murid-murid. Perkhemahan ini memberikan fokus kepada bahasa dan budaya yang terdapat dalam adat perkahwinan orang Melayu. Murid-murid telah didedahkan kepada pantun terlebih dahulu sebelum mereka menulis pantun dua kerat sendiri. Mereka juga berpeluang untuk mempelajari kepentingan bunga rampai dan bunga manggar dalam majlis perkahwinan. Adab makan dalam majlis perkahwinan turut disentuh sebelum murid-murid diperkenalkan kepada pelbagai jenis makanan yang dihidangkan. Selain itu, alat muzik kompang yang diketengahkan memberikan  mereka peluang untuk memalu kompang dan mempelajari perihal alat muzik tersebut.
   </p><br/>
-     <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Malay Language & Cultural ICT Trail</h4>
+     <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Primary 3 Malay Language and Cultural Camp </h4>
         <p style="margin:10px;">
-          The Malay Language & Cultural ICT Trail in Bendemeer Primary School provides the students with a platform to cultivate their passion for the Malay Language and culture via authentic learning stations enhanced with ICT to make learning more engaging and joyful. As each station is located around the school, students are taken on an adventure to activate their senses as they explore, learn and play using the interesting elements provided. The ready availability  of ICT through iPads and Google Sites allows students to learn virtually while creating a more holistic learning experience.
+          The Primary 3 Malay Language and Cultural Camp is organised to immerse students in the use of Malay in everyday life outside school and focuses on language use and cultural practices at a Malay wedding. Students learn about the pantun, a form of traditional Malay poetry, and go onto create their own simple two-line pantun. They also learn about the significance of wedding decorations like bunga rampai and bunga manggar and try their hand at making them. They are introduced to dining etiquette and the different types of food served at a wedding reception and learn about the kompang, a musical instrument often played at Malay weddings.
         </p>
       </div>
 </div>
@@ -88,16 +88,15 @@ third_nav_title: 'Pameran Bahasa Melayu'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbML">Sekolah Rendah Yuhua<br/>Yuhua Primary School</label>
+      <label for="tab-1" class="lbML">Pelajaran Lisan Kendiri <br/>Park View Primary School</label>
       <div class="tab-content">
-     <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Penerapan Roda Penaakulan Paul Dalam Pembelajaran Bahasa Melayu </h4>
+     <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Pelajaran Lisan Kendiri  </h4>
       <p style="margin:10px;">
-        Penerapan Roda Penaakulan Paul dalam pembelajaran Bahasa Melayu di Sekolah Rendah Yuhua bertujuan untuk memupuk kemahiran berfikir murid-murid secara kritis dan kreatif. Roda Penaakulan Paul membahagikan pemikiran kepada lapan jenis dan merujuknya sebagai Elemen Pemikiran.
-Soalan-soalan rangsangan (menggunakan Roda Penaakulan Paul) disertakan dalam Unjuk dan Ujar, Bacaan Bersama Buku-E dan Kefahaman Membaca untuk mendorong murid-murid Darjah 1 hingga 3 agar berfikir dan berbincang secara kritis. Kaedah ini menggalakkan mereka agar melibatkan diri secara aktif dalam pembelajaran Bahasa Melayu. Kaedah ini juga menanam budaya berfikir secara kritis dalam kalangan murid-murid.  
+       Pakej ‘Penilaian Lisan Kendiri’ dihasilkan bagi murid-murid darjah 5 dan 6. Pakej ini bertujuan untuk membantu murid-murid membina keyakinan diri bagi peperiksaan lisan mereka dengan membina kemahiran penilaian kendiri.  Pakej yang bersifat interaktif ini dapat membimbing murid-murid untuk menilai komponen membaca dan bertutur. Murid-murid akan dapat mendengar contoh-contoh bacaan dan pertuturan yang disertakan dengan perincian penerangan bagi band yang diraih sebelum mencubanya sendiri. Dengan menggunakan panduan tersebut, murid-murid dapat menilai prestasi mereka sendiri. Mereka juga akan dapat mengenal pasti band sasaran mereka dan terus berlatih untuk mencapai band tersebut. Pakej ini diharapkan dapat menghasilkan penutur bahasa yang yakin dan cekap.
  </p><br/>
 
-<h4 style="padding-top:12px;margin:10px;color:#a3c864;">The Use Of Paul’s Wheel of Reasoning Model In Learning of Malay Language</h4>
-<p style="margin:10px;">The use of Paul’s Wheel of Reasoning model in learning of Malay Language by Yuhua Primary School aims to equip students with critical and creative thinking (CCT) skills. The Wheel of Reasoning categorises all thinking into eight basic structures  known as Elements of Thought (EOT). <br/>Using Paul’s Wheel of Reasoning, key questions are incorporated into “Show and Tell”, E-Book Shared Reading, and Reading Comprehension to engage lower primary students at different levels of thinking and discussion. This approach has motivated students to actively participate in Malay Language lessons. It also promotes a culture of thinking in students.
+<h4 style="padding-top:12px;margin:10px;color:#a3c864;">Self-Directed Learning in Oral</h4>
+<p style="margin:10px;">The Self-Oral Assessment package was developed for Primary 5 and 6 students. The interactive package aims to help students build confidence for their oral examination by teaching them to self-assess the reading and speaking components. Students can listen to reading and speaking samples, as well as receive explanations and the bands attained based on samples. With this information, students will be able to assess their own performance and identify their target band to continue working towards improvement. Through this package, students are nurtured to become confident and competent speakers of their Mother Tongue Languages.
 </p>
       </div>
 </div>
@@ -110,15 +109,18 @@ Soalan-soalan rangsangan (menggunakan Roda Penaakulan Paul) disertakan dalam Unj
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3" class="lbML">Sekolah Sains dan Teknologi <br/>School of Science and Technology</label>
+      <label for="tab-3" class="lbML">Bersedia, Mula, Menulis!<br/>Lakeside Primary School</label>
       <div class="tab-content">
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mengasah Kemahiran Bahasa melalui Aplikasi Clips</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Bersedia, Mula, Menulis!</h4>
         <p style="margin:10px;">
-          Di Sekolah Sains dan Teknologi, para pelajar terlibat secara aktif dalam pembelajaran dengan penggunaan teknologi. Penggunaan aplikasi iOS Clips memperkaya pengalaman pembelajaran mereka dan menjadikan aktiviti harian sebagai peluang pembelajaran bahasa ibunda. Clips membolehkan para pelajar untuk menghasilkan projek-projek yang menarik dan autentik untuk mengasah kemahiran dan penguasaan bahasa. Pelajar juga dapat memanfaatkan fungsi  Clips untuk menghasilkan pelbagai  kandungan digital bagi pembelajaran. Pada masa yang sama, mereka mampu meningkatkan keyakinan diri dan daya kreatif melalui tugasan-tugasan yang bermakna dan bersifat peribadi.
+          Kumpulan Pembelajaran Profesional (PLT) di Sekolah Rendah Lakeside, yang terdiri daripada guru-guru yang mengajar pelajar Darjah 5 dan Darjah 6, telah memilih  strategi Menjadikan Pemikiran Jelas (MTV) yang sesuai untuk membantu para pelajar menjana idea, mengolah dan menulis karangan menarik yang dapat melibatkan pembaca. <br/>
+            Penggunaan Rutin berfikir seperti ‘Lihat-Fikir-Tanya’, ‘Fikir-Tulis’ dan ‘Apakah yang Menyebabkan Kamu Berkata Begitu?’ membantu murid-murid menyusun proses pemikiran dan memberikan struktur pada idea mereka sebelum menulis. <br/>
+            Hasilnya, murid-murid membina pemahaman yang mendalam mengenai proses pemikiran mereka dan berpeluang belajar daripada rakan sebaya melalui pembelajaran kolaboratif.
         </p><br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Sharpening Language Skills through Clips App</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Ready, Get Set, Write!</h4>
         <p style="margin:10px;">
-         At the School of Science and Technology, students are engaged in active learning via technology through the use of applications such as iOS Clips. These applications enhance their learning experiences and transform everyday activities into language learning opportunities. Clips enable students to create exciting and authentic projects which hone their language skills and competencies. This, in turn, enables students to further harness the app’s functions to create a variety of digital content for learning while simultaneously developing their confidence and creativity.
+        At Lakeside Primary School, our Professional Learning Team (PLT), which comprises Primary 5 and 6 teachers, has selected some Making Thinking Visible  strategies to help students generate ideas, and develop and write effective and engaging compositions. <br/>
+            Thinking strategies and thinking routines such as See-Think-Wonder, Chalk-Talk and What Makes You Say That? help students to make their ideas visible, organise and synthesise their thoughts, and structure ideation prior to writing. Students thus develop a deeper understanding of their thought process, and this gives rise to more opportunities to learn from one another through collaborative learning.
         </p>
       </div>
 </div>
@@ -127,8 +129,51 @@ Soalan-soalan rangsangan (menggunakan Roda Penaakulan Paul) disertakan dalam Unj
  <a href="/mlmoe/Sekolah-Sains-dan-Teknologi/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-4" type="checkbox" name="tab">
+      <label for="tab-4" class="lbML">Drama@QTSS (Drama dalam Pengajaran bagi Meningkatkan Pencapaian dan Motivasi Pelajar)<br/>Queenstown Secondary School</label>
+      <div class="tab-content">
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Drama@QTSS (Drama dalam Pengajaran bagi Meningkatkan Pencapaian dan Motivasi Pelajar)</h4>
+        <p style="margin:10px;">
+          Drama@QTSS boleh dijadikan wadah untuk meneroka aspek praktikal bahasa Melayu. Dengan mengaplikasi teknik drama, pelajar dapat mengukuhkan penguasaan bahasa Melayu dan mengasah kemahiran linguistik dan komunikatif dalam situasi yang autentik dan dinamik. Kemahiran ini juga dapat diterapkan dalam konteks penilaian. Drama berpotensi untuk menjadi alat pengajaran dan pembelajaran yang berpengaruh dalam membentuk perwatakan dan menyemai nilai-nilai murni dalam diri pelajar. Drama@QTSS merupakan usaha untuk menyemai rasa cinta akan bahasa Melayu dan  menghidupkan suasana kelas bahasa  Melayu. Pengajaran yang mengintegrasikan teknik-teknik drama ialah satu pendekatan yang menarik dan tidak dapat dilupakan pelajar kerana sifatnya yang visual dan interaktif.
+        </p><br/>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Drama@QTSS </h4>
+        <p style="margin:10px;">
+ Drama@QTSS provides an excellent platform for exploring practical aspects of Malay language. Drama is a powerful teaching and learning tool for developing character and instilling sound values. The application of drama techniques enables students to strengthen their language acquisition and sharpen their linguistic and communication skills in authentic and dynamic situations. These skills are transferable and can be applied to other contexts such as assessment.  <br/>
+            Drama@QTSS is used to instil the love for the language, making Malay come alive in the classroom. Lessons integrating drama techniques are enjoyable and memorable owing to theirs visual and interactive nature.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg17">
+ <a href="/mlmoe/Sekolah-Sains-dan-Teknologi/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+</td>
+</tr>
+      
+      <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-5" type="checkbox" name="tab">
+      <label for="tab-5" class="lbML">Membesar Bersama Bahasa<br/>Malay Language Centre of Singapore</label>
+      <div class="tab-content">
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Membesar Bersama Bahasa</h4>
+        <p style="margin:10px;">
+         Pusat Bahasa Melayu Singapura (MLCS) akan mempamerkan dua pakej yang bertujuan untuk meningkatkan pembelajaran bahasa Melayu. Pakej pertama merupakan pakej ‘Mari Membaca’ yang disasarkan untuk murid tadika dan peringkat sekolah rendah. Pakej ini mengandungi kad-kad imbasan yang boleh digunakan untuk membantu murid-murid mengeja dan menyebut perkataan-perkataan mengikut kategori. Pakej kedua merupakan Aplikasi ICT interaktif seperti Aplikasi Pintar Kata, Aplikasi Pintar Peribahasa, Aplikasi Cerita-cerita Rakyat Nusantara, Aplikasi Legenda Singapura dan Aplikasi Bitara Kata. Aplikasi-aplikasi ini akan memberikan pengalaman pembelajaran maya yang unik dengan cara yang menyeronokkan.
+        </p><br/>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Growing Up with Language </h4>
+        <p style="margin:10px;">
+ The Malay Language Centre of Singapore (MLCS) will showcase two packages that enhance the learning of Malay. The first package entitled “Let’s Read” is targeted at kindergarten and lower primary students. The package contains flashcards that teach students to spell and pronounce categorised words. The second package is the interactive ICT appsdeveloped by MLCS, including “Smart Vocabulary”, “Smart in Proverbs”, “Folktales of the Malay Archipelago”, “Legend of Singapore” and “Unique Vocabulary”. These apps will provide students with engaging and enjoyable virtual learning experiences.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg17">
+ <a href="/mlmoe/Sekolah-Sains-dan-Teknologi/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+</td>
+</tr>   
 </table>
-
 <hr>
 <div class="image">
   <img src="images/New_footer.jpg" class="Image" width="1000" height="300"></div>
