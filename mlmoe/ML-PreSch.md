@@ -127,10 +127,6 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
  <center><span style="font-size:20px;" >Sila klik di sini untuk menonton video Pengalaman Tadika MOE: </span><br/>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/LockyOmaNB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
  <br/>
-  <p style="font-size:30px;"><strong>KURIKULUM TADIKA MOE
- </strong>
-</p>
-<br/>
 <p>Yang berikut merupakan dua program utama Tadika MOE:
 </p>
  <div class="atab">
