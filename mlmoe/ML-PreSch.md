@@ -126,7 +126,6 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
  </p>
  <center><span style="font-size:20px;" >Sila klik di sini untuk menonton video Pengalaman Tadika MOE: </span><br/>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/LockyOmaNB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
- <br/>
 <p>Yang berikut merupakan dua program utama Tadika MOE:
 </p>
  <div class="atab">
@@ -152,7 +151,7 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
   <p style="font-size:30px;"><strong>Program Literasi Bintang Kecil
  </strong>
 </p>
-  <img src="/images/ML Curriculum Preschool V2-01.jpg"> <br/>
+  <img src="/images/ML Curriculum Preschool V2-01.jpg">
  <p style="text-align:justify;">
  Kurikulum dan Program Tadika MOE dibina berdasarkan <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines" target="_blank">Rangka Kerja Memupuk Pelajar pada Peringkat Awal. </a> <br/>
    <img src="/images/ML-PreSch-C1.png"><br/>
@@ -178,9 +177,6 @@ Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/resources/bahan-baha
 <p id="C3" style="font-size:30px;"><strong>Projek MuM (Minggu untuk Meneroka)</strong>
   </p>
   <img src="/images/ML Curriculum Preschool V2-04.jpg">
-  <br/>
-
-  
 <p>
 Yang berikut merupakan contoh-contoh projek MuM yang terdapat di<a href="https://www.nel.moe.edu.sg/resources/aktiviti-aktiviti-saranan" target="_blank"> Portal NEL.</a><br/>
 <a href="https://www.nel.moe.edu.sg/qql/slot/u575/2019-05-13/2019-04%20-%20NEL_Eh-Samalah_MK@SG_Cikgu_Dian.pdf" target="_blank">"Eh, Samalah!"  Tadika MOE (Sengkang Green)
@@ -225,8 +221,16 @@ Ibu bapa/Waris boleh menyokong pembelajaran dan pembangunan bahasa Ibunda anak/w
 </label>
      <div class="tab-content">
       <img src="/images/ML Curriculum Preschool V2-08.jpg">
+      <p style="text-align:justify;">Anda juga boleh membuat salinan aktiviti-aktiviti di bawah ini untuk dibuat di rumah bersama anak/ waris anda:</p>
+<ul>
+  <li style="text-align:justify;"><a href="https://drive.google.com/file/d/1UlGdWe2XAZmS6sUjW4OC38RLq2Quj5rd/view" target="_blank"><u>Kenali Bahagian Bunga</u></a></li>
+   <li style="text-align:justify;"><a href="https://drive.google.com/file/d/14W0xZ6iqck5cdvG5QJJXjWp5OpDI-lwA/view" target="_blank"><u>Mari Mewarna Di Taman Bunga!
+</u></a></li>
+   <li style="text-align:justify;"><a href="https://drive.google.com/file/d/1j6FOBshSUIH9rsToB8TXmlPfxBgymk_J/view" target="_blank"><u>Latihan Menulis- Di Kebun Bunga 
+</u></a></li>
+   <li style="text-align:justify;"><a href="https://drive.google.com/file/d/1j6FOBshSUIH9rsToB8TXmlPfxBgymk_J/view" target="_blank"><u>Haiwan dan Serangga di Kebun Bunga 
+</u></a></li>
 </div></div>
-
 <p style="text-align:justify;">Untuk mendapatkan contoh Aktiviti Belajar Bahasa Ibunda di Rumah yang lain, sila layari lelaman daripada tadika-tadika ini
 <br/>
 <ul>
