@@ -142,7 +142,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-    <label for="tab-4" class="lbCh"> PCF Sparkletots Preschool @ Woodlands Blk 801 (CC)</label>
+    <label for="tab-4" class="lbCh"> PCF Sparkletots Preschool<br/> @ Woodlands Blk 801 (CC)</label>
       <div class="tab-content">
           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">演一演, 说一说</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">PCF Sparkletots Preschool @ Woodlands Blk 801运用戏剧为孩子们提供了体验、表达和探索的机会。<br/>
@@ -163,7 +163,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5" class="lbCh">Creative O Preschoolers’ Bay</label>
+      <label for="tab-5" class="lbCh">Creative O Preschoolers’ Bay<br/></label>
       <div class="tab-content">
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">母语学习-用全语言让母语活起来！</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
@@ -313,7 +313,7 @@ the SLS to share their views with their peers and showcase their learning. This 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-12" type="checkbox" name="tab">
-      <label for="tab-12" class="lbCh">St. Joseph's Institution (Secondary)</label>
+      <label for="tab-12" class="lbCh">St. Joseph's Institution (Secondary)<br/></label>
       <div class="tab-content">
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">运用数码工具进行母语教学</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
