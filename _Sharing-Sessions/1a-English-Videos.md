@@ -94,11 +94,11 @@ Ms Diana Ser</strong>
    </div>
       <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Raising a Bilingual Reader: Top Practical Tips for Parents</h4>
 <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4>    
-<p style="margin:10px;"><strong>Dr Sabrina Sun He </strong><br/>
+<p style="margin:10px;">
 Dr. Sabrina Sun He is a research scientist at the National Institute of Education, Nanyang Technological University, Singapore . Her research interests include: 1) Child Mother Tongue Language learning and e-book reading for children, 2) individual differences in early bilingualism, and 3) harmonious bilingual experience. Her research explores how cognition and environment co-shape the developmental rate and route of early bilingualism, and how the bilingual experience influences children’s social-emotional skills and executive function.
 </p><br/>
  <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4>  
- <p style="margin:10px;"><strong>MsDiana Ser </strong><br/>
+ <p style="margin:10px;">
 Ms Diana Ser has more than 20 years of experience in the media industry, spanning both English and Chinese language media. She started out as an entertainment presenter, before crossing over to newspaper writing in 2000. A firm believer in bilingual education,  Ms Diana started a digital platform, Crazy About Chinese, in 2017 to advocate early childhood learning of Mother Tongue Language.
 </p><br/>
 <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Synopsis</h4>
