@@ -124,24 +124,14 @@ margin-left:25px;
  Kementerian Pendidikan Singapura mengambil langkah memulakan Tadika MOE bagi menyediakan Pendidikan Prasekolah (Tadika 1 dan Tadika 2) berkualiti yang berpatutan untuk rakyat serta penduduk tetap Singapura. 
 Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-kanak. Untuk mencapai visi ini, Tadika MOE berpegang pada prinsip bahawa kanak-kanak merupakan pelajar yang mempunyai sifat ingin tahu, aktif dan cekap.
  </p>
- <center><span style="font-size:20px;" >Sila klik di sini untuk menonton video Tadika MOE- Di Mana Setiap Ruang Adalah Ruang Pembelajaran: </span><br/>
+ <center><span style="font-size:20px;" >Sila klik di sini untuk menonton video Pengalaman Tadika MOE: </span><br/>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/LockyOmaNB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
  <br/>
   <p style="font-size:30px;"><strong>KURIKULUM TADIKA MOE
  </strong>
 </p>
- <table style="border:none;border-style: none;">
-  <tr>
-    <td><p>Kurikulum dan Program Tadika MOE dibina berdasarkan <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines" target="_blank">Rangka Kerja Memupuk Pelajar pada Peringkat Awal. </a> <br/><br/>
-      Kanak-kanak dipupuk secara holistik dalam enam <a href="https://www.nel.moe.edu.sg/teaching-and-learning/learning-areas/aesthetics-and-creative-expression" target="_blank">bidang pembelajaran.</a>
-</p></td>
-    <td><p>Yang berikut merupakan gambaran keseluruhan bagi <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines
-" target="_blank">Rangka Kerja untuk Bahasa Ibunda.</a></p><br/>
-      <img src="/images/ML-PreSch-C1.png">  </td>
-    </tr>
-</table>
 <br/>
-<p>DUA PROGRAM TADIKA MOE
+<p>Yang berikut merupakan dua program utama Tadika MOE:
 </p>
  <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
@@ -163,8 +153,19 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
 
 </p> </div></div>
 
-  
-  <img src="/images/ML-PRESCHOOL_Image1.jpg"> <br/>
+  <p style="font-size:30px;"><strong>Program Literasi Bintang Kecil
+ </strong>
+</p>
+  <img src="/images/ML Curriculum Preschool V2-01.jpg"> <br/>
+ <p style="text-align:justify;">
+ Kurikulum dan Program Tadika MOE dibina berdasarkan <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines" target="_blank">Rangka Kerja Memupuk Pelajar pada Peringkat Awal. </a> <br/>
+   <img src="/images/ML-PreSch-C1.png"><br/>
+    Rangka Kerja ini dibina dengan keyakinan bahawa kanak-kanak mempunyai sifat ingin tahu, aktif dan cekap.
+   <img src="/images/ML Curriculum Preschool V2-02.jpg"><br/>
+   
+<p id="C3" style="font-size:30px;"><strong>PENDEKATAN MEMBACA BERSAMA</strong>
+  </p>
+  <img src="/images/ML Curriculum Preschool V2-03.jpg"> <br/>
 
 <p style="text-align:justify;">
 Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/resources/bahan-bahan-buku-besar/langkah-pengajaran" target="_blank"> Pendekatan Membaca Bersama (Shared Book Approach) </a> adalah untuk:
@@ -181,7 +182,7 @@ Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/resources/bahan-baha
 </p>
 <p id="C3" style="font-size:30px;"><strong>Projek MuM (Minggu untuk Meneroka)</strong>
   </p>
-  <img src="/images/ML-PRESCHOOL_Image2.jpg">
+  <img src="/images/ML Curriculum Preschool V2-04.jpg">
   <br/>
 
   
