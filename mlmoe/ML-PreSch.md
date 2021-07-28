@@ -203,70 +203,35 @@ Untuk mendapatkan contoh Projek MuM yang lain, sila layari <a href="https://www.
 Ibu bapa/Waris boleh menyokong pembelajaran dan pembangunan bahasa Ibunda anak/waris anda di rumah dengan aktiviti-aktiviti saranan yang berikut. Aktiviti-aktiviti ini dapat melibatkan anak/waris anda melalui bermain dan meneroka. Selain memupuk interaksi yang berkualiti dengan anak/waris anda, aktiviti-aktiviti ini juga dapat membantu ahli keluarga mengeratkan hubungan. <br/><br/>
  Yang berikut merupakan contoh-contoh Aktiviti Belajar Bahasa Ibunda mengikut 4 tema utama dalam pembelajaran dan pengajaran Bahasa Melayu.
 </p>
-<h4>Siapakah Saya?</h4>
-<p style="text-align:justify;">Mari Lakukan Aktiviti Kegemaran<br/><br/>
-Anda boleh meluangkan masa dengan anak/ waris untuk melakukan aktiviti kegemaran mereka. Contoh: bermain basikal, bermain peranan dan melukis gambar.<br/><br/>
-Langkah-langkah:</p>
-<ul>
-  <li style="text-align:justify;">Bincang bersama anak/ waris anda tentang aktiviti kegemaran mereka.</li>
-  <li style="text-align:justify;">Senaraikan bahan-bahan yang diperlukan untuk melakukan aktiviti itu.</li>
-  <li style="text-align:justify;">Ajak anak/ waris anda mengumpulkan bahan-bahan yang diperlukan.</li>
-  <li style="text-align:justify;">Lakukan aktiviti kegemaran itu bersama dengan anak/ waris anda.</li>
-  <li style="text-align:justify;">Ajak anak/ waris anda berkongsi dengan ahli keluarga tentang cara-cara melakukan aktiviti kegemaran mereka dalam Bahasa Melayu.</li>
-  </ul>
-  <h4 style="text-align:justify;">Siapakah Orang-orang dan Apakah Tempat-tempat di Sekeliling Saya?
-Dengan Siapakah Saya Berkongsi Dunia ini?</h4>
-<p style="text-align:justify;">Mari Membuat Model 3D- Tempat Kegemaran Di Kawasan Kejiranan Saya<br/><br/>
-  Anda boleh meluangkan masa dengan anak/ waris anda untuk bersama-sama membuat model 3D tempat kegemarannya di kawasan kejiranan. Contoh: taman, taman permainan, pusat beli-belah dan stesen MRT. 
-<br/><br/>Model tersebut boleh dihasilkan dengan menggunakan bahan-bahan yang terdapat di rumah seperti blok binaan atau bahan-bahan yang boleh dikitar semula. Setelah selesai menghasilkan model itu, anda bolehlah meminta anak/ waris anda untuk menceritakan tentang tempat kegemarannya di kawasan kejiranan. 
-<br/><br/>Langkah-langkah:
-</p>
-<ul>
-  <li style="text-align:justify;">Bincang bersama anak/ waris anda tentang tempat kegemaran mereka di kawasan kejiranan.</li>
-  <li style="text-align:justify;">Senaraikan bahan-bahan yang diperlukan untuk membuat model itu.</li>
-  <li style="text-align:justify;">Ajak anak/ waris anda untuk mengumpulkan bahan-bahan yang diperlukan.</li>
-  <li style="text-align:justify;">Buat model itu bersama anak/ waris anda.</li>
-   <li style="text-align:justify;">Ajak anak/ waris anda untuk mengimbas kembali dengan menceritakan dalam Bahasa Melayu tentang tempat kegemaran mereka itu. </li>
-</ul>
-<h4 style="text-align:justify;">Dengan Siapakah Saya Berkongsi Dunia ini?
-</h4>
-<p style="text-align:justify;">Mari Meneroka- Tumbuh-tumbuhan Dan Binatang Di Sekeliling Saya
-<br/><br/>Anda boleh menyemai nilai menghormati dan menghargai alam di sekeliling dalam diri anak/ waris anda dengan membawa anak/ waris anda  berjalan-jalan di taman. 
-<br/><br/>Langkah-langkah:
-</p>
-<ul>
-  <li style="text-align:justify;">Semasa di taman, ajak anak/ waris untuk menamakan tumbuh-tumbuhan/ binatang yang dilihat.
-</li>
-   <li style="text-align:justify;">Ajak anak/ waris menamakan tumbuh-tumbuhan/ binatang yang menarik perhatiannya.
-</li>
-   <li style="text-align:justify;">Minta anak/ waris berkongsi dalam Bahasa Melayu mengapa tumbuh-tumbuhan/ binatang itu menarik perhatiannya.
-</li>
-</ul>
-<p style="text-align:justify;">Anda juga boleh membuat salinan aktiviti-aktiviti di bawah ini untuk dibuat di rumah bersama anak/ waris anda:</p>
-<ul>
-  <li style="text-align:justify;"><a href="https://drive.google.com/file/d/1UlGdWe2XAZmS6sUjW4OC38RLq2Quj5rd/view" target="_blank"><u>Kenali Bahagian Bunga</u></a></li>
-   <li style="text-align:justify;"><a href="https://drive.google.com/file/d/14W0xZ6iqck5cdvG5QJJXjWp5OpDI-lwA/view" target="_blank"><u>Mari Mewarna Di Taman Bunga!
-</u></a></li>
-   <li style="text-align:justify;"><a href="https://drive.google.com/file/d/1j6FOBshSUIH9rsToB8TXmlPfxBgymk_J/view" target="_blank"><u>Latihan Menulis- Di Kebun Bunga 
-</u></a></li>
-   <li style="text-align:justify;"><a href="https://drive.google.com/file/d/1j6FOBshSUIH9rsToB8TXmlPfxBgymk_J/view" target="_blank"><u>Haiwan dan Serangga di Kebun Bunga 
-</u></a></li>
-  </ul>
-<h4 style="text-align:justify;">Bagaimanakah Sesuatu Benda atau Perkara Berfungsi?</h4>
-<p style="text-align:justify;">Mari Melukis- Alat yang membantu keluarga saya<br/><br/>Anda boleh menggalakkan anak/ waris anda berinteraksi tentang sejenis alat di rumah yang membantu keluarga. Contoh: mesin pengisar, mesin basuh baju dan penyedut habuk. 
-<br/><br/>Langkah-langkah:</p>
-<ul>
-  <li style="text-align:justify;">Bincang bersama anak/ waris anda tentang sejenis satu alat yang membantu keluarga. 
-</li>
-   <li style="text-align:justify;">Kongsi dengan anak/ waris anda bagaimana kehidupan tanpa alat itu, pada zaman dahulu.
-</li>
-   <li style="text-align:justify;">Minta anak/ waris fikirkan bagaimana alat itu boleh diperbaik.
-</li>
-   <li style="text-align:justify;">Ajak anak/ waris anda melukis alat yang dapat diperbaik jika dia diberi peluang menciptanya semula. 
-</li>
-   <li style="text-align:justify;">Ajak anak/ waris anda berkongsi dengan ahli keluarga dalam Bahasa Melayu mengenai alat yang diperbaik itu.
-</li>
-</ul>
+ <div class="atab">
+      <input id="tab-3" type="checkbox" name="tab">
+   <label for="tab-3" class="lbML">Siapakah Saya?
+</label>
+     <div class="tab-content">
+      <img src="/images/ML Curriculum Preschool V2-05.jpg">
+  </div></div>
+ <div class="atab">
+      <input id="tab-4" type="checkbox" name="tab">
+   <label for="tab-4" class="lbML">Siapakah Orang-orang dan Apakah Tempat-tempat di Sekeliling Saya?
+</label>
+     <div class="tab-content">
+      <img src="/images/ML Curriculum Preschool V2-06.jpg">
+  </div></div>
+<div class="atab">
+      <input id="tab-5" type="checkbox" name="tab">
+   <label for="tab-5" class="lbML">Dengan Siapakah Saya Berkongsi Dunia ini?
+</label>
+     <div class="tab-content">
+      <img src="/images/ML Curriculum Preschool V2-07.jpg">
+  </div></div>
+ <div class="atab">
+      <input id="tab-6" type="checkbox" name="tab">
+   <label for="tab-6" class="lbML">Bagaimanakah Sesuatu Benda atau Perkara Berfungsi?
+</label>
+     <div class="tab-content">
+      <img src="/images/ML Curriculum Preschool V2-08.jpg">
+</p> </div></div>
+
 <p style="text-align:justify;">Untuk mendapatkan contoh Aktiviti Belajar Bahasa Ibunda di Rumah yang lain, sila layari lelaman daripada tadika-tadika ini
 <br/>
 <ul>
