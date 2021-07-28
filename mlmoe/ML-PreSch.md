@@ -225,7 +225,7 @@ Ibu bapa/Waris boleh menyokong pembelajaran dan pembangunan bahasa Ibunda anak/w
 </label>
      <div class="tab-content">
       <img src="/images/ML Curriculum Preschool V2-08.jpg">
-</p> </div></div>
+</div></div>
 
 <p style="text-align:justify;">Untuk mendapatkan contoh Aktiviti Belajar Bahasa Ibunda di Rumah yang lain, sila layari lelaman daripada tadika-tadika ini
 <br/>
