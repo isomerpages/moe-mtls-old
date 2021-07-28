@@ -221,7 +221,7 @@ Ibu bapa/Waris boleh menyokong pembelajaran dan pembangunan bahasa Ibunda anak/w
 </label>
      <div class="tab-content">
       <img src="/images/ML Curriculum Preschool V2-08.jpg">
-      <p style="text-align:justify;">Anda juga boleh membuat salinan aktiviti-aktiviti di bawah ini untuk dibuat di rumah bersama anak/ waris anda:
+      <p style="text-align:justify;">Anda juga boleh membuat salinan aktiviti-aktiviti di bawah ini untuk dibuat di rumah bersama anak/ waris anda:</p>
 <ul>
   <li style="text-align:justify;"><a href="https://drive.google.com/file/d/1UlGdWe2XAZmS6sUjW4OC38RLq2Quj5rd/view" target="_blank"><u>Kenali Bahagian Bunga</u></a></li>
    <li style="text-align:justify;"><a href="https://drive.google.com/file/d/14W0xZ6iqck5cdvG5QJJXjWp5OpDI-lwA/view" target="_blank"><u>Mari Mewarna Di Taman Bunga!
@@ -231,7 +231,7 @@ Ibu bapa/Waris boleh menyokong pembelajaran dan pembangunan bahasa Ibunda anak/w
    <li style="text-align:justify;"><a href="https://drive.google.com/file/d/1j6FOBshSUIH9rsToB8TXmlPfxBgymk_J/view" target="_blank"><u>Haiwan dan Serangga di Kebun Bunga 
 </u></a></li>
   
-       </p></div></div>
+       </div></div>
   
 <p style="text-align:justify;">Untuk mendapatkan contoh Aktiviti Belajar Bahasa Ibunda di Rumah yang lain, sila layari lelaman daripada tadika-tadika ini
 <br/>
