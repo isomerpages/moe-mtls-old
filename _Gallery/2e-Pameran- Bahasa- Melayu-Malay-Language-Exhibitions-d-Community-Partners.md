@@ -67,17 +67,67 @@ third_nav_title: 'Pameran Bahasa Melayu'
      <img src="/images/ML-Gallery-Challenge.jpg" style="display:block;">
  <br/>
   <table class="tbl">
+
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbML"> Berita Harian<br/> &nbsp;</label>
+      <input id="tab-2" type="checkbox" name="tab">
+      <label for="tab-2" class="lbML">Esplanade – Teater di Persisiran<br/>Esplanade - Theatres on the Bay</label>
       <div class="tab-content">
-      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Apakah yang Berlaku pada Persekitaran Kita?</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Esplanade – Teater di Persisiran</h4>
+       <p style="margin:10px;">Sebagai pusat persembahan seni kebangsaan Singapura, Esplanade – Teater di Persisiran ingin memastikan setiap lapisan masyarakat berpeluang untuk menikmati karya seni.</p>
+<p style="margin:10px;">Esplanade ingin mewujudkan kesedaran tentang cara mereka mendidik dan memberikan pendedahan kepada golongan muda tentang seni persembahan melalui pelbagai bentuk seni yang ditampilkan sepanjang tahun. Hal ini membolehkan anak-anak muda mengekspresikan kreativiti dan imaginasi mereka.</p>
+<p style="margin:10px;">Para pelajar juga berpeluang untuk mengetahui pelbagai bentuk seni secara dalam talian menerusi bahan-bahan yang disediakan dalam segmen Keluarga dan Sekolah di Esplanade Offstage. Bahan pengajaran ini diharap akan dapat menggalakkan pemerolehan bahasa dalam kalangan anak-anak muda dan mengenali budaya dan tradisi dengan lebih mendalam.  </p><br/>
+      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Esplanade – Theatres on The Bay</h4>
+       <p style="margin:10px;">As Singapore’s national performing arts centre, Esplanade – Theatres on the Bay believes in making the arts accessible to everyone. Esplanade aims to create an awareness of how we expose our young to the performing arts, through educating children in the different art forms presented at the centre all year round, and by offering them opportunities and space to express their own creativity and imagination. Students can also learn more about the various art forms online through resources provided in the Family and Schools section on Esplanade Offstage. These resources encourage both language acquisition and the discovery of different cultures and traditions.</p>
+</div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg17">
+ <a href="/mlmoe/Esplanade-Teater-di-Persisiran/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+</td>
+</tr>
+
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-3" type="checkbox" name="tab">
+      <label for="tab-3" class="lbML">Bahasa Ibundaku, Teman Sejatiku
+<br/>Lee Kuan Yew Fund for Bilingualism</label>
+      <div class="tab-content">
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Bahasa Ibundaku, Teman Sejatiku</h4>
+        <p style="margin:10px;">
+                Penubuhan Dana Kedwibahasaan Lee Kuan Yew diumumkan sewaktu pelancaran buku Encik Lee Kuan Yew, “My Lifelong Challenge: Singapore’s Bilingual Journey” pada tahun 2011.<br/>
+Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggalakkan kedwibahasaan dan pembelajaran bahasa ibunda sebagai bahasa yang hidup. Dengan menyokong pelbagai bahan dan program pembelajaran, dana ini berperanan sebagai pemangkin pembelajaran dan penggunaan bahasa ibunda.<br/>
+            Bahan-bahan sokongan dana kedwibahasaan yang bertujuan untuk menyokong pembelajaran kanak-kanak boleh diakses melalui saluran YouTube dan lelaman sosial Facebook dan Instagram Dana Kedwibahasaan Lee Kuan Yew.
+
+</p>
+<br/>
+<h4 style="padding-top:12px;margin:10px;color:#a3c864;">My Mother Tongue, My Companion</h4>
+        <p style="margin:10px;">
+        The establishment of the Lee Kuan Yew Fund for Bilingualism was announced by Mr Lee Kuan Yew at the launch of My Lifelong Challenge: Singapore’s Bilingual Journey in 2011.</p>
+    <p style="margin:10px;">The Fund supports creative and engaging approaches to encourage bilingualism and the learning of Mother Tongue Languages (MTLs) as living languages. The fund acts as a catalyst in supporting the learning and in the usage of MTLs through various fund-supported resources and programmes. Fun and interesting videos that support the learning of MTLs for young children can be accessed through platforms such as the Fund’s official YouTube channel, Facebook and Instagram.</p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg20">
+ <a href="/mlmoe/Dana-Kedwibahasaan-Lee-Kuan-Yew/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+</td>
+</tr>
+      
+       <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-1" type="checkbox" name="tab">
+      <label for="tab-1" class="lbML"> Stor Atuk<br/> Mediacorp</label>
+      <div class="tab-content">
+      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Stor Atuk</h4>
       <p style="margin:10px;">
-              Berita Harian (BH), melalui artikel dalam akhbar, akhbar edisi pelajar (Gen G) dan audio siar (podcast) telah menekankan pentingnya menjaga alam sekitar sebagai sebahagian daripada isu pemuliharaan alam. Memandangkan isu ini semakin hangat dibincangkan, BH akan memberikan fokus pada tema tersebut bagi Simposium Bahasa Ibunda pada tahun ini. Tema ini akan dipersembahkan dalam bentuk infografik dan aktiviti sampingan yang menarik. Pelajar akan didedahkan kepada kosa kata baharu untuk membiasakan diri mereka dengan istilah yang digunakan dalam perbincangan tentang isu persekitaran.</p><br/>
-          <h4 style="padding-top:12px;margin:10px;color:#a3c864;">What's Happening to our Environment?</h4>
-<p style="margin:10px;">Berita Harian, via its articles, student paper (Gen G) and podcast, has highlighted the importance of taking care of the environment, as part of the national conversation on sustainability. As the environment  becomes increasingly important and relevant in the world today, it is vital that students understand the issue. To do so, they must understand the  language and  terms  used with environmental issues. This is the theme for BH's MTLS programme this year, which will be presented through engaging infographics and other side activities. As students become familiar with the vocabulary and terms used in discussing the environment, their understanding and awareness of environmental issues will also grow.
+              Stor Atuk diterbitkan untuk memperkenalkan cerita-cerita rakyat Melayu kepada anak-anak kecil. Selain mencetus minat, Stor Atuk juga dapat merangsang pembelajaran melalui penggunaan peribahasa, pepatah lama, syair, pantun dan seloka yang diterapkan secara santai dalam perbualan antara watak-watak. <br/>
+          Stor Atuk ialah sebuah drama bersiri untuk kanak-kanak yang mengisahkan watak Atuk Halim menceritakan kisah-kisah yang unik kepada cucu-cucunya. Kisah ini bermula apabila Aarifa dan Alif disuruh menghabiskan cuti sekolah sebulan di rumah datuk mereka. Walaupun tidak berasa teruja pada mulanya, semuanya berubah apabila mereka menemui stor ajaib Atuk. Stor ajaib ini  dipenuhi khazanah purba yang mempunyai kaitan dengan cerita-cerita Atuk.     </p><br/>
+          <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Malay: Atuk’s Store </h4>
+<p style="margin:10px;">Stor Atuk was produced to acquaint children with some of the folklore of Malay culture. To further stimulate their learning, proverbs, old sayings, syair, pantun and seloka are peppered into the characters’ conversations.<br/>
+    Stor Atuk is a children’s drama series where Atuk Halim shares enchanting stories with his two grandchildren. It all began when Aarifa and Alif were told to spend their month-long holiday at their grandpa’s home, much to their displeasure. All that changed when they discovered Atuk Halim’s magical storeroom, packed with ancient relics linked to Atuk’s stories.
 </p>
 </div>
 </div>
@@ -86,112 +136,21 @@ third_nav_title: 'Pameran Bahasa Melayu'
 <a href="/mlmoe/Berita-Harian/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
-<tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbML">Esplanade - Teater di Persisiran<br/>Esplanade - Theatres on the Bay</label>
-      <div class="tab-content">
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Esplanade- Teater di Persisiran</h4>
-       <p style="margin:10px;">Sebagai pusat persembahan seni kebangsaan Singapura, Esplanade – Teater di Persisiran ingin memastikan setiap lapisan masyarakat berpeluang untuk menikmati karya seni.</p>
-<p style="margin:10px;">Esplanade ingin mewujudkan kesedaran tentang cara mereka mendidik  dan memberikan pendedahan kepada  golongan muda mengenai seni persembahan melalui pelbagai bentuk seni yang ditampilkan oleh Esplanade pada sepanjang tahun. Dengan cara ini, Esplanade memberikan peluang dan ruang kepada anak-anak muda untuk mengekspresikan kreativiti dan imaginasi mereka.</p>
-<p style="margin:10px;">Para pelajar juga berpeluang untuk mengetahui lebih lanjut mengenai beraneka bentuk seni secara dalam talian menerusi bahan-bahan yang disediakan dalam bahagian Keluarga dan Sekolah di Esplanade Offstage. Bahan pengajaran ini telah dicipta untuk menggalakkan pemerolehan bahasa dalam kalangan anak-anak muda agar mereka mengenali budaya dan tradisi yang berbeza dengan lebih mendalam.  </p><br/>
-      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Esplanade – Theatres on the Bay</h4>
-       <p style="margin:10px;">As Singapore’s national performing arts centre, Esplanade – Theatres on the Bay believes in making the arts accessible to everyone.<br/>
-       We want to create an awareness of how Esplanade exposes and educates our young to the performing arts through the different art forms we present at the centre all year round, offering children opportunities and space to express their creativity and imagination. </p>
-       <p style="margin:10px;">Students can also learn more about the various art forms online through resources provided on the Family and Schools section on Esplanade Offstage. These resources encourage language acquisition as well as discovery of different cultures and traditions.
-        </p>
-      </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg17">
- <a href="/mlmoe/Esplanade-Teater-di-Persisiran/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
-</td>
-</tr>
-
-
-<tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3" class="lbML">Dana Kedwibahasaan Lee Kuan Yew<br/>Lee Kuan Yew Fund for Bilingualism</label>
-      <div class="tab-content">
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Berseronok dengan Bahasa Ibunda Kita</h4>
-        <p style="margin:10px;">
-                 Penubuhan Dana Kedwibahasaan Lee Kuan Yew (“Dana”) diumumkan semasa pelancaran buku Encik Lee Kuan Yew,“My Lifelong Challenge: Singapore’s Bilingual Journey”pada tahun 2011. <br/>
-Dana ini menyokong pendekatan menarik dan kreatif bagi menggalakkan kedwibahasaan dan pembelajaran Bahasa Ibunda sebagai usaha sepanjang hayat.</p>
-
-<p style="margin:10px;">Pada tahun ini, Dana telah bekerjasama dengan politeknik-politeknik setempat untuk menghasilkan bahan-bahan yang menyokong pembelajaran Bahasa Ibunda dalam kalangan kanak-kanak prasekolah dan belia. Dana juga telah melancarkan Undangan Khas bagi Pengajuan Projek #SayaBolehBerdwibahasa untuk menyokong pembelajaran Bahasa Ibunda dalam kalangan kanak-kanak di rumah.
-</p><br/>
-<h4 style="padding-top:12px;margin:10px;color:#a3c864;">Fun with our Mother Tongue Languages</h4>
-        <p style="margin:10px;">
-        The establishment of the Lee Kuan Yew Fund for Bilingualism (the “Fund”) was announced by Mr Lee Kuan Yew, at the launch of “My Lifelong Challenge: Singapore’s Bilingual Journey” in 2011. </p>
-    <p style="margin:10px;">The Fund supports creative and engaging approaches that encourage bilingualism and the learning of MTLs as a lifelong endeavour. This year, the Fund Committee has collaborated with all the polytechnics to develop resources that encourage the learning of MTLs among pre-school children and young adults. The Fund Committee has also set up a Special Call for Projects at #IamBilingualSG to support the learning of MTLs among young children at home.</p>
-      </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
- <a href="/mlmoe/Dana-Kedwibahasaan-Lee-Kuan-Yew/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
-</td>
-</tr>
-<tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4" class="lbML">M Kuasa Tiga (M<sup>3</sup>) Nee Soon	<br/>M<sup>3</sup> @ Nee Soon</label>
-      <div class="tab-content">
-          <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Kelas Matematika M<sup>3</sup> @ Nee Soon</h4>
-        <p style="margin:10px;text-align:justify;">
-          Pameran maya Kelas Matematika bertujuan untuk berkongsi strategi yang boleh diguna pakai oleh ibu bapa yang mempunyai anak-anak kecil berusia antara 4 hingga 7 tahun. Program-program yang dikendalikan oleh M<sup>3</sup> @ Nee Soon ini sesuai dijalankan di rumah.  M<sup>3</sup> @ Nee Soon akan berkongsi strategi yang boleh digunakan oleh ibu bapa untuk menerangkan konsep-konsep Matematik dengan menggunakan bahasa Melayu. Melalui klip-klip video yang disediakan,  M<sup>3</sup> @ Nee Soon berharap agar ibu bapa dapat menggunakan daya kreativiti mereka untuk menyokong pembelajaran anak-anak di rumah, sekali gus menjadikan ibu bapa lebih aktif dalam pembelajaran anak-anak mereka.
-        </p><br/>
-          <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Kelas Matematika M<sup>3</sup> @ Nee Soon</h4>
-       <p style="margin:10px;">The Kelas Matematika Booth would like to share strategies and the programmes at M<sup>3</sup>@Nee Soon with parents of children aged between 4 to 7 years. Parents can use these strategies and programmes to clarify mathematical concepts at home, using Malay language as the medium of communication. Our videos will show parents how to become advocates of creative thinking and active stakeholders in their child’s learning journey.</p>
-      </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg17">
- <a href="/mlmoe/M-Kuasa-Tiga-(M3)-Nee-Soon/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
-</td>
-</tr>
-
-<tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5" class="lbML">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu <br/>Malay Language Learning and Promotion Committee</label>
-      <div class="tab-content">
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu
-</h4>
-        <p style="margin:10px;">
-          Mari ikuti pengembaraan Nabil dan Nabilah meneroka sebahagian warisan Melayu merentas zaman melalui pantun dan simpulan bahasa.  Pengalaman Nabil dan Nabilah menerokai keindahan dan kekayaan budaya dan bahasa masyarakat Melayu ini bertujuan untuk melestari dan meningkatkan penggunaan bahasa Melayu dalam interaksi harian masyarakat Melayu.  Menerusi kedua-dua watak ini, pengunjung akan dapat menyemai rasa minat dan cinta akan bahasa yang diwarisi.
-        </p><br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Malay Language Learning and Promotion Committee</h4>
-       <p style="margin:10px;">Come on and join Nabil and Nabilah on their enthralling journey into the Malay heritage world.  Discover the timeless beauty of poems and idioms through Nabil’s and Nabilah’s unique experiences. Visitors can be involved in different activities that  immerse them in the Malay language and where they will experience and interact with both poems and day-to-day idioms. </p>
-      </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg23">
- <a href="/mlmoe/Jawatankuasa-Pembelajaran-dan-Penggalakkan-Penggunaan-Bahasa-Melayu/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
-</td>
-</tr>
-<tr>
+      <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
-    <label for="tab-6" class="lbML">Lembaga Warisan Negara<br/>National Heritage Board</label>
+    <label for="tab-6" class="lbML">Kenali bahasa ibunda menerusi warisan dan budaya bersama Lembaga Warisan Negara (NHB)!<br/>National Heritage Board</label>
       <div class="tab-content">
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Lembaga Warisan Negara</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Kenali bahasa ibunda menerusi warisan dan budaya bersama Lembaga Warisan Negara (NHB)!</h4>
 <p style="margin:10px;">
-          Kenali bahasa Ibunda menerusi warisan dan budaya bersama Lembaga Warisan Negara (NHB).
-Mari ketahui lebih lanjut tentang program-program, tip-tip bahasa dan bahan-bahan berguna yang diketengahkan oleh Kempen Bertutur Bahasa Mandarin, Majlis Bahasa Melayu Singapura dan Majlis Bahasa Tamil.
-Pelajari perihal institusi-institusi warisan seperti Pusat Warisan India, Taman Warisan Melayu dan Dewan Peringatan Nanyang Sun Yat Sen serta inisiatif-inisiatif pendidikan warisan yang dianjurkan oleh NHB seperti Khazanah Kecil Singapura, Program Peneroka Warisan dan Program Sudut Warisan Sekolah.
-Ibu bapa dapat mengetahui dengan lebih lanjut tentang peluang pembelajaran yang disediakan untuk anak-anak. Para guru dan pendidik juga boleh menimba ilmu tentang cara-cara meluaskan pembelajaran di luar bilik darjah.
+          Kenali Bahasa Ibunda dengan menelusuri warisan dan budaya bersama Lembaga Warisan Negara (NHB)!<br/>
+Mari ketahui program-program, tip-tip bahasa dan bahan-bahan yang dihasilkan oleh Kempen Bertutur Mandarin, Majlis Bahasa Melayu Singapura dan Majlis Bahasa Tamil dengan lebih lanjut.<br/>
+Dapatkanlah maklumat tentang institusi-institusi warisan seperti Pusat Warisan India, Taman Warisan Melayu dan Dewan Peringatan Nanyang Sun Yat Sen.<br/>
+    Melalui pameran ini, ibu bapa berpeluang mengetahui pembelajaran yang disediakan untuk anak-anak mereka dengan lebih lanjut. Para guru dan pendidik pula berpeluang menimba ilmu tentang cara-cara memperluas pembelajaran di luar darjah.
         </p><br/>
-          <h4 style="padding-top:12px;margin:10px;color:#a3c864;">National Heritage Board</h4>
-               <p style="margin:10px;">Discover Mother Tongue Languages through heritage and culture with the National Heritage Board (NHB).
-Find out more about language programmes, tips and resources with the Speak Mandarin Campaign, the Malay Language Council, Singapore, and the Tamil Language Council.
-Learn more about the Heritage Institutions – Indian Heritage Centre, Malay Heritage Centre and Sun Yat Sen Nanyang Memorial Hall, and the NHB’s heritage education initiatives such as Singapore Little Treasures, Heritage Explorer Programme and School Heritage Corners Programme.
-Parents can find out more about the learning opportunities available for the young, while educators can explore opportunities to expand learning beyond the classroom.</p>
+          <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Discover Mother Tongue Languages through Heritage and Culture with The National Heritage Board </h4>
+               <p style="margin:10px;">Discover Mother Tongue Languages through heritage and culture with the National Heritage Board ! Find out more about language programmes, tips and resources with the Speak Mandarin Campaign, the Malay Language Council, Singapore, and the Tamil Language Council. Learn more about the Heritage Institutions – the Indian Heritage Centre, Malay Heritage Centre and Sun Yat Sen Nanyang Memorial Hall. Parents can find out more about the learning opportunities available for the young, while educators can explore opportunities that expand learning beyond the classroom.</p>
       </div>
 </div>
 </td>
@@ -199,19 +158,25 @@ Parents can find out more about the learning opportunities available for the you
  <a href="/mlmoe/Lembaga-Warisan-Negara/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
-
-<tr>
+      <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
-      <label for="tab-7" class="lbML">Institut Pendidikan Nasional (Kumpulan Akademik Bahasa dan Kebudayaan Asia)<br/>National Institute of Education  (Asian Languages and Cultures Academic Group)</label>
+      <label for="tab-7" class="lbML">Bijak Kata!<br/>National Institute of Education  </label>
       <div class="tab-content">
-         <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Dunia Penceritaan - Keseronokan dalam Pembelajaran Bahasa dan Penyemaian Nilai</h4>
+         <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Bijak Kata!</h4>
         <p style="margin:10px;">
-        Penceritaan merupakan cara terbaik untuk menarik minat kanak-kanak. Melalui penceritaan, kanak-kanak dapat mendalami bahasa ibunda mereka di samping mempelajari nilai budaya masyarakat. Bak kata pepatah, tak kenal maka tak cinta. Melalui pengenalan terhadap nilai yang diserlahkan, kanak-kanak akan lebih memahami dan menghayati budaya serta bahasa mereka. Kumpulan Akademik Bahasa dan Kebudayaan Asia, Institut Pendidikan Nasional (NIE), menyediakan beberapa buah video yang dapat digunakan oleh ibu bapa dalam mempelajari bahasa ibunda dan memupuk nilai-nilai murni dalam diri anak-anak mereka. Ibu bapa dapat mempelajari teknik bercerita untuk membantu anak-anak mereka mempelajari bahasa ibunda dan menyemai nilai budaya di rumah dengan seronok dan menarik.
-        </p><br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">The World of Stories – Fun in Language Learning and Values Inculcation</h4>
-       <p style="margin:10px;">Stories are a great way to engage children as they become immersed  in the language while enjoying the stories and picking up cultural nuances embedded in them. In order to support children’s exposure to cultural values through language learning, the Asian Languages and Cultures Academic Group from the National Institute of Education is making available video resources and tips about the process of storytelling. These will help parents better understand how to fully tap on storytelling to help their children learn MTL and acquire cultural values in a fun and engaging way at home.</p>
+        Pembelajaran kosa kata boleh menjadi sesuatu yang menyeronokkan apabila teknologi diteroka dan dimanfaatkan.  Permainan “Bijak Kata!” direka khas untuk para pelajar sekolah rendah dan ibu bapa. Permainan ini juga bertujuan untuk menjadikan pembelajaran kosa kata secara digital lebih seronok dan kendiri. Ibu bapa juga berpeluang untuk melibatkan diri dalam pembelajaran bahasa Melayu anak-anak mereka. 
+        </p>
+          <p style="margin:10px;">Melalui permainan ini, ibu bapa dan pelajar dapat</p>
+          <ol type="1">
+              <li>1)	menggunakan permainan kosa kata yang tersedia; </li><br/>
+              <li>2)	mencari permainan kosa kata yang relevan berpandukan langkah-langkah yang disediakan untuk pembelajaran kendiri; dan</li><br/>
+              <li>3)	memperkasa diri dengan membina permainan kosa kata berpandukan langkah-langkah yang disediakan.</li>
+          </ol>
+<br/>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Gamify IT!</h4>
+       <p style="margin:10px;">Learning vocabulary can be fun when technology is harnessed and leveraged.  ‘Gamify IT!’ targets both primary students and parents. It aims to make the digital learning of vocabulary enjoyable and self-directed. It also provides the opportunity for parents to be involved in their children’s learning of MTL. There are three sections: (1) Ready-to-use vocabulary games; (2) Step-by-step guidelines on how to search for relevant ready-to-use vocabulary games for students’ self-directed learning; and (3) Step-by-step guidelines to empower students and parents to create their own vocabulary games.  </p>
        
   </div>
 </div>
@@ -220,19 +185,20 @@ Parents can find out more about the learning opportunities available for the you
  <a href="/mlmoe/Institut-Pendidikan-Nasional-(Kumpulan Akademik Bahasa dan Kebudayaan Asia)/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
-<tr>
+      
+      <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
-      <label for="tab-8" class="lbML">Lembaga Perpustakaan Negara<br/>National Library Board</label>
+      <label for="tab-8" class="lbML">Perkhidmatan Perpustakaan Bahasa Melayu<br/>National Library Board</label>
       <div class="tab-content">
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Lembaga Perpustakaan Negara</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Perkhidmatan Perpustakaan Bahasa Melayu</h4>
         <p style="margin:10px;">
-         Lembaga Perpustakaan Negara (NLB) menggalakkan amalan membaca dalam bahasa Ibunda menerusi pelbagai program menarik dan koleksi buku yang luas dan menyeluruh. NLB menawarkan pelbagai kandungan digital yang merangkumi cara-cara baharu dan menarik untuk berinteraksi dengan menggunakan bahasa Ibunda.  Selain itu, ketersediaan kandungan digital menjadikan kegiatan membaca dan pembelajaran mudah diakses dan lebih inklusif. Sesi bercerita berbentuk video yang disampaikan oleh para pustakawan dan sukarelawan menghidupkan lagi penceritaan  sekali gus merangsang daya imaginasi kanak-kanak yang menonton. Usaha ini juga merupakan cara alternatif untuk ibu bapa meluangkan masa dan mempererat hubungan bersama anak-anak mereka.
+         Lembaga Perpustakaan Nasional mempromosikan dan memupuk amalan membaca sepanjang hayat dalam bahasa ibunda menerusi program-program menarik dan koleksi bahan  fizikal dan digital yang luas. Kini, akses kepada sumber bacaan dan ilmu dapat diperoleh dalam keselesaan kediaman masing-masing. Terdapat juga wadah berasaskan teknologi seperti video Masa Bercerita untuk kanak-kanak berumur 4 hingga 8 tahun di laman Facebook, saranan bacaan di aplikasi mudah alih NLB, dan e-bengkel interaktif untuk golongan ibu bapa dan para pendidik. Sumber-sumber ini dapat mencetus pengembangan imaginasi kanak-kanak dengan menghidupkan cerita, sekaligus membantu untuk memupuk tabiat membaca dalam bahasa ibunda sejak mereka kecil lagi.
         </p><br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">National Library Board </h4>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">National Library Board MTL Services </h4>
         <p style="margin:10px;">  
-NLB promotes reading in the Mother Tongue Languages through its engaging programmes and extensive collection of books. NLB’s digital offerings not only provide readers with new and compelling ways to interact with MTLs but also make reading and learning more accessible and inclusive - all in the comfort of their homes. Digital storytelling videos presented by librarians and other reading advocates bring stories alive and spark children’s imagination while offering parents an alternative way to spend quality time with their children and strengthen the bonds with them.</p>
+National Library Board promotes and nurtures lifelong reading in the Mother Tongue Languages through engaging programmes and an extensive collection of physical and digital resources. Reading and learning are now readily accessible in the comfort of our homes. Keep our Mother Tongue Languages alive by tapping on NLB’s digital offerings such as Storytime videos for children aged 4 to 8 years on Facebook, recommended reads on the NLB mobile app, and interactive e-workshops for parents and educators. These activities will spark a child’s imagination by bringing stories alive and help cultivate the habit of reading in Mother Tongue Languages from a young age.</p>
   </div>
 </div>
 </td>
@@ -244,14 +210,14 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-9" type="checkbox" name="tab">
-      <label for="tab-9" class="lbML">Wildlife Reserves Singapore <br/> &nbsp;</label>
+      <label for="tab-9" class="lbML">Mari Bercerita Bersama Taman Haiwan Singapura <br/> Wildlife Reserves Singapore  </label>
       <div class="tab-content">
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Keajaiban Alam Haiwan</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari Bercerita Bersama Taman Haiwan Singapura</h4>
         <p style="margin:10px;">
-          Wildlife Reserves Singapore (WRS) mempersembahkan pameran bilik darjah Keajaiban Alam Haiwan dalam tiga bahasa ibunda untuk peringkat tadika dan sekolah rendah. Dengan bertemakan haiwan, WRS meneroka idea-idea pengajaran yang sesuai untuk memupuk minat kanak-kanak dalam penggunaan bahasa Melayu harian mereka. Terdapat juga pelbagai bahan pendidikan elektronik yang sesuai untuk meningkatkan penguasaan kosa kata kanak-kanak tadika. WRS juga melancarkan buku audio bahasa Melayu yang memaparkan watak Kai Kai dan Jia Jia, kedua-dua ekor panda di River Safari. Bagi murid sekolah rendah, aktiviti dalam talian Jejak Nusantara memberi mereka peluang untuk berlatih menggunakan bahasa Melayu dan memperoleh kemahiran berfikir aras tinggi.
+          Taman Haiwan Singapura menawarkan pelbagai cerita haiwan unik yang boleh digunakan untuk meningkatkan kemahiran bercerita kanak-kanak. Salah satunya ialah cerita tentang memerang yang diselamatkan dalam buku yang bertajuk ‘Si Memerang Terjerat!’.  Buku ini dilengkapi dengan panduan untuk para guru dan  ibu bapa serta aktiviti untuk kanak-kanak. Aktiviti saranan ini dapat memperkasa kemahiran bercerita yang berimaginasi untuk kanak-kanak prasekolah. Aktiviti bercerita yang menyeronokkan dapat memperkaya kosa kata dan menggalakkan kreativiti. Taman Haiwan Singapura juga menyediakan video dan gambar-gambar dari pakej menjejaki taman haiwan yang dibina untuk murid-murid agar dapat mengasah kemahiran berkomunikasi mereka. 
         </p><br/>
-      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Animal Wonderland</h4>
-       <p style="margin:10px;">Animal Wonderland by Wildlife Reserves Singapore presents a living classroom for all three Mother Tongue Languages (MTLs) targeted at both preschool and primary school. Explore pre-visit, in-park and post-visit animal-inspired lesson ideas that motivate children to use Malay in their daily lives. You will find e-teaching aids to help build a copious word bank for preschoolers. Audio story books featuring giant pandas, Kai Kai and Jia Jia, are now available in Malay Language. Primary school students can embark on an e-trail in respective titles in MTLs, where they get to practise their MTLs and acquire higher order thinking skills.</p>
+      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Storytime with Singapore Zoo</h4>
+       <p style="margin:10px;">Singapore Zoo offers unique animal stories that can help develop children’s literacy skills. One such story is about a rescued otter, told through a wordless book, Little Otter Litter Trouble. This book comes with an activity guide for teachers and parents to empower preschoolers to become imaginative storytellers. Storytelling is an engaging way to enrich vocabulary and promote creativity.  Also available are the videos and photographs featured in our zoo trails which are designed for primary school students to provide them the opportunity to speak the language and can sharpen their communication skills.</p>
 </div>
 </div>
 </td>
@@ -259,6 +225,135 @@ NLB promotes reading in the Mother Tongue Languages through its engaging program
  <a href="/mlmoe/Wildlife-Reserves-Singapore/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
+      <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-4" type="checkbox" name="tab">
+      <label for="tab-4" class="lbML"> Kelas Matematika M<sup>3</sup> @ Nee Soon <br/>  PA MESRA   (M<sup>3</sup>)@ Nee Soon</label>
+      <div class="tab-content">
+          <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Kelas Matematika M<sup>3</sup> @ Nee Soon</h4>
+        <p style="margin:10px;text-align:justify;">
+          Reruai maya ‘Kelas Matematika’ bertujuan untuk berkongsi strategi yang boleh diguna pakai oleh golongan ibu bapa yang mempunyai anak-anak kecil  berusia dari 4 hingga 7 tahun. <br/>
+            Program-program yang dikendalikan oleh M3@NeeSoon ini sesuai dijalankan di rumah. Reruai maya ini akan berkongsi strategi yang menerangkan konsep-konsep Matematik  dalam bahasa Melayu. <br/>
+            Kami berharap  agar ibu bapa dapat menggunakan klip-klip video yang disediakan dengan kreatif agar pembelajaran anak-anak dapat dilanjutkan di rumah, sekaligus menjadikan ibu bapa lebih aktif dalam pembangunan akademik anak-anak.
+</p><br/>
+          <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Kelas Matematika M<sup>3</sup> @ Nee Soon</h4>
+       <p style="margin:10px;">The Kelas Matematika booth will share the programmes that M3@NeeSoon provides, targeting mainly parents of children aged 4 to 7 years old. Parents can also pick up strategies on how to clarify mathematical concepts at home in Malay. The videos shared will open doors to creative thinking that will enable parents to be active stakeholders in their child’s learning journey.</p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg17">
+ <a href="/mlmoe/M-Kuasa-Tiga-(M3)-Nee-Soon/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+</td>
+</tr>
+       <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-5" type="checkbox" name="tab">
+      <label for="tab-5" class="lbML">Mari terokai bahasa dan budaya masyarakat Melayu bersama-sama Nabil dan Nabilah  <br/>Malay Language Learning Promotion Committee</label>
+      <div class="tab-content">
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari terokai bahasa dan budaya masyarakat Melayu bersama-sama Nabil dan Nabilah 
+</h4>
+        <p style="margin:10px;">
+         Mari terokai bahasa dan budaya masyarakat Melayu bersama Nabil dan Nabilah!<br/>
+            Ikuti Siri Nabil dan Nabilah menerokai pengalaman menggunakan sajak, pantun, lagu, budaya dan bahasa yang  merupakan warisan orang Melayu. Melalui pengalaman Nabil dan Nabilah, peserta dapat mengenali keindahan dan kekayaan budaya dan bahasa Melayu.  Pengalaman yang disediakan ini bertujuan untuk melestari dan meningkatkan penggunaan bahasa Melayu serta pengetahuan budaya dalam kalangan kanak-kanak dan orang dewasa dalam interaksi seharian mereka.  
+        </p><br/>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Let’s Explore Malay Language and Culture With Nabil and Nabilah!</h4>
+       <p style="margin:10px;">Follow Nabil and Nabilah in their exploration of the linguistic and cultural heritage of the Malays. As they undertake quests to learn vocabulary, poetry and songs, participants will discover the beauty and richness of culture and language and will be motivated to use Malay in their daily interactions.</p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg23">
+ <a href="/mlmoe/Jawatankuasa-Pembelajaran-dan-Penggalakkan-Penggunaan-Bahasa-Melayu/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+</td>
+</tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-10" type="checkbox" name="tab">
+      <label for="tab-10" class="lbML">Mari Bekerjasama untuk Membangunkan Dwibahasa pada Peringkat Awal Kanak-kanak!  <br/>MK@Punggol Green 
+(3MTL)
+</label>
+      <div class="tab-content">
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari Bekerjasama untuk Membangunkan Dwibahasa pada Peringkat Awal Kanak-kanak!</h4>
+        <p style="margin:10px;">
+       Tadika MOE @ Punggol Green memupuk kemahiran dwibahasa dalam murid-murid prasekolah melalui program berasaskan pusat. Program ini bertujuan untuk membina keyakinan kanak-kanak menggunakan bahasa Inggeris dan bahasa ibunda (MTL) di sekolah dan di rumah. Melalui program tersebut, Tadika MOE @ Punggol Green bekerja rapat dengan ibu bapa untuk menyokong kedwibahasaan kanak-kanak selain membantu kanak-kanak menangani perubahan yang dialami mereka. <br/>
+Dengan menyertai aktiviti yang menyeronokkan lagi interaktif dalam pelbagai situasi yang autentik, bahasa ibunda dapat menjadi bahasa sepanjang hayat.  Kanak-kanak ini dapat melihat kerelevanan bahasa ibunda dalam kegiatan harian mereka.  Tambahan lagi, aktiviti-aktiviti tersebut turut membantu kanak-kanak mengamalkan nilai-nilai yang dipelajari di sekolah mahupun di rumah.  
+        </p><br/>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Let’s Work Together to Develop Early Childhood Bilingualism!</h4>
+       <p style="margin:10px;">MOE Kindergarten @ Punggol Green nurtures early childhood bilingualism through a centre-based programme to build children’s confidence in using English and their Mother Tongue Language (MTL) in school and at home. Through this programme, the centre partners parents in supporting children’s bilingualism and helping them manage changes in school and at home. <br/>
+          Using interesting and interactive activities in a variety of meaningful and authentic situations, MTL becomes a living language as children see the relevance of MTL to everyday activities and to enjoy speaking their MTL. The activities also enable children to practice the same values taught in school and at home.</p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg23">
+ <a href="/mlmoe/Jawatankuasa-Pembelajaran-dan-Penggalakkan-Penggunaan-Bahasa-Melayu/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+</td>
+</tr>
+ <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-11" type="checkbox" name="tab">
+      <label for="tab-11" class="lbML">Menghidupkan pembelajaran Bahasa Ibunda melalui ICT <br/>MK@Fernvale</label>
+      <div class="tab-content">
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Menghidupkan pembelajaran Bahasa Ibunda melalui ICT</h4>
+        <p style="margin:10px;">
+     Di Tadika MOE@Fernvale, kami percaya bahawa kanak-kanak belajar melalui permainan secara terarah dan interaksi yang berkualiti dengan memanfaatkan penggunaan teknologi maklumat dan komunikasi (ICT) untuk mencapai pembelajaran yang relevan dan bermakna. Dengan meluaskan pembelajaran mereka melalui alat ICT, kanak-kanak mempunyai kebebasan untuk menentukan corak pembelajaran ketika bersama-sama meneroka persekitaran mereka. <br/>
+Dalam Kurikulum Bahasa Ibunda, pelbagai peralatan ICT dan strategi pembelajaran yang berpusatkan kanak-kanak digunakan untuk meningkatkan mutu pembelajaran. Alat-alat peranti ICT juga sering digunakan setiap hari untuk menyokong pembelajaran. Bagi membentuk kanak-kanak sebagai pelajar bahasa ibunda yang aktif, pelbagai aktiviti ICT yang interaktif dan menyeronokkan direka untuk kanak-kanak belajar mengikut rentak mereka sambil berinteraksi dengan rakan-rakan dan persekitaran mereka.  
+        </p><br/>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Making MTL Learning Come Alive Through ICT</h4>
+       <p style="margin:10px;">MOE Kindergarten @ Fernvale believes in learning through purposeful play and quality interaction while leveraging digital technology to provide relevant and meaningful learning experiences. Learning is further extended with ICT tools, giving young children a sense of empowerment as they collaborate to explore the world around them.  <br/>
+         Various ICT tools and child-centric strategies are used to enhance the quality of learning. Digital devices are also used in the daily class setting to support learning. To nurture children as active MTL learners, fun-filled and interactive ICT activities are designed for them to learn at their own pace while interacting with their peers and things around them.</p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg23">
+ <a href="/mlmoe/Jawatankuasa-Pembelajaran-dan-Penggalakkan-Penggunaan-Bahasa-Melayu/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+</td>
+</tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-12" type="checkbox" name="tab">
+      <label for="tab-12" class="lbML">Berseronok dengan permainan zaman silam <br/>E-Bridge Preschool @ Veranda Matilda</label>
+      <div class="tab-content">
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Berseronok dengan permainan zaman silam</h4>
+        <p style="margin:10px;">
+ 'Berseronok dengan Permainan Zaman Silam' merupakan inisiatif Tadika E-Bridge di Matilda untuk menggalakkan pembelajaran Bahasa Melayu secara interaktif dan menyeronokkan. Dengan melibatkan diri dalam permainan tradisional, kanak-kanak dapat membina sifat ingin tahu dan meneroka, serta bersemangat untuk mendalami budaya Melayu.<br/>
+Kerjasama antara ibu bapa dengan sekolah amat penting untuk meningkatkan kemahiran berkomunikasi dan keyakinan diri kanak-kanak sewaktu bertutur dalam bahasa Melayu. Ibu bapa juga digalakkan untuk bermain permainan tradisional di rumah agar berpeluang untuk sama-sama mengimbau kembali dan berkongsi kenangan manis pada masa kecil mereka. Ini juga akan membolehkan keluarga untuk meningkatkan berinteraksi yang berkualiti dan mengeratkan hubungan. 
+        </p><br/>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Fun with Games of the Past </h4>
+       <p style="margin:10px;">Fun with Games of the Past is an initiative by E-Bridge Preschool @ Matilda to promote the learning of Malay in a lively and interactive manner. Through engaging in traditional games, students develop curious and exploratory minds, and an eagerness to find out more about Malay culture.  <br/>
+        As home-school partnerships play a vital role in helping students strengthen their communication skills and confidence, parents are encouraged to play traditional games at home with their children. This provides an opportunity for families to reminisce about their childhood, which encourages in-depth interaction and strengthens family bonding.</p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg23">
+ <a href="/mlmoe/Jawatankuasa-Pembelajaran-dan-Penggalakkan-Penggunaan-Bahasa-Melayu/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+</td>
+</tr>
+      
+      <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-13" type="checkbox" name="tab">
+      <label for="tab-13" class="lbML">Permainan Tradisional - Congkak<br/>My First Skool (Chin Swee)</label>
+      <div class="tab-content">
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Berseronok dengan permainan zaman silam</h4>
+        <p style="margin:10px;">
+ Bermain dengan permainan congkak merupakan satu usaha My First Skool di Chin Swee untuk memperkenalkan kepelbagaian permainan tradisional secara interaktif kepada kanak-kanak Prasekolah 1 dan 2. <br/>
+Permainan ini  boleh merangsang minda dan memperkasa bahasa dan literasi kanak-kanak. Melalui permainan ini, kanak-kanak dapat belajar mengira dan menggunakan semula barangan terpakai untuk dijadikan kraf tangan.
+        </p><br/>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Traditional Game - Congkak </h4>
+       <p style="margin:10px;">At My First Skool at Chin Swee, Congkak is introduced to the children to familiarise them and enable them to interact with traditional games. Congkak stimulates children’s minds whilst reinforcing their language and literacy skills. It also encourages children to count and make crafts using recycled materials readily available at home.</p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg23">
+ <a href="/mlmoe/Jawatankuasa-Pembelajaran-dan-Penggalakkan-Penggunaan-Bahasa-Melayu/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
+</td>
+</tr>
+     
 </table>
 <hr>
 <div class="image">
