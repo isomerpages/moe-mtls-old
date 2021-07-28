@@ -142,7 +142,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-    <label for="tab-4" class="lbCh"><span style="font-size:25px;font-family:KaiTi"> PCF Sparkletots Preschool @ Woodlands Blk 801 (CC)</label>
+    <label for="tab-4" class="lbCh"> PCF Sparkletots Preschool @ Woodlands Blk 801 (CC)</label>
       <div class="tab-content">
           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">演一演, 说一说</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">PCF Sparkletots Preschool @ Woodlands Blk 801运用戏剧为孩子们提供了体验、表达和探索的机会。<br/>
@@ -163,7 +163,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5" class="lbCh"><span style="font-size:25px;font-family:KaiTi">Creative O Preschoolers’ Bay</label>
+      <label for="tab-5" class="lbCh">Creative O Preschoolers’ Bay</label>
       <div class="tab-content">
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">母语学习-用全语言让母语活起来！</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
@@ -183,7 +183,7 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
-      <label for="tab-6" class="lbCh"><span style="font-size:25px;font-family:KaiTi">胜宝旺小学<br/>Sembawang Primary School</label>
+      <label for="tab-6" class="lbCh"><span style="font-size:25px;font-family:KaiTi">胜宝旺小学 </span><br/>Sembawang Primary School</label>
       <div class="tab-content">
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">说我所想</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
@@ -205,7 +205,7 @@ the SLS to share their views with their peers and showcase their learning. This 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
-      <label for="tab-7" class="lbCh"><span style="font-size:25px;font-family:KaiTi">爱同学校<br/>Ai Tong School</label>
+      <label for="tab-7" class="lbCh"><span style="font-size:25px;font-family:KaiTi">爱同学校 </span><br/>Ai Tong School</label>
       <div class="tab-content">
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">认识华族节日与美食</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
@@ -225,7 +225,7 @@ the SLS to share their views with their peers and showcase their learning. This 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
-      <label for="tab-8" class="lbCh"><span style="font-size:25px;font-family:KaiTi">圣玛格烈小学<br/>St. Margaret’s Primary School</label>
+      <label for="tab-8" class="lbCh"><span style="font-size:25px;font-family:KaiTi">圣玛格烈小学 </span><br/>St. Margaret’s Primary School</label>
       <div class="tab-content">
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">小任务，学习乐</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
@@ -245,7 +245,7 @@ the SLS to share their views with their peers and showcase their learning. This 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-9" type="checkbox" name="tab">
-      <label for="tab-9" class="lbCh"><span style="font-size:25px;font-family:KaiTi">东源小学<br/>East Spring Primary School</label>
+      <label for="tab-9" class="lbCh"><span style="font-size:25px;font-family:KaiTi">东源小学 </span><br/>East Spring Primary School</label>
       <div class="tab-content">
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">东源小学户外学习乐</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
@@ -267,7 +267,7 @@ the SLS to share their views with their peers and showcase their learning. This 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-10" type="checkbox" name="tab">
-      <label for="tab-10" class="lbCh"><span style="font-size:25px;font-family:KaiTi">维林小学<br/>Westwood Primary School</label>
+      <label for="tab-10" class="lbCh"><span style="font-size:25px;font-family:KaiTi">维林小学 </span><br/>Westwood Primary School</label>
       <div class="tab-content">
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">书香处处</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
@@ -290,7 +290,7 @@ the SLS to share their views with their peers and showcase their learning. This 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-11" type="checkbox" name="tab">
-      <label for="tab-11" class="lbCh"><span style="font-size:25px;font-family:KaiTi">德义中学<br/>Deyi Secondary School</label>
+      <label for="tab-11" class="lbCh"><span style="font-size:25px;font-family:KaiTi">德义中学 </span><br/>Deyi Secondary School</label>
       <div class="tab-content">
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">混合式教学——美术馆在线导览</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
@@ -313,7 +313,7 @@ the SLS to share their views with their peers and showcase their learning. This 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-12" type="checkbox" name="tab">
-      <label for="tab-12" class="lbCh"><span style="font-size:25px;font-family:KaiTi">St. Joseph's Institution (Secondary)</label>
+      <label for="tab-12" class="lbCh">St. Joseph's Institution (Secondary)</label>
       <div class="tab-content">
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">运用数码工具进行母语教学</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
