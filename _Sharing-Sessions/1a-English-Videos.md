@@ -63,9 +63,6 @@ max-width:40%;
   width:69%;
   }
 }
-
-     
-
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -83,117 +80,120 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
  <div class="atab atab3Line" >
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbeng">Creating an Immersive Environment for  the Learning of Our Mother Tongue Languages <br/> [Livestreaming on 29 August from 10.00am to 11.00am]<br/>Panel Discussion
-</label>
-      <div class="tab-content"><br/>
-       <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Moderator</h4>
-   
-   <p style="margin:10px;"><strong>Ms Sun Xueling </strong><br/>
-    Minister of State, Ministry of Education & <br/>Ministry of Social and Family Development</p><br/>
-       
- <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile of Panellists</h4>
-  
-  <p style="margin:10px;"><strong>Mr Lawrence Wong </strong><br/>
- Minister for Education and Second Minister for Finance
+      <label for="tab-1" class="lbeng">Raising a Bilingual Reader: Top Practical Tips for Parents<br/>Dr Sabrina Sun He <br/>
+Ms Diana Ser</label>
+  <div class="tab-content">      
+       <br/>
+  <div class="row">
+ <div class="column">
+<img src="#" style="width:100%">
+   </div>
+   <p> <strong>Dr Sabrina Sun He <br/>
+Ms Diana Ser</strong>
+</p>
+   </div>
+      <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Raising a Bilingual Reader: Top Practical Tips for Parents</h4>
+<h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4>    
+<p style="margin:10px;"><strong>Dr Sabrina Sun He </strong><br/>
+Dr. Sabrina Sun He is a research scientist at the National Institute of Education, Nanyang Technological University, Singapore . Her research interests include: 1) Child Mother Tongue Language learning and e-book reading for children, 2) individual differences in early bilingualism, and 3) harmonious bilingual experience. Her research explores how cognition and environment co-shape the developmental rate and route of early bilingualism, and how the bilingual experience influences children’s social-emotional skills and executive function.
 </p><br/>
-       
-  <p style="margin:10px;"><strong>A/P Mukhlis Abu Bakar  </strong><br/>
-Dr Mukhlis Abu Bakar is Associate Professor and Assistant Head/Malay at the Asian Languages and Cultures Academic Group of the National Institute of Education, Nanyang Technological University. Trained as an applied linguist, he teaches in the area of grammar, linguistics, discourse, bilingualism and literacy. His current research interests lie in the field of childhood bilingualism and biliteracy, and a sociocultural approach to literacy learning in the home, school and faith settings. He is a Co-Editor of an upcoming book "The Bloomsbury Handbook on Cultural Identity from Early Childhood to Early Adulthood" due out in 2021.
+ <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4>  
+ <p style="margin:10px;"><strong>MsDiana Ser </strong><br/>
+Ms Diana Ser has more than 20 years of experience in the media industry, spanning both English and Chinese language media. She started out as an entertainment presenter, before crossing over to newspaper writing in 2000. A firm believer in bilingual education,  Ms Diana started a digital platform, Crazy About Chinese, in 2017 to advocate early childhood learning of Mother Tongue Language.
 </p><br/>
-
- <p style="margin:10px;"><strong>Kamilah Binte Kamis </strong><br/>
-Miss Kamilah has been teaching in the preschool sector for 6 years. She was inspired to be a preschool teacher due to her love for young children. She was awarded the Outstanding Pre-school Mother Tongue Language Teacher Award (Outstanding Award) in 2019. She would like to inspire her children to love the Malay Language and is always motivated to design interactive and interesting Malay lessons so that her children will stay positive and engaged towards the learning of the Malay Language. She has also written a bilingual book for children and would like to continue writing books for young children.
-</p><br/>
-
- <p style="margin:10px;"><strong>Dr Sukuna S. Vijayadevar </strong><br/>
-Dr Sukuna S. Vijayadevar is a Lead Curriculum Specialist with NIEC. She has served for many years training and developing on-going professional development for practitioners in early childhood education. Her areas of interest in early childhood include teaching language and literacy, inclusive education and leadership in ECE. Dr Sukuna has also conducted talks and workshops for teachers about teaching Tamil Language in preschools. Her workshops for both early childhood and primary school teachers on story-telling and creation of big books in Tamil have always been well received. 
-</p><br/>
-
- <p style="margin:10px;"><strong> Danny Yeo </strong>
-<br/>Danny Yeo has 30 years of rich experience in various fields. He is a well-established veteran cross-media personality, a prolific theatre director-writer-actor, and remains active and passionate in various areas of involvement: such as events hosting, creative consulting and corporate training. A bilingual extraordinaire and an award-winning lecturer, he has anchored 15 info-entertainment television programmes (2015-2020), written 5 film scripts, authored 4 books in 2 languages and initiated numerous innovative theatrical ideas, particularly for interactive-immersive performances. In recent years, he has presented works on international stages including Shanghai, Macau and New York City. Danny has been a CPCLL committee member since 2008, serving as the vice group leader of the Outreach and Engagement group.
-</p><br/>
-
- <p style="margin:10px;"><strong>Ben Yeo </strong><br/>
-With years of experience in the television and entertainment industry, Ben Yeo is a renowned Mediacorp actor and host. Having starred in numerous productions and variety programmes, many may also regard Ben as a celebrity chef. Trained in SHATEC, Ben possesses excellent cooking skills and is well loved by many clients’ in the food industry. Over the years, Ben has also published two cookbooks and owned various businesses. A doting father to his sons, Ben divides his time between family, work, and cooking.
-</p><br/>
-
 <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Synopsis</h4>
-<p style="margin:10px;">The environment can have a large impact on the development of a child’s language skills. For children to develop fluency in using their Mother Tongue Language, it is vital they use the language to interact and communicate with others in every environment, be it the home, school or community. This early experience in actively using the language plays a critical role in a child’s language development both socially and psychologically.</p>
-
-<p style="margin:10px;">Language learning is a social process. Numerous research studies have shown that the amount and quality of adult-child engagement are two of the strongest enablers for developing language skills in children. Frequent and regular adult-child engagement during the early years is associated with better language comprehension, the earlier achievement of language milestones and overall faster growth of language skills.</p>
-
-<p style="margin:10px;">Come join us for the panel discussion with our Guest-of-Honour, Mr Lawrence Wong; Moderator, Ms Sun Xueling; and advocators of MTL learning including academics, educators, community partner and celebrity parent. They will discuss the importance of early language development and share useful tips on how we can provide an immersive environment in which our children learn and use our MTLs as living languages.</p>
-
-
+<p style="margin:10px;">Parents understand that reading lays the foundation for language learning, but to do it effectively in a fun and engaging manner poses a challenge for most parents. This session gives parents tips on nurturing a bilingual reader from 0 to 6 years old on:</p>
+  <ul>
+   <li>	HOW to read effectively to my child?</li>
+    <li>WHAT tools to use - Are electronic storybooks better? Or does nothing beat an old school picture book?</li>
+    <li>WHEN to start reading to my child?</li>
+   <li>WHAT to do if my Chinese language proficiency is not good enough?	</li>
+  </ul>
+<p style="margin:10px;">With a special interest in teaching with paper and electronic storybooks, NIE research scientist Dr Sun He will share research-based top tips to get parents started with reading to your child. As a mother of three, bilingual TV presenter Diana will share her own experience and challenges of getting her kids to love the Chinese language. </p>
  </div></div> </td>
 <td style="border:0 none;padding: 0;" class="btnImg">
-  <a href="/eng/Panel-Discussion/"><img src="/images/MTLS_arrows_V1(19AUG2020)-05.png"></a>
-
-</td>
+  </td>
 </tr>
  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab atab3Line">
       <input id="tab-2" type="checkbox" name="tab">
-      <label class="lbeng" for="tab-2">Multimodal Approaches to Developing Oracy<br/> [Livestreaming on 29 August from 3.30pm to 4.30pm]  <br/> Dr Connie Lum
+      <label class="lbeng" for="tab-2">Creating an Immersive Bilingual Language Environment for Children at Home  <br/> Dr Mukhlis Abu Bakar<br/>
+Ms Rilla Melati Bahri
+
 </label>
       <div class="tab-content">      
        <br/>
   <div class="row">
  <div class="column">
-<img src="images/EL-Dr-Connie.jpg" style="width:100%">
+<img src="#" style="width:100%">
    </div>
-   <p> <strong>Dr Connie Lum </strong>
- <br/> NTUC First Campus
-<br/>
- Director, Mother Tongue Languages
+   <p> <strong>Dr Mukhlis Abu Bakar<br/>
+Ms Rilla Melati Bahri</strong>
 </p>
    </div>
+       <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Creating an Immersive Bilingual Language Environment for Children at Home</h4>
        <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4></p>
-       <p style="margin:10px;">Dr Connie Lum has worked in the early childhood field for over 20 years. She is currently Director, Mother Tongue Languages (NTUC First Campus).  She works closely with principals and teachers in delivering the Chinese curriculum and programmes to children through curriculum writing, training of teachers, evaluating children’s learning environment, and conducting continuous reviews of curriculum tools and techniques. She is a member of the Promote Chinese Language Learning Pre-School Chinese Language Education Support Group.</p>
-       
-  <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Synopsis</h4></p>  
-       <p style="margin:10px;"><strong> Multimodal Approaches to Developing Oracy </strong><br/>
-        Integrating multimodal experiences, coupled with specific learning objectives and age-appropriate activities, are common pedagogies used in early childhood education. In order to even further recognise and support the diverse abilities and interests of our young learners, plentiful opportunities for lively and authentic expression should be integrated into the child’s environment during the early years. Multimodal approaches in developing oracy such as the use of manipulatives in games, finger puppet activities, paired discussion and storytelling activities, as well as the incorporation of movement into music activities which use verbal communication will be explored in the session.
-
-        
+       <p style="margin:10px;">Dr Mukhlis Abu Bakar is an Associate Professor at the National Institute of Education (NIE), Nanyang Technological University. He obtained his MA and PhD in applied linguistics from the University of Wales, Bangor, UK. He teaches courses in linguistics, discourse analysis, critical literacy and bilingual education, for which he received NIE’s Excellence in Teaching Commendation Award in 2011, 2018 and 2020. His research interests are in the fields of bilingualism, biliteracy, literacy learning, and pronunciation issues in Malay. He is co-editor of a forthcoming book to be published in August, The Bloomsbury Handbook of Cultural Identity from Early Childhood to Early Adulthood.</p>
+ 
+  <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4></p>
+       <p style="margin:10px;">A two-time winner of the prestigious national literary award AnugerahPersuratan (SasteraKanak-Kanak - Malay Literary Award (Children’s Literature), Ms RillaMelatiBahri builds creative content for the classroom and television. She has authored more than 25 children’s books. A theatre studies graduate from NUS, she also holds an MEd from NIE in curriculum and teaching. Ms Rilla is the founder of Mini Monsters Ltd, Asia’s leading bilingual Malay-English edutainment institution that promotes the learning of Malay with the perfect mix of cross-media engagement, education and entertainment. </p>
+ <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Synopsis</h4></p>  
+       <p style="margin:10px;">Creating an immersive bilingual language environment at home remains a challenging task for parents with young children, especially in today’s context where English is increasingly the dominant language in most households. Through this sharing session, participants can come to better understand how to model a love for Malay for their children and acquire an understanding of how to create opportunities for using Malay at home. Parents with young children can also take away some simple tips on how to make Malay learning fun and enjoyable.
 </p>  
-</div></div>
+ <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Membesarkan Kanak-kanak Dwibahasa</h4>
+ 
+ <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profil</h4></p>
+       <p style="margin:10px;">Dr Mukhlis Abu Bakar merupakan Profesor Madya di Institut Pendidikan Nasional (NIE), Universiti Teknologi Nanyang. Beliau memperoleh ijazah MA dan PhD dalam bidang Linguistik Gunaan dari Universiti Wales, Bangor, UK. Beliau mengajar kursus-kursus linguistik, analisis wacana, literasi kritis dan pendidikan dwibahasa, dan pernah menerima Anugerah Kecemerlangan Pengajaran NIE pada tahun 2011, 2018 dan 2020. Minat penyelidikannya tertumpu kepada bidang dwibahasa, dwiliterasi, pembelajaran literasi, dan isu sebutan dalam bahasa Melayu. Beliau merupakanPenyunting Bersama sebuah buku yang bakal terbit pada bulan Ogos ini – The Bloomsbury Handbook of Cultural Identity from Early Childhood to Early Adulthood.</p>
+ 
+  <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profil</h4></p>
+       <p style="margin:10px;">Rilla MelatiBahri,Pemenang Anugerah Persuratan (Sastera Kanak-Kanak) pada tahun 2017 dan 2021membangunkan kandungan kreatif untuk bilik darjah dan juga televisyen. Beliau telah menghasilkan lebih daripada 25 buah buku kanak-kanak. Pemegang Ijazah Kepujian Pengajian Teater dari NUS ini juga memiliki ijazah possiswazah dalam bidang Pendidikan dari NIE-NTU.  Rilla ialah pengasas Mini Monsters Ltd, sebuah institusi didik-hibur dwibahasa (Melayu-Inggeris) yang terkenaldi Asia yang mempromosikan pembelajaran bahasa Melayu melalui kandungan-kandungan silang media yang menarik, mendidik dan menghiburkan.</p>
+       
+<p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Synopsis</h4></p>  
+       <p style="margin:10px;">Membina persekitaran dwibahasa di rumah bukanlah tugas yang mudah bagi sesetengah keluarga, terutama sekali dalam konteks bahasa Inggeris yang semakin menjadi bahasa dominan dalam kalangan keluarga masyarakat Melayu sekarang ini. Melalui sesi perkongsian ini, para peserta dapat memahami cara-cara ibu bapa boleh memupuk rasa cinta akan bahasa Melayu anak-anak mereka, termasuk cara-cara mencipta peluang menggunakan bahasa Melayu di rumah. Ibu bapa yang mempunyai anak-anak kecil juga dapat mendapatkan tip mudah untuk mewujudkan pengalaman pembelajaran bahasa Melayu yang menyeronokkan.
+</p>  
+ </div></div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg">
-  <a href="/eng/Dr-Connie-Lum/"><div ><img src="/images/MTLS_arrows_V1(19AUG2020)-05.png"></div></a>
+
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3" class="lbeng">Raising Bilingual Children: What does the Science Say? 
- <br/> A/P Leher Singh
-
+      <label for="tab-3" class="lbeng">Learning Tamil at Home Can Be Fun! 
+ <br/> Dr NirmalaKaruppiah <br/>
+Mr Jaya Ganesh Isuran
 </label>
       <div class="tab-content">      
        <br/>
   <div class="row">
  <div class="column">
-<img src="images/EL-Dr-Leher-Singh.png" style="width:100%">
+<img src="#" style="width:100%">
    </div>
-   <p> <strong>A/P Leher Singh </strong>
-    <br/>National University of Singapore<br/>Psychology Department <br/>
-    Director of Research
-</p>
+   <p> <strong>Dr NirmalaKaruppiah <br/>
+Mr Jaya Ganesh Isuran
+</strong>
+    </p>
    </div>
+       <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Learning Tamil at Home Can Be Fun!</h4>
 <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4></p>
-  <p style="margin:10px;">Dr. Leher Singh is the Associate Professor of Psychology at the National University of Singapore. She also directs the NUS Infant and Child Language Centre. Her research focuses on the impact of bilingualism on language acquisition, social development and cognitive growth in young children.</p>
+  <p style="margin:10px;">Dr NirmalaKaruppiah is Head, Education for the Centre for Research in Child Development (CRCD) at the National Institute of Education. She has served several years in early childhood education, holding various positions including lecturer, practicum supervisor, research advisor and curriculum consultant. Her research interests include teacher-child interactions, children’s use of screen devices, and diversity and social justice. She has conducted various talks and workshops for parents and teachers and has published books, CD-ROMs and articles in local media and international journals. She has also presented at several local and international conferences. Her work experience spans several countries including Australia, Cambodia, India, Indonesia and Malaysia.</p>
+ 
+ 
+ <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4></p>
+  <p style="margin:10px;">Mr Jaya Ganesh Isuran is a very familiar face in the entertainment industry, known for his roles in Mediacorp’sVasantham dramas. He is also an Radio Jockey at Oli 96.8FM, and a dancer and host for live shows such as Vasantham Star and Dance Jodi, and has been featured in CNA and Today Online about his popularity in the Tamil media. He received the Best Actor in a Comedy Role and the Most Popular Male Personality awards in PradhanaVizha 2021, Mediacorp’s biennial awards show that honours the best in local Indian entertainment. He is a proud father of two boys aged 5 and 4, and an entrepreneur.</p>
+ 
+ 
+ 
 
   <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Synopsis</h4></p> 
-  <p style="margin:10px;"><strong>Raising Bilingual Children: What does the Science Say?</strong><br/>
- Raising bilingual children opens children up to tremendous opportunities. At the same time, families often experience stress when learning how best to raise children to be bilingual. What works and what doesn't? What does the science say? This sharing session will focus on how bilingualism can impact a child’s development, as well as some of the common challenges that parents face. Research-based strategies will be shared on how to support the development of bilingualism in young children and how parents can overcome the challenges they will face.
+  <p style="margin:10px;">In Singapore today, it is common for young children to grow up in predominantly English-speaking homes. Many parents are concerned that their children will not pick up their Mother Tongue Language before going to primary school.  This presentation will discuss how parents can help their children come to love and enjoy speaking Tamil at home through simple everyday activities and interaction. Parents can provide a rich environment and numerous opportunities for their children to explore and learn Tamil at home. In the early years, when children are beginning to learn the language, the focus is picking up oral skills rather than writing skills. Language is best learnt in a stress-free and safe environment (such as the home) with caring and nurturing adults (such as you, parents). 
 </p>
  </div></div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg15">
-  <a href="/eng/Leher-Singh/"><div><img src="/images/MTLS_arrows_V1(19AUG2020)-05.png"></div></a>
 </td>
 </tr> 
  </table>
