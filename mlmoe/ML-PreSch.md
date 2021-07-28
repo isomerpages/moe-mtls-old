@@ -156,7 +156,7 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
  <p style="text-align:justify;">
  Kurikulum dan Program Tadika MOE dibina berdasarkan <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines" target="_blank">Rangka Kerja Memupuk Pelajar pada Peringkat Awal. </a> <br/>
    <img src="/images/ML-PreSch-C1.png"><br/>
-    Rangka Kerja ini dibina dengan keyakinan bahawa kanak-kanak mempunyai sifat ingin tahu, aktif dan cekap.
+    Rangka Kerja ini dibina dengan keyakinan bahawa kanak-kanak mempunyai sifat ingin tahu, aktif dan cekap.<br/>
    <img src="/images/ML Curriculum Preschool V2-02.jpg"><br/>
    
 <p id="C3" style="font-size:30px;"><strong>PENDEKATAN MEMBACA BERSAMA</strong>
