@@ -117,14 +117,14 @@ margin-left:25px;
 </span></a><br/>
 <a href="#C3" style="font-size:20px"><span style="color:blue;">PROJEK MuM
 </span></a><br/>
- <a href="#C4" style="font-size:20px"><span style="color:blue;">Tip Buat Ibu Bapa
+ <a href="#C4" style="font-size:20px"><span style="color:blue;">Panduan Buat Ibu Bapa
 </span></a><br/><br/>
   <p style="text-align:justify;font-size:30px"><strong>TADIKA MOE</strong></p>
  <p style="text-align:justify;">
  Kementerian Pendidikan Singapura mengambil langkah memulakan Tadika MOE bagi menyediakan Pendidikan Prasekolah (Tadika 1 dan Tadika 2) berkualiti yang berpatutan untuk rakyat serta penduduk tetap Singapura. 
 Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-kanak. Untuk mencapai visi ini, Tadika MOE berpegang pada prinsip bahawa kanak-kanak merupakan pelajar yang mempunyai sifat ingin tahu, aktif dan cekap.
  </p>
- <center><span style="font-size:20px;" >Sila klik di sini untuk menonton video Pengalaman Tadika MOE: </span><br/>
+ <center><span style="font-size:20px;" >Sila klik di sini untuk menonton video Tadika MOE- Di Mana Setiap Ruang Merupakan Ruang Pembelajaran.</span><br/>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/LockyOmaNB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p>Yang berikut merupakan dua program utama Tadika MOE:
 </p>
@@ -133,7 +133,7 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
    <label for="tab-1" class="lbML">Program Hi-Light
 </label>
      <div class="tab-content">
-      <p style="text-align:justify;"><a href="https://beta.moe.gov.sg/preschool/moe-kindergarten/curriculum/hi-light/" target="_blank">Program Hi-Light 
+      <p style="text-align:justify;"><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/hi-light" target="_blank">Program Hi-Light 
 </a> menyokong pembangunan kanak-kanak  secara holistik melalui pendekatan bersepadu dalam pembelajaran.  Program tersebut dirancang secara menyeluruh untuk membantu kanak-kanak memahami dunia di sekeliling mereka. Perkara ini dilakukan agar dapat menimbulkan keseronokan dan minat untuk belajar dalam diri kanak-kanak.</p>
   </div></div>
  <div class="atab">
@@ -141,7 +141,7 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
    <label for="tab-2" class="lbML">Program Literasi Bintang Kecil 
 </label>
      <div class="tab-content">
-      <p style="text-align:justify;"><a href="https://beta.moe.gov.sg/preschool/moe-kindergarten/curriculum/starlight/" target="_blank">Program Literasi Bintang Kecil 
+      <p style="text-align:justify;"><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/starlight" target="_blank">Program Literasi Bintang Kecil 
 </a>merangkumi Program Literasi Bintang Kecil Bahasa Inggeris dan Program Literasi Bintang Kecil Bahasa Ibunda. Program Literasi Bintang Kecil ini dibina dengan harapan agar dapat memupuk keupayaan awal kanak-kanak berdwibahasa. <br/>
       Program ini ditawarkan untuk memberikan peluang kepada kanak-kanak untuk menikmati bahasa, berkomunikasi dengan yakin dan menyedari adat dan budaya tempatan. Perkara ini dapat dicapai dengan menyediakan pengajaran dan pembelajaran bahasa yang menyeronokkan kepada kanak-kanak melalui penerokaan sumber yang dibina, seperti buku besar, lagu dan permainan berdasarkan konteks tempatan. Program ini juga memberikan peluang kepada ahli keluarga untuk turut terlibat dalam pembelajaran kanak-kanak. <br/>
        Melalui program ini, kanak-kanak akan membina kemahiran literasi awal melalui kemahiran mendengar dan bertutur.  Kemahiran ini akan membantu bagi membina asas yang kukuh dalam pembelajaran bahasa untuk masa hadapan. <br/>
@@ -186,7 +186,7 @@ Yang berikut merupakan contoh-contoh projek MuM yang terdapat di<a href="https:/
 <a href="https://www.nel.moe.edu.sg/qql/slot/u568/NEL-Portal-Malay-Activity-Idea-Aktiviti-Saranan-WoW-Project-MK-Punggol-V....pdf" target="_blank">“Menjaga Alam Sekitar”  Tadika MOE (Punggol View)
 </a><br/>
 Untuk mendapatkan contoh Projek MuM yang lain, sila layari <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/weeks-of-wonder" target="_blank">  lelaman </a> ini.</p> 
-<p id="C4" style="font-size:30px;"><strong>Tip Buat Ibu Bapa </strong>
+<p id="C4" style="font-size:30px;"><strong>Panduan Buat Ibu Bapa </strong>
   </p>
  <p style="text-align:justify;"><span style="font-size:25px; color:green;">Aktiviti Belajar Bahasa Melayu Di Rumah
 </span>
@@ -224,14 +224,13 @@ Ibu bapa/Waris boleh menyokong pembelajaran dan pembangunan bahasa Ibunda anak/w
       <p style="text-align:justify;">Anda juga boleh membuat salinan aktiviti-aktiviti di bawah ini untuk dibuat di rumah bersama anak/ waris anda:</p>
 <ul>
   <li style="text-align:justify;"><a href="https://drive.google.com/file/d/1UlGdWe2XAZmS6sUjW4OC38RLq2Quj5rd/view" target="_blank"><u>Kenali Bahagian Bunga</u></a></li>
-   <li style="text-align:justify;"><a href="https://drive.google.com/file/d/14W0xZ6iqck5cdvG5QJJXjWp5OpDI-lwA/view" target="_blank"><u>Mari Mewarna Di Taman Bunga!
+   <li style="text-align:justify;"><a href="https://drive.google.com/file/d/14W0xZ6iqck5cdvG5QJJXjWp5OpDI-lwA/view" target="_blank"><u>Mari Mewarna di Taman Bunga!
 </u></a></li>
-   <li style="text-align:justify;"><a href="https://drive.google.com/file/d/1j6FOBshSUIH9rsToB8TXmlPfxBgymk_J/view" target="_blank"><u>Latihan Menulis- Di Kebun Bunga 
+   <li style="text-align:justify;"><a href="https://drive.google.com/file/d/1j6FOBshSUIH9rsToB8TXmlPfxBgymk_J/view" target="_blank"><u>Latihan Menulis-di Kebun Bunga 
 </u></a></li>
    <li style="text-align:justify;"><a href="https://drive.google.com/file/d/1j6FOBshSUIH9rsToB8TXmlPfxBgymk_J/view" target="_blank"><u>Haiwan dan Serangga di Kebun Bunga 
 </u></a></li>
-  
-       </div></div>
+
   
 <p style="text-align:justify;">Untuk mendapatkan contoh Aktiviti Belajar Bahasa Ibunda di Rumah yang lain, sila layari lelaman daripada tadika-tadika ini
 <br/>
