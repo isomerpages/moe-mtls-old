@@ -154,7 +154,7 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
   <img src="/images/ML Curriculum Preschool V2-01.jpg">
  <p style="text-align:justify;">
  Kurikulum dan Program Tadika MOE dibina berdasarkan <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines" target="_blank">Rangka Kerja Memupuk Pelajar pada Peringkat Awal. </a> <br/>
-   <img src="/images/ML-PreSch-C1.png"><br/>
+   <img src="/images/ML-Presch1.jpg"><br/>
     Rangka Kerja ini dibina dengan keyakinan bahawa kanak-kanak mempunyai sifat ingin tahu, aktif dan cekap.<br/>
    <img src="/images/ML Curriculum Preschool V2-02.jpg"><br/>
    
@@ -223,12 +223,12 @@ Ibu bapa/Waris boleh menyokong pembelajaran dan pembangunan bahasa Ibunda anak/w
       <img src="/images/ML Curriculum Preschool V2-08.jpg">
       <p style="text-align:justify;">Anda juga boleh membuat salinan aktiviti-aktiviti di bawah ini untuk dibuat di rumah bersama anak/ waris anda:</p>
 <ul>
-  <li style="text-align:justify;"><a href="https://drive.google.com/file/d/1UlGdWe2XAZmS6sUjW4OC38RLq2Quj5rd/view" target="_blank"><u>Kenali Bahagian Bunga</u></a></li>
-   <li style="text-align:justify;"><a href="https://drive.google.com/file/d/14W0xZ6iqck5cdvG5QJJXjWp5OpDI-lwA/view" target="_blank"><u>Mari Mewarna di Taman Bunga!
+  <li style="text-align:justify;"><a href="/mlmoe/ML Presch - Kenali Bahagian Bunga.pdf" target="_blank"><u>Kenali Bahagian Bunga</u></a></li>
+   <li style="text-align:justify;"><a href="/mlmoe/ML Presch - Kenali Bahagian Bunga.pdf" target="_blank"><u>Mari Mewarna di Taman Bunga!
 </u></a></li>
-   <li style="text-align:justify;"><a href="https://drive.google.com/file/d/1j6FOBshSUIH9rsToB8TXmlPfxBgymk_J/view" target="_blank"><u>Latihan Menulis-di Kebun Bunga 
+   <li style="text-align:justify;"><a href="/mlmoe/ML Presch - Kenali Bahagian Bunga.pdf" target="_blank"><u>Latihan Menulis-di Kebun Bunga 
 </u></a></li>
-   <li style="text-align:justify;"><a href="https://drive.google.com/file/d/1j6FOBshSUIH9rsToB8TXmlPfxBgymk_J/view" target="_blank"><u>Haiwan dan Serangga di Kebun Bunga 
+   <li style="text-align:justify;"><a href="/mlmoe/ML Presch - Kenali Bahagian Bunga.pdf" target="_blank"><u>Haiwan dan Serangga di Kebun Bunga 
 </u></a></li>
 
   
