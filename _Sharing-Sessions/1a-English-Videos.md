@@ -172,7 +172,7 @@ Mr Jaya Ganesh Isuran
  <div class="column">
 <img src="#" style="width:100%">
    </div>
-   <p> <strong>Dr NirmalaKaruppiah <br/>
+   <p> <strong>Dr Nirmala Karuppiah <br/>
 Mr Jaya Ganesh Isuran
 </strong>
     </p>
