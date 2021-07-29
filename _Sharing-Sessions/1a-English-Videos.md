@@ -163,7 +163,7 @@ Ms Rilla Melati Bahri</strong>
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
       <label for="tab-3" class="lbeng">Learning Tamil at Home Can Be Fun! 
- <br/> Dr NirmalaKaruppiah <br/>
+ <br/> Dr Nirmala Karuppiah <br/>
 Mr Jaya Ganesh Isuran
 </label>
       <div class="tab-content">      
@@ -179,7 +179,7 @@ Mr Jaya Ganesh Isuran
    </div>
        <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Learning Tamil at Home Can Be Fun!</h4>
 <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4></p>
-  <p style="margin:10px;">Dr NirmalaKaruppiah is Head, Education for the Centre for Research in Child Development (CRCD) at the National Institute of Education. She has served several years in early childhood education, holding various positions including lecturer, practicum supervisor, research advisor and curriculum consultant. Her research interests include teacher-child interactions, children’s use of screen devices, and diversity and social justice. She has conducted various talks and workshops for parents and teachers and has published books, CD-ROMs and articles in local media and international journals. She has also presented at several local and international conferences. Her work experience spans several countries including Australia, Cambodia, India, Indonesia and Malaysia.</p>
+  <p style="margin:10px;">Dr Nirmala Karuppiah is Head, Education for the Centre for Research in Child Development (CRCD) at the National Institute of Education. She has served several years in early childhood education, holding various positions including lecturer, practicum supervisor, research advisor and curriculum consultant. Her research interests include teacher-child interactions, children’s use of screen devices, and diversity and social justice. She has conducted various talks and workshops for parents and teachers and has published books, CD-ROMs and articles in local media and international journals. She has also presented at several local and international conferences. Her work experience spans several countries including Australia, Cambodia, India, Indonesia and Malaysia.</p>
  
  
  <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4></p>
