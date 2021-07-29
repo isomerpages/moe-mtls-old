@@ -22,7 +22,7 @@ width:80% ;
   gtag('config', 'AW-726049306');
 </script>
 <div>
-<img src="/images/New-Organiser-Banner.PNG">
+<img src="/images/MTLS21-Organiser-Banner.PNG">
 <p>MTLS is an annual event co-organised by MOE, the Committee to Promote Chinese Language Learning (CPCLL), the Malay Language Learning and Promotion Committee (MLLPC) and the Tamil Language Learning and Promotion Committee (TLLPC). 2021 marks the 10th anniversary of MTLS.</p>
  
  <p>This year, MTLS will be a hybrid event featuring both physical and online components.</p>
@@ -37,7 +37,7 @@ width:80% ;
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RXaW1jeuEj4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </center>
-<img src="/images/New-Supporter- Banner.PNG">
+<img src="/images/MTLS21-Supporter-Banner.PNG">
 </div>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
