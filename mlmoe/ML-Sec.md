@@ -139,7 +139,7 @@ margin-left:25px;
 </th>
   </tr>
   <tr>
-    <td style=" text-align: left;padding: 8px; width: 33.33%;">berkomunikasi dengan menggunakan bahasa Melayu baku<br/><br/><br/></td>
+    <td style=" text-align: left;padding: 8px; width: 33.33%;">Berkomunikasi dengan menggunakan bahasa Melayu baku<br/><br/><br/></td>
     <td style=" text-align: left;padding: 8px; width: 33.33%;">Membina identiti melalui penghayatan yang mendalam tentang bahasa, budaya, tradisi, sastera dan sejarah
 </td>
     <td style=" text-align: left;padding: 8px; width: 33.33%;">Menjalin hubungan dengan masyarakat Nusantara dan dunia yang bertutur dalam bahasa Melayu atau yang mengamalkan budaya Melayu 
@@ -151,23 +151,19 @@ margin-left:25px;
  <br/><span style="font-size:20px;" >Penerangan Kurikulum Sekolah Menengah 2021
  </span>
      </center> 
- <br/>
 </p>
   <h4>KURIKULUM SEKOLAH MENENGAH</h4>
   <p style="text-align:justify;">Kurikulum Bahasa Melayu Sekolah Menengah 2021 mula dilaksanakan di sekolah-sekolah untuk kohort menengah satu mulai tahun ini.
   <img src="/mlmoe/ml-sec1.jpg" style="width:100%;">
   <h4  style="font-size:25px;color:green;" >EMPAT CIRI UTAMA
 </h4>
-  <p style="text-align:justify;">
-  Keempat-empat ciri utama dalam Kurikulum Bahasa Melayu Sekolah Menengah 2021 menyokong pengajaran dan pembelajaran di dalam bilik darjah. Ciri-ciri ini diserlahkan dalam bahan Pengajaran dan Pembelajaran JATi yang sedang diguna pakai di sekolah menengah bagi kohort menengah satu tahun ini.</p>
 
   <h4>Sorotan Empat Ciri Utama dalam Kurikulum Bahasa Melayu Sekolah Menengah 2021</h4>
   <img src="/images/ML-Sec_Image1.jpg" style="width:100%;">
   
   <p style="text-align:justify;">Kurikulum Bahasa Melayu Peringkat Sekolah Menengah 2021 menyokong pembelajaran secara kolaboratif untuk menggalakkan pemikiran kritis dan pembelajaran bersama dan daripada satu sama lain</p>
   <img src="/mlmoe/ml-sec07.png" style="width:100%;">
-  <center><iframe width="560" height="315" src="https://vimeo.com/469639582/8e0c371a58"
- frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+  <center><iframe src="https://vimeo.com/469639582/8e0c371a58" width="560" height="315" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
   <h4 style="font-size:25px;color:green;">Gambaran Kurikulum Sekolah Menengah 2021</h4>
   <p style="text-align:justify;">Dasar Pendidikan Singapura yang menegaskan prinsip dwibahasa telah menjadikan Bahasa Melayu sebagai salah satu pelajaran yang wajib dalam kurikulum sekolah di Singapura 1 . Untuk memastikan bahawa dasar kedwibahasaan terus berkesan dan relevan dalam persekitaran bahasa yang dinamik, semakan kurikulum Bahasa Ibunda dijalankan dari semasa ke semasa. Sebagai pelanjutan Kurikulum Bahasa Melayu Sekolah Rendah 20152 , Kurikulum Bahasa Melayu Sekolah Menengah bermula dengan kohort Menengah 1 tahun 2021. Kurikulum Bahasa Melayu Sekolah Menengah dibina untuk memperkukuh dan meningkatkan kemahiran berkomunikasi dan keterampilan berbahasa para pelajar yang telah diperoleh di peringkat sekolah rendah. Beberapa dokumen dan bahan pengajaran bercetak dan digital diterbitkan untuk melaksanakan Kurikulum Bahasa Melayu Sekolah Menengah 2021. Antaranya ialah Sukatan Pengajaran dan Pembelajaran Sekolah Menengah 2021 ini sebagai rujukan guru untuk menyediakan pengajaran dan pembelajaran bagi memenuhi keperluan kurikulum dan program-program Bahasa Melayu di sekolah menengah. Sukatan pengajaran dan pembelajaran ini perlu digunakan sebagai rujukan rasmi bagi kemahiran dan pengetahuan bahasa yang perlu diajarkan kepada pelajar peringkat menengah. Namun, sukatan ini tidak mengandungi kesemua pengetahuan bahasa, pedagogi atau bahan rujukan tuntas untuk guru. Rujukan bahan-bahan lain yang sesuai untuk membantu pembelajaran pelajar perlu dilakukan oleh guru. Pembinaan sukatan pengajaran dan pembelajaran ini telah melibatkan pelbagai pihak yang berkepentingan termasuk guru, pelajar, pengetua sekolah, guru pakar dan ahli akademik. Yang berikut ialah pautan-pautan yang berhubung dengan dasar, sukatan, bahan-bahan pengajaran dan jaringan sokongan:
 </p>
