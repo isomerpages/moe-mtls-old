@@ -321,10 +321,17 @@ margin-left:25px;
  <span style="font-size:25px;"><strong>காமன்வெல்த் உயர்நிலைப்பள்ளி</strong></span>
      <h2>மாணவர்களின் இலக்கியப் படைப்பு 
 </h2>
+    
+   <div class="atab">
+      <input id="tab-1" type="checkbox" name="tab">
+    <label for="tab-1" style="font-size:18px; text-align:justify;">ஶ்ரீராம்_உயர்நிலை 3
+</label>
+     <div class="tab-content">
+<center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/giDBQvuLZp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+</div></div>
      
 <center>
- <span style="font-size:18px; text-align:justify;"> ஶ்ரீராம்_உயர்நிலை 3</span><br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/giDBQvuLZp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br/>
  <span style="font-size:25px;"><strong>ரிவர்சைடு உயர்நிலைப்பள்ளி</strong></span>
 <center>
  <span style="font-size:18px; text-align:justify;">அன்பழகன் நிவேதிதா _உயர்நிலை 3 </span><br/>
