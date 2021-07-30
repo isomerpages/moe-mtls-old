@@ -64,10 +64,8 @@ third_nav_title: 'Pameran Bahasa Melayu'
 </script>
 </head>
 <body>
-     <img src="/images/ML-Gallery-Challenge.jpg" style="display:block;">
- <br/>
+     <br/>
   <table class="tbl">
-
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
@@ -84,10 +82,8 @@ third_nav_title: 'Pameran Bahasa Melayu'
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg17">
- <a href="/mlmoe/Esplanade-Teater-di-Persisiran/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
-</td>
+ </td>
 </tr>
-
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
@@ -100,7 +96,6 @@ third_nav_title: 'Pameran Bahasa Melayu'
                 Penubuhan Dana Kedwibahasaan Lee Kuan Yew diumumkan sewaktu pelancaran buku Encik Lee Kuan Yew, “My Lifelong Challenge: Singapore’s Bilingual Journey” pada tahun 2011.<br/>
 Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggalakkan kedwibahasaan dan pembelajaran bahasa ibunda sebagai bahasa yang hidup. Dengan menyokong pelbagai bahan dan program pembelajaran, dana ini berperanan sebagai pemangkin pembelajaran dan penggunaan bahasa ibunda.<br/>
             Bahan-bahan sokongan dana kedwibahasaan yang bertujuan untuk menyokong pembelajaran kanak-kanak boleh diakses melalui saluran YouTube dan lelaman sosial Facebook dan Instagram Dana Kedwibahasaan Lee Kuan Yew.
-
 </p>
 <br/>
 <h4 style="padding-top:12px;margin:10px;color:#a3c864;">My Mother Tongue, My Companion</h4>
@@ -111,11 +106,9 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
- <a href="/mlmoe/Dana-Kedwibahasaan-Lee-Kuan-Yew/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
-</td>
+ </td>
 </tr>
-      
-       <tr>
+  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
@@ -133,7 +126,6 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
 </div>
     </td>
 <td style="border:0 none;padding: 0;" class="btnImg17" >
-<a href="/mlmoe/Berita-Harian/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
       <tr>
@@ -155,8 +147,7 @@ Dapatkanlah maklumat tentang institusi-institusi warisan seperti Pusat Warisan I
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg17">
- <a href="/mlmoe/Lembaga-Warisan-Negara/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
-</td>
+ </td>
 </tr>
       <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -177,13 +168,11 @@ Dapatkanlah maklumat tentang institusi-institusi warisan seperti Pusat Warisan I
 <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Gamify IT!</h4>
        <p style="margin:10px;">Learning vocabulary can be fun when technology is harnessed and leveraged.  ‘Gamify IT!’ targets both primary students and parents. It aims to make the digital learning of vocabulary enjoyable and self-directed. It also provides the opportunity for parents to be involved in their children’s learning of MTL. There are three sections: (1) Ready-to-use vocabulary games; (2) Step-by-step guidelines on how to search for relevant ready-to-use vocabulary games for students’ self-directed learning; and (3) Step-by-step guidelines to empower students and parents to create their own vocabulary games.  </p>
-       
+      
   </div>
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg24">
- <a href="/mlmoe/Institut-Pendidikan-Nasional-(Kumpulan Akademik Bahasa dan Kebudayaan Asia)/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
-</td>
 </tr>
       
       <tr>
@@ -203,7 +192,6 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg17">
- <a href="/mlmoe/Lembaga-Perpustakaan-Negara/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
  </tr>
 <tr>
@@ -222,7 +210,6 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg17">
- <a href="/mlmoe/Wildlife-Reserves-Singapore/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
       <tr>
@@ -243,8 +230,7 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg17">
- <a href="/mlmoe/M-Kuasa-Tiga-(M3)-Nee-Soon/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
-</td>
+ </td>
 </tr>
        <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -264,8 +250,7 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg23">
- <a href="/mlmoe/Jawatankuasa-Pembelajaran-dan-Penggalakkan-Penggunaan-Bahasa-Melayu/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
-</td>
+ </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -287,7 +272,6 @@ Dengan menyertai aktiviti yang menyeronokkan lagi interaktif dalam pelbagai situ
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg23">
- <a href="/mlmoe/Jawatankuasa-Pembelajaran-dan-Penggalakkan-Penggunaan-Bahasa-Melayu/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
  <tr>
@@ -308,7 +292,6 @@ Dalam Kurikulum Bahasa Ibunda, pelbagai peralatan ICT dan strategi pembelajaran 
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg23">
- <a href="/mlmoe/Jawatankuasa-Pembelajaran-dan-Penggalakkan-Penggunaan-Bahasa-Melayu/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -329,11 +312,9 @@ Kerjasama antara ibu bapa dengan sekolah amat penting untuk meningkatkan kemahir
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg23">
- <a href="/mlmoe/Jawatankuasa-Pembelajaran-dan-Penggalakkan-Penggunaan-Bahasa-Melayu/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
-      
-      <tr>
+ <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-13" type="checkbox" name="tab">
@@ -350,11 +331,9 @@ Permainan ini  boleh merangsang minda dan memperkasa bahasa dan literasi kanak-k
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg23">
- <a href="/mlmoe/Jawatankuasa-Pembelajaran-dan-Penggalakkan-Penggunaan-Bahasa-Melayu/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
-     
-</table>
+ </table>
 <hr>
 <div class="image">
   <img src="images/New_footer.jpg" class="Image" width="1000" height="300"></div>
