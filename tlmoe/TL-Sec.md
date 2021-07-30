@@ -231,8 +231,9 @@ margin-left:25px;
 </table>
   <img src="/tlmoe/TL-Books.gif" style="width: 60%;">
   
-  <p id="C11" style="white">.</p>
+  <p id="C11">.</p>
 <img src="/images/TL-Sec_Image04.jpg"><br/><br/>
+ <center>
  <div class="row">
   <div class="column">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/jisfwIJXdCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -240,27 +241,14 @@ margin-left:25px;
   <div class="column">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/grfbtAhjzxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
-</div>
+  </div></center>
 
-     <p id="C12" style="white">.</p>
+     <p id="C12">.</p>
 <img src="/images/TL-Sec_Image05.jpg">
  <center>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/nnuIhutTDUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<table style=" border-collapse: collapse; width: 100%;">
-<tr>
-    <td style=" text-align: left;padding: 8px;width:60%;">
-    <p style="text-align:justify;">
-சிங்கப்பூர்க் கல்வி அமைச்சின் பள்ளிகளில் பயிலும் மாணவர்களும் கற்பிக்கும் ஆசிரியர்களும் மாணவர் கற்றல் தளத்தைப் பயன்படுத்த இயலும்.   </p></td>
- <td style=" text-align: left;padding: 8px;">
-  Image Pending 6
-    </td>
-  </tr>
-  </table>
-  <p style="text-align:justify;">சொல்வளப் பெருக்கம் 
-<br/><br/>
-மாணவர்கள் சரளமாக உரையாடுவதற்கு அவர்களிடம் போதுமான சொல்வளம் இருத்தல் வேண்டும். அதற்குரிய சொல்வளப் பெருக்க நடவடிக்கைகள் உயர்நிலைப் பாடநூல்களில் இணைக்கப்பெற்றுள்ளன. <br/><br/>
-Pending Image 7
-</p>
+
+<img src="/images/TL-Sec_Image06.jpg">
  <p style="text-align:center;"><strong>சமொழி விளையாட்டு </strong></p>
 
 <table style="  border-collapse: collapse;
@@ -291,12 +279,7 @@ Pending Image 7
     </tr>
 </table>
 <br/>
- <p style="text-align:justify;">கற்போம்; படைப்போம் – நானும் ஒரு படைப்பாளி 
-
-<br/><br/>
-படைப்பாக்கத்திறனை வளர்ப்பதோடு மொழியில் ஈடுபாடும் நாட்டமும் ஏற்பட வழிவகுக்கும். மாணவர்கள் தங்கள் வாழ்க்கைக்குத் தேவையான திறன்களை இதன்வழி பெறுவர். தமிழ்மொழியில்: சிற்றேடு தயாரித்தல், மின்னஞ்சல் எழுதுதல், சுவரொட்டி வடிவமைத்தல். 
-</p>
-
+<img src="/images/TL-Sec_Image07.jpg">
 <table style=" border-collapse: collapse; width: 100%;">
 <tr>
     <td style=" text-align: left;padding: 8px;width:33%;">
@@ -317,22 +300,8 @@ Pending Image 7
   <strong>உயர்நிலை 3-இல் </strong>பயிலும் மாணவர்களுக்குத் தமிழ் இலக்கியம் ஒரு பாடமாக வழங்கப்படுகிறது. 
 இப்பாடத்தைப் பயில விரும்பும் மாணவர்கள் உயர்நிலை 2 இறுதியில் தமிழ்மொழியில் A2 அல்லது உயர்தமிழில் B3 பெற்றிருத்தல் வேண்டும்.
 </p>
- <table style="border-collapse: collapse; width: 100%;">
- <tr>
-  <td><p><strong>இலக்கு</strong><br/><br/>
-இலக்கியப் படைப்பாளிகளை உருவாக்குதல்<br/>
-சிந்தனை வளமுடைய வாசகர்களை வளர்த்தல்<br/>
-உலகளாவிய பார்வையுடையவர்களை உருவாக்குதல்<br/>
-நுண்ணாய்வுச் சிந்தனையுடையவர்களை உருவாக்குதல்<br/>
-புத்தாய்வுச் சிந்தனையுடைய படைப்பாளிகளை வளர்த்தல்<br/><br/>
-<a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank"> தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019</a></p>
-</td>
-  <td>
-  <img src="/images/TL-Sec-right1.png"><br/>
-   <span style="color:purple;font-size:20px;"><strong> <center>இலக்கியப் பாடத்திட்டப் <br/>பணிச்சட்டம் </center> </strong></span><br/>
-  </td>
- </tr>
- </table>
+<img src="/images/TL-Sec_Image08.jpg">
+<p><a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank"> தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019</a></p>
 
 <h2 id="C8">தமிழ்மொழி விருப்பப்பாடத் திட்டம் </h2>
  <h4 id="C3"><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்<br/>
@@ -344,34 +313,16 @@ Pending Image 7
  <strong>இத்திட்டத்தின் நோக்கம் </strong><br/>
 தகுதி வாய்ந்த மாணவர்களைத் தமிழ்மொழியில் ஆற்றல் மிக்கவர்களாகவும் தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வைப் பேணி வளர்க்கவும் இத்திட்டம் வகைசெய்யும். அதோடு, மாணவர்களை இருமொழியாற்றல் மிக்கவர்களாக உருவாக்குவதே இந்தத் திட்டத்தின் நோக்கமாகும்.
 </p><br/>
- <h4><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் வழங்கப்படும்              உயர்நிலைப்பள்ளிகள், தொடக்கக்கல்லூரிகள்</span>
-</h4>
+<img src="/images/TL-Sec_Image09.jpg">
+<img src="/images/TL-Sec_Image10.jpg">
+<img src="/images/TL-Sec_Image11.jpg">
  <div class="row">
  <div class="column">
-  <p><strong>உயர்நிலைப் பள்ளிகள்</strong>
-<br/>
-   <ul>
-    <li>காமன்வெல்த் உயர்நிலைப்பள்ளி
-</li>
-     <li>ரிவர்சைடு உயர்நிலைப்பள்ளி
-</li>
-     <li>யீசூன் டவுன் உயர்நிலைப்பள்ளி
-</li>
-   </ul>
-  <a href="/Gallery/TL-Sec-tlep-sec-infosheet-students-2019.pdf " target="_blank">TLEP Infosheet - Secondary</a></p>
+  <p><a href="/Gallery/TL-Sec-tlep-sec-infosheet-students-2019.pdf " target="_blank">TLEP Infosheet - Secondary</a></p>
   </div> 
 
  <div class="column">
-
-  <p><strong>தொடக்கக்கல்லூரிகள்</strong>
-<br/>
-  <ul>
-  <li>ஆண்டர்சன்-சிராங்கூன் <br/>தொடக்கக்கல்லூரி
-</li>
-    <li>தேசியத் தொடக்கக்கல்லூரி
-</li>
- </ul>
-<a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf " target="_blank">TLEP Infosheet - JC</a></p> 
+  <p><a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf " target="_blank">TLEP Infosheet - JC</a></p> 
    </div> 
    </div>
    <br/>
