@@ -18,7 +18,6 @@ max-width:100%;
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'AW-726049306');
 </script>
   <body> 
