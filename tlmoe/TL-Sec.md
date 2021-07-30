@@ -280,19 +280,6 @@ margin-left:25px;
 </table>
 <br/>
 <img src="/images/TL-Sec_Image07.jpg">
-<table style=" border-collapse: collapse; width: 100%;">
-<tr>
-    <td style=" text-align: left;padding: 8px;width:33%;">
-    <img src="/tlmoe/tl-sec01.png">
-   </td>
- <td style=" text-align: left;padding: 8px;width:33%;">
-  <img src="/tlmoe/tl-sec02.png">
-    </td>
-    <td style=" text-align: left;padding: 8px;width:33%;">
-  <img src="/tlmoe/tl-sec03.png">
-    </td>
-  </tr>
-  </table>
    <h2 id="C7">தமிழ் இலக்கியம்</h2>
 <h4 id="C2"><span style="font-size:30px;color:purple;">தமிழ் இலக்கியம் 
  </span></h4>
@@ -315,6 +302,7 @@ margin-left:25px;
 </p><br/>
 <img src="/images/TL-Sec_Image09.jpg">
 <img src="/images/TL-Sec_Image10.jpg">
+     <br/>
 <img src="/images/TL-Sec_Image11.jpg">
  <div class="row">
  <div class="column">
