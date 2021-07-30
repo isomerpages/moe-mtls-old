@@ -83,7 +83,6 @@ table.center {
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'AW-726049306');
 </script>
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
