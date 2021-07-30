@@ -13,7 +13,6 @@ third_nav_title: 'Pameran Bahasa Melayu'
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'AW-726049306');
 </script>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-b/moe-curriculum/">
