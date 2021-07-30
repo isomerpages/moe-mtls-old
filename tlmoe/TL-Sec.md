@@ -231,12 +231,18 @@ margin-left:25px;
 </table>
   <img src="/tlmoe/TL-Books.gif" style="width: 60%;">
   
-  <p id="C11">.</p>
+  <p id="C11" style="white">.</p>
 <img src="/images/TL-Sec_Image04.jpg"><br/><br/>
- <center>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/grfbtAhjzxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+ <div class="row">
+  <div class="column">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jisfwIJXdCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div class="column">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/grfbtAhjzxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</div>
 
-     <p id="C12">.</p>
+     <p id="C12" style="white">.</p>
 <img src="/images/TL-Sec_Image05.jpg">
  <center>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/nnuIhutTDUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
