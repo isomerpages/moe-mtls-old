@@ -168,11 +168,11 @@ Dapatkanlah maklumat tentang institusi-institusi warisan seperti Pusat Warisan I
 <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Gamify IT!</h4>
        <p style="margin:10px;">Learning vocabulary can be fun when technology is harnessed and leveraged.  ‘Gamify IT!’ targets both primary students and parents. It aims to make the digital learning of vocabulary enjoyable and self-directed. It also provides the opportunity for parents to be involved in their children’s learning of MTL. There are three sections: (1) Ready-to-use vocabulary games; (2) Step-by-step guidelines on how to search for relevant ready-to-use vocabulary games for students’ self-directed learning; and (3) Step-by-step guidelines to empower students and parents to create their own vocabulary games.  </p>
-      
-  </div>
+       </div>
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg24">
+          </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
