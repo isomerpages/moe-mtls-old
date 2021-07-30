@@ -230,13 +230,13 @@ Ibu bapa/Waris boleh menyokong pembelajaran dan pembangunan bahasa Ibunda anak/w
 </u></a></li>
    <li style="text-align:justify;"><a href="/mlmoe/ML Presch - Kebun Bunga.pdf" target="_blank"><u>Haiwan dan Serangga di Kebun Bunga 
 </u></a></li>
-  </div></div>
+  </ul></div></div>
+ 
   
-<p style="text-align:justify;">Untuk mendapatkan contoh Aktiviti Belajar Bahasa Ibunda di Rumah yang lain, sila layari lelaman daripada tadika-tadika ini
-<br/>
+<p style="text-align:justify;">Untuk mendapatkan contoh Aktiviti Belajar Bahasa Ibunda di Rumah yang lain, sila layari lelaman daripada tadika-tadika ini</p>
 <ul>
  <li><a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/">Tadika MOE @ Fernvale </a></li>
  <li><a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/">Tadika MOE @ Punggol Green </a></li>
-</ul></p>
+</ul>
  
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
