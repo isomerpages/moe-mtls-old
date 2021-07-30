@@ -233,14 +233,13 @@ margin-left:25px;
   
   <p id="C11">.</p>
 <img src="/images/TL-Sec_Image04.jpg"><br/><br/>
+ <center>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/grfbtAhjzxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-Image Pending 5</p>
- <p style="text-align:justify;">மொழி கற்றலுக்குத் துணைவளமாக அமையும் தற்கால நடப்புச் செய்திகள் 
-<br/><br/>
- வமாணவர்கள் தங்கள் பாடநூலிலுள்ள பனுவலோடு தற்கால நடப்புச் செய்திகளைப் பொருத்திப் பார்க்கவும் அவை தொடர்பான கலந்துரையாடலில் ஈடுபடவும் இப்புதுக் கூறு வழிவகுக்கிறது. 
-<br/><br/>
-இதற்காகவே மாணவர் கற்றல் தளத்தில் பாடப்பனுவலுக்குத்  தொடர்பான நடப்புச் செய்திகள் இணைக்கப்பட்டுள்ளன. அவற்றை மின் செய்தியாகவோ ஒளிக்காட்சியாகவோ மாணவர்கள் பெறலாம். 
-</p>
+     <p id="C12">.</p>
+<img src="/images/TL-Sec_Image05.jpg">
+ <center>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/nnuIhutTDUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <table style=" border-collapse: collapse; width: 100%;">
 <tr>
     <td style=" text-align: left;padding: 8px;width:60%;">
