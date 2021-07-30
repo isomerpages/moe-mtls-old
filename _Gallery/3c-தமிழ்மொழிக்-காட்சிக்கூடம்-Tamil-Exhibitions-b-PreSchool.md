@@ -60,8 +60,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </script>
 </head>
 <body>
-     <img src="/images/MTLS_Challenge_V3(26AUG2020)-07.jpg" style="display:block;">
- <br/>
+    <br/>
   <table class="tbl">
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -81,8 +80,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
- <a href="/tlmoe/கல்வி-அமைச்சின்-பாலர்-பள்ளி-(ஃபேரர் பார்க்)/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
-</td>
+ </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -102,7 +100,6 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
- <a href="/tlmoe/கல்வி-அமைச்சின்-பாலர்-பள்ளி-(வோட்டர்வே)/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
 </td>
 </tr>
 <tr>
@@ -123,7 +120,6 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
- <a href="/tlmoe/ராமகிருஷ்ண-மிஷன்-சாரதா-பாலர்-பள்ளி/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
 </td>
 </tr>
 </table>
