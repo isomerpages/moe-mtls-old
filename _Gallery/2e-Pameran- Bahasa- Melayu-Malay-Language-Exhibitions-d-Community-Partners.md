@@ -174,8 +174,7 @@ Dapatkanlah maklumat tentang institusi-institusi warisan seperti Pusat Warisan I
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg24">
 </tr>
-      
-      <tr>
+<tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
