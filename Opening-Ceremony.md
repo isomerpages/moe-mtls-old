@@ -17,7 +17,6 @@ width:80% ;
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'AW-726049306');
 </script>
 <img src="/images/GOH-Message-Banner.jpg" style="display:none;">
