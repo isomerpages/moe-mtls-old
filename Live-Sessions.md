@@ -10,7 +10,6 @@ breadcrumb: Live Sessions
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'AW-726049306');
 </script>
  <a href="/opening-ceremony/"><img src="/images/01mtls-programme-cl-opening-1.jpg"></a>
