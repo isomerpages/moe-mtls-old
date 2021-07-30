@@ -60,8 +60,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 </script>
 </head>
 <body>
-     <img src="/images/ML-Gallery-Challenge.jpg" style="display:block;">
- <br/>
+   <br/>
   <table class="tbl">
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -81,7 +80,6 @@ third_nav_title: 'Pameran Bahasa Melayu'
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg17">
- <a href="/mlmoe/Sekolah-Rendah-Bendemeer/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -102,7 +100,6 @@ third_nav_title: 'Pameran Bahasa Melayu'
 </div>
 </td> 
 <td style="border:0 none;padding: 0;" class="btnImg17">
-<a href="/mlmoe/Sekolah-Rendah-Yuhua/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -126,7 +123,6 @@ third_nav_title: 'Pameran Bahasa Melayu'
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg17">
- <a href="/mlmoe/Sekolah-Sains-dan-Teknologi/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -148,11 +144,9 @@ third_nav_title: 'Pameran Bahasa Melayu'
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg17">
- <a href="/mlmoe/Sekolah-Sains-dan-Teknologi/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
-      
-      <tr>
+  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
@@ -170,7 +164,6 @@ third_nav_title: 'Pameran Bahasa Melayu'
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg17">
- <a href="/mlmoe/Sekolah-Sains-dan-Teknologi/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>   
 </table>
