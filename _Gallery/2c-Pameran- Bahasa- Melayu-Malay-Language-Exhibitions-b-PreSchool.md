@@ -60,8 +60,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 </script>
 </head>
 <body>
-     <img src="/images/ML-Gallery-Challenge.jpg" style="display:block;">
- <br/>
+  <br/>
   <table class="tbl">
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -76,14 +75,11 @@ third_nav_title: 'Pameran Bahasa Melayu'
 <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Reading Creates Wonders</h4>
 <p style="margin:10px;">MOE Kindergarten @ Farrer Park (MK) believes that every child can learn and use Mother Tongue Language (MTL) as an effective communication tool. Guided by this belief, the centre aims to cultivate MK children’s love for, and appreciation of reading of MTL books through their centre-based initiative, the MK Book Club. With a child-initiated choice of books, children are motivated to read at their own pace.</p>
 <p style="margin:10px;">To reinforce reading habits at home, the centre partners parents to engage their children in reading and storytelling. Coupled with meaningful family-based activities, this further extends their child’s learning beyond the classroom and builds their confidence in speaking MTL.  
-
 </p>
       </div>
 </div>
-
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
-<a href="/mlmoe/Tadika-MOE-(Farrer Park)/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -105,7 +101,6 @@ third_nav_title: 'Pameran Bahasa Melayu'
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/mlmoe/Tadika-MOE-(Waterway)/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 <tr>
@@ -126,11 +121,9 @@ third_nav_title: 'Pameran Bahasa Melayu'
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/mlmoe/Tadika-My-First-Skool-(Sengkang West)/"><img src="/images/MTLS_arrows_V1(19AUG2020)-01.png"></a>
 </td>
 </tr>
 </table>
-
 <hr>
 <div class="image">
   <img src="images/New_footer.jpg" class="Image" width="1000" height="300"></div>
