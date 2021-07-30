@@ -21,7 +21,6 @@ breadcrumb: 'MTL Challenge'
 
   gtag('config', 'AW-726049306');
 </script>
-  
 <h2 style="display:block;">MTL Challenge</h2>
 <p style="display:block;">Earn 150 points in our MTL Challenge and stand a chance to win a prize! </p>
 <img src="/images/MTL-Challenge-Banner.jpg" style="display:inline-block;"><br/>
