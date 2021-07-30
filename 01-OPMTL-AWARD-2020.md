@@ -41,7 +41,6 @@ max-width:50%;
 
   gtag('config', 'AW-726049306');
 </script>
-
 <h5> <strong> Outstanding Award Winners </strong></h5>
 <br/>
 <div class="row">
