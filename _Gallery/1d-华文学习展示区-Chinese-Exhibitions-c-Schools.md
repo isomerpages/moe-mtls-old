@@ -59,8 +59,7 @@ third_nav_title: '华文学习展示区'
 </head>
 <body>
     <div>  <h2 style="font-family:KaiTi">中小学</h2></div>
-     <img src="/images/CL-Gallery-Challenge.jpg" style="display:block;">
- <br/>
+    <br/>
   <table class="tbl">
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -72,23 +71,18 @@ third_nav_title: '华文学习展示区'
       <p style="font-family:KaiTi;margin:10px;font-size:21px;">
        教育部幼儿园（丰伟）坚信学习能通过有意义的游戏和有效的互动进行。教师们积极借助数码科技为幼儿提供有针对性的学习体验。幼儿们利用数码资讯工具拓展学习范围，掌握学习的自主权。<br/>
           在母语课堂中，教师善用平板电脑等多元化的数码资讯工具，设计充满趣味的互动活动，结合以幼儿为中心的教学策略，提升教学质量。充满乐趣和互动的资讯科技活动让幼儿既能依据个人的进度自主学习，也能与同伴一起探索周围的事物并与之互动，成为积极的母语学习者。
-
-
  </p><br/>
-
 <h4 style="margin:10px;">Making MTL Learning Come Alive Through ICT</h4>
 <p style="margin:10px;">MOE Kindergarten @ Fernvale believes in learning through purposeful play and quality interaction while leveraging digital technology to provide relevant and meaningful learning experiences. Learning is further extended with ICT tools, giving young children a sense of empowerment as they collaborate to explore the world around them. 
-
  <br/>
     Various ICT tools and child-centric strategies are used to enhance the quality of learning. Digital devices are also used in the daily class setting to support learning. To nurture children as active MTL learners, fun-filled and interactive ICT activities are designed for them to learn at their own pace while interacting with their peers and things around them.
-
 </p>
       </div>
 </div>
 
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22" >
-<a href="/clmoe/聚英小学/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+
 </td>
 </tr>
 <tr>
@@ -112,7 +106,7 @@ third_nav_title: '华文学习展示区'
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/clmoe/孺廊小学/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ 
 </td>
 </tr>
 <tr>
@@ -135,7 +129,7 @@ third_nav_title: '华文学习展示区'
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/clmoe/伟林小学/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ 
 </td>
 </tr>
 <tr>
@@ -156,7 +150,7 @@ third_nav_title: '华文学习展示区'
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22" >
- <a href="/clmoe/育青中学/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ 
 </td>
 </tr>
 <tr>
@@ -176,7 +170,7 @@ third_nav_title: '华文学习展示区'
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
- <a href="/clmoe/圣尼各拉女校（中学部）/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+
 </td>
 </tr>
  <tr>
@@ -198,7 +192,7 @@ the SLS to share their views with their peers and showcase their learning. This 
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
- <a href="/clmoe/圣尼各拉女校（中学部）/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+
 </td>
 </tr>
 <tr>
@@ -218,7 +212,7 @@ the SLS to share their views with their peers and showcase their learning. This 
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
- <a href="/clmoe/圣尼各拉女校（中学部）/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+
 </td>
 </tr>
 <tr>
@@ -238,7 +232,7 @@ the SLS to share their views with their peers and showcase their learning. This 
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
- <a href="/clmoe/圣尼各拉女校（中学部）/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+
 </td>
 </tr>
 <tr>
@@ -260,8 +254,7 @@ the SLS to share their views with their peers and showcase their learning. This 
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
- <a href="/clmoe/圣尼各拉女校（中学部）/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
-</td>
+ </td>
 </tr>
  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -283,8 +276,7 @@ the SLS to share their views with their peers and showcase their learning. This 
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
- <a href="/clmoe/圣尼各拉女校（中学部）/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
-</td>
+ </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -305,11 +297,9 @@ the SLS to share their views with their peers and showcase their learning. This 
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
- <a href="/clmoe/圣尼各拉女校（中学部）/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
-</td>
+ </td>
 </tr>
-      
-       <tr>
+     <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-12" type="checkbox" name="tab">
@@ -329,7 +319,7 @@ the SLS to share their views with their peers and showcase their learning. This 
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
- <a href="/clmoe/圣尼各拉女校（中学部）/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
+ 
 </td>
 </tr>
     
