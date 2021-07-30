@@ -171,16 +171,8 @@ margin-left:25px;
  <iframe width="560" height="315" src="https://www.youtube.com/embed/6sBb03SK3wI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
  <h4 id="C1"><span style="font-size:30px;color:purple;">தமிழ்மொழிப் பாடத்திட்டம் 2021
  </span></h4>
-<table>
-  <tr>
-    <td><p style="text-align:justify;">2021-ஆம் ஆண்டுத் தமிழ்மொழிப் பாடக்கலைத்திட்டம் மேலும் சில முக்கிய மேம்பாடுகளைக் கொண்டு திருத்தியமைக்கப்பெற்றது. குறிப்பாகக் கருத்துப்பரிமாற்றம், பண்பாடு, தொடர்பிணைப்பு ஆகிய மூன்று முக்கியக் கூறுகளில் தனிக்கவனம் செலுத்தப்பட்டுள்ளது. இவற்றை அடிப்படையாகக் கொண்டு தமிழ்மொழிப் பாடக்கலைத்திட்டப் பணிச்சட்டம் உருவாக்கப்பெற்றது.<br/>
-      <a href="2021 Secondary Curriculum Link https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf" target="_blank">2021 Tamil Curriculum</a></p></td>
-   <td>
-<img src="/images/TL-Sec-Curriculum2.png">
-    <span style="color:purple;font-size:22px;"><strong> <center> தமிழ்மொழிப் பாடக்கலைத்திட்டப் பணிச்சட்டம் </center></strong></span>
- </td>
- </tr> 
- </table>
+<p><img src="/images/TL-Sec_Image01.jpg"><br/>
+ <a href="2021 Secondary Curriculum Link https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf" target="_blank">2021 Tamil Curriculum</a></p>
  <center>
  <span style="font-size:18px;">உயர்நிலைத் &nbsp; தமிழ்மொழிப் &nbsp; பாடத்திட்ட &nbsp; வெளியீடு:</span><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rGFqD2sxPfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -190,8 +182,19 @@ margin-left:25px;
 
   <img src="/tlmoe/TL-Textbooks-&-Workbooks.gif">
 </p>
- <p style="text-align:justify;"><strong></strong>
- புதிய கூறுகளும் புதிய முயற்சிகளும்  </p>
+ <h2 style="text-align:justify;">புதிய கூறுகளும் புதிய முயற்சிகளும்</h2>
+ <img src="/images/TL-Sec_Image02.jpg">
+ <p>
+ <a href="#C9" style="font-size:20px"><span style="color:blue;">பண்பாட்டறிவை வளப்படுத்துதல்
+</span></a><br/>
+<a href="#C10" style="font-size:20px"><span style="color:blue;">இலக்கியப் பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல்
+</span></a><br/>
+ <a href="#C11" style="font-size:20px"><span style="color:blue;">மொழி கற்றலுக்குத் துணைவளமாக அமையும் தற்கால நடப்புச் செய்திகள்
+</span></a><br/>
+<a href="#C12" style="font-size:20px"><span style="color:blue;">தகவல் தொடர்புத் தொழில்நுட்பத்தின் கூடுதல் ஒருங்கிணைப்பு
+(Tamil Language Elective Programme)
+</span></a><br/><br/>
+<p id="C9">
 <table style=" border-collapse: collapse; width: 100%;">
 <tr>
     <td style=" text-align: left;padding: 8px;width:60%;">
@@ -206,8 +209,9 @@ margin-left:25px;
   padding: 8px;font-size: 20px;"> ஆகவே, பண்பாட்டறிவை வளப்படுத்தும் கற்றல் கற்பித்தலுக்குரிய வளங்கள் பாடநூலில்  இணைக்கப்பெற்றிருக்கின்றன. </td>
  
   </tr>
-</table>
-     Image Pending 2
+     </table></p>
+     <img src="/images/TL-Sec_Image03.jpg">
+ <p id="C10">
  <table style=" border-collapse: collapse; width: 100%;">
 <tr>
     <td style=" text-align: left;padding: 8px;width:60%;">
@@ -225,10 +229,11 @@ margin-left:25px;
  
   </tr>
 </table>
+  </p>
   <img src="/tlmoe/TL-Books.gif" style="width: 60%;">
   
-     <p style="text-align:justify;"><strong>தகவல் தொடர்புத் தொழில்நுட்பத்தின் கூடுதல் ஒருங்கிணைப்பு
-</strong><br/><br/>
+  <p id="C11">.</p>
+<img src="/images/TL-Sec_Image04.jpg"><br/><br/>
  தகவல் தொடர்புத் தொழில்நுட்பத்தின் வாயிலாக அமையப்பெற்ற பாடங்கள் கருத்துப்பரிமாற்றத் திறன்கள் உடனிணைவுத் திறன்கள் முதலானவற்றை வளப்படுத்தும். 
 <br/><br/>
  ஆகவே, ஒலிப்பகுதிகள், ஒளிக்காட்சிகள், மொழி விளையாட்டுகள் உள்ளிட்ட பலவகையான தகவல் தொடர்புத் தொழில்நுட்பம் சார்ந்த கற்றல் கற்பித்தல் நடவடிக்கைகள் உயர்நிலைப் பாடநூலில் இடம்பெற்றுள்ளன. இவற்றால் மாணவர்கள் மகிழ்வூட்டும் அனுபவங்களைப் பெறுவர். 
