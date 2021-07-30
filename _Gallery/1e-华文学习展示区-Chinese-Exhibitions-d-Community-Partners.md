@@ -68,8 +68,7 @@ table {
 </head>
 <body>
     <div><h2 style="font-family:KaiTi">社区合作伙伴</h2></div>
-     <img src="/images/CL-Gallery-Challenge.jpg" style="display:block;">
- <br/>
+      <br/>
   <table class="tbl">
       <tbody>
       <tr>
@@ -90,8 +89,7 @@ table {
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/clmoe/滨海艺术中心/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
-</td>
+ </td>
 </tr>
       <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -115,12 +113,9 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/clmoe/李光耀双语基金/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
-</td>
+ </td>
 </tr>
-      
-      
-      <tr>
+<tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
@@ -136,7 +131,6 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
- <a href="/clmoe/新加坡宗乡会馆联合总会/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
  <tr>
@@ -154,7 +148,6 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/clmoe/国家文物局/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
 <tr>
@@ -172,7 +165,6 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
- <a href="/clmoe/国立教育学院（亚洲语言文化学部）/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
       <tr>
@@ -196,7 +188,6 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/clmoe/国家图书馆管理局/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
       <tr>
@@ -214,11 +205,9 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
           To make learning Chinese engaging, Student Publications has launched two digital resources: “Thumbs Up Little Junior”, a free-to-download application for pre-schoolers which encourages parents and children to spend quality time together while learning rhymes, playing games and doing crafts; and Zbschools.sg, an integrated online learning platform consisting of interesting content and videos, to entice students to learn Chinese and cultivate good reading habits.</p>
 </div>
     </div>
-    
-</td>
+    </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/clmoe/早报校园/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
-</td>
+ </td>
 </tr>
       <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -240,7 +229,6 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/clmoe/新加坡野生动物保育集团/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
       <tr>
@@ -262,8 +250,7 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/clmoe/新加坡华文教研中心/"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
-</td>
+ </td>
 </tr>
        <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -280,10 +267,8 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
 </p>
       </div>
 </div>
-
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
-<a href="/clmoe/推广华文学习委员会 /"><img src="/images/MTLS_arrows_V1(19AUG2020)-03.png"></a>
 </td>
 </tr>
  </tbody>
