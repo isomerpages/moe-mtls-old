@@ -60,7 +60,6 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </script>
 </head>
 <body>
-  <img src="/images/MTLS_Challenge_V3(26AUG2020)-07.jpg" style="display:block;">
  <br/>
   <table class="tbl">
 <tr>
@@ -81,10 +80,8 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </p>
       </div>
 </div>
-
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
-<a href="/tlmoe/TL-School-Gallery/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
 </td>
 </tr>
 <tr>
@@ -103,7 +100,6 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/tlmoe/N4-குழுமம்-(தொடக்கப்பள்ளிகள்)/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
 </td>
 </tr>
 <tr>
@@ -125,8 +121,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/tlmoe/மார்சிலிங்-உயர்நிலைப்பள்ளி/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
-</td>
+ </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -149,11 +144,9 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- <a href="/tlmoe/உட்லண்ட்ஸ-உயர்நிலைப்பள்ளி/"><img alt="Click here" src="/images/MTLS_arrows_V1(19AUG2020)-02.png"></a>
 </td>
 </tr>
 </table>
-
 <hr>
 <div class="image">
   <img src="images/New_footer.jpg" class="Image" width="1000" height="300"></div>
