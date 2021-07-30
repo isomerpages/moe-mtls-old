@@ -78,7 +78,6 @@ max-width:40%;
 </script>
 </head>
 <body>  
-  <img src="/images/ML-SharingSession-Challenge.jpg">
  <br/>
 <table class="tbl">
 <tr>
@@ -369,8 +368,4 @@ Mr Herman Rothman will be sharing various interactive storytelling techniques be
    </tr>
  
    </table>
- <hr/>
-
-  <img src="images/New_footer.jpg" class="Image" width="1000" height="300">
-      
-<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
+ <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
