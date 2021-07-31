@@ -79,17 +79,6 @@ margin-left:25px;
 <img src="/images/TL Pri_Image06.jpg">
 
  <br/>
-  <table style="border-collapse: collapse; width: 100%;border:0;">
-<tr>
-    <td style="text-align:left;padding:8px; width:33.33%;">மாணவர்களுக்குக் கூடுதல் ஆதரவு வழங்க வேண்டும் என்ற நோக்கில் கட்டுரைப் பயிற்சிகளில் ஆர்வமூட்டும் முன்நடவடிக்கைகள் இணைக்கப்பட்டுள்ளன. இவை கட்டுரை எழுதுவதற்குத் தேவையான திறன்களை மாணவர்களிடையே வளர்க்கும் வண்ணம் வடிவமைக்கப்பட்டுள்ளன<br/><br/>
-      <img src="/tlmoe/tl-prisch06.png" style="width: 25%; margin-left: 286px;margin-top: -64px;">
-      <img src="/tlmoe/image4.png">
-    </td>
-    <td style="text-align: left;padding: 8px;width:33.33%;">
-   <img src="/tlmoe/tl-prisch09.jpeg" style=" margin-top: 201px;"> </td>
-     </tr>
-     </table>
- <br/>
   <p style="font-size:25px;color:purple;">விளையாட்டுவழிக் கற்றலும் வெற்றிக் கொண்டாட்டமும்
 </p>
  <img src="/images/MOE-Curriculum-TL-Primary-Image-3.jpg">
@@ -103,13 +92,23 @@ margin-left:25px;
  <h4><span style="font-size:30px; color:purple;">ஈடுபாடுமிகுந்த கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள்</span></h4>
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
- <td style=" border: 0; text-align: left; padding: 8px;"><p style="text-align:justify;">மாணவர்கள் பாடப்பகுதிகளைப் படித்துக் கருத்துணர உதவும் வகையில் பற்பல உத்திகள் கற்பிக்கப்படுகின்றன. இவை மாணவர்கள் பகுதிகளைப் பொருளுணர்ந்து படித்துப் புரிந்துகொண்டு வினாக்களுக்கு விடையளிக்க உதவுகின்றன.</p><br/><img src="/tlmoe/image3.png"><br/>
+ <td style=" border: 0; text-align: left; padding: 8px;"><p style="text-align:justify;">மாணவர்கள் பாடப்பகுதிகளைப் படித்துக் கருத்துணர உதவும் வகையில் பற்பல உத்திகள் கற்பிக்கப்படுகின்றன. இவை மாணவர்கள் பகுதிகளைப் பொருளுணர்ந்து படித்துப் புரிந்துகொண்டு வினாக்களுக்கு விடையளிக்க உதவுகின்றன.</p><br/><img src="/tlmoe/image3.png"></td>
   <img src="/tlmoe/image3(3).png" style="width: 25%;float: left;"></td>
-    <td style=" border:0;text-align: left; padding: 8px;">
-  <img src="/tlmoe/image3(2).png" style="margin-top: 241px;"></td>
+    <td><img src="/tlmoe/image3(2).png" style="margin-top: 241px;"></td>
     </tr>
  </table>
 <br/>
+  <table style="border-collapse: collapse; width: 100%;border:0;">
+<tr>
+    <td style="text-align:left;padding:8px; width:33.33%;">மாணவர்களுக்குக் கூடுதல் ஆதரவு வழங்க வேண்டும் என்ற நோக்கில் கட்டுரைப் பயிற்சிகளில் ஆர்வமூட்டும் முன்நடவடிக்கைகள் இணைக்கப்பட்டுள்ளன. இவை கட்டுரை எழுதுவதற்குத் தேவையான திறன்களை மாணவர்களிடையே வளர்க்கும் வண்ணம் வடிவமைக்கப்பட்டுள்ளன<br/><br/>
+      <img src="/tlmoe/tl-prisch06.png" style="width: 25%; margin-left: 286px;margin-top: -64px;">
+      <img src="/tlmoe/image4.png">
+    </td>
+    <td style="text-align: left;padding: 8px;width:33.33%;">
+   <img src="/tlmoe/tl-prisch09.jpeg" style=" margin-top: 201px;"> </td>
+     </tr>
+     </table>
+ <br/>
 <h4 id="C2"><span style="font-size:30px; color:purple;">இல்லம் சார்ந்த கற்றலுக்கு உதவும் தகவல் தொடர்புத் தொழில்நுட்பம் 
 </span></h4>
  <p style="text-align:justify;">மாணவர்களின் ஆர்வத்தைத் தூண்டி  அவர்களது கற்றல் அனுபவத்தை மேம்படுத்தத் தமிழ்மொழி கற்பித்தலில் தகவல் தொடர்புத் தொழில்நுட்பம் பயன்படுத்தப்படுகிறது. மாணவர்கள் இல்லம் சார்ந்த கற்றலில் ஈடுபட்டுத் தொடர்ந்து கற்கவும் தகவல் தொடர்புத் தொழில்நுட்பம் துணைபுரிகிறது.  
