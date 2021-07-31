@@ -77,13 +77,7 @@ margin-left:25px;
 <img src="/images/TL Pri_Image04.jpg">
 <img src="/images/TL Pri_Image05.jpg">
 <img src="/images/TL Pri_Image06.jpg">
-     <tr>
-      <td style="text-align: left;padding: 8px;width:33.33%;border:0;">
-    <img src="/tlmoe/tl-prisch03.png" style="margin-left: -38px; margin-top: -80px;"></td>
-     <td style="text-align: left;padding: 8px;width:33.33%;border:0;">
-<img src="/tlmoe/tl-prisch02.png" style="transform: rotate(5deg);margin-top: -201px;margin-left: -47px;"></td>
- </tr>
-  </table>
+
  <br/>
   <table style="border-collapse: collapse; width: 100%;border:0;">
 <tr>
