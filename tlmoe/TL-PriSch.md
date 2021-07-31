@@ -72,11 +72,11 @@ margin-left:25px;
 
 <p style="font-size:25px; color:purple;">மாணவர்களை மையப்படுத்திய கற்றல் வளங்களும் நடவடிக்கைகளும் <br/></p>
  
-<img src="/images/TL Pri_Image02">
-<img src="/images/TL Pri_Image03">
-<img src="/images/TL Pri_Image04">
-<img src="/images/TL Pri_Image05">
-<img src="/images/TL Pri_Image06">
+<img src="/images/TL Pri_Image02.jpg">
+<img src="/images/TL Pri_Image03.jpg">
+<img src="/images/TL Pri_Image04.jpg">
+<img src="/images/TL Pri_Image05.jpg">
+<img src="/images/TL Pri_Image06.jpg">
      <tr>
       <td style="text-align: left;padding: 8px;width:33.33%;border:0;">
     <img src="/tlmoe/tl-prisch03.png" style="margin-left: -38px; margin-top: -80px;"></td>
