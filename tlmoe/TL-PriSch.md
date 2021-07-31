@@ -85,8 +85,7 @@ margin-left:25px;
       <img src="/tlmoe/tl-prisch06.png" style="width: 25%; margin-left: 286px;margin-top: -64px;">
       <img src="/tlmoe/image4.png">
     </td>
-    <td style="text-align: left;padding: 8px;width:33.33%;">
-   <img src="/tlmoe/tl-prisch09.jpeg" style=" margin-top: 201px;">
+   <img src="/tlmoe/tl-prisch09.jpeg">
  </td>
      </tr>
      </table>
