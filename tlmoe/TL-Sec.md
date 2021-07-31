@@ -274,7 +274,7 @@ margin-left:25px;
   width: 100%;">
  
   <tr>
-      <td style=" text-align: left;padding: 8px;width:50%;"><img src="/tlmoe/image03.png"></td>
+      <td style=" text-align: left;padding: 8px;width:25%;"><img src="/tlmoe/image03.png"></td>
         <td style=" text-align: left;padding: 8px;width:50%;"><img src="/tlmoe/image04.png" ></td>
     </tr>
 </table>
