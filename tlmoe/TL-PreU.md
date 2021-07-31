@@ -213,7 +213,7 @@ margin-left:25px;
     
      <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-    <label for="tab-4" style="font-family:KaiTi;font-size:22px" class="lbTM">பணிச்சட்டமும் பாடத்திட்டங்களும்</label>
+    <label for="tab-4" style="font-size:22px" class="lbTM">பணிச்சட்டமும் பாடத்திட்டங்களும்</label>
      <div class="tab-content">
     <h4><span style="font-size:30px;color:purple;">பாடத்திட்டப் பணிச்சட்டம்</span></h4>
     <img src="/tlmoe/tl-preU04.jpeg"><br/>
@@ -293,22 +293,7 @@ margin-left:25px;
       <img src="/tlmoe/TL-JC_Picture4.png"><br/>
      
  <br/>
- <table style="border-collapse: collapse;
-  width: 100%; border:0;">
-  <tr>
-    <td style=" border: 0;text-align: left;padding: 8px;">
-    <img src="/tlmoe/tl-preU24.jpg" style="transform: rotate(-14deg); margin-top: 53px; width: 84%;">
- </td>
-    <td style=" border: 0;text-align: left;padding: 8px; width:40%;"><strong>
-     யுனோயா தொடக்கக்கல்லூரி மாணவிகள் </strong> ‘சிங்கப்பூர் மாப்பிள்ளை’ என்னும் நாடகத்தின் கதையோட்டத்தைப் புரிந்துகொண்டு அதை இக்கால ரசனைக்கு ஏற்ப புதுமையான பாணியில் நடித்துக்காட்டினர்.
-<br/><br/>
-கு.பா.ராஜகோபாலன் (கு.பா.ரா)
-எழுதிய ‘விடியுமா?’ சிறுகதையைத் தேசிய தொடக்கக்கல்லூரி மாணவர்கள் ஆராய்ந்து அக்கதையின் கருப்பொருளையும் வாழ்வின் யதார்த்தையும் விளக்கினர்.
-<br/><br/><strong>
-ஈசூன் இன்னோவா தொடக்கக்கல்லூரி மாணவிகள் </strong>‘யாதும் ஊரே யாவரும் கேளிர்’ என்னும் சங்கப் பாடலை விரிவாக விளக்கினர்.
-</td>
- </tr>
-</table>
+<img src="/images/TL PreU_Image04.jpg">
  
  
 <h4><span style="font-size:30px;color:purple;">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமூட்டும் உத்திமுறைகள் 
@@ -360,40 +345,10 @@ margin-left:25px;
 <td style=" border: 0;text-align: left;padding: 8px;">Pending video</td>
 </tr>
 </table>
-  <p style="text-align:justify;"><strong>ஒலி 96.8 வானொலி படைப்பாளர் திரு முகமது ரஃபியுடன் ஒரு சந்திப்பு</strong></p>
-
-   <img src="/tlmoe/tl-preU39.jpeg">
-<br/>
-   <p style="text-align:justify;"> <strong>ஏ.கே.டி கலைக்குழு நடத்திய பாரம்பரிய இசைப் பகிர்வில் பறையிசையைப் பற்றி மாணவர்கள் அறிந்துகொண்டார்கள்.</strong>
-</p>
-  
-<img src="/tlmoe/tl-preUnew.jpeg">
-<br/>
-  <p style="text-align:justify;"> <strong>சிங்கை நாடகக் கலைஞர்களுள் மூத்த நாடக்கலைஞராக விளங்கும் திரு மதியழகன் வழிநடத்த மாணவர்கள் நாடகக்கலை, கதை வசனம் முதலான முக்கியச் செய்திகளைக் கற்றறிந்தனர்.
-</strong></p>
- <img src="/tlmoe/tl-preU41.jpeg">
-<br/>
-  <p style="text-align:justify;"> <strong>தமிழ்மொழி விருப்பப்பாடத் திட்டத்தில் பங்கெடுக்கும் மாணவர்களிடம் நடத்தப்பட்ட கருத்துக்களம். 
-மாணவர்கள் தங்கள் கருத்துகளையும் பரிந்துரைகளையும் முன்வைத்தனர்.
-</strong></p>
-  <table style="border-collapse: collapse;
-  width: 100%; border:0;">
-  <tr>
-<td style=" border: 0;text-align: left;padding: 8px;">
-<img src="/tlmoe/tl-preU28.png">
-</td>
- <td style=" border: 0;text-align: left;padding: 8px;">
-   <img src="/tlmoe/tl-preU29.png">
-    </td>
- </tr>
-</table>
+<img src="/images/TL PreU_Image05.jpg">
   <h4><span style="font-size:30px;color:purple;">பள்ளி சார்ந்த திட்ட நடவடிக்கைகள்
 </span></h4>
-  <p style="text-align:center;">திரையிசைப் பாடல்களில் வழி இலக்கியமும் வாழ்வியல் கருத்துகளும்
-ஆண்டர்சன் சிராங்கூன் தொடக்கக்கல்லூரி  </p>
-  <p style="text-align:justify;">தமிழ்மொழி மாதத்தில் ஆண்டர்சன் சிராங்கூன் தொடக்கக்கல்லூரியைச் சார்ந்த தமிழ்மொழி விருப்பப்பாடத்திட்ட மாணவர்கள் சீரிய முயற்சி. மாணவர்களுக்கும் இலக்கியத்தில் ஆர்வமுண்டு அதை மற்றவர்கள் விரும்பும் வகையில் படைத்துக் காட்டவும் முடியும் என்று களத்தில் இறங்கினர் இக்கல்லூரி மாணவர்கள். திரையிசைப்பாடல்கள் வழி இலக்கியமும் வாழ்வியல் கருத்துகளும் என்ற தலைப்பில் அரங்கேறிய இந்நிகழ்ச்சி அனைவரது பாராட்டையும் பெற்றது.
-</p>
-  <img src="/tlmoe/tl-preU30.png">
+<img src="/images/TL PreU_Image06.jpg">
   <br/>
  
   <p style="text-align:justify;">தமிழ்ச்செய்தியில் நம் கல்லூரிகள்
