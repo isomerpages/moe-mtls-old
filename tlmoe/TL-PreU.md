@@ -192,20 +192,13 @@ margin-left:25px;
     <label for="tab-3" style="font-family:KaiTi;font-size:22px" class="lbTM">உயர்தரம் தமிழ்மொழி பாடத்திற்கான கற்றல் விளைவுகள்</label>
      <div class="tab-content">
      <h4><span style="font-size:30px;color:purple;">உயர்தரம் 2 & 3 தமிழ்மொழிப் பாடத்திற்கான கல்வியின் விரும்பத்தக்க விளைவுகள்.</span></h4>
-  <p>Pending</p>
   <table style="border-collapse: collapse; width: 100%;border:0;">
  <tr>
-    <td style="text-align: left;text-align: justify;padding: 8px;border:0;font-size: 20px;"> இலக்கியப் பனுவலை அனுபவித்தல்<br/>
-இலக்கிய வகைமைகளைப் போற்றுதல்<br/>
-கருப்பொருளைத் தக்கவாறு பொருள்விளங்கிக்  கொள்ளல்<br/>
-பனுவலோடும் உகலத்தோடும் தம்மை இணைத்துக் காணல்<br/>
-கருத்துக்களைப் பரிமாறிக்கொள்ளுதல்<br/>
-இலக்கியப் படைப்புகளை உருவாக்குதல்<br/>
-</td>
-    <td style="text-align: left;padding: 8px;border:0;">
+    <td><img src="/images/TL PreU_Image02.jpg"></td>
   
-    <img src="/tlmoe/tl-preU05.png" style="width: 50%;"><br/>
-    <a href="/tlmoe/JC-Syllabus-brochure.pdf" target="_blank" style="margin-left: 123px;">JC Brochure PDF</a></td>
+    <td style="text-align: left;padding: 8px;border:0;">
+      <img src="/tlmoe/tl-preU05.png" style="width: 50%;"><br/>
+      <a href="/tlmoe/JC-Syllabus-brochure.pdf" target="_blank" style="margin-left: 123px;">JC Brochure PDF</a></td>
     </tr>
 </table>
     
@@ -222,12 +215,6 @@ margin-left:25px;
     <a href="/tlmoe/H2-&-H3-TLL-Syllabus-2021.pdf" target="_blank" style="text-align:left;">H2& H3 Tamil Language & Literature Syllabus
 </a>
     </div></div>
- <p style="text-align:justify;">வருங்காலச் சிங்கப்பூர்த் தமிழ்ச் சந்ததியினரிடையே தமிழ் வாழும் மொழியாகத் திகழ வேண்டும். பலவகைப் பண்பாட்டுப் பாரம்பரியத்தைக் கொண்டு உலக நகராக விளங்கும் சிங்கப்பூரின் தனித்தன்மைக்கு வலுவூட்டும் அம்சமாக அது விளங்க வேண்டும்.
-</p>
-  <br/>
-
-<img src="/images/TL-PreU-Curriculum.jpg">
-<br/>
 
  <h4 id="C2"><span style="font-size:30px;color:purple;">இலக்கியம்</span></h4>
    <p>மகிழ்வூட்டும் இலக்கிய வகுப்பு</p>
