@@ -142,7 +142,6 @@ margin-left:25px;
 </td>
 </tr>
 </table>
-<br/>
 <h4>உயர்தரம் 2 & 3 பாடக்கலைத்திட்டத்தின் முக்கிய நோக்கங்கள்
 </h4>
 <p><strong>மாணவர்களை</strong></p>
@@ -186,7 +185,7 @@ margin-left:25px;
     <label for="tab-2" style="font-family:KaiTi;font-size:22px" class="lbTM">கல்வியின் விரும்பத்தக்க விளைவுகள்
 </label>
      <div class="tab-content">
-     image pending
+      <img src="/images/TL PreU_Image01.jpg">
     </div></div>
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
@@ -206,7 +205,7 @@ margin-left:25px;
     <td style="text-align: left;padding: 8px;border:0;">
   
     <img src="/tlmoe/tl-preU05.png" style="width: 50%;"><br/>
-    <a href="/tlmoe/JC-Syllabus-brochure.pdf" target="_blank" style="margin-left: 123px;">Jc Brochure PDF</a></td>
+    <a href="/tlmoe/JC-Syllabus-brochure.pdf" target="_blank" style="margin-left: 123px;">JC Brochure PDF</a></td>
     </tr>
 </table>
     
@@ -218,6 +217,7 @@ margin-left:25px;
      <div class="tab-content">
     <h4><span style="font-size:30px;color:purple;">பாடத்திட்டப் பணிச்சட்டம்</span></h4>
     <img src="/tlmoe/tl-preU04.jpeg"><br/>
+    <img src="/images/TL PreU_Image03.jpg"><br/>
     <a href="/tlmoe/H1-Syllabus-Tamil.pdf" target="_blank" style="text-align:left;">2020 H1 Tamil Language & Tamil Language ‘B’ Syllabus</a><br/>
     <a href="/tlmoe/H2-&-H3-TLL-Syllabus-2021.pdf" target="_blank" style="text-align:left;">H2& H3 Tamil Language & Literature Syllabus
 </a>
