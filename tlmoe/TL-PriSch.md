@@ -67,22 +67,16 @@ margin-left:25px;
 <p style="font-size:25px;color:purple">மகிழ்வூட்டும் கற்றல்  <br/>
  <img src="/tlmoe/image1.png"><br/><br/>
 </p>
+ 
+<img src="/images/TL Pri_Image01">
 
 <p style="font-size:25px; color:purple;">மாணவர்களை மையப்படுத்திய கற்றல் வளங்களும் நடவடிக்கைகளும் <br/></p>
  
- <table style="border-collapse: collapse; width: 100%;border:0;">
-<tr>
-    <td rowspan="2" style="text-align:left;padding:8px; width:40.33%;border:0;"><strong> நெகிழ்வுத்தன்மைமிக்க  <br/> பாடத்திட்டம்</strong><br/><br/>
-    மாணவர்களின் பல்வேறுபட்ட தொடங்குநிலைகளையும் தேவைகளையும் நிறைவுசெய்யும் வகையில் தொடக்கநிலைப் பாடக்கலைத்திட்டம் நெகிழ்வுத்தன்மைமிக்கதாக அமைக்கப்பட்டுள்ளது. 
-<br/><br/>
-எடுத்துக்காட்டாகக் கட்புலன்வழிக் கற்கும் மாணவர்களுக்குக் கதைகளையும் பாடல்களையும் காட்சிப்படுத்திக் காட்ட வேண்டும் என்பதற்காக அசைவுப்படக் காட்சிகள் உருவாக்கப்பட்டுள்ளன. <br/><br/>
-இவற்றைப் பயன்படுத்தி மாணவர்களின் ஆர்வத்தைத் தூண்டிக் கற்றலில் அவர்களை அர்த்தமுள்ள வகையில் ஈடுபடுத்தலாம். 
-</td>
-    <td style="text-align: left;padding: 8px;width:33.33%;border:0;">
-    <img src="/tlmoe/tl-prisch01.png" style="transform: rotate(-20deg);margin-top: 29px;"></td>
-    <td style="text-align: left;padding: 8px;width:33.33%;border:0;">
-    <img src="/tlmoe/tl-prisch04.png"></td>
-     </tr>
+<img src="/images/TL Pri_Image02">
+<img src="/images/TL Pri_Image03">
+<img src="/images/TL Pri_Image04">
+<img src="/images/TL Pri_Image05">
+<img src="/images/TL Pri_Image06">
      <tr>
       <td style="text-align: left;padding: 8px;width:33.33%;border:0;">
     <img src="/tlmoe/tl-prisch03.png" style="margin-left: -38px; margin-top: -80px;"></td>
