@@ -68,7 +68,7 @@ margin-left:25px;
  <img src="/tlmoe/image1.png"><br/><br/>
 </p>
  
-<img src="/images/TL Pri_Image01">
+<img src="/images/TL Pri_Image01.jpg">
 
 <p style="font-size:25px; color:purple;">மாணவர்களை மையப்படுத்திய கற்றல் வளங்களும் நடவடிக்கைகளும் <br/></p>
  
