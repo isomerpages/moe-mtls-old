@@ -163,11 +163,11 @@ margin-left:25px;
  <span style="font-size:18px;">உயர்நிலைத் &nbsp; தமிழ்மொழிப் &nbsp; பாடத்திட்ட &nbsp; வெளியீடு:</span><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rGFqD2sxPfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br/>
- <h2><strong>தமிழருவி – பாடநூல், பயிற்சிநூல் </h2><br/><br/>
+ <h2>தமிழருவி – பாடநூல், பயிற்சிநூல் </h2><br/><br/>
  புதிய கூறுகள் இளைய தலைமுறையினரை ஈர்க்கும் தன்மை கொண்ட பயிற்றுவளங்கள். <br/><br/>
 
   <img src="/tlmoe/TL-Textbooks-&-Workbooks.gif">
-</p>
+
  <h2 id="C4">புதிய கூறுகளும் புதிய முயற்சிகளும் </h2>
  <img src="/images/TL-Sec_Image02.jpg">
  <p>
