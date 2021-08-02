@@ -230,7 +230,7 @@ margin-left:25px;
  
   </tr>
 </table>
-  <img src="/tlmoe/TL Sec Books.gif">
+  <img src="/tlmoe/TL Sec Books.gif" style="width:50%;">
   
   <p id="C11">.</p>
 <img src="/images/TL-Sec_Image04.jpg"><br/><br/>
