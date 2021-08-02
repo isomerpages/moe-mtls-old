@@ -89,7 +89,7 @@ max-width:40%;
        <br/>
   <div class="row">
  <div class="column">
-<img src="#" style="width:100%">
+<img src="/images/Speakers_ML Nurashikin Jasni.png" style="width:100%">
    </div>
    <p><strong>Mdm Nurashikin Jasni
  </strong> 
@@ -129,7 +129,7 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
        <br/>
   <div class="row">
  <div class="column">
-<img src="images/ML-Mr-Haniman-Boniran.png" style="width:100%">
+<img src="/images/Speakers_ML Haniman.png" style="width:100%">
    </div>
    <p> <strong>Mr Haniman Boniran </strong>
  </p>
@@ -162,7 +162,7 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
        <br/>
   <div class="row">
  <div class="column">
-<img src="#" style="width:100%">
+<img src="/images/Speakers_ML Jumaini bte Ariff.png" style="width:100%">
    </div>
    <p><strong>Mdm Jumaini bte Ariff</strong><br/>
     </p>
@@ -195,7 +195,7 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
        <br/>
   <div class="row">
  <div class="column">
-<img src="images/ML-Associate-Professor-Mariam-Aljunied.png" style="width:100%">
+<img src="/images/ML-Mariam Aljunied.png" style="width:100%">
    </div>
    <p> <strong> Associate Professor Mariam Aljunied </strong>
 <br/> Ministry of Education
@@ -229,7 +229,7 @@ In recent years, we often read about an increased number of children with specia
        <br/>
   <div class="row">
  <div class="column">
-<img src="#" style="width:100%">
+<img src="/images/ML-Zuzanita.png" style="width:100%">
    </div>
    <p> <strong>Ms Zuzanita Zakaria </strong>
 
@@ -265,7 +265,7 @@ What can educators and parents do to motivate young minds to love learning Malay
        <br/>
   <div class="row">
  <div class="column">
-<img src="#" style="width:100%">
+<img src="/images/ML-Roksana.png" style="width:100%">
    </div>
    <p> <strong>A/P Roksana Bibi bte Abdullah</strong>
 
@@ -307,7 +307,7 @@ Statistics have shown that more children are growing up in English-speaking fami
        <br/>
   <div class="row">
  <div class="column">
-<img src="#" style="width:100%">
+<img src="/images/ML-Nurain Syakirah.png" style="width:100%">
    </div>
    <p> <strong>Mdm Nurain Syakirah</strong>
 </p>
@@ -341,7 +341,7 @@ In Mdm Nurain Syakirah’s sharing, parents and educators will understand how re
        <br/>
   <div class="row">
  <div class="column">
-<img src="#" style="width:100%">
+<img src="/images/ML-Herman Rothman.png" style="width:100%">
    </div>
    <p> <strong>Mr Herman Rothman</strong>
 
