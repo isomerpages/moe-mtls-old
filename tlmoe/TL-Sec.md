@@ -239,18 +239,13 @@ margin-left:25px;
 <br/>
 <img src="/images/TL-Sec_Image07.jpg">
    <h2 id="C6">தமிழ் இலக்கியம்</h2>
-<h4 id="C2"><span style="font-size:30px;color:purple;">தமிழ் இலக்கியம் 
- </span></h4>
  <p style="text-align:justify;">
-  <strong>உயர்நிலை 3-இல் </strong>பயிலும் மாணவர்களுக்குத் தமிழ் இலக்கியம் ஒரு பாடமாக வழங்கப்படுகிறது. 
-இப்பாடத்தைப் பயில விரும்பும் மாணவர்கள் உயர்நிலை 2 இறுதியில் தமிழ்மொழியில் A2 அல்லது உயர்தமிழில் B3 பெற்றிருத்தல் வேண்டும்.
-</p>
+ <strong>உயர்நிலை 3-இல்</strong>பயிலும் மாணவர்களுக்குத் தமிழ் இலக்கியம் ஒரு பாடமாக வழங்கப்படுகிறது. <br/>
+ இப்பாடத்தைப் பயில விரும்பும் மாணவர்கள் உயர்நிலை 2 இறுதியில் <strong>தமிழ்மொழியில்</strong>A2 அல்லது <strong>உயர்தமிழில் </strong>B3 பெற்றிருத்தல் வேண்டும். </p>
 <img src="/images/TL-Sec_Image08.jpg">
-<p><a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank"> தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019</a></p>
+<p>தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019<a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank">▶</a></p>
 
-<h2 id="C7">தமிழ்மொழி விருப்பப்பாடத் திட்டம்<br/>
-(Tamil Language Elective Programme - TLEP)
-</h2>
+<h2 id="C7">தமிழ்மொழி விருப்பப்பாடத் திட்டம் (Tamil Language Elective Programme - TLEP)</h2>
 <p style="text-align:justify;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. இத்திட்டம் உயர்நிலை 3-இல் தமிழ் இலக்கியம் பயிலும் மாணவர்களுக்கு உரியது. இது தற்போது மூன்று உயர்நிலைப்பள்ளிகளில் செயற்படுத்தப்படுகிறது.
 <br/><br/>
  <strong>இத்திட்டத்தின் நோக்கம் </strong><br/>
