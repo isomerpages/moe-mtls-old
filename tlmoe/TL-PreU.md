@@ -231,7 +231,7 @@ margin-left:25px;
    </td>
     <td style=" border: 0; text-align: left; padding: 8px;">
      <div class="v1" style="padding: 21px;">
-      <img src="/tlmoe/TL-JC_Updated.gif" style="width: 47%; margin-left: -28px; width:50%;"><br/>
+      <img src="/tlmoe/TL-JC_Updated.gif"><br/>
       </div>
     </td>
 </tr>
@@ -264,7 +264,7 @@ margin-left:25px;
 <img src="/images/TL JC_Header01.png">
 <img src="/images/TL JC_Picture01.png"><br/>
 <img src="/images/TL JC_Header02.png">
-<img src="/images/TL JC_Picture02.png">
+<img src="/images/TL JC_Picture02_v2.png"><br/>
 <img src="/images/TL JC_Header03.png">
 <img src="/images/TL JC_Picture03.png">
 <img src="/images/TL JC_Picture04.png"><br/>
