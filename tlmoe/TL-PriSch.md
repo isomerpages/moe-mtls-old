@@ -93,7 +93,7 @@ margin-left:25px;
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
  <td style=" border: 0; text-align: left; padding: 8px;"><p style="text-align:justify;">மாணவர்கள் பாடப்பகுதிகளைப் படித்துக் கருத்துணர உதவும் வகையில் பற்பல உத்திகள் கற்பிக்கப்படுகின்றன. இவை மாணவர்கள் பகுதிகளைப் பொருளுணர்ந்து படித்துப் புரிந்துகொண்டு வினாக்களுக்கு விடையளிக்க உதவுகின்றன.</p><br/><img src="/tlmoe/image3.png"> <img src="/tlmoe/image3(3).png" style="width: 25%;float: left;"></td>
-    <td><img src="/tlmoe/image3(2).png" style="height:200%;"></td>
+    <td><img src="/tlmoe/image3(2).png" style="margin-top: 241px;"></td>
     </tr>
  </table>
 <br/>
