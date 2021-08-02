@@ -173,15 +173,18 @@ margin-left:25px;
  <h2 id="C4">புதிய கூறுகளும் புதிய முயற்சிகளும் </h2>
  <img src="/images/TL-Sec_Image02.jpg">
  <p>
- <a href="#C9" style="font-size:20px"><span style="color:blue;">பண்பாட்டறிவை வளப்படுத்துதல்
-</span></a><br/>
-<a href="#C10" style="font-size:20px"><span style="color:blue;">இலக்கியப் பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல்
-</span></a><br/>
- <a href="#C11" style="font-size:20px"><span style="color:blue;">மொழி கற்றலுக்குத் துணைவளமாக அமையும் தற்கால நடப்புச் செய்திகள்
-</span></a><br/>
-<a href="#C12" style="font-size:20px"><span style="color:blue;">தகவல் தொடர்புத் தொழில்நுட்பத்தின் கூடுதல் ஒருங்கிணைப்பு
-(Tamil Language Elective Programme)
-</span></a><br/><br/>
+ <ol>
+   <li><span style="font-size:20px; color:blue;">பண்பாட்டறிவை வளப்படுத்துதல் <a href="#C9">▶ 
+    </a></span></li>
+   <li><span style="font-size:20px; color:blue;">இலக்கியப் பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல் <a href="#C10">▶ 
+    </a></span></li>
+   <li><span style="font-size:20px; color:blue;">மொழி கற்றலுக்குத் துணைவளமாக அமையும் தற்கால நடப்புச் செய்திகள் <a href="#C11">▶ 
+    </a></span></li>
+   <li><span style="font-size:20px; color:blue;">தகவல் தொடர்புத் தொழில்நுட்பத்தின் கூடுதல் ஒருங்கிணைப்பு<br/>
+(Tamil Language Elective Programme) <a href="#C12">▶ 
+    </a></span></li>
+  </ol><br/>
+
 <p id="C9">
 <table style=" border-collapse: collapse; width: 100%;">
 <tr>
