@@ -312,7 +312,7 @@ margin-left:25px;
  <br/>
 <img src="/tlmoe/tl-preU38.jpeg">
   <br/>
-<img src="/images/TL JC_Header06.png">
+<img src="/images/TL JC_Header06.png" style="text-align:left; width:30%;">
   <table style="border-collapse: collapse;
   width: 100%; border:0;">
   <tr>
