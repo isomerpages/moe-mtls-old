@@ -420,32 +420,4 @@ margin-left:25px;
 <br/><span style="font-size:18px;">மலேசியா கவிஞர் பச்சைபாலன் அவர்களோடு ஒரு கவிதைக் கருத்தாடல்  
 </span></center>
 
- <h4 id="C4"><span style="font-size:30px;color:purple;">பால்மரக்காட்டினிலே – கற்றல் பயணம்
- </span></h4>
- <p style="text-align:justify;">தமிழ்மொழி கற்றல் வளர்ச்சி குழுவின் ஆதரவில் தொடக்கக் கல்லூரி ஆசிரியர்கள் சென்ற ஆண்டு நவம்பர் 10-ஆம் தேதி சிரம்பான் ரப்பர்த் தோட்டத்திற்குக் கற்றல் பயணத்தை மேற்கொண்டனர். பல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2 இலக்கியப்பாடத்திற்கான நாவல் பால்மரக்காட்டினிலே ஆகும். மலேசிய ரப்பர்த் தோட்டங்களில் பணிபுரியும் தமிழர்களின் வாழ்க்கையைப் பற்றிய கதை அது. நாவலில் நிகழ்ந்த சம்பவங்களையும் பால்வெட்டு ஊழியர்களின் வாழ்க்கைமுறையையும் நேரில் காணும்வண்ணம் இந்தக் கற்றல் பயணம் ஏற்பாடு செய்யப்பெற்றது. ரப்பர் மரங்கள், பால்வெட்டும் செயல்முறை, பால்வெட்டு ஊழியர்களின் அணுகுமுறை, பால் சேகரிக்கப்படும் இடங்கள் முதலியவற்றை ஆசிரியர்கள் நேரடியாக அறிந்துகொள்ளும்வண்ணம் பயன்மிக்க கற்றல் இது பயணமாக அமைந்தது.
-</p>
-<h4><span style="font-size:30px;color:purple;">நாவல் - பால்மரக்காட்டினிலே  
-</span></h4>
-<table style="width:100%">
-  <tr>
-    <td><p style="text-align:justify;">1975-இல் அகிலன் மலேசியத் தமிழ் எழுத்தாளர் சங்கத்தின் அழைப்பையேற்று மலேசியாவில் நான்கு வாரம் பயணம் மேற்கொண்டார். கலைமகள் ஆசிரியர் கி.வா.ஜ, “வரும்போது நாவலுடன் வாருங்கள்” என்று சொன்னாராம். உடனிருந்த கலைமகள் அதிபர் ராமரத்னமும் ஆமோதித்தாராம். அதன் விளைவாக ஒரு நாவலுக்கான கருப்பொருளைத் தேடிக்கொண்டிருந்த அகிலன், மலேசிய ரப்பர்த் தோட்டங்களில் பணிபுரியும் தமிழர்களின் வாழ்க்கையைப் பற்றி நாவல் எழுதலாம் என்று தீர்மானித்து அதற்குரிய முயற்சிகளை மேற்கொண்டார். அதன் விளைவு தான் ‘பால்மரக்காட்டினிலே’ என்ற நாவல்.
-     </p></td>
-    <td><img src="/images/TL-PreU-updateImg.jpg">
-   <br/>
-     <img src="/images/Learning-journey-gif.gif">
-   </td>
- </tr>
-</table>
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Db0MlO7f9Ow" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:20px;">சிரம்பான் ரப்பர்த் தோட்டத்திற்குக் கற்றல் பயணம்
-</span>
-</center>
-<h4 id="C5"><span style="font-size:30px;color:purple;">இணையவழிக்   கற்றல்
- </span></h4>
-  <img src="/images/TL-PreU_OnlineLearning.jpg">
-<br/>
-<strong>மின்னூல்:  </strong><br/>
-<a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/19f208ee-e005-48bf-8d65-6dd6bdbb3722?fromCcpm=false" target="_blank">நானும் ஒரு படைப்பாளி </a><br/>
-<a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/88e3a47c-e7d0-4210-a2fe-567824b5863b?fromCcpm=false" target="_blank">I-Book (திறந்த ஜன்னல்)</a><br/>
-
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
