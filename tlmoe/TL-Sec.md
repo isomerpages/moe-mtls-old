@@ -116,7 +116,7 @@ margin-left:25px;
     </span></a></li>
    <li><a href="#C1" style="font-size:20px"><span style="color:blue;">உயர்நிலை 
     </span></a></li>
-   <li><a href="#C2" style="font-size:20px"><span style="color:blueதமிழ்மொழி 
+   <li><a href="#C2" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி 
     </span></a></li>
    <li><a href="#C3" style="font-size:20px"><span style="color:blue;">தமிழ்மொழிப் பாடத்திட்டம் 2021 
     </span></a></li>
