@@ -111,17 +111,22 @@ margin-left:25px;
  <br/>
 <img src="/images/TL-Sec_Header.jpg">
 <p>
- <a href="#C5" style="font-size:20px"><span style="color:blue;">அறிமுகம்
-</span></a><br/>
-<a href="#C1" style="font-size:20px"><span style="color:blue;">2021-ஆம் ஆண்டுத் தமிழ்ப் பாடக்கலைத்திட்டம்
-</span></a><br/>
- <a href="#C2" style="font-size:20px"><span style="color:blue;">இலக்கியம்
-</span></a><br/>
-<a href="#C3" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்
-(Tamil Language Elective Programme)
-</span></a><br/>
-<a href="#C4" style="font-size:20px"><span style="color:blue;">இணையவழிக் கற்றல்
-</span></a><br/><br/>
+ <ol>
+   <li><a href="#C5" style="font-size:20px"><span style="color:blue;">அறிமுகம் 
+    </span></a></li>
+   <li><a href="#C1" style="font-size:20px"><span style="color:blue;">உயர்நிலை 
+    </span></a></li>
+   <li><a href="#C2" style="font-size:20px"><span style="color:blueதமிழ்மொழி 
+    </span></a></li>
+   <li><a href="#C3" style="font-size:20px"><span style="color:blue;">தமிழ்மொழிப் பாடத்திட்டம் 2021 
+    </span></a></li>
+   <li><a href="#C4" style="font-size:20px"><span style="color:blue;">புதிய கூறுகளும் புதிய முயற்சிகளும் 
+    </span></a></li>
+   <li><a href="#C6" style="font-size:20px"><span style="color:blue;">தமிழ் இலக்கியம்  
+    </span></a></li>
+   <li><a href="#C6" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் (Tamil Language Elective Programme - TLEP)  
+    </span></a></li>
+  </ol><br/><br/>
   <h4 id="C5"><span style="font-size:30px;color:purple;">அறிமுகம் 
  </span></h4>
  
@@ -149,11 +154,7 @@ margin-left:25px;
  
   </tr>
 </table> 
- <a href="#C6" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி</span></a><br/>
-<a href="#C7" style="font-size:20px"><span style="color:blue;">தமிழ் இலக்கியம்</span>
-</a><br/>
-<a href="#C8" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் </span>
-</a><br/>
+
 <h2 id="C6">தமிழ்மொழி</h2>
  <p style="text-align:center;"><strong>தமிழ்மொழிப் பாடத்திட்டம் – 1958 முதல் 2011 வரை</strong></p>
  <table style="  border-collapse: collapse;
