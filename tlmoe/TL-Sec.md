@@ -216,19 +216,10 @@ margin-left:25px;
  <iframe width="560" height="315" src="https://www.youtube.com/embed/nnuIhutTDUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <img src="/images/TL-Sec_Image06.jpg">
- <p style="text-align:center;"><strong>சமொழி விளையாட்டு </strong></p>
+ 
+ <h2><center>மொழி விளையாட்டு </center></h2>
+<p style="text-align:justify; padding:8px; font-size:20px;"> சொல்வளப் பெருக்கம், பேச்சுவழிக் கருத்துப்பரிமாற்றம், எழுத்துவழிக் கருத்துப்பரிமாற்றம் தலியவற்றுக்கு உதவும் மொழி விளையாட்டுகள் பாடநூல்களில் வழங்கப்படுகின்றன. </p>
 
-<table style="  border-collapse: collapse;
-  width: 100%;">
- 
-  <tr>
-    <td style=" text-align:justify;
-  padding: 8px;font-size:20px;"> சொல்வளப் பெருக்கம், பேச்சுவழிக் கருத்துப்பரிமாற்றம், எழுத்துவழிக் கருத்துப்பரிமாற்றம் முதலியவற்றுக்கு உதவும் </td>
-   <td style="text-align:justify;
-  padding: 8px;font-size:20px;">  மொழி விளையாட்டுகள் பாடநூல்களில் வழங்கப்படுகின்றன.</td>
- 
-  </tr>
-</table>
 <br/>
 <table style=" border-collapse: collapse; width: 100%;">
 <tr>
