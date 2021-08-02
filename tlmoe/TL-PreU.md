@@ -264,7 +264,7 @@ margin-left:25px;
 <img src="/images/TL JC_Header01.png">
 <img src="/images/TL JC_Picture01.png"><br/>
 <img src="/images/TL JC_Header02.png">
-<img src="/images/TL JC_Picture02.png"><br/>
+<img src="/images/TL JC_Picture02.png">
 <img src="/images/TL JC_Header03.png">
 <img src="/images/TL JC_Picture03.png">
 <img src="/images/TL JC_Picture04.png"><br/>
