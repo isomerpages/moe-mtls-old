@@ -285,17 +285,18 @@ margin-left:25px;
   <table style="border-collapse:collapse;width:100%; border:0;">
     <tr>
       <td style=" border: 0;text-align: left;padding: 8px;">தமிழ்மொழி விருப்பப்பாடத்திட்டத்தை வழங்கும் தொடக்கக்கல்லூரிகள் <br/>
-      <ul>
-       <li style="text-align:justify;"><strong>ஆண்டர்சன் சிராங்கூன் தொடக்கக்கல்லூரி 
-      </strong></li>
+       <ul>
+        <li style="text-align:justify;"><strong>ஆண்டர்சன் சிராங்கூன் தொடக்கக்கல்லூரி 
+       </strong></li>
         <li style="text-align:justify;"><strong>தேசியத் தொடக்கக்கல்லூரி
-      </strong></li>
-      <ul>
-        </td>
+       </strong></li>
+       <ul>
+      </td>
      <td style=" border: 0;text-align: left;padding: 8px;">
-        Pending Image
-        </td>
+       Pending Image
+     </td>
     </tr>
+ </table>
   
 <br/> 
  <h4><span style="font-size:30px;color:purple;">முத்திரை நடவடிக்கைகள்
