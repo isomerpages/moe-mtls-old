@@ -261,25 +261,16 @@ margin-left:25px;
 </center>
 <br/>
  <h4><span style="font-size:30px;color:purple;">முக்கிய நிகழ்வுகள் </span></h4>
- <p style="text-align:justify;">ஆர்வமூட்டும் கற்பித்தலை உறுதிசெய்ய 
-ஆசிரியர்களுக்கான பயிலரங்குகள்
-</p>
-<img src="/tlmoe/TL-JC_Picture1.png"><br/>
-<br/>
- <p style="text-align:justify;">ஆர்வமூட்டும் கற்பித்தலை உறுதிசெய்ய 
-ஆசிரியர்களுக்கான பயிலரங்குகள்</p>
-<br/>
-<p style="text-align:justify;">ல்கலைக்கழகப் புகுமுகநிலை உயர்தரம் 2&3 பாடத்திட்ட அறிமுகப் பயிலரங்கு
-26 அக்டோபர் 2020
-</p>
- <img src="/tlmoe/TL-JC_Picture2.png">
-<br/>
-<img src="/tlmoe/TL-JC_Picture3.png"><br/>
-      <br/>
-
-      <img src="/tlmoe/TL-JC_Picture4.png"><br/>
+<img src="/images/TL JC_Header01.png">
+<img src="/images/TL JC_Picture01.png"><br/>
+<img src="/images/TL JC_Header02.png">
+<img src="/images/TL JC_Picture02.png"><br/>
+<img src="/images/TL JC_Header03.png">
+<img src="/images/TL JC_Picture03.png">
+<img src="/images/TL JC_Picture04.png"><br/>
      
  <br/>
+<img src="/images/TL JC_Header04.png">
 <img src="/images/TL PreU_Image04.jpg">
  
  
