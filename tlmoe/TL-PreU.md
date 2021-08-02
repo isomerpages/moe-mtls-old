@@ -231,7 +231,7 @@ margin-left:25px;
    </td>
     <td style=" border: 0; text-align: left; padding: 8px;">
      <div class="v1" style="padding: 21px;">
-      <img src="/tlmoe/TL-JC_Updated.gif"><br/>
+      <img src="/tlmoe/TL-JC_Updated.gif" style="width: 47%; margin-left: -28px; width:50%;"><br/>
       </div>
     </td>
 </tr>
