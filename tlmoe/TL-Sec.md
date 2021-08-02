@@ -124,7 +124,8 @@ margin-left:25px;
     </a></span></li>
    <li><span style="font-size:20px; color:blue;">தமிழ் இலக்கியம் <a href="#C6">▶ 
     </a></span></li>
-   <li><span style="font-size:20px; color:blue;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் (Tamil Language Elective Programme - TLEP) <a href="#C7">▶ 
+   <li><span style="font-size:20px; color:blue;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்<br/>
+    (Tamil Language Elective Programme - TLEP) <a href="#C7">▶ 
     </a></span></li>
   </ol><br/><br/>
   <h2 id="C5">அறிமுகம் 
@@ -136,49 +137,38 @@ margin-left:25px;
   <p style=" text-align:justify; padding:8px; font-size: 20px;">சிங்கப்பூரில் தாய்மொழிக் கல்வி காலத்திற்கேற்பப் பல மாற்றங்களைக் கண்டு வந்துள்ளது. 2005, 2010 ஆகிய ஆண்டுகளில் தாய்மொழிக் கல்வி குறித்த முக்கிய மறு ஆய்வுகள் மேற்கொள்ளப்பட்டன. இந்த மறு ஆய்வுகளில் தாய்மொழிக் கல்வி குறித்த முக்கியப் பரிந்துரைகள் முன்வைக்கப்பட்டன. கல்வி அமைச்சு அவற்றை ஏற்று முழுமையாகச் செயற்படுத்தி வருகின்றது.<br/>
     இதன் அடிப்படையில் தமிழ்மொழி கற்றல் கற்பித்தலை அடுத்தடுத்த மேம்பட்ட  நிலைக்குக் கொண்டு செல்ல அரசாங்கத்தின் உதவியோடு தொடர்ந்து பல முயற்சிகள் மேற்கொள்ளப்பட்டு வருகின்றன. </p><br/>
 
-  <h4><span style="font-size:30px;color:purple;">உயர்நிலை </span></h4>
- <p style="text-align:center;"><strong>நம் தொலை இலக்கு</strong></p>
+  <h2 id="C1">உயர்நிலை </h2>
+ <h4><span style="font-size:30px;color:purple;">நம் தொலை இலக்க</span></h4>
  <table style="  border-collapse: collapse;
   width: 100%;">
  
-  <tr>
-    <td style=" text-align:justify;
-  padding: 8px;font-size: 20px;"> தமிழை வாழும் மொழியாக நிலைபெறச் செய்வதன் வாயிலாக நம் இளம் தலைமுறையினர் பயன்மிகு வாழ்க்கை வாழ வழிகாட்டுதல்.</td>
-   <td style="text-align:justify;
-  padding: 8px;font-size: 20px;"> தொடக்கநிலைக் கல்வியை நிறைவு செய்யும் மாணவர்கள் உயர்நிலையில் கல்வியைத் தொடர்வார்கள். இவர்களுக்குத் தமிழ்மொழி, தமிழ் இலக்கியம், தமிழ்மொழி விருப்பப்பாடத் திட்டம் என பல்வேறு பாடத்திட்டங்கள் வழங்கப்படுகின்றன.   </td>
- 
-  </tr>
-</table> 
+  <p style=" text-align:justify; padding:8px; font-size:20px;"> தமிழை வாழும் மொழியாக நிலைபெறச் செய்வதன் வாயிலாக நம் இளம் தலைமுறையினர் பயன்மிகு வாழ்க்கை வாழ வழிகாட்டுதல்.<br/>
+   தொடக்கநிலைக் கல்வியை நிறைவு செய்யும் மாணவர்கள் உயர்நிலையில் கல்வியைத் தொடர்வார்கள். இவர்களுக்குத் தமிழ்மொழி, தமிழ் இலக்கியம், தமிழ்மொழி விருப்பப்பாடத் திட்டம் என பல்வேறு பாடத்திட்டங்கள் வழங்கப்படுகின்றன. </p><br/>
 
-<h2 id="C6">தமிழ்மொழி</h2>
+
+  <h2 id="C2"><center>தமிழ்மொழி</center></h2>
  <p style="text-align:center;"><strong>தமிழ்மொழிப் பாடத்திட்டம் – 1958 முதல் 2011 வரை</strong></p>
  <table style="  border-collapse: collapse;
   width: 100%;">
  
-  <tr>
-    <td style=" text-align:justify;
-  padding: 8px;font-size: 20px;"> சிங்கப்பூரில் 1834-ஆம் ஆண்டில்தான் முதல் தமிழ் வகுப்புத் தொடங்கப்பட்டது. ஆனால், 1958-ஆம் ஆண்டில்தான் தொடக்கநிலை, உயர்நிலைப் பள்ளிகளுக்குரிய தமிழ்மொழிப் பாடத்திட்டம் உருவாக்கப்பட்டது. இது ஆங்கிலத்தில் அச்சிடப்பெற்றிருந்தது. அதன் பின்னர், நமது அரசாங்கத்தால் செயற்படுத்தப்பெற்ற பல புதிய கல்விக்கொள்கைகளுக்கு ஏற்பப் பாடத்திட்டங்கள் திருத்தியமைக்கப்பெற்றன. </td>
-   <td style="text-align:justify;
-  padding: 8px;font-size: 20px;"> த  பின்வரும் ஒளிக்காட்சியில் பாடத்திட்டத்தின் வளர்ச்சிநிலையைக் காண்போம்.   </td>
- 
-  </tr>
-</table>
+  <p style=" text-align:justify; padding:8px; font-size: 20px;"> சிங்கப்பூரில் 1834-ஆம் ஆண்டில்தான் முதல் தமிழ் வகுப்புத் தொடங்கப்பட்டது. ஆனால், 1958-ஆம் ஆண்டில்தான் தொடக்கநிலை, உயர்நிலைப் பள்ளிகளுக்குரிய தமிழ்மொழிப் பாடத்திட்டம் உருவாக்கப்பட்டது. இது ஆங்கிலத்தில் அச்சிடப்பெற்றிருந்தது. அதன் பின்னர், நமது அரசாங்கத்தால் செயற்படுத்தப்பெற்ற பல புதிய கல்விக்கொள்கைகளுக்கு ஏற்பப் பாடத்திட்டங்கள் திருத்தியமைக்கப்பெற்றன. <br/>
+   பின்வரும் ஒளிக்காட்சியில் பாடத்திட்டத்தின் வளர்ச்சிநிலையைக் காண்போம். </p>
+
  <center>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/6sBb03SK3wI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
- <h4 id="C1"><span style="font-size:30px;color:purple;">தமிழ்மொழிப் பாடத்திட்டம் 2021
- </span></h4>
+ <h2 id="C3">தமிழ்மொழிப் பாடத்திட்டம் 2021</h2>
 <p><img src="/images/TL-Sec_Image01.jpg"><br/>
- <a href="2021 Secondary Curriculum Link https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf" target="_blank">2021 Tamil Curriculum</a></p>
+ 2021 Tamil Curriculum<a href="2021 Secondary Curriculum Link https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf" target="_blank">▶</a></p>
  <center>
  <span style="font-size:18px;">உயர்நிலைத் &nbsp; தமிழ்மொழிப் &nbsp; பாடத்திட்ட &nbsp; வெளியீடு:</span><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rGFqD2sxPfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br/>
- <p style="text-align:justify;"><strong>தமிழருவி – பாடநூல், பயிற்சிநூல் </strong><br/><br/>
+ <h2><strong>தமிழருவி – பாடநூல், பயிற்சிநூல் </h2><br/><br/>
  புதிய கூறுகள் இளைய தலைமுறையினரை ஈர்க்கும் தன்மை கொண்ட பயிற்றுவளங்கள். <br/><br/>
 
   <img src="/tlmoe/TL-Textbooks-&-Workbooks.gif">
 </p>
- <h2 style="text-align:justify;">புதிய கூறுகளும் புதிய முயற்சிகளும்</h2>
+ <h2 id="C4">புதிய கூறுகளும் புதிய முயற்சிகளும் </h2>
  <img src="/images/TL-Sec_Image02.jpg">
  <p>
  <a href="#C9" style="font-size:20px"><span style="color:blue;">பண்பாட்டறிவை வளப்படுத்துதல்
@@ -276,7 +266,7 @@ margin-left:25px;
 </table>
 <br/>
 <img src="/images/TL-Sec_Image07.jpg">
-   <h2 id="C7">தமிழ் இலக்கியம்</h2>
+   <h2 id="C6">தமிழ் இலக்கியம்</h2>
 <h4 id="C2"><span style="font-size:30px;color:purple;">தமிழ் இலக்கியம் 
  </span></h4>
  <p style="text-align:justify;">
