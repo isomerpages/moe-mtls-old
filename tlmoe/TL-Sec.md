@@ -112,20 +112,20 @@ margin-left:25px;
 <img src="/images/TL-Sec_Header.jpg">
 <p>
  <ol>
-   <li><a href="#C5" style="font-size:20px"><span style="color:blue;">அறிமுகம் 
-    </span></a></li>
-   <li><a href="#C1" style="font-size:20px"><span style="color:blue;">உயர்நிலை 
-    </span></a></li>
-   <li><a href="#C2" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி 
-    </span></a></li>
-   <li><a href="#C3" style="font-size:20px"><span style="color:blue;">தமிழ்மொழிப் பாடத்திட்டம் 2021 
-    </span></a></li>
-   <li><a href="#C4" style="font-size:20px"><span style="color:blue;">புதிய கூறுகளும் புதிய முயற்சிகளும் 
-    </span></a></li>
-   <li><a href="#C6" style="font-size:20px"><span style="color:blue;">தமிழ் இலக்கியம்  
-    </span></a></li>
-   <li><a href="#C7" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் (Tamil Language Elective Programme - TLEP)  
-    </span></a></li>
+   <li><span style="font-size:20px; color:blue;">அறிமுகம் <a href="#C5">▶ 
+    </a></span></li>
+   <li><span style="font-size:20px; color:blue;">உயர்நிலை <a href="#C1">▶ 
+    </a></span></li>
+   <li><span style="font-size:20px; color:blue;">தமிழ்மொழ <a href="#C2">▶ 
+    </a></span></li>
+   <li><span style="font-size:20px; color:blue;">தமிழ்மொழிப் பாடத்திட்டம் 2021 <a href="#C3">▶ 
+    </a></span></li>
+   <li><span style="font-size:20px; color:blue;">புதிய கூறுகளும் புதிய முயற்சிகளும் <a href="#C4">▶ 
+    </a></span></li>
+   <li><span style="font-size:20px; color:blue;">தமிழ் இலக்கியம் <a href="#C6">▶ 
+    </a></span></li>
+   <li><span style="font-size:20px; color:blue;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் (Tamil Language Elective Programme - TLEP) <a href="#C7">▶ 
+    </a></span></li>
   </ol><br/><br/>
   <h2 id="C5">அறிமுகம் 
  </h2>
