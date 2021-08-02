@@ -124,23 +124,18 @@ margin-left:25px;
     </span></a></li>
    <li><a href="#C6" style="font-size:20px"><span style="color:blue;">தமிழ் இலக்கியம்  
     </span></a></li>
-   <li><a href="#C6" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் (Tamil Language Elective Programme - TLEP)  
+   <li><a href="#C7" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் (Tamil Language Elective Programme - TLEP)  
     </span></a></li>
   </ol><br/><br/>
-  <h4 id="C5"><span style="font-size:30px;color:purple;">அறிமுகம் 
- </span></h4>
+  <h2 id="C5">அறிமுகம் 
+ </h2>
  
 <table style="  border-collapse: collapse;
   width: 100%;">
  
-  <tr>
-    <td style=" text-align:justify;
-  padding: 8px;font-size: 20px;">சிங்கப்பூரில் தாய்மொழிக் கல்வி காலத்திற்கேற்பப் பல மாற்றங்களைக் கண்டு வந்துள்ளது. 2005, 2010 ஆகிய ஆண்டுகளில் தாய்மொழிக் கல்வி குறித்த முக்கிய மறு ஆய்வுகள் மேற்கொள்ளப்பட்டன. இந்த மறு ஆய்வுகளில் தாய்மொழிக் கல்வி குறித்த முக்கியப் பரிந்துரைகள் முன்வைக்கப்பட்டன. கல்வி அமைச்சு அவற்றை ஏற்று முழுமையாகச் செயற்படுத்தி வருகின்றது.</td>
-   <td style="text-align:justify;
-  padding: 8px;font-size: 20px;">சஇதன் அடிப்படையில் தமிழ்மொழி கற்றல் கற்பித்தலை அடுத்தடுத்த மேம்பட்ட  நிலைக்குக் கொண்டு செல்ல அரசாங்கத்தின் உதவியோடு தொடர்ந்து பல முயற்சிகள் மேற்கொள்ளப்பட்டு வருகின்றன. </td>
- 
-  </tr>
-</table>
+  <p style=" text-align:justify; padding:8px; font-size: 20px;">சிங்கப்பூரில் தாய்மொழிக் கல்வி காலத்திற்கேற்பப் பல மாற்றங்களைக் கண்டு வந்துள்ளது. 2005, 2010 ஆகிய ஆண்டுகளில் தாய்மொழிக் கல்வி குறித்த முக்கிய மறு ஆய்வுகள் மேற்கொள்ளப்பட்டன. இந்த மறு ஆய்வுகளில் தாய்மொழிக் கல்வி குறித்த முக்கியப் பரிந்துரைகள் முன்வைக்கப்பட்டன. கல்வி அமைச்சு அவற்றை ஏற்று முழுமையாகச் செயற்படுத்தி வருகின்றது.<br/>
+    இதன் அடிப்படையில் தமிழ்மொழி கற்றல் கற்பித்தலை அடுத்தடுத்த மேம்பட்ட  நிலைக்குக் கொண்டு செல்ல அரசாங்கத்தின் உதவியோடு தொடர்ந்து பல முயற்சிகள் மேற்கொள்ளப்பட்டு வருகின்றன. </p><br/>
+
   <h4><span style="font-size:30px;color:purple;">உயர்நிலை </span></h4>
  <p style="text-align:center;"><strong>நம் தொலை இலக்கு</strong></p>
  <table style="  border-collapse: collapse;
@@ -291,11 +286,9 @@ margin-left:25px;
 <img src="/images/TL-Sec_Image08.jpg">
 <p><a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank"> தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019</a></p>
 
-<h2 id="C8">தமிழ்மொழி விருப்பப்பாடத் திட்டம் </h2>
- <h4 id="C3"><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்<br/>
+<h2 id="C7">தமிழ்மொழி விருப்பப்பாடத் திட்டம்<br/>
 (Tamil Language Elective Programme - TLEP)
- </span>
-</h4>
+</h2>
 <p style="text-align:justify;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. இத்திட்டம் உயர்நிலை 3-இல் தமிழ் இலக்கியம் பயிலும் மாணவர்களுக்கு உரியது. இது தற்போது மூன்று உயர்நிலைப்பள்ளிகளில் செயற்படுத்தப்படுகிறது.
 <br/><br/>
  <strong>இத்திட்டத்தின் நோக்கம் </strong><br/>
