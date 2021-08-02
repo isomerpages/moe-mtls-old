@@ -272,23 +272,33 @@ margin-left:25px;
  <br/>
 <img src="/images/TL JC_Header04.png">
 <img src="/images/TL PreU_Image04.jpg">
- 
+ <br/>
  
 <h4><span style="font-size:30px;color:purple;">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமூட்டும் உத்திமுறைகள் 
  </span></h4> 
 <img src="/images/TL-PreU-Strategies.jpg">
 <br/>
-<h4><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப் பாடத்திட்டம்
- <br/> (Tamil Language Elective Programme)
- </span></h4>
+<img src="/images/TL JC_Header05.png">
+<br/>
  <p style="text-align:justify;">தமிழ்மொழி விருப்பப்பாடத்திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. தகுதிவாய்ந்த மாணவர்களைத் தமிழ்மொழியில் ஆற்றல்மிக்கவர்களாகவும், தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வைப் பேணி வளர்க்கவும் இத்திட்டம் வகைசெய்யும். அதோடு மாணவர்களை இருமொழியாற்றல் மிக்கவர்களாக உருவாக்குவதே இந்தத் திட்டத்தின் நோக்கம்.
-<br/><br/>தமிழ்மொழி விருப்பப்பாடத்திட்டத்தை வழங்கும் தொடக்கக்கல்லூரிகள்</p>
-<ul>
- <li style="text-align:justify;"><strong>ஆண்டர்சன் சிராங்கூன் தொடக்கக்கல்லூரி 
-</strong></li>
-  <li style="text-align:justify;"><strong>தேசியத் தொடக்கக்கல்லூரி
-</strong></li>
+<br/><br/>
+  <table style="border-collapse: collapse;
+  width: 100%; border:0;">
+  <tr>
+<td style=" border: 0;text-align: left;padding: 8px;">தமிழ்மொழி விருப்பப்பாடத்திட்டத்தை வழங்கும் தொடக்கக்கல்லூரிகள் 
+<br/>
  <ul>
+  <li style="text-align:justify;"><strong>ஆண்டர்சன் சிராங்கூன் தொடக்கக்கல்லூரி 
+ </strong></li>
+   <li style="text-align:justify;"><strong>தேசியத் தொடக்கக்கல்லூரி
+ </strong></li>
+  <ul>
+</td>
+ <td style=" border: 0;text-align: left;padding: 8px;">
+    Pending Image
+    </td>
+ </tr>
+  
 <br/> 
  <h4><span style="font-size:30px;color:purple;">முத்திரை நடவடிக்கைகள்
  </span></h4>
@@ -304,8 +314,7 @@ margin-left:25px;
  <br/>
 <img src="/tlmoe/tl-preU38.jpeg">
   <br/>
-   <h4><span style="font-size:30px;color:purple;">கல்வி அமைச்சு வழிநடத்தும் நடவடிக்கைகள்
-</span></h4>
+<img src="/images/TL JC_Header06.png">
   <table style="border-collapse: collapse;
   width: 100%; border:0;">
   <tr>
