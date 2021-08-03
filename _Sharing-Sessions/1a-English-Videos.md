@@ -165,7 +165,7 @@ MsDiana Ser
    <p> <strong>  MsDiana Ser </strong>
 </p>
    </div>
-       <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Raising Bilingual Children: Challenges, Opportunities and Strategies for Success</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Raising a Bilingual Reader: Top Practical Tips for Parents</h4>
        <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4></p>
        <p style="margin:10px;">Dr. Sabrina Sun He is a research scientist at the National Institute of Education, Nanyang Technological University, Singapore . Her research interests include: 1) Child Mother Tongue Language learning and e-book reading for children, 2) individual differences in early bilingualism, and 3) harmonious bilingual experience. Her research explores how cognition and environment co-shape the developmental rate and route of early bilingualism, and how the bilingual experience influences children’s social-emotional skills and executive function.</p>
  
@@ -192,7 +192,6 @@ MsDiana Ser
 <div class="atab atab3Line">
       <input id="tab-4" type="checkbox" name="tab">
       <label class="lbeng" for="tab-4">Creating an Immersive Bilingual Language Environment for Children at Home
-
 <br/>Dr Mukhlis Abu Bakar <br/>
 Ms Rilla Melati Bahri
 </label>
@@ -213,7 +212,7 @@ Ms Rilla Melati Bahri
    <p> <strong> Ms Rilla Melati Bahri</strong>
 </p>
    </div>
-       <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Raising Bilingual Children: Challenges, Opportunities and Strategies for Success</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Creating an Immersive Bilingual Language Environment for Children at Home</h4>
        <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4></p>
        <p style="margin:10px;">Dr Mukhlis Abu Bakar is an Associate Professor at the National Institute of Education (NIE), Nanyang Technological University. He obtained his MA and PhD in applied linguistics from the University of Wales, Bangor, UK. He teaches courses in linguistics, discourse analysis, critical literacy and bilingual education, for which he received NIE’s Excellence in Teaching Commendation Award in 2011, 2018 and 2020. His research interests are in the fields of bilingualism, biliteracy, literacy learning, and pronunciation issues in Malay. He is co-editor of a forthcoming book to be published in August, The Bloomsbury Handbook of Cultural Identity from Early Childhood to Early Adulthood.
 </p>
