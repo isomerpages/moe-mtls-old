@@ -98,13 +98,13 @@ table {
       <div class="tab-content">
           <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;">母语伴我行</h4>
         <p style="font-family:KaiTi;font-size:21px;margin:10px;">
-         李光耀先生于2011年在其新书《我一生的挑战：新加坡双语之路》的发布会上，宣布设立李光耀双语基金（简称“基金”）。<br />
-        自成立以来，本基金致力于支持有助于双语学习的创意项目开发，让孩童在愉悦的互动中乐学和善用母语，并使之成为生活的语言。<br />
-       在推广母语的学习和使用方面，本基金积极资助各种资源和项目的创立和开发，发挥其“催化作用”。<br/>
+         李光耀先生于2011年在其新书《我一生的挑战：新加坡双语之路》的发布会上，宣布设立李光耀双语基金（简称“基金”）。<br /><br />
+        自成立以来，本基金致力于支持有助于双语学习的创意项目开发，让孩童在愉悦的互动中乐学和善用母语，并使之成为生活的语言。<br /><br />
+       在推广母语的学习和使用方面，本基金积极资助各种资源和项目的创立和开发，发挥其“催化作用”。<br/><br />
             本基金的社交媒体平台上(包括正式YouTube频道、Facebook和Instagram)有许多生动有趣的母语视频，供老师及家长与孩童一起观赏、学习。
         </p><br/>
           <h4 style="margin:10px;">My Mother Tongue, My Companion</h4>
-          <p style="margin:10px;">The establishment of the Lee Kuan Yew Fund for Bilingualism was announced by Mr Lee Kuan Yew at the launch of “My Lifelong Challenge: Singapore’s Bilingual Journey” in 2011.<br/>
+          <p style="margin:10px;">The establishment of the Lee Kuan Yew Fund for Bilingualism was announced by Mr Lee Kuan Yew at the launch of “My Lifelong Challenge: Singapore’s Bilingual Journey” in 2011.<br/><br />
               The Fund supports creative and engaging approaches that encourage bilingualism and the learning of Mother Tongue Languages (MTLs) as living languages.  The fund acts as a
 catalyst in supporting the learning and the use of MTLs through various fund-supported resources and programmes. Fun and interesting videos that support the learning of MTLs for young children can be accessed through platforms such as the Fund’s official YouTube channel, Facebook and Instagram.
 </p>
@@ -121,10 +121,10 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
       <label for="tab-8" class="lbCh"><span style="font-size:25px; font-family:KaiTi">新传媒</span><br/>Mediacorp</label>
       <div class="tab-content">
        <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;">华文“浆”好玩</h4>
-          <p style="font-family:KaiTi;margin:10px;font-size:21px;">在新传媒，我们相信电视节目不应该有语言的界限。节目只要内容精彩，即使以外语呈现，也能够吸引观众。<br/>
+          <p style="font-family:KaiTi;margin:10px;font-size:21px;">在新传媒，我们相信电视节目不应该有语言的界限。节目只要内容精彩，即使以外语呈现，也能够吸引观众。<br/><br />
           为了让更多年幼的观众喜欢华文华语，okto依据深受小朋友们喜爱的英语节目“Word Whiz or Slime Pit”设计、制作了两部华语续集：《成语就“浆”说》和《华文“浆”好玩》。这两部续集注入了Word Whiz节目的精髓，以有趣的人物和好玩的游戏，吸引更多小观众喜欢上华文华语。</p><br/>
           <h4 style="margin:10px;">Word Whiz or Slime Pit!</h4>
-          <p style="margin:10px;">Mediacorp believes that content creation has no language boundaries. Audiences will watch a show if they enjoy the content, even if it is in a foreign language.<br/>
+          <p style="margin:10px;">Mediacorp believes that content creation has no language boundaries. Audiences will watch a show if they enjoy the content, even if it is in a foreign language.<br/><br />
           To entice young viewers to Chinese, okto rides on their top-rated English title “Word Whiz or Slime Pit” to create spin-offs like “Word Whiz (Idioms)” and “Word Whiz (Mandarin)” for the Chinese-speaking audience. The same approach towards learning has been adopted in these titles, featuring entertaining characters, word puzzles and game elements in the show, all aimed to engage the audience and spark their interest in Chinese.</p>
       </div>
 </div>
@@ -174,13 +174,13 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
       <div class="tab-content">
           <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;">中文图书馆服务</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-       国家图书馆管理局致力于推广母语阅读，通过有趣的活动和丰富的线上和线下藏书，培养读者对母语阅读的兴趣。<br/>
-          国家图书馆管理局采用了多元且新颖的方式与读者在线上交流互动，如面簿上为4至8岁的孩子所制作的故事视频、图书馆手机应用程序上的“好书推荐”，以及为家长和教育工作者所举办的线上工作坊等。<br/>
+       国家图书馆管理局致力于推广母语阅读，通过有趣的活动和丰富的线上和线下藏书，培养读者对母语阅读的兴趣。<br/><br />
+          国家图书馆管理局采用了多元且新颖的方式与读者在线上交流互动，如面簿上为4至8岁的孩子所制作的故事视频、图书馆手机应用程序上的“好书推荐”，以及为家长和教育工作者所举办的线上工作坊等。<br/><br />
           这些活动与资源不仅有助于激发这些活动与资源不仅有助于激发孩子的想象力，同时也营造了良好的阅读氛围，培养孩子从小阅读母语的好习惯。</p><br/>
           <h4 style="margin:10px;">National Library Board MTL Services</h4>
           <p style="margin:10px;">
-       NLB promotes and nurtures lifelong reading in the Mother Tongue Languages through engaging programmes and an extensive collection of physical and digital resources. <br/>
-              Reading and learning are now made readily accessible in the comfort of our homes. Keep our Mother Tongue Languages alive by tapping on NLB’s digital offerings such as Storytime videos for children aged 4 to 8 years on Facebook, recommended reads on the NLB mobile app, and interactive e-workshops for parents and educators. <br/>
+       NLB promotes and nurtures lifelong reading in the Mother Tongue Languages through engaging programmes and an extensive collection of physical and digital resources. <br/><br />
+              Reading and learning are now made readily accessible in the comfort of our homes. Keep our Mother Tongue Languages alive by tapping on NLB’s digital offerings such as Storytime videos for children aged 4 to 8 years on Facebook, recommended reads on the NLB mobile app, and interactive e-workshops for parents and educators. <br/><br />
               These activities will spark a child’s imagination by bringing stories alive and help cultivate the habit of reading in Mother Tongue Languages from young.
         </p>
       </div>
@@ -197,10 +197,10 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
       <div class="tab-content">
          <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;">读报从小开始</h4>
         <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-            新加坡报业控股旗下的学生报针对不同年龄层的学生推出丰富的资源，其中包括适合学前孩童阅读的《小小拇指》、小学低年级学生阅读的《小拇指》、小学高年级学生阅读的《大拇指》和中学生阅读的《逗号》。<br/>
+            新加坡报业控股旗下的学生报针对不同年龄层的学生推出丰富的资源，其中包括适合学前孩童阅读的《小小拇指》、小学低年级学生阅读的《小拇指》、小学高年级学生阅读的《大拇指》和中学生阅读的《逗号》。<br/><br />
 此外，报业控股也设计了两款学习华文的数码资源。“小小拇指”是为学前儿童设计的免费应用程序，家长和小朋友能用它来一起听儿歌、玩游戏和做手工。zbschools.sg则能让中小学生通过观看视频、阅读新闻等有趣的方式学习华文，培养阅读的习惯。</p><br/>
     <h4 style="margin:10px;">Reading the News from A Tender Age</h4>
-    <p style="margin:10px;">Singapore Press Holdings Limited (SPH) has four student publications with educational values and fun elements catering for pre-school, lower primary, upper primary and secondary levels, namely, Thumbs Up Little Junior, Thumbs Up Junior, Thumbs Up and zbCOMMA.<br/>
+    <p style="margin:10px;">Singapore Press Holdings Limited (SPH) has four student publications with educational values and fun elements catering for pre-school, lower primary, upper primary and secondary levels, namely, Thumbs Up Little Junior, Thumbs Up Junior, Thumbs Up and zbCOMMA.<br/><br />
           To make learning Chinese engaging, Student Publications has launched two digital resources: “Thumbs Up Little Junior”, a free-to-download application for pre-schoolers which encourages parents and children to spend quality time together while learning rhymes, playing games and doing crafts; and Zbschools.sg, an integrated online learning platform consisting of interesting content and videos, to entice students to learn Chinese and cultivate good reading habits.</p>
 </div>
     </div>
@@ -216,7 +216,7 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
       <div class="tab-content">
           <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;">新加坡动物园伴你读故事</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">新加坡动物园提供生动而独特的动物故事题材，帮助孩子提高阅读能力。<br/>
-              例如《一只受困的小水獭》这本无字书讲述了一只江獭获救的故事。这本图书附带一份活动指南，指导教师和家长培养学前儿童成为富有想象力的讲故事小能手。讲故事是一种非常有趣的活动方式，能够丰富孩子词汇和激发创造力。<br/>
+              例如《一只受困的小水獭》这本无字书讲述了一只江獭获救的故事。这本图书附带一份活动指南，指导教师和家长培养学前儿童成为富有想象力的讲故事小能手。讲故事是一种非常有趣的活动方式，能够丰富孩子词汇和激发创造力。<br/><br />
               在探索学习活动中，新加坡动物园还专门为小学生准备了视频和图片，提供讲华语的机会，提升他们的沟通技能。
 
 </p><br/>
@@ -238,11 +238,11 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
       <div class="tab-content">
            <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;">创新实用的研究生动有趣的读本</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-         新加坡华文教研中心一直以来都不遗余力地推展华文教研活动，积积极创建并推广在双语环境中行之有效的华文教学法，以期促进华族语言文化在新加坡的发展。<br/>
+         新加坡华文教研中心一直以来都不遗余力地推展华文教研活动，积积极创建并推广在双语环境中行之有效的华文教学法，以期促进华族语言文化在新加坡的发展。<br/><br />
           近年来，中心分别为小学生和中学生推出了《新新岛》和《奇狮妙想》分级读本系列。这些读本图文并茂、生动有趣，可激发学生的阅读兴趣，吸引他们乐学华文。</p><br/>
           <h4 style="margin:10px;">Innovative Research, Captivating Books</h4>
         <p style="margin:10px;">
-         The Singapore Centre for Chinese Language (SCCL) aims to promote the development of Chinese language and culture in Singapore. It focuses on researching innovative teaching and learning strategies to develop effective teaching methods for our bilingual environment.<br/>
+         The Singapore Centre for Chinese Language (SCCL) aims to promote the development of Chinese language and culture in Singapore. It focuses on researching innovative teaching and learning strategies to develop effective teaching methods for our bilingual environment.<br/><br />
             SCCL also publishes books for primary and secondary school students to help them experience the fun of learning Chinese. The latest examples are the Graded Book Series, New Stars Island and Creative Lion. These enjoyable stories with creative illustrations will definitely captivate the interest of students.
         </p>
       </div>
