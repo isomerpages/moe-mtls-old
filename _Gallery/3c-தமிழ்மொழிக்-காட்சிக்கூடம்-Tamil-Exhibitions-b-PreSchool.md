@@ -107,6 +107,46 @@ Various ICT tools and child-centric strategies are used to enhance the quality o
 </td>
 </tr>
 
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-3" type="checkbox" name="tab">
+      <label for="tab-3"  class="lbTM">குதூகலமாகத் தமிழ் கற்றல்<br/>PCF Sparkletots Preschool @ Paya Lebar Blk 23 (KN)</label>
+      <div class="tab-content">
+         <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">குதூகலமாகத் தமிழ் கற்றல்</h4>
+           <p style="margin:10px;font-size:20px;">ம.செ.கசமூகநிறுவனம்ஸ்பார்க்ல்டாட்ஸ்பயாலேபர்கட்டடஎண் 23 பாலர்பள்ளி ஆசிரியர்கள், குதூகலமாகத்தமிழ்கற்றல்என்னும்தலைப்பையொட்டித்தமிழ்வகுப்பைவடிவமைத்துள்ளனர். இதன்அடிப்படையில், பிள்ளைகளைக்கவரும்வகையில்வகுப்பறையைஅமைத்துக்கலந்துரையாடல், விளையாட்டு,ஆடல்பாடல்,நாடகம்நடித்தல், வரைதல், வண்ணம்தீட்டுதல்போன்றவற்றில்புதுமையைப்புகுத்திமகிழ்வூட்டும்நடவடிக்கைகளைஅறிமுகப்படுத்துகிறார்கள். வகுப்பறைக்கற்றல்வழியாகவும், வெளிப்புறக்கற்றல்வழியாகவும்நடத்தப்படும்இந்நடவடிக்கைகளில்பிள்ளைகள்மகிழ்ச்சியாகத்தமிழ்மொழியைக்கற்றுக்கொள்கிறார்கள். இதனால், பிள்ளைகள்கேட்டல், பேசுதல், வாசித்தல், எழுதுதல்முதலியமொழித்திறன்களைஉற்சாகத்தோடுகற்றுக்கொள்கிறார்கள்;மேலும், தமிழ்மொழியில்சரளமாகப்பேசுகிறார்கள். பல்லினச்சமுதாயத்தில்வாழும்தமிழ்மாணவர்கள், தமிழ்மொழிமீதுஆர்வம்கொண்டுதமிழில்சரளமாகப்பேசித்தமிழ்மொழியைவாழும்மொழியாக்கமேற்கொள்ளப்படும்உத்திகளும்நடவடிக்கைகளும்இவர்களதுகூடத்தில்பகிர்ந்துகொள்ளப்படும்.
+ </p><br/>
+          <p><h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">Joy of Learning Tamil</h4></p>
+         <p style="margin:10px;">
+        PCF Sparkletots Preschool @ Paya Lebar Blk 23 (KN) aims to bring the joy of learning Tamil to children. Classes are designed to inspire children to embark on creative learning through discussions, exploration, recordings, games, songs, dance and dramatisation. These activities, which are conducted both indoors and outdoors, spark excitement in learning Tamil, and enable children to grasp the key elements of the language with both interest and enthusiasm. The centre will share strategies and activities carried out in school that enable children living in multi-ethnic communities to learn about Tamil and make Tamil a living language.  </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg20">
+</td>
+</tr>
+
+
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-4" type="checkbox" name="tab">
+      <label for="tab-4"  class="lbTM">வாழும்மொழியாகநம்தாய்மொழி<br/>PCF SPARKLETOTS 
+PRESCHOOL@SENGKANG EAST BLK 187B
+</label>
+      <div class="tab-content">
+         <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">குதூகலமாகத் தமிழ் கற்றல்</h4>
+           <p style="margin:10px;font-size:20px;">ம.செ.கசமூகநிறுவனம்ஸ்பார்கல்டாட்ஸ்பாலர்பள்ளி, செங்காங்கிழக்கு,  புளோக்187Bபாலர்பள்ளியில், பிள்ளைகளிடையேதாய்மொழிப்பற்றைவளர்ப்பதற்கானபல்வேறுபுத்தாக்கவழிமுறைகளைப் பயன்படுத்திஆசிரியர்கள்கற்பிக்கின்றனர். பிள்ளைகளுக்குமிகவும்விருப்பமானநாடகங்கள், கவிதைவாசிப்பு, பாரம்பரியவிளையாட்டுகள், பண்பாடுசார்ந்தநடனங்கள், போட்டிகளில்பங்கேற்புமுதலியஅணுகுமுறைகளின்வழியேஅவர்களின்பங்களிப்புகள்வளர்க்கப்படுகின்றன. இவற்றின்வாயிலாகத்தாய்மொழிஆர்வத்தை வளர்க்கும் பயிற்சிகள்வழங்கப்படுகின்றன. பெற்றோரோடுஇணைந்துஅவர்களின்ஆலோசனைகளையும்பெற்றுப்பிள்ளைகளின்மொழியார்வத்தைமேலும்பெருக்குவதற்காகஎளியவழிமுறைகளைத்திட்டமிட்டுச்செயற்படுத்துகின்றனர். இளம்பருவத்தில்ஊட்டப்படும்மொழியார்வமானதுவாழ்நாள்முழுதும்நிலைத்துநிற்கும். எனவே, பிள்ளைகள்விரும்பும்கலைசார்ந்தவேடிக்கைமற்றும்கேளிக்கைநிறைந்தநடவடிக்கைகளைப் பின்பற்றிச்சிறுபருவத்திலேயேதாய்மொழிஆர்வத்தைவிதைப்பதில்ஆசிரியர்கள்முக்கியப்பங்காற்றுகின்றனர். இலக்கண, இலக்கியப்பழமைநிறைந்ததமிழ்மொழி, இன்றும்உலகில்நிலைத்துநிற்கும்செம்மொழிகளில்ஒன்று. இந்தப்பெருமிதத்தைப்பிள்ளைகள் உணரும்படிசெய்வதைநோக்கமாகக்கொண்டே ‘வாழும்மொழியாகநம்தாய்மொழி’ என்னும்கருப்பொருளைத்தேர்ந்தெடுத்துள்ளனர். இதனைஅடிப்படையாகக்கொண்டுசெயல்திட்டங்கள்வகுக்கப்பட்டுள்ளன. பல்லாயிரம் ஆண்டுகளாகவாழும்மொழியாகவிளங்கும்தமிழ்மொழியைஅடுத்ததலைமுறைக்குக்கொண்டுசெல்லும்கடப்பாட்டில்பங்களிப்பதில்இப்பள்ளிஆசிரியர்கள்மகிழ்வும்பெருமையும்கொள்கிறார்கள்.
+ </p><br/>
+          <p><h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">Mother Tongue (Tamil) as a Living Language</h4></p>
+         <p style="margin:10px;">
+        PCF Sparkletots Preschool @ Sengkang East Blk 187B adopts creative approaches to develop our children’s love for their Mother Tongue Language (MTL). Children are given the opportunity to learn their MTL in an enjoyable and engaging way through dramatisation, poetry recitation, traditional games, cultural dance, and participation in external competitions. The teachers work closely with parents to enhance children’s language development and implement fun activities to cultivate a lifelong learning interest for Tamil; developing this sustained love and use of the language throughout their children’s lives is of great importance to them. They are proud of their commitment to pass on Tamil as a living language to the next generation. </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg20">
+</td>
+</tr>
 </table>
 
 <hr>
