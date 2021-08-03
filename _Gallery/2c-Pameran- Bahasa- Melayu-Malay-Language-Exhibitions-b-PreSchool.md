@@ -62,62 +62,82 @@ third_nav_title: 'Pameran Bahasa Melayu'
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbML">	Tadika MOE (Farrer Park)<br/>MOE Kindergarten @ Farrer Park</label>
+      <input id="tab-10" type="checkbox" name="tab">
+      <label for="tab-10" class="lbML">Mari Bekerjasama untuk Membangunkan Dwibahasa pada Peringkat Awal Kanak-kanak!  <br/>MK@Punggol Green 
+(3MTL)
+</label>
       <div class="tab-content">
-      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Membaca Mencipta Keajaiban</h4>
-      <p style="margin:10px;">
-        Di Tadika MOE Farrer Park (MK Farrer Park), setiap kanak-kanak dipercayai boleh belajar dan menggunakan bahasa ibunda sebagai alat komunikasi yang berkesan. Dengan berpandukan prinsip ini, MK Farrer Park ingin memupuk minat dan  penghayatan kanak-kanak untuk membaca buku bahasa ibunda melalui inisiatif yang dijalankan, iaitu MK Book Club. Dengan memilih buku cerita mereka sendiri, kanak-kanak akan terdorong  untuk membaca dan belajar mengikut tahap kebolehan mereka. <br/>Untuk mengukuhkan amalan membaca di rumah pula, MK Farrer Park bekerjasama dengan ibu bapa untuk melibatkan anak-anak mereka dalam aktiviti membaca dan bercerita. Dengan mengadakan aktiviti keluarga yang bermakna, kanak-kanak dapat melanjutkan pembelajaran mereka di luar darjah dan meningkatkan keyakinan diri untuk bertutur dalam bahasa ibunda. </p><br/>
-
-<h4 style="padding-top:12px;margin:10px;color:#a3c864;">Reading Creates Wonders</h4>
-<p style="margin:10px;">MOE Kindergarten @ Farrer Park (MK) believes that every child can learn and use Mother Tongue Language (MTL) as an effective communication tool. Guided by this belief, the centre aims to cultivate MK children’s love for, and appreciation of reading of MTL books through their centre-based initiative, the MK Book Club. With a child-initiated choice of books, children are motivated to read at their own pace.</p>
-<p style="margin:10px;">To reinforce reading habits at home, the centre partners parents to engage their children in reading and storytelling. Coupled with meaningful family-based activities, this further extends their child’s learning beyond the classroom and builds their confidence in speaking MTL.  
-</p>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari Bekerjasama untuk Membangunkan Dwibahasa pada Peringkat Awal Kanak-kanak!</h4>
+        <p style="margin:10px;">
+       Tadika MOE @ Punggol Green memupuk kemahiran dwibahasa dalam murid-murid prasekolah melalui program berasaskan pusat. Program ini bertujuan untuk membina keyakinan kanak-kanak menggunakan bahasa Inggeris dan bahasa ibunda (MTL) di sekolah dan di rumah. Melalui program tersebut, Tadika MOE @ Punggol Green bekerja rapat dengan ibu bapa untuk menyokong kedwibahasaan kanak-kanak selain membantu kanak-kanak menangani perubahan yang dialami mereka. <br/>
+Dengan menyertai aktiviti yang menyeronokkan lagi interaktif dalam pelbagai situasi yang autentik, bahasa ibunda dapat menjadi bahasa sepanjang hayat.  Kanak-kanak ini dapat melihat kerelevanan bahasa ibunda dalam kegiatan harian mereka.  Tambahan lagi, aktiviti-aktiviti tersebut turut membantu kanak-kanak mengamalkan nilai-nilai yang dipelajari di sekolah mahupun di rumah.  
+        </p><br/>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Let’s Work Together to Develop Early Childhood Bilingualism!</h4>
+       <p style="margin:10px;">MOE Kindergarten @ Punggol Green nurtures early childhood bilingualism through a centre-based programme to build children’s confidence in using English and their Mother Tongue Language (MTL) in school and at home. Through this programme, the centre partners parents in supporting children’s bilingualism and helping them manage changes in school and at home. <br/>
+          Using interesting and interactive activities in a variety of meaningful and authentic situations, MTL becomes a living language as children see the relevance of MTL to everyday activities and to enjoy speaking their MTL. The activities also enable children to practice the same values taught in school and at home.</p>
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg22">
+<td style="border:0 none;padding: 0;" class="btnImg23">
+</td>
+</tr>
+ <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-11" type="checkbox" name="tab">
+      <label for="tab-11" class="lbML">Menghidupkan pembelajaran Bahasa Ibunda melalui ICT <br/>MK@Fernvale</label>
+      <div class="tab-content">
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Menghidupkan pembelajaran Bahasa Ibunda melalui ICT</h4>
+        <p style="margin:10px;">
+     Di Tadika MOE@Fernvale, kami percaya bahawa kanak-kanak belajar melalui permainan secara terarah dan interaksi yang berkualiti dengan memanfaatkan penggunaan teknologi maklumat dan komunikasi (ICT) untuk mencapai pembelajaran yang relevan dan bermakna. Dengan meluaskan pembelajaran mereka melalui alat ICT, kanak-kanak mempunyai kebebasan untuk menentukan corak pembelajaran ketika bersama-sama meneroka persekitaran mereka. <br/>
+Dalam Kurikulum Bahasa Ibunda, pelbagai peralatan ICT dan strategi pembelajaran yang berpusatkan kanak-kanak digunakan untuk meningkatkan mutu pembelajaran. Alat-alat peranti ICT juga sering digunakan setiap hari untuk menyokong pembelajaran. Bagi membentuk kanak-kanak sebagai pelajar bahasa ibunda yang aktif, pelbagai aktiviti ICT yang interaktif dan menyeronokkan direka untuk kanak-kanak belajar mengikut rentak mereka sambil berinteraksi dengan rakan-rakan dan persekitaran mereka.  
+        </p><br/>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Making MTL Learning Come Alive Through ICT</h4>
+       <p style="margin:10px;">MOE Kindergarten @ Fernvale believes in learning through purposeful play and quality interaction while leveraging digital technology to provide relevant and meaningful learning experiences. Learning is further extended with ICT tools, giving young children a sense of empowerment as they collaborate to explore the world around them.  <br/>
+         Various ICT tools and child-centric strategies are used to enhance the quality of learning. Digital devices are also used in the daily class setting to support learning. To nurture children as active MTL learners, fun-filled and interactive ICT activities are designed for them to learn at their own pace while interacting with their peers and things around them.</p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg23">
 </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbML">Tadika MOE (Waterway)<br/>MOE Kindergarten @ Waterway</label>
+      <input id="tab-12" type="checkbox" name="tab">
+      <label for="tab-12" class="lbML">Berseronok dengan permainan zaman silam <br/>E-Bridge Preschool @ Veranda Matilda</label>
       <div class="tab-content">
-      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Seronoknya Berdrama</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Berseronok dengan permainan zaman silam</h4>
         <p style="margin:10px;">
-         Pendekatan “Seronoknya Berdrama” adalah untuk menggalakkan pembelajaran bahasa ibunda melalui aktiviti main peranan di rumah. Pendekatan ini merangkumi proses tiga langkah: Membaca, Menceritakan Semula dan Melakonkan (atau M3).<br/>Main peranan di rumah memberi kanak-kanak peluang yang menyeronokkan sewaktu berinteraksi dengan ahli keluarga mereka. Mereka boleh menggunakan alatan dan bahan-bahan sedia ada di rumah. Main peranan juga membolehkan kanak-kanak mengalami persekitaran rumah yang autentik, relevan dan bermakna buat mereka. Selain  mengukuhkan pertalian kekeluargaan dan membantu untuk membina daya kreativiti dan pemikiran kanak-kanak, pendekatan ini juga memperkukuh kemahiran bertutur dan keyakinan diri kanak-kanak untuk menggunakan bahasa ibunda.
+ 'Berseronok dengan Permainan Zaman Silam' merupakan inisiatif Tadika E-Bridge di Matilda untuk menggalakkan pembelajaran Bahasa Melayu secara interaktif dan menyeronokkan. Dengan melibatkan diri dalam permainan tradisional, kanak-kanak dapat membina sifat ingin tahu dan meneroka, serta bersemangat untuk mendalami budaya Melayu.<br/>
+Kerjasama antara ibu bapa dengan sekolah amat penting untuk meningkatkan kemahiran berkomunikasi dan keyakinan diri kanak-kanak sewaktu bertutur dalam bahasa Melayu. Ibu bapa juga digalakkan untuk bermain permainan tradisional di rumah agar berpeluang untuk sama-sama mengimbau kembali dan berkongsi kenangan manis pada masa kecil mereka. Ini juga akan membolehkan keluarga untuk meningkatkan berinteraksi yang berkualiti dan mengeratkan hubungan. 
         </p><br/>
-      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Fun With Drama </h4>
-        <p style="margin:10px;">
-         “Fun With Drama” is about promoting the learning of Mother Tongue Languages (MTL) through the use of dramatic play at home. The approach features a 3-step process:  Read, Retell and Re-enact (or R3). </p>
-         <p style="margin:10px;">Dramatic play at home is fun and provides enjoyable opportunities for children to interact with family members using household objects, props and authentic home settings that are real, relevant and meaningful to them.  Apart from promoting family bonding and children’s creativity and problem-solving skills, it also helps to strengthen their communication skills and confidence in using their respective Mother Tongue Languages. 
-        </p>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Fun with Games of the Past </h4>
+       <p style="margin:10px;">Fun with Games of the Past is an initiative by E-Bridge Preschool @ Matilda to promote the learning of Malay in a lively and interactive manner. Through engaging in traditional games, students develop curious and exploratory minds, and an eagerness to find out more about Malay culture.  <br/>
+        As home-school partnerships play a vital role in helping students strengthen their communication skills and confidence, parents are encouraged to play traditional games at home with their children. This provides an opportunity for families to reminisce about their childhood, which encourages in-depth interaction and strengthens family bonding.</p>
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg22">
+<td style="border:0 none;padding: 0;" class="btnImg23">
 </td>
 </tr>
-<tr>
+ <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3" class="lbML">Tadika My First Skool @ 50, Sengkang West Way <br/>My First Skool @ 50, Sengkang West Way</label>
+      <input id="tab-13" type="checkbox" name="tab">
+      <label for="tab-13" class="lbML">Permainan Tradisional - Congkak<br/>My First Skool (Chin Swee)</label>
       <div class="tab-content">
-      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Bercerita dengan Wayang Kuit</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Berseronok dengan permainan zaman silam</h4>
         <p style="margin:10px;">
-          ‘Bercerita dengan menggunakan wayang kulit’ merupakan satu usaha My First Skool @ 50 Sengkang West Way untuk menggalakkan pengajaran dan pembelajaran Bahasa Melayu secara interaktif bagi kanak-kanak Prasekolah 1 dan 2. Melalui pendekatan ini, kami berharap dapat  menimbulkan rasa ingin tahu dan merangsang imaginasi kanak-kanak.<br/>
-         Ibu bapa juga boleh mempelajari teknik bercerita dengan menggunakan wayang kulit. Dengan membuat boneka dan membina alatan menggunakan bahan kitar semula, ibu bapa boleh menjalankan sesi bercerita yang menarik bersama anak-anak mereka.
+ Bermain dengan permainan congkak merupakan satu usaha My First Skool di Chin Swee untuk memperkenalkan kepelbagaian permainan tradisional secara interaktif kepada kanak-kanak Prasekolah 1 dan 2. <br/>
+Permainan ini  boleh merangsang minda dan memperkasa bahasa dan literasi kanak-kanak. Melalui permainan ini, kanak-kanak dapat belajar mengira dan menggunakan semula barangan terpakai untuk dijadikan kraf tangan.
         </p><br/>
-            <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Storytelling using Shadow Puppetry</h4>
-       <p style="margin:10px;">Storytelling using Shadow Puppetry is an initiative by My First Skool @ 50 Sengkang West Way to promote interactive teaching and learning practices for Kindergarten 1 and 2 children. Through this approach, we hope to spark our children’s curiosity and stimulate their imagination. </p>
-          <p style="margin:10px;">Parents can also learn storytelling techniques  using shadow puppetry. By making puppets and props from recycled materials found at home, parents can conduct their own engaging storytelling sessions with their children.</p>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Traditional Game - Congkak </h4>
+       <p style="margin:10px;">At My First Skool at Chin Swee, Congkak is introduced to the children to familiarise them and enable them to interact with traditional games. Congkak stimulates children’s minds whilst reinforcing their language and literacy skills. It also encourages children to count and make crafts using recycled materials readily available at home.</p>
       </div>
 </div>
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg22">
+<td style="border:0 none;padding: 0;" class="btnImg23">
 </td>
 </tr>
 </table>
