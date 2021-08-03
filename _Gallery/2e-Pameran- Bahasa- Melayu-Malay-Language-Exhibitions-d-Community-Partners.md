@@ -71,9 +71,9 @@ third_nav_title: 'Pameran Bahasa Melayu'
       <label for="tab-2" class="lbML">Esplanade – Teater di Persisiran<br/>Esplanade - Theatres on the Bay</label>
       <div class="tab-content">
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Esplanade – Teater di Persisiran</h4>
-       <p style="margin:10px;">Sebagai pusat persembahan seni kebangsaan Singapura, Esplanade – Teater di Persisiran ingin memastikan setiap lapisan masyarakat berpeluang untuk menikmati karya seni.</p>
-<p style="margin:10px;">Esplanade ingin mewujudkan kesedaran tentang cara mereka mendidik dan memberikan pendedahan kepada golongan muda tentang seni persembahan melalui pelbagai bentuk seni yang ditampilkan sepanjang tahun. Hal ini membolehkan anak-anak muda mengekspresikan kreativiti dan imaginasi mereka.</p>
-<p style="margin:10px;">Para pelajar juga berpeluang untuk mengetahui pelbagai bentuk seni secara dalam talian menerusi bahan-bahan yang disediakan dalam segmen Keluarga dan Sekolah di Esplanade Offstage. Bahan pengajaran ini diharap akan dapat menggalakkan pemerolehan bahasa dalam kalangan anak-anak muda dan mengenali budaya dan tradisi dengan lebih mendalam.  </p><br/>
+       <p style="margin:10px;">Sebagai pusat persembahan seni kebangsaan Singapura, Esplanade – Teater di Persisiran ingin memastikan setiap lapisan masyarakat berpeluang untuk menikmati karya seni.<br/><br/>
+Esplanade ingin mewujudkan kesedaran tentang cara mereka mendidik dan memberikan pendedahan kepada golongan muda tentang seni persembahan melalui pelbagai bentuk seni yang ditampilkan sepanjang tahun. Hal ini membolehkan anak-anak muda mengekspresikan kreativiti dan imaginasi mereka.</p>
+<p style="margin:10px;">Para pelajar juga berpeluang untuk mengetahui pelbagai bentuk seni secara dalam talian menerusi bahan-bahan yang disediakan dalam segmen Keluarga dan Sekolah di Esplanade Offstage. Bahan pengajaran ini diharap akan dapat menggalakkan pemerolehan bahasa dalam kalangan anak-anak muda dan mengenali budaya dan tradisi dengan lebih mendalam.</p>  <br/>
       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Esplanade – Theatres on The Bay</h4>
        <p style="margin:10px;">As Singapore’s national performing arts centre, Esplanade – Theatres on the Bay believes in making the arts accessible to everyone. Esplanade aims to create an awareness of how we expose our young to the performing arts, through educating children in the different art forms presented at the centre all year round, and by offering them opportunities and space to express their own creativity and imagination. Students can also learn more about the various art forms online through resources provided in the Family and Schools section on Esplanade Offstage. These resources encourage both language acquisition and the discovery of different cultures and traditions.</p>
 </div>
@@ -91,15 +91,15 @@ third_nav_title: 'Pameran Bahasa Melayu'
       <div class="tab-content">
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Bahasa Ibundaku, Teman Sejatiku</h4>
         <p style="margin:10px;">
-                Penubuhan Dana Kedwibahasaan Lee Kuan Yew diumumkan sewaktu pelancaran buku Encik Lee Kuan Yew, “My Lifelong Challenge: Singapore’s Bilingual Journey” pada tahun 2011.<br/>
-Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggalakkan kedwibahasaan dan pembelajaran bahasa ibunda sebagai bahasa yang hidup. Dengan menyokong pelbagai bahan dan program pembelajaran, dana ini berperanan sebagai pemangkin pembelajaran dan penggunaan bahasa ibunda.<br/>
+                Penubuhan Dana Kedwibahasaan Lee Kuan Yew diumumkan sewaktu pelancaran buku Encik Lee Kuan Yew, “My Lifelong Challenge: Singapore’s Bilingual Journey” pada tahun 2011.<br/><br/>
+Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggalakkan kedwibahasaan dan pembelajaran bahasa ibunda sebagai bahasa yang hidup. Dengan menyokong pelbagai bahan dan program pembelajaran, dana ini berperanan sebagai pemangkin pembelajaran dan penggunaan bahasa ibunda.<br/><br/>
             Bahan-bahan sokongan dana kedwibahasaan yang bertujuan untuk menyokong pembelajaran kanak-kanak boleh diakses melalui saluran YouTube dan lelaman sosial Facebook dan Instagram Dana Kedwibahasaan Lee Kuan Yew.
 </p>
 <br/>
 <h4 style="padding-top:12px;margin:10px;color:#a3c864;">My Mother Tongue, My Companion</h4>
         <p style="margin:10px;">
-        The establishment of the Lee Kuan Yew Fund for Bilingualism was announced by Mr Lee Kuan Yew at the launch of My Lifelong Challenge: Singapore’s Bilingual Journey in 2011.</p>
-    <p style="margin:10px;">The Fund supports creative and engaging approaches to encourage bilingualism and the learning of Mother Tongue Languages (MTLs) as living languages. The fund acts as a catalyst in supporting the learning and in the usage of MTLs through various fund-supported resources and programmes. Fun and interesting videos that support the learning of MTLs for young children can be accessed through platforms such as the Fund’s official YouTube channel, Facebook and Instagram.</p>
+        The establishment of the Lee Kuan Yew Fund for Bilingualism was announced by Mr Lee Kuan Yew at the launch of My Lifelong Challenge: Singapore’s Bilingual Journey in 2011.<br/><br/>
+    The Fund supports creative and engaging approaches to encourage bilingualism and the learning of Mother Tongue Languages (MTLs) as living languages. The fund acts as a catalyst in supporting the learning and in the usage of MTLs through various fund-supported resources and programmes. Fun and interesting videos that support the learning of MTLs for young children can be accessed through platforms such as the Fund’s official YouTube channel, Facebook and Instagram.</p>
       </div>
 </div>
 </td>
@@ -114,10 +114,10 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
       <div class="tab-content">
       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Stor Atuk</h4>
       <p style="margin:10px;">
-              Stor Atuk diterbitkan untuk memperkenalkan cerita-cerita rakyat Melayu kepada anak-anak kecil. Selain mencetus minat, Stor Atuk juga dapat merangsang pembelajaran melalui penggunaan peribahasa, pepatah lama, syair, pantun dan seloka yang diterapkan secara santai dalam perbualan antara watak-watak. <br/>
+              Stor Atuk diterbitkan untuk memperkenalkan cerita-cerita rakyat Melayu kepada anak-anak kecil. Selain mencetus minat, Stor Atuk juga dapat merangsang pembelajaran melalui penggunaan peribahasa, pepatah lama, syair, pantun dan seloka yang diterapkan secara santai dalam perbualan antara watak-watak. <br/><br/>
           Stor Atuk ialah sebuah drama bersiri untuk kanak-kanak yang mengisahkan watak Atuk Halim menceritakan kisah-kisah yang unik kepada cucu-cucunya. Kisah ini bermula apabila Aarifa dan Alif disuruh menghabiskan cuti sekolah sebulan di rumah datuk mereka. Walaupun tidak berasa teruja pada mulanya, semuanya berubah apabila mereka menemui stor ajaib Atuk. Stor ajaib ini  dipenuhi khazanah purba yang mempunyai kaitan dengan cerita-cerita Atuk.     </p><br/>
           <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Malay: Atuk’s Store </h4>
-<p style="margin:10px;">Stor Atuk was produced to acquaint children with some of the folklore of Malay culture. To further stimulate their learning, proverbs, old sayings, syair, pantun and seloka are peppered into the characters’ conversations.<br/>
+<p style="margin:10px;">Stor Atuk was produced to acquaint children with some of the folklore of Malay culture. To further stimulate their learning, proverbs, old sayings, syair, pantun and seloka are peppered into the characters’ conversations.<br/><br/>
     Stor Atuk is a children’s drama series where Atuk Halim shares enchanting stories with his two grandchildren. It all began when Aarifa and Alif were told to spend their month-long holiday at their grandpa’s home, much to their displeasure. All that changed when they discovered Atuk Halim’s magical storeroom, packed with ancient relics linked to Atuk’s stories.
 </p>
 </div>
@@ -134,9 +134,9 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
       <div class="tab-content">
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Kenali bahasa ibunda menerusi warisan dan budaya bersama Lembaga Warisan Negara (NHB)!</h4>
 <p style="margin:10px;">
-          Kenali Bahasa Ibunda dengan menelusuri warisan dan budaya bersama Lembaga Warisan Negara (NHB)!<br/>
-Mari ketahui program-program, tip-tip bahasa dan bahan-bahan yang dihasilkan oleh Kempen Bertutur Mandarin, Majlis Bahasa Melayu Singapura dan Majlis Bahasa Tamil dengan lebih lanjut.<br/>
-Dapatkanlah maklumat tentang institusi-institusi warisan seperti Pusat Warisan India, Taman Warisan Melayu dan Dewan Peringatan Nanyang Sun Yat Sen.<br/>
+          Kenali Bahasa Ibunda dengan menelusuri warisan dan budaya bersama Lembaga Warisan Negara (NHB)!<br/><br/>
+Mari ketahui program-program, tip-tip bahasa dan bahan-bahan yang dihasilkan oleh Kempen Bertutur Mandarin, Majlis Bahasa Melayu Singapura dan Majlis Bahasa Tamil dengan lebih lanjut.<br/><br/>
+Dapatkanlah maklumat tentang institusi-institusi warisan seperti Pusat Warisan India, Taman Warisan Melayu dan Dewan Peringatan Nanyang Sun Yat Sen.<br/><br/>
     Melalui pameran ini, ibu bapa berpeluang mengetahui pembelajaran yang disediakan untuk anak-anak mereka dengan lebih lanjut. Para guru dan pendidik pula berpeluang menimba ilmu tentang cara-cara memperluas pembelajaran di luar darjah.
         </p><br/>
           <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Discover Mother Tongue Languages through Heritage and Culture with The National Heritage Board </h4>
@@ -159,9 +159,9 @@ Dapatkanlah maklumat tentang institusi-institusi warisan seperti Pusat Warisan I
         </p>
           <p style="margin:10px;">Melalui permainan ini, ibu bapa dan pelajar dapat</p>
           <ol type="1">
-              <li>1)	menggunakan permainan kosa kata yang tersedia; </li><br/>
-              <li>2)	mencari permainan kosa kata yang relevan berpandukan langkah-langkah yang disediakan untuk pembelajaran kendiri; dan</li><br/>
-              <li>3)	memperkasa diri dengan membina permainan kosa kata berpandukan langkah-langkah yang disediakan.</li>
+              <li>menggunakan permainan kosa kata yang tersedia; </li>
+              <li>mencari permainan kosa kata yang relevan berpandukan langkah-langkah yang disediakan untuk pembelajaran kendiri; dan</li>
+              <li>memperkasa diri dengan membina permainan kosa kata berpandukan langkah-langkah yang disediakan.</li>
           </ol>
 <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Gamify IT!</h4>
@@ -217,8 +217,8 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
       <div class="tab-content">
           <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Kelas Matematika M<sup>3</sup> @ Nee Soon</h4>
         <p style="margin:10px;text-align:justify;">
-          Reruai maya ‘Kelas Matematika’ bertujuan untuk berkongsi strategi yang boleh diguna pakai oleh golongan ibu bapa yang mempunyai anak-anak kecil  berusia dari 4 hingga 7 tahun. <br/>
-            Program-program yang dikendalikan oleh M3@NeeSoon ini sesuai dijalankan di rumah. Reruai maya ini akan berkongsi strategi yang menerangkan konsep-konsep Matematik  dalam bahasa Melayu. <br/>
+          Reruai maya ‘Kelas Matematika’ bertujuan untuk berkongsi strategi yang boleh diguna pakai oleh golongan ibu bapa yang mempunyai anak-anak kecil  berusia dari 4 hingga 7 tahun. <br/><br/>
+            Program-program yang dikendalikan oleh M3@NeeSoon ini sesuai dijalankan di rumah. Reruai maya ini akan berkongsi strategi yang menerangkan konsep-konsep Matematik  dalam bahasa Melayu. <br/><br/>
             Kami berharap  agar ibu bapa dapat menggunakan klip-klip video yang disediakan dengan kreatif agar pembelajaran anak-anak dapat dilanjutkan di rumah, sekaligus menjadikan ibu bapa lebih aktif dalam pembangunan akademik anak-anak.
 </p><br/>
           <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Kelas Matematika M<sup>3</sup> @ Nee Soon</h4>
@@ -238,7 +238,7 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari terokai bahasa dan budaya masyarakat Melayu bersama-sama Nabil dan Nabilah 
 </h4>
         <p style="margin:10px;">
-         Mari terokai bahasa dan budaya masyarakat Melayu bersama Nabil dan Nabilah!<br/>
+         Mari terokai bahasa dan budaya masyarakat Melayu bersama Nabil dan Nabilah!<br/><br/>
             Ikuti Siri Nabil dan Nabilah menerokai pengalaman menggunakan sajak, pantun, lagu, budaya dan bahasa yang  merupakan warisan orang Melayu. Melalui pengalaman Nabil dan Nabilah, peserta dapat mengenali keindahan dan kekayaan budaya dan bahasa Melayu.  Pengalaman yang disediakan ini bertujuan untuk melestari dan meningkatkan penggunaan bahasa Melayu serta pengetahuan budaya dalam kalangan kanak-kanak dan orang dewasa dalam interaksi seharian mereka.  
         </p><br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Let’s Explore Malay Language and Culture With Nabil and Nabilah!</h4>
