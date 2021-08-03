@@ -68,20 +68,23 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbCh"><span style="font-size:25px;font-family:KaiTi;padding-top:12px;">爱加倍实龙岗分校 </span><br/> Agape Little Uni. @ Upper Serangoon</label>
+    <label for="tab-1" class="lbCh"><span style="font-size:25px;font-family:KaiTi">教育部幼儿园（丰伟）</span> <br/>MK@Fernvale</label>
       <div class="tab-content">
-       <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">小眼睛，大世界</h4>
-       <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-       爱加倍实龙岗分校的华文课程根据幼儿年龄发展阶段和需求，利用丰富的自然材料，设计、规划了探索角落和一系列活动。通过这些家校合作活动，孩子们与同伴、家长和老师共同探究、总结经验，分享成果。孩子们在充满童趣与寓教于乐的学习环境中，轻松地学习华文、使用华语。</p><br/>
-       <h4 style="margin:10px;">The World Beyond My Eyes</h4>
-        <p style="margin:10px;">
-         Chinese Language has always been an integral part of children’s development at Agape Little Uni. @ Upper Serangoon. At the centre, thought-provoking corners are set up 
-         to provide exploratory opportunities for children to develop problem-solving skills through the use of materials from nature. Through such activities, children are able to  work on inquiry-based projects with the help of their parents and prepare for their termly presentations. The informal storytelling sessions with teachers in the classroom are aimed at cultivating children’s interest and love for the Chinese Language both at the centre and at home.
-        </p>
+      <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">通过数码资讯科技，让母语学习活起来</h4>
+      <p style="font-family:KaiTi;margin:10px;font-size:21px;">
+       教育部幼儿园（丰伟）坚信学习能通过有意义的游戏和有效的互动进行。教师们积极借助数码科技为幼儿提供有针对性的学习体验。幼儿们利用数码资讯工具拓展学习范围，掌握学习的自主权。<br/>
+          在母语课堂中，教师善用平板电脑等多元化的数码资讯工具，设计充满趣味的互动活动，结合以幼儿为中心的教学策略，提升教学质量。充满乐趣和互动的资讯科技活动让幼儿既能依据个人的进度自主学习，也能与同伴一起探索周围的事物并与之互动，成为积极的母语学习者。
+ </p><br/>
+<h4 style="margin:10px;">Making MTL Learning Come Alive Through ICT</h4>
+<p style="margin:10px;">MOE Kindergarten @ Fernvale believes in learning through purposeful play and quality interaction while leveraging digital technology to provide relevant and meaningful learning experiences. Learning is further extended with ICT tools, giving young children a sense of empowerment as they collaborate to explore the world around them. 
+ <br/>
+    Various ICT tools and child-centric strategies are used to enhance the quality of learning. Digital devices are also used in the daily class setting to support learning. To nurture children as active MTL learners, fun-filled and interactive ICT activities are designed for them to learn at their own pace while interacting with their peers and things around them.
+</p>
       </div>
 </div>
+
 </td>
-<td style="border:0 none;padding: 0;" class="btnImg21">
+<td style="border:0 none;padding: 0;" class="btnImg22" >
 
 </td>
 </tr>
@@ -89,15 +92,82 @@ third_nav_title: '华文学习展示区'
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi;padding-top:12px;">教育部幼儿园（华苑）</span><br/>MOE Kindergarten @ Farrer Park</label>
+    <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi">新加坡福建会馆幼儿园 </span><br/>Singapore Hokkien Huay Kuan Pre-school</label>
       <div class="tab-content">
-       <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">读中乐</h4>
-       <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-       教育部幼儿园（华苑）坚信每个幼儿都有能力学好母语，能够有效地运用母语与人沟通。幼儿园通过借阅图书的亲子阅读活动——MK Book Club，让幼儿自主选择想阅读的图书，从而激发他们阅读母语书籍的兴趣。为了更好地促进阅读习惯的养成，幼儿园建议家长在亲子共读后，与孩子展开有趣的阅读延伸活动，让幼儿在课堂以外拓展母语的学习，帮助他们建立起使用母语的信心。</p><br/>
-       <h4 style="margin:10px;">Reading Creates Wonders</h4>
+          <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">乐学活用</h4>
+      <p style="font-family:KaiTi;margin:10px;font-size:21px;">
+新加坡福建会馆幼儿园生活技能课程让幼儿浸濡在华语的环境中，乐学善用华语。<br/>
+          其课程包括的亮点活动有：“家园共育亲子阅读”、“华文欣赏”等。这些亮点活动让幼儿从小接触华文, 培养阅读习惯，积累丰富的华语词汇，并在日常生活中学以致用。<br/>
+          此外，幼儿园还设计了充满趣味的活动，如：种植、烹饪、角色扮演、好歌大家唱、展示与讲述和报章报道等。这些活动都能激发幼儿的学习兴趣，让幼儿自发地使用华语，建立信心，并培养对华语的热爱。</p><br/>
+          <h4 style="margin:10px;">Happy Learner, Active User</h4>
         <p style="margin:10px;">
-        MOE Kindergarten @ Farrer Park believes that every child can learn and use Mother Tongue Language (MTL) as an effective communication tool. Guided by this belief for MOE Kindergarten (MK) children, the centre aims to cultivate children’s love and appreciation for reading of MTL books through their centre-based initiative, the MK Book Club. With child-initiated choice of books, children are motivated to read at their own pace.  <br/>
-         To reinforce reading habits at home, the centre partners parents to engage their child in reading and storytelling. Coupled with meaningful family-based activities, it further extends their child’s learning beyond the classroom and builds their confidence in speaking MTL.
+          Singapore Hokkien Huay Kuan (SHHK) Pre-School provides opportunities for students to be fully immersed in a Chinese language environment daily. <br/>
+            Through the weekly School-Family Bonding Reading Programme, weekly Show and Tell, and the learning of “Di Zi Gui” and Chinese idioms, as well as activities such as community games, gardening, cookery, role-play and sing-along sessions, students develop literacy and learn about things happening around them. They are also exposed to current affairs, allowing them to think globally, yet act locally – an increasingly important mindset these days. <br/>
+            Such experiences allow students to develop a deep interest in learning and subsequently become confident users of Chinese.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg22">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-3" type="checkbox" name="tab">
+    <label for="tab-3" class="lbCh"><span style="font-size:25px;font-family:KaiTi">冠智学习与艺术园 </span><br/>Nobleland Arts N Learning Place @ Bishan</label>
+      <div class="tab-content">
+           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">我爱华文，我爱艺术的真，善，美！</h4>
+      <p style="font-family:KaiTi;margin:10px;font-size:21px;">
+     冠智学习与艺术园地强调艺术教育的重要性和影响力，鼓励幼儿不断从观察、体验和探索、中，表达纯真的自我。<br/>
+          学校把美术、戏剧、音乐韵律课程巧妙地融入到华文认字和诵读。孩子们在接受艺术熏陶的同时，学习、应用、并爱上华文。<br/>
+          学校也通过绘本故事，开阔小朋友们的视野，提升他们的思维能力和想象力。老师会根据不同的故事内容及不同的教学活动，让小朋友们在活动过程中，接触正确的价值观。</p><br/>
+          <h4 style="margin:10px;">Discovering the Joy of Learning Chinese - Arts Integrated Curriculum</h4>
+        <p style="margin:10px;">
+         Nobleland believes that an arts-integrated curriculum helps to enhance brain development and creativity, as well as develop 21st century life skills through character education. The school’s Chinese curriculum has a strong focus on integrating the visual and performing arts, Chinese cultural appreciation, character building and literature-based learning to promote a holistic love and interest in Chinese. <br/>
+            The school also uses picture books to broaden children’s perspectives, and to develop their inquiry and critical thinking skills. Teachers use the different stories and activities, to create opportunities to inculcate the right values in the children.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg22">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-4" type="checkbox" name="tab">
+    <label for="tab-4" class="lbCh"> PCF Sparkletots Preschool @ Woodlands Blk 801 (CC)<br/> &nbsp;</label>
+      <div class="tab-content">
+          <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">演一演, 说一说</h4>
+          <p style="font-family:KaiTi;margin:10px;font-size:21px;">PCF Sparkletots Preschool @ Woodlands Blk 801运用戏剧为孩子们提供了体验、表达和探索的机会。<br/>
+学校鼓励孩子们运用创造力和认知技能，积极参与活动和语言互动：在神奇幻想的舞台上，他们能够扮演独特的角色，学会倾听、协商及如何与他人合作。
+</p><br/>
+          <h4 style="margin:10px;">Learning Chinese Through Dramatisation</h4>
+        <p style="margin:10px;">
+          PCF Sparkletots Preschool @ Woodlands Blk 801 employs dramatisation in teaching and learning Chinese Language to children from Nursery 2 to Kindergarten 2. This approach provides children with the opportunities to experience, express and explore within a story and situation. Children take part in a fantasy world full of imagination, transforming themselves into characters to listen, negotiate, and collaborate as they act out their roles. Such activities nurture self-confidence and the creative use of language. The safe and relaxed setting also encourages children to use Chinese spontaneously, thus cultivating a love for the language.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg22" >
+ 
+</td>
+</tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-5" type="checkbox" name="tab">
+      <label for="tab-5" class="lbCh">Creative O Preschoolers’ Bay<br/> &nbsp;</label>
+      <div class="tab-content">
+           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">母语学习-用全语言让母语活起来！</h4>
+          <p style="font-family:KaiTi;margin:10px;font-size:21px;">
+          母语学习只限于正式课程吗？或许应该跳脱这样的思维模式，探索其他可能性。在学校的日常生活、学习区游戏及户外活动中，教师如何发现并抓住母语学习的契机？拥有15年实践全语言学习体验的新意元幼源与大家分享在校园生活中，教师是如何帮助孩子自然且有目的地使用母语，并通过家园合作，鼓励家长创设有利于母语学习的家庭环境，激发孩子学习母语的兴趣。</p><br/>
+          <h4 style="margin:10px;">Make Mother Tongue Language Come Alive through a Whole Language Approach</h4>
+        <p style="margin:10px;">
+       The learning of Mother Tongue Language (MTL) can happen beyond the classroom. There are many opportunities for teachers to engage children in various activities related to speaking and reading that happens in daily school life and outdoor interaction. Teachers from Creative O Preschoolers’ Bay will be sharing their fifteen years of experience in making the learning of MTL come alive through their Whole Language Approach, which uses collaboration with parents to create a conducive home environment that enhances their children’s learning.
         </p>
       </div>
 </div>
@@ -106,50 +176,6 @@ third_nav_title: '华文学习展示区'
 
 </td>
 </tr>
-<tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3" class="lbCh"><span style="font-size:25px;font-family:KaiTi;padding-top:12px;">教育部幼儿园（河道）</span><br/> MOE Kindergarten @ Waterway</label>
-      <div class="tab-content">
-       <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">欢乐剧场</h4>
-       <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-       “欢乐剧场”通过在家中进行戏剧游戏的方式，促进幼儿的母语学习。这个方式包含三个步骤：阅读——复述——重现。
-家庭成员可利用一些日常用品与道具，结合真实情境，与幼儿展开戏剧游戏，让他们在愉悦的氛围里学习母语。这个方式不但能够拉近亲子之间的关系，也能加强幼儿的语言沟通能力、创造力和解决问题的能力，同时增强他们使用母语的自信心。
-</p><br/>
-       <h4 style="margin:10px;">Fun With Drama</h4>
-        <p style="margin:10px;">
-                  “Fun With Drama” is about promoting the learning of Mother Tongue Languages (MTL) through the use of dramatic play at home. The approach features a 3-step process namely, Read, Retell and Re-enact (or R3). <br/>
-         Dramatic play at home provides fun and enjoyable opportunities for children to interact with family members using household objects, props and authentic home settings that are real, relevant and meaningful to them.  Apart from promoting family bonding and children’s creativity and problem-solving skills, it also helps to strengthen their communication skills and confidence in using their respective Mother Tongue Languages.
- </p>
- </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg20" >
-
-</td>
-</tr>
-<tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4" class="lbCh">MY World @ Simei<br/> &nbsp; </label>
-     <div class="tab-content">
-      <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">华语教学新策略，合作学习趣味多</h4>
-       <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-       MY World的教师在华语教学中采用多种寓教于乐的合作学习策略，让幼儿在轻松、愉悦的氛围中多聆听华语，多使用华语。幼儿可在与同伴互动、沟通和交流的过程中，学习如何认真聆听，积极表达，从而提升语言表达及聆听能力、人际交往能力和自信心。 </p><br/>
-
-<h4 style="margin:10px;">Encouraging the Use of Mandarin by Applying Cooperative Learning Strategies in the Classroom</h4>
-<p style="margin:10px;">At MY World, teachers use a variety of cooperative learning strategies to provide children with opportunities to learn and use the Chinese Language in a relaxed and pleasant atmosphere. This process of interaction with peers promotes children’s listening skills, language expressions, interpersonal communication skills and self-confidence.
- </p>
- </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg16">
-
-</td>
-</tr>
-
 </table>
 <hr>
 <div class="image">
