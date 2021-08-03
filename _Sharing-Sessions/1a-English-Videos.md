@@ -117,9 +117,7 @@ Mdm Nie Bing has 17 years of preschool education experience and has taught in As
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab atab3Line">
       <input id="tab-2" type="checkbox" name="tab">
-      <label class="lbeng" for="tab-2">Raising Bilingual Children: Challenges, Opportunities and Strategies for Success<br/> A/P  Leher Singh<br/>
-Ms Rilla Melati Bahri
-
+      <label class="lbeng" for="tab-2">Raising Bilingual Children: Challenges, Opportunities and Strategies for Success<br/> A/P  Leher Singh
 </label>
       <div class="tab-content">      
        <br/>
