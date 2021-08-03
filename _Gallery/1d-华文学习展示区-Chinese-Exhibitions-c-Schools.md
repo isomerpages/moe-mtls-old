@@ -72,7 +72,7 @@ third_nav_title: '华文学习展示区'
           胜宝旺小学配合课文主题，采用混合式教学模式，运用各种思维策略，发展高年级学生的会话与沟通技巧。在课前，教师通过“新加坡学生学习平台”（SLS）设计活动，让学生了解与课文主题相关的内容。课堂上，教师利用各种思维策略和教学活动，调动学生的生活经验，促进学生的思考。学生利用平台上的录音功能和即时互动工具分享看法，与同学讨论和交流。课后，学生展示学习成果，进行评价和延伸活动，深化和巩固所学。</p><br/>
           <h4 style="margin:10px;">Speak What I Think</h4>
         <p style="margin:10px;">
-       Sembawang Primary School adopts a blended learning approach in developing the speaking and conversational skills of upper primary students, aligning conversational themes with those in the textbooks and using a wide array of thinking strategies.
+       Sembawang Primary School adopts a blended learning approach in developing the speaking and conversational skills of upper primary students, aligning conversational themes with those in the textbooks and using a wide array of thinking strategies.<br/><br/>
 Teachers have designed pre-lesson activities in the Singapore Student Learning Space (SLS) to help students understand content related to the theme before using various thinking strategies and activities during lessons to tap on students’ personal experiences and trigger deeper thinking. Students then use various tools available on 
 the SLS to share their views with their peers and showcase their learning. This is further deepened and reinforced through peer assessment and post-lesson activities.
         </p>
@@ -131,7 +131,7 @@ the SLS to share their views with their peers and showcase their learning. This 
       <div class="tab-content">
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">东源小学户外学习乐</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-       东源小学推展的“户外学习之旅”计划让低年级学生把华文课程的主题和内容与生活联系起来。
+       东源小学推展的“户外学习之旅”计划让低年级学生把华文课程的主题和内容与生活联系起来。<br/><br/>
 在此计划中，一年级学生在老师的带领下走进邻里社区，认识周围的生活环境，也去超市选购食材。二年级学生到校内的小菜园认识各种蔬果，然后回家与父母一起制作简单的菜肴。活动后，学生在“新加坡学生学习平台”（SLS）上分享心得。此计划成功地帮助学生巩固和深化了课堂所学，感受到华文的实用价值，体会到使用华语的乐趣。
 </p><br/>
           <h4 style="margin:10px;">Our Outdoor Learning in East Spring</h4>
@@ -156,8 +156,8 @@ the SLS to share their views with their peers and showcase their learning. This 
 </p><br/>
           <h4 style="margin:10px;">Reading is Our Way of Life</h4>
         <p style="margin:10px;">
-      To create a rich and conducive reading environment, Westwood Primary School has developed a structured and engaging school-based programme, which includes School Book Day activities, the making of  Reading Passports and writing of book reviews, and an exhibition of students’ work to promote reading. <br/>
-            The school also leverages on the Singapore Student Learning Space (SLS) and social media platforms to carry out online reading activities, such as the A-Book-a-Week sharing that actively promotes parent-child reading. <br/>
+      To create a rich and conducive reading environment, Westwood Primary School has developed a structured and engaging school-based programme, which includes School Book Day activities, the making of  Reading Passports and writing of book reviews, and an exhibition of students’ work to promote reading. <br/><br/>
+            The school also leverages on the Singapore Student Learning Space (SLS) and social media platforms to carry out online reading activities, such as the A-Book-a-Week sharing that actively promotes parent-child reading. <br/><br/>
             Through this programme, the school aims to imbue the joy of reading and help students develop good reading habits, while levelling up their language abilities.
         </p>
       </div>
@@ -174,7 +174,7 @@ the SLS to share their views with their peers and showcase their learning. This 
       <div class="tab-content">
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">混合式教学——美术馆在线导览</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-     德义中学使用教育部提供的线上导览资源配套，让中一快捷班学生结合居家学习以及在校学习的混合模式在线上游览新加坡国家美术馆。<br/>
+     德义中学使用教育部提供的线上导览资源配套，让中一快捷班学生结合居家学习以及在校学习的混合模式在线上游览新加坡国家美术馆。<br/><br/>
               这个学习活动要求学生对自己的学习负责。在居家学习活动时，学生按自己的步调和需求进行学习。教师通过在教室里集体参与的互动性活动引起学生的学习兴趣，推动他们积极探索课程以外的知识，并认识美术馆的一些艺术作品。学生在与同侪合作完成任务的过程中，用华文进行交流，在促进语文学习的同时也培养他们的协作能力。
 </p><br/>
           <h4 style="margin:10px;">Blended  Learning with CL Virtual Tour to National Art Gallery Singapore</h4>
@@ -191,7 +191,8 @@ the SLS to share their views with their peers and showcase their learning. This 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-12" type="checkbox" name="tab">
-      <label for="tab-12" class="lbCh">St. Joseph's Institution (Secondary)<br/> &nbsp;</label>
+    <label for="tab-12" class="lbCh"> <span style="font-size:25px;font-family:KaiTi">圣若瑟书院</span><br/>St. Joseph's Institution (Secondary) 
+</label>
       <div class="tab-content">
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">运用数码工具进行母语教学</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
@@ -199,7 +200,7 @@ the SLS to share their views with their peers and showcase their learning. This 
 </p><br/>
           <h4 style="margin:10px;">Effective Use of Teaching Tools in CL Lessons with E-Pedagogy</h4>
         <p style="margin:10px;">
-      St Joseph's Institution's Mother Tongue Languages Department has effectively incorporated e-learning into pedagogical practice as a way of promoting collaborative learning among students. Teachers use different teaching tools such as Jamboard, Flipgrid and ITT in the Singapore Student Learning Space (SLS) to facilitate student-to-student interaction, student-content interaction, and to make students’ thinking visible. 
+      St Joseph's Institution's Mother Tongue Languages Department has effectively incorporated e-learning into pedagogical practice as a way of promoting collaborative learning among students. Teachers use different teaching tools such as Jamboard, Flipgrid and ITT in the Singapore Student Learning Space (SLS) to facilitate student-to-student interaction, student-content interaction, and to make students’ thinking visible. <br/><br/>
 
 <br/>Given both teacher guidance and technology that complements teaching and learning, students have more opportunities to share their views, work productively in groups to co-create knowledge,  acquire  peer review skills and give constructive feedback to help one another improve and achieve learning goals together.
         </p>
