@@ -152,7 +152,7 @@ Ms Diana Ser
        <br/>
   <div class="row">
  <div class="column">
-<img src="#" style="width:100%">
+<img src="/images/CL-Dr Sabrina Sun He.png" style="width:100%">
    </div>
    <p> <strong>  Dr Sabrina Sun He </strong>
 </p>
@@ -160,7 +160,7 @@ Ms Diana Ser
        <br/>
        <div class="row">
  <div class="column">
-<img src="#" style="width:100%">
+<img src="/images/CL-Diana Ser.png" style="width:100%">
    </div>
    <p> <strong>  Ms Diana Ser </strong>
 </p>
@@ -199,7 +199,7 @@ Ms Rilla Melati Bahri
        <br/>
   <div class="row">
  <div class="column">
-<img src="#" style="width:100%">
+<img src="/images/ML-Mukhlis Abu Bakar.png" style="width:100%">
    </div>
    <p> <strong> Dr Mukhlis Abu Bakar </strong>
 </p>
@@ -207,7 +207,7 @@ Ms Rilla Melati Bahri
        <br/>
        <div class="row">
  <div class="column">
-<img src="#" style="width:100%">
+<img src="/images/ML-Rilla Melati.png" style="width:100%">
    </div>
    <p> <strong> Ms Rilla Melati Bahri</strong>
 </p>
@@ -246,7 +246,7 @@ Mr Jaya Ganesh Isuran</label>
        <br/>
   <div class="row">
  <div class="column">
-<img src="#" style="width:100%">
+<img src="/images/TL-Dr Karuppiah Nirmala.png" style="width:100%">
    </div>
    <p> <strong>Dr NirmalaKaruppiah</strong>
 </p>
@@ -254,7 +254,7 @@ Mr Jaya Ganesh Isuran</label>
    <br/>
    <div class="row">
  <div class="column">
-<img src="#" style="width:100%">
+<img src="/images/TL-Mr Jaya Ganesh Isuran.png" style="width:100%">
    </div>
    <p> <strong>Mr Jaya Ganesh Isuran</strong>
 </p>
