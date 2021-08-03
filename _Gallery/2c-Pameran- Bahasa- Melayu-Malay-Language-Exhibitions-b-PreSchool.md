@@ -69,11 +69,11 @@ third_nav_title: 'Pameran Bahasa Melayu'
       <div class="tab-content">
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari Bekerjasama untuk Membangunkan Dwibahasa pada Peringkat Awal Kanak-kanak!</h4>
         <p style="margin:10px;">
-       Tadika MOE @ Punggol Green memupuk kemahiran dwibahasa dalam murid-murid prasekolah melalui program berasaskan pusat. Program ini bertujuan untuk membina keyakinan kanak-kanak menggunakan bahasa Inggeris dan bahasa ibunda (MTL) di sekolah dan di rumah. Melalui program tersebut, Tadika MOE @ Punggol Green bekerja rapat dengan ibu bapa untuk menyokong kedwibahasaan kanak-kanak selain membantu kanak-kanak menangani perubahan yang dialami mereka. <br/>
+       Tadika MOE @ Punggol Green memupuk kemahiran dwibahasa dalam murid-murid prasekolah melalui program berasaskan pusat. Program ini bertujuan untuk membina keyakinan kanak-kanak menggunakan bahasa Inggeris dan bahasa ibunda (MTL) di sekolah dan di rumah. Melalui program tersebut, Tadika MOE @ Punggol Green bekerja rapat dengan ibu bapa untuk menyokong kedwibahasaan kanak-kanak selain membantu kanak-kanak menangani perubahan yang dialami mereka. <br/><br/>
 Dengan menyertai aktiviti yang menyeronokkan lagi interaktif dalam pelbagai situasi yang autentik, bahasa ibunda dapat menjadi bahasa sepanjang hayat.  Kanak-kanak ini dapat melihat kerelevanan bahasa ibunda dalam kegiatan harian mereka.  Tambahan lagi, aktiviti-aktiviti tersebut turut membantu kanak-kanak mengamalkan nilai-nilai yang dipelajari di sekolah mahupun di rumah.  
         </p><br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Let’s Work Together to Develop Early Childhood Bilingualism!</h4>
-       <p style="margin:10px;">MOE Kindergarten @ Punggol Green nurtures early childhood bilingualism through a centre-based programme to build children’s confidence in using English and their Mother Tongue Language (MTL) in school and at home. Through this programme, the centre partners parents in supporting children’s bilingualism and helping them manage changes in school and at home. <br/>
+       <p style="margin:10px;">MOE Kindergarten @ Punggol Green nurtures early childhood bilingualism through a centre-based programme to build children’s confidence in using English and their Mother Tongue Language (MTL) in school and at home. Through this programme, the centre partners parents in supporting children’s bilingualism and helping them manage changes in school and at home. <br/><br/>
           Using interesting and interactive activities in a variety of meaningful and authentic situations, MTL becomes a living language as children see the relevance of MTL to everyday activities and to enjoy speaking their MTL. The activities also enable children to practice the same values taught in school and at home.</p>
       </div>
 </div>
@@ -89,11 +89,11 @@ Dengan menyertai aktiviti yang menyeronokkan lagi interaktif dalam pelbagai situ
       <div class="tab-content">
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Menghidupkan pembelajaran Bahasa Ibunda melalui ICT</h4>
         <p style="margin:10px;">
-     Di Tadika MOE@Fernvale, kami percaya bahawa kanak-kanak belajar melalui permainan secara terarah dan interaksi yang berkualiti dengan memanfaatkan penggunaan teknologi maklumat dan komunikasi (ICT) untuk mencapai pembelajaran yang relevan dan bermakna. Dengan meluaskan pembelajaran mereka melalui alat ICT, kanak-kanak mempunyai kebebasan untuk menentukan corak pembelajaran ketika bersama-sama meneroka persekitaran mereka. <br/>
+     Di Tadika MOE@Fernvale, kami percaya bahawa kanak-kanak belajar melalui permainan secara terarah dan interaksi yang berkualiti dengan memanfaatkan penggunaan teknologi maklumat dan komunikasi (ICT) untuk mencapai pembelajaran yang relevan dan bermakna. Dengan meluaskan pembelajaran mereka melalui alat ICT, kanak-kanak mempunyai kebebasan untuk menentukan corak pembelajaran ketika bersama-sama meneroka persekitaran mereka. <br/><br/>
 Dalam Kurikulum Bahasa Ibunda, pelbagai peralatan ICT dan strategi pembelajaran yang berpusatkan kanak-kanak digunakan untuk meningkatkan mutu pembelajaran. Alat-alat peranti ICT juga sering digunakan setiap hari untuk menyokong pembelajaran. Bagi membentuk kanak-kanak sebagai pelajar bahasa ibunda yang aktif, pelbagai aktiviti ICT yang interaktif dan menyeronokkan direka untuk kanak-kanak belajar mengikut rentak mereka sambil berinteraksi dengan rakan-rakan dan persekitaran mereka.  
         </p><br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Making MTL Learning Come Alive Through ICT</h4>
-       <p style="margin:10px;">MOE Kindergarten @ Fernvale believes in learning through purposeful play and quality interaction while leveraging digital technology to provide relevant and meaningful learning experiences. Learning is further extended with ICT tools, giving young children a sense of empowerment as they collaborate to explore the world around them.  <br/>
+       <p style="margin:10px;">MOE Kindergarten @ Fernvale believes in learning through purposeful play and quality interaction while leveraging digital technology to provide relevant and meaningful learning experiences. Learning is further extended with ICT tools, giving young children a sense of empowerment as they collaborate to explore the world around them.  <br/><br/>
          Various ICT tools and child-centric strategies are used to enhance the quality of learning. Digital devices are also used in the daily class setting to support learning. To nurture children as active MTL learners, fun-filled and interactive ICT activities are designed for them to learn at their own pace while interacting with their peers and things around them.</p>
       </div>
 </div>
@@ -109,11 +109,11 @@ Dalam Kurikulum Bahasa Ibunda, pelbagai peralatan ICT dan strategi pembelajaran 
       <div class="tab-content">
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Berseronok dengan permainan zaman silam</h4>
         <p style="margin:10px;">
- 'Berseronok dengan Permainan Zaman Silam' merupakan inisiatif Tadika E-Bridge di Matilda untuk menggalakkan pembelajaran Bahasa Melayu secara interaktif dan menyeronokkan. Dengan melibatkan diri dalam permainan tradisional, kanak-kanak dapat membina sifat ingin tahu dan meneroka, serta bersemangat untuk mendalami budaya Melayu.<br/>
+ 'Berseronok dengan Permainan Zaman Silam' merupakan inisiatif Tadika E-Bridge di Matilda untuk menggalakkan pembelajaran Bahasa Melayu secara interaktif dan menyeronokkan. Dengan melibatkan diri dalam permainan tradisional, kanak-kanak dapat membina sifat ingin tahu dan meneroka, serta bersemangat untuk mendalami budaya Melayu.<br/><br/>
 Kerjasama antara ibu bapa dengan sekolah amat penting untuk meningkatkan kemahiran berkomunikasi dan keyakinan diri kanak-kanak sewaktu bertutur dalam bahasa Melayu. Ibu bapa juga digalakkan untuk bermain permainan tradisional di rumah agar berpeluang untuk sama-sama mengimbau kembali dan berkongsi kenangan manis pada masa kecil mereka. Ini juga akan membolehkan keluarga untuk meningkatkan berinteraksi yang berkualiti dan mengeratkan hubungan. 
         </p><br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Fun with Games of the Past </h4>
-       <p style="margin:10px;">Fun with Games of the Past is an initiative by E-Bridge Preschool @ Matilda to promote the learning of Malay in a lively and interactive manner. Through engaging in traditional games, students develop curious and exploratory minds, and an eagerness to find out more about Malay culture.  <br/>
+       <p style="margin:10px;">Fun with Games of the Past is an initiative by E-Bridge Preschool @ Matilda to promote the learning of Malay in a lively and interactive manner. Through engaging in traditional games, students develop curious and exploratory minds, and an eagerness to find out more about Malay culture.  <br/><br/>
         As home-school partnerships play a vital role in helping students strengthen their communication skills and confidence, parents are encouraged to play traditional games at home with their children. This provides an opportunity for families to reminisce about their childhood, which encourages in-depth interaction and strengthens family bonding.</p>
       </div>
 </div>
@@ -129,7 +129,7 @@ Kerjasama antara ibu bapa dengan sekolah amat penting untuk meningkatkan kemahir
       <div class="tab-content">
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Berseronok dengan permainan zaman silam</h4>
         <p style="margin:10px;">
- Bermain dengan permainan congkak merupakan satu usaha My First Skool di Chin Swee untuk memperkenalkan kepelbagaian permainan tradisional secara interaktif kepada kanak-kanak Prasekolah 1 dan 2. <br/>
+ Bermain dengan permainan congkak merupakan satu usaha My First Skool di Chin Swee untuk memperkenalkan kepelbagaian permainan tradisional secara interaktif kepada kanak-kanak Prasekolah 1 dan 2. <br/><br/>
 Permainan ini  boleh merangsang minda dan memperkasa bahasa dan literasi kanak-kanak. Melalui permainan ini, kanak-kanak dapat belajar mengira dan menggunakan semula barangan terpakai untuk dijadikan kraf tangan.
         </p><br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Traditional Game - Congkak </h4>
