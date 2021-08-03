@@ -146,7 +146,7 @@ Mdm Nie Bing has 17 years of preschool education experience and has taught in As
 <div class="atab atab3Line">
       <input id="tab-3" type="checkbox" name="tab">
       <label class="lbeng" for="tab-3">Raising a Bilingual Reader: Top Practical Tips for Parents<br/> Dr Sabrina Sun He <br/>
-MsDiana Ser
+Ms Diana Ser
 </label>
       <div class="tab-content">      
        <br/>
@@ -162,7 +162,7 @@ MsDiana Ser
  <div class="column">
 <img src="#" style="width:100%">
    </div>
-   <p> <strong>  MsDiana Ser </strong>
+   <p> <strong>  Ms Diana Ser </strong>
 </p>
    </div>
        <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Raising a Bilingual Reader: Top Practical Tips for Parents</h4>
