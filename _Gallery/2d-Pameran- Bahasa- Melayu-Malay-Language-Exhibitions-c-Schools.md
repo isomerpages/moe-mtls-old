@@ -72,7 +72,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
   </p><br/>
      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Primary 3 Malay Language and Cultural Camp </h4>
         <p style="margin:10px;">
-          The Primary 3 Malay Language and Cultural Camp is organised to immerse students in the use of Malay in everyday life outside school and focuses on language use and cultural practices at a Malay wedding. Students learn about the pantun, a form of traditional Malay poetry, and go onto create their own simple two-line pantun. They also learn about the significance of wedding decorations like bunga rampai and bunga manggar and try their hand at making them. They are introduced to dining etiquette and the different types of food served at a wedding reception and learn about the kompang, a musical instrument often played at Malay weddings.
+          The Primary 3 Malay Language and Cultural Camp is organised to immerse students in the use of Malay in everyday life outside school and focuses on language use and cultural practices at a Malay wedding. Students learn about the <i>pantun</i>, a form of traditional Malay poetry, and go onto create their own simple two-line <i>pantun</i>. They also learn about the significance of wedding decorations like <i>bunga rampai</i> and <i>bunga manggar</i> and try their hand at making them. They are introduced to dining etiquette and the different types of food served at a wedding reception and learn about the <i>kompang</i>, a musical instrument often played at Malay weddings.
         </p>
       </div>
 </div>
@@ -109,12 +109,12 @@ third_nav_title: 'Pameran Bahasa Melayu'
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Bersedia, Mula, Menulis!</h4>
         <p style="margin:10px;">
           Kumpulan Pembelajaran Profesional (PLT) di Sekolah Rendah Lakeside, yang terdiri daripada guru-guru yang mengajar pelajar Darjah 5 dan Darjah 6, telah memilih  strategi Menjadikan Pemikiran Jelas (MTV) yang sesuai untuk membantu para pelajar menjana idea, mengolah dan menulis karangan menarik yang dapat melibatkan pembaca. <br/>
-            Penggunaan Rutin berfikir seperti ‘Lihat-Fikir-Tanya’, ‘Fikir-Tulis’ dan ‘Apakah yang Menyebabkan Kamu Berkata Begitu?’ membantu murid-murid menyusun proses pemikiran dan memberikan struktur pada idea mereka sebelum menulis. <br/>
+            Penggunaan Rutin berfikir seperti ‘Lihat-Fikir-Tanya’, ‘Fikir-Tulis’ dan ‘Apakah yang Menyebabkan Kamu Berkata Begitu?’ membantu murid-murid menyusun proses pemikiran dan memberikan struktur pada idea mereka sebelum menulis. <br/><br/>
             Hasilnya, murid-murid membina pemahaman yang mendalam mengenai proses pemikiran mereka dan berpeluang belajar daripada rakan sebaya melalui pembelajaran kolaboratif.
         </p><br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Ready, Get Set, Write!</h4>
         <p style="margin:10px;">
-        At Lakeside Primary School, our Professional Learning Team (PLT), which comprises Primary 5 and 6 teachers, has selected some Making Thinking Visible  strategies to help students generate ideas, and develop and write effective and engaging compositions. <br/>
+        At Lakeside Primary School, our Professional Learning Team (PLT), which comprises Primary 5 and 6 teachers, has selected some Making Thinking Visible  strategies to help students generate ideas, and develop and write effective and engaging compositions. <br/><br/>
             Thinking strategies and thinking routines such as See-Think-Wonder, Chalk-Talk and What Makes You Say That? help students to make their ideas visible, organise and synthesise their thoughts, and structure ideation prior to writing. Students thus develop a deeper understanding of their thought process, and this gives rise to more opportunities to learn from one another through collaborative learning.
         </p>
       </div>
@@ -135,7 +135,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
         </p><br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Drama@QTSS </h4>
         <p style="margin:10px;">
- Drama@QTSS provides an excellent platform for exploring practical aspects of Malay language. Drama is a powerful teaching and learning tool for developing character and instilling sound values. The application of drama techniques enables students to strengthen their language acquisition and sharpen their linguistic and communication skills in authentic and dynamic situations. These skills are transferable and can be applied to other contexts such as assessment.  <br/>
+ Drama@QTSS provides an excellent platform for exploring practical aspects of Malay language. Drama is a powerful teaching and learning tool for developing character and instilling sound values. The application of drama techniques enables students to strengthen their language acquisition and sharpen their linguistic and communication skills in authentic and dynamic situations. These skills are transferable and can be applied to other contexts such as assessment.  <br/><br/>
             Drama@QTSS is used to instil the love for the language, making Malay come alive in the classroom. Lessons integrating drama techniques are enjoyable and memorable owing to theirs visual and interactive nature.
         </p>
       </div>
