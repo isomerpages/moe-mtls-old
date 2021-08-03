@@ -85,14 +85,15 @@ Mdm Nie Bing</label>
        <br/>
   <div class="row">
  <div class="column">
-<img src="#" style="width:100%">
+<img src="/images/EL-Dianne Seet.png" style="width:100%">
    </div>
    <p> <strong>Mrs Dianne Seet </strong>
 </p>
    </div>
+   <br/>
    <div class="row">
  <div class="column">
-<img src="#" style="width:100%">
+<img src="/images/EL-Nie Bing.png" style="width:100%">
    </div>
    <p> <strong>Mdm Nie Bing</strong>
 </p>
@@ -104,7 +105,7 @@ An advocate for the creative arts, Mrs Dianne Seet began her career in early chi
 </p><br/>
  <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4>  
  <p style="margin:10px;">
-Mdm Nie Bing has17 years of preschool education experience and has taught in Ascension Kindergarten  for eight  years. She graduated from Fudan University with a Bachelor of Arts in Chinese Language.She is passionate about early childhood education. Her teaching philosophy is "There is no such thing as students who can't learn, only teachers who have yet to find a way."
+Mdm Nie Bing has 17 years of preschool education experience and has taught in Ascension Kindergarten  for eight  years. She graduated from Fudan University with a Bachelor of Arts in Chinese Language.She is passionate about early childhood education. Her teaching philosophy is "There is no such thing as students who can't learn, only teachers who have yet to find a way."
 </p><br/>
 <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Synopsis</h4>
 <p style="margin:10px;">Come learn how the team at Ascension Kindergarten taps on various sensorial approaches to develop their children’s innate motivation to use and learn about their Mother Tongue Language (MTL). Children need to experience rather than be taught. How can their sense of cultural identity and connection to Chinese be developed? What can be done to increase their motivation to use their MTL so that they can continually grow to appreciate the language? Come find out more through an interactive session with the team.  </p>
@@ -124,7 +125,7 @@ Ms Rilla Melati Bahri
        <br/>
   <div class="row">
  <div class="column">
-<img src="#" style="width:100%">
+<img src="/images/EL-Leher Singh.png" style="width:100%">
    </div>
    <p> <strong> A/P  Leher Singh</strong>
 </p>
