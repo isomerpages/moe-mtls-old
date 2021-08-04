@@ -200,10 +200,14 @@ margin-left:25px;
   
   <p id="C11">.</p>
 <img src="/images/TL-Sec_Image04.jpg"><br/><br/>
-  <button type="button" class="collapsible">மாணவர் கற்றல் தளம்</button>
-<div class="content">
-  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/jisfwIJXdCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-</div>
+   <div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+    <label for="tab-2" style="font-family:KaiTi;font-size:22px" class="lbCh">மாணவர் கற்றல் தளம்
+</label>
+     <div class="tab-content">
+<center>
+  <iframe class="iframe2" width="560" height="315" src="https://www.youtube.com/embed/jisfwIJXdCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+</div></div>
 
    <div class="atab">
      <input id="tab-3" type="checkbox" name="tab">
