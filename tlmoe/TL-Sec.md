@@ -206,7 +206,7 @@ margin-left:25px;
 </label>
      <div class="tab-content">
 <center>
-  <iframe class="iframe2" width="560" height="315" src="https://www.youtube.com/embed/jisfwIJXdCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+  <iframe class="iframe2" width="560" height="315" src="https://www.youtube.com/embed/jisfwIJXdCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 </div></div>
 
    <div class="atab">
@@ -215,7 +215,7 @@ margin-left:25px;
 </label>
      <div class="tab-content">
 <center>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/grfbtAhjzxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/grfbtAhjzxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
    </div></div>
 
 
