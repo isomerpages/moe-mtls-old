@@ -287,14 +287,14 @@ margin-left:25px;
 </label>
      <div class="tab-content">
 <center>
-  <span style="font-size:25px;"><strong>காமன்வெல்த் உயர்நிலைப்பள்ளி</strong></span>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/giDBQvuLZp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
- <span style="font-size:25px;"><strong>ரிவர்சைடு உயர்நிலைப்பள்ளி</strong></span>
+  <span style="font-size:25px;"><strong>காமன்வெல்த் உயர்நிலைப்பள்ளி</strong></span><br/>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/giDBQvuLZp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><br/>
+ <span style="font-size:25px;"><strong>ரிவர்சைடு உயர்நிலைப்பள்ளி</strong></span><br/>
  <span style="font-size:18px; text-align:justify;">அன்பழகன் நிவேதிதா _உயர்நிலை 3 </span><br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VbDOJKBV8-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-<span style="font-size:25px;"><strong>யீசூன் டவுன் உயர்நிலைப்பள்ளி</strong></span>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VbDOJKBV8-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><br/>
+<span style="font-size:25px;"><strong>யீசூன் டவுன் உயர்நிலைப்பள்ளி</strong></span><br/>
  <span style="font-size:18px; text-align:justify;">ஹீரன்_உயர்நிலை 3</span><br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bcwSzzG_gMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bcwSzzG_gMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
     </div></div>
 
 
