@@ -200,15 +200,23 @@ margin-left:25px;
   
   <p id="C11">.</p>
 <img src="/images/TL-Sec_Image04.jpg"><br/><br/>
- <center>
- <div class="row">
-  <div class="column">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/jisfwIJXdCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-  <div class="column">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/grfbtAhjzxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-  </div></center>
+  <div class="atab">
+     <input id="tab-2" type="checkbox" name="tab">
+   <label for="tab-2" style="font-size:18px; text-align:justify;">மாணவர் கற்றல் தளம் 
+</label>
+     <div class="tab-content">
+<center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/jisfwIJXdCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </div></div>
+   <div class="atab">
+     <input id="tab-3" type="checkbox" name="tab">
+   <label for="tab-3" style="font-size:18px; text-align:justify;">எழுத்திலிருந்து பேச்சுமொழி வடிவமாற்றாம்
+</label>
+     <div class="tab-content">
+<center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/grfbtAhjzxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </div></div>
+
 
      <p id="C12">.</p>
 <img src="/images/TL-Sec_Image05.jpg">
@@ -240,8 +248,8 @@ margin-left:25px;
 <img src="/images/TL-Sec_Image07.jpg">
    <h2 id="C6">தமிழ் இலக்கியம்</h2>
  <p style="text-align:justify;">
- <strong>உயர்நிலை 3-இல்</strong>பயிலும் மாணவர்களுக்குத் தமிழ் இலக்கியம் ஒரு பாடமாக வழங்கப்படுகிறது. <br/>
- இப்பாடத்தைப் பயில விரும்பும் மாணவர்கள் உயர்நிலை 2 இறுதியில் <strong>தமிழ்மொழியில்</strong>A2 அல்லது <strong>உயர்தமிழில் </strong>B3 பெற்றிருத்தல் வேண்டும். </p>
+ <strong>உயர்நிலை 3-இல்</strong> பயிலும் மாணவர்களுக்குத் தமிழ் இலக்கியம் ஒரு பாடமாக வழங்கப்படுகிறது. <br/>
+ இப்பாடத்தைப் பயில விரும்பும் மாணவர்கள் உயர்நிலை 2 இறுதியில் <strong>தமிழ்மொழியில்</strong> A2 அல்லது <strong>உயர்தமிழில் </strong>B3 பெற்றிருத்தல் வேண்டும். </p>
 <img src="/images/TL-Sec_Image08.jpg">
 <p>தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019<a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank">▶</a></p>
 
@@ -269,7 +277,6 @@ margin-left:25px;
 <br/><br/>
 
  <img src="/images/TL-Sec-Optional-Curriculum-Update.jpg"><br/>
- <span style="font-size:25px;"><strong>காமன்வெல்த் உயர்நிலைப்பள்ளி</strong></span>
      <h2>மாணவர்களின் இலக்கியப் படைப்பு 
 </h2>
     
@@ -279,18 +286,15 @@ margin-left:25px;
 </label>
      <div class="tab-content">
 <center>
+  <span style="font-size:25px;"><strong>காமன்வெல்த் உயர்நிலைப்பள்ளி</strong></span>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/giDBQvuLZp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-</div></div>
-     
-<center>
  <span style="font-size:25px;"><strong>ரிவர்சைடு உயர்நிலைப்பள்ளி</strong></span>
-<center>
  <span style="font-size:18px; text-align:justify;">அன்பழகன் நிவேதிதா _உயர்நிலை 3 </span><br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VbDOJKBV8-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VbDOJKBV8-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
 <span style="font-size:25px;"><strong>யீசூன் டவுன் உயர்நிலைப்பள்ளி</strong></span>
-<center>
  <span style="font-size:18px; text-align:justify;">ஹீரன்_உயர்நிலை 3</span><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bcwSzzG_gMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br/>
+    </div></div>
 
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
