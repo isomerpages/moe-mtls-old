@@ -46,9 +46,9 @@ margin-left:25px;
  <br/>
 <img src="/images/TL-Pri-Header.jpg">
 <p>
-<a href="#C1" style="font-size:20px"><span style="color:blue;">கல்வி அமைச்சின் தொடக்கப்பள்ளிப் பாடக்கலைத்திட்டம் 
+<a href="#C1" style="font-size:20px"><span style="color:blue;">தொடக்கப்பள்ளிப் பாடக்கலைத்திட்டம் 
 </span></a><br/>
- <a href="#C2" style="font-size:20px"><span style="color:blue;">இணையவழிக் கற்றல்
+ <a href="#C2" style="font-size:20px"><span style="color:blue;">இல்லம் சார்ந்த கற்றலுக்கு உதவும் தகவல் தொடர்புத் தொழில்நுட்பம்
 </span></a><br/>
  <a href="#C3" style="font-size:20px"><span style="color:blue;">பெற்றோர் பங்கு 
 </span></a><br/><br/>
@@ -86,10 +86,9 @@ margin-left:25px;
     <p style="text-align:left;padding:8px; border:0;">பாடநூல்களில் சொல் விளையாட்டுகள் சேர்க்கப்பட்டுள்ளன. மாணவர்கள் படித்தவற்றைப் புரிந்துகொண்டார்களா என்பதை ஆசிரியர் சோதித்துப் பார்க்க இவ்விளையாட்டுகள் துணைபுரிகின்றன. அதுமட்டுமன்றி சொல் விளையாட்டுகள் மாணவர்களின் புரிந்துணர்வுக்கு ஒரு சவாலாக அமைவதோடு அவற்றைச் செய்து முடிக்கும் மாணவர்களுடைய வெற்றியைக் கொண்டாட வாய்ப்பாகவும் அமைகின்றன. <nr/>
        <img src="/tlmoe/tl-prisch07.png" style="width: 14%;float: left;">
 <br/><br/>
-<p style="font-size:25px; color:purple;" >ஆர்வமூட்டும் கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் </p> <br/>
+<p style="font-size:25px; color:purple;" >ஈடுபாடுமிகுந்த கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் </p> <br/>
 
 <img src="/tlmoe/image2.png"><br/>
- <h4><span style="font-size:30px; color:purple;">ஈடுபாடுமிகுந்த கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள்</span></h4>
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
  <td style=" border: 0; text-align: left; padding: 8px;"><p style="text-align:justify;">மாணவர்கள் பாடப்பகுதிகளைப் படித்துக் கருத்துணர உதவும் வகையில் பற்பல உத்திகள் கற்பிக்கப்படுகின்றன. இவை மாணவர்கள் பகுதிகளைப் பொருளுணர்ந்து படித்துப் புரிந்துகொண்டு வினாக்களுக்கு விடையளிக்க உதவுகின்றன.</p><br/><img src="/tlmoe/image3.png"> <img src="/tlmoe/image3(3).png" style="width: 25%;float: left;"></td>
@@ -99,7 +98,7 @@ margin-left:25px;
 <br/>
   <table style="border-collapse: collapse; width: 100%;border:0;">
 <tr>
-    <td style="text-align:left;padding:8px; width:33.33%;">மாணவர்களுக்குக் கூடுதல் ஆதரவு வழங்க வேண்டும் என்ற நோக்கில் கட்டுரைப் பயிற்சிகளில் ஆர்வமூட்டும் முன்நடவடிக்கைகள் இணைக்கப்பட்டுள்ளன. இவை கட்டுரை எழுதுவதற்குத் தேவையான திறன்களை மாணவர்களிடையே வளர்க்கும் வண்ணம் வடிவமைக்கப்பட்டுள்ளன<br/><br/>
+    <td style="text-align:left;padding:8px; width:33.33%;">மாணவர்களுக்குக் கூடுதல் ஆதரவு வழங்க வேண்டும் என்ற நோக்கில் கட்டுரைப் பயிற்சிகளில் ஆர்வமூட்டும் முன்நடவடிக்கைகள் இணைக்கப்பட்டுள்ளன. இவை கட்டுரை எழுதுவதற்குத் தேவையான திறன்களை மாணவர்களிடையே வளர்க்கும் வண்ணம் வடிவமைக்கப்பட்டுள்ளன.<br/><br/>
       <img src="/tlmoe/tl-prisch06.png" style="width: 25%; margin-left: 286px;margin-top: -64px;">
       <img src="/tlmoe/image4.png">
     </td>
