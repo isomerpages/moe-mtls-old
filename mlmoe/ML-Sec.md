@@ -161,52 +161,6 @@ margin-left:25px;
   </div></center>
   <p style="text-align:justify;">Kurikulum Sekolah Menengah sudahpun melalui semakan pada tahun 2020 dan sedang diguna pakai oleh kohort pertama Menengah Satu pada tahun ini.  Kurikulum baharu ini merupakan satu kesinambungan bagi pelajar-pelajar sekolah rendah yang menggunakan Kurikulum Bahasa Melayu 2015. Kurikulum Bahasa Melayu (Sekolah Menengah) memperkukuh keupayaan pleajar berinterasi secara lisan dan penulisan dalam konteks yang autentik serta memberikan peluang bagi pelajar untuk bertutur dan meluahkan pandangan dalam Bahasa Melayu.</p>
   <img src="/mlmoe/ml-sec1.jpg" style="width:100%;">
-  <h4  style="font-size:25px;color:green;" >EMPAT CIRI UTAMA
-</h4>
-
-  <p style="text-align:justify;">Kurikulum Bahasa Melayu (Sekolah Menengah) 2021 menyerlahkan empat ciri utama yang berikut: </p>
-  <img src="/images/ML-Sec_Image1.jpg" style="width:100%;">
-  
-  <h4  style="font-size:25px;color:green;"> BAHAN-BAHAN VIDEO KURIKUKULUM </h4>
-  <p style="text-align:justify;">Tontonilah video-video yang berikut untuk mendapatkan maklumat lanjut tentang:
-<ul>
-  <li>Kurikulum Bahasa Melayu Sekolah Menengah</li>
-  <li>Pengalaman Guru-guru tentang Pelaksanaan Kurikulum</li>
-</ul>
-  </p>
-   <center>
- <div class="row">
-  <div class="column">
-    <span style="font-size:20px;" ><strong>Pengalaman Guru tentang Pelaksanaan  tentang  Kuriulum Bahasa Melayu 2021</strong></span>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/WSq_Lrb2788" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-  <div class="column">
-    <span style="font-size:20px;" ><strong>Penerangan Kurikulum Bahasa Melayu 2021 (Menengah)</strong></span>
-    Pending Vimeo Embed Link (https://vimeo.com/469639582/8e0c371a58)
-  </div>
-  </div></center>
-
-  <h4 style="font-size:25px;color:green;">PEMBELAJARAN TERADUN</h4>
-  <p style="text-align:justify;">Pembelajaran Teradun menjadi fitur umum dalam persekolahan pada tahun 2021. Pembelajaran Teradun merupakan pembelajaran yang menggabungkan pembelajaran di rumah dengan pengalaman pembelajaran di sekolah. Pelajar akan mengalami Pembelajaran dari Rumah (HBL) sehari dalam dua minggu, bergantung pada sekolah. Pembelajaran Teradun memperkuku keupayaan pelajar untuk belajar secara kendiri sejajar dengan gerakan Belajar Sepanjang Hayat yang dianjurkan oleh MOE. 
-</p>
-<center>
-  <p style="text-align:justify;"><strong>Bahan-bahan digital yang menyokong Pembelajaran Teradun</strong></p>
-</center>
-<p style="text-align:justify;">Perbincangan berdasarkan Video</p>
- <center>
- <div class="row">
-  <div class="column">
-    <p style="text-align:justify;">Video Gojer</p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/krt2ZDcVMfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-  <div class="column">
-    <p style="text-align:justify;">Fikir Dahulu</p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/BszLFcsHFUQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-  </div></center>
-<p style="text-align:justify;">Perbincangan tentang Isu-isu Kontemporari<br/>
-Pelajar ditugaskan untuk meneroka isu-isu semasa yang berkaitan dengan tema yang terdapat dalam buku teks atau isu-isu terkini yang ingin diketahui agar peka dengan perkembangan semasa. Pelajar boeh mendapat pelbagai bahan dari laman mikro Berita Mediacorp atau Berita Harian melalui SLS. </p>
-
    <p>MOE: </p>
   <a href="https://www.moe.gov.sg/education
 " target="_blank">https://www.moe.gov.sg/education
@@ -227,6 +181,50 @@ Pelajar ditugaskan untuk meneroka isu-isu semasa yang berkaitan dengan tema yang
   <a href="https://idm.opal2.moe.edu.sg
 " target="_blank">https://idm.opal2.moe.edu.sg
 </a>
+  
+  <h4  style="font-size:25px;color:green;" >EMPAT CIRI UTAMA
+</h4>
+  <p style="text-align:justify;">Kurikulum Bahasa Melayu (Sekolah Menengah) 2021 menyerlahkan empat ciri utama yang berikut: </p>
+  <img src="/images/ML-Sec_Image1.jpg" style="width:100%;">
+  
+  <h4  style="font-size:25px;color:green;"> BAHAN-BAHAN VIDEO KURIKUKULUM </h4>
+  <p style="text-align:justify;">Tontonilah video-video yang berikut untuk mendapatkan maklumat lanjut tentang:
+<ul>
+  <li>Kurikulum Bahasa Melayu Sekolah Menengah</li>
+  <li>Pengalaman Guru-guru tentang Pelaksanaan Kurikulum</li>
+</ul>
+  </p>
+   <center>
+ <div class="row">
+  <div class="column">
+    <span style="font-size:20px;" ><strong>Pengalaman Guru tentang Pelaksanaan  tentang  Kuriulum Bahasa Melayu 2021</strong></span>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/WSq_Lrb2788" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div class="column">
+    <span style="font-size:20px;" ><strong>Penerangan Kurikulum Bahasa Melayu 2021 (Menengah)</strong></span><br/>
+    Pending Vimeo Embed Link (https://vimeo.com/469639582/8e0c371a58)
+  </div>
+  </div></center>
+
+  <h4 style="font-size:25px;color:green;">PEMBELAJARAN TERADUN</h4>
+  <p style="text-align:justify;">Pembelajaran Teradun menjadi fitur umum dalam persekolahan pada tahun 2021. Pembelajaran Teradun merupakan pembelajaran yang menggabungkan pembelajaran di rumah dengan pengalaman pembelajaran di sekolah. Pelajar akan mengalami Pembelajaran dari Rumah (HBL) sehari dalam dua minggu, bergantung pada sekolah. Pembelajaran Teradun memperkuku keupayaan pelajar untuk belajar secara kendiri sejajar dengan gerakan Belajar Sepanjang Hayat yang dianjurkan oleh MOE. 
+</p>
+  <p style="text-align:justify;"><center><strong>Bahan-bahan digital yang menyokong Pembelajaran Teradun</strong></center></p>
+<p style="text-align:justify;">Perbincangan berdasarkan Video</p>
+<center>
+ <div class="row">
+  <div class="column">
+    <p style="text-align:justify;">Video Gojer</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/krt2ZDcVMfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div class="column">
+    <p style="text-align:justify;">Fikir Dahulu</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/BszLFcsHFUQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+ </div>
+</center>
+<p style="text-align:justify;">Perbincangan tentang Isu-isu Kontemporari<br/>
+Pelajar ditugaskan untuk meneroka isu-isu semasa yang berkaitan dengan tema yang terdapat dalam buku teks atau isu-isu terkini yang ingin diketahui agar peka dengan perkembangan semasa. Pelajar boeh mendapat pelbagai bahan dari laman mikro Berita Mediacorp atau Berita Harian melalui SLS. </p>
 
 <h4 style="font-size:25px;color:green;">Program Elektif Bahasa Melayu Peringkat Sekolah Menengah 
 </h4>
