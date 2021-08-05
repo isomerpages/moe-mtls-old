@@ -48,10 +48,19 @@ margin-left:25px;
 <p>
 <a href="#C1" style="font-size:20px"><span style="color:blue;">தொடக்கப்பள்ளிப் பாடக்கலைத்திட்டம் 
 </span></a><br/>
- <a href="#C2" style="font-size:20px"><span style="color:blue;">இல்லம் சார்ந்த கற்றலுக்கு உதவும் தகவல் தொடர்புத் தொழில்நுட்பம்
+ <a href="#C2" style="font-size:20px"><span style="color:blue;">மகிழ்வூட்டும் கற்றல்
 </span></a><br/>
- <a href="#C3" style="font-size:20px"><span style="color:blue;">பெற்றோர் பங்கு 
+ <a href="#C3" style="font-size:20px"><span style="color:blue;">மாணவர்களை மையப்படுத்திய கற்றல் வளங்களும் நடவடிக்கைகளும்
+</span></a><br/>
+ <a href="#C4" style="font-size:20px"><span style="color:blue;">விளையாட்டுவழிக் கற்றலும் வெற்றிக் கொண்டாட்டமும் 
+</span></a><br/>
+ <a href="#C5" style="font-size:20px"><span style="color:blue;">ஈடுபாடுமிகுந்த கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் 
+</span></a><br/>
+ <a href="#C6" style="font-size:20px"><span style="color:blue;">இல்லம் சார்ந்த கற்றலுக்கு உதவும் தகவல் தொடர்புத் தொழில்நுட்பம்
+</span></a><br/>
+ <a href="#C7" style="font-size:20px"><span style="color:blue;">பெற்றோர் பங்கு
 </span></a><br/><br/>
+ 
 <h4 id="C1"><span style="font-size:30px;color:purple;">தொடக்கப்பள்ளிப் பாடக்கலைத்திட்டம்
 </span></h4>
 <ul>
@@ -64,13 +73,13 @@ margin-left:25px;
    </ul>
     <img src="/tlmoe/image0Update.png">
 <br/>
-<p style="font-size:25px;color:purple">மகிழ்வூட்டும் கற்றல்  <br/>
+<h4 id="C2"><span style="font-size:30px;color:purple;">மகிழ்வூட்டும் கற்றல்  </span></h4>
  <img src="/tlmoe/image1.png"><br/><br/>
 </p>
  
 <img src="/images/TL Pri_Image01.jpg">
 
-<p style="font-size:25px; color:purple;">மாணவர்களை மையப்படுத்திய கற்றல் வளங்களும் நடவடிக்கைகளும் <br/></p>
+<h4 id="C3"><span style="font-size:30px;color:purple;">மாணவர்களை மையப்படுத்திய கற்றல் வளங்களும் நடவடிக்கைகளும் </span></h4>
  
 <img src="/images/TL Pri_Image02.jpg">
 <img src="/images/TL Pri_Image03.jpg">
@@ -79,14 +88,14 @@ margin-left:25px;
 <img src="/images/TL Pri_Image06.jpg">
 
  <br/>
-  <p style="font-size:25px;color:purple;">விளையாட்டுவழிக் கற்றலும் வெற்றிக் கொண்டாட்டமும்
-</p>
+  <h4 id="C4"><span style="font-size:30px;color:purple;">விளையாட்டுவழிக் கற்றலும் வெற்றிக் கொண்டாட்டமும்
+</span></h4>
  <img src="/images/MOE-Curriculum-TL-Primary-Image-3.jpg">
  <br/>
     <p style="text-align:left;padding:8px; border:0;">பாடநூல்களில் சொல் விளையாட்டுகள் சேர்க்கப்பட்டுள்ளன. மாணவர்கள் படித்தவற்றைப் புரிந்துகொண்டார்களா என்பதை ஆசிரியர் சோதித்துப் பார்க்க இவ்விளையாட்டுகள் துணைபுரிகின்றன. அதுமட்டுமன்றி சொல் விளையாட்டுகள் மாணவர்களின் புரிந்துணர்வுக்கு ஒரு சவாலாக அமைவதோடு அவற்றைச் செய்து முடிக்கும் மாணவர்களுடைய வெற்றியைக் கொண்டாட வாய்ப்பாகவும் அமைகின்றன. <nr/>
        <img src="/tlmoe/tl-prisch07.png" style="width: 14%;float: left;">
 <br/><br/>
-<p style="font-size:25px; color:purple;" >ஈடுபாடுமிகுந்த கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் </p> <br/>
+<h4 id="C5"><span style="font-size:30px;color:purple;">ஈடுபாடுமிகுந்த கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் </span></h4> <br/>
 
 <img src="/tlmoe/image2.png"><br/>
 <table style="border-collapse: collapse; width: 100%;">
@@ -107,12 +116,12 @@ margin-left:25px;
      </tr>
      </table>
  <br/>
-<h4 id="C2"><span style="font-size:30px; color:purple;">இல்லம் சார்ந்த கற்றலுக்கு உதவும் தகவல் தொடர்புத் தொழில்நுட்பம் 
+<h4 id="C6"><span style="font-size:30px; color:purple;">இல்லம் சார்ந்த கற்றலுக்கு உதவும் தகவல் தொடர்புத் தொழில்நுட்பம் 
 </span></h4>
  <p style="text-align:justify;">மாணவர்களின் ஆர்வத்தைத் தூண்டி  அவர்களது கற்றல் அனுபவத்தை மேம்படுத்தத் தமிழ்மொழி கற்பித்தலில் தகவல் தொடர்புத் தொழில்நுட்பம் பயன்படுத்தப்படுகிறது. மாணவர்கள் இல்லம் சார்ந்த கற்றலில் ஈடுபட்டுத் தொடர்ந்து கற்கவும் தகவல் தொடர்புத் தொழில்நுட்பம் துணைபுரிகிறது.  
 </p>
 <img src="/tlmoe/image5.png">
-<h4 id="C3"><span style="font-size:30px; color:purple;">பெற்றோர் பங்கு </span></h4>
+<h4 id="C7"><span style="font-size:30px; color:purple;">பெற்றோர் பங்கு </span></h4>
 <p style="text-align:justify;">நம் பிள்ளைகள் தமிழ்மொழியை ஆர்வத்துடன் கற்றுத் திறம்படப் பயன்படுத்துவதற்குப் பலருடைய முயற்சி தேவைப்படுகிறது. குடும்ப உறுப்பினர்களே பிள்ளைகளின் கற்றலுக்கு முதல் வித்திடுகிறார்கள். ஆசிரியர்களின் பொறுமைமிகுந்த வழிகாட்டுதல் இருந்தபோதிலும் பெற்றோரின் ஆதரவும் முக்கியமாகிறது. பிள்ளைகளை ஊக்கப்படுத்திக் கற்றலில் ஈடுபடுத்துவதில் பெற்றோர்கள் முக்கியப் பங்காற்றுகிறார்கள்.<br/><br/>
      எனவே, பெற்றோர்களுக்கு உதவும் நோக்கில் 2015 தமிழ்மொழிப் பாடக்கலைத்திட்டத்தின் சிறப்பு அம்சங்களையும் கற்றல் வளங்களையும் அறிமுகப்படுத்தும்வகையில் இந்தக் கையேடு தயாரிக்கப்பட்டுள்ளது. தமிழ்மொழியைப் பிள்ளைகள் நன்கு கற்கப் பிள்ளைகளுக்குப் பெற்றோர் எவ்வாறெல்லாம் உதவலாம் என்பதற்கான பரிந்துரைகளும் இக்கையேட்டில் இடம்பெற்றுள்ளன.</p>
       <img src="/tlmoe/tl-prisch08.png" style="width: 20%; margin-left: 10px;"><br/>
