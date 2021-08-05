@@ -118,10 +118,10 @@ margin-left:25px;
 </span></a><br/>
  <a href="#C2" style="font-size:20px"><span style="color:blue;font-family:Calibri">Sokongan Ibu Bapa
 </span></a><br/>
-<p style="font-size:30px;"><strong>TUJUAN KURIKULUM SEKOLAH MENENGAH</strong></p>
-  <p style="font-size:25px;">MEMUPUK PELAJAR  AKTIF DAN PENGGUNA CEKAP<br/>
+<p style="font-size:30px;"><strong>MATLAMAT KURIKULUM SEKOLAH MENENGAH</strong></p>
+  <h4 style="font-size:25px;color:green;">MEMUPUK PELAJAR  AKTIF DAN PENGGUNA CEKAP<br/>
 (Pembelajaran yang Menyeronokkan)
-</p>
+</h4>
 <p style="text-align:justify;">Kurikulum Bahasa Melayu Peringkat Sekolah Menengah bertujuan untuk melengkapkan pelajar dengan kecekapan berkomunikasi dan menjalin hubungan dengan pihak lain dalam konteks kehidupan di Singapura, rantau dan dunia. Tiga tujuan umum pengajaran dan pembelajaran Bahasa Ibunda adalah untuk:
 <br/><br/>
   <table style="font-family: arial, sans-serif;
@@ -152,7 +152,18 @@ margin-left:25px;
  </span>
      </center> 
 </p>
-  <h4>KURIKULUM SEKOLAH MENENGAH</h4>
+  <h4 style="font-size:25px;color:green;">KURIKULUM SEKOLAH MENENGAH<br/>
+    (Pelaksanaan bermula pada Tahun 2021, kohort Menengah 1)
+</h4>
+   <center>
+ <div class="row">
+  <div class="column">
+    <p style="text-align:justify;">Kurikulum Sekolah Menengah sudahpun melalui semakan pada tahun 2020 dan sedang diguna pakai oleh kohort pertama Menengah Satu pada tahun ini.  Kurikulum baharu ini merupakan satu kesinambungan bagi pelajar-pelajar sekolah rendah yang menggunakan Kurikulum Bahasa Melayu 2015. Kurikulum Bahasa Melayu (Sekolah Menengah) memperkukuh keupayaan pleajar berinterasi secara lisan dan penulisan dalam konteks yang autentik serta memberikan peluang bagi pelajar untuk bertutur dan meluahkan pandangan dalam Bahasa Melayu.</p>
+  </div>
+  <div class="column">
+    <img src="/mlmoe/ml-sec1.jpg" style="width:100%;">
+  </div>
+  </div></center>
   <p style="text-align:justify;">Kurikulum Bahasa Melayu Sekolah Menengah 2021 mula dilaksanakan di sekolah-sekolah untuk kohort menengah satu mulai tahun ini.
   <img src="/mlmoe/ml-sec1.jpg" style="width:100%;">
   <h4  style="font-size:25px;color:green;" >EMPAT CIRI UTAMA
