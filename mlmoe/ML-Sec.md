@@ -118,7 +118,7 @@ margin-left:25px;
 </span></a><br/>
  <a href="#C2" style="font-size:20px"><span style="color:blue;font-family:Calibri">Sokongan Ibu Bapa
 </span></a><br/>
-<p style="font-size:30px;"><strong>MATLAMAT KURIKULUM SEKOLAH MENENGAH</strong></p>
+<h4 style="font-size:30px;"><strong>MATLAMAT KURIKULUM SEKOLAH MENENGAH</strong></h4>
   <h4 style="font-size:25px;color:green;">MEMUPUK PELAJAR  AKTIF DAN PENGGUNA CEKAP<br/>
 (Pembelajaran yang Menyeronokkan)
 </h4>
@@ -146,11 +146,6 @@ margin-left:25px;
 </td>
   </tr>
 </table>
-  <center> 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/WSq_Lrb2788" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- <br/><span style="font-size:20px;" >Penerangan Kurikulum Sekolah Menengah 2021
- </span>
-     </center> 
 </p>
   <h4 style="font-size:25px;color:green;">KURIKULUM SEKOLAH MENENGAH<br/>
     (Pelaksanaan bermula pada Tahun 2021, kohort Menengah 1)
@@ -164,20 +159,54 @@ margin-left:25px;
     <img src="/mlmoe/ml-sec1.jpg" style="width:100%;">
   </div>
   </div></center>
-  <p style="text-align:justify;">Kurikulum Bahasa Melayu Sekolah Menengah 2021 mula dilaksanakan di sekolah-sekolah untuk kohort menengah satu mulai tahun ini.
+  <p style="text-align:justify;">Kurikulum Sekolah Menengah sudahpun melalui semakan pada tahun 2020 dan sedang diguna pakai oleh kohort pertama Menengah Satu pada tahun ini.  Kurikulum baharu ini merupakan satu kesinambungan bagi pelajar-pelajar sekolah rendah yang menggunakan Kurikulum Bahasa Melayu 2015. Kurikulum Bahasa Melayu (Sekolah Menengah) memperkukuh keupayaan pleajar berinterasi secara lisan dan penulisan dalam konteks yang autentik serta memberikan peluang bagi pelajar untuk bertutur dan meluahkan pandangan dalam Bahasa Melayu.</p>
   <img src="/mlmoe/ml-sec1.jpg" style="width:100%;">
   <h4  style="font-size:25px;color:green;" >EMPAT CIRI UTAMA
 </h4>
 
-  <h4>Sorotan Empat Ciri Utama dalam Kurikulum Bahasa Melayu Sekolah Menengah 2021</h4>
+  <p style="text-align:justify;">Kurikulum Bahasa Melayu (Sekolah Menengah) 2021 menyerlahkan empat ciri utama yang berikut: </p>
   <img src="/images/ML-Sec_Image1.jpg" style="width:100%;">
   
-  <p style="text-align:justify;">Kurikulum Bahasa Melayu Peringkat Sekolah Menengah 2021 menyokong pembelajaran secara kolaboratif untuk menggalakkan pemikiran kritis dan pembelajaran bersama dan daripada satu sama lain</p>
-  <img src="/mlmoe/ml-sec07.png" style="width:100%;">
-  <center><iframe src="https://vimeo.com/469639582/8e0c371a58" width="560" height="315" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-  <h4 style="font-size:25px;color:green;">Gambaran Kurikulum Sekolah Menengah 2021</h4>
-  <p style="text-align:justify;">Dasar Pendidikan Singapura yang menegaskan prinsip dwibahasa telah menjadikan Bahasa Melayu sebagai salah satu pelajaran yang wajib dalam kurikulum sekolah di Singapura 1 . Untuk memastikan bahawa dasar kedwibahasaan terus berkesan dan relevan dalam persekitaran bahasa yang dinamik, semakan kurikulum Bahasa Ibunda dijalankan dari semasa ke semasa. Sebagai pelanjutan Kurikulum Bahasa Melayu Sekolah Rendah 20152 , Kurikulum Bahasa Melayu Sekolah Menengah bermula dengan kohort Menengah 1 tahun 2021. Kurikulum Bahasa Melayu Sekolah Menengah dibina untuk memperkukuh dan meningkatkan kemahiran berkomunikasi dan keterampilan berbahasa para pelajar yang telah diperoleh di peringkat sekolah rendah. Beberapa dokumen dan bahan pengajaran bercetak dan digital diterbitkan untuk melaksanakan Kurikulum Bahasa Melayu Sekolah Menengah 2021. Antaranya ialah Sukatan Pengajaran dan Pembelajaran Sekolah Menengah 2021 ini sebagai rujukan guru untuk menyediakan pengajaran dan pembelajaran bagi memenuhi keperluan kurikulum dan program-program Bahasa Melayu di sekolah menengah. Sukatan pengajaran dan pembelajaran ini perlu digunakan sebagai rujukan rasmi bagi kemahiran dan pengetahuan bahasa yang perlu diajarkan kepada pelajar peringkat menengah. Namun, sukatan ini tidak mengandungi kesemua pengetahuan bahasa, pedagogi atau bahan rujukan tuntas untuk guru. Rujukan bahan-bahan lain yang sesuai untuk membantu pembelajaran pelajar perlu dilakukan oleh guru. Pembinaan sukatan pengajaran dan pembelajaran ini telah melibatkan pelbagai pihak yang berkepentingan termasuk guru, pelajar, pengetua sekolah, guru pakar dan ahli akademik. Yang berikut ialah pautan-pautan yang berhubung dengan dasar, sukatan, bahan-bahan pengajaran dan jaringan sokongan:
+  <h4  style="font-size:25px;color:green;"> BAHAN-BAHAN VIDEO KURIKUKULUM </h4>
+  <p style="text-align:justify;">Tontonilah video-video yang berikut untuk mendapatkan maklumat lanjut tentang:
+<ul>
+  <li>Kurikulum Bahasa Melayu Sekolah Menengah</li>
+  <li>Pengalaman Guru-guru tentang Pelaksanaan Kurikulum</li>
+</ul>
+  </p>
+   <center>
+ <div class="row">
+  <div class="column">
+    <span style="font-size:20px;" ><strong>Pengalaman Guru tentang Pelaksanaan  tentang  Kuriulum Bahasa Melayu 2021</strong></span>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/WSq_Lrb2788" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div class="column">
+    <span style="font-size:20px;" ><strong>Penerangan Kurikulum Bahasa Melayu 2021 (Menengah)</strong></span>
+    Pending Vimeo Embed Link (https://vimeo.com/469639582/8e0c371a58)
+  </div>
+  </div></center>
+
+  <h4 style="font-size:25px;color:green;">PEMBELAJARAN TERADUN</h4>
+  <p style="text-align:justify;">Pembelajaran Teradun menjadi fitur umum dalam persekolahan pada tahun 2021. Pembelajaran Teradun merupakan pembelajaran yang menggabungkan pembelajaran di rumah dengan pengalaman pembelajaran di sekolah. Pelajar akan mengalami Pembelajaran dari Rumah (HBL) sehari dalam dua minggu, bergantung pada sekolah. Pembelajaran Teradun memperkuku keupayaan pelajar untuk belajar secara kendiri sejajar dengan gerakan Belajar Sepanjang Hayat yang dianjurkan oleh MOE. 
 </p>
+<center>
+  <p style="text-align:justify;"><strong>Bahan-bahan digital yang menyokong Pembelajaran Teradun</strong></p>
+</center>
+<p style="text-align:justify;">Perbincangan berdasarkan Video</p>
+ <center>
+ <div class="row">
+  <div class="column">
+    <p style="text-align:justify;">Video Gojer</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/krt2ZDcVMfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div class="column">
+    <p style="text-align:justify;">Fikir Dahulu</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/BszLFcsHFUQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  </div></center>
+<p style="text-align:justify;">Perbincangan tentang Isu-isu Kontemporari<br/>
+Pelajar ditugaskan untuk meneroka isu-isu semasa yang berkaitan dengan tema yang terdapat dalam buku teks atau isu-isu terkini yang ingin diketahui agar peka dengan perkembangan semasa. Pelajar boeh mendapat pelbagai bahan dari laman mikro Berita Mediacorp atau Berita Harian melalui SLS. </p>
+
    <p>MOE: </p>
   <a href="https://www.moe.gov.sg/education
 " target="_blank">https://www.moe.gov.sg/education
@@ -198,26 +227,7 @@ margin-left:25px;
   <a href="https://idm.opal2.moe.edu.sg
 " target="_blank">https://idm.opal2.moe.edu.sg
 </a>
-<h4 style="font-size:25px;color:green;" >Gambaran Bahan Pengajaran JATi</h4> 
-  <div class="row">
-  <div class="column" style=" float: left;width: 33.33%;padding: 5px;">
-   <img src="/mlmoe/ml-sec13.png">
-  </div>
-  <div class="column" style=" float: left;width: 33.33%;padding: 5px;">
-   <img src="/mlmoe/ml-sec15.png">
-  </div>
-  <div class="column" style=" float: left;width: 33.33%;padding: 5px;">
-     <img src="/mlmoe/ml-sec17.png">
-  </div>
-</div>
-<div class="row" style="height:1.5%;">
-  <div class="column" style=" float: left;width: 33.33%;padding: 5px;margin-top:-84px;margin-left:140px;">
-   <img src="/mlmoe/ml-sec14.png">
-  </div>
-  <div class="column" style=" float: left;width: 33.33%;padding: 5px; margin-top:-97px;">
-   <img src="/mlmoe/ml-sec16.png">
-  </div>
-</div>
+
 <h4 style="font-size:25px;color:green;">Program Elektif Bahasa Melayu Peringkat Sekolah Menengah 
 </h4>
   <p>MOE menawarkan dua program elektif Bahasa Melayu yang berikut di peringkat sekolah menengah: 
