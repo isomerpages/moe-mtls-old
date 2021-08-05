@@ -200,8 +200,8 @@ margin-left:25px;
   <h4 style="font-size:25px;color:green;">PEMBELAJARAN TERADUN</h4>
   <p style="text-align:justify;">Pembelajaran Teradun menjadi fitur umum dalam persekolahan pada tahun 2021. Pembelajaran Teradun merupakan pembelajaran yang menggabungkan pembelajaran di rumah dengan pengalaman pembelajaran di sekolah. Pelajar akan mengalami Pembelajaran dari Rumah (HBL) sehari dalam dua minggu, bergantung pada sekolah. Pembelajaran Teradun memperkuku keupayaan pelajar untuk belajar secara kendiri sejajar dengan gerakan Belajar Sepanjang Hayat yang dianjurkan oleh MOE. 
 </p>
-  <p style="text-align:justify;"><center><strong>Bahan-bahan digital yang menyokong Pembelajaran Teradun</strong></center></p>
-<p style="text-align:justify;">Perbincangan berdasarkan Video</p>
+  <h4 style="text-align:justify;"><center>Bahan-bahan digital yang menyokong Pembelajaran Teradun</center></h4>
+<p style="text-align:justify;"><strong>Perbincangan berdasarkan Video</strong></p>
 <center>
  <div class="row">
   <div class="column">
@@ -409,7 +409,7 @@ Pelajar ditugaskan untuk meneroka isu-isu semasa yang berkaitan dengan tema yang
 </li>
     </ul>
    </p>  </div></div>
-  </p>
+
 <h4  style="font-size:25px;color:green;" >Program-program Bahasa & Budaya Melayu</h4> 
 <p style="font-size:22px;text-align:justify;">Bagi menggalakkan penggunaan dan pendedahan pada bahasa Melayu, sertailah program-program bahasa dan budaya yang telah dianjurkan. Bawa bersama keluarga anda menghadiri aktiviti-aktiviti ini. Anda juga boleh melawat tempat-tempat yang disarankan.
 </p>
