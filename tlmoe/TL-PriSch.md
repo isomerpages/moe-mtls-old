@@ -63,6 +63,7 @@ margin-left:25px;
  
 <h4 id="C1"><span style="font-size:30px;color:purple;">தொடக்கப்பள்ளிப் பாடக்கலைத்திட்டம்
 </span></h4>
+    <img src="/tlmoe/image0Update.png"><br/>
 <ul>
   <li style="text-align:justify;">நம் பிள்ளைகள் தமிழ்மொழியைத் திறமையாகப் பயன்படுத்திக் கருத்துப்பரிமாற்றம் செய்துகொள்ளும் திறன்வாய்ந்தவராக உருவாக வேண்டும் என்ற நோக்கத்தோடு 2015 தொடக்கப்பள்ளித் தமிழ்மொழிப் பாடக்கலைத்திட்டமானது உருவாக்கப்பட்டது. சிங்கப்பூர் மாணவர்களிடையே தமிழை வாழும் மொழியாக்க வேண்டும் என்பதே இப்பாடக்கலைத்திட்டத்தின் உயரிய நோக்கமாகும். இப்பாடக்கலைத்திட்டம் பாடப்பொருள், கற்பித்தல், மதிப்பீடு ஆகியவை பிள்ளைகளின் கற்றல் தேவைகளுக்குப் பொருத்தமானவையாக இருப்பதை உறுதிசெய்கிறது. 
 </li><br/>
@@ -71,7 +72,6 @@ margin-left:25px;
     <li style="text-align:justify;">பள்ளிகளில் பிள்ளைகள் தமிழ்மொழியை எவ்வாறு கற்கிறார்கள் என்பதைப் புரிந்துகொள்ளவும் பிள்ளைகளின் கற்றலில் பள்ளியுடன் இணைந்து எவ்வாறு துடிப்புடன் செயற்படலாம் என்பதை அறிந்துகொள்ளவும் தமிழ்மொழியைக் கற்கப் பல சுவாரசியமான வழிகள் உள்ளன என்பதைத் தெரிந்துகொள்ளவும் இந்தத் தளத்தில் உள்ள தகவல்கள் துணைபுரியும். மேலும் எளிமையான, மகிழ்வூட்டக்கூடிய முறையில் தமிழ்மொழியைக் கற்க வீட்டில் பெற்றோர்கள் பிள்ளைகளுக்கு உதவுவதற்கும் இந்தத் தளத்தில் உள்ள தகவல்கள் துணைபுரியும் என நம்புகிறோம்.  
 </li>
    </ul>
-    <img src="/tlmoe/image0Update.png">
 <br/>
 <h4 id="C2"><span style="font-size:30px;color:purple;">மகிழ்வூட்டும் கற்றல்  </span></h4>
  <img src="/tlmoe/image1.png"><br/><br/>
@@ -82,8 +82,26 @@ margin-left:25px;
 <h4 id="C3"><span style="font-size:30px;color:purple;">மாணவர்களை மையப்படுத்திய கற்றல் வளங்களும் நடவடிக்கைகளும் </span></h4>
  
 <img src="/images/TL Pri_Image02.jpg">
+ <center>
+ <div class="row">
+  <div class="column">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/8j_5mmKqHOM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div class="column">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/WDNmZQc9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+ </div></center>
 <img src="/images/TL Pri_Image03.jpg">
 <img src="/images/TL Pri_Image04.jpg">
+ <center>
+ <div class="row">
+  <div class="column">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/yF2nsTavscY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div class="column">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/xHTBGMGHzVc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+ </div></center>
 <img src="/images/TL Pri_Image05.jpg">
 <img src="/images/TL Pri_Image06.jpg">
 
@@ -93,7 +111,7 @@ margin-left:25px;
  <img src="/images/MOE-Curriculum-TL-Primary-Image-3.jpg">
  <br/>
     <p style="text-align:left;padding:8px; border:0;">பாடநூல்களில் சொல் விளையாட்டுகள் சேர்க்கப்பட்டுள்ளன. மாணவர்கள் படித்தவற்றைப் புரிந்துகொண்டார்களா என்பதை ஆசிரியர் சோதித்துப் பார்க்க இவ்விளையாட்டுகள் துணைபுரிகின்றன. அதுமட்டுமன்றி சொல் விளையாட்டுகள் மாணவர்களின் புரிந்துணர்வுக்கு ஒரு சவாலாக அமைவதோடு அவற்றைச் செய்து முடிக்கும் மாணவர்களுடைய வெற்றியைக் கொண்டாட வாய்ப்பாகவும் அமைகின்றன. <nr/>
-       <img src="/tlmoe/tl-prisch07.png" style="width: 14%;float: left;">
+       <img src="/tlmoe/tl-prisch07.png" style="width: 14%;float: right;">
 <br/><br/>
 <h4 id="C5"><span style="font-size:30px;color:purple;">ஈடுபாடுமிகுந்த கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் </span></h4> <br/>
 
