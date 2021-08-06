@@ -160,7 +160,7 @@ margin-left:25px;
 	    </a>
     <a href="https://www.moe.gov.sg/education/syllabuses/mother-tongue-languages" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 12px 15px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">
     <span style="mso-text-raise: 12pt;">Bahasa Ibunda</span>
-	  </a>
+	  </a><br/>
     <a href="https://vle.learning.moe.edu.sg" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
     <span style="mso-text-raise: 15pt;">SLS</span>
 		</a>
