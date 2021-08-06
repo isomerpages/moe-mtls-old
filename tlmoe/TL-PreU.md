@@ -136,7 +136,7 @@ margin-left:25px;
       <li style="text-align:justify;">உலகளாவிய நோக்கில் சிங்கப்பூர் வகிக்கும் இடங்குறித்துத் தெளிவான புரிந்துணர்வைப் பெற்றிருப்பர் 
 </li>
   </ul></td>
-    <td><img src="/tlmoe/h1-lens.png"><br/><span style="font-size:20px; font-weight:bold; color: purple;">உயர்தரம் 1 
+    <td><img src="/tlmoe/h1-lens.png" style="width: 80%"><br/><span style="font-size:20px; font-weight:bold; color: purple;">உயர்தரம் 1 
 பரந்துபட்ட மூன்று கருப்பொருள்கள் </span>
     </td>
   </tr>
@@ -163,7 +163,7 @@ margin-left:25px;
 
 </li>
   </ul></td>
-    <td><img src="/tlmoe/h2-lens.png"><br/><span style="font-size:20px; font-weight:bold; color:purple;">உயர்தரம் 2 & 3 
+    <td><img src="/tlmoe/h2-lens.png" style="width:80%"><br/><span style="font-size:20px; font-weight:bold; color:purple;">உயர்தரம் 2 & 3 
      பரந்துபட்ட மூன்று கருப்பொருள்கள் 
 </span></td>
   
@@ -190,7 +190,7 @@ margin-left:25px;
       <input id="tab-3" type="checkbox" name="tab">
     <label for="tab-3" style="font-family:KaiTi;font-size:22px" class="lbTM">உயர்தரம் தமிழ்மொழி பாடத்திற்கான கற்றல் விளைவுகள்</label>
      <div class="tab-content">
-     <h4><span style="font-size:30px;color:purple;">உயர்தரம் 2 & 3 தமிழ்மொழிப் பாடத்திற்கான கல்வியின் விரும்பத்தக்க விளைவுகள்.</span></h4>
+     <h4><span style="font-size:30px; padding-top: 24px; color:purple;">உயர்தரம் 2 & 3 தமிழ்மொழிப் பாடத்திற்கான கல்வியின் விரும்பத்தக்க விளைவுகள்.</span></h4>
   <table style="border-collapse: collapse; width: 100%;border:0;">
  <tr>
     <td><img src="/images/TL PreU_Image02.jpg"></td>
@@ -207,7 +207,7 @@ margin-left:25px;
       <input id="tab-4" type="checkbox" name="tab">
     <label for="tab-4" style="font-size:22px" class="lbTM">பணிச்சட்டமும் பாடத்திட்டங்களும்</label>
      <div class="tab-content">
-    <h4><span style="font-size:30px;color:purple;">பாடத்திட்டப் பணிச்சட்டம்</span></h4>
+    <h4><span style="font-size:30px; padding-top: 24px; color:purple;">பாடத்திட்டப் பணிச்சட்டம்</span></h4>
     <img src="/tlmoe/tl-preU04.jpeg"><br/>
     <img src="/images/TL PreU_Image03.jpg"><br/>
     <a href="/tlmoe/H1-Syllabus-Tamil.pdf" target="_blank" style="text-align:left;">2020 H1 Tamil Language & Tamil Language ‘B’ Syllabus</a><br/>
