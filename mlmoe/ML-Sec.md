@@ -238,8 +238,13 @@ margin-left:25px;
   </div>
  </div>
 </center>
-<p style="text-align:justify;">Perbincangan tentang Isu-isu Kontemporari<br/>
-Pelajar ditugaskan untuk meneroka isu-isu semasa yang berkaitan dengan tema yang terdapat dalam buku teks atau isu-isu terkini yang ingin diketahui agar peka dengan perkembangan semasa. Pelajar boeh mendapat pelbagai bahan dari laman mikro Berita Mediacorp atau Berita Harian melalui SLS. </p>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border: 1px solid #ccc;" bgcolor="#62BD69">
+      <tr>
+       <td style="text-align:center; color: #242424; padding: 20px 20px 20px 20px; line-height: 2; ">Perbincangan tentang Isu-isu Kontemporari
+       </td>
+      </tr>
+     </table>
+<p style="text-align:justify;">Pelajar ditugaskan untuk meneroka isu-isu semasa yang berkaitan dengan tema yang terdapat dalam buku teks atau isu-isu terkini yang ingin diketahui agar peka dengan perkembangan semasa. Pelajar boeh mendapat pelbagai bahan dari laman mikro Berita Mediacorp atau Berita Harian melalui SLS. </p>
 
 <h4 style="font-size:25px;color:green;">Program Elektif Bahasa Melayu Peringkat Sekolah Menengah 
 </h4>
