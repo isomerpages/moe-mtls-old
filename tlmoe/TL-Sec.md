@@ -112,9 +112,9 @@ margin-left:25px;
 <img src="/images/TL-Sec_Header.jpg">
 <p>
  <ol>
-   <li><span style="font-size:20px; color:blue;">அறிமுகம் <a href="#C5">➪ 
+   <li><span style="font-size:20px; color:blue;">அறிமுகம் <a href="#C5" style="font-size:32px;">➪ 
     </a></span></li>
-   <li><span style="font-size:20px; color:blue;">உயர்நிலை <a href="#C1">➪ 
+   <li><span style="font-size:20px; color:blue;">உயர்நிலை <a href="#C1" style="font-size:28px;">➪ 
     </a></span></li>
    <li><span style="font-size:20px; color:blue;">தமிழ்மொழ <a href="#C2">➪ 
     </a></span></li>
