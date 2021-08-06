@@ -119,17 +119,22 @@ margin-left:25px;
    <li><span style="font-size:20px; color:blue;">உயர்நிலை </span>
     <a href="#C1"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
     </a></li>
-   <li><span style="font-size:20px; color:blue;">தமிழ்மொழ <a href="#C2" style="font-size:40px; color:purple;">➣ 
-    </a></span></li>
-   <li><span style="font-size:20px; color:blue;">தமிழ்மொழிப் பாடத்திட்டம் 2021 <a href="#C3" style="font-size:40px; color:purple;">➣ 
-    </a></span></li>
-   <li><span style="font-size:20px; color:blue;">புதிய கூறுகளும் புதிய முயற்சிகளும் <a href="#C4" style="font-size:40px; color:purple;">➣ 
-    </a></span></li>
-   <li><span style="font-size:20px; color:blue;">தமிழ் இலக்கியம் <a href="#C6" style="font-size:40px; color:purple;">➣ 
-    </a></span></li>
+   <li><span style="font-size:20px; color:blue;">தமிழ்மொழ </span>
+    <a href="#C2"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
+    </a></li>
+   <li><span style="font-size:20px; color:blue;">தமிழ்மொழிப் பாடத்திட்டம் 2021 </span>
+    <a href="#C3"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
+    </a></li>
+   <li><span style="font-size:20px; color:blue;">புதிய கூறுகளும் புதிய முயற்சிகளும் </span>
+    <a href="#C4"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
+    </a></li>
+   <li><span style="font-size:20px; color:blue;">தமிழ் இலக்கியம் </span>
+  <a href="#C6"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
+    </a></li>
    <li><span style="font-size:20px; color:blue;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்<br/>
-    (Tamil Language Elective Programme - TLEP) <a href="#C7" style="font-size:40px; color:purple;">➣ 
-    </a></span></li>
+    (Tamil Language Elective Programme - TLEP) </span>
+  <a href="#C7"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
+    </a></li>
   </ol><br/>
   <h2 id="C5">அறிமுகம் 
  </h2>
@@ -161,9 +166,9 @@ margin-left:25px;
 
  <center>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/6sBb03SK3wI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
- <h2 id="C3">தமிழ்மொழிப் பாடத்திட்டம் 2021</h2>
-<p><img src="/images/TL-Sec_Image01.jpg"><br/>
- 2021 Tamil Curriculum<a href="2021 Secondary Curriculum Link https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf" target="_blank" style="font-size:40px; color:purple;">▶</a></p>
+ <h2 id="C3">தமிழ்மொழிப் பாடத்திட்டம் 2021</h2><br/>
+<img src="/images/TL-Sec_Image01.jpg"><br/>
+ 2021 Tamil Curriculum<a href="2021 Secondary Curriculum Link https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf" target="_blank"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"></a>
  <center>
  <span style="font-size:18px;">உயர்நிலைத் &nbsp; தமிழ்மொழிப் &nbsp; பாடத்திட்ட &nbsp; வெளியீடு:</span><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rGFqD2sxPfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -177,15 +182,19 @@ margin-left:25px;
  <img src="/images/TL-Sec_Image02.jpg">
  <p>
  <ol>
-   <li><span style="font-size:20px; color:blue;">பண்பாட்டறிவை வளப்படுத்துதல் <a href="#C9" style="font-size:40px; color:purple;">▶ 
-    </a></span></li>
-   <li><span style="font-size:20px; color:blue;">இலக்கியப் பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல் <a href="#C10" style="font-size:40px; color:purple;">▶ 
-    </a></span></li>
-   <li><span style="font-size:20px; color:blue;">மொழி கற்றலுக்குத் துணைவளமாக அமையும் தற்கால நடப்புச் செய்திகள் <a href="#C11" style="font-size:40px; color:purple;">▶ 
-    </a></span></li>
+   <li><span style="font-size:20px; color:blue;">பண்பாட்டறிவை வளப்படுத்துதல் </span>
+  <a href="#C9"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
+     </a></li>
+   <li><span style="font-size:20px; color:blue;">இலக்கியப் பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல் </span>
+  <a href="#C10"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
+     </a></li>
+   <li><span style="font-size:20px; color:blue;">மொழி கற்றலுக்குத் துணைவளமாக அமையும் தற்கால நடப்புச் செய்திகள் </span>
+  <a href="#C11"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
+     </a></li>
    <li><span style="font-size:20px; color:blue;">தகவல் தொடர்புத் தொழில்நுட்பத்தின் கூடுதல் ஒருங்கிணைப்பு<br/>
-(Tamil Language Elective Programme) <a href="#C12" style="font-size:40px; color:purple;">▶ 
-    </a></span></li>
+(Tamil Language Elective Programme) </span>
+  <a href="#C12"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
+     </a></li>
   </ol><br/>
 
 <h2 id="C9"><center>பண்பாட்டறிவை வளப்படுத்துதல்</center></h2>
@@ -257,8 +266,8 @@ margin-left:25px;
  <p style="text-align:justify;">
  <strong>உயர்நிலை 3-இல்</strong> பயிலும் மாணவர்களுக்குத் தமிழ் இலக்கியம் ஒரு பாடமாக வழங்கப்படுகிறது. <br/>
  இப்பாடத்தைப் பயில விரும்பும் மாணவர்கள் உயர்நிலை 2 இறுதியில் <strong>தமிழ்மொழியில்</strong> A2 அல்லது <strong>உயர்தமிழில் </strong>B3 பெற்றிருத்தல் வேண்டும். </p>
-<img src="/images/TL-Sec_Image08.jpg">
-<p>தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019<a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank" style="font-size:40px; color:purple;">▶</a></p>
+<img src="/images/TL-Sec_Image08.jpg"><br/>
+தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019 <a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"></a>
 
 <h2 id="C7">தமிழ்மொழி விருப்பப்பாடத் திட்டம் (Tamil Language Elective Programme - TLEP)</h2>
 <p style="text-align:justify;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. இத்திட்டம் உயர்நிலை 3-இல் தமிழ் இலக்கியம் பயிலும் மாணவர்களுக்கு உரியது. இது தற்போது மூன்று உயர்நிலைப்பள்ளிகளில் செயற்படுத்தப்படுகிறது.
