@@ -151,7 +151,7 @@ margin-left:25px;
     (Pelaksanaan bermula pada Tahun 2021, kohort Menengah 1)
 </h4>
    <center>
- <table style="column-width:60%">
+ <table style="column-width:50%">
   <tr>
     <td style="text-align:left; width:50%;">Kurikulum Sekolah Menengah sudahpun melalui semakan pada tahun 2020 dan sedang diguna pakai oleh kohort pertama Menengah Satu pada tahun ini.  Kurikulum baharu ini merupakan satu kesinambungan bagi pelajar-pelajar sekolah rendah yang menggunakan Kurikulum Bahasa Melayu 2015. Kurikulum Bahasa Melayu (Sekolah Menengah) memperkukuh keupayaan pleajar berinterasi secara lisan dan penulisan dalam konteks yang autentik serta memberikan peluang bagi pelajar untuk bertutur dan meluahkan pandangan dalam Bahasa Melayu.</td>
     <td style="text-align:left; width:50%;"><img src="/mlmoe/ml-sec1.jpg" style="width:100%;"><br/>
