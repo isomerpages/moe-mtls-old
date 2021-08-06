@@ -136,15 +136,10 @@ margin-left:25px;
       <li style="text-align:justify;">உலகளாவிய நோக்கில் சிங்கப்பூர் வகிக்கும் இடங்குறித்துத் தெளிவான புரிந்துணர்வைப் பெற்றிருப்பர் 
 </li>
      </ul></td>
-  <td><img src="/tlmoe/h1-lens.png" style="width: 80%"></td><br/>
-         <td>
-     <table width="100%" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border: 1px solid #ccc;">
-          <tr>
+  <td><img src="/tlmoe/h1-lens.png" style="width: 80%"><br/>
          <span style="font-size:20px; font-weight:bold; color: purple;">உயர்தரம் 1 
 பரந்துபட்ட மூன்று கருப்பொருள்கள் </span>
             </td>
-          </tr>
-     </table>
  </tr>
 </table>
 <h4>உயர்தரம் 2 & 3 பாடக்கலைத்திட்டத்தின் முக்கிய நோக்கங்கள்
