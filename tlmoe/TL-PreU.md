@@ -145,10 +145,8 @@ border-radius: 8px;
 </li>
      </ul></td>
   <td>
-  <div class="bordered">
    <img src="/tlmoe/h1-lens.png" style="width: 80%"><br/><span style="font-size:20px; font-weight:bold; color: purple;">உயர்தரம் 1 
 பரந்துபட்ட மூன்று கருப்பொருள்கள் </span>
-  </div>
   </td>
  </tr>
 </table>
