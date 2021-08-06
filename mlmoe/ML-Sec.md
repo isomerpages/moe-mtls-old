@@ -154,7 +154,7 @@ margin-left:25px;
  <table style="column-width:60%">
   <tr>
     <td rowspan="4" style="text-align:justify;">Kurikulum Sekolah Menengah sudahpun melalui semakan pada tahun 2020 dan sedang diguna pakai oleh kohort pertama Menengah Satu pada tahun ini.  Kurikulum baharu ini merupakan satu kesinambungan bagi pelajar-pelajar sekolah rendah yang menggunakan Kurikulum Bahasa Melayu 2015. Kurikulum Bahasa Melayu (Sekolah Menengah) memperkukuh keupayaan pleajar berinterasi secara lisan dan penulisan dalam konteks yang autentik serta memberikan peluang bagi pelajar untuk bertutur dan meluahkan pandangan dalam Bahasa Melayu.</td>
-    <td><img src="/mlmoe/ml-sec1.jpg" style="width:100%;"></td>
+    <td colspan="2"><img src="/mlmoe/ml-sec1.jpg" style="width:100%;"></td>
 	 </tr>
   <tr>
     <td><a href="https://www.moe.gov.sg/education" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
@@ -212,7 +212,7 @@ margin-left:25px;
   <h4 style="text-align:justify;"><center>Bahan-bahan digital yang menyokong Pembelajaran Teradun</center></h4>
     <table width="100%" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border: 1px solid #ccc;" bgcolor="#62BD69">
       <tr>
-       <td style="text-align:center; font-size:24px; color: #242424; padding: 20px 20px 20px 20px; line-height: 2; ">Perbincangan berdasarkan Video
+       <td style="text-align:center; font-size:20px; color: #242424; padding: 20px 20px 20px 20px; line-height: 2; ">Perbincangan berdasarkan Video
        </td>
       </tr>
      </table>
@@ -233,7 +233,7 @@ margin-left:25px;
 </center>
     <table width="100%" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border: 1px solid #ccc;" bgcolor="#62BD69">
       <tr>
-       <td style="text-align:center; font-size:24px; color: #242424; padding: 20px 20px 20px 20px; line-height: 2; ">Perbincangan tentang Isu-isu Kontemporari
+       <td style="text-align:center; font-size:20px; color: #242424; padding: 20px 20px 20px 20px; line-height: 2; ">Perbincangan tentang Isu-isu Kontemporari
        </td>
       </tr>
      </table>
