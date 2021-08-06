@@ -137,7 +137,7 @@ margin-left:25px;
 </li>
   </ul></td>
     <td><img src="/tlmoe/h1-lens.png"><br/><span style="font-size:20px; color:purple;"><strong>உயர்தரம் 1 
-பரந்துபட்ட மூன்று கருப்பொருள்கள் <strong></span>
+பரந்துபட்ட மூன்று கருப்பொருள்கள் </strong></span>
     </td>
   </tr>
 </table>
