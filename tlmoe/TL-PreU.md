@@ -136,7 +136,7 @@ margin-left:25px;
       <li style="text-align:justify;">உலகளாவிய நோக்கில் சிங்கப்பூர் வகிக்கும் இடங்குறித்துத் தெளிவான புரிந்துணர்வைப் பெற்றிருப்பர் 
 </li>
      </ul></td>
-  <table width="50%" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border: 1px solid #ccc; display: inline-block;">
+  <table border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border: 1px solid #ccc; display: inline-block;">
       <tr>
         <td><img src="/tlmoe/h1-lens.png" style="width: 80%"><br/><span style="font-size:20px; font-weight:bold; color: purple;">உயர்தரம் 1 
 பரந்துபட்ட மூன்று கருப்பொருள்கள் </span>
