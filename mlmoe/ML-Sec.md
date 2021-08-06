@@ -158,7 +158,7 @@ margin-left:25px;
     <a href="https://www.moe.gov.sg/education" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 15px 17px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">
     MOE
 	    </a>
-    <a href="https://www.moe.gov.sg/education/syllabuses/mother-tongue-languages" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
+    <a href="https://www.moe.gov.sg/education/syllabuses/mother-tongue-languages" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 12px 15px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">
     <span style="mso-text-raise: 15pt;">Bahasa Ibunda</span>
 	  </a>
     <a href="https://vle.learning.moe.edu.sg" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
