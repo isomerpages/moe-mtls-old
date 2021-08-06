@@ -280,8 +280,6 @@ margin-left:25px;
    <br/>
 <a href="https://sites.google.com/view/emasmlep/home">Untuk maklumat lanjut tentang Program Elektif Bahasa Melayu Peringkat Sekolah Menengah</a><br/>
   <p style="text-align:justify">Pihak sekolah dan MOE telah mengubahsuaikan aktiviti EMAS dan MLEP semasa pandemik COVID-19.</p>
-
-   
    <br/>
 <h4 style="font-size:25px;color:green;" >PROGRAM DIGITAL ALTERNATIF</h4>
    <table style="font-family: arial, sans-serif;
