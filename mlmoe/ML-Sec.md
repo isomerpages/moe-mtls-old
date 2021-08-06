@@ -220,14 +220,14 @@ margin-left:25px;
 <center>
  <div class="row">
   <div class="column">
-    <p style="text-align:center;"><strong>Video Gojer</strong>
+	  <p style="text-align:center;"><strong>Video Gojer</strong></p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/krt2ZDcVMfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-    Pelajar diajak berfikir kriteria-kriteria yang diperlukan sebelum mereka membuat keputusan untuk membeli sesuatu barang. </p>
+    <p style="text-align:left; font-size:18px">Pelajar diajak berfikir kriteria-kriteria yang diperlukan sebelum mereka membuat keputusan untuk membeli sesuatu barang. </p>
   </div>
   <div class="column">
-    <p style="text-align:center;"><strong>Fikir Dahulu</strong>
+	  <p style="text-align:center;"><strong>Fikir Dahulu</strong></p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/BszLFcsHFUQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-    Pelajar diajak memikirkan respons yang sewajarnya apabila berinteraksi dengan orang agar tidak menyinggung perasaan orang lain. </p>
+    <p style="text-align:left; font-size:18px">Pelajar diajak memikirkan respons yang sewajarnya apabila berinteraksi dengan orang agar tidak menyinggung perasaan orang lain. </p>
   </div>
  </div>
 </center>
@@ -244,13 +244,13 @@ margin-left:25px;
  <center>
  <div class="row">
   <div class="column">
+    <p style="text-align:left; font-size:18px">Antara fitur-fitur di SLS membolehkan pelajar menggunakan strategi berfikir untuk mengasah kemahiran berfikir secara kritis seperti: </p>
     <p style="text-align:justify; font-weight:bold">Alat Berfikir Interaktif</p>
-	  <p>Antara fitur-fitur di SLS membolehkan pelajar menggunakan strategi berfikir untuk mengasah kemahiran berfikir secara kritis seperti: </p>
 	  <img src="/images/ML-Sec_Alat-Berfikir-Interaktif.jpeg">
   </div>
   <div class="column">
+    <p style="text-align:left; font-size:18px">Pelajar juga boleh mengukur kelakonan mereka dalam sesuatu tugasan melalui kuiz yang disediakan oleh guru: </p>
     <p style="text-align:justify; font-weight:bold">Kuiz</p>
-	  <p>Pelajar juga boleh mengukur kelakonan mereka dalam sesuatu tugasan melalui kuiz yang disediakan oleh guru: </p>
 	  <img src="/images/ML-Sec_Kuiz.jpeg">
   </div>
   </div></center>
