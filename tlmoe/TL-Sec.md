@@ -113,7 +113,7 @@ margin-left:25px;
 <p>
  <ol>
    <li>
-    <span style="font-size:20px; color:blue; display: inline-block">அறிமுகம் <a href="#C5"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:32px;"> 
+    <span style="font-size:20px; color:blue; display: inline;">அறிமுகம் <a href="#C5"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:32px;"> 
      </a></span>
     </li>
    <li><span style="font-size:20px; color:blue;">உயர்நிலை <a href="#C1" style="font-size:40px; color:purple;">➣ 
