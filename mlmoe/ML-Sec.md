@@ -229,12 +229,14 @@ margin-left:25px;
 <center>
  <div class="row">
   <div class="column">
-    <p style="text-align:center;"><strong>Video Gojer</strong></p>
+    <p style="text-align:center;"><strong>Video Gojer</strong>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/krt2ZDcVMfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    Pelajar diajak berfikir kriteria-kriteria yang diperlukan sebelum mereka membuat keputusan untuk membeli sesuatu barang. </p>
   </div>
   <div class="column">
-    <p style="text-align:center;"><strong>Fikir Dahulu</strong></p>
+    <p style="text-align:center;"><strong>Fikir Dahulu</strong>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/BszLFcsHFUQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    Pelajar diajak memikirkan respons yang sewajarnya apabila berinteraksi dengan orang agar tidak menyinggung perasaan orang lain. </p>
   </div>
  </div>
 </center>
@@ -244,36 +246,80 @@ margin-left:25px;
        </td>
       </tr>
      </table>
-<p style="text-align:justify;">Pelajar ditugaskan untuk meneroka isu-isu semasa yang berkaitan dengan tema yang terdapat dalam buku teks atau isu-isu terkini yang ingin diketahui agar peka dengan perkembangan semasa. Pelajar boeh mendapat pelbagai bahan dari laman mikro Berita Mediacorp atau Berita Harian melalui SLS. </p>
+<p style="text-align:justify;">Pelajar ditugaskan untuk meneroka isu-isu semasa yang berkaitan dengan tema yang terdapat dalam buku teks atau isu-isu terkini yang ingin diketahui agar peka dengan perkembangan semasa. Pelajar boeh mendapat pelbagai bahan dari laman mikro Berita Mediacorp atau Berita Harian melalui SLS. </p><br/>
+Pending image<br/>
 
 <h4 style="font-size:25px;color:green;">Program Elektif Bahasa Melayu Peringkat Sekolah Menengah 
 </h4>
-  <p>MOE menawarkan dua program elektif Bahasa Melayu yang berikut di peringkat sekolah menengah: 
+  <p>MOE menawarkan dua program elektif Bahasa Melayu yang berikut di peringkat sekolah menengah, jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS: 
 </p>
+<img src="/mlmoe/ml-sec12.png">
+<div class="atab">
+      <input id="tab-1" type="checkbox" name="tab">
+   <label for="tab-1" class="lbML">Program EMAS
+</label>
+     <div class="tab-content">
+       <p>Pilih sekolah menengah <strong>EMAS </strong> & <strong> MLEP</strong><br/>
+     <ul><li>Sekolah Menengah Anderson
+</li>
+     <li>Sekolah Tinggi Pemerintah Bukit Panjang
+</li>
+     <li>Sekolah Menengah Tanjong Katong
+</li>
+    </ul>
+     </p>
+  <p><u><strong>Program Pengayaan </strong></u><br/>
+     <ul>
+     <li>Perkhemahan Bahasa & Budaya
+</li>
+     <li>Bengkel Penulisan Kreatif</li>
+     <li>Penerbitan Karya Pelajar
+</li>
+     <li>Program Penyerapan ke Luar Negara
+</li>
+     <li>Pendedahan Seni dan Budaya
+</li>
+    </ul>
+  <a href="https://sites.google.com/view/emasmlep/home?authuser=0" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu
+ </a>
+   </p>  </div></div>
+   
+  <div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+   <label for="tab-2" class="lbML">Program MLEP-Menengah
+</label>
+     <div class="tab-content">
+       <p>Pilih untuk meneruskan program <strong>EMAS</strong> atau tukar kepada program <strong>MLEP</strong>
+<br/>
+     <ul><li>Minat dalam sastera Melayu (seperti membaca novel, cerpen dan sajak), 
+</li>
+     <li>Memilih untuk mempelajari sastera Melayu di peringkat Menengah Tiga.
+</li>
+    </ul>
+     </p>
+  <p><u><strong>Biasiswa MLEP-Sec</strong>
+ </u><br/>
+       Pelajar MLEP-Sec warganegara Singapura yang cemerlang akan ditawarkan biasiswa oleh Kementerian Pendidikan:
+       <br/>
+  <ul>
+     <li>biasiswa selama dua tahun (Menengah Tiga dan Empat) 
+</li>
+     <li>biasiswa bernilai $1,000 setiap tahun
+</li>
+     <li>yuran sekolah dibiayai (jumlah maksimum $2,400 setiap tahun) 
+
+</li>
+     <li>subsidi penuh bagi Program Penyerapan ke Luar Negara 
+
+</li>
+     <li>sijil pengiktirafan setelah tamat program selama dua tahun 
+
+</li>
+    </ul>
+   </p>  </div></div>
           
-<table style="font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;">
-   <tr>
-    <td rowspan="2" style="border: 0;
-  text-align: left;
-  padding: 29px;width:35%">
-  <img src="/mlmoe/ml-sec9.png">
- <img src="/mlmoe/ml-sec18.png" style="margin-top: -127px;margin-left: 24px;">
-      </td>
-    <td style="border: 0;
-  text-align: left;
-  padding: 8px;width:35%">Program EMAS<br/><br/>
-   <img src="/mlmoe/ml-sec10.png" style="margin-left:-16%;">
-</td>
-<td style="border: 0;
-  text-align: left;
-  padding: 8px;width:35%">Program <br/>MLEP-Menengah<br/>
-   <img src="/mlmoe/ml-sec11.png">
-</td>
-    </tr>
-   </table>
-   <img src="/mlmoe/ml-sec12.png" style="width:100%;">
+
+   
    <br/>
    <h4 style="font-size:25px;color:green;">Program Elektif Bahasa Melayu di Peringkat Sekolah Menengah 
 </h4>
