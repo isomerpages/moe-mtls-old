@@ -113,25 +113,25 @@ margin-left:25px;
 <p>
  <ol>
    <li>
-    <span style="font-size:20px; color:blue; display: inline-block;">அறிமுகம் </span>
+    <span style="font-size:20px; color:blue; display: inline-block;"> அறிமுகம் </span>
     <a href="#C5"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
      </a></li>
-   <li><span style="font-size:20px; color:blue;">உயர்நிலை </span>
+   <li><span style="font-size:20px; color:blue;"> உயர்நிலை </span>
     <a href="#C1"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
     </a></li>
-   <li><span style="font-size:20px; color:blue;">தமிழ்மொழ </span>
+   <li><span style="font-size:20px; color:blue;"> தமிழ்மொழ </span>
     <a href="#C2"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
     </a></li>
-   <li><span style="font-size:20px; color:blue;">தமிழ்மொழிப் பாடத்திட்டம் 2021 </span>
+   <li><span style="font-size:20px; color:blue;"> தமிழ்மொழிப் பாடத்திட்டம் 2021 </span>
     <a href="#C3"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
     </a></li>
-   <li><span style="font-size:20px; color:blue;">புதிய கூறுகளும் புதிய முயற்சிகளும் </span>
+   <li><span style="font-size:20px; color:blue;"> புதிய கூறுகளும் புதிய முயற்சிகளும் </span>
     <a href="#C4"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
     </a></li>
-   <li><span style="font-size:20px; color:blue;">தமிழ் இலக்கியம் </span>
+   <li><span style="font-size:20px; color:blue;"> தமிழ் இலக்கியம் </span>
   <a href="#C6"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
     </a></li>
-   <li><span style="font-size:20px; color:blue;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்<br/>
+   <li><span style="font-size:20px; color:blue;"> தமிழ்மொழி விருப்பப்பாடத் திட்டம்<br/>
     (Tamil Language Elective Programme - TLEP) </span>
   <a href="#C7"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
     </a></li>
@@ -182,16 +182,16 @@ margin-left:25px;
  <img src="/images/TL-Sec_Image02.jpg">
  <p>
  <ol>
-   <li><span style="font-size:20px; color:blue;">பண்பாட்டறிவை வளப்படுத்துதல் </span>
+   <li><span style="font-size:20px; color:blue;"> பண்பாட்டறிவை வளப்படுத்துதல் </span>
   <a href="#C9"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
      </a></li>
-   <li><span style="font-size:20px; color:blue;">இலக்கியப் பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல் </span>
+   <li><span style="font-size:20px; color:blue;"> இலக்கியப் பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல் </span>
   <a href="#C10"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
      </a></li>
-   <li><span style="font-size:20px; color:blue;">மொழி கற்றலுக்குத் துணைவளமாக அமையும் தற்கால நடப்புச் செய்திகள் </span>
+   <li><span style="font-size:20px; color:blue;"> மொழி கற்றலுக்குத் துணைவளமாக அமையும் தற்கால நடப்புச் செய்திகள் </span>
   <a href="#C11"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
      </a></li>
-   <li><span style="font-size:20px; color:blue;">தகவல் தொடர்புத் தொழில்நுட்பத்தின் கூடுதல் ஒருங்கிணைப்பு<br/>
+   <li><span style="font-size:20px; color:blue;"> தகவல் தொடர்புத் தொழில்நுட்பத்தின் கூடுதல் ஒருங்கிணைப்பு<br/>
 (Tamil Language Elective Programme) </span>
   <a href="#C12"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
      </a></li>
