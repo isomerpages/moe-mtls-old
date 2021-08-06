@@ -136,7 +136,7 @@ margin-left:25px;
       <li style="text-align:justify;">உலகளாவிய நோக்கில் சிங்கப்பூர் வகிக்கும் இடங்குறித்துத் தெளிவான புரிந்துணர்வைப் பெற்றிருப்பர் 
 </li>
   </ul></td>
-    <td><img src="/tlmoe/h1-lens.png" style="width: 60%"><br/><span style="font-size:20px; font-weight:bold; color: purple;">உயர்தரம் 1 
+    <td><img src="/tlmoe/h1-lens.png" style="width: 80%"><br/><span style="font-size:20px; font-weight:bold; color: purple;">உயர்தரம் 1 
 பரந்துபட்ட மூன்று கருப்பொருள்கள் </span>
     </td>
   </tr>
