@@ -159,7 +159,15 @@ margin-left:25px;
     <td colspan="3"><img src="/mlmoe/ml-sec1.jpg" style="width:100%;"></td>
   </tr>
   <tr>
-    <td>Pending MOE Link Button</td>
+    <td><a href="https://www.moe.gov.sg/education" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
+    <!--[if mso]>
+    <i style="letter-spacing: 25px; mso-font-width: -100%; mso-text-raise: 30pt;"> </i>
+    <![endif]-->
+    <span style="mso-text-raise: 15pt;">MOE</span>
+    <!--[if mso]>
+    <i style="letter-spacing: 25px; mso-font-width: -100%;"> </i>
+    <![endif]-->
+		</a></td>
     <td>Pending Bahasa Ibunda Link Button</td>
     <td>Pending SLS Link Button</td>
   </tr>
@@ -230,12 +238,12 @@ margin-left:25px;
  <div class="row">
   <div class="column">
     <p style="text-align:center;"><strong>Video Gojer</strong>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/krt2ZDcVMfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/krt2ZDcVMfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
     Pelajar diajak berfikir kriteria-kriteria yang diperlukan sebelum mereka membuat keputusan untuk membeli sesuatu barang. </p>
   </div>
   <div class="column">
     <p style="text-align:center;"><strong>Fikir Dahulu</strong>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/BszLFcsHFUQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/BszLFcsHFUQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
     Pelajar diajak memikirkan respons yang sewajarnya apabila berinteraksi dengan orang agar tidak menyinggung perasaan orang lain. </p>
   </div>
  </div>
@@ -253,7 +261,7 @@ Pending image<br/>
 </h4>
   <p>MOE menawarkan dua program elektif Bahasa Melayu yang berikut di peringkat sekolah menengah, jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS: 
 </p>
-<img src="/mlmoe/ml-sec12.png">
+<img src="/mlmoe/ml-sec12.png"><br/>
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
    <label for="tab-1" class="lbML">Program EMAS
@@ -289,53 +297,15 @@ Pending image<br/>
    <label for="tab-2" class="lbML">Program MLEP-Menengah
 </label>
      <div class="tab-content">
-       <p>Pilih untuk meneruskan program <strong>EMAS</strong> atau tukar kepada program <strong>MLEP</strong>
-<br/>
-     <ul><li>Minat dalam sastera Melayu (seperti membaca novel, cerpen dan sajak), 
-</li>
-     <li>Memilih untuk mempelajari sastera Melayu di peringkat Menengah Tiga.
-</li>
-    </ul>
-     </p>
-  <p><u><strong>Biasiswa MLEP-Sec</strong>
- </u><br/>
-       Pelajar MLEP-Sec warganegara Singapura yang cemerlang akan ditawarkan biasiswa oleh Kementerian Pendidikan:
-       <br/>
-  <ul>
-     <li>biasiswa selama dua tahun (Menengah Tiga dan Empat) 
-</li>
-     <li>biasiswa bernilai $1,000 setiap tahun
-</li>
-     <li>yuran sekolah dibiayai (jumlah maksimum $2,400 setiap tahun) 
-
-</li>
-     <li>subsidi penuh bagi Program Penyerapan ke Luar Negara 
-
-</li>
-     <li>sijil pengiktirafan setelah tamat program selama dua tahun 
-
-</li>
-    </ul>
-   </p>  </div></div>
-          
+       Pending Image <br/>
+       <a href="https://sites.google.com/view/emasmlep/home" target="_blank">Untuk maklumat lanjut tentang Program Elektif Bahasa Melayu </a>
+       <a href="https://www.moe.gov.sg/programmes/mlep-sec" target="_blank">Untuk maklumat lanjut tentang Permohonan Biasiswa
+   </a>  </div></div>
+<a href="https://sites.google.com/view/emasmlep/home">Untuk maklumat lanjut tentang Program Elektif Bahasa Melayu Peringkat Sekolah Menengah</a>
+  <p>Pihak sekolah dan MOE telah mengubahsuaikan aktiviti EMAS dan MLEP semasa pandemik COVID-19.</p>
 
    
    <br/>
-   <h4 style="font-size:25px;color:green;">Program Elektif Bahasa Melayu di Peringkat Sekolah Menengah 
-</h4>
-<a href="https://sites.google.com/view/emasmlep/home
-" target="_blank">https://sites.google.com/view/emasmlep/home
-</a>
-
-<h4 style="font-size:25px;color:green;">Sebagai pelajar MLEP-Menengah, anak anda akan berpeluang menikmati aktiviti pengayaan yang berikut:
-</h4>
-<a href="https://sites.google.com/view/emasmlep/home" target="_blank">Untuk maklumat lanjut tentang Program Elektif Bahasa Melayu:
-</a>
-
-<h4 style="font-size:25px;color:green;">Permohonan Biasiswa MLEP-Menengah
-</h4>
-<a href="https://www.moe.gov.sg/programmes/mlep-se" target="_blank">Untuk maklumat lanjut tentang Permohonan Biasiswa:
-</a>
 <h4 style="font-size:25px;color:green;" >PROGRAM DIGITAL ALTERNATIF</h4>
    <table style="font-family: arial, sans-serif;
   border-collapse: collapse;
