@@ -112,20 +112,20 @@ margin-left:25px;
 <img src="/images/TL-Sec_Header.jpg">
 <p>
  <ol>
-   <li><span style="font-size:20px; color:blue;">அறிமுகம் <a href="#C5" style="font-size:32px;">➪ 
+   <li><span style="font-size:20px; color:blue;">அறிமுகம் <a href="#C5"  style="font-size:48px; color:purple;">➪ 
     </a></span></li>
-   <li><span style="font-size:20px; color:blue;">உயர்நிலை <a href="#C1" style="font-size:28px;">➪ 
+   <li><span style="font-size:20px; color:blue;">உயர்நிலை <a href="#C1" style="font-size:40px; color:purple;">➪ 
     </a></span></li>
-   <li><span style="font-size:20px; color:blue;">தமிழ்மொழ <a href="#C2">➪ 
+   <li><span style="font-size:20px; color:blue;">தமிழ்மொழ <a href="#C2" style="font-size:38px; color:purple;">➪ 
     </a></span></li>
-   <li><span style="font-size:20px; color:blue;">தமிழ்மொழிப் பாடத்திட்டம் 2021 <a href="#C3">➪ 
+   <li><span style="font-size:20px; color:blue;">தமிழ்மொழிப் பாடத்திட்டம் 2021 <a href="#C3" style="font-size:48px; color:purple;">➪ 
     </a></span></li>
-   <li><span style="font-size:20px; color:blue;">புதிய கூறுகளும் புதிய முயற்சிகளும் <a href="#C4">➪ 
+   <li><span style="font-size:20px; color:blue;">புதிய கூறுகளும் புதிய முயற்சிகளும் <a href="#C4" style="font-size:48px; color:purple;">➪ 
     </a></span></li>
-   <li><span style="font-size:20px; color:blue;">தமிழ் இலக்கியம் <a href="#C6">➪ 
+   <li><span style="font-size:20px; color:blue;">தமிழ் இலக்கியம் <a href="#C6" style="font-size:48px; color:purple;">➪ 
     </a></span></li>
    <li><span style="font-size:20px; color:blue;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்<br/>
-    (Tamil Language Elective Programme - TLEP) <a href="#C7">➪ 
+    (Tamil Language Elective Programme - TLEP) <a href="#C7" style="font-size:48px; color:purple;">➪ 
     </a></span></li>
   </ol><br/>
   <h2 id="C5">அறிமுகம் 
@@ -174,14 +174,14 @@ margin-left:25px;
  <img src="/images/TL-Sec_Image02.jpg">
  <p>
  <ol>
-   <li><span style="font-size:20px; color:blue;">பண்பாட்டறிவை வளப்படுத்துதல் <a href="#C9">▶ 
+   <li><span style="font-size:20px; color:blue;">பண்பாட்டறிவை வளப்படுத்துதல் <a href="#C9" style="font-size:32px;">▶ 
     </a></span></li>
-   <li><span style="font-size:20px; color:blue;">இலக்கியப் பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல் <a href="#C10">▶ 
+   <li><span style="font-size:20px; color:blue;">இலக்கியப் பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல் <a href="#C10" style="font-size:32px;">▶ 
     </a></span></li>
-   <li><span style="font-size:20px; color:blue;">மொழி கற்றலுக்குத் துணைவளமாக அமையும் தற்கால நடப்புச் செய்திகள் <a href="#C11">▶ 
+   <li><span style="font-size:20px; color:blue;">மொழி கற்றலுக்குத் துணைவளமாக அமையும் தற்கால நடப்புச் செய்திகள் <a href="#C11" style="font-size:32px;">▶ 
     </a></span></li>
    <li><span style="font-size:20px; color:blue;">தகவல் தொடர்புத் தொழில்நுட்பத்தின் கூடுதல் ஒருங்கிணைப்பு<br/>
-(Tamil Language Elective Programme) <a href="#C12">▶ 
+(Tamil Language Elective Programme) <a href="#C12" style="font-size:32px;">▶ 
     </a></span></li>
   </ol><br/>
 
@@ -191,8 +191,8 @@ margin-left:25px;
 ஆகவே, பண்பாட்டறிவை வளப்படுத்தும் கற்றல் கற்பித்தலுக்குரிய வளங்கள் பாடநூலில்  இணைக்கப்பெற்றிருக்கின்றன.</p>
      <img src="/images/TL-Sec_Image03.jpg">
  
- <h2 id="C10" style="text-align:justify;"><center>இலக்கியப் பனுவல்களின் <br/>
-   வாயிலாக மொழி ஈடுபாட்டை <br/>
+ <h2 id="C10" style="text-align:justify;"><center>இலக்கியப் &nbsp; பனுவல்களின் <br/><br/>
+   வாயிலாக &nbsp; மொழி &nbsp; ஈடுபாட்டை <br/><br/>
   வளர்த்தல்
  </center></h2>
 <p style="text-align:justify; padding: 8px; font-size:20px;">மாணவர்களின் மொழியறிவுக்கு ஏற்ற நல்ல இலக்கிய பனுவல்கள் கற்பனையாற்றலைத் தூண்டி நூல் வாசித்தலில் ஈர்ப்பை ஏற்படுத்தும். அதனால், அவர்களின் மொழி கற்றல் மேம்பட்டு, அவர்கள் பரந்துபட்ட நிலையில் வாசிக்க தொடங்குவார்கள்.<br/>
