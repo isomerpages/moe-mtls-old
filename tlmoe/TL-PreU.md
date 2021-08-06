@@ -137,7 +137,7 @@ margin-left:25px;
 </li>
      </ul></td>
   <td>
-   <table border="1" cellpadding="4" cellspacing ="0">
+   <table border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border: 1px solid #ccc;">
    <img src="/tlmoe/h1-lens.png" style="width: 80%"><br/><span style="font-size:20px; font-weight:bold; color: purple;">உயர்தரம் 1 
 பரந்துபட்ட மூன்று கருப்பொருள்கள் </span>
    </table>
