@@ -154,50 +154,27 @@ margin-left:25px;
  <table>
   <tr>
     <td style="text-align:justify;">Kurikulum Sekolah Menengah sudahpun melalui semakan pada tahun 2020 dan sedang diguna pakai oleh kohort pertama Menengah Satu pada tahun ini.  Kurikulum baharu ini merupakan satu kesinambungan bagi pelajar-pelajar sekolah rendah yang menggunakan Kurikulum Bahasa Melayu 2015. Kurikulum Bahasa Melayu (Sekolah Menengah) memperkukuh keupayaan pleajar berinterasi secara lisan dan penulisan dalam konteks yang autentik serta memberikan peluang bagi pelajar untuk bertutur dan meluahkan pandangan dalam Bahasa Melayu.</td>
-  </tr>
-  <tr>
-    <td><img src="/mlmoe/ml-sec1.jpg" style="width:100%;"></td><br/>
-    <td><a href="https://www.moe.gov.sg/education" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
-    <!--[if mso]>
-    <i style="letter-spacing: 25px; mso-font-width: -100%; mso-text-raise: 30pt;"> </i>
-    <![endif]-->
+    <td><img src="/mlmoe/ml-sec1.jpg" style="width:100%;"><br/>
+    <a href="https://www.moe.gov.sg/education" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
     <span style="mso-text-raise: 15pt;">MOE</span>
-    <!--[if mso]>
-    <i style="letter-spacing: 25px; mso-font-width: -100%;"> </i>
-    <![endif]-->
-		</a></td>
-    <td><a href="https://www.moe.gov.sg/education" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
+		</a>
+    <a href="https://www.moe.gov.sg/education/syllabuses/mother-tongue-languages" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
     <span style="mso-text-raise: 15pt;">Bahasa Ibunda</span>
+		</a>
+    <a href="https://vle.learning.moe.edu.sg" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
+    <span style="mso-text-raise: 15pt;">SLS</span>
+		</a><br/>
+    <a href="https://academyofsingaporeteachers.moe.edu.sg" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
+    <span style="mso-text-raise: 15pt;">AST</span>
+		</a>
+    <a href="https://academyofsingaporeteachers.moe.edu.sg/mlcs" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
+    <span style="mso-text-raise: 15pt;">Pusat Bahasa Melayu Singapura</span>
+		</a>
+    <a href="https://idm.opal2.moe.edu.sg" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
+    <span style="mso-text-raise: 15pt;">Opal 2.0 Link Button</span>
 		</a></td>
-    <td>Pending SLS Link Button</td>
-  </tr>
-  <tr>
-    <td>Pending AST Link Button</td>
-    <td>Pending Pusat Bahasa Melayu Singapura Link Button</td>
-    <td>Pending Opal 2.0 Link Button</td>
   </tr>
  </table></center>
-  
-   <p>MOE: </p>
-  <a href="https://www.moe.gov.sg/education
-" target="_blank">https://www.moe.gov.sg/education
-</a>
-   <p>Bahasa Ibunda:</p>
-  <a href="https://www.moe.gov.sg/education/syllabuses/mother-tongue-languages
-" target="_blank">https://www.moe.gov.sg/education/syllabuses/mother-tongue-languages
-</a>
- <p>SLS: </p>
-  <a href="https://vle.learning.moe.edu.sg" target="_blank">https://vle.learning.moe.edu.sg</a>
-<p>AST: </p>
-  <a href="https://academyofsingaporeteachers.moe.edu.sg" target="_blank">https://academyofsingaporeteachers.moe.edu.sg</a>
-<p>Pusat Bahasa Melayu Singapura: </p>
-<a href="https://academyofsingaporeteachers.moe.edu.sg/mlcs
-" target="_blank">https://academyofsingaporeteachers.moe.edu.sg/mlcs
-</a>
-<p>OPAL2.0: </p>
-  <a href="https://idm.opal2.moe.edu.sg
-" target="_blank">https://idm.opal2.moe.edu.sg
-</a>
   
   <h4  style="font-size:25px;color:green;" >EMPAT CIRI UTAMA
 </h4>
