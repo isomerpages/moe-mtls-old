@@ -219,7 +219,7 @@ margin-left:25px;
   <p style="text-align:justify;">Pembelajaran Teradun menjadi fitur umum dalam persekolahan pada tahun 2021. Pembelajaran Teradun merupakan pembelajaran yang menggabungkan pembelajaran di rumah dengan pengalaman pembelajaran di sekolah. Pelajar akan mengalami Pembelajaran dari Rumah (HBL) sehari dalam dua minggu, bergantung pada sekolah. Pembelajaran Teradun memperkuku keupayaan pelajar untuk belajar secara kendiri sejajar dengan gerakan Belajar Sepanjang Hayat yang dianjurkan oleh MOE. 
 </p>
   <h4 style="text-align:justify;"><center>Bahan-bahan digital yang menyokong Pembelajaran Teradun</center></h4>
-<p style="text-align:justify;"><strong>Perbincangan berdasarkan Video</strong></p>
+<p style="text-align:justify;" bgcolor="green"><strong>Perbincangan berdasarkan Video</strong></p>
 <center>
  <div class="row">
   <div class="column">
