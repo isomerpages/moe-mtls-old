@@ -296,11 +296,12 @@ margin-left:25px;
 </label>
      <div class="tab-content">
        Pending Image <br/>
-       <a href="https://sites.google.com/view/emasmlep/home" target="_blank">Untuk maklumat lanjut tentang Program Elektif Bahasa Melayu </a>
+       <a href="https://sites.google.com/view/emasmlep/home" target="_blank">Untuk maklumat lanjut tentang Program Elektif Bahasa Melayu </a><br/>
        <a href="https://www.moe.gov.sg/programmes/mlep-sec" target="_blank">Untuk maklumat lanjut tentang Permohonan Biasiswa
    </a>  </div></div>
-<a href="https://sites.google.com/view/emasmlep/home">Untuk maklumat lanjut tentang Program Elektif Bahasa Melayu Peringkat Sekolah Menengah</a>
-  <p>Pihak sekolah dan MOE telah mengubahsuaikan aktiviti EMAS dan MLEP semasa pandemik COVID-19.</p>
+   <br/>
+<a href="https://sites.google.com/view/emasmlep/home">Untuk maklumat lanjut tentang Program Elektif Bahasa Melayu Peringkat Sekolah Menengah</a><br/>
+  <p style="text-align:justify">Pihak sekolah dan MOE telah mengubahsuaikan aktiviti EMAS dan MLEP semasa pandemik COVID-19.</p>
 
    
    <br/>
@@ -389,69 +390,6 @@ margin-left:25px;
 </h4>
 <p style="text-align:justify;">Jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS.
 </p>
-<div class="atab">
-      <input id="tab-1" type="checkbox" name="tab">
-   <label for="tab-1" class="lbML">Program EMAS
-</label>
-     <div class="tab-content">
-       <p>Pilih sekolah menengah <strong>EMAS </strong> & <strong> MLEP</strong><br/>
-     <ul><li>Sekolah Menengah Anderson
-</li>
-     <li>Sekolah Tinggi Pemerintah Bukit Panjang
-</li>
-     <li>Sekolah Menengah Tanjong Katong
-</li>
-    </ul>
-     </p>
-  <p><u><strong>Program Pengayaan </strong></u><br/>
-     <ul>
-     <li>Perkhemahan Bahasa & Budaya
-</li>
-     <li>Bengkel Penulisan Kreatif</li>
-     <li>Penerbitan Karya Pelajar
-</li>
-     <li>Program Penyerapan ke Luar Negara
-</li>
-     <li>Pendedahan Seni dan Budaya
-</li>
-    </ul>
-  <a href="https://sites.google.com/view/emasmlep/home?authuser=0" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu
- </a>
-   </p>  </div></div>
-   
-  <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-   <label for="tab-2" class="lbML">Program MLEP-Sec
-</label>
-     <div class="tab-content">
-       <p>Pilih untuk meneruskan program <strong>EMAS</strong> atau tukar kepada program <strong>MLEP</strong>
-<br/>
-     <ul><li>Minat dalam sastera Melayu (seperti membaca novel, cerpen dan sajak), 
-</li>
-     <li>Memilih untuk mempelajari sastera Melayu di peringkat Menengah Tiga.
-</li>
-    </ul>
-     </p>
-  <p><u><strong>Biasiswa MLEP-Sec</strong>
- </u><br/>
-       Pelajar MLEP-Sec warganegara Singapura yang cemerlang akan ditawarkan biasiswa oleh Kementerian Pendidikan:
-       <br/>
-  <ul>
-     <li>biasiswa selama dua tahun (Menengah Tiga dan Empat) 
-</li>
-     <li>biasiswa bernilai $1,000 setiap tahun
-</li>
-     <li>yuran sekolah dibiayai (jumlah maksimum $2,400 setiap tahun) 
-
-</li>
-     <li>subsidi penuh bagi Program Penyerapan ke Luar Negara 
-
-</li>
-     <li>sijil pengiktirafan setelah tamat program selama dua tahun 
-
-</li>
-    </ul>
-   </p>  </div></div>
 
 <h4  style="font-size:25px;color:green;" >Program-program Bahasa & Budaya Melayu</h4> 
 <p style="font-size:22px;text-align:justify;">Bagi menggalakkan penggunaan dan pendedahan pada bahasa Melayu, sertailah program-program bahasa dan budaya yang telah dianjurkan. Bawa bersama keluarga anda menghadiri aktiviti-aktiviti ini. Anda juga boleh melawat tempat-tempat yang disarankan.
