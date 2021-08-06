@@ -117,7 +117,7 @@ margin-left:25px;
     <a href="#C5"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
      </a></li>
    <li><span style="font-size:20px; color:blue;">உயர்நிலை </span>
-    <a href="#C1""><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
+    <a href="#C1"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
     </a></li>
    <li><span style="font-size:20px; color:blue;">தமிழ்மொழ <a href="#C2" style="font-size:40px; color:purple;">➣ 
     </a></span></li>
