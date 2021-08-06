@@ -168,7 +168,7 @@ margin-left:25px;
     <td><a href="https://vle.learning.moe.edu.sg" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
     <span style="mso-text-raise: 15pt;">SLS</span>
 		</a></td>
-    <a href="https://academyofsingaporeteachers.moe.edu.sg" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
+    <td><a href="https://academyofsingaporeteachers.moe.edu.sg" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
     <span style="mso-text-raise: 15pt;">AST</span>
 	  </a></td>
 	 </tr>
