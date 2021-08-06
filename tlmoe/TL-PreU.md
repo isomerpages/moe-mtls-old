@@ -135,8 +135,7 @@ margin-left:25px;
 </li>
       <li style="text-align:justify;">உலகளாவிய நோக்கில் சிங்கப்பூர் வகிக்கும் இடங்குறித்துத் தெளிவான புரிந்துணர்வைப் பெற்றிருப்பர் 
 </li>
-  </ul></td>
-  <tr> 
+     </ul></td>
   <td>
     <table width="100%" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border: 1px solid #ccc;">
      <tr>  
@@ -144,7 +143,6 @@ margin-left:25px;
 பரந்துபட்ட மூன்று கருப்பொருள்கள் </span>
     </td>
   </tr> 
- </tr>
 </table>
 </td>
 </table>
