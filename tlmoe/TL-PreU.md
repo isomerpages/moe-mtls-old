@@ -114,13 +114,15 @@ margin-left:25px;
 <img src="/images/TL-PreU-Header.jpg">
 
 <br/>
-<h4 id="C1"><span style="font-size:30px;color:purple;">தாய்மொழியின் இலக்கு
+<h4><span style="font-size:30px;color:purple;">தாய்மொழியின் இலக்கு
  </span></h4>
+ <p style="text-align:justify;"> வருங்காலச் சிங்கப்பூர்த் தமிழ்ச் சந்ததியினரிடையே தமிழ் வாழும் மொழியாகத் திகழ வேண்டும். பலவகைப் பண்பாட்டுப் பாரம்பரியத்தைக் கொண்டு உலக நகராக விளங்கும் சிங்கப்பூரின் தனித்தன்மைக்கு வலுவூட்டும் அம்சமாக அது விளங்க வேண்டும்.</p><br/>
   <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
     <label for="tab-1" style="font-family:KaiTi;font-size:22px" class="lbTM">உயர்தரம் பாடக்கலைத்திட்டம் முக்கியத் தகவல்கள்
 </label>
      <div class="tab-content">
+      <br/>
      <h4>உயர்தரம் 1 பாடக்கலைத்திட்டத்தின் முக்கிய நோக்கங்கள்</h4>
      <p><strong>மாணவர்கள் </strong></p>
      <table style=" border-collapse: collapse;
@@ -129,7 +131,7 @@ margin-left:25px;
     <td style=" text-align: left;
   padding: 8px;font-size:20px;">
   <ul>
-  <li style="text-align:justify;">தம் தாய்மொழியில் தன்னம்பிக்கையுடன் பேசுவதோடு மொழித்திறன்களையும் மேம்படுத்திக்கொள்வர்.
+  <li>தம் &nbsp; தாய்மொழியில் &nbsp; தன்னம்பிக்கையுடன் &nbsp; பேசுவதோடு &nbsp; மொழித்திறன்களையும் &nbsp; மேம்படுத்திக்கொள்வர்.
 </li>
     <li style="text-align:justify;">மரபு, பண்பாடு, வரலாறு, இலக்கியம் ஆகியவற்றைப் போற்றுவதன்வழி தேசிய, பண்பாட்டு அடையாளத்தைப் புரிந்துகொள்வர்.
 
