@@ -136,7 +136,7 @@ margin-left:25px;
       <li style="text-align:justify;">உலகளாவிய நோக்கில் சிங்கப்பூர் வகிக்கும் இடங்குறித்துத் தெளிவான புரிந்துணர்வைப் பெற்றிருப்பர் 
 </li>
   </ul></td>
-    <td><img src="/tlmoe/h1-lens.png" style="width: 80%"><br/><span style="font-size:20px; font-weight:bold; color: purple;">உயர்தரம் 1 
+    <td><img src="/tlmoe/h1-lens.png" style="width: 60%"><br/><span style="font-size:20px; font-weight:bold; color: purple;">உயர்தரம் 1 
 பரந்துபட்ட மூன்று கருப்பொருள்கள் </span>
     </td>
   </tr>
@@ -177,7 +177,7 @@ margin-left:25px;
 <li  style="text-align:justify;">இந்தப் பாடத்திட்டத்தில் 21-ஆம் நூற்றாண்டுத்திறன் சட்டகத்தில் இடம்பெற்றுள்ள  திறன்வளர்ச்சியையும் விழுமியங்களையும் பெற்று அவற்றை முறையே பயன்படுத்தும் ஆற்றலை மாணவர்கள் வளர்த்துக்கொள்வர்.
 </li>
 </ul>
-<img src="/tlmoe/21st-cc-diagram.png">
+<img src="/tlmoe/21st-cc-diagram.png" style="width:70%">
     </div></div>
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
