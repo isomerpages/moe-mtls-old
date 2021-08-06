@@ -191,7 +191,10 @@ margin-left:25px;
 ஆகவே, பண்பாட்டறிவை வளப்படுத்தும் கற்றல் கற்பித்தலுக்குரிய வளங்கள் பாடநூலில்  இணைக்கப்பெற்றிருக்கின்றன.</p>
      <img src="/images/TL-Sec_Image03.jpg">
  
- <h2 id="C10"><center>இலக்கியப் பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல் </center></h2>
+ <h2 id="C10" style="text-align:justify;"><center>இலக்கியப் பனுவல்களின் <br/>
+   வாயிலாக மொழி ஈடுபாட்டை <br/>
+  வளர்த்தல்
+ </center></h2>
 <p style="text-align:justify; padding: 8px; font-size:20px;">மாணவர்களின் மொழியறிவுக்கு ஏற்ற நல்ல இலக்கிய பனுவல்கள் கற்பனையாற்றலைத் தூண்டி நூல் வாசித்தலில் ஈர்ப்பை ஏற்படுத்தும். அதனால், அவர்களின் மொழி கற்றல் மேம்பட்டு, அவர்கள் பரந்துபட்ட நிலையில் வாசிக்க தொடங்குவார்கள்.<br/>
  <br/>
 இதற்கு ஏதுவாக ஒவ்வோர் ஆண்டும் மாணவர்களுக்கு இலக்கியப் பனுவல்கள் அறிமுகப்படுத்தப்பெறுகின்றன.  இவ்வாண்டு உயர்நிலை ஒன்று மாணவர்களுக்குச் சிறுகதைகள் பாடவளங்களாக வழங்கப்பெற்றுள்ளன.
@@ -202,7 +205,7 @@ margin-left:25px;
 <img src="/images/TL-Sec_Image04.jpg"><br/><br/>
    <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-    <label for="tab-2" style="font-family:KaiTi;font-size:22px" class="lbCh">மாணவர் கற்றல் தளம்
+    <label for="tab-2" style="font-family:KaiTi;font-size:22px; text-align:justify;" class="lbCh">மாணவர் கற்றல் தளம்
 </label>
      <div class="tab-content">
 <center>
@@ -211,7 +214,7 @@ margin-left:25px;
 
    <div class="atab">
      <input id="tab-3" type="checkbox" name="tab">
-   <label for="tab-3" style="font-size:18px; text-align:justify;">எழுத்திலிருந்து பேச்சுமொழி வடிவமாற்றாம்
+   <label for="tab-3" style="font-size:22px; text-align:justify;">எழுத்திலிருந்து பேச்சுமொழி வடிவமாற்றாம்
 </label>
      <div class="tab-content">
 <center>
