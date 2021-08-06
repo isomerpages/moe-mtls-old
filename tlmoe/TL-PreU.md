@@ -122,13 +122,11 @@ margin-left:25px;
     <label for="tab-1" style="font-family:KaiTi;font-size:22px" class="lbTM">உயர்தரம் பாடக்கலைத்திட்டம் முக்கியத் தகவல்கள்
 </label>
      <div class="tab-content">
-     <h4>உயர்தரம் 1 பாடக்கலைத்திட்டத்தின் முக்கிய நோக்கங்கள்</h4>
+     <h4 style="padding-top: 24px;">உயர்தரம் 1 பாடக்கலைத்திட்டத்தின் முக்கிய நோக்கங்கள்</h4>
      <p><strong>மாணவர்கள் </strong></p>
-     <table style=" border-collapse: collapse;
-  width: 100%;">
+<table style=" border-collapse: collapse; width: 100%;">
  <tr>
-    <td style=" text-align: left;
-  padding: 8px;font-size:20px;">
+    <td style=" text-align: left; padding: 8px;font-size:20px;">
   <ul>
   <li>தம் &nbsp; தாய்மொழியில் &nbsp; தன்னம்பிக்கையுடன் &nbsp; பேசுவதோடு &nbsp; மொழித்திறன்களையும் &nbsp; மேம்படுத்திக்கொள்வர்.
 </li>
@@ -140,8 +138,8 @@ margin-left:25px;
   </ul></td>
     <td><img src="/tlmoe/h1-lens.png"><br/><span style="font-size:20px; color:purple;"><strong>உயர்தரம் 1 
 பரந்துபட்ட மூன்று கருப்பொருள்கள் <strong></span>
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 <h4>உயர்தரம் 2 & 3 பாடக்கலைத்திட்டத்தின் முக்கிய நோக்கங்கள்
 </h4>
