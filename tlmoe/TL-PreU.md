@@ -130,7 +130,7 @@ margin-left:25px;
   <ul>
   <li>தம் &nbsp; தாய்மொழியில் &nbsp; தன்னம்பிக்கையுடன் &nbsp; பேசுவதோடு &nbsp; மொழித்திறன்களையும் &nbsp; மேம்படுத்திக்கொள்வர்.
 </li>
-    <li style="text-align:justify;">மரபு, பண்பாடு, வரலாறு, இலக்கியம் ஆகியவற்றைப் போற்றுவதன்வழி தேசிய, பண்பாட்டு அடையாளத்தைப் புரிந்துகொள்வர்.
+    <li>மரபு, பண்பாடு, வரலாறு, இலக்கியம் ஆகியவற்றைப் போற்றுவதன்வழி தேசிய, பண்பாட்டு அடையாளத்தைப் புரிந்துகொள்வர்.
 
 </li>
       <li style="text-align:justify;">உலகளாவிய நோக்கில் சிங்கப்பூர் வகிக்கும் இடங்குறித்துத் தெளிவான புரிந்துணர்வைப் பெற்றிருப்பர் 
@@ -163,7 +163,7 @@ margin-left:25px;
 
 </li>
   </ul></td>
-    <td><img src="/tlmoe/h2-lens.png"><br/><span style="font-size:20px; font-weight:bold; font-color:purple;">உயர்தரம் 2 & 3 
+    <td><img src="/tlmoe/h2-lens.png"><br/><span style="font-size:20px; font-weight:bold; color:purple;">உயர்தரம் 2 & 3 
      பரந்துபட்ட மூன்று கருப்பொருள்கள் 
 </span></td>
   
