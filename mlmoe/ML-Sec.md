@@ -150,8 +150,22 @@ margin-left:25px;
   <h4 style="font-size:25px;color:green;">KURIKULUM SEKOLAH MENENGAH<br/>
     (Pelaksanaan bermula pada Tahun 2021, kohort Menengah 1)
 </h4>
-  <p style="text-align:justify;">Kurikulum Sekolah Menengah sudahpun melalui semakan pada tahun 2020 dan sedang diguna pakai oleh kohort pertama Menengah Satu pada tahun ini.  Kurikulum baharu ini merupakan satu kesinambungan bagi pelajar-pelajar sekolah rendah yang menggunakan Kurikulum Bahasa Melayu 2015. Kurikulum Bahasa Melayu (Sekolah Menengah) memperkukuh keupayaan pleajar berinterasi secara lisan dan penulisan dalam konteks yang autentik serta memberikan peluang bagi pelajar untuk bertutur dan meluahkan pandangan dalam Bahasa Melayu.</p>
-  <img src="/mlmoe/ml-sec1.jpg" style="width:100%;">
+   <center>
+ <table>
+  <tr>
+    <td rowspan="3" style="text-align:justify;">Kurikulum Sekolah Menengah sudahpun melalui semakan pada tahun 2020 dan sedang diguna pakai oleh kohort pertama Menengah Satu pada tahun ini.  Kurikulum baharu ini merupakan satu kesinambungan bagi pelajar-pelajar sekolah rendah yang menggunakan Kurikulum Bahasa Melayu 2015. Kurikulum Bahasa Melayu (Sekolah Menengah) memperkukuh keupayaan pleajar berinterasi secara lisan dan penulisan dalam konteks yang autentik serta memberikan peluang bagi pelajar untuk bertutur dan meluahkan pandangan dalam Bahasa Melayu.</td>
+  </tr>
+  <tr>
+    <td><img src="/mlmoe/ml-sec1.jpg" style="width:100%;"></td>
+    <td>Pending MOE Link Button</td>
+    <td>Pending Bahasa Ibunda Link Button</td>
+    <td>Pending SLS Link Button</td>
+    <td>Pending AST Link Button</td>
+    <td>Pending Pusat Bahasa Melayu Singapura Link Button</td>
+    <td>Pending Opal 2.0 Link Button</td>
+  </tr>
+  </table></center>
+  
    <p>MOE: </p>
   <a href="https://www.moe.gov.sg/education
 " target="_blank">https://www.moe.gov.sg/education
