@@ -112,20 +112,20 @@ margin-left:25px;
 <img src="/images/TL-Sec_Header.jpg">
 <p>
  <ol>
-   <li><span style="font-size:20px; color:blue;">அறிமுகம் <a href="#C5"  style="font-size:48px; color:purple;">➪ 
+   <li><span style="font-size:20px; color:blue;">அறிமுகம் <a href="#C5"  style="font-size:40px; color:purple;">➪ 
     </a></span></li>
    <li><span style="font-size:20px; color:blue;">உயர்நிலை <a href="#C1" style="font-size:40px; color:purple;">➪ 
     </a></span></li>
-   <li><span style="font-size:20px; color:blue;">தமிழ்மொழ <a href="#C2" style="font-size:38px; color:purple;">➪ 
+   <li><span style="font-size:20px; color:blue;">தமிழ்மொழ <a href="#C2" style="font-size:40px; color:purple;">➪ 
     </a></span></li>
-   <li><span style="font-size:20px; color:blue;">தமிழ்மொழிப் பாடத்திட்டம் 2021 <a href="#C3" style="font-size:48px; color:purple;">➪ 
+   <li><span style="font-size:20px; color:blue;">தமிழ்மொழிப் பாடத்திட்டம் 2021 <a href="#C3" style="font-size:40px; color:purple;">➪ 
     </a></span></li>
-   <li><span style="font-size:20px; color:blue;">புதிய கூறுகளும் புதிய முயற்சிகளும் <a href="#C4" style="font-size:48px; color:purple;">➪ 
+   <li><span style="font-size:20px; color:blue;">புதிய கூறுகளும் புதிய முயற்சிகளும் <a href="#C4" style="font-size:40px; color:purple;">➪ 
     </a></span></li>
-   <li><span style="font-size:20px; color:blue;">தமிழ் இலக்கியம் <a href="#C6" style="font-size:48px; color:purple;">➪ 
+   <li><span style="font-size:20px; color:blue;">தமிழ் இலக்கியம் <a href="#C6" style="font-size:40px; color:purple;">➪ 
     </a></span></li>
    <li><span style="font-size:20px; color:blue;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்<br/>
-    (Tamil Language Elective Programme - TLEP) <a href="#C7" style="font-size:48px; color:purple;">➪ 
+    (Tamil Language Elective Programme - TLEP) <a href="#C7" style="font-size:40px; color:purple;">➪ 
     </a></span></li>
   </ol><br/>
   <h2 id="C5">அறிமுகம் 
@@ -160,7 +160,7 @@ margin-left:25px;
  <iframe width="560" height="315" src="https://www.youtube.com/embed/6sBb03SK3wI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
  <h2 id="C3">தமிழ்மொழிப் பாடத்திட்டம் 2021</h2>
 <p><img src="/images/TL-Sec_Image01.jpg"><br/>
- 2021 Tamil Curriculum<a href="2021 Secondary Curriculum Link https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf" target="_blank">▶</a></p>
+ 2021 Tamil Curriculum<a href="2021 Secondary Curriculum Link https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf" target="_blank" style="font-size:40px; color:purple;">▶</a></p>
  <center>
  <span style="font-size:18px;">உயர்நிலைத் &nbsp; தமிழ்மொழிப் &nbsp; பாடத்திட்ட &nbsp; வெளியீடு:</span><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rGFqD2sxPfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -174,14 +174,14 @@ margin-left:25px;
  <img src="/images/TL-Sec_Image02.jpg">
  <p>
  <ol>
-   <li><span style="font-size:20px; color:blue;">பண்பாட்டறிவை வளப்படுத்துதல் <a href="#C9" style="font-size:32px;">▶ 
+   <li><span style="font-size:20px; color:blue;">பண்பாட்டறிவை வளப்படுத்துதல் <a href="#C9" style="font-size:40px; color:purple;">▶ 
     </a></span></li>
-   <li><span style="font-size:20px; color:blue;">இலக்கியப் பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல் <a href="#C10" style="font-size:32px;">▶ 
+   <li><span style="font-size:20px; color:blue;">இலக்கியப் பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல் <a href="#C10" style="font-size:40px; color:purple;">▶ 
     </a></span></li>
-   <li><span style="font-size:20px; color:blue;">மொழி கற்றலுக்குத் துணைவளமாக அமையும் தற்கால நடப்புச் செய்திகள் <a href="#C11" style="font-size:32px;">▶ 
+   <li><span style="font-size:20px; color:blue;">மொழி கற்றலுக்குத் துணைவளமாக அமையும் தற்கால நடப்புச் செய்திகள் <a href="#C11" style="font-size:40px; color:purple;">▶ 
     </a></span></li>
    <li><span style="font-size:20px; color:blue;">தகவல் தொடர்புத் தொழில்நுட்பத்தின் கூடுதல் ஒருங்கிணைப்பு<br/>
-(Tamil Language Elective Programme) <a href="#C12" style="font-size:32px;">▶ 
+(Tamil Language Elective Programme) <a href="#C12" style="font-size:40px; color:purple;">▶ 
     </a></span></li>
   </ol><br/>
 
@@ -191,8 +191,8 @@ margin-left:25px;
 ஆகவே, பண்பாட்டறிவை வளப்படுத்தும் கற்றல் கற்பித்தலுக்குரிய வளங்கள் பாடநூலில்  இணைக்கப்பெற்றிருக்கின்றன.</p>
      <img src="/images/TL-Sec_Image03.jpg">
  
- <h2 id="C10" style="text-align:justify;"><center>இலக்கியப் &nbsp; பனுவல்களின் <br/><br/>
-   வாயிலாக &nbsp; மொழி &nbsp; ஈடுபாட்டை <br/><br/>
+ <h2 id="C10" style="text-align:justify;"><center>இலக்கியப் &nbsp; பனுவல்களின் <br/>
+   வாயிலாக &nbsp; மொழி &nbsp; ஈடுபாட்டை <br/>
   வளர்த்தல்
  </center></h2>
 <p style="text-align:justify; padding: 8px; font-size:20px;">மாணவர்களின் மொழியறிவுக்கு ஏற்ற நல்ல இலக்கிய பனுவல்கள் கற்பனையாற்றலைத் தூண்டி நூல் வாசித்தலில் ஈர்ப்பை ஏற்படுத்தும். அதனால், அவர்களின் மொழி கற்றல் மேம்பட்டு, அவர்கள் பரந்துபட்ட நிலையில் வாசிக்க தொடங்குவார்கள்.<br/>
@@ -255,7 +255,7 @@ margin-left:25px;
  <strong>உயர்நிலை 3-இல்</strong> பயிலும் மாணவர்களுக்குத் தமிழ் இலக்கியம் ஒரு பாடமாக வழங்கப்படுகிறது. <br/>
  இப்பாடத்தைப் பயில விரும்பும் மாணவர்கள் உயர்நிலை 2 இறுதியில் <strong>தமிழ்மொழியில்</strong> A2 அல்லது <strong>உயர்தமிழில் </strong>B3 பெற்றிருத்தல் வேண்டும். </p>
 <img src="/images/TL-Sec_Image08.jpg">
-<p>தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019<a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank">▶</a></p>
+<p>தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019<a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank" style="font-size:40px; color:purple;">▶</a></p>
 
 <h2 id="C7">தமிழ்மொழி விருப்பப்பாடத் திட்டம் (Tamil Language Elective Programme - TLEP)</h2>
 <p style="text-align:justify;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. இத்திட்டம் உயர்நிலை 3-இல் தமிழ் இலக்கியம் பயிலும் மாணவர்களுக்கு உரியது. இது தற்போது மூன்று உயர்நிலைப்பள்ளிகளில் செயற்படுத்தப்படுகிறது.
