@@ -168,7 +168,7 @@ margin-left:25px;
  <iframe width="560" height="315" src="https://www.youtube.com/embed/6sBb03SK3wI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
  <h2 id="C3">தமிழ்மொழிப் பாடத்திட்டம் 2021</h2><br/>
 <img src="/images/TL-Sec_Image01.jpg"><br/>
- 2021 Tamil Curriculum<a href="2021 Secondary Curriculum Link https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf" target="_blank"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"></a>
+ 2021 Tamil Curriculum<a href="https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf" target="_blank"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"></a>
  <center>
  <span style="font-size:18px;">உயர்நிலைத் &nbsp; தமிழ்மொழிப் &nbsp; பாடத்திட்ட &nbsp; வெளியீடு:</span><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rGFqD2sxPfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
