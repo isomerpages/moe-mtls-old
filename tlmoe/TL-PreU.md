@@ -122,7 +122,7 @@ margin-left:25px;
     <label for="tab-1" style="font-family:KaiTi;font-size:22px" class="lbTM">உயர்தரம் பாடக்கலைத்திட்டம் முக்கியத் தகவல்கள்
 </label>
      <div class="tab-content">
-     <h4 style="padding-top: 24px;">உயர்தரம் 1 பாடக்கலைத்திட்டத்தின் முக்கிய நோக்கங்கள்</h4>
+     <h4>உயர்தரம் 1 பாடக்கலைத்திட்டத்தின் முக்கிய நோக்கங்கள்</h4>
      <p><strong>மாணவர்கள் </strong></p>
      <table style=" border-collapse: collapse;
   width: 100%;">
