@@ -362,10 +362,6 @@ margin-left:25px;
     <img src="/mlmoe/ml-sec23.png" style="margin-top: -182px;margin-left: 7px;"></td>
   </tr>
   </table>
-<h4  style="font-size:25px;color:green;" >Program Elektif Bahasa Melayu Sekolah Menengah
-</h4>
-<p style="text-align:justify;">Jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS.
-</p>
 
 <h4  style="font-size:25px;color:green;" >Program-program Bahasa & Budaya Melayu</h4> 
 <p style="font-size:22px;text-align:justify;">Bagi menggalakkan penggunaan dan pendedahan pada bahasa Melayu, sertailah program-program bahasa dan budaya yang telah dianjurkan. Bawa bersama keluarga anda menghadiri aktiviti-aktiviti ini. Anda juga boleh melawat tempat-tempat yang disarankan.
