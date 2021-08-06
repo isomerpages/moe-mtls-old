@@ -265,29 +265,7 @@ margin-left:25px;
    <label for="tab-1" class="lbML">Program EMAS
 </label>
      <div class="tab-content">
-       <p>Pilih sekolah menengah <strong>EMAS </strong> & <strong> MLEP</strong><br/>
-     <ul><li>Sekolah Menengah Anderson
-</li>
-     <li>Sekolah Tinggi Pemerintah Bukit Panjang
-</li>
-     <li>Sekolah Menengah Tanjong Katong
-</li>
-    </ul>
-     </p>
-  <p><u><strong>Program Pengayaan </strong></u><br/>
-     <ul>
-     <li>Perkhemahan Bahasa & Budaya
-</li>
-     <li>Bengkel Penulisan Kreatif</li>
-     <li>Penerbitan Karya Pelajar
-</li>
-     <li>Program Penyerapan ke Luar Negara
-</li>
-     <li>Pendedahan Seni dan Budaya
-</li>
-    </ul>
-  <a href="https://sites.google.com/view/emasmlep/home?authuser=0" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu
- </a>
+       <p>Pending Image
    </p>  </div></div>
    
   <div class="atab">
