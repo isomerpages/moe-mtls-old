@@ -154,29 +154,29 @@ margin-left:25px;
  <table style="column-width:60%">
   <tr>
     <td rowspan="4" style="text-align:justify;">Kurikulum Sekolah Menengah sudahpun melalui semakan pada tahun 2020 dan sedang diguna pakai oleh kohort pertama Menengah Satu pada tahun ini.  Kurikulum baharu ini merupakan satu kesinambungan bagi pelajar-pelajar sekolah rendah yang menggunakan Kurikulum Bahasa Melayu 2015. Kurikulum Bahasa Melayu (Sekolah Menengah) memperkukuh keupayaan pleajar berinterasi secara lisan dan penulisan dalam konteks yang autentik serta memberikan peluang bagi pelajar untuk bertutur dan meluahkan pandangan dalam Bahasa Melayu.</td>
-    <td colspan="3"><img src="/mlmoe/ml-sec1.jpg" style="width:100%;"></td>
+    <td><img src="/mlmoe/ml-sec1.jpg" style="width:100%;"></td>
 	 </tr>
   <tr>
     <td><a href="https://www.moe.gov.sg/education" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
     <span style="mso-text-raise: 15pt;">MOE</span>
-	    </a></td>
-    <td colspan="2"><a href="https://www.moe.gov.sg/education/syllabuses/mother-tongue-languages" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
+	    </a>
+    <a href="https://www.moe.gov.sg/education/syllabuses/mother-tongue-languages" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
     <span style="mso-text-raise: 15pt;">Bahasa Ibunda</span>
 	  </a></td>
 	 </tr>
   <tr>
     <td><a href="https://vle.learning.moe.edu.sg" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
     <span style="mso-text-raise: 15pt;">SLS</span>
-		</a></td>
-    <td colspan="2"><a href="https://academyofsingaporeteachers.moe.edu.sg" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
+		</a>
+    <a href="https://academyofsingaporeteachers.moe.edu.sg" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
     <span style="mso-text-raise: 15pt;">AST</span>
 	  </a></td>
 	 </tr>
   <tr>
     <td><a href="https://academyofsingaporeteachers.moe.edu.sg/mlcs" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
     <span style="mso-text-raise: 15pt;">Pusat Bahasa Melayu Singapura</span>
-	    </a></td>
-    <td colspan="2"><a href="https://idm.opal2.moe.edu.sg" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
+	    </a>
+    <a href="https://idm.opal2.moe.edu.sg" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
     <span style="mso-text-raise: 15pt;">Opal 2.0 Link Button</span>
 		</a></td>
   </tr>
@@ -238,8 +238,8 @@ margin-left:25px;
       </tr>
      </table>
 <p style="text-align:justify;">Pelajar ditugaskan untuk meneroka isu-isu semasa yang berkaitan dengan tema yang terdapat dalam buku teks atau isu-isu terkini yang ingin diketahui agar peka dengan perkembangan semasa. Pelajar boeh mendapat pelbagai bahan dari laman mikro Berita Mediacorp atau Berita Harian melalui SLS. </p><br/>
-<img src="/images/ML-Sec_Berita-Harian-Logo.jpeg" style="width:70%">
-<img src="/images/ML-Sec_Berita-Mediacorp-Logo.jpeg" style="width:70%"><br/>
+<img src="/images/ML-Sec_Berita-Harian-Logo.jpeg" style="width:50%">
+<img src="/images/ML-Sec_Berita-Mediacorp-Logo.jpeg" style="width:50%"><br/>
 <p style="text-align:justify;">Bahan-bahan berikut boleh didapatkan di portal Ruang Pembelajaran Pelajar (SLS).</p>
  <center>
  <div class="row">
