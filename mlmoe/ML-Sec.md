@@ -212,7 +212,7 @@ margin-left:25px;
   <h4 style="text-align:justify;"><center>Bahan-bahan digital yang menyokong Pembelajaran Teradun</center></h4>
     <table width="100%" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border: 1px solid #ccc;" bgcolor="#62BD69">
       <tr>
-       <td style="text-align:center; color: #242424; padding: 20px 20px 20px 20px; line-height: 2; ">Perbincangan berdasarkan Video
+       <td style="text-align:center; font-size:24px; color: #242424; padding: 20px 20px 20px 20px; line-height: 2; ">Perbincangan berdasarkan Video
        </td>
       </tr>
      </table>
@@ -233,7 +233,7 @@ margin-left:25px;
 </center>
     <table width="100%" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border: 1px solid #ccc;" bgcolor="#62BD69">
       <tr>
-       <td style="text-align:center; color: #242424; padding: 20px 20px 20px 20px; line-height: 2; ">Perbincangan tentang Isu-isu Kontemporari
+       <td style="text-align:center; font-size:24px; color: #242424; padding: 20px 20px 20px 20px; line-height: 2; ">Perbincangan tentang Isu-isu Kontemporari
        </td>
       </tr>
      </table>
