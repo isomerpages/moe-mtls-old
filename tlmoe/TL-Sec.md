@@ -114,11 +114,11 @@ margin-left:25px;
  <ol>
    <li>
     <span style="font-size:20px; color:blue; display: inline-block;">அறிமுகம் </span>
-    <a href="#C5"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:32px; display:inline-block; vertical-align: middle;"> 
-     </a>
-    </li>
-   <li><span style="font-size:20px; color:blue;">உயர்நிலை <a href="#C1" style="font-size:40px; color:purple;">➣ 
-    </a></span></li>
+    <a href="#C5"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
+     </a></li>
+   <li><span style="font-size:20px; color:blue;">உயர்நிலை </span>
+    <a href="#C1""><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
+    </a></li>
    <li><span style="font-size:20px; color:blue;">தமிழ்மொழ <a href="#C2" style="font-size:40px; color:purple;">➣ 
     </a></span></li>
    <li><span style="font-size:20px; color:blue;">தமிழ்மொழிப் பாடத்திட்டம் 2021 <a href="#C3" style="font-size:40px; color:purple;">➣ 
