@@ -112,7 +112,7 @@ margin-left:25px;
 <img src="/images/TL-Sec_Header.jpg">
 <p>
  <ol>
-   <li><span style="font-size:20px; color:blue;">அறிமுகம் <a href="#C5"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:5%;"> 
+   <li><span style="font-size:20px; color:blue;">அறிமுகம் <a href="#C5"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="height:5%;"> 
     </a></span></li>
    <li><span style="font-size:20px; color:blue;">உயர்நிலை <a href="#C1" style="font-size:40px; color:purple;">➣ 
     </a></span></li>
