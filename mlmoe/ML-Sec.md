@@ -238,7 +238,22 @@ margin-left:25px;
       </tr>
      </table>
 <p style="text-align:justify;">Pelajar ditugaskan untuk meneroka isu-isu semasa yang berkaitan dengan tema yang terdapat dalam buku teks atau isu-isu terkini yang ingin diketahui agar peka dengan perkembangan semasa. Pelajar boeh mendapat pelbagai bahan dari laman mikro Berita Mediacorp atau Berita Harian melalui SLS. </p><br/>
-Pending image<br/>
+<img src="/images/ML-Sec_Berita-Harian-Logo.jpeg style="width:70%">
+<img src="/images/ML-Sec_Berita-Mediacorp-Logo.jpeg style="width:70%"><br/>
+<p style="text-align:justify;">Bahan-bahan berikut boleh didapatkan di portal Ruang Pembelajaran Pelajar (SLS).</p>
+ <center>
+ <div class="row">
+  <div class="column">
+    <p style="text-align:justify; font-weight:bold">Alat Berfikir Interaktif</p>
+	  <p>Antara fitur-fitur di SLS membolehkan pelajar menggunakan strategi berfikir untuk mengasah kemahiran berfikir secara kritis seperti: </p>
+	  <img src="/images/ML-Sec_Alat-Berfikir-Interaktif.jpeg">
+  </div>
+  <div class="column">
+    <p style="text-align:justify; font-weight:bold">Kuiz</p>
+	  <p>Pelajar juga boleh mengukur kelakonan mereka dalam sesuatu tugasan melalui kuiz yang disediakan oleh guru: </p>
+	  <img src="/images/ML-Sec_Kuiz.jpeg">
+  </div>
+  </div></center>
 
 <h4 style="font-size:25px;color:green;">Program Elektif Bahasa Melayu Peringkat Sekolah Menengah 
 </h4>
