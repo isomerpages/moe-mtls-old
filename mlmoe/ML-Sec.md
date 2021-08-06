@@ -221,7 +221,7 @@ margin-left:25px;
   <h4 style="text-align:justify;"><center>Bahan-bahan digital yang menyokong Pembelajaran Teradun</center></h4>
     <table width="100%" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border: 1px solid #ccc;" bgcolor="#8cd3ff">
       <tr>
-       <td style="text-align:justify; color: #242424; padding: 15px 20px 20px 20px; line-height: 2; "><center>Bahan-bahan digital yang menyokong Pembelajaran Teradun</center>
+       <td style="text-align:justify; color: #242424; line-height: 2; "><center>Bahan-bahan digital yang menyokong Pembelajaran Teradun</center>
        </td>
       </tr>
      </table>
