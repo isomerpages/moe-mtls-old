@@ -154,13 +154,13 @@ margin-left:25px;
  <table style="column-width:60%">
   <tr>
     <td rowspan="4" style="text-align:justify;">Kurikulum Sekolah Menengah sudahpun melalui semakan pada tahun 2020 dan sedang diguna pakai oleh kohort pertama Menengah Satu pada tahun ini.  Kurikulum baharu ini merupakan satu kesinambungan bagi pelajar-pelajar sekolah rendah yang menggunakan Kurikulum Bahasa Melayu 2015. Kurikulum Bahasa Melayu (Sekolah Menengah) memperkukuh keupayaan pleajar berinterasi secara lisan dan penulisan dalam konteks yang autentik serta memberikan peluang bagi pelajar untuk bertutur dan meluahkan pandangan dalam Bahasa Melayu.</td>
-    <td colspan="2"><img src="/mlmoe/ml-sec1.jpg" style="width:100%;"></td>
+    <td colspan="3"><img src="/mlmoe/ml-sec1.jpg" style="width:100%;"></td>
 	 </tr>
   <tr>
-    <td><a href="https://www.moe.gov.sg/education" target="_blank" style="background-color: green; font-size: 12px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
+    <td><a href="https://www.moe.gov.sg/education" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
     <span style="mso-text-raise: 15pt;">MOE</span>
 	    </a></td>
-    <td><a href="https://www.moe.gov.sg/education/syllabuses/mother-tongue-languages" target="_blank" style="background-color: green; font-size: 12px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
+    <td colspan="2"><a href="https://www.moe.gov.sg/education/syllabuses/mother-tongue-languages" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
     <span style="mso-text-raise: 15pt;">Bahasa Ibunda</span>
 	  </a></td>
 	 </tr>
@@ -168,7 +168,7 @@ margin-left:25px;
     <td><a href="https://vle.learning.moe.edu.sg" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
     <span style="mso-text-raise: 15pt;">SLS</span>
 		</a></td>
-    <td><a href="https://academyofsingaporeteachers.moe.edu.sg" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
+    <td colspan="2"><a href="https://academyofsingaporeteachers.moe.edu.sg" target="_blank" style="background-color: green; font-size: 18px; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">
     <span style="mso-text-raise: 15pt;">AST</span>
 	  </a></td>
 	 </tr>
