@@ -219,22 +219,21 @@ margin-left:25px;
   <p style="text-align:justify;">Pembelajaran Teradun menjadi fitur umum dalam persekolahan pada tahun 2021. Pembelajaran Teradun merupakan pembelajaran yang menggabungkan pembelajaran di rumah dengan pengalaman pembelajaran di sekolah. Pelajar akan mengalami Pembelajaran dari Rumah (HBL) sehari dalam dua minggu, bergantung pada sekolah. Pembelajaran Teradun memperkuku keupayaan pelajar untuk belajar secara kendiri sejajar dengan gerakan Belajar Sepanjang Hayat yang dianjurkan oleh MOE. 
 </p>
   <h4 style="text-align:justify;"><center>Bahan-bahan digital yang menyokong Pembelajaran Teradun</center></h4>
-    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border: 1px solid #ccc;" bgcolor="#8cd3ff">
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border: 1px solid #ccc;" bgcolor="#62BD69">
       <tr>
-       <td style="text-align:center; color: #242424; padding: 20px 20px 20px 20px; line-height: 2; ">Bahan-bahan digital yang menyokong Pembelajaran Teradun
+       <td style="text-align:center; color: #242424; padding: 20px 20px 20px 20px; line-height: 2; ">Perbincangan berdasarkan Video
        </td>
       </tr>
      </table>
   
-<p style="text-align:justify;"><strong>Perbincangan berdasarkan Video</strong></p>
 <center>
  <div class="row">
   <div class="column">
-    <p style="text-align:justify;">Video Gojer</p>
+    <p style="text-align:center;"><strong>Video Gojer</strong></p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/krt2ZDcVMfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   <div class="column">
-    <p style="text-align:justify;">Fikir Dahulu</p>
+    <p style="text-align:center;"><strong>Fikir Dahulu</strong></p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/BszLFcsHFUQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
  </div>
