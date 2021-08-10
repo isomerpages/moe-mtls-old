@@ -253,5 +253,5 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
  </table>
 <hr>
 <div class="image">
-  <img src="images/New_footer.jpg" class="Image" width="1000" height="300"></div>
+  <img src="images/2021-08-04_MTLS_Web_Footer_600X250_300dpi.jpg" class="Image" width="1000" height="300"></div>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
