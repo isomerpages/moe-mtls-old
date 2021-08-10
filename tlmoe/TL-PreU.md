@@ -250,26 +250,27 @@ margin-left:25px;
 <p style="text-align:justify;">இந்த இலக்கியங்களையும் அவற்றைப் படைத்த எழுத்தாளர்களையும் பற்றி மேலும் அறிந்திட பின்வரும் இணைப்புகளுக்குச் செல்லவும்.
 </p>
  
+ <center>
  <div class="row">
  <div class="column">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/5foX5Qdi3Tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px; text-align:center;">(கதவு) 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/5foX5Qdi3Tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">(கதவு) 
 </span>
   <br/>
 </div>
   <div class="column">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/QWvTSMtiopU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:18px; text-align:center;">கி.ராஜநாராயணன் (Pending)  </span>
+<br/><span style="font-size:18px;">கி.ராஜநாராயணன் (Pending)  </span>
  </div></div>
  <br/>
 <div class="row">
  <div class="column">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ss0CN2L5SYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:18px; text-align:center;">Oonjal Drama Audio  (Pending) </span>
+<br/><span style="font-size:18px;">Oonjal Drama Audio  (Pending) </span>
 </div>
   <div class="column">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZbvDUQFSdO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:18px; text-align:center;">samuthaya veethi authors audio(Pending)   </span>
- </div></div>
+<br/><span style="font-size:18px;">samuthaya veethi authors audio(Pending)   </span>
+ </div></div></center>
  <br/>
 
  <h4><span style="font-size:30px;color:purple;">முக்கிய நிகழ்வுகள் </span></h4>
