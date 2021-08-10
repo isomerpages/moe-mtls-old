@@ -274,14 +274,9 @@ Mr Jaya Ganesh Isuran is a very familiar face in the entertainment industry, kno
 <td style="border:0 none;padding: 0;" class="btnImg">
   </td>
 </tr>
-
-
-
-
-
-
-
-
- </table>
+</table>
+<hr>
+<div class="image">
+  <img src="images/2021-08-04_MTLS_Web_Footer_600X250_300dpi.jpg" class="Image" width="1000" height="300"></div>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
 
