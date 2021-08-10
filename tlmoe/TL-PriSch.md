@@ -74,7 +74,7 @@ margin-left:25px;
    </ul>
 <br/>
 <h4 id="C2"><span style="font-size:30px;color:purple;">மகிழ்வூட்டும் கற்றல்  </span></h4>
- <img src="/images/TL Pri_UpdatedPicture1.png"><br/><br/>
+ <img src="/images/TL Pri_UpdatedPicture1.png" style="margin-top: -8px;"><br/><br/>
 </p>
  
 <img src="/images/TL Pri_Image01.jpg">
