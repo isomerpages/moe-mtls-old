@@ -125,5 +125,5 @@ Maklumat yang dipaparkan dalam Kurikulum Bahasa Ibunda MOE bertujuan untuk membe
  The information featured in our e-MTLS MOE MTL curriculum webpage aims to provide parents and educators with an understanding of the different opportunities for MTL learning beginning from Pre-school through Primary, Secondary and Pre-University. There will also be tips for parents and educators to gain insights and ideas to bring the joy of learning MTL to our young and to better support them in this journey.</p>
  <br/>
 
- <img src="images/New_footer.jpg" class="Image" width="1000" height="300">
+ <img src="images/2021-08-04_MTLS_Web_Footer_600X250_300dpi.jpg" class="Image" width="1000" height="300">
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
