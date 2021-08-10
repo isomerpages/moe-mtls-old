@@ -139,7 +139,7 @@ margin-left:25px;
   <td>
     <img src="/tlmoe/h1-lens.png" style="width: 80%">
     <br/>
-   <table width="300px" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border: 1px solid #ccc;">
+   <table width="300px" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border: 3px solid #ccc;">
    <td style="font-size:20px; font-weight:bold; color: purple;">உயர்தரம் 1 
 பரந்துபட்ட மூன்று கருப்பொருள்கள் </td>
    </table>
@@ -170,7 +170,7 @@ margin-left:25px;
   </ul></td>
     <td>
      <img src="/tlmoe/h2-lens.png" style="width:80%"><br/>
-   <table width="300px" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border: 1px solid #ccc;">
+   <table width="300px" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border: 3px solid #ccc;">
      <td style="font-size:20px; font-weight:bold; color:purple;">உயர்தரம் 2 & 3 
      பரந்துபட்ட மூன்று கருப்பொருள்கள் 
 </td>
@@ -200,7 +200,7 @@ margin-left:25px;
       <input id="tab-3" type="checkbox" name="tab">
     <label for="tab-3" style="font-family:KaiTi;font-size:22px" class="lbTM">உயர்தரம் தமிழ்மொழி பாடத்திற்கான கற்றல் விளைவுகள்</label>
      <div class="tab-content">
-     <h4><span style="font-size:30px; padding-top: 24px; color:purple;">உயர்தரம் 2 & 3 தமிழ்மொழிப் பாடத்திற்கான கல்வியின் விரும்பத்தக்க விளைவுகள்.</span></h4>
+     <h4 style="padding-top: 24px;"><span style="font-size:30px; color:purple;">உயர்தரம் 2 & 3 தமிழ்மொழிப் பாடத்திற்கான கல்வியின் விரும்பத்தக்க விளைவுகள்.</span></h4>
   <table style="border-collapse: collapse; width: 100%;border:0;">
  <tr>
     <td><img src="/images/TL PreU_Image02.jpg"></td>
@@ -248,27 +248,29 @@ margin-left:25px;
   <br/>
 <p style="text-align:justify;">இந்த இலக்கியங்களையும் அவற்றைப் படைத்த எழுத்தாளர்களையும் பற்றி மேலும் அறிந்திட பின்வரும் இணைப்புகளுக்குச் செல்லவும்.
 </p>
-<center>
-<iframe class="iframe1" width="560" height="315" src="https://www.youtube.com/embed/5foX5Qdi3Tw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-<span style="font-size:20px;">(கதவு) </span>
-</center>
-<br/>
-<center>
-<iframe  class="iframe1" width="560" height="315" src="https://www.youtube.com/embed/5foX5Qdi3Tw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-<span style="font-size:20px;">கி.ராஜநாராயணன் (Pending)  </span>
-</center>
-<br/>
-<center>
-<iframe class="iframe1" width="560" height="315" src="https://www.youtube.com/embed/5foX5Qdi3Tw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-<span style="font-size:20px;">Oonjal Drama Audio  (Pending) </span>
-</center>
-<br/>
-<center>
-<iframe class="iframe1" width="560" height="315" src="https://www.youtube.com/embed/5foX5Qdi3Tw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-<span style="font-size:20px;">samuthaya veethi authors audio(Pending)
- </span>
-</center>
-<br/>
+ 
+ <div class="row">
+ <div class="column">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/5foX5Qdi3Tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">(கதவு) 
+</span>
+  <br/>
+</div>
+  <div class="column">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/QWvTSMtiopU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/><span style="font-size:18px;">கி.ராஜநாராயணன் (Pending)  </span>
+ </div></div>
+ <br/>
+<div class="row">
+ <div class="column">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Ss0CN2L5SYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/><span style="font-size:18px;">Oonjal Drama Audio  (Pending) </span>
+</div>
+  <div class="column">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZbvDUQFSdO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/><span style="font-size:18px;">samuthaya veethi authors audio(Pending)   </span>
+ </div></div>
+ <br/>
+
  <h4><span style="font-size:30px;color:purple;">முக்கிய நிகழ்வுகள் </span></h4>
 <img src="/images/TL JC_Header01.png">
 <img src="/images/TL JC_Picture01.png"><br/>
@@ -279,10 +281,7 @@ margin-left:25px;
 <img src="/images/TL JC_Picture04.png"><br/>
      
  <br/>
-<img src="/images/TL JC_Header04.png">
-<img src="/images/TL PreU_Image04.jpg">
- <br/>
- 
+
 <h4><span style="font-size:30px;color:purple;">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமூட்டும் உத்திமுறைகள் 
  </span></h4> 
 <img src="/images/TL-PreU-Strategies.jpg">
@@ -312,9 +311,8 @@ margin-left:25px;
   </ul>
   <img src="/images/TL-PreU-Signature-Activities.jpg"><br/>
  <br/>
-<img src="/tlmoe/tl-preU38.jpeg">
-  <br/>
 <img src="/images/TL JC_Header06.png" style="align:left; width:50%;">
+<img src="/images/TL JC_Header12.png">
   <table style="border-collapse: collapse;
   width: 100%; border:0;">
   <tr>
@@ -333,91 +331,16 @@ margin-left:25px;
 </tr>
 </table>
 <img src="/images/TL PreU_Image05.jpg">
-  <h4><span style="font-size:30px;color:purple;">பள்ளி சார்ந்த திட்ட நடவடிக்கைகள்
+<img src="/images/TL JC_Header11.png" style="align:left; width:50%;">
 </span></h4>
 <img src="/images/TL PreU_Image06.jpg">
   <br/>
  
-  <p style="text-align:justify;">தமிழ்ச்செய்தியில் நம் கல்லூரிகள்
-</p>
-  <ul>
-   <li><a href="https://www.tamilmurasu.com.sg/" target="_blank">தமிழ் முரசு
-</a></li>
-      <li><a href="https://www.tamilmurasu.com.sg/singapore/story20210222-61692.html" target="_blank">உயர்தரம் 3 தமிழ்மொழிப் பாடம் பயில ஆர்வம் இருந்தால் போதும்
-</a></li>
-  </ul>
-  <h4 id="C3"><span style="font-size:30px;color:purple;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 
-</span></h4>
+ <img src="/images/TL JC_Header04.png">
+<img src="/images/TL PreU_Image04.jpg">
 <br/>
-  <div class="row">
- <div class="column">
-  <p style="text-align:justify;"><strong>வழங்கப்படும் உயர்நிலைப்பள்ளிகள்</strong>
-<br/>
-   <ul>
-    <li>காமன்வெல்த் உயர்நிலைப்பள்ளி
-</li>
-     <li>ரிவர்சைடு உயர்நிலைப்பள்ளி
-</li>
-     <li>யீசூன் டவுன் உயர்நிலைப் பள்ளிி
-</li>
-   </ul>
-  <a href="/Gallery/TL-Sec-tlep-sec-infosheet-students-2019.pdf " target="_blank">TLEP Infosheet - Secondary</a></p>
-  </div> 
-
- <div class="column">
-
-  <p style="text-align:justify;"><strong>வழங்கப்படும் தொடக்கக்கல்லூரிகள் </strong>
-<br/>
-  <ul>
-  <li>ஆண்டர்சன் சிராங்கூன்<br/>
-   தொடக்கக்கல்லூரி
-</li>
-    <li>தேசியத் தொடக்கக் கல்லூரி
-</li>
- </ul>
-<a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf " target="_blank">TLEP Infosheet - JC</a></p> 
-   </div> 
-   </div>
-   <br/> 
-  <a href="/Gallery/TLEP-JC.pdf " target="_blank">TLEP-JC Brochure</a>
+<a href="https://www.tamilmurasu.com.sg/singapore/story20210222-61692.html" target="_blank">உயர்தரம் 3 தமிழ்மொழிப் பாடம் பயில ஆர்வம் இருந்தால் போதும்
+</a>
  <br/> <br/>
- 
-<div class="row">
- <div class="column">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/z1DOuNAkQc8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">ஆண்டர்சன் சிராங்கூன் தொடக்கக்கல்லூரி ஏற்பாடு செய்த கவிதைக் கருத்தாடலில் உள்ளூர்க் கவிஞர் பிச்சினிக்காடு இளங்கோ அவர்களின் பகிர்வு
-</span>
-  <br/>
-</div>
-  <div class="column">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/QWvTSMtiopU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:18px;">கவிஞர் பிச்சினிக்காடு இளங்கோ அவர்களிடம் மாணவர்கள் தொடுக்கும் வினாக்கள்.</span>
- </div></div>
- <br/>
-<div class="row">
- <div class="column">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/Ss0CN2L5SYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:18px;">குழந்தைக் கவிஞர் அழ. வள்ளியப்பா அவர்களின் பாடல்களைப்பற்றி ஆண்டர்சன் சிராங்கூன் தொடக்கக்கல்லூரி மாணவி வள்ளி பகிர்ந்துகொண்டார்.    
-</span>
-</div>
-  <div class="column">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZbvDUQFSdO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:18px;">குழந்தைக் கவிஞர் அழ. வள்ளியப்பா  அவர்களின் பாடல்களைப்பற்றித் தேசியத் தொடக்கக்கல்லூரி மாணவர்கள் பகிர்ந்துகொண்டனர்.    
-</span>
- </div></div>
- <br/>
- <div class="row">
- <div class="column">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YtnQl3v5-Ys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">ஆண்டர்சன் சிராங்கூன் தொடக்கக்கல்லூரியைச் சேர்ந்த  மாணவி வைஷ்ணவியின் சிறுகதைப் பகிர்வு 
-</span>
-</div>
-  <div class="column">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/GfLuSyFwYF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">ஆண்டர்சன் சிராங்கூன் தொடக்கக்கல்லூரியைச் சேர்ந்த மாணவி நந்தினியின் சிறுகதைப் பகிர்வு  
-</span>
-   </div></div>
- <br/>
- <center>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/eQXI0DqaCBs" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:18px;">மலேசியா கவிஞர் பச்சைபாலன் அவர்களோடு ஒரு கவிதைக் கருத்தாடல்  
-</span></center>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
