@@ -217,7 +217,7 @@ margin-left:25px;
       <input id="tab-4" type="checkbox" name="tab">
     <label for="tab-4" style="font-size:22px" class="lbTM">பணிச்சட்டமும் பாடத்திட்டங்களும்</label>
      <div class="tab-content">
-    <h4><span style="font-size:30px; padding-top: 24px; color:purple;">பாடத்திட்டப் பணிச்சட்டம்</span></h4>
+    <h4 style="padding-top: 24px;"><span style="font-size:30px; color:purple;">பாடத்திட்டப் பணிச்சட்டம்</span></h4>
     <img src="/tlmoe/tl-preU04.jpeg"><br/>
     <img src="/images/TL PreU_Image03.jpg"><br/>
     <a href="/tlmoe/H1-Syllabus-Tamil.pdf" target="_blank" style="text-align:left;">2020 H1 Tamil Language & Tamil Language ‘B’ Syllabus</a><br/>
@@ -226,7 +226,8 @@ margin-left:25px;
     </div></div>
 
  <h4 id="C2"><span style="font-size:30px;color:purple;">இலக்கியம்</span></h4>
-   <p>மகிழ்வூட்டும் இலக்கிய வகுப்பு</p>
+   <p>இலக்கிய வகுப்புகள் மகிழ்வூட்டுவனவாக அமைய பல்வேறு அணுகுமுறைகள்.  
+</p>
  
    <img src="/images/TL-PreU-Literature.jpg">
 <br/>
@@ -251,23 +252,23 @@ margin-left:25px;
  
  <div class="row">
  <div class="column">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/5foX5Qdi3Tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">(கதவு) 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/5foX5Qdi3Tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px; text-align:center;">(கதவு) 
 </span>
   <br/>
 </div>
   <div class="column">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/QWvTSMtiopU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:18px;">கி.ராஜநாராயணன் (Pending)  </span>
+<br/><span style="font-size:18px; text-align:center;">கி.ராஜநாராயணன் (Pending)  </span>
  </div></div>
  <br/>
 <div class="row">
  <div class="column">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ss0CN2L5SYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:18px;">Oonjal Drama Audio  (Pending) </span>
+<br/><span style="font-size:18px; text-align:center;">Oonjal Drama Audio  (Pending) </span>
 </div>
   <div class="column">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ZbvDUQFSdO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:18px;">samuthaya veethi authors audio(Pending)   </span>
+<br/><span style="font-size:18px; text-align:center;">samuthaya veethi authors audio(Pending)   </span>
  </div></div>
  <br/>
 
