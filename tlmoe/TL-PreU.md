@@ -299,7 +299,6 @@ margin-left:25px;
  <li style="text-align:justify;"><strong>தேசியத் தொடக்கக்கல்லூரி
  </strong></li>
 <ul>
-  <br/> 
  <h4><span style="font-size:30px;color:purple;">முத்திரை நடவடிக்கைகள்
  </span></h4>
   <ul>
@@ -312,7 +311,7 @@ margin-left:25px;
   </ul>
   <img src="/images/TL-PreU-Signature-Activities.jpg">
  <br/>
-<img src="/images/TL JC_Header06.png" align="left" style="width:40%;">
+<img src="/images/TL JC_Header06.png" align="left" style="width:60%;">
 <img src="/images/TL JC_Header12.png">
   <table style="border-collapse: collapse;
   width: 100%; border:0;">
@@ -332,7 +331,7 @@ margin-left:25px;
 </tr>
 </table>
 <img src="/images/TL PreU_Image05.jpg"><br/>
-<img src="/images/TL JC_Header11.png" align="left" style="width:40%;">
+<img src="/images/TL JC_Header11.png" align="left" style="width:60%;">
 <img src="/images/TL PreU_Image06.jpg">
   <br/>
  
