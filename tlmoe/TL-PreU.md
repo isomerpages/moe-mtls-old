@@ -288,8 +288,8 @@ margin-left:25px;
  </span></h4> 
 <img src="/images/TL-PreU-Strategies.jpg">
 <br/>
+ <br/>
 <img src="/images/TL JC_Header05.png">
-<br/>
  <p style="text-align:justify;">தமிழ்மொழி விருப்பப்பாடத்திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. தகுதிவாய்ந்த மாணவர்களைத் தமிழ்மொழியில் ஆற்றல்மிக்கவர்களாகவும், தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வைப் பேணி வளர்க்கவும் இத்திட்டம் வகைசெய்யும். அதோடு மாணவர்களை இருமொழியாற்றல் மிக்கவர்களாக உருவாக்குவதே இந்தத் திட்டத்தின் நோக்கம்.
 <br/><br/>
 தமிழ்மொழி விருப்பப்பாடத்திட்டத்தை வழங்கும் தொடக்கக்கல்லூரிகள் <br/>
@@ -299,8 +299,7 @@ margin-left:25px;
  <li style="text-align:justify;"><strong>தேசியத் தொடக்கக்கல்லூரி
  </strong></li>
 <ul>
-  
-<br/> 
+  <br/> 
  <h4><span style="font-size:30px;color:purple;">முத்திரை நடவடிக்கைகள்
  </span></h4>
   <ul>
@@ -311,9 +310,9 @@ margin-left:25px;
       <li style="text-align:justify;">பள்ளி சார்ந்த திட்ட நடவடிக்கைகள்
 </li>
   </ul>
-  <img src="/images/TL-PreU-Signature-Activities.jpg"><br/>
+  <img src="/images/TL-PreU-Signature-Activities.jpg">
  <br/>
-<img src="/images/TL JC_Header06.png" align="left" style="width:50%;">
+<img src="/images/TL JC_Header06.png" align="left" style="width:40%;">
 <img src="/images/TL JC_Header12.png">
   <table style="border-collapse: collapse;
   width: 100%; border:0;">
@@ -332,9 +331,8 @@ margin-left:25px;
 <td style=" border: 0;text-align: left;padding: 8px;">Pending video</td>
 </tr>
 </table>
-<img src="/images/TL PreU_Image05.jpg">
-<img src="/images/TL JC_Header11.png" align="left" style="width:50%;">
-</span></h4>
+<img src="/images/TL PreU_Image05.jpg"><br/>
+<img src="/images/TL JC_Header11.png" align="left" style="width:40%;">
 <img src="/images/TL PreU_Image06.jpg">
   <br/>
  
