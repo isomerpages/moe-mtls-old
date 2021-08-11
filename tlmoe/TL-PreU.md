@@ -113,7 +113,6 @@ margin-left:25px;
 <a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" class="btn" style="float:right;">Previous</a><br/>
 <img src="/images/TL-PreU-Header.jpg">
 
-<br/>
 <h4><span style="font-size:30px;color:purple;">தாய்மொழியின் இலக்கு
  </span></h4>
  <p style="text-align:justify;"> வருங்காலச் சிங்கப்பூர்த் தமிழ்ச் சந்ததியினரிடையே தமிழ் வாழும் மொழியாகத் திகழ வேண்டும். பலவகைப் பண்பாட்டுப் பாரம்பரியத்தைக் கொண்டு உலக நகராக விளங்கும் சிங்கப்பூரின் தனித்தன்மைக்கு வலுவூட்டும் அம்சமாக அது விளங்க வேண்டும்.</p><br/>
