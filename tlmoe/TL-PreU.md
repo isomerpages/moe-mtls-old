@@ -311,7 +311,7 @@ margin-left:25px;
   </ul>
   <img src="/images/TL-PreU-Signature-Activities.jpg">
  <br/>
-<img src="/images/TL JC_Header06.png" align="left" style="width:60%;">
+<img src="/images/TL JC_Header06.png" align="left" style="width:50%;">
 <img src="/images/TL JC_Header12.png">
   <table style="border-collapse: collapse;
   width: 100%; border:0;">
@@ -331,7 +331,7 @@ margin-left:25px;
 </tr>
 </table>
 <img src="/images/TL PreU_Image05.jpg"><br/>
-<img src="/images/TL JC_Header11.png" align="left" style="width:60%;">
+<img src="/images/TL JC_Header11.png" align="left" style="width:50%;">
 <img src="/images/TL PreU_Image06.jpg">
   <br/>
  
