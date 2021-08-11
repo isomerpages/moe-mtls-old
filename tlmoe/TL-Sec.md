@@ -114,7 +114,7 @@ margin-left:25px;
 <ol>
    <li>
     <span style="font-size:20px; color:blue; display: inline-block;"> &nbsp; அறிமுகம் </span>
-    <a href="#C5"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="display:inline-block; vertical-align: middle;" align="right"> 
+    <a href="#C5"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:26px; display:inline-block; vertical-align: middle;" align="right"> 
      </a></li>
    <li><span style="font-size:20px; color:blue;"> &nbsp; உயர்நிலை </span>
     <a href="#C1"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:26px; display:inline-block; vertical-align: middle;" align="right"> 
