@@ -113,10 +113,10 @@ margin-left:25px;
 
 <ol>
    <li>
-    <span style="font-size:20px; color:blue;"> &nbsp; அறிமுகம் </span>
+    <span style="font-size:20px; color:blue; display:inline-block;"> &nbsp; அறிமுகம் </span>
     <a href="#C5"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; align: right;"> 
      </a></li>
-   <li><span style="font-size:20px; color:blue;"> &nbsp; உயர்நிலை </span>
+   <li><span style="font-size:20px; color:blue; display:inline-block;"> &nbsp; உயர்நிலை </span>
     <a href="#C1"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; align: right;"> 
     </a></li>
    <li><span style="font-size:20px; color:blue;"> &nbsp; தமிழ்மொழ </span>
