@@ -118,8 +118,8 @@ margin-left:25px;
      </a></li>
    <li><span style="font-size:20px; color:blue;"> &nbsp; உயர்நிலை </span>
    </li>
-  <td align="right"><a href="#C1"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; align; right;"> 
-   </a></td>
+  <a href="#C1"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; align; right;"> 
+   </a>
    <li><span style="font-size:20px; color:blue;"> &nbsp; தமிழ்மொழ </span>
     <a href="#C2"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; align: right; vertical-align: middle;"> 
     </a></li>
