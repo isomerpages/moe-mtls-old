@@ -119,7 +119,6 @@ margin-left:25px;
    <li><span style="font-size:20px; color:blue;"> &nbsp; உயர்நிலை </span>
     <a href="#C1"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:26px; display:inline-block; vertical-align: middle;" align="right"> 
    </a></li>
-  
    <li><span style="font-size:20px; color:blue;"> &nbsp; தமிழ்மொழ </span>
     <a href="#C2"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:26px; display:inline-block; vertical-align: middle;" align="right"> 
     </a></li>
@@ -141,13 +140,10 @@ margin-left:25px;
     </a></li>
   </ol><br/>
  
-  <h2 id="C5">அறிமுகம் 
- </h2>
- 
+  <h2 id="C5">அறிமுகம் </h2> 
 <table style="  border-collapse: collapse;
   width: 100%;">
- 
-  <p style=" text-align:justify; padding:8px; font-size: 20px;">சிங்கப்பூரில் தாய்மொழிக் கல்வி காலத்திற்கேற்பப் பல மாற்றங்களைக் கண்டு வந்துள்ளது. &nbsp; 2005, 2010 ஆகிய ஆண்டுகளில் தாய்மொழிக் கல்வி குறித்த முக்கிய மறு ஆய்வுகள் மேற்கொள்ளப்பட்டன. இந்த மறு ஆய்வுகளில் தாய்மொழிக் கல்வி குறித்த முக்கியப் பரிந்துரைகள் முன்வைக்கப்பட்டன. கல்வி அமைச்சு அவற்றை ஏற்று முழுமையாகச் செயற்படுத்தி வருகின்றது.<br/>
+   <p style=" text-align:justify; padding:8px; font-size: 20px;">சிங்கப்பூரில் தாய்மொழிக் கல்வி காலத்திற்கேற்பப் பல மாற்றங்களைக் கண்டு வந்துள்ளது. &nbsp; 2005, 2010 ஆகிய ஆண்டுகளில் தாய்மொழிக் கல்வி குறித்த முக்கிய மறு ஆய்வுகள் மேற்கொள்ளப்பட்டன. இந்த மறு ஆய்வுகளில் தாய்மொழிக் கல்வி குறித்த முக்கியப் பரிந்துரைகள் முன்வைக்கப்பட்டன. கல்வி அமைச்சு அவற்றை ஏற்று முழுமையாகச் செயற்படுத்தி வருகின்றது.<br/>
    <br/>
     இதன் அடிப்படையில் தமிழ்மொழி கற்றல் கற்பித்தலை அடுத்தடுத்த மேம்பட்ட  நிலைக்குக் கொண்டு செல்ல அரசாங்கத்தின் உதவியோடு தொடர்ந்து பல முயற்சிகள் மேற்கொள்ளப்பட்டு வருகின்றன. </p><br/>
 
