@@ -110,33 +110,33 @@ margin-left:25px;
  <a href="/tlmoe/tl-preu/" class="btn" style="float:right;">Next</a>
  <br/>
 <img src="/images/TL-Sec_Header.jpg">
-<p>
+
  <ol>
    <li>
     <span style="font-size:20px; color:blue; display: inline-block;"> &nbsp; அறிமுகம் </span>
-    <a href="#C5"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
+    <a href="#C5"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; align:right;"> 
      </a></li>
    <li><span style="font-size:20px; color:blue;"> &nbsp; உயர்நிலை </span>
-    <a href="#C1"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
+    <a href="#C1"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; align:right;"> 
     </a></li>
    <li><span style="font-size:20px; color:blue;"> &nbsp; தமிழ்மொழ </span>
-    <a href="#C2"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
+    <a href="#C2"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; align:right;"> 
     </a></li>
    <li><span style="font-size:20px; color:blue;"> &nbsp; தமிழ்மொழிப் பாடத்திட்டம் 2021 </span>
-    <a href="#C3"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
+    <a href="#C3"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; align:right;"> 
     </a></li>
    <li><span style="font-size:20px; color:blue;"> &nbsp; தமிழ்மொழிப் பயற்றுவளங்கள் </span>
-    <a href="#C8"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
+    <a href="#C8"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; align:right;"> 
     </a></li>
    <li><span style="font-size:20px; color:blue;"> &nbsp; புதிய கூறுகளும் புதிய முயற்சிகளும் </span>
-    <a href="#C4"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
+    <a href="#C4"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; align:right;"> 
     </a></li>
    <li><span style="font-size:20px; color:blue;"> &nbsp; தமிழ் இலக்கியம் </span>
-  <a href="#C6"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
+  <a href="#C6"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; align:right;"> 
     </a></li>
    <li><span style="font-size:20px; color:blue;"> &nbsp; தமிழ்மொழி விருப்பப்பாடத் திட்டம்<br/>
     (Tamil Language Elective Programme - TLEP) </span>
-  <a href="#C7"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
+  <a href="#C7"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; align:right;"> 
     </a></li>
   </ol><br/>
   <h2 id="C5">அறிமுகம் 
