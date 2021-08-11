@@ -113,25 +113,28 @@ margin-left:25px;
 <p>
  <ol>
    <li>
-    <span style="font-size:20px; color:blue; display: inline-block;"> அறிமுகம் </span>
+    <span style="font-size:20px; color:blue; display: inline-block;"> &nbsp; அறிமுகம் </span>
     <a href="#C5"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
      </a></li>
-   <li><span style="font-size:20px; color:blue;"> உயர்நிலை </span>
+   <li><span style="font-size:20px; color:blue;"> &nbsp; உயர்நிலை </span>
     <a href="#C1"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
     </a></li>
-   <li><span style="font-size:20px; color:blue;"> தமிழ்மொழ </span>
+   <li><span style="font-size:20px; color:blue;"> &nbsp; தமிழ்மொழ </span>
     <a href="#C2"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
     </a></li>
-   <li><span style="font-size:20px; color:blue;"> தமிழ்மொழிப் பாடத்திட்டம் 2021 </span>
+   <li><span style="font-size:20px; color:blue;"> &nbsp; தமிழ்மொழிப் பாடத்திட்டம் 2021 </span>
     <a href="#C3"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
     </a></li>
-   <li><span style="font-size:20px; color:blue;"> புதிய கூறுகளும் புதிய முயற்சிகளும் </span>
+   <li><span style="font-size:20px; color:blue;"> &nbsp; தமிழ்மொழிப் பயற்றுவளங்கள் </span>
+    <a href="#C8"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
+    </a></li>
+   <li><span style="font-size:20px; color:blue;"> &nbsp; புதிய கூறுகளும் புதிய முயற்சிகளும் </span>
     <a href="#C4"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
     </a></li>
-   <li><span style="font-size:20px; color:blue;"> தமிழ் இலக்கியம் </span>
+   <li><span style="font-size:20px; color:blue;"> &nbsp; தமிழ் இலக்கியம் </span>
   <a href="#C6"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
     </a></li>
-   <li><span style="font-size:20px; color:blue;"> தமிழ்மொழி விருப்பப்பாடத் திட்டம்<br/>
+   <li><span style="font-size:20px; color:blue;"> &nbsp; தமிழ்மொழி விருப்பப்பாடத் திட்டம்<br/>
     (Tamil Language Elective Programme - TLEP) </span>
   <a href="#C7"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"> 
     </a></li>
@@ -142,7 +145,7 @@ margin-left:25px;
 <table style="  border-collapse: collapse;
   width: 100%;">
  
-  <p style=" text-align:justify; padding:8px; font-size: 20px;">சிங்கப்பூரில் தாய்மொழிக் கல்வி காலத்திற்கேற்பப் பல மாற்றங்களைக் கண்டு வந்துள்ளது. 2005, 2010 ஆகிய ஆண்டுகளில் தாய்மொழிக் கல்வி குறித்த முக்கிய மறு ஆய்வுகள் மேற்கொள்ளப்பட்டன. இந்த மறு ஆய்வுகளில் தாய்மொழிக் கல்வி குறித்த முக்கியப் பரிந்துரைகள் முன்வைக்கப்பட்டன. கல்வி அமைச்சு அவற்றை ஏற்று முழுமையாகச் செயற்படுத்தி வருகின்றது.<br/>
+  <p style=" text-align:justify; padding:8px; font-size: 20px;">சிங்கப்பூரில் தாய்மொழிக் கல்வி காலத்திற்கேற்பப் பல மாற்றங்களைக் கண்டு வந்துள்ளது. &nbsp; 2005, 2010 ஆகிய ஆண்டுகளில் தாய்மொழிக் கல்வி குறித்த முக்கிய மறு ஆய்வுகள் மேற்கொள்ளப்பட்டன. இந்த மறு ஆய்வுகளில் தாய்மொழிக் கல்வி குறித்த முக்கியப் பரிந்துரைகள் முன்வைக்கப்பட்டன. கல்வி அமைச்சு அவற்றை ஏற்று முழுமையாகச் செயற்படுத்தி வருகின்றது.<br/>
    <br/>
     இதன் அடிப்படையில் தமிழ்மொழி கற்றல் கற்பித்தலை அடுத்தடுத்த மேம்பட்ட  நிலைக்குக் கொண்டு செல்ல அரசாங்கத்தின் உதவியோடு தொடர்ந்து பல முயற்சிகள் மேற்கொள்ளப்பட்டு வருகின்றன. </p><br/>
 
@@ -173,7 +176,7 @@ margin-left:25px;
  <span style="font-size:18px;">உயர்நிலைத் &nbsp; தமிழ்மொழிப் &nbsp; பாடத்திட்ட &nbsp; வெளியீடு:</span><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rGFqD2sxPfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br/>
- <h2>தமிழருவி – பாடநூல், பயிற்சிநூல் </h2><br/><br/>
+ <h2 id="C8">தமிழருவி – பாடநூல், பயிற்சிநூல் </h2><br/><br/>
  புதிய கூறுகள் இளைய தலைமுறையினரை ஈர்க்கும் தன்மை கொண்ட பயிற்றுவளங்கள். <br/><br/>
 
   <img src="/tlmoe/TL-Textbooks-&-Workbooks.gif">
