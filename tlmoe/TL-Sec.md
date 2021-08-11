@@ -110,15 +110,15 @@ margin-left:25px;
  <a href="/tlmoe/tl-preu/" class="btn" style="float:right;">Next</a>
  <br/>
 <img src="/images/TL-Sec_Header.jpg">
-
- <a href="#C5" style="background-color: purple; font-size: 22px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;"> &nbsp; அறிமுகம் </a>
- <a href="#C1" style="background-color: purple; font-size: 22px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;"> &nbsp; உயர்நிலை </a>
- <a href="#C2" style="background-color: purple; font-size: 22px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;"> &nbsp; தமிழ்மொழ </a>
- <a href="#C3" style="background-color: purple; font-size: 22px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;"> &nbsp; தமிழ்மொழிப் பாடத்திட்டம் 2021 </a>
- <a href="#C8" style="background-color: purple; font-size: 22px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;"> &nbsp; தமிழ்மொழிப் பயற்றுவளங்கள் </a>
- <a href="#C4" style="background-color: purple; font-size: 22px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;"> &nbsp; புதிய கூறுகளும் புதிய முயற்சிகளும் </a><br/>
- <a href="#C6" style="background-color: purple; font-size: 22px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;"> &nbsp; தமிழ் இலக்கியம் </a>
- <a href="#C7" style="background-color: purple; font-size: 22px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 18px 20px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;"> &nbsp; தமிழ்மொழி விருப்பப்பாடத் திட்டம் (Tamil Language Elective Programme - TLEP) </a><br/>
+<br/>
+ <a href="#C5" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">அறிமுகம்</a>
+ <a href="#C1" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">உயர்நிலை </a>
+ <a href="#C2" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழ</a>
+ <a href="#C3" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பாடத்திட்டம் 2021</a>
+ <a href="#C8" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பயற்றுவளங்கள்</a>
+ <a href="#C4" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">புதிய கூறுகளும் புதிய முயற்சிகளும்</a>
+ <a href="#C6" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியம்</a>
+ <a href="#C7" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 30px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் (Tamil Language Elective Programme - TLEP)</a><br/>
  
 
   <h2 id="C5">அறிமுகம் </h2> 
