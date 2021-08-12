@@ -171,7 +171,7 @@ margin-left:25px;
 
   <img src="/tlmoe/TL-Textbooks-&-Workbooks.gif">
 
- <h2 id="C4" style="font-family:Anjal New InaiMathi Sch Book; font-size: 24px; text-align:center;">புதிய கூறுகளும் புதிய முயற்சிகளும் </h2>
+ <h2 id="C4" style="font-family:Anjal New InaiMathi Sch Book; font-size: 40px; text-align:center;">புதிய கூறுகளும் புதிய முயற்சிகளும் </h2>
  <img src="/images/TL-Sec_Image02.jpg"><br/>  
   <a href="#C9" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">பண்பாட்டறிவை வளப்படுத்துதல்</a>
   <a href="#C10" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">இலக்கியப் பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல்</a>
