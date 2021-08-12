@@ -135,7 +135,7 @@ margin-left:25px;
  
   <p style=" text-align:justify; padding:8px; font-family:Anjal New InaiMathi Sch Book; font-size:18px;"> தமிழை வாழும் மொழியாக நிலைபெறச் செய்வதன் வாயிலாக நம் இளம் தலைமுறையினர் பயன்மிகு வாழ்க்கை வாழ வழிகாட்டுதல்.<br/>
    <br/>
-   தொடக்கநிலைக் கல்வியை நிறைவு செய்யும் மாணவர்கள் உயர்நிலையில் கல்வியைத் தொடர்வார்கள். இவர்களுக்குத் <span style="font-weight:bold; color:purple;">தமிழ்மொழி, தமிழ் இலக்கியம், தமிழ்மொழி விருப்பப்பாடத் திட்டம்</span> என பல்வேறு பாடத்திட்டங்கள் வழங்கப்படுகின்றன. </p><br/>
+   தொடக்கநிலைக் கல்வியை நிறைவு செய்யும் மாணவர்கள் உயர்நிலையில் கல்வியைத் தொடர்வார்கள். இவர்களுக்குத் <span style="font-weight:bold; color:purple;">தமிழ்மொழி, தமிழ் இலக்கியம், தமிழ்மொழி விருப்பப்பாடத் திட்டம்</span> என பல்வேறு பாடத்திட்டங்கள் வழங்கப்படுகின்றன. </p>
 
   <h2 id="C2" style="font-family:Anjal New InaiMathi Sch Book; font-size:36; text-align:center;">தமிழ்மொழி</h2>
  <h4 style="font-family:Anjal New InaiMathi Sch Book; font-size:32px; color:purple; text-align:left;">தமிழ்மொழிப் பாடத்திட்டம் (1958முதல் 2011வரை)</h4>
