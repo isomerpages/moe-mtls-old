@@ -169,7 +169,26 @@ margin-left:25px;
  <p style="text-align:left; font-family:Anjal New InaiMathi Sch Book;">மாணவர்களை ஈர்க்கும் பயிற்றுவளங்கள். <br/>
   பாடநூல், பயிற்சிநூல் </p><br/>
 
-  <img src="/tlmoe/TL-Textbooks-&-Workbooks.gif">
+  <img src="/tlmoe/TL-Textbooks-&-Workbooks.gif"><br/>
+  <img src="/images/TL-Sec_Image06.jpg">
+<h2 style="font-family:Anjal New InaiMathi Sch Book; text-align:left;">மொழி விளையாட்டு </h2>
+  <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; padding:8px; font-size:20px;"> சொல்வளப் பெருக்கம், பேச்சுவழிக் கருத்துப்பரிமாற்றம், எழுத்துவழிக் கருத்துப்பரிமாற்றம் முதலியவற்றுக்கு உதவும் மொழி விளையாட்டுகள் பாடநூல்களில் வழங்கப்பட்டுள்ளன. </p>
+<br/>
+<table style=" border-collapse: collapse; width: 100%;">
+<tr>
+  <td style=" text-align: left;padding: 8px;width:50%;"><img src="/tlmoe/image01.png"></td>
+    <td style=" text-align: left;padding: 8px;width:50%;"><img src="/tlmoe/image02.png" ></td>
+  </tr>
+  </table>
+     <table style="  border-collapse: collapse;
+  width: 100%;">
+  <tr>
+      <td style=" text-align: left;padding: 8px;width:25%;"><img src="/tlmoe/image03.png"></td>
+        <td style=" text-align: left;padding: 8px;width:50%;"><img src="/tlmoe/image04.png" ></td>
+    </tr>
+</table>
+  <br/>
+  <img src="/images/TL-Sec_Image07.jpg">
 
  <h2 id="C4" style="font-family:Anjal New InaiMathi Sch Book; text-align:center;">புதிய கூறுகளும் புதிய முயற்சிகளும் </h2>
  <img src="/images/TL-Sec_Image02.jpg"><br/>  
@@ -207,8 +226,9 @@ margin-left:25px;
 <center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/grfbtAhjzxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
    </div></div>
-
-<img src="/images/TL-Sec_Image05.jpg">
+<br/>
+  
+<img src="/images/TL-Sec_Image05.jpg"><br/>
   <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
     <label for="tab-6" style="font-family:Anjal New InaiMathi Sch Book; font-size:20px" class="lbCh"> Pending title
@@ -218,29 +238,6 @@ margin-left:25px;
          <iframe width="560" height="315" src="https://www.youtube.com/embed/nnuIhutTDUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 </div></div>
 
-<img src="/images/TL-Sec_Image06.jpg">
- 
- <h2 style="font-family:Anjal New InaiMathi Sch Book; text-align:left;">மொழி விளையாட்டு </h2>
-<p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; padding:8px; font-size:20px;"> சொல்வளப் பெருக்கம், பேச்சுவழிக் கருத்துப்பரிமாற்றம், எழுத்துவழிக் கருத்துப்பரிமாற்றம் முதலியவற்றுக்கு உதவும் மொழி விளையாட்டுகள் பாடநூல்களில் வழங்கப்பட்டுள்ளன. </p>
-
-<br/>
-<table style=" border-collapse: collapse; width: 100%;">
-<tr>
-  <td style=" text-align: left;padding: 8px;width:50%;"><img src="/tlmoe/image01.png"></td>
-    <td style=" text-align: left;padding: 8px;width:50%;"><img src="/tlmoe/image02.png" ></td>
-     
-  </tr>
-  </table>
-     <table style="  border-collapse: collapse;
-  width: 100%;">
- 
-  <tr>
-      <td style=" text-align: left;padding: 8px;width:25%;"><img src="/tlmoe/image03.png"></td>
-        <td style=" text-align: left;padding: 8px;width:50%;"><img src="/tlmoe/image04.png" ></td>
-    </tr>
-</table>
-<br/>
-<img src="/images/TL-Sec_Image07.jpg">
    <h2 id="C6" style="font-family:Anjal New InaiMathi Sch Book;">தமிழ் இலக்கியம்</h2>
  <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify;">
  <span style="font-weight:bold; color:purple;">உயர்நிலை 3-இல்</span> பயிலும் மாணவர்களுக்குத் தமிழ் இலக்கியம் ஒரு பாடமாக வழங்கப்படுகிறது. <br/>
