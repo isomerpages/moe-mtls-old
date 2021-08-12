@@ -111,14 +111,14 @@ margin-left:25px;
  <br/>
 <img src="/images/TL-Sec_Header.jpg">
 <br/>
- <a href="#C5" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 14px 10px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">அறிமுகம்</a>
- <a href="#C1" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 14px 10px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">உயர்நிலை </a>
- <a href="#C2" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 14px 10px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழ</a>
- <a href="#C3" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 14px 10px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பாடத்திட்டம் 2021</a>
- <a href="#C8" style="background-color: purple; font-size: 16px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பயற்றுவளங்கள்</a>
- <a href="#C4" style="background-color: purple; font-size: 16px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">புதிய கூறுகளும் புதிய முயற்சிகளும்</a>
- <a href="#C6" style="background-color: purple; font-size: 16px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியம்</a>
- <a href="#C7" style="background-color: purple; font-size: 16px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்</a><br/>
+ <a href="#C5" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 10px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">அறிமுகம்</a>
+ <a href="#C1" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 10px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">உயர்நிலை </a>
+ <a href="#C2" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 10px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழ</a>
+ <a href="#C3" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 10px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பாடத்திட்டம் 2021</a>
+ <a href="#C8" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பயற்றுவளங்கள்</a>
+ <a href="#C4" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">புதிய கூறுகளும் புதிய முயற்சிகளும்</a>
+ <a href="#C6" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியம்</a>
+ <a href="#C7" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்</a><br/>
  
 
   <h2 id="C5">அறிமுகம் </h2> 
@@ -133,7 +133,7 @@ margin-left:25px;
  <table style="  border-collapse: collapse;
   width: 100%;">
  
-  <p style=" text-align:justify; padding:8px; font-size:20px;"> தமிழை வாழும் மொழியாக நிலைபெறச் செய்வதன் வாயிலாக நம் இளம் தலைமுறையினர் பயன்மிகு வாழ்க்கை வாழ வழிகாட்டுதல்.<br/>
+  <p style=" text-align:justify; padding:8px; font-family:Anjal New InaiMathi Sch Book; font-size:20px;"> தமிழை வாழும் மொழியாக நிலைபெறச் செய்வதன் வாயிலாக நம் இளம் தலைமுறையினர் பயன்மிகு வாழ்க்கை வாழ வழிகாட்டுதல்.<br/>
    <br/>
    தொடக்கநிலைக் கல்வியை நிறைவு செய்யும் மாணவர்கள் உயர்நிலையில் கல்வியைத் தொடர்வார்கள். இவர்களுக்குத் <span style="font-weight:bold; color:purple;">தமிழ்மொழி, தமிழ் இலக்கியம், தமிழ்மொழி விருப்பப்பாடத் திட்டம்</span> என பல்வேறு பாடத்திட்டங்கள் வழங்கப்படுகின்றன. </p><br/>
 
@@ -142,13 +142,13 @@ margin-left:25px;
  <table style="  border-collapse: collapse;
   width: 100%;">
  
-  <p style=" text-align:justify; padding:8px; font-size: 20px;"> சிங்கப்பூரில் 1834-ஆம் ஆண்டில்தான் முதல் தமிழ் வகுப்புத் தொடங்கப்பட்டது. ஆனால், 1958-ஆம் ஆண்டில்தான் தொடக்கநிலை, உயர்நிலைப் பள்ளிகளுக்குரிய தமிழ்மொழிப் பாடத்திட்டம் உருவாக்கப்பட்டது. இது ஆங்கிலத்தில் அச்சிடப்பெற்றிருந்தது. அதன் பின்னர், நமது அரசாங்கத்தால் செயற்படுத்தப்பெற்ற பல புதிய கல்விக்கொள்கைகளுக்கு ஏற்பப் பாடத்திட்டங்கள் திருத்தியமைக்கப்பெற்றன. <br/>
+  <p style=" text-align:justify; padding:8px; font-family:Anjal New InaiMathi Sch Book; font-size: 20px;"> சிங்கப்பூரில் 1834-ஆம் ஆண்டில்தான் முதல் தமிழ் வகுப்புத் தொடங்கப்பட்டது. ஆனால், 1958-ஆம் ஆண்டில்தான் தொடக்கநிலை, உயர்நிலைப் பள்ளிகளுக்குரிய தமிழ்மொழிப் பாடத்திட்டம் உருவாக்கப்பட்டது. இது ஆங்கிலத்தில் அச்சிடப்பெற்றிருந்தது. அதன் பின்னர், நமது அரசாங்கத்தால் செயற்படுத்தப்பெற்ற பல புதிய கல்விக்கொள்கைகளுக்கு ஏற்பப் பாடத்திட்டங்கள் திருத்தியமைக்கப்பெற்றன. <br/>
    <br/>
    பின்வரும் ஒளிக்காட்சியில் பாடத்திட்டத்தின் வளர்ச்சிநிலையைக் காணலாம்.  </p>
 
 <div class="atab">
-      <input id="tab-1" type="checkbox" name="tab">
-    <label for="tab-1" style="font-family:KaiTi;font-size:22px" class="lbCh"> 
+      <input id="tab-4" type="checkbox" name="tab">
+    <label for="tab-4" style="font-family:Anjal New InaiMathi Sch Book;font-size:22px" class="lbCh"> 
 </label>
      <div class="tab-content">
        <center>
@@ -157,11 +157,17 @@ margin-left:25px;
   
  <h2 id="C3" style="text-align:center;">தமிழ்மொழிப் பாடத்திட்டம் 2021</h2><br/>
 <img src="/images/TL-Sec_Image01.jpg"><br/>
- 2021 Tamil Curriculum<a href="https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf" target="_blank"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"></a>
- <center>
- <span style="font-size:18px;">உயர்நிலைத் &nbsp; தமிழ்மொழிப் &nbsp; பாடத்திட்ட &nbsp; வெளியீடு:</span><br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rGFqD2sxPfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<br/>
+ <a href="https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf" target="_blank" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பாடத்திட்டம் 2021 (உயர்நிலை)</a><br/>
+  
+<div class="atab">
+      <input id="tab-5" type="checkbox" name="tab">
+    <label for="tab-5" style="font-family:Anjal New InaiMathi Sch Book;font-size:22px" class="lbCh"> உயர்நிலைத் தமிழ்மொழிப் பாடத்திட்ட வெளியீடு
+</label>
+     <div class="tab-content">
+       <center>
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/rGFqD2sxPfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+</div></div>
+
  <h2 id="C8">தமிழருவி – பாடநூல், பயிற்சிநூல் </h2><br/><br/>
  புதிய கூறுகள் இளைய தலைமுறையினரை ஈர்க்கும் தன்மை கொண்ட பயிற்றுவளங்கள். <br/><br/>
 
