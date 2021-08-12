@@ -209,8 +209,14 @@ margin-left:25px;
    </div></div>
 
 <img src="/images/TL-Sec_Image05.jpg">
- <center>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/nnuIhutTDUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+  <div class="atab">
+      <input id="tab-6" type="checkbox" name="tab">
+    <label for="tab-6" style="font-family:Anjal New InaiMathi Sch Book; font-size:20px" class="lbCh"> Pending title
+</label>
+     <div class="tab-content">
+       <center>
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/nnuIhutTDUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+</div></div>
 
 <img src="/images/TL-Sec_Image06.jpg">
  
@@ -237,15 +243,16 @@ margin-left:25px;
 <img src="/images/TL-Sec_Image07.jpg">
    <h2 id="C6" style="font-family:Anjal New InaiMathi Sch Book;">தமிழ் இலக்கியம்</h2>
  <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify;">
- <strong>உயர்நிலை 3-இல்</strong> பயிலும் மாணவர்களுக்குத் தமிழ் இலக்கியம் ஒரு பாடமாக வழங்கப்படுகிறது. <br/>
+ <span style="font-weight:bold; color:purple;">உயர்நிலை 3-இல்</span> பயிலும் மாணவர்களுக்குத் தமிழ் இலக்கியம் ஒரு பாடமாக வழங்கப்படுகிறது. <br/>
  இப்பாடத்தைப் பயில விரும்பும் மாணவர்கள் உயர்நிலை 2 இறுதியில் <strong>தமிழ்மொழியில்</strong> A2 அல்லது <strong>உயர்தமிழில் </strong>B3 பெற்றிருத்தல் வேண்டும். </p>
 <img src="/images/TL-Sec_Image08.jpg"><br/>
   <a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019</a>
 
-<h2 id="C7" style="font-family:Anjal New InaiMathi Sch Book;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் (Tamil Language Elective Programme - TLEP)</h2>
+<h2 id="C7" style="font-family:Anjal New InaiMathi Sch Book; text-align:center;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் (Tamil Language Elective Programme - TLEP)</h2>
 <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. இத்திட்டம் உயர்நிலை 3-இல் தமிழ் இலக்கியம் பயிலும் மாணவர்களுக்கு உரியது. இது தற்போது மூன்று உயர்நிலைப்பள்ளிகளில் செயற்படுத்தப்படுகிறது.
 <br/><br/>
- <strong>இத்திட்டத்தின் நோக்கம் </strong><br/>
+ <strong>நோக்கம் </strong><br/>
+ <br/>
 தகுதி வாய்ந்த மாணவர்களைத் தமிழ்மொழியில் ஆற்றல் மிக்கவர்களாகவும் தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வைப் பேணி வளர்க்கவும் இத்திட்டம் வகைசெய்யும். அதோடு, மாணவர்களை இருமொழியாற்றல் மிக்கவர்களாக உருவாக்குவதே இந்தத் திட்டத்தின் நோக்கமாகும்.
 </p><br/>
 <img src="/images/TL-Sec_Image09.jpg">
