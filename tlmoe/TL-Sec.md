@@ -211,7 +211,7 @@ margin-left:25px;
 <img src="/images/TL-Sec_Image05.jpg"><br/>
   <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
-    <label for="tab-6" style="font-family:Anjal New InaiMathi Sch Book; font-size:20px" class="lbCh"> Pending title
+    <label for="tab-6" style="font-family:Anjal New InaiMathi Sch Book; font-size:20px" class="lbCh">நடப்புச் செய்திகள்
 </label>
      <div class="tab-content">
        <center>
