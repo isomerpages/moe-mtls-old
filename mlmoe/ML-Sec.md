@@ -241,7 +241,7 @@ margin-left:25px;
 </h4>
   <p>MOE menawarkan dua program elektif Bahasa Melayu yang berikut di peringkat sekolah menengah, jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS: 
 </p>
-<img src="/images/ML-Sec_EMAS-MLEP-Brochure.png"><br/>
+<a href="https://d33wubrfki0l68.cloudfront.net/236b836f4b98721b937df96dd19dbdd1d3c60ea6/a7b0a/images/ml-sec_emas-mlep-brochure.png" target="_blank"><img src="/images/ML-Sec_EMAS-MLEP-Brochure.png"></a><br/>
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
    <label for="tab-1" class="lbML">Program EMAS
@@ -260,7 +260,7 @@ margin-left:25px;
        <a href="https://www.moe.gov.sg/programmes/mlep-sec" target="_blank">Untuk maklumat lanjut tentang Permohonan Biasiswa
    </a>  </div></div>
    <br/>
-<a href="https://sites.google.com/view/emasmlep/home">Untuk maklumat lanjut tentang Program Elektif Bahasa Melayu Peringkat Sekolah Menengah</a><br/>
+<a href="https://sites.google.com/view/emasmlep/home" target="_blank">Untuk maklumat lanjut tentang Program Elektif Bahasa Melayu Peringkat Sekolah Menengah</a><br/>
   <p style="text-align:justify">Pihak sekolah dan MOE telah mengubahsuaikan aktiviti EMAS dan MLEP semasa pandemik COVID-19.</p>
    <br/>
 <h4 style="font-size:25px;color:green;" >PROGRAM DIGITAL ALTERNATIF</h4>
