@@ -241,7 +241,7 @@ margin-left:25px;
 </h4>
   <p>MOE menawarkan dua program elektif Bahasa Melayu yang berikut di peringkat sekolah menengah, jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS: 
 </p>
-<img src="/mlmoe/ml-sec12.png"><br/>
+<img src="/images/ML-Sec_EMAS-MLEP-Brochure.jpeg"><br/>
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
    <label for="tab-1" class="lbML">Program EMAS
