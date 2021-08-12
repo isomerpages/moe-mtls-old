@@ -169,7 +169,7 @@ margin-left:25px;
  <p style="text-align:left; font-family:Anjal New InaiMathi Sch Book; font-size:18px;">மாணவர்களை ஈர்க்கும் பயிற்றுவளங்கள். </p><br/>
  <h4 style="font-family:Anjal New InaiMathi Sch Book; font-size:32px; color:purple; text-align:left;">பாடநூல், பயிற்சிநூல் </h4><br/>
 
-  <img src="/tlmoe/TL-Textbooks-&-Workbooks.gif"><br/>
+  <img src="/images/TL-Sec_Textbooks-&-Workbooks.gif"><br/>
   <img src="/images/TL-Sec_Image06.jpg">
 <h2 style="font-family:Anjal New InaiMathi Sch Book; font-size:36; text-align:center;">மொழி விளையாட்டு </h2>
   <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; padding:8px; font-size:18px;"> சொல்வளப் பெருக்கம், பேச்சுவழிக் கருத்துப்பரிமாற்றம், எழுத்துவழிக் கருத்துப்பரிமாற்றம் முதலியவற்றுக்கு உதவும் மொழி விளையாட்டுகள் பாடநூல்களில் வழங்கப்பட்டுள்ளன. </p>
@@ -206,7 +206,7 @@ margin-left:25px;
  <br/>
 இதற்கு ஏதுவாக ஒவ்வோர் ஆண்டும் மாணவர்களுக்கு இலக்கியப் பனுவல்கள் அறிமுகப்படுத்தப்பெறுகின்றன.  இவ்வாண்டு உயர்நிலை ஒன்று மாணவர்களுக்குச் சிறுகதைகள் பாடவளங்களாக வழங்கப்பெற்றுள்ளன.
  அடுத்தாண்டு உயர்நிலை இரண்டு மாணவர்கள் கவிதை இலக்கியத்தைப் படித்து மகிழ்வர். </p>
-  <img src="/tlmoe/TL-Sec_Books.gif" style="width:40%;">
+  <img src="/images/TL-Sec_Books.gif" style="width:40%;">
   
 <img src="/images/TL-Sec_Image05.jpg"><br/>
   <div class="atab">
