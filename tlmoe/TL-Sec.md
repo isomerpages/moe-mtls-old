@@ -121,15 +121,15 @@ margin-left:25px;
  <a href="#C7" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்</a><br/>
  
 
-  <h2 id="C5" style="font-family:Anjal New InaiMathi Sch Book;">அறிமுகம் </h2> 
+  <h2 id="C5" style="font-family:Anjal New InaiMathi Sch Book; font-size:36; text-align:center;">அறிமுகம் </h2> 
 <table style="  border-collapse: collapse;
   width: 100%;">
    <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; padding:8px; font-size: 20px;">சிங்கப்பூரில் தாய்மொழிக் கல்வி காலத்திற்கேற்பப் பல மாற்றங்களைக் கண்டு வந்துள்ளது. &nbsp; 2005, 2010 ஆகிய ஆண்டுகளில் தாய்மொழிக் கல்வி குறித்த முக்கிய மறு ஆய்வுகள் மேற்கொள்ளப்பட்டன. இந்த மறு ஆய்வுகளில் தாய்மொழிக் கல்வி குறித்த முக்கியப் பரிந்துரைகள் முன்வைக்கப்பட்டன. கல்வி அமைச்சு அவற்றை ஏற்று முழுமையாகச் செயற்படுத்தி வருகின்றது.<br/>
    <br/>
     இதன் அடிப்படையில் தமிழ்மொழி கற்றல் கற்பித்தலை அடுத்தடுத்த மேம்பட்ட  நிலைக்குக் கொண்டு செல்ல அரசாங்கத்தின் உதவியோடு தொடர்ந்து பல முயற்சிகள் மேற்கொள்ளப்பட்டு வருகின்றன. </p><br/>
 
-  <h2 id="C1" style="font-family:Anjal New InaiMathi Sch Book; text-align:center;">உயர்நிலைப் பாடக்கலைத்திட்டங்கள்</h2>
- <h4><span style="font-family:Anjal New InaiMathi Sch Book; font-size:30px;color:purple;">நம் தொலை இலக்கு</span></h4>
+  <h2 id="C1" style="font-family:Anjal New InaiMathi Sch Book; font-size:36; text-align:center;">உயர்நிலைப் பாடக்கலைத்திட்டங்கள்</h2>
+ <h4 style="font-family:Anjal New InaiMathi Sch Book; font-size:32px; color:purple; text-align:left;">நம் தொலை இலக்கு</h4>
  <table style="  border-collapse: collapse;
   width: 100%;">
  
@@ -137,8 +137,8 @@ margin-left:25px;
    <br/>
    தொடக்கநிலைக் கல்வியை நிறைவு செய்யும் மாணவர்கள் உயர்நிலையில் கல்வியைத் தொடர்வார்கள். இவர்களுக்குத் <span style="font-weight:bold; color:purple;">தமிழ்மொழி, தமிழ் இலக்கியம், தமிழ்மொழி விருப்பப்பாடத் திட்டம்</span> என பல்வேறு பாடத்திட்டங்கள் வழங்கப்படுகின்றன. </p><br/>
 
-  <h2 id="C2" style="font-family:Anjal New InaiMathi Sch Book; text-align:center;">தமிழ்மொழி</h2>
- <p style="font-family:Anjal New InaiMathi Sch Book; text-align:left; font-weight:bold;">தமிழ்மொழிப் பாடத்திட்டம் (1958முதல் 2011வரை)</p>
+  <h2 id="C2" style="font-family:Anjal New InaiMathi Sch Book; font-size:36; text-align:center;">தமிழ்மொழி</h2>
+ <h4 style="font-family:Anjal New InaiMathi Sch Book; font-size:32px; color:purple; text-align:left;">தமிழ்மொழிப் பாடத்திட்டம் (1958முதல் 2011வரை)</h4>
   <p style=" text-align:justify; padding:8px; font-family:Anjal New InaiMathi Sch Book; font-size: 20px;"> சிங்கப்பூரில் 1834-ஆம் ஆண்டில்தான் முதல் தமிழ் வகுப்புத் தொடங்கப்பட்டது. ஆனால், 1958-ஆம் ஆண்டில்தான் தொடக்கநிலை, உயர்நிலைப் பள்ளிகளுக்குரிய தமிழ்மொழிப் பாடத்திட்டம் உருவாக்கப்பட்டது. இது ஆங்கிலத்தில் அச்சிடப்பெற்றிருந்தது. அதன் பின்னர், நமது அரசாங்கத்தால் செயற்படுத்தப்பெற்ற பல புதிய கல்விக்கொள்கைகளுக்கு ஏற்பப் பாடத்திட்டங்கள் திருத்தியமைக்கப்பெற்றன. <br/>
    <br/>
    பின்வரும் ஒளிக்காட்சியில் பாடத்திட்டத்தின் வளர்ச்சிநிலையைக் காணலாம்.  </p>
@@ -152,7 +152,7 @@ margin-left:25px;
   <iframe width="560" height="315" src="https://www.youtube.com/embed/6sBb03SK3wI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 </div></div>
   
- <h2 id="C3" style="font-family:Anjal New InaiMathi Sch Book; text-align:center;">தமிழ்மொழிப் பாடத்திட்டம் 2021</h2>
+ <h2 id="C3" style="font-family:Anjal New InaiMathi Sch Book; font-size:36; text-align:center;">தமிழ்மொழிப் பாடத்திட்டம் 2021</h2>
 <img src="/images/TL-Sec_Image01.jpg"><br/>
  <a href="https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf" target="_blank" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பாடத்திட்டம் 2021 (உயர்நிலை)</a><br/>
   
@@ -165,13 +165,13 @@ margin-left:25px;
          <iframe width="560" height="315" src="https://www.youtube.com/embed/rGFqD2sxPfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 </div></div>
 
- <h2 id="C8" style="font-family:Anjal New InaiMathi Sch Book; text-align:center;">தமிழ்மொழிப் பயற்றுவளங்கள்</h2>
+ <h2 id="C8" style="font-family:Anjal New InaiMathi Sch Book; font-size:36; text-align:center;">தமிழ்மொழிப் பயற்றுவளங்கள்</h2>
  <p style="text-align:left; font-family:Anjal New InaiMathi Sch Book;">மாணவர்களை ஈர்க்கும் பயிற்றுவளங்கள். <br/>
   பாடநூல், பயிற்சிநூல் </p><br/>
 
   <img src="/tlmoe/TL-Textbooks-&-Workbooks.gif"><br/>
   <img src="/images/TL-Sec_Image06.jpg">
-<h2 style="font-family:Anjal New InaiMathi Sch Book; text-align:left;">மொழி விளையாட்டு </h2>
+<h2 style="font-family:Anjal New InaiMathi Sch Book; font-size:36; text-align:center;">மொழி விளையாட்டு </h2>
   <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; padding:8px; font-size:20px;"> சொல்வளப் பெருக்கம், பேச்சுவழிக் கருத்துப்பரிமாற்றம், எழுத்துவழிக் கருத்துப்பரிமாற்றம் முதலியவற்றுக்கு உதவும் மொழி விளையாட்டுகள் பாடநூல்களில் வழங்கப்பட்டுள்ளன. </p>
 <br/>
 <table style=" border-collapse: collapse; width: 100%;">
@@ -190,25 +190,23 @@ margin-left:25px;
   <br/>
   <img src="/images/TL-Sec_Image07.jpg">
 
- <h2 id="C4" style="font-family:Anjal New InaiMathi Sch Book; font-size:60; text-align:center;">புதிய கூறுகளும் புதிய முயற்சிகளும் </h2>
+ <h2 id="C4" style="font-family:Anjal New InaiMathi Sch Book; font-size:36; text-align:center;">புதிய கூறுகளும் புதிய முயற்சிகளும் </h2>
  <img src="/images/TL-Sec_Image02.jpg"><br/>  
   <a href="#C9" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">பண்பாட்டறிவை வளப்படுத்துதல்</a>
   <a href="#C10" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">இலக்கியப் பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல்</a>
   <a href="#C11" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">மொழி கற்றலுக்குத் துணைவளமாக அமையும் தற்கால நடப்புச் செய்திகள்</a>
 <br/>
 
-<h2 id="C9" style="font-family:Anjal New InaiMathi Sch Book; text-align:left;">பண்பாட்டறிவை வளப்படுத்துதல்</h2>
+<h2 id="C9" style="font-family:Anjal New InaiMathi Sch Book;  font-size:36; text-align:left;">பண்பாட்டறிவை வளப்படுத்துதல்</h2>
 <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; padding:8px; font-size:20px;">மொழிக் கல்வியில் பண்பாட்டுக் கூறுகள் இரண்டறக் கலந்துள்ளன. பாடங்களுக்கு ஏற்பப் பொருந்துகின்ற வகையில் பண்பாட்டுக் கூறுகளை ஒருங்கிணைத்துக் கற்பிப்பதும் அவை தொடர்பான கலந்துரையாடல்களை மேற்கொள்வதும் தமிழ்மொழி கற்றலை வளப்படுத்தும். ஆகவே, பண்பாட்டறிவை வளப்படுத்தும் கற்றல் கற்பித்தலுக்குரிய வளங்கள் பயிற்றுவளங்களில் இணைக்கப்பெற்றிருக்கின்றன. </p>
      <img src="/images/TL-Sec_Image03.jpg">
  
- <h2 id="C10" style="font-family:Anjal New InaiMathi Sch Book; text-align:left;">இலக்கிய &nbsp; பனுவல்களின் &nbsp; வாயிலாக &nbsp; மொழி &nbsp; ஈடுபாட்டை &nbsp; வளர்த்தல் </h2>
+ <h2 id="C10" style="font-family:Anjal New InaiMathi Sch Book;  font-size:36; text-align:left;">இலக்கிய &nbsp; பனுவல்களின் &nbsp; வாயிலாக &nbsp; மொழி &nbsp; ஈடுபாட்டை &nbsp; வளர்த்தல் </h2>
 <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; padding: 8px; font-size:20px;">மாணவர்களின் மொழியறிவுக்கு ஏற்ற நல்ல இலக்கிய பனுவல்கள் கற்பனையாற்றலைத் தூண்டி நூல் படித்தலில் ஈர்ப்பை ஏற்படுத்தும். அதனால், அவர்களின் மொழி கற்றல் மேம்பட்டு, அவர்கள் பரந்துபட்ட நிலையில் படிக்கத் தொடங்குவார்கள்.<br/>
  <br/>
 இதற்கு ஏதுவாக ஒவ்வோர் ஆண்டும் மாணவர்களுக்கு இலக்கியப் பனுவல்கள் அறிமுகப்படுத்தப்பெறுகின்றன.  இவ்வாண்டு உயர்நிலை ஒன்று மாணவர்களுக்குச் சிறுகதைகள் பாடவளங்களாக வழங்கப்பெற்றுள்ளன.
  அடுத்தாண்டு உயர்நிலை இரண்டு மாணவர்கள் கவிதை இலக்கியத்தைப் படித்து மகிழ்வர். </p>
   <img src="/tlmoe/TL Sec Books.gif" style="width:40%;">
-  
-  <p id="C11">.</p>
   
 <img src="/images/TL-Sec_Image05.jpg"><br/>
   <div class="atab">
@@ -219,8 +217,8 @@ margin-left:25px;
        <center>
          <iframe width="560" height="315" src="https://www.youtube.com/embed/nnuIhutTDUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 </div></div>
-  
-<img src="/images/TL-Sec_Image04.jpg"><br/><br/>
+  <br/>
+<img src="/images/TL-Sec_Image04.jpg"><br/>
    <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
     <label for="tab-2" style="font-family:Anjal New InaiMathi Sch Book; font-size:20px; text-align:justify;" class="lbCh">மாணவர் கற்றல் தளம்
@@ -241,7 +239,7 @@ margin-left:25px;
   <img src="/images/TL-Sec_Image09.jpg">
 <br/>
   
-   <h2 id="C6" style="font-family:Anjal New InaiMathi Sch Book;">தமிழ் இலக்கியம்</h2>
+   <h2 id="C6" style="font-family:Anjal New InaiMathi Sch Book;  font-size:36; text-align:center;">தமிழ் இலக்கியம்</h2>
  <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify;">
  <span style="font-weight:bold; color:purple;">உயர்நிலை 3-இல்</span> பயிலும் மாணவர்களுக்குத் தமிழ் இலக்கியம் ஒரு பாடமாக வழங்கப்படுகிறது. <br/>
  இப்பாடத்தைப் பயில விரும்பும் மாணவர்கள் உயர்நிலை 2 இறுதியில் <strong>தமிழ்மொழியில்</strong> A2 அல்லது <strong>உயர்தமிழில் </strong>B3 பெற்றிருத்தல் வேண்டும். </p>
@@ -249,10 +247,10 @@ margin-left:25px;
   <a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019</a><br/>
   <img src="/images/TL-Sec_Image10.jpg">
 
-<h2 id="C7" style="font-family:Anjal New InaiMathi Sch Book; text-align:center;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் (Tamil Language Elective Programme - TLEP)</h2>
+<h2 id="C7" style="font-family:Anjal New InaiMathi Sch Book; font-size:36; text-align:center;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் (Tamil Language Elective Programme - TLEP)</h2>
 <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. இத்திட்டம் உயர்நிலை 3-இல் தமிழ் இலக்கியம் பயிலும் மாணவர்களுக்கு உரியது. இது தற்போது மூன்று உயர்நிலைப்பள்ளிகளில் செயற்படுத்தப்படுகிறது.
 <br/><br/>
- <strong>நோக்கம் </strong><br/>
+ <h4 style="font-family:Anjal New InaiMathi Sch Book; font-size:32px; color:purple; text-align:left;"நோக்கம் </h4><br/>
  <br/>
 தகுதி வாய்ந்த மாணவர்களைத் தமிழ்மொழியில் ஆற்றல் மிக்கவர்களாகவும் தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வைப் பேணி வளர்க்கவும் இத்திட்டம் வகைசெய்யும். அதோடு, மாணவர்களை இருமொழியாற்றல் மிக்கவர்களாக உருவாக்குவதே இந்தத் திட்டத்தின் நோக்கமாகும்.
 </p><br/>
