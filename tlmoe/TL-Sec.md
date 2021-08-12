@@ -111,10 +111,10 @@ margin-left:25px;
  <br/>
 <img src="/images/TL-Sec_Header.jpg">
 <br/>
- <a href="#C5" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 12px 10px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">அறிமுகம்</a>
- <a href="#C1" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 12px 10px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">உயர்நிலை </a>
- <a href="#C2" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 12px 10px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழ</a>
- <a href="#C3" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 12px 10px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பாடத்திட்டம் 2021</a>
+ <a href="#C5" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 14px 10px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">அறிமுகம்</a>
+ <a href="#C1" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 14px 10px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">உயர்நிலை </a>
+ <a href="#C2" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 14px 10px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழ</a>
+ <a href="#C3" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 14px 10px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பாடத்திட்டம் 2021</a>
  <a href="#C8" style="background-color: purple; font-size: 16px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பயற்றுவளங்கள்</a>
  <a href="#C4" style="background-color: purple; font-size: 16px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">புதிய கூறுகளும் புதிய முயற்சிகளும்</a>
  <a href="#C6" style="background-color: purple; font-size: 16px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியம்</a>
@@ -128,7 +128,7 @@ margin-left:25px;
    <br/>
     இதன் அடிப்படையில் தமிழ்மொழி கற்றல் கற்பித்தலை அடுத்தடுத்த மேம்பட்ட  நிலைக்குக் கொண்டு செல்ல அரசாங்கத்தின் உதவியோடு தொடர்ந்து பல முயற்சிகள் மேற்கொள்ளப்பட்டு வருகின்றன. </p><br/>
 
-  <h2 id="C1"><center>உயர்நிலைப் பாடக்கலைத்திட்டங்கள்<center></h2>
+  <h2 id="C1"><center>உயர்நிலைப் பாடக்கலைத்திட்டங்கள்</center></h2>
  <h4><span style="font-size:30px;color:purple;">நம் தொலை இலக்கு</span></h4>
  <table style="  border-collapse: collapse;
   width: 100%;">
@@ -146,9 +146,16 @@ margin-left:25px;
    <br/>
    பின்வரும் ஒளிக்காட்சியில் பாடத்திட்டத்தின் வளர்ச்சிநிலையைக் காணலாம்.  </p>
 
- <center>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/6sBb03SK3wI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
- <h2 id="C3">தமிழ்மொழிப் பாடத்திட்டம் 2021</h2><br/>
+<div class="atab">
+      <input id="tab-1" type="checkbox" name="tab">
+    <label for="tab-1" style="font-family:KaiTi;font-size:22px" class="lbCh"> 
+</label>
+     <div class="tab-content">
+       <center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6sBb03SK3wI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+</div></div>
+  
+ <h2 id="C3" style="text-align:center;">தமிழ்மொழிப் பாடத்திட்டம் 2021</h2><br/>
 <img src="/images/TL-Sec_Image01.jpg"><br/>
  2021 Tamil Curriculum<a href="https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf" target="_blank"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"></a>
  <center>
