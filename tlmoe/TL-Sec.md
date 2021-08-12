@@ -140,6 +140,7 @@ margin-left:25px;
   <h2 id="C2" style="font-family:Anjal New InaiMathi Sch Book; text-align:center;">தமிழ்மொழி</h2>
  <p style="font-family:Anjal New InaiMathi Sch Book; text-align:left; font-weight:bold;">தமிழ்மொழிப் பாடத்திட்டம் (1958முதல் 2011வரை)</p>
   <p style=" text-align:justify; padding:8px; font-family:Anjal New InaiMathi Sch Book; font-size: 20px;"> சிங்கப்பூரில் 1834-ஆம் ஆண்டில்தான் முதல் தமிழ் வகுப்புத் தொடங்கப்பட்டது. ஆனால், 1958-ஆம் ஆண்டில்தான் தொடக்கநிலை, உயர்நிலைப் பள்ளிகளுக்குரிய தமிழ்மொழிப் பாடத்திட்டம் உருவாக்கப்பட்டது. இது ஆங்கிலத்தில் அச்சிடப்பெற்றிருந்தது. அதன் பின்னர், நமது அரசாங்கத்தால் செயற்படுத்தப்பெற்ற பல புதிய கல்விக்கொள்கைகளுக்கு ஏற்பப் பாடத்திட்டங்கள் திருத்தியமைக்கப்பெற்றன. <br/>
+   <br/>
    பின்வரும் ஒளிக்காட்சியில் பாடத்திட்டத்தின் வளர்ச்சிநிலையைக் காணலாம்.  </p>
 
 <div class="atab">
@@ -151,7 +152,7 @@ margin-left:25px;
   <iframe width="560" height="315" src="https://www.youtube.com/embed/6sBb03SK3wI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 </div></div>
   
- <h2 id="C3" style="font-family:Anjal New InaiMathi Sch Book; text-align:center;">தமிழ்மொழிப் பாடத்திட்டம் 2021</h2><br/>
+ <h2 id="C3" style="font-family:Anjal New InaiMathi Sch Book; text-align:center;">தமிழ்மொழிப் பாடத்திட்டம் 2021</h2>
 <img src="/images/TL-Sec_Image01.jpg"><br/>
  <a href="https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf" target="_blank" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பாடத்திட்டம் 2021 (உயர்நிலை)</a><br/>
   
@@ -252,26 +253,18 @@ margin-left:25px;
 <img src="/images/TL-Sec_Image10.jpg">
      <br/>
 <img src="/images/TL-Sec_Image11.jpg">
- <div class="row">
- <div class="column">
-  <p><a href="/Gallery/TL-Sec-tlep-sec-infosheet-students-2019.pdf " target="_blank">TLEP Infosheet - Secondary</a></p>
-  </div> 
-
- <div class="column">
-  <p><a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf " target="_blank">TLEP Infosheet - JC</a></p> 
-   </div> 
-   </div>
+   <br/>
+  <a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">TLEP Infosheet - Secondary</a>
+  <a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">TLEP Infosheet - JC</a>
    <br/>
  <img src="/images/TL-Sec-TLEP-Schools-Update.jpg">  
 <br/><br/>
 
  <img src="/images/TL-Sec-Optional-Curriculum-Update.jpg"><br/>
-     <h2 style="font-family:Anjal New InaiMathi Sch Book;">மாணவர்களின் இலக்கியப் படைப்பு 
-</h2>
     
    <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-    <label for="tab-1" style="font-family:Anjal New InaiMathi Sch Book; font-size:20px; text-align:justify;">ஶ்ரீராம்_உயர்நிலை 3
+    <label for="tab-1" style="font-family:Anjal New InaiMathi Sch Book; font-size:20px; text-align:justify;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் பயிலும் மாணவர்களின் படைப்பு
 </label>
      <div class="tab-content">
 <center>
