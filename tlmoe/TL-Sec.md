@@ -139,16 +139,12 @@ margin-left:25px;
 
   <h2 id="C2" style="font-family:Anjal New InaiMathi Sch Book; text-align:center;">தமிழ்மொழி</h2>
  <p style="font-family:Anjal New InaiMathi Sch Book; text-align:left; font-weight:bold;">தமிழ்மொழிப் பாடத்திட்டம் (1958முதல் 2011வரை)</p>
- <table style="  border-collapse: collapse;
-  width: 100%;">
- 
   <p style=" text-align:justify; padding:8px; font-family:Anjal New InaiMathi Sch Book; font-size: 20px;"> சிங்கப்பூரில் 1834-ஆம் ஆண்டில்தான் முதல் தமிழ் வகுப்புத் தொடங்கப்பட்டது. ஆனால், 1958-ஆம் ஆண்டில்தான் தொடக்கநிலை, உயர்நிலைப் பள்ளிகளுக்குரிய தமிழ்மொழிப் பாடத்திட்டம் உருவாக்கப்பட்டது. இது ஆங்கிலத்தில் அச்சிடப்பெற்றிருந்தது. அதன் பின்னர், நமது அரசாங்கத்தால் செயற்படுத்தப்பெற்ற பல புதிய கல்விக்கொள்கைகளுக்கு ஏற்பப் பாடத்திட்டங்கள் திருத்தியமைக்கப்பெற்றன. <br/>
-   <br/>
    பின்வரும் ஒளிக்காட்சியில் பாடத்திட்டத்தின் வளர்ச்சிநிலையைக் காணலாம்.  </p>
 
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-    <label for="tab-4" style="font-family:Anjal New InaiMathi Sch Book; font-size:22px" class="lbCh"> உயர்நிலைத் தமிழ்மொழிப் பாடத்திட்டம் - 1958  முதல் 2011 வரை
+    <label for="tab-4" style="font-family:Anjal New InaiMathi Sch Book; font-size:20px" class="lbCh"> உயர்நிலைத் தமிழ்மொழிப் பாடத்திட்டம் - 1958  முதல் 2011 வரை
 </label>
      <div class="tab-content">
        <center>
@@ -157,11 +153,11 @@ margin-left:25px;
   
  <h2 id="C3" style="font-family:Anjal New InaiMathi Sch Book; text-align:center;">தமிழ்மொழிப் பாடத்திட்டம் 2021</h2><br/>
 <img src="/images/TL-Sec_Image01.jpg"><br/>
- <a href="https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf" target="_blank" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பாடத்திட்டம் 2021 (உயர்நிலை)</a><br/>
+ <a href="https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf" target="_blank" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பாடத்திட்டம் 2021 (உயர்நிலை)</a><br/>
   
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-    <label for="tab-5" style="font-family:Anjal New InaiMathi Sch Book;f ont-size:22px" class="lbCh"> உயர்நிலைத் தமிழ்மொழிப் பாடத்திட்ட வெளியீடு
+    <label for="tab-5" style="font-family:Anjal New InaiMathi Sch Book; font-size:20px" class="lbCh"> உயர்நிலைத் தமிழ்மொழிப் பாடத்திட்ட வெளியீடு
 </label>
      <div class="tab-content">
        <center>
@@ -177,9 +173,9 @@ margin-left:25px;
  <h2 id="C4" style="font-family:Anjal New InaiMathi Sch Book;">புதிய கூறுகளும் புதிய முயற்சிகளும் </h2>
  <img src="/images/TL-Sec_Image02.jpg">
   
-  <a href="#C9" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">பண்பாட்டறிவை வளப்படுத்துதல்</a>
-  <a href="#C10" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">இலக்கியப் பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல்</a>
-  <a href="#C11" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">மொழி கற்றலுக்குத் துணைவளமாக அமையும் தற்கால நடப்புச் செய்திகள்</a>
+  <a href="#C9" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">பண்பாட்டறிவை வளப்படுத்துதல்</a>
+  <a href="#C10" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">இலக்கியப் பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல்</a>
+  <a href="#C11" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">மொழி கற்றலுக்குத் துணைவளமாக அமையும் தற்கால நடப்புச் செய்திகள்</a>
 <br/>
 
 <h2 id="C9" style="font-family:Anjal New InaiMathi Sch Book; text-align:left;">பண்பாட்டறிவை வளப்படுத்துதல்</h2>
@@ -197,7 +193,7 @@ margin-left:25px;
 <img src="/images/TL-Sec_Image04.jpg"><br/><br/>
    <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-    <label for="tab-2" style="font-family:Anjal New InaiMathi Sch Book; font-size:22px; text-align:justify;" class="lbCh">மாணவர் கற்றல் தளம்
+    <label for="tab-2" style="font-family:Anjal New InaiMathi Sch Book; font-size:20px; text-align:justify;" class="lbCh">மாணவர் கற்றல் தளம்
 </label>
      <div class="tab-content">
 <center>
@@ -205,7 +201,7 @@ margin-left:25px;
 </div></div>
    <div class="atab">
      <input id="tab-3" type="checkbox" name="tab">
-   <label for="tab-3" style="font-family:Anjal New InaiMathi Sch Book; font-size:22px; text-align:justify;">எழுத்திலிருந்து பேச்சுமொழி வடிவமாற்றாம்
+   <label for="tab-3" style="font-family:Anjal New InaiMathi Sch Book; font-size:20px; text-align:justify;">எழுத்திலிருந்து பேச்சுமொழி வடிவமாற்றாம்
 </label>
      <div class="tab-content">
 <center>
@@ -244,7 +240,7 @@ margin-left:25px;
  <strong>உயர்நிலை 3-இல்</strong> பயிலும் மாணவர்களுக்குத் தமிழ் இலக்கியம் ஒரு பாடமாக வழங்கப்படுகிறது. <br/>
  இப்பாடத்தைப் பயில விரும்பும் மாணவர்கள் உயர்நிலை 2 இறுதியில் <strong>தமிழ்மொழியில்</strong> A2 அல்லது <strong>உயர்தமிழில் </strong>B3 பெற்றிருத்தல் வேண்டும். </p>
 <img src="/images/TL-Sec_Image08.jpg"><br/>
-தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019 <a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank"><img src="/tlmoe/TL_Sec_RightArrow_Button.png" style="width:48px; display:inline-block; vertical-align: middle;"></a>
+  <a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019</a>
 
 <h2 id="C7" style="font-family:Anjal New InaiMathi Sch Book;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் (Tamil Language Elective Programme - TLEP)</h2>
 <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. இத்திட்டம் உயர்நிலை 3-இல் தமிழ் இலக்கியம் பயிலும் மாணவர்களுக்கு உரியது. இது தற்போது மூன்று உயர்நிலைப்பள்ளிகளில் செயற்படுத்தப்படுகிறது.
@@ -275,7 +271,7 @@ margin-left:25px;
     
    <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-    <label for="tab-1" style="font-family:Anjal New InaiMathi Sch Book; font-size:18px; text-align:justify;">ஶ்ரீராம்_உயர்நிலை 3
+    <label for="tab-1" style="font-family:Anjal New InaiMathi Sch Book; font-size:20px; text-align:justify;">ஶ்ரீராம்_உயர்நிலை 3
 </label>
      <div class="tab-content">
 <center>
