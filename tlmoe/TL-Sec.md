@@ -171,7 +171,7 @@ margin-left:25px;
   <img src="/tlmoe/TL-Textbooks-&-Workbooks.gif">
 
  <h2 id="C4" style="font-family:Anjal New InaiMathi Sch Book;">புதிய கூறுகளும் புதிய முயற்சிகளும் </h2>
- <img src="/images/TL-Sec_Image02.jpg">
+ <img src="/images/TL-Sec_Image02.jpg"><br/>
   
   <a href="#C9" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">பண்பாட்டறிவை வளப்படுத்துதல்</a>
   <a href="#C10" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">இலக்கியப் பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல்</a>
@@ -182,7 +182,7 @@ margin-left:25px;
 <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; padding:8px; font-size:20px;">மொழிக் கல்வியில் பண்பாட்டுக் கூறுகள் இரண்டறக் கலந்துள்ளன. பாடங்களுக்கு ஏற்பப் பொருந்துகின்ற வகையில் பண்பாட்டுக் கூறுகளை ஒருங்கிணைத்துக் கற்பிப்பதும் அவை தொடர்பான கலந்துரையாடல்களை மேற்கொள்வதும் தமிழ்மொழி கற்றலை வளப்படுத்தும். ஆகவே, பண்பாட்டறிவை வளப்படுத்தும் கற்றல் கற்பித்தலுக்குரிய வளங்கள் பயிற்றுவளங்களில் இணைக்கப்பெற்றிருக்கின்றன. </p>
      <img src="/images/TL-Sec_Image03.jpg">
  
- <h2 id="C10" style="font-family:Anjal New InaiMathi Sch Book; font-size:20px; text-align:left;">இலக்கிய &nbsp; பனுவல்களின் &nbsp; வாயிலாக &nbsp; மொழி &nbsp; ஈடுபாட்டை &nbsp; வளர்த்தல் </h2>
+ <h2 id="C10" style="font-family:Anjal New InaiMathi Sch Book; font-size:22px; text-align:left;">இலக்கிய &nbsp; பனுவல்களின் &nbsp; வாயிலாக &nbsp; மொழி &nbsp; ஈடுபாட்டை &nbsp; வளர்த்தல் </h2>
 <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; padding: 8px; font-size:20px;">மாணவர்களின் மொழியறிவுக்கு ஏற்ற நல்ல இலக்கிய பனுவல்கள் கற்பனையாற்றலைத் தூண்டி நூல் படித்தலில் ஈர்ப்பை ஏற்படுத்தும். அதனால், அவர்களின் மொழி கற்றல் மேம்பட்டு, அவர்கள் பரந்துபட்ட நிலையில் படிக்கத் தொடங்குவார்கள்.<br/>
  <br/>
 இதற்கு ஏதுவாக ஒவ்வோர் ஆண்டும் மாணவர்களுக்கு இலக்கியப் பனுவல்கள் அறிமுகப்படுத்தப்பெறுகின்றன.  இவ்வாண்டு உயர்நிலை ஒன்று மாணவர்களுக்குச் சிறுகதைகள் பாடவளங்களாக வழங்கப்பெற்றுள்ளன.
