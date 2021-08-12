@@ -111,14 +111,14 @@ margin-left:25px;
  <br/>
 <img src="/images/TL-Sec_Header.jpg">
 <br/>
- <a href="#C5" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 18px 12px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">அறிமுகம்</a>
- <a href="#C1" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 18px 12px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">உயர்நிலை </a>
- <a href="#C2" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 18px 12px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழ</a>
- <a href="#C3" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 18px 12px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பாடத்திட்டம் 2021</a>
- <a href="#C8" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பயற்றுவளங்கள்</a>
- <a href="#C4" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">புதிய கூறுகளும் புதிய முயற்சிகளும்</a>
- <a href="#C6" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியம்</a>
- <a href="#C7" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்</a><br/>
+ <a href="#C5" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">அறிமுகம்</a>
+ <a href="#C1" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">உயர்நிலை </a>
+ <a href="#C2" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழ</a>
+ <a href="#C3" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பாடத்திட்டம் 2021</a>
+ <a href="#C8" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பயற்றுவளங்கள்</a>
+ <a href="#C4" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">புதிய கூறுகளும் புதிய முயற்சிகளும்</a>
+ <a href="#C6" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியம்</a>
+ <a href="#C7" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்</a><br/>
  
 
   <h2 id="C5" style="font-family:Anjal New InaiMathi Sch Book;">அறிமுகம் </h2> 
@@ -180,19 +180,14 @@ margin-left:25px;
   <a href="#C9" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">பண்பாட்டறிவை வளப்படுத்துதல்</a>
   <a href="#C10" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">இலக்கியப் பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல்</a>
   <a href="#C11" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">மொழி கற்றலுக்குத் துணைவளமாக அமையும் தற்கால நடப்புச் செய்திகள்</a>
-  <a href="#C12" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தகவல் தொடர்புத் தொழில்நுட்பத்தின் கூடுதல் ஒருங்கிணைப்பு (Tamil Language Elective Programme)</a><br/>
+<br/>
 
-<h2 id="C9" style="font-family:Anjal New InaiMathi Sch Book; text-align:center;">பண்பாட்டறிவை வளப்படுத்துதல்</h2>
-<p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; padding:8px; font-size:20px;"> மொழிக் கல்வியில் பண்பாட்டுக் கூறுகள் இரண்டறக் கலந்துள்ளன. பாடங்களுக்கு ஏற்பப் பொருந்துகின்ற வகையில் பண்பாட்டுக் கூறுகளை ஒருங்கிணைத்துக் கற்பிப்பதும் அவை தொடர்பான கலந்துரையாடல்களை மேற்கொள்வதும் தமிழ்மொழிக் கற்றலை வளப்படுத்தும். <br/>
- <br/>
-ஆகவே, பண்பாட்டறிவை வளப்படுத்தும் கற்றல் கற்பித்தலுக்குரிய வளங்கள் பாடநூலில்  இணைக்கப்பெற்றிருக்கின்றன.</p>
+<h2 id="C9" style="font-family:Anjal New InaiMathi Sch Book; text-align:left;">பண்பாட்டறிவை வளப்படுத்துதல்</h2>
+<p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; padding:8px; font-size:20px;">மொழிக் கல்வியில் பண்பாட்டுக் கூறுகள் இரண்டறக் கலந்துள்ளன. பாடங்களுக்கு ஏற்பப் பொருந்துகின்ற வகையில் பண்பாட்டுக் கூறுகளை ஒருங்கிணைத்துக் கற்பிப்பதும் அவை தொடர்பான கலந்துரையாடல்களை மேற்கொள்வதும் தமிழ்மொழி கற்றலை வளப்படுத்தும். ஆகவே, பண்பாட்டறிவை வளப்படுத்தும் கற்றல் கற்பித்தலுக்குரிய வளங்கள் பயிற்றுவளங்களில் இணைக்கப்பெற்றிருக்கின்றன. </p>
      <img src="/images/TL-Sec_Image03.jpg">
  
- <h2 id="C10" style="font-family:Anjal New InaiMathi Sch Book; text-align:center;">இலக்கியப் &nbsp; பனுவல்களின் <br/>
-   வாயிலாக &nbsp; மொழி &nbsp; ஈடுபாட்டை <br/>
-  வளர்த்தல்
- </h2>
-<p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; padding: 8px; font-size:20px;">மாணவர்களின் மொழியறிவுக்கு ஏற்ற நல்ல இலக்கிய பனுவல்கள் கற்பனையாற்றலைத் தூண்டி நூல் வாசித்தலில் ஈர்ப்பை ஏற்படுத்தும். அதனால், அவர்களின் மொழி கற்றல் மேம்பட்டு, அவர்கள் பரந்துபட்ட நிலையில் வாசிக்க தொடங்குவார்கள்.<br/>
+ <h2 id="C10" style="font-family:Anjal New InaiMathi Sch Book; font-size:20px; text-align:left;">இலக்கிய &nbsp; பனுவல்களின் &nbsp; வாயிலாக &nbsp; மொழி &nbsp; ஈடுபாட்டை &nbsp; வளர்த்தல் </h2>
+<p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; padding: 8px; font-size:20px;">மாணவர்களின் மொழியறிவுக்கு ஏற்ற நல்ல இலக்கிய பனுவல்கள் கற்பனையாற்றலைத் தூண்டி நூல் படித்தலில் ஈர்ப்பை ஏற்படுத்தும். அதனால், அவர்களின் மொழி கற்றல் மேம்பட்டு, அவர்கள் பரந்துபட்ட நிலையில் படிக்கத் தொடங்குவார்கள்.<br/>
  <br/>
 இதற்கு ஏதுவாக ஒவ்வோர் ஆண்டும் மாணவர்களுக்கு இலக்கியப் பனுவல்கள் அறிமுகப்படுத்தப்பெறுகின்றன.  இவ்வாண்டு உயர்நிலை ஒன்று மாணவர்களுக்குச் சிறுகதைகள் பாடவளங்களாக வழங்கப்பெற்றுள்ளன.
  அடுத்தாண்டு உயர்நிலை இரண்டு மாணவர்கள் கவிதை இலக்கியத்தைப் படித்து மகிழ்வர். </p>
@@ -208,7 +203,6 @@ margin-left:25px;
 <center>
   <iframe class="iframe2" width="560" height="315" src="https://www.youtube.com/embed/jisfwIJXdCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 </div></div>
-
    <div class="atab">
      <input id="tab-3" type="checkbox" name="tab">
    <label for="tab-3" style="font-family:Anjal New InaiMathi Sch Book; font-size:22px; text-align:justify;">எழுத்திலிருந்து பேச்சுமொழி வடிவமாற்றாம்
@@ -218,16 +212,14 @@ margin-left:25px;
   <iframe width="560" height="315" src="https://www.youtube.com/embed/grfbtAhjzxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
    </div></div>
 
-
-     <p id="C12">.</p>
 <img src="/images/TL-Sec_Image05.jpg">
  <center>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/nnuIhutTDUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <img src="/images/TL-Sec_Image06.jpg">
  
- <h2 style="font-family:Anjal New InaiMathi Sch Book; text-align:center;">மொழி விளையாட்டு </h2>
-<p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; padding:8px; font-size:20px;"> சொல்வளப் பெருக்கம், பேச்சுவழிக் கருத்துப்பரிமாற்றம், எழுத்துவழிக் கருத்துப்பரிமாற்றம் தலியவற்றுக்கு உதவும் மொழி விளையாட்டுகள் பாடநூல்களில் வழங்கப்படுகின்றன. </p>
+ <h2 style="font-family:Anjal New InaiMathi Sch Book; text-align:left;">மொழி விளையாட்டு </h2>
+<p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; padding:8px; font-size:20px;"> சொல்வளப் பெருக்கம், பேச்சுவழிக் கருத்துப்பரிமாற்றம், எழுத்துவழிக் கருத்துப்பரிமாற்றம் முதலியவற்றுக்கு உதவும் மொழி விளையாட்டுகள் பாடநூல்களில் வழங்கப்பட்டுள்ளன. </p>
 
 <br/>
 <table style=" border-collapse: collapse; width: 100%;">
