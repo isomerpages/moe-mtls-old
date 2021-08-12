@@ -111,10 +111,10 @@ margin-left:25px;
  <br/>
 <img src="/images/TL-Sec_Header.jpg">
 <br/>
- <a href="#C5" style="background-color: purple; font-size: 16px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">அறிமுகம்</a>
- <a href="#C1" style="background-color: purple; font-size: 16px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">உயர்நிலை </a>
- <a href="#C2" style="background-color: purple; font-size: 16px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழ</a>
- <a href="#C3" style="background-color: purple; font-size: 16px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பாடத்திட்டம் 2021</a>
+ <a href="#C5" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 12px 10px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">அறிமுகம்</a>
+ <a href="#C1" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 12px 10px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">உயர்நிலை </a>
+ <a href="#C2" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 12px 10px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழ</a>
+ <a href="#C3" style="background-color: purple; font-size: 18px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 12px 10px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பாடத்திட்டம் 2021</a>
  <a href="#C8" style="background-color: purple; font-size: 16px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பயற்றுவளங்கள்</a>
  <a href="#C4" style="background-color: purple; font-size: 16px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">புதிய கூறுகளும் புதிய முயற்சிகளும்</a>
  <a href="#C6" style="background-color: purple; font-size: 16px; font-family:KaiTi; font-weight: bold; text-decoration: none; padding: 16px 16px; color: #ffffff; border-radius: 22px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியம்</a>
