@@ -148,7 +148,7 @@ margin-left:25px;
 
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-    <label for="tab-4" style="font-family:Anjal New InaiMathi Sch Book;font-size:22px" class="lbCh"> 
+    <label for="tab-4" style="font-family:Anjal New InaiMathi Sch Book;font-size:22px" class="lbCh"> xxxx
 </label>
      <div class="tab-content">
        <center>
@@ -161,15 +161,16 @@ margin-left:25px;
   
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-    <label for="tab-5" style="font-family:Anjal New InaiMathi Sch Book;font-size:22px" class="lbCh"> உயர்நிலைத் தமிழ்மொழிப் பாடத்திட்ட வெளியீடு
+    <label for="tab-5" style="font-family:Anjal New InaiMathi Sch Book;f ont-size:22px" class="lbCh"> உயர்நிலைத் தமிழ்மொழிப் பாடத்திட்ட வெளியீடு
 </label>
      <div class="tab-content">
        <center>
          <iframe width="560" height="315" src="https://www.youtube.com/embed/rGFqD2sxPfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 </div></div>
 
- <h2 id="C8">தமிழருவி – பாடநூல், பயிற்சிநூல் </h2><br/><br/>
- புதிய கூறுகள் இளைய தலைமுறையினரை ஈர்க்கும் தன்மை கொண்ட பயிற்றுவளங்கள். <br/><br/>
+ <h2 id="C8" style="text-align:center;">தமிழ்மொழிப் பயற்றுவளங்கள்</h2><br/>
+ <p style="text-align:left; font-family:Anjal New InaiMathi Sch Book;">மாணவர்களை ஈர்க்கும் பயிற்றுவளங்கள். <br/>
+  பாடநூல், பயிற்சிநூல் </p><br/><br/>
 
   <img src="/tlmoe/TL-Textbooks-&-Workbooks.gif">
 
