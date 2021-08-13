@@ -258,17 +258,17 @@ margin-left:25px;
 </div>
   <div class="column">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/oJ7ttvcCRHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:18px;">கி.ராஜநாராயணன் </span>
+<br/><span style="font-size:18px;">இலக்கியத்தை ஒலிப்பதிவு செய்து ரசித்தல்</span>
  </div></div>
  <br/>
 <div class="row">
  <div class="column">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/FZjb6qKIq6E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:18px;">Oonjal Drama Audio </span>
+<br/><span style="font-size:18px;">எழுத்தாளர்களைச் சந்தித்தல்</span>
 </div>
   <div class="column">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/qljj-dUi6Tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:18px;">samuthaya veethi authors audio </span>
+<br/><span style="font-size:18px;">எழுத்தாளர்களைப்பற்றி அறிந்துகொள்ளுதல்</span>
  </div></div></center>
  <br/>
 
