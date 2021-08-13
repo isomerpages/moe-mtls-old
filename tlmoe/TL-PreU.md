@@ -252,8 +252,7 @@ margin-left:25px;
  <center>
  <div class="row">
  <div class="column">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/5foX5Qdi3Tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">(கதவு) 
-</span>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/5foX5Qdi3Tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;">கதவு </span>
   <br/>
 </div>
   <div class="column">
