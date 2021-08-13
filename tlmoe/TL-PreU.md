@@ -257,18 +257,18 @@ margin-left:25px;
   <br/>
 </div>
   <div class="column">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/QWvTSMtiopU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:18px;">கி.ராஜநாராயணன் (Pending)  </span>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/oJ7ttvcCRHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/><span style="font-size:18px;">கி.ராஜநாராயணன் </span>
  </div></div>
  <br/>
 <div class="row">
  <div class="column">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/Ss0CN2L5SYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:18px;">Oonjal Drama Audio  (Pending) </span>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/FZjb6qKIq6E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/><span style="font-size:18px;">Oonjal Drama Audio </span>
 </div>
   <div class="column">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZbvDUQFSdO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:18px;">samuthaya veethi authors audio(Pending)   </span>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/qljj-dUi6Tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/><span style="font-size:18px;">samuthaya veethi authors audio </span>
  </div></div></center>
  <br/>
 
