@@ -261,7 +261,7 @@ margin-left:25px;
     <td colspan="4" style="border: 0;
   text-align: left;
   padding: 8px; width:50%;"> 
-  <img src="/mlmoe/pda7.png" style="margin-top:20%;">
+  <img src="/mlmoe/pda7.png">
 	</td></tr>
 <tr>
     <td style="border: 0;
