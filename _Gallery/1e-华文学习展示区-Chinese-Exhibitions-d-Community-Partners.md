@@ -78,7 +78,7 @@ table {
       <div class="tab-content">
           <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;">滨海艺术中心</h4>
         <p style="font-family:KaiTi;font-size:21px;margin:10px;">
-         作为国家表演艺术中心，滨海艺术中心深信每个人都应有接触艺术的机会。滨海艺术中心希望公众了解他们是如何通过全年多元化的艺术表演，吸引孩童与青年接触艺术，从而激发他们的创意与想象力。学生也可以在Esplanade Offstage浏览特别为他们所编制的线上学习资源，将艺术带入课堂和家中。这些资源不仅能激发学生学习母语的动力，还能让他们了解不同的文化和传统。。
+         作为国家表演艺术中心，滨海艺术中心深信每个人都应有接触艺术的机会。滨海艺术中心希望公众了解他们是如何通过全年多元化的艺术表演，吸引孩童与青年接触艺术，从而激发他们的创意与想象力。学生也可以在Esplanade Offstage浏览特别为他们所编制的线上学习资源，将艺术带入课堂和家中。这些资源不仅能激发学生学习母语的动力，还能让他们了解不同的文化和传统。
  </p><br/>
           <h4 style="margin:10px;">Esplanade - Theatres on the Bay</h4>
         <p style="margin:10px;">
@@ -125,7 +125,7 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
           为了让更多年幼的观众喜欢华文华语，okto依据深受小朋友们喜爱的英语节目“Word Whiz or Slime Pit”设计、制作了两部华语续集：《成语就“浆”说》和《华文“浆”好玩》。这两部续集注入了Word Whiz节目的精髓，以有趣的人物和好玩的游戏，吸引更多小观众喜欢上华文华语。</p><br/>
           <h4 style="margin:10px;">Word Whiz or Slime Pit!</h4>
           <p style="margin:10px;">Mediacorp believes that content creation has no language boundaries. Audiences will watch a show if they enjoy the content, even if it is in a foreign language.<br/><br />
-          To entice young viewers to Chinese, okto rides on their top-rated English title “Word Whiz or Slime Pit” to create spin-offs like “Word Whiz (Idioms)” and “Word Whiz (Mandarin)” for the Chinese-speaking audience. The same approach towards learning has been adopted in these titles, featuring entertaining characters, word puzzles and game elements in the show, all aimed to engage the audience and spark their interest in Chinese.</p>
+          To entice young viewers to learn Chinese, okto rides on their top-rated English title “Word Whiz or Slime Pit” to create spin-offs like “Word Whiz (Idioms)” and “Word Whiz (Mandarin)” for the Chinese-speaking audience. The same approach towards learning has been adopted in these titles, featuring entertaining characters, word puzzles and game elements in the show, all aimed to engage the audience and spark their interest in Chinese.</p>
       </div>
 </div>
 </td>
@@ -142,7 +142,7 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
           <p style="font-family:KaiTi;font-size:21px;margin:10px;">欢迎大家与国家文物局一起通过文化遗产来认识母语! 在此，讲华语运动委员会、新加坡马来语文理事会及淡米尔语言理事会将分享丰富的材料与资源，鼓励公众一起学习母语。同时，家长也能进一步了解新加坡的各大文物机构，如：印族文化馆、马来文化馆和晚晴园----中山南洋纪念馆，找到适合孩子索及学习母语的活动，并通过这些活动让孩子在课堂外继续积极学习及使用母语。</p><br/>
           <h4 style="margin:10px;">Discover Mother Tongue Languages through Heritage and Culture with The National Heritage Board</h4>
         <p style="margin:10px;">
-        Discover Mother Tongue Languages through heritage and culture with the National Heritage Board ! Find out more about language programmes, tips and resources with the Speak Mandarin Campaign, the Malay Language Council, Singapore, and the Tamil Language Council. Learn more about the Heritage Institutions – the Indian Heritage Centre, Malay Heritage Centre and Sun Yat Sen Nanyang Memorial Hall. Parents can find out more about the learning opportunities available for the young, while educators can explore opportunities that expand learning beyond the classroom.</p>
+        Discover Mother Tongue Languages through heritage and culture with the National Heritage Board ! Find out more about language programmes, tips and resources with the Speak Mandarin Campaign, the Tamil Language Council and the Malay Language Council of Singapore. Learn more about the Heritage Institutions – the Indian Heritage Centre, Malay Heritage Centre and Sun Yat Sen Nanyang Memorial Hall. Parents can find out more about the learning opportunities available for the young, while educators can explore opportunities that expand learning beyond the classroom.</p>
       </div>
 </div>
 </td>
@@ -216,7 +216,7 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
       <div class="tab-content">
           <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;">新加坡动物园伴你读故事</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">新加坡动物园提供生动而独特的动物故事题材，帮助孩子提高阅读能力。<br/>
-              例如《一只受困的小水獭》这本无字书讲述了一只江獭获救的故事。这本图书附带一份活动指南，指导教师和家长培养学前儿童成为富有想象力的讲故事小能手。讲故事是一种非常有趣的活动方式，能够丰富孩子词汇和激发创造力。<br/><br />
+              例如:《一只受困的小水獭》这本无字书讲述了一只江獭获救的故事。这本图书附带一份活动指南，指导教师和家长培养学前儿童成为富有想象力的讲故事小能手。讲故事是一种非常有趣的活动方式，能够丰富孩子的词汇和激发创造力。<br/><br />
               在探索学习活动中，新加坡动物园还专门为小学生准备了视频和图片，提供讲华语的机会，提升他们的沟通技能。
 
 </p><br/>
@@ -236,9 +236,9 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
       <input id="tab-7" type="checkbox" name="tab">
       <label for="tab-7" class="lbCh"><span style="font-size:25px; font-family:KaiTi">新加坡华文教研中心</span><br/>Singapore Centre for Chinese Language</label>
       <div class="tab-content">
-           <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;">创新实用的研究生动有趣的读本</h4>
+           <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;">创新实用的研究 生动有趣的读本</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-         新加坡华文教研中心一直以来都不遗余力地推展华文教研活动，积积极创建并推广在双语环境中行之有效的华文教学法，以期促进华族语言文化在新加坡的发展。<br/><br />
+         新加坡华文教研中心一直以来都不遗余力地推展华文教研活动，积极创建并推广在双语环境中行之有效的华文教学法，以期促进华族语言文化在新加坡的发展。<br/><br />
           近年来，中心分别为小学生和中学生推出了《新新岛》和《奇狮妙想》分级读本系列。这些读本图文并茂、生动有趣，可激发学生的阅读兴趣，吸引他们乐学华文。</p><br/>
           <h4 style="margin:10px;">Innovative Research, Captivating Books</h4>
         <p style="margin:10px;">
@@ -259,10 +259,10 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
       <div class="tab-content">
       <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;">推广华文学习委员会</h4>
         <p style="font-family:KaiTi;font-size:21px;margin:10px;">
-        推广华文学习委员会成立于2005年，旨在争取社会各界对华文教学改革的支持，推动学校、社区组织和媒体之间的合作，营造有利于学习与使用华文华语的大环境。委员会共设立了写作、文化、阅读、学前，以及宣传与数码五个小组。主办了“新空下——全国学生新谣节”“世界书香日暨文学四月天”“爱上华文街舞比赛”等广受欢迎的活动，为学生提供了快乐学习和使用华文华语的机会。公众可通过电子展板，了解这些活动的详情。</p><br/>
+        推广华文学习委员会成立于2005年，旨在争取社会各界对华文教学改革的支持，推动学校、社区组织和媒体之间的合作，营造有利于学习与使用华文华语的大环境。委员会共设立了写作、文化、阅读、学前，以及宣传与数码五个小组。主办了“新空下——全国学生新谣节”、“世界书香日暨文学四月天”、“爱上华文街舞比赛”等广受欢迎的活动，为学生提供了快乐学习和使用华文华语的机会。公众可通过电子展板，了解这些活动的详情。</p><br/>
 
 <h4 style="margin:10px;">Committee to Promote Chinese Language Learning</h4>
-<p style="margin:10px;">The Committee to Promote Chinese Language Learning (CPCLL) has been working actively with schools, community organisations and the media since 2005 to create a conducive environment for promoting the learning and usage of Chinese beyond the classroom. The Committee consists of five groups, namely the Writing, Culture, Reading, Pre-school, and Outreach & Digital groups.  Signature programmes and key activities include the “Xin Kong Xia” National Schools Xinyao Festival, World Book Day and Literature under the April Sky, and the Chinese Street Dance Competition. An e-gallery showcases how the use of Chinese is  promoted through the engagement of both parents and students.
+<p style="margin:10px;">The Committee to Promote Chinese Language Learning (CPCLL) has been working actively with schools, community organisations and the media since 2005 to create a conducive environment for promoting the learning and usage of Chinese beyond the classroom. The Committee consists of five groups, namely Writing, Culture, Reading, Pre-school, and Outreach & Digital groups.  Signature programmes and key activities include the “Xin Kong Xia” National Schools Xinyao Festival, World Book Day and Literature under the April Sky, and the Chinese Street Dance Competition. An e-gallery showcases how the use of Chinese is  promoted through the engagement of both parents and students.
 </p>
       </div>
 </div>
