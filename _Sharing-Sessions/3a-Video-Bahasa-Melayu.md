@@ -83,7 +83,7 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab atab3Line">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1"  class="lbML">Pembelajaran Bahasa Melayu yang Menarik untuk Kanak-kanak  <br/>Bahasa Melayu  <br/>Mdm Nurashikin Jasni
+      <label for="tab-1"  class="lbML">Pembelajaran Bahasa Melayu yang Menarik untuk Kanak-kanak  <br/> Mdm Nurashikin Jasni
 </label>
       <div class="tab-content">
        <br/>
@@ -141,7 +141,7 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
       Pengajaran bahasa ibunda tidak terhad pada penggunaan teknologi.Malah, pembelajaran teradun yang menggabungkan teknologi dengan strategi-strategi lain yang mudah dan seronok dapat menarik minat kanak-kanak. Sesi e-bengkel ini bertujuan untuk berkongsi pendekatan yang berkesan dalam pengajaran bahasa Melayu dengan menggunakan haiwan-haiwan dan alam sekitar di WRS sebagai bahan maujud. Para peserta akan didedahkan kepada konsep pendidikan berpusatkan murid seperti melengkapkan cerita, aktiviti kraf tangan, strategi ‘lihat-fikir-tanya’, ‘kod hutan!’ dan juga pendekatan lain yang boleh dijalankan di rumah ataupun di dalam bilik darjah. Pengajaran autentik ini merangkumi kemahiran bertutur, mendengar dan melihat yang berteraskan rangka kerja Bahasa Ibunda. Perkara ini menepati tujuan WRS yang ingin mendekatkan murid dengan alam sekitar dan haiwan.
 </p><br/>  
  <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profile</h4>   
-       <p style="margin:10px;">Mr Haniman Boniran is an Education Manager with Wildlife Reserves Singapore (WRS). He first became involved in environmental education as a school Mr Haniman Boniran is an Education Manager with Wildlife Reserves Singapore (WRS). He first became involved in environmental education as a school volunteer at the Singapore Zoo in 2001. Over the last decade, he has worked in diverse areas of education including early childhood education, language-based education and teacher training as part of the authentic learning experiences offered at WRS. Partnering schools and language-based practitioners, he conducts workshops, co-creates resources and organises in-park educational programmes for teachers and students. Mr Haniman is in a certified institute as an Adult Learning educator and enjoys interacting with parents and partners from the community.</p>
+       <p style="margin:10px;">Mr Haniman Boniran is an Education Manager with Wildlife Reserves Singapore (WRS). He first became involved in environmental education as a school volunteer at the Singapore Zoo in 2001. Over the last decade, he has worked in diverse areas of education including early childhood education, language-based education and teacher training as part of the authentic learning experiences offered at WRS. Partnering schools and language-based practitioners, he conducts workshops, co-creates resources and organises in-park educational programmes for teachers and students. Mr Haniman is in a certified institute as an Adult Learning educator and enjoys interacting with parents and partners from the community.</p>
  <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Synopsis</h4>  
        <p style="margin:10px;"><strong>Let’s Learn Malay at the Zoo!</strong><br/>
        With technology, the learning of Mother Tongue Languages (MTL) can be enhanced through engaging and blended learning strategies. This sharing session aims to share strategies that enhance Malay literacy. Participants will be taken virtually into the immersive environments of the Singapore Zoo to meet our animal ambassadors. Using photographs, videos and the “wordless book” concept specially curated by the Singapore Zoo, children’s curiosity about animals will be stimulated through creative expression and thinking routines. The child-centric activities covered in this session are applicable at home, in the classroom and the outdoors. These authentic learning activities will provide opportunities for children to enhance their listening and speaking skills such as responding in Malay, which is aligned to the learning goals highlighted in the Nurturing Early Learners (NEL) Framework for MTL.</p>
@@ -155,7 +155,7 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4"  class="lbML">Ayuh, perkayakan lagi pengalaman mendengar cerita kanak-kanak!
+      <label for="tab-4"  class="lbML">Ayuh, Perkaya Pengalaman Kanak-kanak Mendengar Cerita!
 <br/>Mdm Jumaini bte Ariff
 </label>
       <div class="tab-content">      
@@ -188,7 +188,7 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3"  class="lbML">Membimbing anak-anak berkeperluan khas mencapai tahap celikhuruf dan komunikasi yang fasih
+      <label for="tab-3"  class="lbML">Membimbing Anak-anak Berkeperluan Khas Mencapai Tahap Celik Huruf dan Komunikasi yang Fasih
  <br/>A/P Sharifah Mariam Aljunied
 </label>
       <div class="tab-content">      
@@ -258,7 +258,7 @@ What can educators and parents do to motivate young minds to love learning Malay
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
-      <label for="tab-6" class="lbML">Pemerolehan Dwibahasa dalam kalangan kanak-kanak: Strategi-strategi Pragmatik
+      <label for="tab-6" class="lbML">Pemerolehan Dwibahasa dalam Kalangan Kanak-kanak: Strategi-strategi Pragmatik
  <br/>A/P Roksana Bibi bte Abdullah
 </label>
       <div class="tab-content">      
@@ -272,7 +272,7 @@ What can educators and parents do to motivate young minds to love learning Malay
 </p>
    </div>
          <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil</h4>  
-       <p style="margin:10px;">Dr Roksana Bibi binti Abdullah merupakan Profesor Madya di Kumpulan Akademik Bahasa dan Kebudayaan Asia, Institut Pendidikan Nasional (NIE) sejak 1 April 2010. Beliau telah mula berkhidmat di NIE sejak tahun 1994. Dr Roksana menerima pendidikan ijazah sarjana muda (Kepujian) dalam bidang Linguistik Melayu dari Universiti Kebangsaan Malaysia pada tahun 1989 dan Sarjana Bahasa Moden dari Universiti Malaya pada tahun 1994. Beliau telah meraih ijazah Kedoktoran dalam bidang Linguistik pada tahun 2002. Fokus kajian dan pengajaran Dr Roksana tertumpu pada isu-isu Bahasa dan Gender, Analisis Kontrastif dan Analisis Kesilapan, Pengekalan dan Pengalihan Bahasa, serta Implementasi Kurikulum dalam Pendidikan Awal di Sekolah Rendah di Singapura.</p>
+       <p style="margin:10px;">Dr Roksana Bibi binte Abdullah merupakan Profesor Madya di Kumpulan Akademik Bahasa dan Kebudayaan Asia, Institut Pendidikan Nasional (NIE) sejak 1 April 2010. Beliau telah mula berkhidmat di NIE sejak tahun 1994. Dr Roksana menerima pendidikan ijazah sarjana muda (Kepujian) dalam bidang Linguistik Melayu dari Universiti Kebangsaan Malaysia pada tahun 1989 dan Sarjana Bahasa Moden dari Universiti Malaya pada tahun 1994. Beliau telah meraih ijazah Kedoktoran dalam bidang Linguistik pada tahun 2002. Fokus kajian dan pengajaran Dr Roksana tertumpu pada isu-isu Bahasa dan Gender, Analisis Kontrastif dan Analisis Kesilapan, Pengekalan dan Pengalihan Bahasa, serta Implementasi Kurikulum dalam Pendidikan Awal di Sekolah Rendah di Singapura.</p>
         <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Sinopsis</h4>  
        <p style="margin:10px;"><strong>Pemerolehan Dwibahasa dalam kalangan kanak-kanak: Strategi-strategi Pragmatik</strong><br/>
    Dasar dwibahasa dalam sistem pendidikan di Singapura tertumpu pada penguasaan bahasa Inggeris sebagai bahasa pertama dan bahasa ibunda sebagai bahasa kedua. Ibu bapa menekankan pemerolehan bahasa Inggeris kepada anak-anak mereka dengan mengaplikasikan pelbagai strategi bagi mencapai matlamat ini.<br/><br/>
@@ -334,7 +334,7 @@ In Mdm Nurain Syakirah’s sharing, parents and educators will understand how re
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
-      <label for="tab-8" class="lbML">Pelbagai Teknik Bercerita Bagi Membangunkan Kemampuan Berbahasa Dalam Kalangan Kanak-kanak Prasekolah
+      <label for="tab-8" class="lbML">Pelbagai Teknik Bercerita Bagi Membangunkan Kemampuan Berbahasa Dalam Kalangan Kanak-kanak Prasekolah dan Murid-murid Sekolah Rendah
  <br/>Mr Herman Rothman
 </label>
       <div class="tab-content">      
