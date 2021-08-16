@@ -282,7 +282,7 @@ What can educators and parents do to motivate young minds to love learning Malay
 </p><br/>
 <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profile</h4>  
        <p style="margin:10px;">Dr Roksana Bibi binte Abdullah is an Associate Professor at the Asian Languages and Cultures Academic Group at the National Institute of Education (NIE). She received her Bachelor of Arts (Hons) in Malay Linguistics from the National University of Malaysia in 1989 and Master of Modern Languages from the University of Malaya in 1994. In 2002, she obtained a Doctor of Philosophy in Linguistics from the University of Malaya.<br/><br/>
-        Her teaching and research interests are mainly in language and gender issues, contrastive and error analysis,language, culture and values, language maintenance and language shift, and curriculum implementation in early primary schooling in Singapore.
+        Her teaching and research interests are mainly in language and gender issues, contrastive and error analysis, language, culture and values, language maintenance and language shift, and curriculum implementation in early primary schooling in Singapore.
 </p>
   <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Synopsis</h4>  
        <p style="margin:10px;"><strong>Pragmatic Parental Strategies in Early Bilingual Acquisition </strong><br/>
