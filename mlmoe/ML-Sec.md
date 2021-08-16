@@ -248,23 +248,8 @@ margin-left:25px;
    <label for="tab-1" class="lbML">Program EMAS
 </label>
      <div class="tab-content">
-       <img src="/images/ML-Sec_EMAS-Poster.jpg">
-   </div></div>
-   
-  <div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-   <label for="tab-2" class="lbML">Program MLEP-Menengah
-</label>
-     <div class="tab-content">
-       <img src="/images/ML-Sec_EMAS-Poster.jpg"> <br/>
-       <a href="https://sites.google.com/view/emasmlep/home" target="_blank">Untuk maklumat lanjut tentang Program Elektif Bahasa Melayu </a><br/>
-       <a href="https://www.moe.gov.sg/programmes/mlep-sec" target="_blank">Untuk maklumat lanjut tentang Permohonan Biasiswa
-   </a>  </div></div>
-   <br/>
-<a href="https://sites.google.com/view/emasmlep/home" target="_blank">Untuk maklumat lanjut tentang Program Elektif Bahasa Melayu Peringkat Sekolah Menengah</a><br/>
-  <p style="text-align:justify">Pihak sekolah dan MOE telah mengubahsuaikan aktiviti EMAS dan MLEP semasa pandemik COVID-19.</p>
-
-<h4 style="font-size:25px;color:green;" >PROGRAM DIGITAL ALTERNATIF</h4>
+       <img src="/images/ML-Sec_EMAS-Poster.jpg"><br/>
+	<p style="font-size:25px; font-weight:bold;" >PROGRAM DIGITAL ALTERNATIF</p>
    <table style="font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;">
@@ -293,25 +278,8 @@ margin-left:25px;
 </td>
     </tr>
    </table>
-     <br/>
-   <table style="font-family: arial, sans-serif;
-  border-collapse: collapse;
- width: 100%;">
-  <strong> Bengkel Pengayaan Maya untuk pelajar Menengah 2 dan 3 </strong>
-  <tr>
-    <td style="border: 0;
-  text-align: left;
-  padding: 8px;">
-  <img src="/mlmoe/pda5.jpg">
- </td>
-    <td style="border: 0;
-  text-align: left;
-  padding: 8px;">
-   <img src="/mlmoe/pda6.jpg">
-</td></tr>
-   </table>
-   <br/>
-   <table style="font-family: arial, sans-serif;
+<br/>
+	<table style="font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;">
   <strong> Simposium EMAS untuk pelajar Menengah 3 dan 4</strong>
@@ -329,10 +297,34 @@ margin-left:25px;
      <img src="/mlmoe/pda10.png">
 </td></tr>
    </table>
-     <br/>
-      <h4  style="font-size:25px;color:green;" >Program Elektif Bahasa Melayu Sekolah Menengah
-</h4>
-<p><strong>Penulisan pelajar Menengah 3 dan 4 </strong></p>
+   </div></div>
+   
+  <div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+   <label for="tab-2" class="lbML">Program MLEP-Menengah
+</label>
+     <div class="tab-content">
+       <img src="/images/ML-Sec_MLEP-Poster.jpg"> <br/>
+	<p style="font-size:25px; font-weight:bold;" >PROGRAM DIGITAL ALTERNATIF</p>
+	<table style="font-family: arial, sans-serif;
+  border-collapse: collapse;
+ width: 100%;">
+  <strong> Bengkel Pengayaan Maya untuk pelajar Menengah 2 dan 3 </strong>
+  <tr>
+    <td style="border: 0;
+  text-align: left;
+  padding: 8px;">
+  <img src="/mlmoe/pda5.jpg">
+ </td>
+    <td style="border: 0;
+  text-align: left;
+  padding: 8px;">
+   <img src="/mlmoe/pda6.jpg">
+</td></tr>
+   </table>
+<br/>
+<p style="font-size:25px; font-weight:bold;" >PROGRAM BERTERUSAN: TINTA AKSARA</p>
+<strong>Penulisan pelajar Menengah 3 dan 4 </strong>
 <table style=" border-collapse: collapse; width: 100%;">
 <tr>
     <td style=" text-align: left;padding: 8px;width: 33%;">
@@ -345,6 +337,12 @@ margin-left:25px;
     <img src="/mlmoe/ml-sec23.png" style="margin-top: -182px;margin-left: 7px;"></td>
   </tr>
   </table>
+       <a href="https://sites.google.com/view/emasmlep/home" target="_blank">Untuk maklumat lanjut tentang Program Elektif Bahasa Melayu </a><br/>
+       <a href="https://www.moe.gov.sg/programmes/mlep-sec" target="_blank">Untuk maklumat lanjut tentang Permohonan Biasiswa
+   </a>  </div></div>
+   <br/>
+<a href="https://sites.google.com/view/emasmlep/home" target="_blank">Untuk maklumat lanjut tentang Program Elektif Bahasa Melayu Peringkat Sekolah Menengah</a><br/>
+  <p style="text-align:justify">Pihak sekolah dan MOE telah mengubahsuaikan aktiviti EMAS dan MLEP semasa pandemik COVID-19.</p>
 
 <h4  style="font-size:25px;color:green;" >Program-program Bahasa & Budaya Melayu</h4> 
 <p style="font-size:22px;text-align:justify;">Bagi menggalakkan penggunaan dan pendedahan pada bahasa Melayu, sertailah program-program bahasa dan budaya yang telah dianjurkan. Bawa bersama keluarga anda menghadiri aktiviti-aktiviti ini. Anda juga boleh melawat tempat-tempat yang disarankan.
