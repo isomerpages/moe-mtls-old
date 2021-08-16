@@ -110,7 +110,7 @@ margin-left:25px;
     </ul>
     </td>
     <td style="text-align: left;padding: 8px;border:0;">
-    img pending</td>
+    <img src="/images/TL_Preschool_Image01.jpg"></td>
     
     </tr>
 </table>
@@ -130,7 +130,9 @@ margin-left:25px;
     </ul>
     </td>
     <td style="text-align: left;padding: 8px;border:0;">
-    img pending</td>
+    <img src="/images/TL_Preschool_Image02.jpg"><br/>
+    <img src="/images/TL_Preschool_Image03.jpg">
+ </td>
 </tr>
 </table>
  <h4><span style="font-size:30px;color:purple;">கல்வி அமைச்சின் பாலர் பள்ளியின் முக்கியத் திட்டங்கள் </span></h4>
