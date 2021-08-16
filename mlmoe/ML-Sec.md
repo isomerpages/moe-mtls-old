@@ -326,7 +326,7 @@ margin-left:25px;
   <p style="text-align:justify">Pihak sekolah dan MOE telah mengubahsuaikan aktiviti EMAS dan MLEP semasa pandemik COVID-19.</p>
 
 <h4  style="font-size:25px;color:green;" >PROGRAM-PROGRAM BAHASA MELAYU</h4> 
-<p style="font-size:22px;text-align:justify;">Organisasi-organisasi ini telah mengubahsuaikan program-program mereka semasa pandemik COVID-19.<br/>
+<p style="font-size:22px;text-align:justify;">Organisasi-organisasi ini telah mengubahsuaikan program-program mereka semasa pandemik COVID-19.<br/><br/>
 	<strong>Sertailah program-program yang menggalakkan penggunaan dan pembelajaran Bahasa Melayu.</strong>
 </p>
 <div class="atab">
@@ -344,9 +344,6 @@ margin-left:25px;
 <a href="https://www.malayheritage.gov.sg/my" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 15px 17px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">Taman Warisan Melayu</a>
     <a href="https://www.nhb.gov.sg/nationalmuseum" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 15px 17px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">Muzium Negara Singapura</a>
     <a href="https://www.mllpc.sg/" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 15px 17px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)</a>
-    <a href="https://academyofsingaporeteachers.moe.edu.sg" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 15px 17px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">AST</a>
-    <a href="https://academyofsingaporeteachers.moe.edu.sg/mlcs" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 15px 17px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">Pusat Bahasa Melayu Singapura</a>
-    <a href="https://idm.opal2.moe.edu.sg" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 15px 17px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">Opal 2.0 Link Button</a>
 	
  <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
@@ -419,6 +416,4 @@ margin-left:25px;
 </tr></table>
  </div></div> 
  
-  <p>Organisasi-organisasi ini telah mengubahsuaikan program-program mereka semasa pandemik COVID-19. </p>
-
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
