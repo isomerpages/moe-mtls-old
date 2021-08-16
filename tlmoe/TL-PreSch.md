@@ -119,7 +119,7 @@ margin-left:25px;
 
 <table style="width: 100%;">
 <tr>
-    <td style="text-align: left; padding: 12px;border:0;">
+    <td style="text-align: left; padding-left:8px; padding-right: 12px;border:0;">
     <ul>
     <li style="font-size:20px;text-align:justify;">இருமொழிக் கல்வியை இளம் பருவத்திலேயே பேணி வளர்த்தல் 
  </li>
