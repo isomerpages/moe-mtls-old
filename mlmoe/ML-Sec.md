@@ -237,13 +237,13 @@ margin-left:25px;
     <td style="border: 0;
   text-align: left;
   padding: 8px; width:50%;">
-   <img src="/mlmoe/pda2.jpg">
+   <img src="/mlmoe/pda3.jpg">
 </td></tr>
 <tr>
 <td style="border: 0;
   text-align: left;
   padding: 8px; width:50%;">
-   <img src="/mlmoe/pda3.jpg">
+   <img src="/mlmoe/pda2.jpg">
 </td>
 <td style="border: 0;
   text-align: left;
@@ -258,7 +258,7 @@ margin-left:25px;
   width: 100%;">
   <p style="font-weight:bold; align:center;">Simposium EMAS untuk pelajar Menengah 3 dan 4</p>
 <tr>
-    <td style="border: 0;
+    <td colspan="3" style="border: 0;
   text-align: left;
   padding: 8px; width:50%;"> 
   <img src="/mlmoe/pda7.png" style="margin-top:20%;">
@@ -267,8 +267,14 @@ margin-left:25px;
     <td style="border: 0;
   text-align: left;
   padding: 8px; width:50%;">
-   <img src="/mlmoe/pda8.png">
-    <img src="/mlmoe/pda9.png">
+	    <img src="/mlmoe/pda8.png"></td>
+	<td style="border: 0;
+  text-align: left;
+  padding: 8px; width:50%;">
+		<img src="/mlmoe/pda9.png"></td>
+	<td style="border: 0;
+  text-align: left;
+  padding: 8px; width:50%;">
      <img src="/mlmoe/pda10.png">
 </td></tr>
    </table>
