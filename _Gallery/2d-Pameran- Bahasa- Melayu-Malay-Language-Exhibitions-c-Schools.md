@@ -156,7 +156,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
         </p><br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Growing Up with Language </h4>
         <p style="margin:10px;">
- The Malay Language Centre of Singapore (MLCS) will showcase two packages that enhance the learning of Malay. The first package entitled “Let’s Read” is targeted at kindergarten and lower primary students. The package contains flashcards that teach students to spell and pronounce categorised words. The second package is the interactive ICT appsdeveloped by MLCS, including “Smart Vocabulary”, “Smart in Proverbs”, “Folktales of the Malay Archipelago”, “Legend of Singapore” and “Unique Vocabulary”. These apps will provide students with engaging and enjoyable virtual learning experiences.
+ The Malay Language Centre of Singapore (MLCS) will showcase two packages that enhance the learning of Malay. The first package entitled “Let’s Read” is targeted at kindergarten and lower primary students. The package contains flashcards that teach students to spell and pronounce categorised words. The second package is the interactive ICT apps developed by MLCS, including “Smart Vocabulary”, “Smart in Proverbs”, “Folktales of the Malay Archipelago”, “Legend of Singapore” and “Unique Vocabulary”. These apps will provide students with engaging and enjoyable virtual learning experiences.
         </p>
       </div>
 </div>
