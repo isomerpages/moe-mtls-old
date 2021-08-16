@@ -341,10 +341,6 @@ margin-left:25px;
 </p>
  </div></div> 
 	
-<a href="https://www.malayheritage.gov.sg/my" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 15px 17px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">Taman Warisan Melayu</a>
-    <a href="https://www.nhb.gov.sg/nationalmuseum" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 15px 17px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">Muzium Negara Singapura</a>
-    <a href="https://www.mllpc.sg/" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 15px 17px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)</a>
-	
  <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
    <label for="tab-4" class="lbML">Wisma Geylang Serai</label>
@@ -414,6 +410,9 @@ margin-left:25px;
 	</p></td>
 <td><img src="/images/ML-Sec-UpdateImage2.jpg"></td>
 </tr></table>
- </div></div> 
+ </div></div>
+<a href="https://www.malayheritage.gov.sg/my" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 15px 17px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">Taman Warisan Melayu</a>
+<a href="https://www.nhb.gov.sg/nationalmuseum" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 15px 17px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">Muzium Negara Singapura</a>
+<a href="https://www.mllpc.sg/" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 15px 17px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)</a>
  
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
