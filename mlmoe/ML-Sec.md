@@ -319,70 +319,60 @@ margin-left:25px;
 <a href="https://sites.google.com/view/emasmlep/home" target="_blank">Untuk maklumat lanjut tentang Program Elektif Bahasa Melayu Peringkat Sekolah Menengah</a><br/>
   <p style="text-align:justify">Pihak sekolah dan MOE telah mengubahsuaikan aktiviti EMAS dan MLEP semasa pandemik COVID-19.</p>
 
-<h4  style="font-size:25px;color:green;" >Program-program Bahasa & Budaya Melayu</h4> 
-<p style="font-size:22px;text-align:justify;">Bagi menggalakkan penggunaan dan pendedahan pada bahasa Melayu, sertailah program-program bahasa dan budaya yang telah dianjurkan. Bawa bersama keluarga anda menghadiri aktiviti-aktiviti ini. Anda juga boleh melawat tempat-tempat yang disarankan.
+<h4  style="font-size:25px;color:green;" >PROGRAM-PROGRAM BAHASA MELAYU</h4> 
+<p style="font-size:22px;text-align:justify;">Organisasi-organisasi ini telah mengubahsuaikan program-program mereka semasa pandemik COVID-19.<br/>
+	<strong>Sertailah program-program yang menggalakkan penggunaan dan pembelajaran Bahasa Melayu.</strong>
 </p>
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
    <label for="tab-3" class="lbML">Majlis Bahasa Melayu Singapura - Bulan Bahasa
 </label>
      <div class="tab-content">
-       <p style="font-size:25px;"> <strong>Majlis Bahasa Melayu Singapura - Bulan Bahasa</strong>
-</p>
-       <p>  <strong>Cita. Citra. Cinta. Bahasa Kita </strong><br/>
+       <p><strong>Cita. Citra. Cinta. Bahasa Kita </strong><br/>
          Tema Bulan Bahasa, ‘Cita. Citra. Cinta. Bahasa Kita.’  menggambarkan langkah kita mengharungi era baharu; berkembang daripada tema ‘Ilmu. Budaya. Mesra.’ sebelum ini.
  <a href="https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa" target="_blank">Majlis Bahasa Melayu Singapura - Bulan Bahasa 
  </a>
 </p>
  </div></div> 
+	
+<a href="https://www.malayheritage.gov.sg/my" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 15px 17px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">Taman Warisan Melayu</a>
+    <a href="https://www.nhb.gov.sg/nationalmuseum" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 15px 17px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">Muzium Negara Singapura</a>
+    <a href="https://www.mllpc.sg/" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 15px 17px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)</a>
+    <a href="https://academyofsingaporeteachers.moe.edu.sg" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 15px 17px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">AST</a>
+    <a href="https://academyofsingaporeteachers.moe.edu.sg/mlcs" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 15px 17px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">Pusat Bahasa Melayu Singapura</a>
+    <a href="https://idm.opal2.moe.edu.sg" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 15px 17px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">Opal 2.0 Link Button</a>
+	
  <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-   <label for="tab-4" class="lbML">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
-</label>
-     <div class="tab-content">
-  <p style="font-size:25px;"> <strong>Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)</strong></p>
-       <ul><li> <strong>Fiesta Bahasa</strong>
-</li>
-         <li><strong>Siri Bacaan Nabil Nabilah</strong>
-</li>
-         </ul>
-       <p>
- <a href="https://www.mllpc.sg/signature-or-flagship-programme-fund" target="_blank">Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)
- </a><br/>
-  <a href="https://instagram.com/mllpc.sg?igshid=6lgo3kvwcnka" target="_blank">MLLPC Instagram</a>
-</p>
-</div></div>
+   <label for="tab-4" class="lbML">Wisma Geylang Serai</label>
+     <div class="tab-content">      
+	<p>Sebuah hab warisan budaya yang mengetengahkan persembahan budaya, sesi bicara, sesi memasak dan lain-lain lagi. Ikuti siaran langsung acara-acara ini melalui FB & IG #wgeylangserai.</p>
+       <a href="https://www.facebook.com/WismaGeylangSerai/" target="_blank">Wisma Geylang Serai Facebook</a><br/>
+       <a href="https://www.instagram.com/wgeylangserai/?igshid=nit9a62cgs2w" target="_blank">Wisma Geylang Serai Instagram</a>
+ </div></div>
+	   
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-   <label for="tab-5" class="lbML">Perpustakaan Negara Singapura (TBC)
+   <label for="tab-5" class="lbML">Perpustakaan Negara Singapura
 </label>
      <div class="tab-content"> 
-       <p><strong>Perpustakaan Negara Singapura (TBC)</strong><br/>
-         Program dan aktiviti sepanjang tahun yang dijalankan di perpusatakaan-perpustakaan awam.
-
-</p>
+       <p>Program dan aktiviti sepanjang tahun yang dijalankan di perpusatakaan-perpustakaan awam.</p>
   <table>
     <tr>
     <td>
    <p style="font-size:18px;">
-     <a href="https://www.facebook.com/groups/MalayLibraryServices.SG" target="_blank">Perpustakaan Negara Singapura
- </a><br/>
-      <ul><li><span style="color:blue;">Mari Bercerita</span> – Setiap Minggu <br/> 
-(Selasa, 8.00 malam / Sabtu, 11.30 pagi)</li>
-        <li><span style="color:blue;">Saranan Bacaan </span>– 2 kali setiap bulan  <br/>
-(Khamis pertama & ketiga)
+      <ul>
+        <li><span style="color:blue;">Gig Puisi</span>
 </li>
-        <li><span style="color:blue;">Gig Puisi</span> – Setiap Bulan  <br/>
-(Sabtu ke 2, 2.30ptg)
+        <li><span style="color:blue;">Bicara Kata</span>
 </li>
-        <li><span style="color:blue;">Ilmu Pustaka </span>– Setiap bulan  <br/>
-(Sabtu ke 4, 2.30ptg)
+	<li><span style="color:blue;">Ilmu Pustaka</span>
 </li>
-        <li><span style="color:blue;">Bicara Kata</span> – Setiap bulan  <br/>
-(Ikut Jadual Khas)
+        <li><span style="color:blue;">Mari Bercerita</span>
 </li>
-        <li><span style="color:blue;">Penulis Bercerita </span>– 2 sesi setiap 3 bulan  <br/>
-(Ikut Jadual Khas) 
+	<li><span style="color:blue;">Saranan Bacaan</span>
+</li>
+	<li><span style="color:blue;">Penulis Bercerita </span>
 </li>
          </ul>
  
@@ -390,21 +380,17 @@ margin-left:25px;
 <td><img src="/images/ML-Sec-UpdateImage1.jpg"></td>
 </tr>
 </table>
+	<a href="https://www.nlb.gov.sg/" target="_blank">Perpustakaan Negara Singapura</a>
  </div></div> 
  <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
-   <label for="tab-6" class="lbML">Program Pentas Esplanade (TBC)
+   <label for="tab-6" class="lbML">Program Pentas Esplanade
 </label>
      <div class="tab-content"> 
-       <table>
+       <p>Persembahan seni dan budaya Melayu sepanjang tahun.</p>
+	     <table>
          <tr><td>
-   <p style="font-size:18px;">
-      <a href="https://www.esplanade.com/festivals-and-series/pentas/2020" target="_blank">Esplanade – Siri Pentas 
- </a><br/>
-           <p><strong>Program Pentas Esplanade (TBC)</strong><br/>
-             Persembahan seni dan budaya Melayu sepanjang tahun.
-</p>
-       <ul>
+   <ul>
          <li><span style="color:blue;">Gemadah </span>– Festival Muzik Tradisional Melayu
 
 </li>
@@ -419,76 +405,14 @@ margin-left:25px;
 
 </li>
          </ul>
-
-</p></td>
+		 <p style="font-size:18px;">
+      <a href="https://www.esplanade.com/festivals-and-series/pentas/2020" target="_blank">Esplanade – Program Pentas 
+ </a><br/>
+	</p></td>
 <td><img src="/images/ML-Sec-UpdateImage2.jpg"></td>
-
 </tr></table>
  </div></div> 
-  <div class="atab">
-      <input id="tab-7" type="checkbox" name="tab">
-   <label for="tab-7" class="lbML">Taman Warisan Melayu  
-</label>
-     <div class="tab-content"> 
-   <p style="font-size:18px;">
-     <a href="https://www.malayheritage.org.sg/en/whats-on " target="_blank">Taman Warisan Melayu  (MLLPC)
- </a><br/>
-     <a href="https://instagram.com/malayheritage?igshid=31lxnz03v24e" target="_blank">Taman Warisan Melayu</a><br/>
-     <p>Taman Warisan Melayu  <br/>
-       Pameran Tetap: 6 galeri<br/>
-        Penampilan Khas:</p>
-       <ul>
-         <li>Jejak Seni
-
-</li>
-         <li><i>Adventures in Nusantara</i>
-
-</li>
-         <li><i>Moonsoons and Movements</i>
-</li>
-         </ul>
  
-</p>
-<br/>
-<img src="/images/ML-Sec-HomePageCenter.jpg">
- </div></div> 
- 
-  <div class="atab">
-      <input id="tab-8" type="checkbox" name="tab">
-   <label for="tab-8" class="lbML">Muzium Negara Singapura 
-
-</label>
-     <div class="tab-content"> 
-   <p style="font-size:18px;">
-      <a href="https://www.nhb.gov.sg/nationalmuseum/~/media/nms/documents/national-museum-of-singapore-guide/national-museum-of-singapore-guide-bahasa-melayu.pdf?la=en" target="_blank">Muzium Negara Singapura 
- </a><br/>
-       <p><strong>Muzium Negara Singapura </strong>
-</p>
-       <ul><li>Pameran Tetap: TBC
- 
-</li>
-         <li>Pameran Khas: TBC
-
-</li>
-         </ul>
-
-</p><br/>
-<img src="/images/ML-Sec-National-Museum.jpg">
- </div></div> 
- <div class="atab">
-      <input id="tab-9" type="checkbox" name="tab">
-   <label for="tab-9" class="lbML">Wisma Geylang Serai
-
-</label>
-     <div class="tab-content">       
-       <a href="https://www.facebook.com/WismaGeylangSerai/
-" target="_blank">https://www.facebook.com/WismaGeylangSerai/
- </a><br/>
-       <a href="https://www.instagram.com/wgeylangserai/?igshid=nit9a62cgs2w" target="_blank"> Wisma Geylang Serai Instagram</a>
-       <br/>
-       <p><strong>Wisma Geylang Serai
-</strong><br/>Sebuah hab warisan budaya yang mengetengahkan persembahan budaya, sesi bicara, sesi memasak dan lain-lain lagi. Ikuti siaran langsung acara-acara ini melalui FB & IG #wgeylangserai.</p>
- </div></div>
   <p>Organisasi-organisasi ini telah mengubahsuaikan program-program mereka semasa pandemik COVID-19. </p>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
