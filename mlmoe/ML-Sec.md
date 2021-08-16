@@ -125,29 +125,7 @@ margin-left:25px;
 <p style="text-align:justify;">Kurikulum Bahasa Melayu Peringkat Sekolah Menengah bertujuan untuk melengkapkan pelajar dengan kecekapan berkomunikasi dan menjalin hubungan dengan pihak lain dalam konteks kehidupan di Singapura, rantau dan dunia. Tiga tujuan umum pengajaran dan pembelajaran Bahasa Ibunda adalah untuk:
 <br/><br/>
 <img src="/images/ML-Sec_Poster01.jpg">
-  <table style="font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;">
-  <tr>
-    <th style=" text-align: left;padding: 8px;">KOMUNIKASI<br/>
-(Communication)
-</th>
-    <th style=" text-align: left;padding: 8px;">BUDAYA<br/>
-(CULTURE)
-</th>
-    <th style=" text-align: left;padding: 8px;">HUBUNGAN<br/>
-(CONNECTION)
-</th>
-  </tr>
-  <tr>
-    <td style=" text-align: left;padding: 8px; width: 33.33%;">Berkomunikasi dengan menggunakan bahasa Melayu baku<br/><br/><br/></td>
-    <td style=" text-align: left;padding: 8px; width: 33.33%;">Membina identiti melalui penghayatan yang mendalam tentang bahasa, budaya, tradisi, sastera dan sejarah
-</td>
-    <td style=" text-align: left;padding: 8px; width: 33.33%;">Menjalin hubungan dengan masyarakat Nusantara dan dunia yang bertutur dalam bahasa Melayu atau yang mengamalkan budaya Melayu 
-</td>
-  </tr>
-</table>
-</p>
+
   <h4 style="font-size:25px;color:green;">KURIKULUM SEKOLAH MENENGAH<br/>
     (Pelaksanaan bermula pada Tahun 2021, kohort Menengah 1)
 </h4>
