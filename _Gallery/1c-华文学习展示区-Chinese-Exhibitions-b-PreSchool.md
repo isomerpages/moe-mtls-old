@@ -118,9 +118,9 @@ third_nav_title: '华文学习展示区'
       <input id="tab-3" type="checkbox" name="tab">
     <label for="tab-3" class="lbCh"><span style="font-size:25px;font-family:KaiTi">冠智学习与艺术园 </span><br/>Nobleland Arts N Learning Place @ Bishan</label>
       <div class="tab-content">
-           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">我爱华文，我爱艺术的真，善，美！</h4>
+           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">我爱华文，我爱艺术的真、善、美！</h4>
       <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-     冠智学习与艺术园地强调艺术教育的重要性和影响力，鼓励幼儿不断从观察、体验和探索、中，表达纯真的自我。<br/><br/>
+     冠智学习与艺术园地强调艺术教育的重要性和影响力，鼓励幼儿不断从观察、体验和探索中，表达纯真的自我。<br/><br/>
           学校把美术、戏剧、音乐韵律课程巧妙地融入到华文认字和诵读。孩子们在接受艺术熏陶的同时，学习、应用、并爱上华文。<br/><br/>
           学校也通过绘本故事，开阔小朋友们的视野，提升他们的思维能力和想象力。老师会根据不同的故事内容及不同的教学活动，让小朋友们在活动过程中，接触正确的价值观。</p><br/>
           <h4 style="margin:10px;">Discovering the Joy of Learning Chinese - Arts Integrated Curriculum</h4>
