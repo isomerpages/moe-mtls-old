@@ -258,7 +258,7 @@ margin-left:25px;
   width: 100%;">
   <p style="font-weight:bold; align:center;">Simposium EMAS untuk pelajar Menengah 3 dan 4</p>
 <tr>
-    <td colspan="3" style="border: 0;
+    <td colspan="4" style="border: 0;
   text-align: left;
   padding: 8px; width:50%;"> 
   <img src="/mlmoe/pda7.png" style="margin-top:20%;">
@@ -294,7 +294,7 @@ margin-left:25px;
   <tr>
     <td style="border: 0;
   text-align: left;
-  padding: 8px; width:50%;">
+  padding: 8px; width:30%;">
   <img src="/mlmoe/pda5.jpg">
  </td>
     <td style="border: 0;
