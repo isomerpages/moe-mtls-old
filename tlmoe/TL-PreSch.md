@@ -69,7 +69,7 @@ margin-left:25px;
  </span></a><br/> 
  <p style="text-align:justify;">ஒவ்வொரு பிள்ளைக்கும் வலுவான அடித்தளத்தை அமைத்துத் தருவதே கல்வி அமைச்சின் பாலர் பள்ளியின் தொலைநோக்காகும். கல்வி அமைச்சின் பாலர் பள்ளிப் பாடக்கலைத்திட்டம், இளம் மாணவர்களைப் பேணி வளர்த்தல் பணிச்சட்டத்தை அடிப்படையாகக்கொண்டு, ஸ்டார்லைட் (விண்மீன்) எழுத்தறிவுத் திட்டம் என்னும் முக்கியத் திட்டங்களை உள்ளடக்கியது. ஸ்டார்லைட் எழுத்தறிவுத் திட்டம் ஆங்கிலத்திலும் மூன்று தாய்மொழிகளிலும் வழங்கப்படுகிறது. 
 </p>
- <p style="text-align:center;"><strong>'கல்வி அமைச்சின் பாலர் பள்ளியில் ஒரு நாள்’ என்னும் ஒளிக்காட்சி. </strong>
+ <p style="text-align:center;"><strong>‘கல்வி அமைச்சின் பாலர் பள்ளியில் ஒரு நாள்’ என்னும் ஒளிக்காட்சி. </strong>
 </p>
 
 <center>
@@ -146,11 +146,11 @@ margin-left:25px;
 <img src="/images/TL-Preschool_Poster1.jpg">
  <p style="font-size:20px;text-align:justify; font-weight:bold;">மொழி கற்றல் மகிழ்ச்சிமிக்கதாக அமையப் பயன்படும் வளங்கள்:</p>
  <img src="/images/TL-Preschool_Poster2.jpg">
-<h4 id="C3" style="font-size:30px;color:purple;">ஆசிரியர் துணையோடு படித்தல்
+<h4 id="C3" style="font-size:30px;color:purple;">ஆசிரியர் துணையோடு வாசித்தல்
 </h4>
 <table>
        <tr>
-         <td><p style="text-align:justify;">ஆசிரியர் துணையோடு வாசித்தல் என்னும் அணுகுமுறை பெரிய புத்தகங்களின்வழிப் பிள்ளைகளுக்கு மகிழ்ச்சிமிக்க கற்றல் அனுபவத்தை ஏற்படுத்தித் தருகிறது. இது பிள்ளைகளின் ஈடுபாட்டை அதிகரிப்பதோடு கேட்டல், பேசுதல், படித்தல் ஆகிய மொழித்திறன்களை வளர்த்துக்கொள்ளவும் துணைபுரிகிறது. </p><br/><br/>
+         <td><p style="text-align:left;">ஆசிரியர் &nbsp; துணையோடு &nbsp; வாசித்தல் &nbsp; என்னும் &nbsp; அணுகுமுறை &nbsp; பெரிய &nbsp; புத்தகங்களின்வழிப் &nbsp; பிள்ளைகளுக்கு &nbsp; மகிழ்ச்சிமிக்க &nbsp; கற்றல் &nbsp; அனுபவத்தை &nbsp; ஏற்படுத்தித் &nbsp; தருகிறது. &nbsp; இது &nbsp; பிள்ளைகளின் &nbsp; ஈடுபாட்டை &nbsp; அதிகரிப்பதோடு &nbsp; கேட்டல், &nbsp; பேசுதல், &nbsp; படித்தல் &nbsp; ஆகிய &nbsp; மொழித்திறன்களை &nbsp; வளர்த்துக்கொள்ளவும் &nbsp; துணைபுரிகிறது. </p><br/><br/>
           
 </td>
  <td><img src="/images/TL-PreSch-right5.jpg">
@@ -160,7 +160,7 @@ margin-left:25px;
  <br/>
  <img src="/tlmoe/TL-PreSch-rightImg2.png">
  <br/>
- <p style="font-size:20px;text-align:justify"><strong>‘ஆசிரியர் துமையயாடு வாசித்ைல் அணுகுமுமை’ என்னும் ஒளிக்காட்ச</strong>
+ <p style="font-size:20px;text-align:justify"><strong>‘ஆசிரியர் துணையோடு வாசித்தல் அணுகுமுறை’ என்னும் ஒளிக்காட்சி</strong>
 </p>
   <center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/RfP2dGBTlQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -181,21 +181,21 @@ margin-left:25px;
 </p>
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-   <label for="tab-1" style="font-size:22px" class="lbTM">என்னிடமுள்ள வண்ண உடைகள்!’ நடவடிக்கை
+   <label for="tab-1" style="font-size:22px" class="lbTM">‘என்னிடமுள்ள வண்ண உடைகள்!’ நடவடிக்கை
 </label>
 <div class="tab-content">
 <img src="/images/TL-Preschool_Poster4.jpg">
   </div></div>
   <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-   <label for="tab-2" style="font-size:22px" class="lbTM">கதை கேளு, கதை கேளு!’ நடவடிக்கை
+   <label for="tab-2" style="font-size:22px" class="lbTM">‘கதை கேளு, கதை கேளு!’ நடவடிக்கை
 </label>
      <div class="tab-content">
 <img src="/images/TL-Preschool_Poster5.jpg">
 </div></div>
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-   <label for="tab-3" style="font-size:22px" class="lbTM">இது எங்கிருக்கிறது?’ நடவடிக்கை
+   <label for="tab-3" style="font-size:22px" class="lbTM">‘இது எங்கிருக்கிறது?’ நடவடிக்கை
 </label>
      <div class="tab-content">
 <img src="/images/TL-Preschool_Poster6.jpg">
