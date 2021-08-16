@@ -92,7 +92,7 @@ margin-left:25px;
 </span></td>
     </tr>
 </table>
-<p style="font-size:20px;text-align:justify;">தாய்மொழிகளுக்கான <strong>இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டம்  </strong>தாய்மொழி கற்றலில் பிள்ளைகள் ஆர்வம், ஈடுபாடு, செயல்திறன்மிக்கவர்களாக விளங்குவார்கள் என்னும் நம்பிக்கையின் அடிப்படையில் இயங்குகிறது.
+<p style="font-size:20px;text-align:justify;">தாய்மொழிகளுக்கான <strong>இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டம்  </strong>தாய்மொழி கற்றலில் பிள்ளைகள் ஆர்வம், ஈடுபாடு, செயல்திறன்மிக்கவர்களாக விளங்குவார்கள் என்னும் நம்பிக்கையின் அடிப்படையில் &nbsp; இயங்குகிறது.
  </p>
 <img src="/tlmoe/TL-PreSch-rightImg1.png" style="width:70%">
 <br/>
@@ -121,12 +121,12 @@ margin-left:25px;
 <tr>
     <td style="text-align: left; padding-left:8px; padding-right: 12px;border:0;">
     <ul>
-    <li style="font-size:20px;text-align:justify;">இருமொழிக் கல்வியை இளம் பருவத்திலேயே பேணி வளர்த்தல் 
+    <li style="font-size:20px;text-align:left;">இருமொழிக் &nbsp; கல்வியை &nbsp; இளம் &nbsp; பருவத்திலேயே &nbsp; பேணி &nbsp; வளர்த்தல் 
  </li>
-      <li style="font-size:20px;text-align:justify;"> பிள்ளைகள் ஆங்கிலத்தையும் தமது தாய்மொழியையும் மகிழ்ச்சியுடன் கற்பதற்கும் தன்னம்பிக்கையுடன் கருத்துப்பரிமாற்றத்தில் ஈடுபடுவதற்கும் வாய்ப்பளித்தல்</li>
-        <li style="font-size:20px;text-align:justify;"> பிள்ளைகள் தம் மரபையும் பழக்க வழக்கங்களையும் அறிந்துகொள்ள வாய்ப்பளித்தல் </li>
-        <li style="font-size:20px;text-align:justify;">பிள்ளைகள் கேட்டல், பேசுதல், திறன்களில் தகுந்த தேர்ச்சியையும் படித்தல், எழுதுதல் திறன்களில் ஆயத்த நிலையையும் பெறுவதற்கு வழிவகுத்தல் </li>
-        <li style="font-size:20px;text-align:justify;">பிள்ளைகளின் எதிர்கால மொழி கற்றலுக்கு வலுவான அடித்தளத்தை அமைத்துத் தர உதவுதல் </li>
+      <li style="font-size:20px;text-align:left;"> பிள்ளைகள் &nbsp; ஆங்கிலத்தையும் &nbsp; தமது &nbsp; தாய்மொழியையும் &nbsp; மகிழ்ச்சியுடன் &nbsp; கற்பதற்கும் &nbsp; தன்னம்பிக்கையுடன் &nbsp; கருத்துப்பரிமாற்றத்தில் &nbsp; ஈடுபடுவதற்கும் வாய்ப்பளித்தல்</li>
+        <li style="font-size:20px;text-align:left;"> பிள்ளைகள் &nbsp; தம் &nbsp; மரபையும் &nbsp; பழக்க &nbsp; வழக்கங்களையும் &nbsp; அறிந்துகொள்ள &nbsp; வாய்ப்பளித்தல்</li>
+        <li style="font-size:20px;text-align:left;">பிள்ளைகள் &nbsp; கேட்டல், &nbsp; பேசுதல், &nbsp; திறன்களில் &nbsp; தகுந்த &nbsp; தேர்ச்சியையும் &nbsp; படித்தல், &nbsp; எழுதுதல் &nbsp; திறன்களில் &nbsp; ஆயத்த &nbsp; நிலையையும் &nbsp; பெறுவதற்கு &nbsp; வழிவகுத்தல் </li>
+        <li style="font-size:20px;text-align:left;">பிள்ளைகளின் &nbsp; எதிர்கால &nbsp; மொழி &nbsp; கற்றலுக்கு &nbsp; வலுவான &nbsp; அடித்தளத்தை &nbsp; அமைத்துத் &nbsp; தர &nbsp; உதவுதல்</li>
     </ul>
     </td>
     <td style="text-align: left;padding: 8px;border:0;">
