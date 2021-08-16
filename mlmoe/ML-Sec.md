@@ -124,6 +124,7 @@ margin-left:25px;
 </h4>
 <p style="text-align:justify;">Kurikulum Bahasa Melayu Peringkat Sekolah Menengah bertujuan untuk melengkapkan pelajar dengan kecekapan berkomunikasi dan menjalin hubungan dengan pihak lain dalam konteks kehidupan di Singapura, rantau dan dunia. Tiga tujuan umum pengajaran dan pembelajaran Bahasa Ibunda adalah untuk:
 <br/><br/>
+<img src="/images/ML-Sec_Poster01.jpg">
   <table style="font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;">
@@ -183,8 +184,8 @@ margin-left:25px;
     <iframe width="560" height="315" src="https://www.youtube.com/embed/WSq_Lrb2788" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   <div class="column">
-    <span style="font-size:20px;" ><strong>Penerangan Kurikulum Bahasa Melayu 2021 (Menengah)</strong></span><br/>
-    Pending Vimeo Embed Link (https://vimeo.com/469639582/8e0c371a58)
+    <span style="font-size:20px; font-weight:bold;">Penerangan Kurikulum Bahasa Melayu 2021 (Menengah)</span><br/>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hXwe9ccktAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   </div></center>
 
@@ -247,22 +248,22 @@ margin-left:25px;
    <label for="tab-1" class="lbML">Program EMAS
 </label>
      <div class="tab-content">
-       <p>Pending Image
-   </p>  </div></div>
+       <img src="/images/ML-Sec_EMAS-Poster.jpg">
+   </div></div>
    
   <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
    <label for="tab-2" class="lbML">Program MLEP-Menengah
 </label>
      <div class="tab-content">
-       Pending Image <br/>
+       <img src="/images/ML-Sec_EMAS-Poster.jpg"> <br/>
        <a href="https://sites.google.com/view/emasmlep/home" target="_blank">Untuk maklumat lanjut tentang Program Elektif Bahasa Melayu </a><br/>
        <a href="https://www.moe.gov.sg/programmes/mlep-sec" target="_blank">Untuk maklumat lanjut tentang Permohonan Biasiswa
    </a>  </div></div>
    <br/>
 <a href="https://sites.google.com/view/emasmlep/home" target="_blank">Untuk maklumat lanjut tentang Program Elektif Bahasa Melayu Peringkat Sekolah Menengah</a><br/>
   <p style="text-align:justify">Pihak sekolah dan MOE telah mengubahsuaikan aktiviti EMAS dan MLEP semasa pandemik COVID-19.</p>
-   <br/>
+
 <h4 style="font-size:25px;color:green;" >PROGRAM DIGITAL ALTERNATIF</h4>
    <table style="font-family: arial, sans-serif;
   border-collapse: collapse;
