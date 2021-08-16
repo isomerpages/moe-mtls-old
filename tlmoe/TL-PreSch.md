@@ -69,7 +69,7 @@ margin-left:25px;
  </span></a><br/> 
  <p style="text-align:justify;">ஒவ்வொரு பிள்ளைக்கும் வலுவான அடித்தளத்தை அமைத்துத் தருவதே கல்வி அமைச்சின் பாலர் பள்ளியின் தொலைநோக்காகும். கல்வி அமைச்சின் பாலர் பள்ளிப் பாடக்கலைத்திட்டம், இளம் மாணவர்களைப் பேணி வளர்த்தல் பணிச்சட்டத்தை அடிப்படையாகக்கொண்டு, ஸ்டார்லைட் (விண்மீன்) எழுத்தறிவுத் திட்டம் என்னும் முக்கியத் திட்டங்களை உள்ளடக்கியது. ஸ்டார்லைட் எழுத்தறிவுத் திட்டம் ஆங்கிலத்திலும் மூன்று தாய்மொழிகளிலும் வழங்கப்படுகிறது. 
 </p>
- <p style="text-align:center;"><strong>கல்வி அமைச்சின் பாலர் பள்ளியில் ஒரு நாள்’ என்னும் ஒளிக்காட்சி. </strong>
+ <p style="text-align:center;"><strong>'கல்வி அமைச்சின் பாலர் பள்ளியில் ஒரு நாள்’ என்னும் ஒளிக்காட்சி. </strong>
 </p>
 
 <center>
@@ -82,13 +82,13 @@ margin-left:25px;
  <table style="width: 100%;">
 <tr>
     <td style="text-align: left; padding: 8px;border:0;width: 33%;">
-     <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines " target="_blank"><img src="/tlmoe/tl-presch01.png"></a><span style="font-size:20px;">சிங்கப்பூர்ப் பாலர் பள்ளிகளுக்கான பாடக்கலைத்திட்டம்
+     <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines " target="_blank"><img src="/tlmoe/tl-presch01.png"></a><span style="font-size:20px; align:center;">சிங்கப்பூர்ப் பாலர் பள்ளிகளுக்கான பாடக்கலைத்திட்டம்
 </span></td>
     <td style="text-align: left;padding: 8px;border:0;width: 33%;">
-     <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines " target="_blank"><img src="/tlmoe/tl-presch02.png"></a><span style="font-size:20px;">இளம் மாணவர்களைப் பேணி வளர்த்தல் பணிச்சட்டம்
+     <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines " target="_blank"><img src="/tlmoe/tl-presch02.png"></a><span style="font-size:20px; align:center;">இளம் மாணவர்களைப் பேணி வளர்த்தல் பணிச்சட்டம்
 </span></td>
     <td  style="text-align: center;padding: 8px;border:0;width: 33%;">
-     <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines " target="_blank"><img src="/tlmoe/tl-presch03.png"></a><span style="font-size:20px;">தமிழ்மொழிக் கல்வியாளர்க்குரிய வழிகாட்டி 
+     <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines " target="_blank"><img src="/tlmoe/tl-presch03.png"></a><span style="font-size:20px; align:center;">தமிழ்மொழிக் கல்வியாளர்க்குரிய வழிகாட்டி 
 </span></td>
     </tr>
 </table>
