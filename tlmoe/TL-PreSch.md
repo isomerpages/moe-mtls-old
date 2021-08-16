@@ -94,7 +94,7 @@ margin-left:25px;
 </table>
 <p style="font-size:20px;text-align:justify;">தாய்மொழிகளுக்கான <strong>இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டம்  </strong>தாய்மொழி கற்றலில் பிள்ளைகள் ஆர்வம், ஈடுபாடு, செயல்திறன்மிக்கவர்களாக விளங்குவார்கள் என்னும் நம்பிக்கையின் அடிப்படையில் இயங்குகிறது.
  </p>
-<img src="/tlmoe/TL-PreSch-rightImg1.png" style="width:80%">
+<img src="/tlmoe/TL-PreSch-rightImg1.png" style="width:70%">
 <br/>
 <p style="font-size:20px;text-align:justify;">இளம் மாணவர்களைப் பேணி வளர்க்கும் பணிச்சட்டத்தின் அடிப்படையில் அமைந்த கற்றல் குறிக்கோள்கள்.
 </p>
@@ -138,16 +138,13 @@ margin-left:25px;
 <p  style="text-align:justify;"><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/starlight" target="_blank;">ஸ்டார்லைட் எழுத்தறிவுத் திட்டம்  </a></p>
  <p  style="text-align:justify; font-weight:bold;">ஸ்டார்லைட் எழுத்தறிவுத் திட்டம் இந்த நான்கு கருப்பொருள்களை மையமாகக்கொண்டு அமைந்துள்ளது
 </p>
- <h4 id="C2"><span style="font-size:30px;color:purple;">ஸ்டார்லைட் எழுத்தறிவுத் திட்டம்
- </span>
+ <h4 id="C2" style="font-size:30px;color:purple;">ஸ்டார்லைட் எழுத்தறிவுத் திட்டம்
 </h4>
- <p style="font-size:20px; color:black;"><strong>கருப்பொருள்கள்</strong></p>
+ <p style="font-size:20px; color:black; font-weight:bold;">கருப்பொருள்கள்</p>
 <img src="/images/TL-Preschool_Poster1.jpg">
- <p style="font-size:20px;text-align:justify;"><strong>மொழி கற்றல் மகிழ்ச்சிமிக்கதாக அமையப் பயன்படும் வளங்கள்:</strong>
-</p>
+ <p style="font-size:20px;text-align:justify; font-weight:bold;">மொழி கற்றல் மகிழ்ச்சிமிக்கதாக அமையப் பயன்படும் வளங்கள்:</p>
  <img src="/images/TL-Preschool_Poster2.jpg">
-<h4 id="C3"><span style="font-size:30px;color:purple;">ஆசிரியர் துணையோடு படித்தல்
- </span>
+<h4 id="C3" style="font-size:30px;color:purple;">ஆசிரியர் துணையோடு படித்தல்
 </h4>
 <table>
        <tr>
