@@ -155,7 +155,7 @@ Dapatkanlah maklumat tentang institusi-institusi warisan seperti Pusat Warisan I
       <div class="tab-content">
          <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Bijak Kata!</h4>
         <p style="margin:10px;">
-        Pembelajaran kosa kata boleh menjadi sesuatu yang menyeronokkan apabila teknologi diteroka dan dimanfaatkan.  Permainan “Bijak Kata!” direka khas untuk para pelajar sekolah rendah dan ibu bapa. Permainan ini juga bertujuan untuk menjadikan pembelajaran kosa kata secara digital lebih seronok dan kendiri. Ibu bapa juga berpeluang untuk melibatkan diri dalam pembelajaran bahasa Melayu anak-anak mereka. 
+        Pembelajaran kosa kata boleh menjadi sesuatu yang menyeronokkan apabila teknologi diteroka dan dimanfaatkan.  Permainan 'Bijak Kata!' direka khas untuk para pelajar sekolah rendah dan ibu bapa. Permainan ini juga bertujuan untuk menjadikan pembelajaran kosa kata secara digital lebih seronok dan kendiri. Ibu bapa juga berpeluang untuk melibatkan diri dalam pembelajaran bahasa Melayu anak-anak mereka. 
         </p>
           <p style="margin:10px;">Melalui permainan ini, ibu bapa dan pelajar dapat</p>
           <ol type="1">
