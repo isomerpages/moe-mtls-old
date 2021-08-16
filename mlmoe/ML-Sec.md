@@ -114,10 +114,6 @@ margin-left:25px;
   <a href="/mlmoe/ml-preu/" class="btn" style="float:right;">Next</a><br/>
 <img src="/images/ML-Sec-Header.jpg">
 
- <a href="#C1" style="font-size:20px"><span style="color:blue;font-family:Calibri">Bahan Pengajaran dan Pembelajaran
-</span></a><br/>
- <a href="#C2" style="font-size:20px"><span style="color:blue;font-family:Calibri">Sokongan Ibu Bapa
-</span></a><br/>
 <h4 style="font-size:30px;"><strong>MATLAMAT KURIKULUM SEKOLAH MENENGAH</strong></h4>
   <h4 style="font-size:25px;color:green;">MEMUPUK PELAJAR  AKTIF DAN PENGGUNA CEKAP<br/>
 (Pembelajaran yang Menyeronokkan)
@@ -231,27 +227,27 @@ margin-left:25px;
    <table style="font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;">
-  <strong>Perkhemahan EMAS untuk pelajar Menengah 1</strong>
+  <p style="font-weight:bold; align:center;">Perkhemahan EMAS untuk pelajar Menengah 1</p>
   <tr>
     <td style="border: 0;
   text-align: left;
-  padding: 8px;">
+  padding: 8px; width:50%;">
   <img src="/mlmoe/pda1.jpg">
  </td>
     <td style="border: 0;
   text-align: left;
-  padding: 8px;">
+  padding: 8px; width:50%;">
    <img src="/mlmoe/pda2.jpg">
 </td></tr>
 <tr>
 <td style="border: 0;
   text-align: left;
-  padding: 8px;">
+  padding: 8px; width:50%;">
    <img src="/mlmoe/pda3.jpg">
 </td>
 <td style="border: 0;
   text-align: left;
-  padding: 8px;">
+  padding: 8px; width:50%;">
    <img src="/mlmoe/pda4.jpg">
 </td>
     </tr>
@@ -260,16 +256,17 @@ margin-left:25px;
 	<table style="font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;">
-  <strong> Simposium EMAS untuk pelajar Menengah 3 dan 4</strong>
+  <p style="font-weight:bold; align:center;">Simposium EMAS untuk pelajar Menengah 3 dan 4</p>
 <tr>
     <td style="border: 0;
   text-align: left;
-  padding: 8px;"> 
+  padding: 8px; width:50%;"> 
   <img src="/mlmoe/pda7.png" style="margin-top:20%;">
- </td>
+	</td></tr>
+<tr>
     <td style="border: 0;
   text-align: left;
-  padding: 8px;">
+  padding: 8px; width:50%;">
    <img src="/mlmoe/pda8.png">
     <img src="/mlmoe/pda9.png">
      <img src="/mlmoe/pda10.png">
@@ -287,11 +284,11 @@ margin-left:25px;
 	<table style="font-family: arial, sans-serif;
   border-collapse: collapse;
  width: 100%;">
-  <strong> Bengkel Pengayaan Maya untuk pelajar Menengah 2 dan 3 </strong>
+  <p style="font-weight:bold; align:center;">Bengkel Pengayaan Maya untuk pelajar Menengah 2 dan 3 </p>
   <tr>
     <td style="border: 0;
   text-align: left;
-  padding: 8px;">
+  padding: 8px; width:50%;">
   <img src="/mlmoe/pda5.jpg">
  </td>
     <td style="border: 0;
@@ -302,7 +299,7 @@ margin-left:25px;
    </table>
 <br/>
 <p style="font-size:25px; font-weight:bold;" >PROGRAM BERTERUSAN: TINTA AKSARA</p>
-<strong>Penulisan pelajar Menengah 3 dan 4 </strong>
+<p style="font-weight:bold; align:center;">Penulisan pelajar Menengah 3 dan 4 </p>
 <table style=" border-collapse: collapse; width: 100%;">
 <tr>
     <td style=" text-align: left;padding: 8px;width: 33%;">
