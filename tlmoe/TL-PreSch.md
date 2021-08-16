@@ -102,10 +102,10 @@ margin-left:25px;
 <tr>
     <td style="text-align: left; padding: 8px;border:0;">
     <ul>
-    <li style="font-size:20px;text-align:justify;">தாய்மொழி கற்றலில் ஆர்வங்கொள்ளுதல்</li>
-      <li style="font-size:20px;text-align:justify;">அடிப்படை மொழித்திறன்களை வளர்த்தல்
+    <li style="font-size:20px;text-align:left;">தாய்மொழி &nbsp; கற்றலில் ஆர்வங்கொள்ளுதல்</li>
+      <li style="font-size:20px;text-align:left;">அடிப்படை &nbsp; மொழித்திறன்களை வளர்த்தல்
 </li>
-        <li>நம் பல்லினப் பண்பாட்டைத் தெரிந்துகொள்ளுதல்
+        <li style="font-size:20px;">நம் பல்லினப் பண்பாட்டைத் தெரிந்துகொள்ளுதல்
 </li>
     </ul>
     </td>
@@ -119,7 +119,7 @@ margin-left:25px;
 
 <table style="width: 100%;">
 <tr>
-    <td style="text-align: left; padding: 8px;border:0;">
+    <td style="text-align: left; padding: 12px;border:0;">
     <ul>
     <li style="font-size:20px;text-align:justify;">இருமொழிக் கல்வியை இளம் பருவத்திலேயே பேணி வளர்த்தல் 
  </li>
