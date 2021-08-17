@@ -171,7 +171,7 @@ margin-left:25px;
 <h4 id="C4"><span style="font-size:30px;color:purple;">அதிசய வாரத் திட்டப்பணி (WoW Project)
  </span>
 </h4>
-<img src="/images/TL-Preschool_Poster3.jpg">
+<img src="/tlmoe/TL-Presch_Poster01.jpg">
 <br/>
  <p style="font-size:20px;text-align:justify">இந்த <a href="https://www.nel.moe.edu.sg/resources/49800/49802" target="_blank">இணைப்பின்வழி</a> அதிசய வாரத் திட்டப்பணிகளைப்பற்றித் தெரிந்துகொள்ளுங்கள் 
 </p>
@@ -184,27 +184,27 @@ margin-left:25px;
    <label for="tab-1" style="font-size:22px" class="lbTM">‘என்னிடமுள்ள வண்ண உடைகள்!’ நடவடிக்கை
 </label>
 <div class="tab-content">
-<img src="/images/TL-Preschool_Poster4.jpg">
+<img src="/tlmoe/TL-Presch_Activity1.jpg">
   </div></div>
   <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
    <label for="tab-2" style="font-size:22px" class="lbTM">‘கதை கேளு, கதை கேளு!’ நடவடிக்கை
 </label>
      <div class="tab-content">
-<img src="/images/TL-Preschool_Poster5.jpg">
+<img src="/tlmoe/TL-Presch_Activity2.jpg">
 </div></div>
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
    <label for="tab-3" style="font-size:22px" class="lbTM">‘இது எங்கிருக்கிறது?’ நடவடிக்கை
 </label>
      <div class="tab-content">
-<img src="/images/TL-Preschool_Poster6.jpg">
+<img src="/tlmoe/TL-Presch_Activity3.jpg">
 </div></div>
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
    <label for="tab-4" style="font-size:22px" class="lbTM">‘என் குடும்பத்தினர்’ நடவடிக்கை
 </label>
      <div class="tab-content">
-<img src="/images/TL-Preschool_Poster7.jpg">
+<img src="/tlmoe/TL-Presch_Activity4.jpg">
 </div></div>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
