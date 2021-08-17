@@ -225,16 +225,16 @@ PENGAJARAN DAN PEMBELAJARAN
 </li>
 </p>
 
-  <p style="font-weight:bold;">Klip video yang digunakan oleh murid-murid</p>
+  <p style="font-size:25px;font-weight:bold;">Klip video yang digunakan oleh murid-murid</p>
  <center>
  <div class="row">
   <div class="column">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ebN-nsG1Oc4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
-    <p style="font-size:25px;font-weight:bold;text-align:justify;">Nasi Lemak Daun Pisang</p>
+    <p style="font-weight:bold;text-align:center;">Nasi Lemak Daun Pisang</p>
   </div>
   <div class="column">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/31OI9oWggjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <p style="font-size:25px;font-weight:bold;text-align:justify;">Kain Sarong</p>
+    <p style="font-weight:bold;text-align:center;">Kain Sarong</p>
   </div>
   </div></center>
   
