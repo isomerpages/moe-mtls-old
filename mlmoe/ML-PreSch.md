@@ -233,7 +233,7 @@ Ibu bapa/Waris boleh menyokong pembelajaran dan pembangunan bahasa Ibunda anak/w
   </ul></div></div>
  
   
-<p style="text-align:justify;">Untuk mendapatkan contoh Aktiviti Belajar Bahasa Ibunda di Rumah yang lain, sila layari lelaman daripada tadika-tadika ini</p>
+<p style="text-align:justify;">Untuk mendapatkan contoh Aktiviti Belajar Bahasa Ibunda di Rumah yang lain, sila layari lelaman daripada tadika-tadika ini:</p>
 <ul>
  <li><a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/">Tadika MOE @ Fernvale </a></li>
  <li><a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/">Tadika MOE @ Punggol Green </a></li>
