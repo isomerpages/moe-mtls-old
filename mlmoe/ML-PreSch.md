@@ -156,11 +156,11 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
  Kurikulum dan Program Tadika MOE dibina berdasarkan <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines" target="_blank">Rangka Kerja Memupuk Pelajar pada Peringkat Awal. </a> <br/>
    <img src="/images/ML-Presch1.jpg"><br/>
     Rangka Kerja ini dibina dengan keyakinan bahawa kanak-kanak mempunyai sifat ingin tahu, aktif dan cekap.<br/>
-   <img src="/images/ML Curriculum Preschool V2-02.jpg"><br/>
+   <img src="/mlmoe/ML-Presch_Poster01.jpg"><br/>
    
 <p id="C3" style="font-size:30px;"><strong>PENDEKATAN MEMBACA BERSAMA</strong>
   </p>
-  <img src="/images/ML Curriculum Preschool V2-03.jpg">
+  <img src="/mlmoe/ML-Presch_Poster02.jpg">
 <p style="text-align:justify;">
 Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/resources/bahan-bahan-buku-besar/langkah-pengajaran" target="_blank"> Pendekatan Membaca Bersama (Shared Book Approach) </a> adalah untuk:
 
@@ -176,7 +176,7 @@ Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/resources/bahan-baha
 </p>
 <p id="C3" style="font-size:30px;"><strong>Projek MuM (Minggu untuk Meneroka)</strong>
   </p>
-  <img src="/images/ML Curriculum Preschool V2-04.jpg">
+  <img src="/mlmoe/ML-Presch_Poster03.jpg">
 <p>
 Yang berikut merupakan contoh-contoh projek MuM yang terdapat di<a href="https://www.nel.moe.edu.sg/resources/aktiviti-aktiviti-saranan" target="_blank"> Portal NEL.</a><br/>
 <a href="https://www.nel.moe.edu.sg/qql/slot/u575/2019-05-13/2019-04%20-%20NEL_Eh-Samalah_MK@SG_Cikgu_Dian.pdf" target="_blank">"Eh, Samalah!"  Tadika MOE (Sengkang Green)
