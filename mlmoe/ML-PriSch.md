@@ -145,7 +145,7 @@ margin-left:25px;
 </li>
 </p>
 </ul>
-  <img src="/images/ML-PRI_Image1.jpg" class="image">  <br/>
+  <img src="/mlmoe/ML-Pri_Poster01.jpg" class="image">  <br/>
  
  <p id="C1" style="font-size:30px;color:black"><strong>BAHAN 
 PENGAJARAN DAN PEMBELAJARAN
@@ -157,13 +157,13 @@ PENGAJARAN DAN PEMBELAJARAN
       <input id="tab-2" type="checkbox" name="tab">
   <label for="tab-2" class="lbML">- Dekat dengan kehidupan murid </label>
      <div class="tab-content">
-       <img src="/images/ML-PRI_Image2.jpg">  
+       <img src="/mlmoe/ML-Pri_Poster02.jpg">  
        </div></div>
        <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
    <label for="tab-3" class="lbML">- Kaya dan pelbagai</label>
      <div class="tab-content">
-       <img src="/images/ML-PRI_Image3.jpg">  
+       <img src="/mlmoe/ML-Pri_Poster03.jpg">  
        </div></div>
        <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
