@@ -77,7 +77,7 @@ margin-left:25px;
  <img src="/images/TL Pri_UpdatedPicture1.png" style="margin-top: -8px;"><br/><br/>
 </p>
  
-<img src="/images/TL Pri_Image01.jpg">
+<img src="/tlmoe/TL-Pri_Poster01.jpg">
 
 <h4 id="C3"><span style="font-size:30px;color:purple;">மாணவர்களை மையப்படுத்திய கற்றல் வளங்களும் நடவடிக்கைகளும் </span></h4>
  
@@ -87,13 +87,13 @@ margin-left:25px;
   <iframe width="560" height="315" src="https://www.youtube.com/embed/WDNmZQc9caA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
  </center>
 <img src="/images/TL Pri_Image03.jpg">
-<img src="/images/TL Pri_Image04.jpg">
+<img src="/tlmoe/TL-Pri_Poster02.jpg">
  <center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/yF2nsTavscY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/xHTBGMGHzVc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
  </center>
-<img src="/images/TL Pri_Image05.jpg">
-<img src="/images/TL Pri_Image06.jpg">
+<img src="/tlmoe/TL-Pri_Poster03.jpg">
+<img src="/tlmoe/TL-Pri_Poster04.jpg">
 
  <br/>
   <h4 id="C4"><span style="font-size:30px;color:purple;">விளையாட்டுவழிக் கற்றலும் வெற்றிக் கொண்டாட்டமும்
