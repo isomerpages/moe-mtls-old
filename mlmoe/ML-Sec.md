@@ -379,16 +379,16 @@ margin-left:25px;
 <td><img src="/images/ML-Sec-UpdateImage1.jpg"></td>
 </tr>
 </table>
-	<a href="https://www.nlb.gov.sg/" target="_blank">Perpustakaan Negara Singapura</a>
+	<p><a href="https://www.nlb.gov.sg/" target="_blank">Perpustakaan Negara Singapura</a></p>
  </div></div> 
  <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
    <label for="tab-6" class="lbML">Program Pentas Esplanade
 </label>
      <div class="tab-content"> 
-       <p>Persembahan seni dan budaya Melayu sepanjang tahun.</p>
+	     <p>Persembahan seni dan budaya Melayu sepanjang tahun.</p>
 	     <table>
-         <tr><td>
+         <tr><td><p style="font-size:18px;">
    <ul>
          <li><span style="color:blue;">Gemadah </span>– Festival Muzik Tradisional Melayu
 
@@ -403,9 +403,8 @@ margin-left:25px;
 
 
 </li>
-         </ul>
-		 <p style="font-size:18px;">
-      <a href="https://www.esplanade.com/festivals-and-series/pentas/2020" target="_blank">Esplanade – Program Pentas 
+		 </ul></p>
+      <p><a href="https://www.esplanade.com/festivals-and-series/pentas/2020" target="_blank">Esplanade – Program Pentas 
  </a><br/>
 	</p></td>
 <td><img src="/images/ML-Sec-UpdateImage2.jpg"></td>
