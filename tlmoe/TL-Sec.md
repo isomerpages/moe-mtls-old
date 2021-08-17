@@ -168,7 +168,6 @@ margin-left:25px;
  <h2 id="C8" style="font-family:Anjal New InaiMathi Sch Book; font-size:32px; text-align:center;">தமிழ்மொழிப் பயற்றுவளங்கள்</h2>
  <p style="text-align:left; font-family:Anjal New InaiMathi Sch Book; font-size:24px;">மாணவர்களை ஈர்க்கும் பயிற்றுவளங்கள். </p>
  <h4 style="font-family:Anjal New InaiMathi Sch Book; font-size:28px; color:purple; text-align:left;">பாடநூல், பயிற்சிநூல் </h4>
-
   <img src="/images/TL-Sec_Textbooks-&-Workbooks.gif"><br/>
   <img src="/images/TL-Sec_Image06.jpg">
 <h2 style="font-family:Anjal New InaiMathi Sch Book; font-size:32px; text-align:center;">மொழி விளையாட்டு </h2>
@@ -192,9 +191,9 @@ margin-left:25px;
 
  <h2 id="C4" style="font-family:Anjal New InaiMathi Sch Book; font-size:32px; text-align:center;">புதிய கூறுகளும் புதிய முயற்சிகளும் </h2>
  <img src="/images/TL-Sec_Image02.jpg"><br/>  
-  <a href="#C9" style="background-color: purple; font-size: 24px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">பண்பாட்டறிவை வளப்படுத்துதல்</a>
-  <a href="#C10" style="background-color: purple; font-size: 24px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">இலக்கியப் பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல்</a>
-  <a href="#C11" style="background-color: purple; font-size: 24px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">மொழி கற்றலுக்குத் துணைவளமாக அமையும் தற்கால நடப்புச் செய்திகள்</a>
+  <a href="#C9" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">பண்பாட்டறிவை வளப்படுத்துதல்</a>
+  <a href="#C10" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">இலக்கியப் பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல்</a>
+  <a href="#C11" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">மொழி கற்றலுக்குத் துணைவளமாக அமையும் தற்கால நடப்புச் செய்திகள்</a>
 <br/>
 
 <h2 id="C9" style="font-family:Anjal New InaiMathi Sch Book;  font-size:32px; text-align:left;">பண்பாட்டறிவை வளப்படுத்துதல்</h2>
