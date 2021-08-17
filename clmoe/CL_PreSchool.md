@@ -144,7 +144,7 @@ margin-left:25px;
        <li style="font-size:25px;font-family:KaiTi">对本地文化有初步的认识</li></ul>
          </li>
      <li style="font-size:25px;font-family:KaiTi">这套教学资源除了支持幼儿的双语发展，也体现了非常浓厚的本土特色。目前，教育部幼儿园都在课堂内使用这套教学资源。</li>
-     <li style="font-size:25px;font-family:KaiTi">大图书共享阅读是教育部幼儿园课堂内使用的教学法。共享阅读让幼儿享受阅读的乐趣，并鼓励幼儿通过有趣的活动，掌握听、说、读的能力。欲知教学步骤，请点击<a href="/clmoe/CL-MTLS-pre-sch-Annex1.pdf" target="_blank" style="font-family:KaiTi;">此处</a>.</li>
+     <li style="font-size:25px;font-family:KaiTi">大图书共享阅读是教育部幼儿园课堂内使用的教学法。共享阅读让幼儿享受阅读的乐趣，并鼓励幼儿通过有趣的活动，掌握听、说、读的能力。欲知教学步骤，请点击<a href="/clmoe/CL-MTLS-pre-sch-Annex1.pdf" target="_blank" style="font-family:KaiTi;">此处</a>。</li>
      </p>
 </ol>
    <img src="/images/CL-Presch-Textbook.jpg">   
@@ -178,7 +178,7 @@ margin-left:25px;
   还有很多故事书，一家大小都喜欢。<br/>
   这里有邻里警岗，警察叔叔很友善。<br/><br/>
 </p>
-  <p style="font-size:25px;font-family:KaiTi;">你也可使用 <a href="https://www.google.com/earth" target="_blank" style="font-size:25px;font-family:KaiTi">卫星地图影像 </a>，和孩子一起看一看，认识你们家附近有些什么地方和设施.</p>
+  <p style="font-size:25px;font-family:KaiTi;">你也可使用 <a href="https://www.google.com/earth" target="_blank" style="font-size:25px;font-family:KaiTi">卫星地图影像 </a>，和孩子一起看一看，认识你们家附近有些什么地方和设施。</p>
 <h4 style="font-family:KaiTi;font-size:25px;">
     点子三：小小瑜伽初学者</h4>
    <p style="font-size:25px;font-family:KaiTi;">        
