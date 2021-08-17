@@ -266,15 +266,15 @@ margin-left:25px;
 <tr>
     <td style="border: 0;
   text-align: left;
-  padding: 8px; width:50%;">
+  padding: 8px; width:33.33%;">
 	    <img src="/mlmoe/pda8.png"></td>
 	<td style="border: 0;
   text-align: left;
-  padding: 8px; width:50%;">
+  padding: 8px; width:33.33%;">
 		<img src="/mlmoe/pda9.png"></td>
 	<td style="border: 0;
   text-align: left;
-  padding: 8px; width:50%;">
+  padding: 8px; width:33.33%;">
      <img src="/mlmoe/pda10.png">
 </td></tr>
    </table>
