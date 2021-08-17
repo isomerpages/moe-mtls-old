@@ -194,7 +194,7 @@ margin-left:25px;
        </td>
       </tr>
      </table>
-<p style="text-align:justify;">Pelajar ditugaskan untuk meneroka isu-isu semasa yang berkaitan dengan tema yang terdapat dalam buku teks atau isu-isu terkini yang ingin diketahui agar peka dengan perkembangan semasa. Pelajar boeh mendapat pelbagai bahan dari laman mikro Berita Mediacorp atau Berita Harian melalui SLS. </p><br/>
+<p style="text-align:justify;">Pelajar ditugaskan untuk meneroka isu-isu semasa yang berkaitan dengan tema yang terdapat dalam buku teks atau isu-isu terkini yang ingin diketahui agar peka dengan perkembangan semasa. Pelajar boleh mendapat pelbagai bahan daripada laman mikro Berita Mediacorp atau Berita Harian melalui SLS. </p><br/>
 <img src="/images/ML-Sec_Berita-Harian-Logo.jpeg" style="width:50%">
 <img src="/images/ML-Sec_Berita-Mediacorp-Logo.jpeg" style="width:50%"><br/>
 <p style="text-align:justify;">Bahan-bahan berikut boleh didapatkan di portal Ruang Pembelajaran Pelajar (SLS).</p>
@@ -214,7 +214,7 @@ margin-left:25px;
 
 <h4 style="font-size:25px;color:green;">Program Elektif Bahasa Melayu Peringkat Sekolah Menengah 
 </h4>
-  <p>MOE menawarkan dua program elektif Bahasa Melayu yang berikut di peringkat sekolah menengah, jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk bermohon ke sekolah-sekolah EMAS: 
+  <p>MOE menawarkan dua program elektif Bahasa Melayu yang berikut di peringkat sekolah menengah, jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk memohon ke sekolah-sekolah EMAS: 
 </p>
 <a href="https://d33wubrfki0l68.cloudfront.net/236b836f4b98721b937df96dd19dbdd1d3c60ea6/a7b0a/images/ml-sec_emas-mlep-brochure.png" target="_blank"><img src="/images/ML-Sec_EMAS-MLEP-Brochure.png"></a><br/>
 <div class="atab">
