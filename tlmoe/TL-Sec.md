@@ -247,7 +247,7 @@ margin-left:25px;
   <a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019</a><br/>
   <img src="/images/TL-Sec_Image10.jpg">
 
-<h2 id="C7" style="font-family:Anjal New InaiMathi Sch Book; font-size:36px; text-align:center;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் (Tamil Language Elective Programme - TLEP)</h2>
+<h2 id="C7" style="font-family:Anjal New InaiMathi Sch Book; font-size:36px; text-align:center;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்<br/>(Tamil Language Elective Programme - TLEP)</h2>
 <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; font-size:18px;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. இத்திட்டம் உயர்நிலை 3-இல் தமிழ் இலக்கியம் பயிலும் மாணவர்களுக்கு உரியது. இது தற்போது மூன்று உயர்நிலைப்பள்ளிகளில் செயற்படுத்தப்படுகிறது.
 <br/><br/>
  <h4 style="font-family:Anjal New InaiMathi Sch Book; font-size:32px; color:purple; text-align:left;">நோக்கம் </h4><br/>
