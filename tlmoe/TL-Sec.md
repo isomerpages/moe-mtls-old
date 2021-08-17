@@ -166,7 +166,7 @@ margin-left:25px;
 </div></div>
 
  <h2 id="C8" style="font-family:Anjal New InaiMathi Sch Book; font-size:32px; text-align:center;">தமிழ்மொழிப் பயற்றுவளங்கள்</h2>
- <p style="text-align:left; font-family:Anjal New InaiMathi Sch Book; font-size:24px;">மாணவர்களை ஈர்க்கும் பயிற்றுவளங்கள். </p><br/>
+ <p style="text-align:left; font-family:Anjal New InaiMathi Sch Book; font-size:24px;">மாணவர்களை ஈர்க்கும் பயிற்றுவளங்கள். </p>
  <h4 style="font-family:Anjal New InaiMathi Sch Book; font-size:28px; color:purple; text-align:left;">பாடநூல், பயிற்சிநூல் </h4>
 
   <img src="/images/TL-Sec_Textbooks-&-Workbooks.gif"><br/>
@@ -201,7 +201,7 @@ margin-left:25px;
 <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; padding:8px; font-size:24px;">மொழிக் கல்வியில் பண்பாட்டுக் கூறுகள் இரண்டறக் கலந்துள்ளன. பாடங்களுக்கு ஏற்பப் பொருந்துகின்ற வகையில் பண்பாட்டுக் கூறுகளை ஒருங்கிணைத்துக் கற்பிப்பதும் அவை தொடர்பான கலந்துரையாடல்களை மேற்கொள்வதும் தமிழ்மொழி கற்றலை வளப்படுத்தும். ஆகவே, பண்பாட்டறிவை வளப்படுத்தும் கற்றல் கற்பித்தலுக்குரிய வளங்கள் பயிற்றுவளங்களில் இணைக்கப்பெற்றிருக்கின்றன. </p>
      <img src="/images/TL-Sec_Image03.jpg">
  
- <h2 id="C10" style="font-family:Anjal New InaiMathi Sch Book;  font-size:32px; text-align:left;">இலக்கிய &nbsp; பனுவல்களின் &nbsp; வாயிலாக &nbsp; மொழி &nbsp; ஈடுபாட்டை &nbsp; வளர்த்தல் </h2>
+ <h2 id="C10" style="font-family:Anjal New InaiMathi Sch Book;  font-size:32px; text-align:center;">இலக்கிய &nbsp; பனுவல்களின் &nbsp; வாயிலாக &nbsp; மொழி &nbsp; ஈடுபாட்டை &nbsp; வளர்த்தல் </h2>
 <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; padding: 8px; font-size:24px;">மாணவர்களின் மொழியறிவுக்கு ஏற்ற நல்ல இலக்கிய பனுவல்கள் கற்பனையாற்றலைத் தூண்டி நூல் படித்தலில் ஈர்ப்பை ஏற்படுத்தும். அதனால், அவர்களின் மொழி கற்றல் மேம்பட்டு, அவர்கள் பரந்துபட்ட நிலையில் படிக்கத் தொடங்குவார்கள்.<br/>
  <br/>
 இதற்கு ஏதுவாக ஒவ்வோர் ஆண்டும் மாணவர்களுக்கு இலக்கியப் பனுவல்கள் அறிமுகப்படுத்தப்பெறுகின்றன.  இவ்வாண்டு உயர்நிலை ஒன்று மாணவர்களுக்குச் சிறுகதைகள் பாடவளங்களாக வழங்கப்பெற்றுள்ளன.
@@ -247,11 +247,10 @@ margin-left:25px;
   <a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank" style="background-color: purple; font-size: 24px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019</a><br/>
   <img src="/images/TL-Sec_Image10.jpg">
 
-<h2 id="C7" style="font-family:Anjal New InaiMathi Sch Book; font-size:32px; text-align:center;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்<br/>(Tamil Language Elective Programme - TLEP)</h2>
-<p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; font-size:24px;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. இத்திட்டம் உயர்நிலை 3-இல் தமிழ் இலக்கியம் பயிலும் மாணவர்களுக்கு உரியது. இது தற்போது மூன்று உயர்நிலைப்பள்ளிகளில் செயற்படுத்தப்படுகிறது.
-<br/><br/>
- <h4 style="font-family:Anjal New InaiMathi Sch Book; font-size:28px; color:purple; text-align:left;">நோக்கம் </h4><br/>
- <br/>
+<h2 id="C7" style="font-family:Anjal New InaiMathi Sch Book; font-size:32px; text-align:center;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்<br/>
+ (Tamil Language Elective Programme - TLEP)</h2>
+<p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; font-size:24px;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் 2020-ஆம் ஆண்டு அறிமுகம் கண்டது. இத்திட்டம் உயர்நிலை 3-இல் தமிழ் இலக்கியம் பயிலும் மாணவர்களுக்கு உரியது. இது தற்போது மூன்று உயர்நிலைப்பள்ளிகளில் செயற்படுத்தப்படுகிறது.</p>
+ <h4 style="font-family:Anjal New InaiMathi Sch Book; font-size:28px; color:purple; text-align:left;">நோக்கம் </h4>
 <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; font-size:24px;">தகுதி வாய்ந்த மாணவர்களைத் தமிழ்மொழியில் ஆற்றல் மிக்கவர்களாகவும் தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வைப் பேணி வளர்க்கவும் இத்திட்டம் வகைசெய்யும். அதோடு, மாணவர்களை இருமொழியாற்றல் மிக்கவர்களாக உருவாக்குவதே இந்தத் திட்டத்தின் நோக்கமாகும்.</p>
 </p><br/>
 <img src="/images/TL-Sec_Image11.jpg">
