@@ -266,8 +266,7 @@ margin-left:25px;
     
    <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-    <label for="tab-1" style="font-family:Anjal New InaiMathi Sch Book; font-size:20px; text-align:justify;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் பயிலும் மாணவர்களின் படைப்பு
-</label>
+    <label for="tab-1" style="font-family:Anjal New InaiMathi Sch Book; font-size:20px; text-align:justify;">தமிழ்மொழி விருப்பப்பாடத் திட்டம் பயிலும்<br/> மாணவர்களின் படைப்பு</label>
      <div class="tab-content">
 <center>
   <span style="font-family:Anjal New InaiMathi Sch Book; font-size:25px; font-weight:bold;">காமன்வெல்த் உயர்நிலைப்பள்ளி</span><br/>
@@ -277,9 +276,9 @@ margin-left:25px;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VbDOJKBV8-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><br/>
 <span style="font-family:Anjal New InaiMathi Sch Book; font-size:25px; font-weight:bold;">யீசூன் டவுன் உயர்நிலைப்பள்ளி</span><br/>
  <span style="font-family:Anjal New InaiMathi Sch Book; font-size:18px; text-align:justify;">ஹீரன்_உயர்நிலை 3</span><br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bcwSzzG_gMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bcwSzzG_gMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><br/>
  <span style="font-family:Anjal New InaiMathi Sch Book; font-size:25px; font-weight:bold;">ரிவர்சைடு உயர்நிலைப்பள்ளிி</span><br/>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/VK5Qm70unQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><br/>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/VK5Qm70unQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
     </div></div>
 
 
