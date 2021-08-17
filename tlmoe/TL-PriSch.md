@@ -122,7 +122,7 @@ margin-left:25px;
       <img src="/tlmoe/image4.png">
     </td>
     <td style="text-align: left;padding: 8px;width:60%;">
-   <img src="/images/TL Pri_UpdatedPicture2.png" style:"width:100%"> </td>
+   <img src="/images/TL Pri_UpdatedPicture2.png" style="width:100%"> </td>
      </tr>
   </table></center>
  <br/>
