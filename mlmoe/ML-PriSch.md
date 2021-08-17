@@ -189,81 +189,21 @@ PENGAJARAN DAN PEMBELAJARAN
    <label for="tab-6" class="lbML">Permainan Perkataan Berangkai
  </label>
      <div class="tab-content">
-<ul><li style="text-align:justify;"> Ibu bapa memilih benda dan memberikan satu perkataan mengenai benda itu.  Kemudian, ibu bapa meminta anak memberikan perkataan lain yang berkaitan dengan benda tersebut.
-</li>
-<li style="text-align:justify;">Seterusnya, anak memilih benda dan memberikan perkataan yang berkaitan dengan benda yang dipilih.  Kemudian, anak meminta ibu bapa memberikan perkataan lain.
-</li></ul>
-        <p style="text-align:justify;"> Contoh : benda: meja </p>
-         <table class="center">
-  <tr>
-    <td>    Ibu/Bapa     :</td>
-    <td>bulat</td>
-   </tr>
-   <tr>
-    <td>Anak:  </td>
-    <td>besar
-</td>
- </tr>
-  <tr>
-    <td>Ibu/Bapa: </td>
-    <td>   hitam
-</td>
- </tr>
-  <tr>
-    <td>Anak: </td>
-    <td>kayu
-</td></tr>
- </table>
+<img src="/mlmoe/ML-Pri_ActivityPoster1.jpg">
    </div></div>   
    <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
    <label for="tab-7" class="lbML">Permainan Suku Kata 
 </label>
      <div class="tab-content">
-       <p style="text-align:justify;">Ibu bapa boleh memulakan permainan dengan memberikan satu perkataan. Contohnya, pasu.  Kemudian, anak harus membina perkataan lain yang bermula dengan suka kata akhir perkataan tadi. 
-         <br/><br/>    Contoh :</p>
-<table class="center">
-  <tr>
-    <td>Ibu/Bapa:</td>
-    <td>   <span style="color:red;"> su</span>ka</td>
-  </tr>
-  <tr>
-    <td>Anak:  </td>
-    <td>ka<span style="color:red;">ki</span>
-</td>
-  </tr>
-  <tr>
-    <td>Ibu/Bapa:</td>
-    <td><span style="color:red;">ki</span>ra
-</td>
-  </tr>
-  <tr>
-    <td>Anak: </td>
-    <td>    ra<span style="color:red;">sa</span></td>
-  </tr>
-</table>
-
+       <<img src="/mlmoe/ML-Pri_ActivityPoster2.jpg">
 </div></div>
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
    <label for="tab-8" class="lbML">Permainan Teka Saya
  </label>
      <div class="tab-content">
-       <p style="text-align:justify;">Ibu bapa membawa anak ke setiap bahagian di dalam rumah.    Di setiap bahagian tersebut, pilih beberapa objek.  Deskripsikan objek tersebut. Kemudian, memberikan arahan kepada anak untuk meneka.
-<br/><br/>
-         Contoh : </p>
-<table class="center">
-  
-  <tr>
-    <td style="width:22%;">Ibu/Bapa     : </td>
-  <td>Ada satu benda besar di dalam dapur. Ibu/Bapa menyimpan sekotak susu sejuk di dalamnya.  Cuba teka benda itu apa?</td>
- </tr>
-  <tr>
-    <td>Anak:  </td>
-  <td>     peti sejuk
-</td>
-</tr>
-</table>
+       <img src="/mlmoe/ML-Pri_ActivityPoster3.jpg">
 </div></div>
 
 <div class="atab">
@@ -271,33 +211,7 @@ PENGAJARAN DAN PEMBELAJARAN
    <label for="tab-9" class="lbML">Permainan Cerita Berangkai
  </label>
      <div class="tab-content">
-       <p style="text-align:justify;">Ibu bapa memberikan sekeping gambar keluarga kepada anak.  Kemudian, ibu bapa dan anak bercerita tentang gambar itu.  Ibu/bapa memulakan cerita. Selepas itu, giliran anak pula meluaskan cerita itu.  Begitulah seterusnya hingga cerita itu tamat.
- <br/><br/>
-         Contoh : </p>
-
-<table class="center">
-   <tr>
-    <td>Ibu/Bapa     :</td>
-  <td>Ibu, Ayah, Abang dan adik…</td>
- </tr>
-  <tr>
-    <td>Anak:  </td>
-  <td>pergi ke Taman Haiwan.</td>
-  </tr>
-  <tr>
-    <td>Ibu/Bapa: </td>
-    <td> Di sana…</td>
-    </tr>
-  <tr>
-    <td>Anak: </td>
-  <td>ada banyak haiwan.
-</td>
-   </tr>
-  <tr>
-    <td>Ibu/Bapa      :</td>
-    <td>Ibu ternampak beberapa ekor…
-</td></tr>
-</table>
+       <img src="/mlmoe/ML-Pri_ActivityPoster4.jpg">
 </div></div>
 <p>
   <li style="text-align:justify;">Permainan yang disarankan di atas haruslah dilakukan secara santai dan menyeronokkan. </li>
