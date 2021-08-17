@@ -196,7 +196,7 @@ PENGAJARAN DAN PEMBELAJARAN
    <label for="tab-7" class="lbML">Permainan Suku Kata 
 </label>
      <div class="tab-content">
-       <<img src="/mlmoe/ML-Pri_ActivityPoster2.jpg">
+       <img src="/mlmoe/ML-Pri_ActivityPoster2.jpg">
 </div></div>
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
