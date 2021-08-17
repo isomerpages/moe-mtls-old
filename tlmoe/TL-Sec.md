@@ -135,7 +135,7 @@ margin-left:25px;
  
   <p style=" text-align:justify; padding:8px; font-family:Anjal New InaiMathi Sch Book; font-size:24px;"> தமிழை வாழும் மொழியாக நிலைபெறச் செய்வதன் வாயிலாக நம் இளம் தலைமுறையினர் பயன்மிகு வாழ்க்கை வாழ வழிகாட்டுதல்.<br/>
    <br/>
-   தொடக்கநிலைக் கல்வியை நிறைவு செய்யும் மாணவர்கள் உயர்நிலையில் கல்வியைத் தொடர்வார்கள். இவர்களுக்குத் <span style="font-weight:bold; color:purple;">தமிழ்மொழி, தமிழ் இலக்கியம், தமிழ்மொழி விருப்பப்பாடத் திட்டம்</span> என பல்வேறு பாடத்திட்டங்கள் வழங்கப்படுகின்றன. </p>
+   தொடக்கநிலைக் கல்வியை நிறைவு செய்யும் மாணவர்கள் உயர்நிலையில் கல்வியைத் தொடர்வார்கள். இவர்களுக்குத் <span style="font-family:Anjal New InaiMathi Sch Book; font-weight:bold; color:purple;">தமிழ்மொழி, தமிழ் இலக்கியம், தமிழ்மொழி விருப்பப்பாடத் திட்டம்</span> என பல்வேறு பாடத்திட்டங்கள் வழங்கப்படுகின்றன. </p>
 
   <h2 id="C2" style="font-family:Anjal New InaiMathi Sch Book; font-size:36px; text-align:center;">தமிழ்மொழி</h2>
  <h4 style="font-family:Anjal New InaiMathi Sch Book; font-size:28px; color:purple; text-align:left;">தமிழ்மொழிப் பாடத்திட்டம் (1958முதல் 2011வரை)</h4>
@@ -200,7 +200,7 @@ margin-left:25px;
 <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; padding:8px; font-size:24px;">மொழிக் கல்வியில் பண்பாட்டுக் கூறுகள் இரண்டறக் கலந்துள்ளன. பாடங்களுக்கு ஏற்பப் பொருந்துகின்ற வகையில் பண்பாட்டுக் கூறுகளை ஒருங்கிணைத்துக் கற்பிப்பதும் அவை தொடர்பான கலந்துரையாடல்களை மேற்கொள்வதும் தமிழ்மொழி கற்றலை வளப்படுத்தும். ஆகவே, பண்பாட்டறிவை வளப்படுத்தும் கற்றல் கற்பித்தலுக்குரிய வளங்கள் பயிற்றுவளங்களில் இணைக்கப்பெற்றிருக்கின்றன. </p>
      <img src="/images/TL-Sec_Image03.jpg">
  
- <h2 id="C10" style="font-family:Anjal New InaiMathi Sch Book;  font-size:36px; text-align:center;">இலக்கிய &nbsp; பனுவல்களின் &nbsp; வாயிலாக &nbsp; மொழி &nbsp; ஈடுபாட்டை &nbsp; வளர்த்தல் </h2>
+ <h2 id="C10" style="font-family:Anjal New InaiMathi Sch Book;  font-size:36px; text-align:center;">இலக்கிய பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல் </h2>
 <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; padding: 8px; font-size:24px;">மாணவர்களின் மொழியறிவுக்கு ஏற்ற நல்ல இலக்கிய பனுவல்கள் கற்பனையாற்றலைத் தூண்டி நூல் படித்தலில் ஈர்ப்பை ஏற்படுத்தும். அதனால், அவர்களின் மொழி கற்றல் மேம்பட்டு, அவர்கள் பரந்துபட்ட நிலையில் படிக்கத் தொடங்குவார்கள்.<br/>
  <br/>
 இதற்கு ஏதுவாக ஒவ்வோர் ஆண்டும் மாணவர்களுக்கு இலக்கியப் பனுவல்கள் அறிமுகப்படுத்தப்பெறுகின்றன.  இவ்வாண்டு உயர்நிலை ஒன்று மாணவர்களுக்குச் சிறுகதைகள் பாடவளங்களாக வழங்கப்பெற்றுள்ளன.
