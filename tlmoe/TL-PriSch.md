@@ -116,7 +116,7 @@ margin-left:25px;
 <br/>
   <table style="border-collapse: collapse; width: 100%;border:0;">
 <tr>
-    <td style="text-align:left;padding:8px; width:40%;">மாணவர்களுக்குக் கூடுதல் ஆதரவு வழங்க வேண்டும் என்ற நோக்கில் கட்டுரைப் பயிற்சிகளில் ஆர்வமூட்டும் முன்நடவடிக்கைகள் இணைக்கப்பட்டுள்ளன. இவை கட்டுரை எழுதுவதற்குத் தேவையான திறன்களை மாணவர்களிடையே வளர்க்கும் வண்ணம் வடிவமைக்கப்பட்டுள்ளன.<br/><br/>
+    <td style="text-align:left;padding:8px; width:40%;"><p>மாணவர்களுக்குக் கூடுதல் ஆதரவு வழங்க வேண்டும் என்ற நோக்கில் கட்டுரைப் பயிற்சிகளில் ஆர்வமூட்டும் முன்நடவடிக்கைகள் இணைக்கப்பட்டுள்ளன. இவை கட்டுரை எழுதுவதற்குத் தேவையான திறன்களை மாணவர்களிடையே வளர்க்கும் வண்ணம் வடிவமைக்கப்பட்டுள்ளன.</p><br/>
       <img src="/tlmoe/tl-prisch06.png" style="width: 25%; margin-left: 286px;margin-top: -64px;">
       <img src="/tlmoe/image4.png">
     </td>
@@ -133,7 +133,7 @@ margin-left:25px;
 <h4 id="C7"><span style="font-size:30px; color:purple;">பெற்றோர் பங்கு </span></h4>
 <p style="text-align:justify;">நம் பிள்ளைகள் தமிழ்மொழியை ஆர்வத்துடன் கற்றுத் திறம்படப் பயன்படுத்துவதற்குப் பலருடைய முயற்சி தேவைப்படுகிறது. குடும்ப உறுப்பினர்களே பிள்ளைகளின் கற்றலுக்கு முதல் வித்திடுகிறார்கள். ஆசிரியர்களின் பொறுமைமிகுந்த வழிகாட்டுதல் இருந்தபோதிலும் பெற்றோரின் ஆதரவும் முக்கியமாகிறது. பிள்ளைகளை ஊக்கப்படுத்திக் கற்றலில் ஈடுபடுத்துவதில் பெற்றோர்கள் முக்கியப் பங்காற்றுகிறார்கள்.<br/><br/>
      எனவே, பெற்றோர்களுக்கு உதவும் நோக்கில் 2015 தமிழ்மொழிப் பாடக்கலைத்திட்டத்தின் சிறப்பு அம்சங்களையும் கற்றல் வளங்களையும் அறிமுகப்படுத்தும்வகையில் இந்தக் கையேடு தயாரிக்கப்பட்டுள்ளது. தமிழ்மொழியைப் பிள்ளைகள் நன்கு கற்கப் பிள்ளைகளுக்குப் பெற்றோர் எவ்வாறெல்லாம் உதவலாம் என்பதற்கான பரிந்துரைகளும் இக்கையேட்டில் இடம்பெற்றுள்ளன.</p>
-      <img src="/tlmoe/tl-prisch08.png" style="width: 20%; margin-left: 10px;"><br/>
+      <img src="/tlmoe/tl-prisch08.png" style="width: 20%; float: right;"><br/>
   <img src="/tlmoe/image6.png" style=" margin-top: -10px;width:100%;">
-    <a href="https://online.anyflip.com/cqrzz/lsou/index.html" target="_blank">Flip Book</a>
+ <p><a href="https://online.anyflip.com/cqrzz/lsou/index.html" target="_blank">Flip Book</a></p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
