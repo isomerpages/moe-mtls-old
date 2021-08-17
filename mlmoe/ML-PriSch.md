@@ -177,12 +177,9 @@ PENGAJARAN DAN PEMBELAJARAN
      <div class="tab-content">
        <img src="/images/ML-10.png">  
        </div></div>
-      <p id="C2" style="font-size:30px;"><strong>Sokongan Ibu Bapa </strong><br/><br/>
+      <p id="C2" style="font-size:30px;"><strong>SOKONGAN IBU BAPA</strong><br/><br/>
       <img src="/images/ML-PRI_Image4.jpg"> 
       </p>
-  
-  
-  
 <p style="font-size:25px;text-align:justify;"> Ibu bapa boleh bermain beberapa permainan dengan anak anda agar dapat meningkatkan dan meluaskan kosa kata anak. </p>
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
@@ -228,6 +225,7 @@ PENGAJARAN DAN PEMBELAJARAN
 </li>
 </p>
 
+  <p style="font-weight:bold;">Klip video yang digunakan oleh murid-murid</p>
  <center>
  <div class="row">
   <div class="column">
