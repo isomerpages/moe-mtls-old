@@ -254,8 +254,8 @@ margin-left:25px;
 </p><br/>
 <img src="/images/TL-Sec_Image11.jpg">
    <br/>
-  <a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf" style="background-color: purple; font-size: 24px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">TLEP Infosheet - Secondary</a>
-  <a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf" style="background-color: purple; font-size: 24px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">TLEP Infosheet - JC</a>
+  <a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">TLEP Infosheet - Secondary</a>
+  <a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">TLEP Infosheet - JC</a>
    <br/>
  <img src="/images/TL-Sec-TLEP-Schools-Update.jpg">  
 <br/><br/>
