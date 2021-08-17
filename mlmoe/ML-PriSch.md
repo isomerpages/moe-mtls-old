@@ -227,5 +227,17 @@ PENGAJARAN DAN PEMBELAJARAN
    mengeratkan hubungan antara anak dengan ibu bapa.
 </li>
 </p>
-<img src="/images/MTLS-Malay-PriSch-Footer2.jpg">  
+
+ <center>
+ <div class="row">
+  <div class="column">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ebN-nsG1Oc4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+    <p style="font-size:25px;font-weight:bold;text-align:justify;">Nasi Lemak Daun Pisang</p>
+  </div>
+  <div class="column">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/31OI9oWggjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p style="font-size:25px;font-weight:bold;text-align:justify;">Kain Sarong</p>
+  </div>
+  </div></center>
+  
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
