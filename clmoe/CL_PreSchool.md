@@ -158,7 +158,7 @@ margin-left:25px;
   <a href="/clmoe/CL-MTLS-pre-sch-Annex2.pdf" target="_blank" style="font-family:KaiTi">“风”</a><br/>
 <a href="/clmoe/CL-MTLS-pre-sch-Annex3.pdf" target="_blank" style="font-family:KaiTi">“我来做红鸡蛋”</a>
 <h4 id="C4"><span style="font-family:KaiTi;font-size:35px;">居家活动好点子</span></h4>
-  <table width="300px" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 25px; border: 3px solid #ccc;">
+  <table width="300px" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 25px; -webkit-border-radius: 25px; border-radius: 25px; border: 3px solid #ccc;">
    <td>
 <h4 style="font-family:KaiTi;font-size:25px;">
   点子一: 我的心情小书 </h4>
@@ -167,7 +167,7 @@ margin-left:25px;
     你和孩子一起制作四页书。你可以点按以下链接 <a href="https://tinyurl.com/4pagebook2021" target="_blank" style="font-size:22px;">（https://tinyurl.com/4pagebook2021）</a>，跟着视频做出属于孩子的心情小书。在每一页，让孩子画出让他快乐／伤心／生气／害怕的事情。完成活动后，让孩子用小书来说一说自己心情！为增添趣味，你也可以准备不同的颜色纸和手工材料让孩子使用。
      </p></td>
   </table><br/>
-    <table width="300px" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 25px; border: 3px solid #ccc;">
+    <table width="300px" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 25px; -webkit-border-radius: 25px; border-radius: 25px; border: 3px solid #ccc;">
    <td>
 <h4 style="font-family:KaiTi;font-size:25px;">点子二: 我家附近 </h4>
   <p style="font-size:25px;font-family:KaiTi">
@@ -186,7 +186,7 @@ margin-left:25px;
 </p>
   <p style="font-size:25px;font-family:KaiTi;">你也可使用 <a href="https://www.google.com/earth" target="_blank" style="font-size:25px;font-family:KaiTi">卫星地图影像 </a>，和孩子一起看一看，认识你们家附近有些什么地方和设施。</p></td>
   </table><br/>
-      <table width="300px" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 25px; border: 3px solid #ccc;">
+      <table width="300px" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 25px; -webkit-border-radius: 25px; border-radius: 25px; border: 3px solid #ccc;">
    <td>
 <h4 style="font-family:KaiTi;font-size:25px;">
     点子三：小小瑜伽初学者</h4>
