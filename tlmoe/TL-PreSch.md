@@ -82,13 +82,13 @@ margin-left:25px;
  <table style="width: 100%;">
 <tr>
     <td style="text-align: left; padding: 8px;border:0;width: 33%;">
-     <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines " target="_blank"><img src="/tlmoe/tl-presch01.png"></a><span style="font-size:20px; align:center;">சிங்கப்பூர்ப் பாலர் பள்ளிகளுக்கான பாடக்கலைத்திட்டம்
+     <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines " target="_blank"><img src="/tlmoe/tl-presch01.png"></a><span style="font-size:20px; text-align:center;">சிங்கப்பூர்ப் பாலர் பள்ளிகளுக்கான பாடக்கலைத்திட்டம்
 </span></td>
     <td style="text-align: left;padding: 8px;border:0;width: 33%;">
-     <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines " target="_blank"><img src="/tlmoe/tl-presch02.png"></a><span style="font-size:20px; align:center;">இளம் மாணவர்களைப் பேணி வளர்த்தல் பணிச்சட்டம்
+     <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines " target="_blank"><img src="/tlmoe/tl-presch02.png"></a><span style="font-size:20px; text-align:center;">இளம் மாணவர்களைப் பேணி வளர்த்தல் பணிச்சட்டம்
 </span></td>
     <td  style="text-align: center;padding: 8px;border:0;width: 33%;">
-     <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines " target="_blank"><img src="/tlmoe/tl-presch03.png"></a><span style="font-size:20px; align:center;">தமிழ்மொழிக் கல்வியாளர்க்குரிய வழிகாட்டி 
+     <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines " target="_blank"><img src="/tlmoe/tl-presch03.png"></a><span style="font-size:20px; text-align:center;">தமிழ்மொழிக் கல்வியாளர்க்குரிய வழிகாட்டி 
 </span></td>
     </tr>
 </table>
