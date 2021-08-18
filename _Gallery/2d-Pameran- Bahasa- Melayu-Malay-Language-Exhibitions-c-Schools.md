@@ -1,8 +1,8 @@
 ---
 title: 'Sekolah'
-permalink: /Gallery/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-d/Schools/
+permalink: /Exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-d/Schools/
 breadcrumb: 'Sekolah'
-collection_name: Gallery
+collection_name: Exhibits
 third_nav_title: 'Pameran Bahasa Melayu'
 ---
 
