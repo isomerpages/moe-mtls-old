@@ -1,8 +1,8 @@
 ---
 title: 'சமூகப் பங்காளர்கள்'
-permalink: /Gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-e/Community-Partners2/
+permalink: /Exhibits/தமிழ்மொழிக்-காட்சிக்கூடம்-e/Community-Partners2/
 breadcrumb: 'சமூகப் பங்காளர்கள்'
-collection_name: Gallery
+collection_name: Exhibits
 third_nav_title: 'தமிழ்மொழிக் காட்சிக்கூடம்'
 ---
 
@@ -29,9 +29,9 @@ background-color: lightgrey;
 <body>
 <a href="/exhibits/华文学习展示区-chinese-exhibitions-a/总览/" class="button">华文学习展示区
 </a>
-<a href="#" class="button">Pameran Bahasa Melayu
+<a href="/exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-a/Gambaran-Keseluruhan/" class="button">Pameran Bahasa Melayu
 </a>
-<a href="#" class="button">தமிழ்மொழிக் காட்சிக்கூடம்
+<a href="/exhibits/தமிழ்மொழிக்-காட்சிக்கூடம்-Tamil-Exhibitions-a/உள்ளடக்கம்/" class="button">தமிழ்மொழிக் காட்சிக்கூடம்
 </a>
 </body>
 </html>
