@@ -1,8 +1,8 @@
 ---
 title: 'Prasekolah'
-permalink: /Gallery/Pameran-Bahasa-Melayu-Malay-Language-Exhibitions-c/PreSchool/
+permalink: /Exhibits/Pameran-Bahasa-Melayu-Malay-Language-Exhibitions-c/PreSchool/
 breadcrumb: 'Prasekolah'
-collection_name: Gallery
+collection_name: Exhibits
 third_nav_title: 'Pameran Bahasa Melayu'
 ---
 <h2 style="padding-top:12px;color:#a3c864;">Prasekolah</h2>
