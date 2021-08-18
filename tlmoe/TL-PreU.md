@@ -193,24 +193,16 @@ margin-left:25px;
     <label for="tab-2" style="font-family:KaiTi;font-size:22px" class="lbTM">கல்வியின் விரும்பத்தக்க விளைவுகள்
 </label>
      <div class="tab-content">
-      <img src="/images/TL PreU_Image01.jpg">
+      <img src="/tlmoe/TL-PreU_Poster01.jpg">
     </div></div>
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
     <label for="tab-3" style="font-family:KaiTi;font-size:22px" class="lbTM">உயர்தரம் தமிழ்மொழி பாடத்திற்கான கற்றல் விளைவுகள்</label>
      <div class="tab-content">
      <h4 style="padding-top: 24px;"><span style="font-size:30px; color:purple;">உயர்தரம் 2 & 3 தமிழ்மொழிப் பாடத்திற்கான கல்வியின் விரும்பத்தக்க விளைவுகள்.</span></h4>
-  <table style="border-collapse: collapse; width: 100%;border:0;">
- <tr>
-    <td><img src="/images/TL PreU_Image02.jpg"></td>
-  
-    <td style="text-align: left;padding: 8px;border:0;">
-      <img src="/tlmoe/tl-preU05.png" style="width: 50%;"><br/>
-      <a href="/tlmoe/JC-Syllabus-brochure.pdf" target="_blank" style="margin-left: 123px;">JC Brochure PDF</a></td>
-    </tr>
-</table>
-    
-    </div></div>
+  <img src="/tlmoe/TL-PreU_Poster02.jpg">
+      <img src="/tlmoe/tl-preU05.png" style="width: 30%;"> &nbsp; <a href="/tlmoe/JC-Syllabus-brochure.pdf" target="_blank" style="margin-left: 123px;">JC Brochure PDF</a>
+   </div></div>
     
      <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
@@ -228,7 +220,7 @@ margin-left:25px;
    <p>இலக்கிய வகுப்புகள் மகிழ்வூட்டுவனவாக அமைய பல்வேறு அணுகுமுறைகள்.  
 </p>
  
-   <img src="/images/TL-PreU-Literature.jpg">
+   <img src="/tlmoe/TL-PreU_Poster03.jpg">
 <br/>
  
  Pending Video
@@ -236,12 +228,10 @@ margin-left:25px;
  <table style="border-collapse: collapse;width: 100%;border:0;">
   <tr>
     <td style="  border: 0; text-align: left; padding: 8px;width:50%;">
- <img src="/tlmoe/tl-preU37.jpeg" style="margin-top: 59px;">
+ <img src="/tlmoe/TL-PreU_Poster04.jpg">
    </td>
-    <td style=" border: 0; text-align: left; padding: 8px;">
-     <div class="v1" style="padding: 21px;">
-      <img src="/tlmoe/TL-JC_Updated.gif" style="width: 47%; margin-left: -28px; width:50%;"><br/>
-      </div>
+    <td style=" border: 0; text-align: left; padding: 8px; width:50%">
+     <img src="/tlmoe/TL-JC_Updated.gif">
     </td>
 </tr>
 </table>
@@ -273,18 +263,15 @@ margin-left:25px;
 
  <h4><span style="font-size:30px;color:purple;">முக்கிய நிகழ்வுகள் </span></h4>
 <img src="/images/TL JC_Header01.png">
-<img src="/images/TL JC_Picture01.png"><br/>
+<img src="/tlmoe/TL-PreU_Poster05.jpg"><br/>
 <img src="/images/TL JC_Header02.png">
-<img src="/images/TL JC_Picture02_v2.png"><br/>
+<img src="/tlmoe/TL-PreU_Poster06.jpg"><br/>
 <img src="/images/TL JC_Header03.png">
-<img src="/images/TL JC_Picture03.png">
-<img src="/images/TL JC_Picture04.png"><br/>
-     
- <br/>
+<img src="/tlmoe/TL-PreU_Poster07.jpg"><br/>
 
 <h4><span style="font-size:30px;color:purple;">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமூட்டும் உத்திமுறைகள் 
  </span></h4> 
-<img src="/images/TL-PreU-Strategies.jpg">
+<img src="/tlmoe/TL-PreU_Poster08.jpg">
 <br/>
  <br/>
 <img src="/images/TL JC_Header05.png">
@@ -295,7 +282,7 @@ margin-left:25px;
  <li style="text-align:justify;"><strong>ஆண்டர்சன் சிராங்கூன் தொடக்கக்கல்லூரி 
  </strong></li>
  <li style="text-align:justify;"><strong>தேசியத் தொடக்கக்கல்லூரி
- </strong></li>
+ </strong></li><br/>
 <ul>
  <h4><span style="font-size:30px;color:purple;">முத்திரை நடவடிக்கைகள்
  </span></h4>
@@ -307,7 +294,7 @@ margin-left:25px;
       <li style="text-align:justify;">பள்ளி சார்ந்த திட்ட நடவடிக்கைகள்
 </li>
   </ul>
-  <img src="/images/TL-PreU-Signature-Activities.jpg">
+  <img src="/tlmoe/TL-PreU_Poster09.jpg">
  <br/>
 <img src="/images/TL JC_Header06.png" align="left" style="width:50%;">
 <img src="/images/TL JC_Header12.png">
