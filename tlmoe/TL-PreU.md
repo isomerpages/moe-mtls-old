@@ -226,10 +226,10 @@ margin-left:25px;
  <h4><span style="font-size:30px;color:purple;">புதிதாக அறிமுகம் கண்ட இலக்கியங்கள் </span></h4>
  <table style="border-collapse: collapse;width: 100%;border:0;">
   <tr>
-    <td style="  border: 0; text-align: left; padding: 8px;width:50%;">
+    <td style="  border: 0; text-align: left; padding: 8px;width:60%;">
  <img src="/tlmoe/TL-PreU_Poster04.jpg">
    </td>
-    <td style=" border: 0; text-align: left; padding: 8px; width:50%">
+    <td style=" border: 0; text-align: left; padding: 8px; width:40%">
      <img src="/tlmoe/TL-JC_Updated.gif">
     </td>
 </tr>
