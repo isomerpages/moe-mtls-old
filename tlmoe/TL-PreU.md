@@ -199,9 +199,18 @@ margin-left:25px;
       <input id="tab-3" type="checkbox" name="tab">
     <label for="tab-3" style="font-family:KaiTi;font-size:22px" class="lbTM">உயர்தரம் தமிழ்மொழி பாடத்திற்கான கற்றல் விளைவுகள்</label>
      <div class="tab-content">
-     <img src="/tlmoe/TL-PreU_Poster02.jpg">
-      <img src="/tlmoe/tl-preU05.png" align="left" style="width: 20%;"> &nbsp; <a href="/tlmoe/JC-Syllabus-brochure.pdf" target="_blank" style="margin-left: 123px;">JC Brochure PDF</a>
-   </div></div>
+      <table style="border-collapse: collapse;width: 100%;border:0;">
+  <tr>
+    <td style="  border: 0; text-align: left; padding: 8px;width:70%;">
+ <img src="/tlmoe/TL-PreU_Poster02.jpg">
+   </td>
+    <td style=" border: 0; text-align: left; padding: 8px; width:30%">
+     <img src="/tlmoe/tl-preU05.png"><br/>
+     <a href="/tlmoe/JC-Syllabus-brochure.pdf" target="_blank">JC Brochure PDF</a>
+    </td>
+</tr>
+</table>
+      </div></div>
     
      <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
@@ -258,12 +267,11 @@ margin-left:25px;
   <iframe width="560" height="315" src="https://www.youtube.com/embed/qljj-dUi6Tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/><span style="font-size:18px;">எழுத்தாளர்களைப்பற்றி அறிந்துகொள்ளுதல்</span>
  </div></div></center>
- <br/>
 
  <h4><span style="font-size:30px;color:purple;">முக்கிய நிகழ்வுகள் </span></h4>
 <img src="/tlmoe/TL-PreU_Poster05.jpg">
 <img src="/tlmoe/TL-PreU_Poster06.jpg">
-<img src="/tlmoe/TL-PreU_Poster07.jpg"><br/>
+<img src="/tlmoe/TL-PreU_Poster07.jpg">
 
 <h4><span style="font-size:30px;color:purple;">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமூட்டும் உத்திமுறைகள் 
  </span></h4> 
