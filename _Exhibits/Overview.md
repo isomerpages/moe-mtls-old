@@ -9,7 +9,7 @@ third_nav_title: 'Overview'
 <head>
 <style>
 .button {
-  background-color: lightgrey;
+  background-color: #008CBA;
   border: none;
   color: white !important;
   padding: 50px 41px;
@@ -21,7 +21,7 @@ third_nav_title: 'Overview'
   cursor: pointer;
 }
 .button:hover {
-background-color:#008CBA;
+background-color: lightgrey;
 }
 </style>
 </head>
