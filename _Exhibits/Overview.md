@@ -11,8 +11,8 @@ third_nav_title: 'Overview'
 .button {
   background-color: #008CBA;
   border: none;
-  color: white;
-  padding: 15px 32px;
+  color: white !important;
+  padding: 50px 41px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
