@@ -151,8 +151,9 @@ margin-left:25px;
  <center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/lnlNM2YJcOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi;">大图书共享阅读视频</span></center>
   <br/>
-  <br/><br/>
-<h4 id="C3"><img src="/images/CL-PreSch-Discovery2.jpg"> <br/>
+
+<h4 id="C3"><span style="font-size:35px;font-family:KaiTi;">奥秘探索周计划</span></h4>
+  <img src="/images/CL-PreSch-Discovery2.jpg"> <br/>
   <span style="font-size:25px;font-family:KaiTi;">欲了解“奥秘探索周计划”的活动点子设计，请阅读相关活动设计:<br/> </span>
   <a href="/clmoe/CL-MTLS-pre-sch-Annex2.pdf" target="_blank" style="font-family:KaiTi">“风”</a><br/>
 <a href="/clmoe/CL-MTLS-pre-sch-Annex3.pdf" target="_blank" style="font-family:KaiTi">“我来做红鸡蛋”</a>
