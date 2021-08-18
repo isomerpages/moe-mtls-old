@@ -201,10 +201,10 @@ margin-left:25px;
      <div class="tab-content">
       <table style="border-collapse: collapse;width: 100%;border:0;">
   <tr>
-    <td style="  border: 0; text-align: left; padding: 8px;width:70%;">
+    <td style="  border: 0; text-align: left; padding: 8px;width:80%;">
  <img src="/tlmoe/TL-PreU_Poster02.jpg">
    </td>
-    <td style=" border: 0; text-align: left; padding: 8px; width:30%">
+    <td style=" border: 0; text-align: bottom; padding: 8px; width:20%">
      <img src="/tlmoe/tl-preU05.png"><br/>
      <a href="/tlmoe/JC-Syllabus-brochure.pdf" target="_blank">JC Brochure PDF</a>
     </td>
