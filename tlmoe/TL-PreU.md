@@ -294,11 +294,7 @@ margin-left:25px;
 <img src="/images/TL JC_Header12.png">
 <p style="text-align:justify;">இணையம் வழி தமிழ்மொழி முகாம் தமிழ்மொழி விருப்பப்பாடத்திட்டம் செயற்குழு ஏற்பாடு செய்த தமிழ்மொழி முகாம் டிசம்பர் 5-ஆம் தேதி சிறப்பாக நடந்தேறியது. இந்நிகழ்ச்சியில் விருப்பப்பாடத்திட்டத்தை வழங்கும் இரண்டு கல்லூரிகளைச் சேர்ந்த மாணவர்கள் பங்கெடுத்து பயனடைந்தனர். அந்நிகழ்ச்சி முக்கிய நிகழ்வுகளைத் தொகுத்து வழங்கும் ஒளிக்காட்சி.</p>
 
-<tr>
-<td style=" border: 0;text-align: left;padding: 8px;">Pending video</td>
-<td style=" border: 0;text-align: left;padding: 8px;">Pending video</td>
-</tr>
-</table>
+Pending video<br/>
 <img src="/images/TL PreU_Image05.jpg"><br/>
 <img src="/images/TL JC_Header11.png" align="left" style="width:50%;">
 <img src="/images/TL PreU_Image06.jpg">
