@@ -1,8 +1,8 @@
 ---
 title: 'பள்ளிகள்'
-permalink: /Gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-Tamil-Exhibitions-d/Schools/
+permalink: /Exhibits/தமிழ்மொழிக்-காட்சிக்கூடம்-Tamil-Exhibitions-d/Schools/
 breadcrumb: 'பள்ளிகள்'
-collection_name: Gallery
+collection_name: Exhibits
 third_nav_title: 'தமிழ்மொழிக் காட்சிக்கூடம்'
 ---
 
