@@ -1,8 +1,8 @@
 ---
 title: '中小学'
-permalink: /Gallery/华文学习展示区-Chinese-Exhibitions-d/Schools/
+permalink: /Exhibits/华文学习展示区-Chinese-Exhibitions-d/Schools/
 breadcrumb: '中小学'
-collection_name: Gallery
+collection_name: Exhibits
 third_nav_title: '华文学习展示区'
 ---
 <html>
