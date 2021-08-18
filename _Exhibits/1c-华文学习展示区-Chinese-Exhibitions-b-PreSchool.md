@@ -1,8 +1,8 @@
 ---
 title: '学前中心'
-permalink: /Gallery/华文学习展示区-Chinese-Exhibitions-c/PreSchool/
+permalink: /Exhibits/华文学习展示区-Chinese-Exhibitions-c/PreSchool/
 breadcrumb: '学前中心'
-collection_name: Gallery
+collection_name: Exhibits
 third_nav_title: '华文学习展示区'
 ---
 <html>
