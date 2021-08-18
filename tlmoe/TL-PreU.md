@@ -287,17 +287,7 @@ margin-left:25px;
  </strong></li>
  <li style="text-align:justify;"><strong>தேசியத் தொடக்கக்கல்லூரி
  </strong></li><br/>
-<ul>
- <h4><span style="font-size:30px;color:purple;">முத்திரை நடவடிக்கைகள்
- </span></h4>
-  <ul>
-   <li style="text-align:justify;" >தொடக்கக்கல்லூரி ஒன்றாம் ஆண்டு மாணவர்களுக்கு தமிழ்மொழி முகாம்.
-</li>
-      <li style="text-align:justify;">ஆண்டிறுதியில் தொடக்கக்கல்லூரி ஒன்றாம் ஆண்டு மாணவர்களுக்குக் கல்விப்பயணம்
-</li>
-      <li style="text-align:justify;">பள்ளி சார்ந்த திட்ட நடவடிக்கைகள்
-</li>
-  </ul>
+</ul>
   <img src="/tlmoe/TL-PreU_Poster09.jpg">
  <br/>
 <img src="/images/TL JC_Header06.png" align="left" style="width:50%;">
