@@ -199,9 +199,8 @@ margin-left:25px;
       <input id="tab-3" type="checkbox" name="tab">
     <label for="tab-3" style="font-family:KaiTi;font-size:22px" class="lbTM">உயர்தரம் தமிழ்மொழி பாடத்திற்கான கற்றல் விளைவுகள்</label>
      <div class="tab-content">
-     <h4 style="padding-top: 24px;"><span style="font-size:30px; color:purple;">உயர்தரம் 2 & 3 தமிழ்மொழிப் பாடத்திற்கான கல்வியின் விரும்பத்தக்க விளைவுகள்.</span></h4>
-  <img src="/tlmoe/TL-PreU_Poster02.jpg">
-      <img src="/tlmoe/tl-preU05.png" style="width: 30%;"> &nbsp; <a href="/tlmoe/JC-Syllabus-brochure.pdf" target="_blank" style="margin-left: 123px;">JC Brochure PDF</a>
+     <img src="/tlmoe/TL-PreU_Poster02.jpg">
+      <img src="/tlmoe/tl-preU05.png" align="left" style="width: 20%;"> &nbsp; <a href="/tlmoe/JC-Syllabus-brochure.pdf" target="_blank" style="margin-left: 123px;">JC Brochure PDF</a>
    </div></div>
     
      <div class="atab">
