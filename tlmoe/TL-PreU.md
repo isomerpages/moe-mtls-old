@@ -261,11 +261,8 @@ margin-left:25px;
  <br/>
 
  <h4><span style="font-size:30px;color:purple;">முக்கிய நிகழ்வுகள் </span></h4>
-<img src="/images/TL JC_Header01.png">
-<img src="/tlmoe/TL-PreU_Poster05.jpg"><br/>
-<img src="/images/TL JC_Header02.png">
-<img src="/tlmoe/TL-PreU_Poster06.jpg"><br/>
-<img src="/images/TL JC_Header03.png">
+<img src="/tlmoe/TL-PreU_Poster05.jpg">
+<img src="/tlmoe/TL-PreU_Poster06.jpg">
 <img src="/tlmoe/TL-PreU_Poster07.jpg"><br/>
 
 <h4><span style="font-size:30px;color:purple;">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமூட்டும் உத்திமுறைகள் 
