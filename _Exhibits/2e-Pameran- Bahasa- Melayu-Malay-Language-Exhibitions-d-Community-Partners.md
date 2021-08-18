@@ -1,8 +1,8 @@
 ---
 title: 'Rakan Kerjasama Masyarakat'
-permalink: /Gallery/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-e/Community-Partners/
+permalink: /Exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-e/Community-Partners/
 breadcrumb: 'Rakan Kerjasama Masyarakat'
-collection_name: Gallery
+collection_name: Exhibits
 third_nav_title: 'Pameran Bahasa Melayu'
 ---
 
