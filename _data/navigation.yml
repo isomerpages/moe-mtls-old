@@ -9,6 +9,9 @@ links:
 - title: Exhibits
   url: /Exhibits/
   collection: Gallery
+- title: test
+  url: /test/
+  collection: Exhibits
 - title: Online Quest
   url: /Online-Quest/
 - title: Others
