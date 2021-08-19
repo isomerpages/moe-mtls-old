@@ -99,26 +99,26 @@ PCF Sparkletots @ Boon Lay Blk 631 </center>
   
   <div class="row">
   <div class="column">
-  <img src="images/Ms-Lim-Wen-Zhi.png" style="width:100%">
+  <img src="/images/Ms-Lim-Wen-Zhi.png" style="width:100%">
  <p> <center> Ms Lim Wen Zhi
   <br/>My First Skool atBlk 209 Ang Mo Kio</center>
 </p>
     </div>
   <div class="column">
-<img src="images/Mrs-Shanmugam-Geetha.png" style="width:100%"> 
+<img src="/images/Mrs-Shanmugam-Geetha.png" style="width:100%"> 
  <p> <center> Mrs Shanmugam Geetha  <br/>
   PCF Sparkletots @ Punggol Shore Blk 174D  </center>
    </p>
     </div>
   <div class="column">
-<img src="images/Ms-Sharmila-Devi.png" style="width:100%">
+<img src="/images/Ms-Sharmila-Devi.png" style="width:100%">
  <p> <center> Ms Sharmila DeviD/O MutuManium <br/>
   PCF Sparkletots @ Boon LayBlk 262 </center></p>
     </div>
    </div>
    <div class="row">
  <div class="column">
-<img src="images/Ms-Zahidah-Mahmood.png" style="width:100%">
+<img src="/images/Ms-Zahidah-Mahmood.png" style="width:100%">
  <p> <center>Ms Zahidah Binte Mahmood <br/>
 M.Y WORLD@Punggol Edge</center>
  </p>
