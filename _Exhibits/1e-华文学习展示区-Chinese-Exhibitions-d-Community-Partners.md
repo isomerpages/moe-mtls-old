@@ -215,7 +215,7 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
       <label for="tab-9" class="lbCh"><span style="font-size:25px; font-family:KaiTi">新加坡动物园 </span><br/>Wildlife Reserves Singapore  </label>
       <div class="tab-content">
           <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;">新加坡动物园伴你读故事</h4>
-          <p style="font-family:KaiTi;margin:10px;font-size:21px;">新加坡动物园提供生动而独特的动物故事题材，帮助孩子提高阅读能力。<br/><br/><br />
+          <p style="font-family:KaiTi;margin:10px;font-size:21px;">新加坡动物园提供生动而独特的动物故事题材，帮助孩子提高阅读能力。<br/><br/>
               例如:《一只受困的小水獭》这本无字书讲述了一只江獭获救的故事。这本图书附带一份活动指南，指导教师和家长培养学前儿童成为富有想象力的讲故事小能手。讲故事是一种非常有趣的活动方式，能够丰富孩子的词汇和激发创造力。<br/><br />
               在探索学习活动中，新加坡动物园还专门为小学生准备了视频和图片，提供讲华语的机会，提升他们的沟通技能。
 
