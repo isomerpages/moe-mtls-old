@@ -101,7 +101,7 @@ PCF Sparkletots @ Boon Lay Blk 631 </center>
   <div class="column">
   <img src="/images/Ms-Lim-Wen-Zhi.png" style="width:100%">
  <p> <center> Ms Lim Wen Zhi
-  <br/>My First Skool atBlk 209 Ang Mo Kio</center>
+  <br/>My First Skool at Blk 209 Ang Mo Kio</center>
 </p>
     </div>
   <div class="column">
