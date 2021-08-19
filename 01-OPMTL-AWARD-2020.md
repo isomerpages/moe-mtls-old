@@ -56,7 +56,7 @@ PCF Sparkletots @ Boon Lay Blk 631 </center>
  </p>
     </div>
   <div class="column">
-<a href="/award/Mdm-Iryamaya-binti-Amin/"><img src="/images/Mrs-Balamurugan-Shanti.png" style="width:100%; display:block;"> </a>
+<a href="/award/Mrs-Balamurugan-Shanti/"><img src="/images/Mrs-Balamurugan-Shanti.png" style="width:100%; display:block;"> </a>
  <p> <center>Mrs Balamurugan Shanti<br/>
   திருமதி பாலமுருகன் சாந்தி<br/>
  PCF Sparkletots @ Chua Chu Kang Blk 10 </center>
