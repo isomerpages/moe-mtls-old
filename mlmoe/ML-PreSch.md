@@ -188,10 +188,10 @@ Yang berikut merupakan contoh-contoh projek MuM yang terdapat di<a href="https:/
 Untuk mendapatkan contoh Projek MuM yang lain, sila layari <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/weeks-of-wonder" target="_blank">  lelaman </a> ini.</p> 
 <p id="C4" style="font-size:30px;"><strong>Panduan Buat Ibu Bapa </strong>
   </p>
- <p style="text-align:justify;"><span style="font-size:25px; color:green;">Aktiviti Belajar Bahasa Melayu Di Rumah
+ <p style="text-align:justify;"><span style="font-size:25px; color:green;">Aktiviti Bahasa Melayu di Rumah
 </span>
 <br/>
-Ibu bapa/Waris boleh menyokong pembelajaran dan pembangunan bahasa Ibunda anak/waris anda di rumah dengan aktiviti-aktiviti saranan yang berikut. Aktiviti-aktiviti ini dapat melibatkan anak/waris anda melalui bermain dan meneroka. Selain memupuk interaksi yang berkualiti dengan anak/waris anda, aktiviti-aktiviti ini juga dapat membantu ahli keluarga mengeratkan hubungan. <br/><br/>
+Ibu bapa boleh menyokong pembelajaran dan pembangunan bahasa Ibunda anak anda di rumah dengan aktiviti-aktiviti saranan yang berikut. Aktiviti-aktiviti ini dapat melibatkan anak anda dengan bermain dan meneroka. Selain memupuk interaksi yang berkualiti dengan anak anda, aktiviti-aktiviti ini juga dapat membantu ahli keluarga mengeratkan hubungan. <br/><br/>
  Yang berikut merupakan contoh-contoh Aktiviti Belajar Bahasa Ibunda mengikut 4 tema utama dalam pembelajaran dan pengajaran Bahasa Melayu.
 </p>
  <div class="atab">
