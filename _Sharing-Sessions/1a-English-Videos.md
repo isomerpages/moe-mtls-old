@@ -79,7 +79,8 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
  <div class="atab atab3Line" >
      <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbeng">Learning Mother Tongue is Cool at Home and in School too! - Strategies to Motivate Children to Love MTL <a href="www.w3school" style="text-align:right;">Click here</a>    <br/>Mrs Dianne Seet <br/>
+      <label for="tab-1" class="lbeng">Learning Mother Tongue is Cool at Home and in School too! - Strategies to Motivate Children to Love MTL   
+       <br/>Mrs Dianne Seet : &nbsp; &nbsp; &nbsp; &nbsp;    <a href="www.w3school" style="text-align:right;">Click here</a><br/>
 Mdm Nie Bing</label>
  
   <div class="tab-content">      
