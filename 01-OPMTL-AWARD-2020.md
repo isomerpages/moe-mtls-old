@@ -77,7 +77,7 @@ PCF Sparkletots @ Boon Lay Blk 631 </center>
  </p>
   </div>
   <div class="column">
-   <a href="/award/Mdm-Zeng-Hanyu/"><img src="/images/Mdm-Wang-hihong.png" style="width:100%;display:block;"></a>
+   <a href="/award/Mdm-Zeng-Hanyu/"><img src="/images/Mdm-Wang-zhihong.png" style="width:100%;display:block;"></a>
  <p> <center> Mdm Wang Zhihong <br/>
   <span style= "font-family:KaiTi; font-size:25px;">王志洪老师  </span> 
   <br/>PCF Sparkletots @ Keat Hong Blk 411</center>
@@ -98,26 +98,26 @@ PCF Sparkletots @ Boon Lay Blk 631 </center>
   
   <div class="row">
   <div class="column">
-  <img src="images/2021-08-04_MTLS_Awards_Merit_Lim Wen Zhi.png" style="width:100%">
+  <img src="images/Ms-Lim-Wen-Zhi.png" style="width:100%">
  <p> <center> Ms Lim Wen Zhi
   <br/>My First Skool atBlk 209 Ang Mo Kio</center>
 </p>
     </div>
   <div class="column">
-<img src="images/2021-08-04_MTLS_Awards_Merit_Shanmugam Geetha.png" style="width:100%"> 
+<img src="images/Mrs-Shanmugam-Geetha.png" style="width:100%"> 
  <p> <center> Mrs Shanmugam Geetha  <br/>
   PCF Sparkletots @ Punggol Shore Blk 174D  </center>
    </p>
     </div>
   <div class="column">
-<img src="images/2021-08-04_MTLS_Awards_Merit_Sharmila Devi.png" style="width:100%">
+<img src="images/Ms-Sharmila-Devi.png" style="width:100%">
  <p> <center> Ms Sharmila DeviD/O MutuManium <br/>
   PCF Sparkletots @ Boon LayBlk 262 </center></p>
     </div>
    </div>
    <div class="row">
  <div class="column">
-<img src="images/2021-08-04_MTLS_Awards_Merit_Zahidah Mahmood.png" style="width:100%">
+<img src="images/Ms-Zahidah-Mahmood.png" style="width:100%">
  <p> <center>Ms Zahidah Binte Mahmood <br/>
 M.Y WORLD@Punggol Edge</center>
  </p>
