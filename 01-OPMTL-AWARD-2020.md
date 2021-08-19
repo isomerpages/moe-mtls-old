@@ -42,9 +42,9 @@ max-width:50%;
   gtag('config', 'AW-726049306');
 </script>
  
- <h2 style="line-height:101;"><center>OUTSTANDING PRE-SCHOOL MOTHER TONGUE LANGUAGE 
+ <h3 style="line-height:1.1;"><center>OUTSTANDING PRE-SCHOOL MOTHER TONGUE LANGUAGE 
 TEACHER AWARD 2021- LIST OF RECIPIENTS & JUDGES
-  </center></h2>
+  </center></h3>
 
 <h5> <strong> Outstanding Award Winners </strong></h5>
 <br/>
