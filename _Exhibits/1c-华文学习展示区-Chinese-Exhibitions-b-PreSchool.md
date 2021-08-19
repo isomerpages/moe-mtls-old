@@ -72,7 +72,7 @@ third_nav_title: '华文学习展示区'
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
     <label for="tab-1" class="lbCh"><span style="font-size:25px;font-family:KaiTi">教育部幼儿园（丰伟）</span> <br/> MK@Fernvale <br/>
- <a href="#">Click Here</label>
+     <a href="#">Click Here</a></label>
       <div class="tab-content">
       <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">通过数码资讯科技，让母语学习活起来</h4>
       <p style="font-family:KaiTi;margin:10px;font-size:21px;">
@@ -84,12 +84,10 @@ third_nav_title: '华文学习展示区'
  <br/><br/>
     Various ICT tools and child-centric strategies are used to enhance the quality of learning. Digital devices are also used in the daily class setting to support learning. To nurture children as active MTL learners, fun-filled and interactive ICT activities are designed for them to learn at their own pace while interacting with their peers and things around them.
 </p>
-      </div>
 </div>
-
+</div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22" >
-
 </td>
 </tr>
 <tr>
