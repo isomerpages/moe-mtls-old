@@ -22,7 +22,7 @@ max-width:100%;
 </script>
   <body> 
   <a href="/opmtl-award-2020/" style="float:right;">Back</a>
-   <img src="/images/Ms-Liao-Sulian.png" style="width:100%">
+   <img src="/images/Ms-Liao-Sulian.jpg" style="width:100%">
     <br/>
     <h4 style="font-family:KaiTi;">感言：</h4>
     <p style="font-family:KaiTi; font-size:25px; text-align:justify">
