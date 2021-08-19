@@ -126,7 +126,7 @@ M.Y WORLD@Punggol Edge</center>
   
   <div class="row">
   <div class="column">
-  <img src="# style="width:100%">
+  <img src="#" style="width:100%">
  <p> <center> DR RAUDHAH BINTE YAHYA
   <br/>NIEC</center>
 </p>
@@ -145,7 +145,7 @@ M.Y WORLD@Punggol Edge</center>
    </div>
  <div class="row">
   <div class="column">
-  <img src="# style="width:100%">
+  <img src="#" style="width:100%">
  <p> <center> DR A RA SIVAKUMARAN
   <br/>NIE</center>
 </p>
@@ -175,7 +175,7 @@ NIEC </center>
 ECDA </center></p>
     </div>
    <div class="column">
-  <img src="# style="width:100%">
+  <img src="#" style="width:100%">
  <p> <center> LIM SIEW GEK   
   <br/>CPCLL</center>
 </p>
