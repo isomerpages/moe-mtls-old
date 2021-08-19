@@ -169,8 +169,8 @@ margin-left:25px;
  <p style="text-align:left; font-family:Anjal New InaiMathi Sch Book; font-size:24px;">மாணவர்களை ஈர்க்கும் பயிற்றுவளங்கள். </p>
  <h4 style="font-family:Anjal New InaiMathi Sch Book; font-size:28px; font-weight:bold; color:purple; text-align:left;">பாடநூல், பயிற்சிநூல் </h4>
   <img src="/images/TL-Sec_Textbooks-&-Workbooks.gif"><br/>
-  <img src="/images/TL-Sec_Poster02.jpg">
-  <img src="images/TL-Sec_Poster03.jpg">
+  <img src="/images/TL-Sec_Poster02.jpg"><br/>
+  <img src="images/TL-Sec_Poster03.jpg"><br/>
   <img src="/images/TL-Sec_Poster04.jpg">
 
  <h2 id="C4" style="font-family:Anjal New InaiMathi Sch Book; font-size:36px; font-weight:bold; text-align:center;">புதிய கூறுகளும் புதிய முயற்சிகளும் </h2>
