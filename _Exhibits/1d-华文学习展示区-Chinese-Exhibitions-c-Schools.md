@@ -196,7 +196,7 @@ the SLS to share their views with their peers and showcase their learning. This 
       <div class="tab-content">
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">运用数码工具进行母语教学</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-    圣若瑟书院母语部在教学中使用线上教学法促进学生协作学习的能力。教师们有效地使用不同的教学工具，如：Jamboard, Flipgrid 和新加坡学生学习平台（SLS）的“思维互动工具”（ITT ，Interactive Thinking Tool) 进行“学生与学生”和“学生与文本”之间的互动，让学生的思维可视化。在教师的引领和科技的辅助下，学生有更多机会分享自己的看法，进行高效的小组协作以及同侪互评，为彼此提供有意义的反馈。在这个活动下，同学通过协作，一起进步、一起达成学习目标。
+    圣若瑟书院母语部在教学中使用线上教学法促进学生协作学习的能力。教师们有效地使用不同的教学工具，如：Jamboard, Flipgrid 和“新加坡学生学习平台”（SLS）的“思维互动工具”（ITT ，Interactive Thinking Tool) 进行“学生与学生”和“学生与文本”之间的互动，让学生的思维可视化。在教师的引领和科技的辅助下，学生有更多机会分享自己的看法，进行高效的小组协作以及同侪互评，为彼此提供有意义的反馈。在这个活动下，同学通过协作，一起进步、一起达成学习目标。
 </p><br/>
           <h4 style="margin:10px;">Effective Use of Teaching Tools in CL Lessons with E-Pedagogy</h4>
         <p style="margin:10px;">
