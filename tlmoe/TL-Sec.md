@@ -111,6 +111,7 @@ margin-left:25px;
  <br/>
 <img src="/images/TL-Sec_Header.jpg">
 <br/>
+ <center>
  <a href="#C5" style="background-color: purple; font-size: 14px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 10px 12px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">அறிமுகம்</a>
  <a href="#C1" style="background-color: purple; font-size: 14px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 10px 12px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">உயர்நிலைப் பாடக்கலைத்திட்டங்கள்</a>
  <a href="#C2" style="background-color: purple; font-size: 14px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 10px 12px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழி</a>
@@ -118,7 +119,8 @@ margin-left:25px;
  <a href="#C8" style="background-color: purple; font-size: 14px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 10px 12px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பயிற்றுவளங்கள்</a>
  <a href="#C4" style="background-color: purple; font-size: 14px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 10px 12px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">புதிய கூறுகளும் புதிய முயற்சிகளும்</a>
  <a href="#C6" style="background-color: purple; font-size: 14px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 10px 12px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியம்</a>
- <a href="#C7" style="background-color: purple; font-size: 14px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 10px 12px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்</a><br/>
+ <a href="#C7" style="background-color: purple; font-size: 14px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 10px 12px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்</a>
+ </center><br/>
  
   <h2 id="C5" style="font-family:Anjal New InaiMathi Sch Book; font-size:36px; font-weight:bold; text-align:center;">அறிமுகம் </h2> 
 <table style="  border-collapse: collapse;
