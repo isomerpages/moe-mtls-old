@@ -23,7 +23,7 @@ max-width:100%;
 </script>
   <body> 
   <a href="/opmtl-award-2020/" style="float:right;">Back</a>
- <img src="/images/Mdm-Arfahrizan-Abdul-Wahed.png" style="width:100%">
+ <img src="/images/Mdm-Arfahrizan.jpg" style="width:100%">
     <br/>
      <h4>Quote </h4>
     <p style="text-align:justify;">
