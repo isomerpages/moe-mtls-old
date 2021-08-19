@@ -226,7 +226,7 @@ margin-left:25px;
   
    <h2 id="C6" style="font-family:Anjal New InaiMathi Sch Book;  font-size:36px; font-weight:bold; text-align:center;">தமிழ் இலக்கியம்</h2>
  <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; font-size:24px;">
- <span style="font-weight:bold; color:purple;">உயர்நிலை 3-இல்</span> பயிலும் மாணவர்களுக்குத் தமிழ் இலக்கியம் ஒரு பாடமாக வழங்கப்படுகிறது. <br/>
+ <span style="font-family:Anjal New InaiMathi Sch Book; font-weight:bold; color:purple;">உயர்நிலை 3-இல்</span> பயிலும் மாணவர்களுக்குத் தமிழ் இலக்கியம் ஒரு பாடமாக வழங்கப்படுகிறது. <br/>
  இப்பாடத்தைப் பயில விரும்பும் மாணவர்கள் உயர்நிலை 2 இறுதியில் <strong>தமிழ்மொழியில்</strong> A2 அல்லது <strong>உயர்தமிழில் </strong>B3 பெற்றிருத்தல் வேண்டும். </p>
 <img src="/images/TL-Sec_Poster10.jpg"><br/>
   <a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019</a><br/>
