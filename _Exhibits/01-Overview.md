@@ -9,7 +9,7 @@ third_nav_title: 'Overview'
 <head>
 <style>
 .button {
-  background-color: #008CBA;
+  background-color: #3BB9FF;
   border: none;
   color: white !important;
   padding: 50px 41px;
