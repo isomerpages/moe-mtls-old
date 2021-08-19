@@ -80,7 +80,7 @@ max-width:40%;
  <div class="atab atab3Line" >
      <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1" class="lbeng">Learning Mother Tongue is Cool at Home and in School too! - Strategies to Motivate Children to Love MTL   
-       <br/>Mrs Dianne Seet : &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="/exhibits/overview/"><img src="#" style="float:right;"></a><br/>
+       <br/>Mrs Dianne Seet <br/>
 Mdm Nie Bing</label>
  
   <div class="tab-content">      
