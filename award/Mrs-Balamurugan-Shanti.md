@@ -23,7 +23,7 @@ max-width:100%;
 </script>
   <body> 
   <a href="/opmtl-award-2020/" style="float:right;">Back</a>
- <img src="/images/Mrs-Balamurugan-Shanti.png" style="width:100%">
+ <img src="/images/Mrs Shanti.jpg" style="width:100%">
     <br/>
      <h4 style="font-family:'Anjal InaiMathi';">மேற்ம ோள்：</h4>
     <p style="text-align:justify;font-family:'Anjal InaiMathi';">
