@@ -115,7 +115,7 @@ margin-left:25px;
  <a href="#C1" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">உயர்நிலைப் பாடக்கலைத்திட்டங்கள்</a>
  <a href="#C2" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழி</a>
  <a href="#C3" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பாடத்திட்டம் 2021</a>
- <a href="#C8" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பயற்றுவளங்கள்</a>
+ <a href="#C8" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பயிற்றுவளங்கள்</a>
  <a href="#C4" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">புதிய கூறுகளும் புதிய முயற்சிகளும்</a>
  <a href="#C6" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியம்</a>
  <a href="#C7" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்</a><br/>
@@ -164,7 +164,7 @@ margin-left:25px;
          <iframe width="560" height="315" src="https://www.youtube.com/embed/rGFqD2sxPfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 </div></div>
 
- <h2 id="C8" style="font-family:Anjal New InaiMathi Sch Book; font-size:36px; font-weight:bold; text-align:center;">தமிழ்மொழிப் பயற்றுவளங்கள்</h2>
+ <h2 id="C8" style="font-family:Anjal New InaiMathi Sch Book; font-size:36px; font-weight:bold; text-align:center;">தமிழ்மொழிப் பயிற்றுவளங்கள்</h2>
  <p style="text-align:left; font-family:Anjal New InaiMathi Sch Book; font-size:24px;">மாணவர்களை ஈர்க்கும் பயிற்றுவளங்கள். </p>
  <h4 style="font-family:Anjal New InaiMathi Sch Book; font-size:28px; font-weight:bold; color:purple; text-align:left;">பாடநூல், பயிற்சிநூல் </h4>
   <img src="/images/TL-Sec_Textbooks-&-Workbooks.gif"><br/>
