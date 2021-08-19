@@ -120,7 +120,6 @@ margin-left:25px;
  <a href="#C6" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியம்</a>
  <a href="#C7" style="background-color: purple; font-size: 16px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்</a><br/>
  
-
   <h2 id="C5" style="font-family:Anjal New InaiMathi Sch Book; font-size:36px; font-weight:bold; text-align:center;">அறிமுகம் </h2> 
 <table style="  border-collapse: collapse;
   width: 100%;">
@@ -153,7 +152,7 @@ margin-left:25px;
 </div></div>
   
  <h2 id="C3" style="font-family:Anjal New InaiMathi Sch Book; font-size:36px; font-weight:bold; text-align:center;">தமிழ்மொழிப் பாடத்திட்டம் 2021</h2>
-<img src="/images/TL-Sec_Image01.jpg"><br/>
+<img src="/images/TL-Sec_Poster01.jpg"><br/>
  <a href="https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf" target="_blank" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பாடத்திட்டம் 2021 (உயர்நிலை)</a><br/>
   
 <div class="atab">
@@ -169,28 +168,12 @@ margin-left:25px;
  <p style="text-align:left; font-family:Anjal New InaiMathi Sch Book; font-size:24px;">மாணவர்களை ஈர்க்கும் பயிற்றுவளங்கள். </p>
  <h4 style="font-family:Anjal New InaiMathi Sch Book; font-size:28px; font-weight:bold; color:purple; text-align:left;">பாடநூல், பயிற்சிநூல் </h4>
   <img src="/images/TL-Sec_Textbooks-&-Workbooks.gif"><br/>
-  <img src="/images/TL-Sec_Image06.jpg">
-<h2 style="font-family:Anjal New InaiMathi Sch Book; font-size:36px; font-weight:bold; text-align:center;">மொழி விளையாட்டு </h2>
-  <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; padding:8px; font-size:24px;"> சொல்வளப் பெருக்கம், பேச்சுவழிக் கருத்துப்பரிமாற்றம், எழுத்துவழிக் கருத்துப்பரிமாற்றம் முதலியவற்றுக்கு உதவும் மொழி விளையாட்டுகள் பாடநூல்களில் வழங்கப்பட்டுள்ளன. </p>
-<br/>
-<table style=" border-collapse: collapse; width: 100%;">
-<tr>
-  <td style=" text-align: left;padding: 8px;width:50%;"><img src="/tlmoe/image01.png"></td>
-    <td style=" text-align: left;padding: 8px;width:50%;"><img src="/tlmoe/image02.png" ></td>
-  </tr>
-  </table>
-     <table style="  border-collapse: collapse;
-  width: 100%;">
-  <tr>
-      <td style=" text-align: left;padding: 8px;width:25%;"><img src="/tlmoe/image03.png"></td>
-        <td style=" text-align: left;padding: 8px;width:50%;"><img src="/tlmoe/image04.png" ></td>
-    </tr>
-</table>
-  <br/>
-  <img src="/images/TL-Sec_Image07.jpg">
+  <img src="/images/TL-Sec_Poster02.jpg">
+  <img src="images/TL-Sec_Poster03.jpg">
+  <img src="/images/TL-Sec_Poster04.jpg">
 
  <h2 id="C4" style="font-family:Anjal New InaiMathi Sch Book; font-size:36px; font-weight:bold; text-align:center;">புதிய கூறுகளும் புதிய முயற்சிகளும் </h2>
- <img src="/images/TL-Sec_Image02.jpg"><br/>  
+ <img src="/images/TL-Sec_Poster05.jpg"><br/>  
   <a href="#C9" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">பண்பாட்டறிவை வளப்படுத்துதல்</a>
   <a href="#C10" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">இலக்கியப் பனுவல்களின் வாயிலாக மொழி ஈடுபாட்டை வளர்த்தல்</a>
   <a href="#C11" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">மொழி கற்றலுக்குத் துணைவளமாக அமையும் தற்கால நடப்புச் செய்திகள்</a>
@@ -207,7 +190,7 @@ margin-left:25px;
  அடுத்தாண்டு உயர்நிலை இரண்டு மாணவர்கள் கவிதை இலக்கியத்தைப் படித்து மகிழ்வர். </p>
   <img src="/images/TL-Sec_Books.gif" style="width:40%;"><br/>
   
-<img src="/images/TL-Sec_Image05.jpg"><br/>
+<img src="/images/TL-Sec_Poster06.jpg"><br/>
   <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
     <label for="tab-6" style="font-family:Anjal New InaiMathi Sch Book; font-size:20px" class="lbCh">நடப்புச் செய்திகள்
@@ -217,7 +200,8 @@ margin-left:25px;
          <iframe width="560" height="315" src="https://www.youtube.com/embed/nnuIhutTDUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 </div></div>
   <br/>
-<img src="/images/TL-Sec_Image04.jpg"><br/>
+<img src="/images/TL-Sec_Poster07.jpg">
+  <img src="/images/TL-Sec_Poster08.jpg"><br/>
    <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
     <label for="tab-2" style="font-family:Anjal New InaiMathi Sch Book; font-size:20px; text-align:justify;" class="lbCh">மாணவர் கற்றல் தளம்
@@ -225,7 +209,8 @@ margin-left:25px;
      <div class="tab-content">
 <center>
   <iframe class="iframe2" width="560" height="315" src="https://www.youtube.com/embed/jisfwIJXdCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-</div></div>
+</div></div><br/>
+  <img src="/images/TL-Sec_Poster09.jpg"><br/>
    <div class="atab">
      <input id="tab-3" type="checkbox" name="tab">
    <label for="tab-3" style="font-family:Anjal New InaiMathi Sch Book; font-size:20px; text-align:justify;">எழுத்திலிருந்து பேச்சுமொழி வடிவமாற்றாம்
@@ -235,16 +220,16 @@ margin-left:25px;
   <iframe width="560" height="315" src="https://www.youtube.com/embed/grfbtAhjzxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
    </div></div>
 <br/>
-  <img src="/images/TL-Sec_Image09.jpg">
+  <img src="/images/TL-Sec_Poster11.jpg">
 <br/>
   
    <h2 id="C6" style="font-family:Anjal New InaiMathi Sch Book;  font-size:36px; font-weight:bold; text-align:center;">தமிழ் இலக்கியம்</h2>
  <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; font-size:24px;">
  <span style="font-weight:bold; color:purple;">உயர்நிலை 3-இல்</span> பயிலும் மாணவர்களுக்குத் தமிழ் இலக்கியம் ஒரு பாடமாக வழங்கப்படுகிறது. <br/>
  இப்பாடத்தைப் பயில விரும்பும் மாணவர்கள் உயர்நிலை 2 இறுதியில் <strong>தமிழ்மொழியில்</strong> A2 அல்லது <strong>உயர்தமிழில் </strong>B3 பெற்றிருத்தல் வேண்டும். </p>
-<img src="/images/TL-Sec_Image08.jpg"><br/>
+<img src="/images/TL-Sec_Poster10.jpg"><br/>
   <a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019</a><br/>
-  <img src="/images/TL-Sec_Image10.jpg">
+  <img src="/images/TL-Sec_Poster12.jpg">
 
 <h2 id="C7" style="font-family:Anjal New InaiMathi Sch Book; font-size:36px; font-weight:bold; text-align:center;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்<br/>
  (Tamil Language Elective Programme - TLEP)</h2>
@@ -252,12 +237,12 @@ margin-left:25px;
  <h4 style="font-family:Anjal New InaiMathi Sch Book; font-size:28px; font-weight:bold; color:purple; text-align:left;">நோக்கம் </h4>
 <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; font-size:24px;">தகுதி வாய்ந்த மாணவர்களைத் தமிழ்மொழியில் ஆற்றல் மிக்கவர்களாகவும் தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வைப் பேணி வளர்க்கவும் இத்திட்டம் வகைசெய்யும். அதோடு, மாணவர்களை இருமொழியாற்றல் மிக்கவர்களாக உருவாக்குவதே இந்தத் திட்டத்தின் நோக்கமாகும்.
 </p><br/>
-<img src="/images/TL-Sec_Image11.jpg">
+<img src="/images/TL-Sec_Poster14.jpg">
    <br/>
   <a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">TLEP Infosheet - Secondary</a>
   <a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">TLEP Infosheet - JC</a>
    <br/>
- <img src="/images/TL-Sec-TLEP-Schools-Update.jpg">  
+ <img src="/images/TL-Sec_Poster13.jpg">  
 <br/><br/>
 
  <img src="/images/TL-Sec-Optional-Curriculum-Update.jpg"><br/>
