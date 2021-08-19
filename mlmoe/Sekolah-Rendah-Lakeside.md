@@ -13,7 +13,7 @@ breadcrumb: 'Sekolah Rendah Lakeside'
   gtag('config', 'AW-726049306');
 </script>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-d/schools/" style="float:right;">Back</a>
- <img src="/images/Lakeside-R4(Header-Footer)-02.jpg"> <br/>
+ <img src="/images/Test-Lakeside-ML.jpg"> <br/>
 
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
