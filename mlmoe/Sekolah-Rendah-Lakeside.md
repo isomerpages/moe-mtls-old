@@ -14,7 +14,6 @@ breadcrumb: 'Sekolah Rendah Lakeside'
 </script>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-d/schools/" style="float:right;">Back</a>
  <img src="/images/Lakeside-R4(Header-Footer)-02.jpg"> <br/>
-<div class="video-container">
-  </div>
+
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
