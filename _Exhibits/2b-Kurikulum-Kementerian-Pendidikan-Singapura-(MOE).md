@@ -40,8 +40,8 @@ table.center {
 .atab label {
     position: relative;
     display: block;
-    background: #a3c8645;
-    color: #a3c8645;
+    background: #a3c864;
+    color: #a3c864;
     font-weight: 700;
     padding: 10px;
     cursor: pointer;
