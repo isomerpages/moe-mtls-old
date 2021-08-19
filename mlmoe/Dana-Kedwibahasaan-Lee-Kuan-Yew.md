@@ -13,7 +13,7 @@ breadcrumb: 'Dana Kedwibahasaan Lee Kuan Yew'
   gtag('config', 'AW-726049306');
 </script>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-e/community-partners/" style="float:right;">Back</a>
- <img src="/images/3. LKYFB_ML-R2 (Header Footer) - Smaller Logo-02.jpg"> <br/>
+ <img src="/images/LKYFB_ML-R2(Header Footer)-Smaller Logo-02.jpg"> <br/>
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/51wFosK9cGI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
