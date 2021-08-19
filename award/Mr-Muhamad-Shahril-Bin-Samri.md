@@ -23,7 +23,7 @@ max-width:100%;
 </script>
   <body> 
   <a href="/opmtl-award-2020/" style="float:right;">Back</a>
- <img src="/images/Mr-Muhamad-Shahril-Samri.png" style="width:100%">
+ <img src="/images/Mr-Sharil.jpg" style="width:100%">
     <br/>
      <h4>Quote </h4>
     <p style="text-align:justify;">
