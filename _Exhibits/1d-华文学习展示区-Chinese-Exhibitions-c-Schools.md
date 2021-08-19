@@ -152,7 +152,7 @@ the SLS to share their views with their peers and showcase their learning. This 
       <div class="tab-content">
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;">书香处处</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-      为了营造书香洋溢的学习环境，维林小学制定了生动有趣的校园阅读计划。其活动包括“书香日”、“阅读护照”“好书推荐”、“阅读成品展示”等。学校利用“新加坡学生学习平台”（SLS）及社交媒体平台开展线上阅读，也积极鼓励家长参与亲子阅读。这些丰富多彩的阅读活动，调动了学生的阅读兴趣，培养了良好的阅读习惯。学生也在快乐的阅读过程中提高了华文能力。
+      为了营造书香洋溢的学习环境，维林小学制定了生动有趣的校园阅读计划。其活动包括“书香日”、“阅读护照”、“好书推荐”、“阅读成品展示”等。学校利用“新加坡学生学习平台”（SLS）及社交媒体平台开展线上阅读，也积极鼓励家长参与亲子阅读。这些丰富多彩的阅读活动，调动了学生的阅读兴趣，培养了良好的阅读习惯。学生也在快乐的阅读过程中提高了华文能力。
 </p><br/>
           <h4 style="margin:10px;">Reading is Our Way of Life</h4>
         <p style="margin:10px;">
