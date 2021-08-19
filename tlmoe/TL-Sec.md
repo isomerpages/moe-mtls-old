@@ -109,7 +109,7 @@ margin-left:25px;
 <a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Previous</a>
  <a href="/tlmoe/tl-preu/" class="btn" style="float:right;">Next</a>
  <br/>
-<img src="/images/TL-Sec_Header.jpg">
+<img src="/images/TL-Sec_Header.jpg"><br/>
 <span style="vertical-align:middle;">
  <a href="#C5" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 12px 14px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">அறிமுகம்</a>
  <a href="#C1" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 12px 14px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0; text-align:center;">உயர்நிலைப்<br/>பாடக்கலைத்திட்டங்கள்</a>
@@ -191,7 +191,7 @@ margin-left:25px;
  அடுத்தாண்டு உயர்நிலை இரண்டு மாணவர்கள் கவிதை இலக்கியத்தைப் படித்து மகிழ்வர். </p>
   <img src="/images/TL-Sec_Books.gif" style="width:40%;"><br/>
   
-<img src="/images/TL-Sec_Poster06.jpg"><br/>
+  <h2 id="C11"><img src="/images/TL-Sec_Poster06.jpg"></h2>
   <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
     <label for="tab-6" style="font-family:Anjal New InaiMathi Sch Book; font-size:20px" class="lbCh">நடப்புச் செய்திகள்
