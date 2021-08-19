@@ -111,9 +111,23 @@ margin-left:25px;
   gtag('config', 'AW-726049306');
 </script>
 <a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" class="btn" style="float:right;">Previous</a><br/>
-<img src="/images/TL-PreU-Header.jpg">
+<img src="/images/TL-PreU-Header.jpg"><br/>
+ <a href="#C1" style="font-size:20px"><span style="color:blue;">தாய்மொழியின் இலக்கு
+</span></a><br/>
+ <a href="#C2" style="font-size:20px"><span style="color:blue;">இலக்கியம்
+</span></a><br/>
+ <a href="#C3" style="font-size:20px"><span style="color:blue;">புதிதாக அறிமுகம் கண்ட இலக்கியங்கள்
+</span></a><br/>
+ <a href="#C4" style="font-size:20px"><span style="color:blue;">முக்கிய நிகழ்வுகள்
+</span></a><br/>
+ <a href="#C5" style="font-size:20px"><span style="color:blue;">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமுட்டும் உத்திமுறைகள்
+</span></a><br/>
+ <a href="#C6" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி விருப்பப்பாடத்திட்டம்
+</span></a><br/>
+ <a href="#C7" style="font-size:20px"><span style="color:blue;">தமிழ்முரசில் வெளிவந்த செய்திகள்
+</span></a><br/><br/>
 
-<h4><span style="font-size:30px;color:purple;">தாய்மொழியின் இலக்கு
+<h4 id="C1"><span style="font-size:30px;color:purple;">தாய்மொழியின் இலக்கு
  </span></h4>
  <p style="text-align:justify;"> வருங்காலச் சிங்கப்பூர்த் தமிழ்ச் சந்ததியினரிடையே தமிழ் வாழும் மொழியாகத் திகழ வேண்டும். பலவகைப் பண்பாட்டுப் பாரம்பரியத்தைக் கொண்டு உலக நகராக விளங்கும் சிங்கப்பூரின் தனித்தன்மைக்கு வலுவூட்டும் அம்சமாக அது விளங்க வேண்டும்.</p><br/>
   <div class="atab">
@@ -232,7 +246,7 @@ margin-left:25px;
 <br/>
  
  Pending Video
- <h4><span style="font-size:30px;color:purple;">புதிதாக அறிமுகம் கண்ட இலக்கியங்கள் </span></h4>
+ <h4 id="C3"><span style="font-size:30px;color:purple;">புதிதாக அறிமுகம் கண்ட இலக்கியங்கள் </span></h4>
  <table style="border-collapse: collapse;width: 100%;border:0;">
   <tr>
     <td style="  border: 0; text-align: left; padding: 8px;width:60%;">
@@ -268,17 +282,17 @@ margin-left:25px;
 <br/><span style="font-size:18px;">எழுத்தாளர்களைப்பற்றி அறிந்துகொள்ளுதல்</span>
  </div></div></center>
 
- <h4><span style="font-size:30px;color:purple;">முக்கிய நிகழ்வுகள் </span></h4>
+ <h4 id="C4"><span style="font-size:30px;color:purple;">முக்கிய நிகழ்வுகள் </span></h4>
 <img src="/tlmoe/TL-PreU_Poster05.jpg">
 <img src="/tlmoe/TL-PreU_Poster06.jpg">
 <img src="/tlmoe/TL-PreU_Poster07.jpg">
 
-<h4><span style="font-size:30px;color:purple;">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமூட்டும் உத்திமுறைகள் 
+<h4 id="C5"><span style="font-size:30px;color:purple;">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமூட்டும் உத்திமுறைகள் 
  </span></h4> 
 <img src="/tlmoe/TL-PreU_Poster08.jpg">
 <br/>
  <br/>
-<img src="/images/TL JC_Header05.png">
+ <h4 id="C6"><img src="/images/TL JC_Header05.png"></h4>
  <p>தமிழ்மொழி &nbsp; விருப்பப்பாடத்திட்டம் &nbsp; 2020-ஆம் &nbsp; ஆண்டு &nbsp; அறிமுகம் &nbsp; கண்டது. &nbsp; தகுதிவாய்ந்த &nbsp; மாணவர்களைத் &nbsp; தமிழ்மொழியில் &nbsp; ஆற்றல்மிக்கவர்களாகவும், &nbsp; தமிழ் &nbsp; இலக்கியத்திலும் &nbsp; பண்பாட்டிலும் &nbsp; அவர்களுக்கிருக்கும் &nbsp; புரிந்துணர்வைப் &nbsp; பேணி &nbsp; வளர்க்கவும் &nbsp; இத்திட்டம் &nbsp; வகைசெய்யும். &nbsp; அதோடு &nbsp; மாணவர்களை &nbsp; இருமொழியாற்றல் &nbsp; மிக்கவர்களாக &nbsp; உருவாக்குவதே &nbsp; இந்தத் &nbsp; திட்டத்தின் &nbsp; நோக்கம்.
 <br/><br/>
 தமிழ்மொழி விருப்பப்பாடத்திட்டத்தை வழங்கும் தொடக்கக்கல்லூரிகள் <br/>
@@ -300,7 +314,7 @@ Pending video<br/>
 <img src="/images/TL PreU_Image06.jpg">
   <br/>
  
- <img src="/images/TL JC_Header04.png">
+ <h4 id="C7"><img src="/images/TL JC_Header04.png"></h4>
 <img src="/images/TL PreU_Image04.jpg">
 <br/>
 <a href="https://www.tamilmurasu.com.sg/singapore/story20210222-61692.html" target="_blank">உயர்தரம் 3 தமிழ்மொழிப் பாடம் பயில ஆர்வம் இருந்தால் போதும்
