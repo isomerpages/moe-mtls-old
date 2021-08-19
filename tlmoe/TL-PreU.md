@@ -211,7 +211,7 @@ margin-left:25px;
     </div></div>
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-    <label for="tab-3" style="font-family:KaiTi;font-size:22px" class="lbTM">உயர்தரம் தமிழ்மொழி பாடத்திற்கான கற்றல் விளைவுகள்</label>
+    <label for="tab-3" style="font-family:KaiTi;font-size:22px" class="lbTM">உயர்தரம் தமிழ்மொழிப் பாடத்திற்கான கற்றல் விளைவுகள்</label>
      <div class="tab-content">
       <table style="border-collapse: collapse;width: 100%;border:0;">
   <tr>
@@ -241,11 +241,8 @@ margin-left:25px;
  <h4 id="C2"><span style="font-size:30px;color:purple;">இலக்கியம்</span></h4>
    <p>இலக்கிய வகுப்புகள் மகிழ்வூட்டுவனவாக அமைய பல்வேறு அணுகுமுறைகள்.  
 </p>
- 
    <img src="/tlmoe/TL-PreU_Poster03.jpg">
-<br/>
  
- Pending Video
  <h4 id="C3"><span style="font-size:30px;color:purple;">புதிதாக அறிமுகம் கண்ட இலக்கியங்கள் </span></h4>
  <table style="border-collapse: collapse;width: 100%;border:0;">
   <tr>
@@ -297,18 +294,20 @@ margin-left:25px;
 <br/><br/>
 தமிழ்மொழி விருப்பப்பாடத்திட்டத்தை வழங்கும் தொடக்கக்கல்லூரிகள் <br/>
 <ul>
- <li style="text-align:justify;"><strong>ஆண்டர்சன் சிராங்கூன் தொடக்கக்கல்லூரி 
+ <li style="text-align:justify;"><strong>அண்டர்சன் சிராங்கூன் தொடக்கக்கல்லூரி 
  </strong></li>
  <li style="text-align:justify;"><strong>தேசியத் தொடக்கக்கல்லூரி
  </strong></li><br/>
 </ul>
-  <img src="/tlmoe/TL-PreU_Poster09.jpg">
+  <img src="/tlmoe/TL-PreU_Poster09.jpg"><br/>
+ <a href="/tlmoe/tlep-jc_infosheet_students.pdf" target="_blank">TLEP JC Infosheet</a>
+ <a href="/tlmoe/tlep-sec-infosheet-students-2019" target="_blank">TLEP Sec Infosheet</a><br/>
+ Pending video
  <br/>
 <img src="/images/TL JC_Header06.png" align="left" style="width:50%;">
 <img src="/images/TL JC_Header12.png">
 <p style="text-align:justify;">இணையம் வழி தமிழ்மொழி முகாம் தமிழ்மொழி விருப்பப்பாடத்திட்டம் செயற்குழு ஏற்பாடு செய்த தமிழ்மொழி முகாம் டிசம்பர் 5-ஆம் தேதி சிறப்பாக நடந்தேறியது. இந்நிகழ்ச்சியில் விருப்பப்பாடத்திட்டத்தை வழங்கும் இரண்டு கல்லூரிகளைச் சேர்ந்த மாணவர்கள் பங்கெடுத்து பயனடைந்தனர். அந்நிகழ்ச்சி முக்கிய நிகழ்வுகளைத் தொகுத்து வழங்கும் ஒளிக்காட்சி.</p>
 
-Pending video<br/>
 <img src="/images/TL PreU_Image05.jpg"><br/>
 <img src="/images/TL JC_Header11.png" align="left" style="width:50%;">
 <img src="/images/TL PreU_Image06.jpg">
