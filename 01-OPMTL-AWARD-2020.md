@@ -49,19 +49,19 @@ max-width:50%;
 <br/>
 <div class="row">
   <div class="column">
-   <a href="/award/Mdm-Almi-Roafuziah-binte-Mohamed/"><img src="images/2021-08-04_MTLS_Awards_Outstanding_Arfahrizan Abdul Wahed.png" style="width:100%;display:block;"></a>
+   <a href="/award/Mdm-Almi-Roafuziah-binte-Mohamed/"><img src="/images/Mdm-Arfahrizan-Abdul-Wahed.png" style="width:100%;display:block;"></a>
  <p> <center>Mdm Arfahrizan BT Abdul Wahed <br/>
 PCF Sparkletots @ Boon Lay Blk 631 </center>
  </p>
     </div>
   <div class="column">
-<a href="/award/Mdm-Iryamaya-binti-Amin/"><img src="images/2021-08-04_MTLS_Awards_Outstanding_Balamurugan Shanti.png" style="width:100%; display:block;"> </a>
- <p> <center>Mdm Balamurugan Shanti<br/>
+<a href="/award/Mdm-Iryamaya-binti-Amin/"><img src="/images/Mrs-Balamurugan-Shanti.png" style="width:100%; display:block;"> </a>
+ <p> <center>Mrs Balamurugan Shanti<br/>
  PCF Sparkletots @ Chua Chu Kang Blk 10 </center>
   </p>
     </div>
  <div class="column">
-<a href="/award/Mdm-Saniah-Binte-Sakian/"><img src="images/2021-08-04_MTLS_Awards_Outstanding_Liao Sulian.png" style="width:100%; display:block;"></a>
+<a href="/award/Mdm-Saniah-Binte-Sakian/"><img src="/images/Ms-Liao-Sulian.png" style="width:100%; display:block;"></a>
  <p> <center>Ms Liao Sulian<br/>
   <span style= "font-family:KaiTi; font-size:25px;">廖素莲老师 </span> <br/>
  My FirstSkoolat Blk 219 Toa Payoh</center>
@@ -70,20 +70,20 @@ PCF Sparkletots @ Boon Lay Blk 631 </center>
  </div>
  <div class="row">
  <div class="column">
-<a href="/award/Ms-Louis-Jeya-Rubi-Caroline/"><img src="images/2021-08-04_MTLS_Awards_Outstanding_Muhamad Shahril Samri.png" style="width:100%;display:block;"></a>
+<a href="/award/Ms-Louis-Jeya-Rubi-Caroline/"><img src="/images/Mr-Muhamad-Shahril-Samri.png" style="width:100%;display:block;"></a>
  <p> <center>Mr Muhamad Shahril Bin Samri <br/>
  PCF Sparkletots @ Pioneer Blk 661B<br/> </center>
  </p>
   </div>
   <div class="column">
-   <a href="/award/Mdm-Zeng-Hanyu/"><img src="images/2021-08-04_MTLS_Awards_Outstanding_Wang Zhihong.png" style="width:100%;display:block;"></a>
+   <a href="/award/Mdm-Zeng-Hanyu/"><img src="/images/Mdm-Wang-hihong.png" style="width:100%;display:block;"></a>
  <p> <center> Mdm Wang Zhihong <br/>
   <span style= "font-family:KaiTi; font-size:25px;">王志洪老师  </span> 
   <br/>PCF Sparkletots @ Keat Hong Blk 411</center>
   </p>
     </div>
   <div class="column">
-<a href="/award/Mdm-Zhang-JiPeng/"><img src="images/2021-08-04_MTLS_Awards_Outstanding_Ye Suqin.png" style="width:100% ;display:block;"> </a>
+<a href="/award/Mdm-Zhang-JiPeng/"><img src="/images/Mdm-Ye-Suqin.png" style="width:100% ;display:block;"> </a>
  <p> <center> Mdm Ye Suqin<br/>
   <span style= "font-family:KaiTi; font-size:25px;"> 叶素琴老师</span> 
   <br/>PCF Sparkletots@ Kampong Chai Chee Blk 135</center> 
