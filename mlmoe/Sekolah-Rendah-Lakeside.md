@@ -1,7 +1,7 @@
 ---
 title: 'Sekolah Rendah Bendemeer'
-permalink: /mlmoe/Sekolah-Rendah-Bendemeer/
-breadcrumb: 'Sekolah Rendah Bendemeer'
+permalink: /mlmoe/Sekolah-Rendah-Lakeside/
+breadcrumb: 'Sekolah Rendah Lakeside'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -13,7 +13,7 @@ breadcrumb: 'Sekolah Rendah Bendemeer'
   gtag('config', 'AW-726049306');
 </script>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-d/schools/" style="float:right;">Back</a>
- <img src="/images/BendemeerPri-ML.jpg"> <br/>
+ <img src="/images/2. Lakeside-R4(Header-Footer)-02.jpg"> <br/>
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/Kp_2W6MDV-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
