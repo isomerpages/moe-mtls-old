@@ -176,7 +176,7 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
        国家图书馆管理局致力于推广母语阅读，通过有趣的活动和丰富的线上和线下藏书，培养读者对母语阅读的兴趣。<br/><br />
           国家图书馆管理局采用了多元且新颖的方式与读者在线上交流互动，如面簿上为4至8岁的孩子所制作的故事视频、图书馆手机应用程序上的“好书推荐”，以及为家长和教育工作者所举办的线上工作坊等。<br/><br />
-          这些活动与资源不仅有助于激发这些活动与资源不仅有助于激发孩子的想象力，同时也营造了良好的阅读氛围，培养孩子从小阅读母语的好习惯。</p><br/>
+          这些活动与资源不仅有助于激发孩子的想象力，同时也营造了良好的阅读氛围，培养孩子从小阅读母语的好习惯。</p><br/>
           <h4 style="margin:10px;">National Library Board MTL Services</h4>
           <p style="margin:10px;">
        NLB promotes and nurtures lifelong reading in the Mother Tongue Languages through engaging programmes and an extensive collection of physical and digital resources. <br/><br />
