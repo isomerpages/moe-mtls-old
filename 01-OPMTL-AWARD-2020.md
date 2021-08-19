@@ -50,7 +50,7 @@ TEACHER AWARD 2021- LIST OF RECIPIENTS & JUDGES
 <br/>
 <div class="row">
   <div class="column">
-   <a href="/award/Mdm-Almi-Roafuziah-binte-Mohamed/"><img src="/images/Mdm-Arfahrizan-Abdul-Wahed.png" style="width:100%;display:block;"></a>
+   <a href="/award/Mdm-Arfahrizan-BT-Abdul-Wahed/"><img src="/images/Mdm-Arfahrizan-Abdul-Wahed.png" style="width:100%;display:block;"></a>
  <p> <center>Mdm Arfahrizan BT Abdul Wahed <br/>
 PCF Sparkletots @ Boon Lay Blk 631 </center>
  </p>
