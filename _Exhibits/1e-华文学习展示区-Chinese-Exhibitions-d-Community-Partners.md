@@ -201,7 +201,7 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
 此外，报业控股也设计了两款学习华文的数码资源。“小小拇指”是为学前儿童设计的免费应用程序，家长和小朋友能用它来一起听儿歌、玩游戏和做手工。zbschools.sg则能让中小学生通过观看视频、阅读新闻等有趣的方式学习华文，培养阅读的习惯。</p><br/>
     <h4 style="margin:10px;">Reading the News from A Tender Age</h4>
     <p style="margin:10px;">Singapore Press Holdings Limited (SPH) has four student publications with educational values and fun elements catering for pre-school, lower primary, upper primary and secondary levels, namely, Thumbs Up Little Junior, Thumbs Up Junior, Thumbs Up and zbCOMMA.<br/><br />
-          To make learning Chinese engaging, Student Publications has launched two digital resources: “Thumbs Up Little Junior”, a free-to-download application for pre-schoolers which encourages parents and children to spend quality time together while learning rhymes, playing games and doing crafts; and Zbschools.sg, an integrated online learning platform consisting of interesting content and videos, to entice students to learn Chinese and cultivate good reading habits.</p>
+          To make learning Chinese engaging, Student Publications have launched two digital resources: “Thumbs Up Little Junior”, a free-to-download application for pre-schoolers which encourages parents and children to spend quality time together while learning rhymes, playing games and doing crafts; and Zbschools.sg, an integrated online learning platform consisting of interesting content and videos, to entice students to learn Chinese and cultivate good reading habits.</p>
 </div>
     </div>
     </td>
@@ -215,7 +215,7 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
       <label for="tab-9" class="lbCh"><span style="font-size:25px; font-family:KaiTi">新加坡动物园 </span><br/>Wildlife Reserves Singapore  </label>
       <div class="tab-content">
           <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;">新加坡动物园伴你读故事</h4>
-          <p style="font-family:KaiTi;margin:10px;font-size:21px;">新加坡动物园提供生动而独特的动物故事题材，帮助孩子提高阅读能力。<br/>
+          <p style="font-family:KaiTi;margin:10px;font-size:21px;">新加坡动物园提供生动而独特的动物故事题材，帮助孩子提高阅读能力。<br/><br/><br />
               例如:《一只受困的小水獭》这本无字书讲述了一只江獭获救的故事。这本图书附带一份活动指南，指导教师和家长培养学前儿童成为富有想象力的讲故事小能手。讲故事是一种非常有趣的活动方式，能够丰富孩子的词汇和激发创造力。<br/><br />
               在探索学习活动中，新加坡动物园还专门为小学生准备了视频和图片，提供讲华语的机会，提升他们的沟通技能。
 
