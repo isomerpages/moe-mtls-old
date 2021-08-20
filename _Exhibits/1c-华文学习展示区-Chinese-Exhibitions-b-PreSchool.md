@@ -64,14 +64,14 @@ third_nav_title: '华文学习展示区'
 </script>
 </head>
 <body>  
- <div><h2 style="font-family:KaiTi;">学前中心</h2></div>
+ <div><h2 style="font-family:KaiTi;color:#d84178;">学前中心</h2></div>
 <br/>
 <table class="tbl">
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-    <label for="tab-1" class="lbCh"><span style="font-size:25px;font-family:KaiTi">教育部幼儿园（丰伟）</span> <br/> MK@Fernvale &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  <a href="#">Click Here</a></label>
+    <label for="tab-1" class="lbCh"><span style="font-size:25px;font-family:KaiTi">教育部幼儿园（丰伟）</span> <br/> MK@Fernvale </label>
       <div class="tab-content">
       <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">通过数码资讯科技，让母语学习活起来</h4>
       <p style="font-family:KaiTi;margin:10px;font-size:21px;">
