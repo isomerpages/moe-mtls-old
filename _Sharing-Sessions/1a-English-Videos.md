@@ -123,8 +123,12 @@ Minister for Education<br/>
    <p> <strong>Mdm Kunawathyammal <br/> d/o Kaliannan</strong><br/>
 Senior teaching Fellow <br/> in NIE Policy, Curriculum & Leadership <br/>
 </p> </div>
-    <br/>  <br/>
-         <div class="row">
+    <br/>  
+  <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
+  <p style="margin:10px;">
+Mdm Kunawathyammal d/o Kaliannan is a Senior Teaching Fellow at NIE (Policy, Curriculum & Leadership). She has served many years in the field of education, holding various positions, such as HOD(Affective Education), Vice Principal and Lecturer. She is currently teaching the Character and Citizenship Education module that includes the aspect of partnership with parents as stakeholders for character-building in children. 
+</p><br/>
+<div class="row">
  <div class="column">
 <img src="/images/Foo-Wan-Yueh.png" style="width:100%">
    </div>
@@ -133,7 +137,11 @@ Ms Foo Wan Yueh</strong><br/>
 National Institute of <br/>Early Childhood Development<br/>
 </p> </div>
     <br/>  <br/>
- <div class="row">
+  <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>  
+ <p style="margin:10px;">
+Ms Foo Wan Yueh is a lecturer at the National Institute of Early Childhood Development (NIEC). She teaches and supervises trainee teachers of the Diploma in Early Childhood Education in both English and Chinese. Her areas of interest include Chinese language in the early years and early numeracy.
+</p><br/>
+<div class="row">
  <div class="column">
 <img src="/images/Otelli-Edwards.png" style="width:100%">
    </div>
@@ -142,7 +150,10 @@ Ms Otelli Edwards </strong><br/>
 Anchor, Mediacorp/Parent<br/>
 </p> </div>
     <br/>  <br/>
-             <div class="row">
+  <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
+<p style="margin:10px;">Ms Otelli Edwards has worked in various Mediacorp companies starting as a sports journalist and producing and hosting nightly news shows. She has also produced current affairs and news programmes for Mediacorp’s news radio station, 93.8 LIVE. Prior to joining CNA, she was a feature writer  withHer World magazine and has interviewed high-flying women. She is a mother of five-year-old twin boys. </p>
+              <br/>
+  <div class="row">
  <div class="column">
 <img src="/images/" style="width:100%">
    </div>
@@ -151,6 +162,10 @@ Mr Anbarasu Rajendran </strong><br/>
 Chief Executive officer at SINDA<br/>
 </p> </div>
     <br/>  <br/>
+   <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
+<p style="margin:10px;">Mr Anbarasu Rajendran has been serving as the Chief Executive Officer of SINDA since 2018. Mr Anbarasu is an educationalist by training and has helmed various portfolios at MOE, most notably, Centre Director of the Umar Pulavar Tamil Language Centre.<br/><br/>
+              Though currently active in the social service sector, Mr Anbarasu is still connected to education as he sits in various MOE committees like COMPASS, Uplift and the President Teacher Award jury.</p>
+              <br/>
                <div class="row">
  <div class="column">
 <img src="/images/Iryamaya -binti-Amin.png" style="width:100%">
@@ -161,23 +176,7 @@ Malay Teacher at PCF <br/> Sparkletots @ Sembawang Blk 755<br/>
 </p>
 </div>
     <br/>  <br/>
-<h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4> 
-    <br/>
-<p style="margin:10px;">
-Mdm Kunawathyammal d/o Kaliannan is a Senior Teaching Fellow at NIE (Policy, Curriculum & Leadership). She has served many years in the field of education, holding various positions, such as HOD(Affective Education), Vice Principal and Lecturer. She is currently teaching the Character and Citizenship Education module that includes the aspect of partnership with parents as stakeholders for character-building in children. 
-</p><br/>
- <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>  
- <p style="margin:10px;">
-Ms Foo Wan Yueh is a lecturer at the National Institute of Early Childhood Development (NIEC). She teaches and supervises trainee teachers of the Diploma in Early Childhood Education in both English and Chinese. Her areas of interest include Chinese language in the early years and early numeracy.
-</p><br/>
 <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
-<p style="margin:10px;">Ms Otelli Edwards has worked in various Mediacorp companies starting as a sports journalist and producing and hosting nightly news shows. She has also produced current affairs and news programmes for Mediacorp’s news radio station, 93.8 LIVE. Prior to joining CNA, she was a feature writer  withHer World magazine and has interviewed high-flying women. She is a mother of five-year-old twin boys. </p>
-              <br/>
-              <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
-<p style="margin:10px;">Mr Anbarasu Rajendran has been serving as the Chief Executive Officer of SINDA since 2018. Mr Anbarasu is an educationalist by training and has helmed various portfolios at MOE, most notably, Centre Director of the Umar Pulavar Tamil Language Centre.<br/><br/>
-              Though currently active in the social service sector, Mr Anbarasu is still connected to education as he sits in various MOE committees like COMPASS, Uplift and the President Teacher Award jury.</p>
-              <br/>
-    <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
 <p style="margin:10px;">	Mdm Iryamaya Binti Amin is a recipient of the 2020 Outstanding Pre-school Mother Tongue Language Teacher Award. Currently, she is teaching Malay Language at PCF Sparkletots @ Sembawang Blk 755. </p>        
 </div></div> </td>
 <td style="border:0 none;padding: 0;" class="btnImg">
