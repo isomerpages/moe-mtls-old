@@ -300,8 +300,8 @@ margin-left:25px;
  </strong></li><br/>
 </ul>
   <img src="/tlmoe/TL-PreU_Poster09.jpg"><br/>
-  <a href="/_Gallery/tlep-jc_infosheet_students.pdf" target="_blank">TLEP JC Infosheet</a> &nbsp; 
-  <a href="/_Gallery/tlep-sec-infosheet-students-2019.pdf" target="_blank">TLEP Sec Infosheet</a>
+  <a href="/Gallery/tlep-jc_infosheet_students.pdf" target="_blank">TLEP JC Infosheet</a> &nbsp; 
+  <a href="/Gallery/tlep-sec-infosheet-students-2019.pdf" target="_blank">TLEP Sec Infosheet</a>
  <br/><br/>
  Pending video
  <br/><br/>
