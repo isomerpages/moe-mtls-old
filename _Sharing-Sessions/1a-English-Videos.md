@@ -84,7 +84,18 @@ max-width:40%;
        <br/>[11.00am - 12.00pm] <br/></label>
  <div class="tab-content">      
        <br/>
-  <div class="row">
+   <h4 style="padding-top:12px;margin:10px;color:#fa0;">Panelists</h4>
+  <br/>
+   <div class="row">
+ <div class="column">
+<img src="/images/Chan-Chun-Sing.png" style="width:100%">
+   </div>
+   <p> <strong>
+Mr Chan Chun Sing</strong><br/>
+Minister for Education<br/>
+</p> </div>
+    <br/>  <br/>
+ <div class="row">
  <div class="column">
 <img src="/images/Sun-Xueling.png" style="width:100%">
    </div>
@@ -96,18 +107,20 @@ Ministry of Social and Family Development
 </p>
     </div>
     <br/>  <br/>
-     <div class="row">
+   <div class="row">
  <div class="column">
-<img src="/images/Chan-Chun-Sing.png" style="width:100%">
+<img src="/images/Anbarasu-Rajendran.png" style="width:100%">
    </div>
    <p> <strong>
-Mr Chan Chun Sing</strong><br/>
-Minister for Education<br/>
+Mr Anbarasu Rajendran </strong><br/>
+Chief Executive Officer <br/> Singapore Indian Development Association<br/>
 </p> </div>
     <br/>  <br/>
-<h4 style="padding-top:12px;margin:10px;color:#fa0;">Panelists</h4>
-  <br/>
-       <div class="row">
+   <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
+<p style="margin:10px;">Mr Anbarasu Rajendran has been serving as the Chief Executive Officer of SINDA since 2018. Mr Anbarasu is an educationalist by training and has helmed various portfolios at MOE, most notably, Centre Director of the Umar Pulavar Tamil Language Centre.<br/><br/>
+              Though currently active in the social service sector, Mr Anbarasu is still connected to education as he sits in various MOE committees like COMPASS, Uplift and the President Teacher Award jury.</p>
+              <br/>
+ <div class="row">
  <div class="column">
 <img src="/images/Kunawathyammal.png" style="width:100%">
    </div>
@@ -135,31 +148,6 @@ Ms Foo Wan Yueh is a lecturer at the National Institute of Early Childhood Devel
 </p><br/>
 <div class="row">
  <div class="column">
-<img src="/images/Otelli-Edwards.png" style="width:100%">
-   </div>
-   <p> <strong>
-Ms Otelli Edwards </strong><br/>
-Presenter<br/> CNA<br/>
-</p> </div>
-    <br/>  <br/>
-  <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
-<p style="margin:10px;">Ms Otelli Edwards has worked in various Mediacorp companies starting as a sports journalist and producing and hosting nightly news shows. She has also produced current affairs and news programmes for Mediacorp’s news radio station, 93.8 LIVE. Prior to joining CNA, she was a feature writer  with Her World magazine and has interviewed high-flying women. She is a mother of five-year-old twin boys. </p>
-              <br/>
-  <div class="row">
- <div class="column">
-<img src="/images/Anbarasu-Rajendran.png" style="width:100%">
-   </div>
-   <p> <strong>
-Mr Anbarasu Rajendran </strong><br/>
-Chief Executive Officer <br/> Singapore Indian Development Association<br/>
-</p> </div>
-    <br/>  <br/>
-   <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
-<p style="margin:10px;">Mr Anbarasu Rajendran has been serving as the Chief Executive Officer of SINDA since 2018. Mr Anbarasu is an educationalist by training and has helmed various portfolios at MOE, most notably, Centre Director of the Umar Pulavar Tamil Language Centre.<br/><br/>
-              Though currently active in the social service sector, Mr Anbarasu is still connected to education as he sits in various MOE committees like COMPASS, Uplift and the President Teacher Award jury.</p>
-              <br/>
-               <div class="row">
- <div class="column">
 <img src="/images/Iryamaya -binti-Amin.png" style="width:100%">
    </div>
    <p> <strong>
@@ -169,7 +157,20 @@ Mdm Iryamaya Binti Amin </strong><br/>
 </div>
     <br/>  <br/>
 <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
-<p style="margin:10px;">	Mdm Iryamaya Binti Amin is a recipient of the 2020 Outstanding Pre-school Mother Tongue Language Teacher Award. Currently, she is teaching Malay Language at PCF Sparkletots @ Sembawang Blk 755. </p>        
+<p style="margin:10px;">	Mdm Iryamaya Binti Amin is a recipient of the 2020 Outstanding Pre-school Mother Tongue Language Teacher Award. Currently, she is teaching Malay Language at PCF Sparkletots @ Sembawang Blk 755. </p>    
+  <br/>
+<div class="row">
+ <div class="column">
+<img src="/images/Otelli-Edwards.png" style="width:100%">
+   </div>
+   <p> <strong>
+Ms Otelli Edwards </strong><br/>
+Presenter<br/> CNA<br/>
+</p> </div>
+    <br/>  <br/>
+  <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
+<p style="margin:10px;">Ms Otelli Edwards has worked in various Mediacorp companies starting as a sports journalist and producing and hosting nightly news shows. She has also produced current affairs and news programmes for Mediacorp’s news radio station, 93.8 LIVE. Prior to joining CNA, she was a feature writer  withHer World magazine and has interviewed high-flying women. She is a mother of five-year-old twin boys. </p>
+              <br/>
 </div></div> </td>
 <td style="border:0 none;padding: 0;" class="btnImg">
   </td>
