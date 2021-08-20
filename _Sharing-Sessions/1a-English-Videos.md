@@ -92,13 +92,8 @@ max-width:40%;
 Moderator <br/>
 Minister of State<br/>
 Ministry of Education <br/>
-Ministry of Social and Family Developmet
+Ministry of Social and Family Development
 </p>
-   </div>
-   <br/>  <br/>
-   <div class="row">
- <div class="column">
-<img src="/images/Speakers_GOH .png" style="width:100%">
     </div>
     <br/>  <br/>
      <div class="row">
