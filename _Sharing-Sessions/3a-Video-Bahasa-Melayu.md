@@ -415,7 +415,7 @@ In Mdm Nurain Syakirah’s sharing, parents and educators will understand how re
         <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Sinopsis</h4>  
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Pelbagai Teknik Bercerita Bagi Membangunkan Kemampuan Berbahasa Dalam Kalangan Kanak-kanak Prasekolah</h4> 
        <p style="margin:10px;">
-   Melalui sesi ini, Encik Herman akan berkongsi pelbagai teknik bercerita secara interaktif yang melampaui penggunaan buku bagi menggalakkan pelibatan aktif kanak-kanak dalam kegiatan membaca dan bercerita. Teknik ini dapat membantu mempertingkatkan keupayaan kanak-kanak berbahasa dan menggunakan kosa kata.
+   Melalui sesi ini, Encik Herman akan berkongsi pelbagai teknik bercerita secara interaktif yang melampaui penggunaan buku bagi menggalakkan pelibatan aktif kanak-kanak dalam kegiatan membaca dan bercerita. Teknik ini dapat membantu mempertingkat keupayaan kanak-kanak berbahasa dan menggunakan kosa kata.
 </p><br/>
 <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profile</h4>  
        <p style="margin:10px;">Prior to joining National Library Board in 2008, Mr Herman Rothman was an educator. He has a deep interest in the Malay literary industry and language literacy, and has conducted numerous talks and workshops related to these subjects for students, parents and educators in various institutions locally and abroad. He is also an experienced judge in storytelling competitions. Currently working on content curation and programming for youths and adults, he continues to work with partners to run reading clubs in libraries, as well as plan for new reading-related initiatives for the community.
