@@ -99,11 +99,7 @@ Ministry of Social and Family Developmet
    <div class="row">
  <div class="column">
 <img src="/images/Speakers_GOH .png" style="width:100%">
-   </div>
-   <p> <strong>Mr Heng Swee Keat</strong><br/>
-Deputy Prime Minister and Coordinating<br/>
-    Minister for Economic Policies<br/>
-</p> </div>
+    </div>
     <br/>  <br/>
      <div class="row">
  <div class="column">
