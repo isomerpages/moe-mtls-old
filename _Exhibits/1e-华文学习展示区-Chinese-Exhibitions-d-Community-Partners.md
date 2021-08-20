@@ -236,7 +236,7 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
       <input id="tab-7" type="checkbox" name="tab">
       <label for="tab-7" class="lbCh"><span style="font-size:25px; font-family:KaiTi">新加坡华文教研中心</span><br/>Singapore Centre for Chinese Language</label>
       <div class="tab-content">
-           <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">创新实用的研究 生动有趣的读本</h4>
+           <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">创新使用的研究   生动有趣的读本</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
          新加坡华文教研中心一直以来都不遗余力地推展华文教研活动，积极创建并推广在双语环境中行之有效的华文教学法，以期促进华族语言文化在新加坡的发展。<br/><br />
           近年来，中心分别为小学生和中学生推出了《新新岛》和《奇狮妙想》分级读本系列。这些读本图文并茂、生动有趣，可激发学生的阅读兴趣，吸引他们乐学华文。</p><br/>
