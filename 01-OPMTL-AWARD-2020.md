@@ -2,8 +2,36 @@
 title: 'Outstanding Pre-school Mother Tongue Language  Teacher Award'
 permalink: /OPMTL-AWARD-2020/
 breadcrumb: 'OPMTL Teacher Award'
+collection_name: OPMTL AWARD 2020
 ---
 
+<html>
+<head>
+<style>
+  * {
+  box-sizing: border-box;
+}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+.col3 img {
+height:auto;
+max-width:38%;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+  img {
+height:auto;
+max-width:50%;
+}
+</style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
 <script>
@@ -13,9 +41,146 @@ breadcrumb: 'OPMTL Teacher Award'
 
   gtag('config', 'AW-726049306');
 </script>
+ 
+ <h3 style="line-height:1.1;"><center>OUTSTANDING PRE-SCHOOL MOTHER TONGUE LANGUAGE 
+TEACHER AWARD 2021- LIST OF RECIPIENTS & JUDGES
+  </center></h3>
 
-<div>
-  <p>
-    Find out who the recipients for this year’s Outstanding Pre-school Mother Tongue Language Teacher Awards are! Learn more about them and the teaching philosophies of our award recipients here from 28 August 2021.
+<h5> <strong> Outstanding Award Winners </strong></h5>
+<br/>
+<div class="row">
+  <div class="column">
+   <a href="/award/Mdm-Arfahrizan-BT-Abdul-Wahed/"><img src="/images/Mdm-Arfahrizan-Abdul-Wahed.png" style="width:100%;display:block;"></a>
+ <p> <center>Mdm Arfahrizan BT Abdul Wahed <br/>
+PCF Sparkletots @ Boon Lay Blk 631 </center>
+ </p>
+    </div>
+  <div class="column">
+<a href="/award/Mrs-Balamurugan-Shanti/"><img src="/images/Mrs-Balamurugan-Shanti.png" style="width:100%; display:block;"> </a>
+ <p> <center>Mrs Balamurugan Shanti<br/>
+  திருமதி பாலமுருகன் சாந்தி<br/>
+ PCF Sparkletots @ Chua Chu Kang Blk 10 </center>
   </p>
-</div>
+    </div>
+ <div class="column">
+<a href="/award/Ms-Liao-Sulian/"><img src="/images/Ms-Liao-Sulian.png" style="width:100%; display:block;"></a>
+ <p> <center>Ms Liao Sulian<br/>
+  <span style= "font-family:KaiTi; font-size:25px;">廖素莲老师 </span> <br/>
+ My FirstSkoolat Blk 219 Toa Payoh</center>
+  </p>
+    </div>
+ </div>
+ <div class="row">
+ <div class="column">
+<a href="/award/Mr-Muhamad-Shahril-Bin-Samri/"><img src="/images/Mr-Muhamad-Shahril-Samri.png" style="width:100%;display:block;"></a>
+ <p> <center>Mr Muhamad Shahril Bin Samri <br/>
+ PCF Sparkletots @ Pioneer Blk 661B<br/> </center>
+ </p>
+  </div>
+  <div class="column">
+   <a href="/award/Mdm-Wang-zhihong/"><img src="/images/Mdm-Wang-zhihong.png" style="width:100%;display:block;"></a>
+ <p> <center> Mdm Wang Zhihong <br/>
+  <span style= "font-family:KaiTi; font-size:25px;">王志洪老师  </span> 
+  <br/>PCF Sparkletots @ Keat Hong Blk 411</center>
+  </p>
+    </div>
+  <div class="column">
+<a href="/award/Mdm-Ye-Suqin/"><img src="/images/Mdm-Ye-Suqin.png" style="width:100% ;display:block;"> </a>
+ <p> <center> Mdm Ye Suqin<br/>
+  <span style= "font-family:KaiTi; font-size:25px;"> 叶素琴老师</span> 
+  <br/>PCF Sparkletots@ Kampong Chai Chee Blk 135</center> 
+  </p>
+    </div>
+    </div>
+   
+ 
+     
+  <h5> <strong> Merit Award Winners</strong></h5>
+  <br/>
+  <div class="row">
+  <div class="column">
+  <img src="/images/Ms-Lim-Wen-Zhi.png" style="width:100%">
+ <p> <center> Ms Lim Wen Zhi
+  <br/>My First Skool at Blk 209 Ang Mo Kio</center>
+</p>
+    </div>
+  <div class="column">
+<img src="/images/Mrs-Shanmugam-Geetha.png" style="width:100%"> 
+ <p> <center> Mrs Shanmugam Geetha  <br/>
+  PCF Sparkletots @ Punggol Shore Blk 174D  </center>
+   </p>
+    </div>
+  <div class="column">
+<img src="/images/Ms-Sharmila-Devi.png" style="width:100%">
+ <p> <center> Ms Sharmila DeviD/O MutuManium <br/>
+  PCF Sparkletots @ Boon LayBlk 262 </center></p>
+    </div>
+   </div>
+   <div class="row">
+ <div class="column">
+<img src="/images/Ms-Zahidah-Mahmood.png" style="width:100%">
+ <p> <center>Ms Zahidah Binte Mahmood <br/>
+M.Y WORLD@Punggol Edge</center>
+ </p>
+    </div></div>
+  
+  <h5> <strong> JUDGES</strong></h5>
+  <br/>
+  <div class="row">
+  <div class="column">
+  <img src="#" style="width:100%">
+ <p> <center> DR RAUDHAH BINTE YAHYA
+  <br/>NIEC</center>
+</p>
+    </div>
+  <div class="column">
+<img src="#" style="width:100%"> 
+ <p> <center>DR ROSZALINA RAWI  <br/>
+ NIE </center>
+   </p>
+    </div>
+  <div class="column">
+<img src="#" style="width:100%">
+ <p> <center> JUMAINI ARIFF<br/>
+ STORYSCRIBBLERS </center></p>
+    </div>
+   </div>
+ <div class="row">
+  <div class="column">
+  <img src="#" style="width:100%">
+ <p> <center> DR A RA SIVAKUMARAN
+  <br/>NIE</center>
+</p>
+    </div>
+  <div class="column">
+<img src="#" style="width:100%"> 
+ <p> <center>DR TAMILARASI SUBRAMANIAM  <br/>
+ NIE </center>
+   </p>
+    </div>
+  <div class="column">
+<img src="#" style="width:100%">
+ <p> <center> LALITHAL KRISHNASAMY<br/>
+NIEC </center></p>
+    </div>
+   </div>
+  <div class="row"> 
+  <div class="column">
+<img src="#" style="width:100%"> 
+ <p> <center>DR NG SOK HOON <br/>
+NIEC </center>
+   </p>
+    </div>
+  <div class="column">
+<img src="#" style="width:100%">
+ <p> <center> LEE TSAI LING <br/>
+ECDA </center></p>
+    </div>
+   <div class="column">
+  <img src="#" style="width:100%">
+ <p> <center> LIM SIEW GEK   
+  <br/>CPCLL</center>
+</p>
+    </div>
+   </div> 
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>

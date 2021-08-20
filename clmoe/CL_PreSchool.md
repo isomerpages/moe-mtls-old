@@ -101,7 +101,7 @@ margin-left:25px;
 
   gtag('config', 'AW-726049306');
 </script>
-<a href="/gallery/华文学习展示区-chinese-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Prevoius</a>
+<a href="/gallery/华文学习展示区-chinese-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Previous</a>
   <a href="/clmoe/小学/" class="btn" style="float:right;">Next</a><br/>
   <img src="/images/CL-Presch-Header.jpg">
 <p style="font-size:30px;font-family:KaiTi" ><h4 style="font-size:30px;font-family:KaiTi;">教育部幼儿园 
@@ -144,25 +144,31 @@ margin-left:25px;
        <li style="font-size:25px;font-family:KaiTi">对本地文化有初步的认识</li></ul>
          </li>
      <li style="font-size:25px;font-family:KaiTi">这套教学资源除了支持幼儿的双语发展，也体现了非常浓厚的本土特色。目前，教育部幼儿园都在课堂内使用这套教学资源。</li>
-     <li style="font-size:25px;font-family:KaiTi">大图书共享阅读是教育部幼儿园课堂内使用的教学法。共享阅读让幼儿享受阅读的乐趣，并鼓励幼儿通过有趣的活动，掌握听、说、读的能力。欲知教学步骤，请点击<a href="/clmoe/CL-MTLS-pre-sch-Annex1.pdf" target="_blank" style="font-family:KaiTi;">此处</a>.</li>
+     <li style="font-size:25px;font-family:KaiTi">大图书共享阅读是教育部幼儿园课堂内使用的教学法。共享阅读让幼儿享受阅读的乐趣，并鼓励幼儿通过有趣的活动，掌握听、说、读的能力。欲知教学步骤，请点击<a href="/clmoe/CL-MTLS-pre-sch-Annex1.pdf" target="_blank" style="font-family:KaiTi;">此处</a>。</li>
      </p>
 </ol>
    <img src="/images/CL-Presch-Textbook.jpg">   
  <center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/lnlNM2YJcOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><span style="font-size:18px;font-family:KaiTi;">大图书共享阅读视频</span></center>
   <br/>
-  <br/><br/>
-<h4 id="C3"><img src="/images/CL-PreSch-Discovery2.jpg"> <br/>
+
+<h4 id="C3"><span style="font-size:35px;font-family:KaiTi;">奥秘探索周计划</span></h4>
+  <img src="/images/CL-PreSch-Discovery2.jpg"> <br/>
   <span style="font-size:25px;font-family:KaiTi;">欲了解“奥秘探索周计划”的活动点子设计，请阅读相关活动设计:<br/> </span>
   <a href="/clmoe/CL-MTLS-pre-sch-Annex2.pdf" target="_blank" style="font-family:KaiTi">“风”</a><br/>
 <a href="/clmoe/CL-MTLS-pre-sch-Annex3.pdf" target="_blank" style="font-family:KaiTi">“我来做红鸡蛋”</a>
 <h4 id="C4"><span style="font-family:KaiTi;font-size:35px;">居家活动好点子</span></h4>
+  <table width="300px" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 25px; -webkit-border-radius: 25px; border-radius: 25px; border: 3px solid #ccc;">
+   <td>
 <h4 style="font-family:KaiTi;font-size:25px;">
   点子一: 我的心情小书 </h4>
   <p style="font-size:25px;font-family:KaiTi">
 配合第一学段课程主题 —— 我是谁？<br/><br/>
     你和孩子一起制作四页书。你可以点按以下链接 <a href="https://tinyurl.com/4pagebook2021" target="_blank" style="font-size:22px;">（https://tinyurl.com/4pagebook2021）</a>，跟着视频做出属于孩子的心情小书。在每一页，让孩子画出让他快乐／伤心／生气／害怕的事情。完成活动后，让孩子用小书来说一说自己心情！为增添趣味，你也可以准备不同的颜色纸和手工材料让孩子使用。
-</p>
+     </p></td>
+  </table><br/>
+    <table width="300px" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 25px; -webkit-border-radius: 25px; border-radius: 25px; border: 3px solid #ccc;">
+   <td>
 <h4 style="font-family:KaiTi;font-size:25px;">点子二: 我家附近 </h4>
   <p style="font-size:25px;font-family:KaiTi">
          配合第二学段课程主题 —— 我周围有谁，有哪些地方？
@@ -178,7 +184,10 @@ margin-left:25px;
   还有很多故事书，一家大小都喜欢。<br/>
   这里有邻里警岗，警察叔叔很友善。<br/><br/>
 </p>
-  <p style="font-size:25px;font-family:KaiTi;">你也可使用 <a href="https://www.google.com/earth" target="_blank" style="font-size:25px;font-family:KaiTi">卫星地图影像 </a>，和孩子一起看一看，认识你们家附近有些什么地方和设施.</p>
+  <p style="font-size:25px;font-family:KaiTi;">你也可使用 <a href="https://www.google.com/earth" target="_blank" style="font-size:25px;font-family:KaiTi">卫星地图影像 </a>，和孩子一起看一看，认识你们家附近有些什么地方和设施。</p></td>
+  </table><br/>
+      <table width="300px" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 25px; -webkit-border-radius: 25px; border-radius: 25px; border: 3px solid #ccc;">
+   <td>
 <h4 style="font-family:KaiTi;font-size:25px;">
     点子三：小小瑜伽初学者</h4>
    <p style="font-size:25px;font-family:KaiTi;">        
@@ -187,6 +196,7 @@ margin-left:25px;
   孩子使用身体的部位书空不同的笔画——小至手指、手，大至脚、腰甚至使用全身。你可以根据幼儿的兴趣和能力挑战以下不同的笔画：<br/><br/>
      <img src="/clmoe/presch1.png">
 </p> 
-  <p style="font-size:25px;font-family:KaiTi;">之后，你也可以和孩子对照书空的不同笔画，从周围找与笔画接近的事物。</p>
+     <p style="font-size:25px;font-family:KaiTi;">之后，你也可以和孩子对照书空的不同笔画，从周围找与笔画接近的事物。</p></td>
+  </table>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>

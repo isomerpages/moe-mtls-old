@@ -104,7 +104,7 @@ margin-left:25px;
   gtag('config', 'AW-726049306');
 </script>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-b/moe-curriculum/" class="btn" style="float:right;">Previous</a><br/>
-<img src="/images/ML-PreU-Header3.jpg">
+<img src="/mlmoe/ML-PreU_Header-Banner.jpg">
 
 <a href="#C1" style="font-size:20px"><span style="color:blue;">Bahan Pengajaran dan Pembelajaran</span></a><br/>
 

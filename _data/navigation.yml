@@ -4,16 +4,19 @@ links:
 - title: About Us
   url: /About-Us-And-Past-Symposiums/
 - title: Opening Ceremony
-  url: /Opening-Ceremony/
-- title: Live Sessions 
-  url: /Live-Sessions/
+  url: /Opening-Ceremony-softlaunch/
+- title: Live Sessions
+  url: /Live-Sessions-softlaunch/
 - title: Sharing Sessions
   url: /Sharing-Sessions/
+  collection: Sharing-Sessions
 - title: Exhibits
   url: /Exhibits/
+  collection: Exhibits
 - title: OPMTL Teacher Award
-  url: /OPMTL-AWARD-2020/
+  url: /OPMTL-AWARD-2020-softlaunch/
 - title: Online Quest
   url: /Online-Quest/
 - title: MTL Challenge
   url: /MTL-Challenge/
+

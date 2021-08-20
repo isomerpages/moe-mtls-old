@@ -112,43 +112,28 @@ margin-left:25px;
    <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-b/moe-curriculum/"  class="btn" style="float:left;">Previous</a>
 <a href="/mlmoe/ml-prisch/" class="btn" style="float:right;">Next</a>
  <br/>
-<img src="/images/ML-Pre-Sch-Header.jpg"><br/>
+<img src="/mlmoe/ML-Preschool_Header-Banner.jpg"><br/>
  <a href="#C2" style="font-size:20px"><span style="color:blue;">Pendekatan Membaca Bersama
 </span></a><br/>
 <a href="#C3" style="font-size:20px"><span style="color:blue;">PROJEK MuM
 </span></a><br/>
- <a href="#C4" style="font-size:20px"><span style="color:blue;">Tip Buat Ibu Bapa
+ <a href="#C4" style="font-size:20px"><span style="color:blue;">Panduan Buat Ibu Bapa
 </span></a><br/><br/>
   <p style="text-align:justify;font-size:30px"><strong>TADIKA MOE</strong></p>
  <p style="text-align:justify;">
  Kementerian Pendidikan Singapura mengambil langkah memulakan Tadika MOE bagi menyediakan Pendidikan Prasekolah (Tadika 1 dan Tadika 2) berkualiti yang berpatutan untuk rakyat serta penduduk tetap Singapura. 
 Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-kanak. Untuk mencapai visi ini, Tadika MOE berpegang pada prinsip bahawa kanak-kanak merupakan pelajar yang mempunyai sifat ingin tahu, aktif dan cekap.
  </p>
- <center><span style="font-size:20px;" >Sila klik di sini untuk menonton video Tadika MOE- Di Mana Setiap Ruang Adalah Ruang Pembelajaran: </span><br/>
+ <center><span style="font-size:20px;" >Sila klik di sini untuk menonton video Tadika MOE- Di Mana Setiap Ruang Merupakan Ruang Pembelajaran.</span><br/>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/LockyOmaNB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
- <br/>
-  <p style="font-size:30px;"><strong>KURIKULUM TADIKA MOE
- </strong>
-</p>
- <table style="border:none;border-style: none;">
-  <tr>
-    <td><p>Kurikulum dan Program Tadika MOE dibina berdasarkan <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines" target="_blank">Rangka Kerja Memupuk Pelajar pada Peringkat Awal. </a> <br/><br/>
-      Kanak-kanak dipupuk secara holistik dalam enam <a href="https://www.nel.moe.edu.sg/teaching-and-learning/learning-areas/aesthetics-and-creative-expression" target="_blank">bidang pembelajaran.</a>
-</p></td>
-    <td><p>Yang berikut merupakan gambaran keseluruhan bagi <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines
-" target="_blank">Rangka Kerja untuk Bahasa Ibunda.</a></p><br/>
-      <img src="/images/ML-PreSch-C1.png">  </td>
-    </tr>
-</table>
-<br/>
-<p>DUA PROGRAM TADIKA MOE
+<p>Yang berikut merupakan dua program utama Tadika MOE:
 </p>
  <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
    <label for="tab-1" class="lbML">Program Hi-Light
 </label>
      <div class="tab-content">
-      <p style="text-align:justify;"><a href="https://beta.moe.gov.sg/preschool/moe-kindergarten/curriculum/hi-light/" target="_blank">Program Hi-Light 
+      <p style="text-align:justify;"><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/hi-light" target="_blank">Program Hi-Light 
 </a> menyokong pembangunan kanak-kanak  secara holistik melalui pendekatan bersepadu dalam pembelajaran.  Program tersebut dirancang secara menyeluruh untuk membantu kanak-kanak memahami dunia di sekeliling mereka. Perkara ini dilakukan agar dapat menimbulkan keseronokan dan minat untuk belajar dalam diri kanak-kanak.</p>
   </div></div>
  <div class="atab">
@@ -156,16 +141,26 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
    <label for="tab-2" class="lbML">Program Literasi Bintang Kecil 
 </label>
      <div class="tab-content">
-      <p style="text-align:justify;"><a href="https://beta.moe.gov.sg/preschool/moe-kindergarten/curriculum/starlight/" target="_blank">Program Literasi Bintang Kecil 
+      <p style="text-align:justify;"><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/starlight" target="_blank">Program Literasi Bintang Kecil 
 </a>merangkumi Program Literasi Bintang Kecil Bahasa Inggeris dan Program Literasi Bintang Kecil Bahasa Ibunda. Program Literasi Bintang Kecil ini dibina dengan harapan agar dapat memupuk keupayaan awal kanak-kanak berdwibahasa. <br/>
       Program ini ditawarkan untuk memberikan peluang kepada kanak-kanak untuk menikmati bahasa, berkomunikasi dengan yakin dan menyedari adat dan budaya tempatan. Perkara ini dapat dicapai dengan menyediakan pengajaran dan pembelajaran bahasa yang menyeronokkan kepada kanak-kanak melalui penerokaan sumber yang dibina, seperti buku besar, lagu dan permainan berdasarkan konteks tempatan. Program ini juga memberikan peluang kepada ahli keluarga untuk turut terlibat dalam pembelajaran kanak-kanak. <br/>
        Melalui program ini, kanak-kanak akan membina kemahiran literasi awal melalui kemahiran mendengar dan bertutur.  Kemahiran ini akan membantu bagi membina asas yang kukuh dalam pembelajaran bahasa untuk masa hadapan. <br/>
 
 </p> </div></div>
 
-  
-  <img src="/images/ML-PRESCHOOL_Image1.jpg"> <br/>
-
+  <p style="font-size:30px;"><strong>Program Literasi Bintang Kecil
+ </strong>
+</p>
+  <img src="/images/ML Curriculum Preschool V2-01.jpg">
+ <p style="text-align:justify;">
+ Kurikulum dan Program Tadika MOE dibina berdasarkan <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines" target="_blank">Rangka Kerja Memupuk Pelajar pada Peringkat Awal. </a> <br/>
+   <img src="/images/ML-Presch1.jpg"><br/>
+    Rangka Kerja ini dibina dengan keyakinan bahawa kanak-kanak mempunyai sifat ingin tahu, aktif dan cekap.<br/>
+   <img src="/mlmoe/ML-Presch_Poster01.jpg"><br/>
+   
+<p id="C3" style="font-size:30px;"><strong>PENDEKATAN MEMBACA BERSAMA</strong>
+  </p>
+  <img src="/mlmoe/ML-Presch_Poster02.jpg">
 <p style="text-align:justify;">
 Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/resources/bahan-bahan-buku-besar/langkah-pengajaran" target="_blank"> Pendekatan Membaca Bersama (Shared Book Approach) </a> adalah untuk:
 
@@ -181,10 +176,7 @@ Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/resources/bahan-baha
 </p>
 <p id="C3" style="font-size:30px;"><strong>Projek MuM (Minggu untuk Meneroka)</strong>
   </p>
-  <img src="/images/ML-PRESCHOOL_Image2.jpg">
-  <br/>
-
-  
+  <img src="/mlmoe/ML-Presch_Poster03.jpg">
 <p>
 Yang berikut merupakan contoh-contoh projek MuM yang terdapat di<a href="https://www.nel.moe.edu.sg/resources/aktiviti-aktiviti-saranan" target="_blank"> Portal NEL.</a><br/>
 <a href="https://www.nel.moe.edu.sg/qql/slot/u575/2019-05-13/2019-04%20-%20NEL_Eh-Samalah_MK@SG_Cikgu_Dian.pdf" target="_blank">"Eh, Samalah!"  Tadika MOE (Sengkang Green)
@@ -194,83 +186,57 @@ Yang berikut merupakan contoh-contoh projek MuM yang terdapat di<a href="https:/
 <a href="https://www.nel.moe.edu.sg/qql/slot/u568/NEL-Portal-Malay-Activity-Idea-Aktiviti-Saranan-WoW-Project-MK-Punggol-V....pdf" target="_blank">“Menjaga Alam Sekitar”  Tadika MOE (Punggol View)
 </a><br/>
 Untuk mendapatkan contoh Projek MuM yang lain, sila layari <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/weeks-of-wonder" target="_blank">  lelaman </a> ini.</p> 
-<p id="C4" style="font-size:30px;"><strong>Tip Buat Ibu Bapa </strong>
+<p id="C4" style="font-size:30px;"><strong>Panduan Buat Ibu Bapa </strong>
   </p>
- <p style="text-align:justify;"><span style="font-size:25px; color:green;">Aktiviti Belajar Bahasa Melayu Di Rumah
+ <p style="text-align:justify;"><span style="font-size:25px; color:green;">Aktiviti Bahasa Melayu di Rumah
 </span>
 <br/>
-Ibu bapa/Waris boleh menyokong pembelajaran dan pembangunan bahasa Ibunda anak/waris anda di rumah dengan aktiviti-aktiviti saranan yang berikut. Aktiviti-aktiviti ini dapat melibatkan anak/waris anda melalui bermain dan meneroka. Selain memupuk interaksi yang berkualiti dengan anak/waris anda, aktiviti-aktiviti ini juga dapat membantu ahli keluarga mengeratkan hubungan. <br/><br/>
+Ibu bapa boleh menyokong pembelajaran dan pembangunan Bahasa Ibunda anak anda di rumah dengan aktiviti-aktiviti saranan yang berikut. Aktiviti-aktiviti ini dapat melibatkan anak anda dengan bermain dan meneroka. Selain memupuk interaksi yang berkualiti dengan anak anda, aktiviti-aktiviti ini juga dapat membantu ahli keluarga mengeratkan hubungan. <br/><br/>
  Yang berikut merupakan contoh-contoh Aktiviti Belajar Bahasa Ibunda mengikut 4 tema utama dalam pembelajaran dan pengajaran Bahasa Melayu.
 </p>
-<h4>Siapakah Saya?</h4>
-<p style="text-align:justify;">Mari Lakukan Aktiviti Kegemaran<br/><br/>
-Anda boleh meluangkan masa dengan anak/ waris untuk melakukan aktiviti kegemaran mereka. Contoh: bermain basikal, bermain peranan dan melukis gambar.<br/><br/>
-Langkah-langkah:</p>
+ <div class="atab">
+      <input id="tab-3" type="checkbox" name="tab">
+   <label for="tab-3" class="lbML">Siapakah Saya?
+</label>
+     <div class="tab-content">
+      <img src="/mlmoe/ML-Preschool_Poster01.jpg">
+  </div></div>
+ <div class="atab">
+      <input id="tab-4" type="checkbox" name="tab">
+   <label for="tab-4" class="lbML">Siapakah Orang-orang dan Apakah Tempat-tempat di Sekeliling Saya?
+</label>
+     <div class="tab-content">
+      <img src="/mlmoe/ML-Preschool_Poster02.jpg">
+  </div></div>
+<div class="atab">
+      <input id="tab-5" type="checkbox" name="tab">
+   <label for="tab-5" class="lbML">Dengan Siapakah Saya Berkongsi Dunia ini?
+</label>
+     <div class="tab-content">
+      <img src="/mlmoe/ML-Preschool_Poster03.jpg">
+  </div></div>
+ <div class="atab">
+      <input id="tab-6" type="checkbox" name="tab">
+   <label for="tab-6" class="lbML">Bagaimanakah Sesuatu Benda atau Perkara Berfungsi?
+</label>
+     <div class="tab-content">
+      <img src="/mlmoe/ML-Preschool_Poster04.jpg">
+      <p style="text-align:justify;">Anda juga boleh membuat salinan aktiviti-aktiviti di bawah ini untuk dibuat di rumah bersama anak/ waris anda:</p>
 <ul>
-  <li style="text-align:justify;">Bincang bersama anak/ waris anda tentang aktiviti kegemaran mereka.</li>
-  <li style="text-align:justify;">Senaraikan bahan-bahan yang diperlukan untuk melakukan aktiviti itu.</li>
-  <li style="text-align:justify;">Ajak anak/ waris anda mengumpulkan bahan-bahan yang diperlukan.</li>
-  <li style="text-align:justify;">Lakukan aktiviti kegemaran itu bersama dengan anak/ waris anda.</li>
-  <li style="text-align:justify;">Ajak anak/ waris anda berkongsi dengan ahli keluarga tentang cara-cara melakukan aktiviti kegemaran mereka dalam Bahasa Melayu.</li>
-  </ul>
-  <h4 style="text-align:justify;">Siapakah Orang-orang dan Apakah Tempat-tempat di Sekeliling Saya?
-Dengan Siapakah Saya Berkongsi Dunia ini?</h4>
-<p style="text-align:justify;">Mari Membuat Model 3D- Tempat Kegemaran Di Kawasan Kejiranan Saya<br/><br/>
-  Anda boleh meluangkan masa dengan anak/ waris anda untuk bersama-sama membuat model 3D tempat kegemarannya di kawasan kejiranan. Contoh: taman, taman permainan, pusat beli-belah dan stesen MRT. 
-<br/><br/>Model tersebut boleh dihasilkan dengan menggunakan bahan-bahan yang terdapat di rumah seperti blok binaan atau bahan-bahan yang boleh dikitar semula. Setelah selesai menghasilkan model itu, anda bolehlah meminta anak/ waris anda untuk menceritakan tentang tempat kegemarannya di kawasan kejiranan. 
-<br/><br/>Langkah-langkah:
-</p>
-<ul>
-  <li style="text-align:justify;">Bincang bersama anak/ waris anda tentang tempat kegemaran mereka di kawasan kejiranan.</li>
-  <li style="text-align:justify;">Senaraikan bahan-bahan yang diperlukan untuk membuat model itu.</li>
-  <li style="text-align:justify;">Ajak anak/ waris anda untuk mengumpulkan bahan-bahan yang diperlukan.</li>
-  <li style="text-align:justify;">Buat model itu bersama anak/ waris anda.</li>
-   <li style="text-align:justify;">Ajak anak/ waris anda untuk mengimbas kembali dengan menceritakan dalam Bahasa Melayu tentang tempat kegemaran mereka itu. </li>
-</ul>
-<h4 style="text-align:justify;">Dengan Siapakah Saya Berkongsi Dunia ini?
-</h4>
-<p style="text-align:justify;">Mari Meneroka- Tumbuh-tumbuhan Dan Binatang Di Sekeliling Saya
-<br/><br/>Anda boleh menyemai nilai menghormati dan menghargai alam di sekeliling dalam diri anak/ waris anda dengan membawa anak/ waris anda  berjalan-jalan di taman. 
-<br/><br/>Langkah-langkah:
-</p>
-<ul>
-  <li style="text-align:justify;">Semasa di taman, ajak anak/ waris untuk menamakan tumbuh-tumbuhan/ binatang yang dilihat.
-</li>
-   <li style="text-align:justify;">Ajak anak/ waris menamakan tumbuh-tumbuhan/ binatang yang menarik perhatiannya.
-</li>
-   <li style="text-align:justify;">Minta anak/ waris berkongsi dalam Bahasa Melayu mengapa tumbuh-tumbuhan/ binatang itu menarik perhatiannya.
-</li>
-</ul>
-<p style="text-align:justify;">Anda juga boleh membuat salinan aktiviti-aktiviti di bawah ini untuk dibuat di rumah bersama anak/ waris anda:</p>
-<ul>
-  <li style="text-align:justify;"><a href="https://drive.google.com/file/d/1UlGdWe2XAZmS6sUjW4OC38RLq2Quj5rd/view" target="_blank"><u>Kenali Bahagian Bunga</u></a></li>
-   <li style="text-align:justify;"><a href="https://drive.google.com/file/d/14W0xZ6iqck5cdvG5QJJXjWp5OpDI-lwA/view" target="_blank"><u>Mari Mewarna Di Taman Bunga!
+  <li style="text-align:justify;"><a href="/mlmoe/ML Presch - Kenali Bahagian Bunga.pdf" target="_blank"><u>Kenali Bahagian Bunga</u></a></li>
+   <li style="text-align:justify;"><a href="/mlmoe/ML Presch - Mari Mewarna di Taman Bunga.pdf" target="_blank"><u>Mari Mewarna di Taman Bunga!
 </u></a></li>
-   <li style="text-align:justify;"><a href="https://drive.google.com/file/d/1j6FOBshSUIH9rsToB8TXmlPfxBgymk_J/view" target="_blank"><u>Latihan Menulis- Di Kebun Bunga 
+   <li style="text-align:justify;"><a href="/mlmoe/ML Presch - Di Kebun Bunga.pdf" target="_blank"><u>Latihan Menulis-di Kebun Bunga 
 </u></a></li>
-   <li style="text-align:justify;"><a href="https://drive.google.com/file/d/1j6FOBshSUIH9rsToB8TXmlPfxBgymk_J/view" target="_blank"><u>Haiwan dan Serangga di Kebun Bunga 
+   <li style="text-align:justify;"><a href="/mlmoe/ML Presch - Kebun Bunga.pdf" target="_blank"><u>Haiwan dan Serangga di Kebun Bunga 
 </u></a></li>
-  </ul>
-<h4 style="text-align:justify;">Bagaimanakah Sesuatu Benda atau Perkara Berfungsi?</h4>
-<p style="text-align:justify;">Mari Melukis- Alat yang membantu keluarga saya<br/><br/>Anda boleh menggalakkan anak/ waris anda berinteraksi tentang sejenis alat di rumah yang membantu keluarga. Contoh: mesin pengisar, mesin basuh baju dan penyedut habuk. 
-<br/><br/>Langkah-langkah:</p>
-<ul>
-  <li style="text-align:justify;">Bincang bersama anak/ waris anda tentang sejenis satu alat yang membantu keluarga. 
-</li>
-   <li style="text-align:justify;">Kongsi dengan anak/ waris anda bagaimana kehidupan tanpa alat itu, pada zaman dahulu.
-</li>
-   <li style="text-align:justify;">Minta anak/ waris fikirkan bagaimana alat itu boleh diperbaik.
-</li>
-   <li style="text-align:justify;">Ajak anak/ waris anda melukis alat yang dapat diperbaik jika dia diberi peluang menciptanya semula. 
-</li>
-   <li style="text-align:justify;">Ajak anak/ waris anda berkongsi dengan ahli keluarga dalam Bahasa Melayu mengenai alat yang diperbaik itu.
-</li>
-</ul>
-<p style="text-align:justify;">Untuk mendapatkan contoh Aktiviti Belajar Bahasa Ibunda di Rumah yang lain, sila layari lelaman daripada tadika-tadika ini
-<br/>
+  </ul></div></div>
+ 
+  
+<p style="text-align:justify;">Untuk mendapatkan contoh Aktiviti Belajar Bahasa Ibunda di Rumah yang lain, sila layari lelaman daripada tadika-tadika ini:</p>
 <ul>
  <li><a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/">Tadika MOE @ Fernvale </a></li>
  <li><a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/">Tadika MOE @ Punggol Green </a></li>
-</ul></p>
+</ul>
  
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
