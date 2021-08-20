@@ -72,7 +72,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
   </p><br/>
      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Primary 3 Malay Language and Cultural Camp </h4>
         <p style="margin:10px;">
-          The Primary 3 Malay Language and Cultural Camp is organised to immerse students in the use of Malay in everyday life outside school and focuses on language use and cultural practices at a Malay wedding. Students learn about the <i>pantun</i>, a form of traditional Malay poetry, and go onto create their own simple two-line <i>pantun</i>. They also learn about the significance of wedding decorations like <i>bunga rampai</i> and <i>bunga manggar</i> and try their hand at making them. They are introduced to dining etiquette and the different types of food served at a wedding reception and learn about the <i>kompang</i>, a musical instrument often played at Malay weddings.
+          The Primary 3 Malay Language and Cultural Camp is organised to immerse students in the use of Malay in everyday life outside school and focuses on language use and cultural practices at a Malay wedding. Students learn about the <i>pantun</i>, a form of traditional Malay poetry, and go on to create their own simple two-line <i>pantun</i>. They also learn about the significance of wedding decorations like <i>bunga rampai</i> and <i>bunga manggar</i> and try their hand at making them. They are introduced to dining etiquette and the different types of food served at a wedding reception and learn about the <i>kompang</i>, a musical instrument often played at Malay weddings.
         </p>
       </div>
 </div>
