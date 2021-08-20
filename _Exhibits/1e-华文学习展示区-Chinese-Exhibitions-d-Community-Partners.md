@@ -66,7 +66,7 @@ table {
 </script>
 </head>
 <body>
-    <div><h2 style="font-family:KaiTi">社区合作伙伴</h2></div>
+    <div><h2 style="font-family:KaiTi;color:#d84178;">社区合作伙伴</h2></div>
       <br/>
   <table class="tbl">
       <tbody>
