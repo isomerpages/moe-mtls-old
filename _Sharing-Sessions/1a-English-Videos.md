@@ -120,8 +120,8 @@ Minister for Education<br/>
  <div class="column">
 <img src="/images/Kunawathyammal.png" style="width:100%">
    </div>
-   <p> <strong>Mdm Kunawathyammal d/o Kaliannan</strong><br/>
-Senior teaching Fellow in NIE Policy, Curriculum & Leadership <br/>
+   <p> <strong>Mdm Kunawathyammal <br/> d/o Kaliannan</strong><br/>
+Senior teaching Fellow <br/> in NIE Policy, Curriculum & Leadership <br/>
 </p> </div>
     <br/>  <br/>
          <div class="row">
@@ -157,7 +157,7 @@ Chief Executive officer at SINDA<br/>
    </div>
    <p> <strong>
 Mdm Iryamaya Binti Amin </strong><br/>
-Malay Teacher at PCF Sparkletots @ Sembawang Blk 755<br/>
+Malay Teacher at PCF <br/> Sparkletots @ Sembawang Blk 755<br/>
 </p>
 </div>
     <br/>  <br/>
