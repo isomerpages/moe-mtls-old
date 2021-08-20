@@ -144,26 +144,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
 <td style="border:0 none;padding: 0;" class="btnImg17">
 </td>
 </tr>
-  <tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5" class="lbML">Membesar Bersama Bahasa<br/>Malay Language Centre of Singapore</label>
-      <div class="tab-content">
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Membesar Bersama Bahasa</h4>
-        <p style="margin:10px;">
-         Pusat Bahasa Melayu Singapura (MLCS) akan mempamerkan dua pakej yang bertujuan untuk meningkatkan pembelajaran bahasa Melayu. Pakej pertama merupakan pakej ‘Mari Membaca’ yang disasarkan untuk murid tadika dan peringkat sekolah rendah. Pakej ini mengandungi kad-kad imbasan yang boleh digunakan untuk membantu murid-murid mengeja dan menyebut perkataan-perkataan mengikut kategori. Pakej kedua merupakan Aplikasi ICT interaktif seperti Aplikasi Pintar Kata, Aplikasi Pintar Peribahasa, Aplikasi Cerita-cerita Rakyat Nusantara, Aplikasi Legenda Singapura dan Aplikasi Bitara Kata. Aplikasi-aplikasi ini akan memberikan pengalaman pembelajaran maya yang unik dengan cara yang menyeronokkan.
-        </p><br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Growing Up with Language </h4>
-        <p style="margin:10px;">
- The Malay Language Centre of Singapore (MLCS) will showcase two packages that enhance the learning of Malay. The first package entitled “Let’s Read” is targeted at kindergarten and lower primary students. The package contains flashcards that teach students to spell and pronounce categorised words. The second package is the interactive ICT apps developed by MLCS, including “Smart Vocabulary”, “Smart in Proverbs”, “Folktales of the Malay Archipelago”, “Legend of Singapore” and “Unique Vocabulary”. These apps will provide students with engaging and enjoyable virtual learning experiences.
-        </p>
-      </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg17">
-</td>
-</tr>   
+
 </table>
 <hr>
 <div class="image">
