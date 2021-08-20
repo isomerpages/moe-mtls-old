@@ -112,7 +112,7 @@ margin-left:25px;
 </script>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Previous</a>
   <a href="/mlmoe/ml-preu/" class="btn" style="float:right;">Next</a><br/>
-<img src="/images/ML-Sec-Header.jpg">
+<img src="/mlmoe/ML-Secondary_Header-Banner.jpg">
 
 <h4 style="font-size:30px;"><strong>MATLAMAT KURIKULUM SEKOLAH MENENGAH</strong></h4>
   <h4 style="font-size:25px;color:green;">MEMUPUK PELAJAR  AKTIF DAN PENGGUNA CEKAP<br/>
