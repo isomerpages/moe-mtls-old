@@ -79,7 +79,8 @@ max-width:40%;
 <td style="border:0 none;padding: 0; margin:0;">
  <div class="atab atab3Line" >
      <input id="tab-01" type="checkbox" name="tab">
-      <label for="tab-01" class="lbeng">Live Panel Discussion 'Sparking Rich Conversation with Young Children in Mother Tongue Language' (Live!) 
+      <label for="tab-01" class="lbeng">Live Panel Discussion <br/>
+       'Sparking Rich Conversation with Young Children in Mother Tongue Language' (Live!) 
        <br/>[11.00am - 12.00pm] <br/></label>
  <div class="tab-content">      
        <br/>
