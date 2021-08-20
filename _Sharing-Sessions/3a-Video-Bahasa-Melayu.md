@@ -104,7 +104,7 @@ Ms Rilla Melati Bahri
    <p> <strong> Ms Rilla Melati Bahri</strong>
 </p>
    </div>
-       <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Membesarkan Kanak-kanak Dwibahasa</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Membesarkan Kanak-kanak Dwibahasa</h4>
        <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profil</h4></p>
        <p style="margin:10px;">Dr Mukhlis Abu Bakar merupakan Profesor Madya di Institut Pendidikan Nasional (NIE), Universiti Teknologi Nanyang. Beliau memperoleh ijazah MA dan PhD dalam bidang Linguistik Gunaan dari Universiti Wales, Bangor, UK. Beliau mengajar kursus-kursus linguistik, analisis wacana, literasi kritis dan pendidikan dwibahasa, dan pernah menerima Anugerah Kecemerlangan Pengajaran NIE pada tahun 2011, 2018 dan 2020. Minat penyelidikannya tertumpu kepada bidang dwibahasa, dwiliterasi, pembelajaran literasi, dan isu sebutan dalam bahasa Melayu. Beliau merupakanPenyunting Bersama sebuah buku yang bakal terbit pada bulan Ogos ini – The Bloomsbury Handbook of Cultural Identity from Early Childhood to Early Adulthood.</p>
         <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profil</h4></p>
@@ -112,7 +112,7 @@ Ms Rilla Melati Bahri
         <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Synopsis</h4></p>
        <p style="margin:10px;">Membina persekitaran dwibahasa di rumah bukanlah tugas yang mudah bagi sesetengah keluarga, terutama sekali dalam konteks bahasa Inggeris yang semakin menjadi bahasa dominan dalam kalangan keluarga masyarakat Melayu sekarang ini. Melalui sesi perkongsian ini, para peserta dapat memahami cara-cara ibu bapa boleh memupuk rasa cinta akan bahasa Melayu anak-anak mereka, termasuk cara-cara mencipta peluang menggunakan bahasa Melayu di rumah. Ibu bapa yang mempunyai anak-anak kecil juga dapat mendapatkan tip mudah untuk mewujudkan pengalaman pembelajaran bahasa Melayu yang menyeronokkan.
 </p>
-       <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Creating an Immersive Bilingual Language Environment for Children at Home</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Creating an Immersive Bilingual Language Environment for Children at Home</h4>
        <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4></p>
        <p style="margin:10px;">Dr Mukhlis Abu Bakar is an Associate Professor at the National Institute of Education (NIE), Nanyang Technological University. He obtained his MA and PhD in applied linguistics from the University of Wales, Bangor, UK. He teaches courses in linguistics, discourse analysis, critical literacy and bilingual education, for which he received NIE’s Excellence in Teaching Commendation Award in 2011, 2018 and 2020. His research interests are in the fields of bilingualism, biliteracy, literacy learning, and pronunciation issues in Malay. He is co-editor of a forthcoming book to be published in August, The Bloomsbury Handbook of Cultural Identity from Early Childhood to Early Adulthood.
 </p>
@@ -127,16 +127,6 @@ Ms Rilla Melati Bahri
 <td style="border:0 none;padding: 0;" class="btnImg">
 </td>
 </tr>
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab atab3Line">
