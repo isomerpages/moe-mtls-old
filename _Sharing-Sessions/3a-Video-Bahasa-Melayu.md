@@ -152,7 +152,7 @@ Ibu bapa merupakan guru pertama anak-anak. Justeru, Puan Nura J yang gemar memba
 </p><br/>
      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profile</h4>   
        <p style="margin:10px;">Mdm Nurashikin Jasni, also known as Nura J, is a former primary school teacher and TV personality. She is currently a realtor with Propnex and the founder of Pearlista, an all-ladies hair salon.<br/><br/>
-        As a local author, Mdm Nurashikin Jasni has co-written “The Big, Good Wolf” and “Chickchickaboomz” with her daughter Nyla Esman, and also co-written “Leia dan Oumar Berhari Raya” with her good friend, Umie Isa, a recent award winner for “Skrip Terbaik-Informasi” at the Pesta Perdana.<br/><br/>
+        As a local author, Mdm Nurashikin Jasni has co-written “The Big, Good Wolf” and “Chickchickaboomz” with her daughter Nyla Esman, and also co-written “Leia dan Oumar Berhari Raya” with her good friend, Umie Isa.<br/><br/>
         A reading advocate who visits the National Library often and loves reading with her children, she firmly believes that reading keeps minds healthy, imaginative and sharp.
 
 </p>
