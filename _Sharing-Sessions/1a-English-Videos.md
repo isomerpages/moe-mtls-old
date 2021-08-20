@@ -78,6 +78,103 @@ max-width:40%;
   <tr>
 <td style="border:0 none;padding: 0; margin:0;">
  <div class="atab atab3Line" >
+     <input id="tab-01" type="checkbox" name="tab">
+      <label for="tab-01" class="lbeng">Live Panel Discussion 'Sparking Rich Conversation with Young Children in Mother Tongue Language' (Live!) 
+       <br/>[11.00am - 12.00pm] <br/></label>
+ <div class="tab-content">      
+       <br/>
+  <div class="row">
+ <div class="column">
+<img src="/images/Ms-Sun-Xueling.jpg" style="width:100%">
+   </div>
+   <p> <strong>MODERATOR </strong> <br/>
+Ms Sun Xueling<br/>
+Minister of State<br/>
+Ministry of Education <br/>
+Ministry of Social and Family Developmet
+</p>
+   </div>
+   <br/>
+   <div class="row">
+ <div class="column">
+<img src="/images/DPM-Heng-Swee-Keat.jpg" style="width:100%">
+   </div>
+   <p> <strong>Mr Heng Swee Keat</strong><br/>
+Deputy Prime Minister and Coordinating Minister for Economic Policies<br/>
+</p>
+     <div class="row">
+ <div class="column">
+<img src="/images/Minister-Chan-Chun-Sing.jpg" style="width:100%">
+   </div>
+   <p> <strong>
+Mr Chan Chun Sing</strong><br/>
+Minister for Education<br/>
+</p>
+<h4 style="padding-top:12px;margin:10px;color:#fa0;">Panelists</h4>
+       <div class="row">
+ <div class="column">
+<img src="/images/Mdm-Kunawathyammal- Kaliannan.jpg" style="width:100%">
+   </div>
+   <p> <strong>Mdm Kunawathyammal d/o Kaliannan</strong><br/>
+Senior teaching Fellow in NIE Policy, Curriculum & Leadership <br/>
+</p>
+         <div class="row">
+ <div class="column">
+<img src="/images/Ms-Foo-Panelist.jpg" style="width:100%">
+   </div>
+   <p> <strong>
+Ms Foo Wan Yueh</strong><br/>
+National Institute of Early Childhood Development<br/>
+</p>
+ <div class="row">
+ <div class="column">
+<img src="/images/Otelli-Edwards.jpg" style="width:100%">
+   </div>
+   <p> <strong>
+Ms Otelli Edwards </strong><br/>
+Anchor, Mediacorp/Parent<br/>
+</p>
+             <div class="row">
+ <div class="column">
+<img src="/images/Mr-Anbarasu.jpg" style="width:100%">
+   </div>
+   <p> <strong>
+Mr Anbarasu Rajendran </strong><br/>
+Chief Executive officer at SINDA<br/>
+</p>
+               <div class="row">
+ <div class="column">
+<img src="/images/iryamaya.jpg" style="width:100%">
+   </div>
+   <p> <strong>
+Mdm Iryamaya Binti Amin </strong><br/>
+Malay Teacher at PCF Sparkletots @ Sembawang Blk 755<br/>
+</p>
+</div>
+<h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>    
+<p style="margin:10px;">
+MdmKunawathyammal d/o Kaliannan is a Senior Teaching Fellow at NIE (Policy, Curriculum & Leadership). She has served many years in the field of education, holding various positions, such as HOD(Affective Education), Vice Principal and Lecturer. She is currently teaching the Character and Citizenship Education module that includes the aspect of partnership with parents as stakeholders for character-building in children. 
+</p><br/>
+ <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>  
+ <p style="margin:10px;">
+Ms Foo Wan Yueh is a lecturer at the National Institute of Early Childhood Development (NIEC). She teaches and supervises trainee teachers of the Diploma in Early Childhood Education in both English and Chinese. Her areas of interest include Chinese language in the early years and early numeracy.
+</p><br/>
+<h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
+<p style="margin:10px;">Ms Otelli Edwards has worked in various Mediacorp companies starting as a sports journalist and producing and hosting nightly news shows. She has also produced current affairs and news programmes for Mediacorp’s news radio station, 93.8 LIVE. Prior to joining CNA, she was a feature writer  withHer World magazine and has interviewed high-flying women. She is a mother of five-year-old twin boys. </p>
+              <br/>
+              <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
+<p style="margin:10px;">Mr Anbarasu Rajendran has been serving as the Chief Executive Officer of SINDA since 2018. Mr Anbarasu is an educationalist by training and has helmed various portfolios at MOE, most notably, Centre Director of the Umar Pulavar Tamil Language Centre.<br/><br/>
+              Though currently active in the social service sector, Mr Anbarasu is still connected to education as he sits in various MOE committees like COMPASS, Uplift and the President Teacher Award jury.</p>
+              <br/>
+    <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
+<p style="margin:10px;">	MdmIryamaya Binti Amin is a recipient of the 2020 Outstanding Pre-school Mother Tongue Language Teacher Award. Currently, she is teaching Malay Language at PCF Sparkletots @ Sembawang Blk 755. </p>        
+</div></div> </td>
+<td style="border:0 none;padding: 0;" class="btnImg">
+  </td>
+</tr>
+ <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+ <div class="atab atab3Line" >
      <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1" class="lbeng">Learning Mother Tongue is Cool at Home and in School too! - Strategies to Motivate Children to Love MTL   
        <br/>Mrs Dianne Seet <br/>
