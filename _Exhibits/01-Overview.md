@@ -8,6 +8,15 @@ third_nav_title: 'Overview'
 <html>
 <head>
 <style>
+  .tab img{
+   width: 80%;
+ }
+ .tab table {
+   display: none;
+}
+.tab table:target {
+  display: block;
+}
 .btnClass1{
   display:inline-block;
   padding: 15px 20px;
@@ -31,8 +40,11 @@ background-color: lightgrey;!important;
 </style>
 </head>
 <body>
+  <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
+<div class="tab" style="display:none;">
 <a href="/exhibits/华文学习展示区-chinese-exhibitions-a/总览/"> <div style="display:inline-block; font-family:KaiTi;font-size:25px;" class="btnClass1">华文学习展示区<br/>&nbsp;</div></a>
 <a href="/exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-a/Gambaran-Keseluruhan/" ><div style="display:inline-block; font-family:KaiTi;font-size:25px;" class="btnClass1">Pameran Bahasa Melayu</div></a>
 <a href="/exhibits/தமிழ்மொழிக்-காட்சிக்கூடம்-Tamil-Exhibitions-a/உள்ளடக்கம்/"> <div style="display:inline-block; font-family:KaiTi;font-size:25px;" class="btnClass1">தமிழ்மொழிக் காட்சிக்கூடம்</div></a>
+  </div></div>
 </body>
 </html>
