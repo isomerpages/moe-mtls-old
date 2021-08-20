@@ -70,8 +70,8 @@ third_nav_title: '华文学习展示区'
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">说我所想</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
           胜宝旺小学配合课文主题，采用混合式教学模式，运用各种思维策略，发展高年级学生的会话与沟通技巧。在课前，教师通过“新加坡学生学习平台”（SLS）设计活动，让学生了解与课文主题相关的内容。课堂上，教师利用各种思维策略和教学活动，调动学生的生活经验，促进学生的思考。学生利用平台上的录音功能和即时互动工具分享看法，与同学讨论和交流。课后，学生展示学习成果，进行评价和延伸活动，深化和巩固所学。</p><br/>
-          <h4 style="margin:10px;">Speak What I Think</h4>
-        <p style="margin:10px;color:#d84178;">
+          <h4 style="margin:10px;color:#d84178;">Speak What I Think</h4>
+        <p style="margin:10px;">
        Sembawang Primary School adopts a blended learning approach in developing the speaking and conversational skills of upper primary students, aligning conversational themes with those in the textbooks and using a wide array of thinking strategies.<br/><br/>
 Teachers have designed pre-lesson activities in the Singapore Student Learning Space (SLS) to help students understand content related to the theme before using various thinking strategies and activities during lessons to tap on students’ personal experiences and trigger deeper thinking. Students then use various tools available on 
 the SLS to share their views with their peers and showcase their learning. This is further deepened and reinforced through peer assessment and post-lesson activities.
