@@ -191,7 +191,7 @@ Untuk mendapatkan contoh Projek MuM yang lain, sila layari <a href="https://www.
  <p style="text-align:justify;"><span style="font-size:25px; color:green;">Aktiviti Bahasa Melayu di Rumah
 </span>
 <br/>
-Ibu bapa boleh menyokong pembelajaran dan pembangunan bahasa Ibunda anak anda di rumah dengan aktiviti-aktiviti saranan yang berikut. Aktiviti-aktiviti ini dapat melibatkan anak anda dengan bermain dan meneroka. Selain memupuk interaksi yang berkualiti dengan anak anda, aktiviti-aktiviti ini juga dapat membantu ahli keluarga mengeratkan hubungan. <br/><br/>
+Ibu bapa boleh menyokong pembelajaran dan pembangunan Bahasa Ibunda anak anda di rumah dengan aktiviti-aktiviti saranan yang berikut. Aktiviti-aktiviti ini dapat melibatkan anak anda dengan bermain dan meneroka. Selain memupuk interaksi yang berkualiti dengan anak anda, aktiviti-aktiviti ini juga dapat membantu ahli keluarga mengeratkan hubungan. <br/><br/>
  Yang berikut merupakan contoh-contoh Aktiviti Belajar Bahasa Ibunda mengikut 4 tema utama dalam pembelajaran dan pengajaran Bahasa Melayu.
 </p>
  <div class="atab">
