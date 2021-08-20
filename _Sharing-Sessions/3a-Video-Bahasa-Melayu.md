@@ -105,20 +105,20 @@ Ms Rilla Melati Bahri
 </p>
    </div>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Membesarkan Kanak-kanak Dwibahasa</h4>
-       <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profil</h4></p>
+       <p><h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil</h4></p>
        <p style="margin:10px;">Dr Mukhlis Abu Bakar merupakan Profesor Madya di Institut Pendidikan Nasional (NIE), Universiti Teknologi Nanyang. Beliau memperoleh ijazah MA dan PhD dalam bidang Linguistik Gunaan dari Universiti Wales, Bangor, UK. Beliau mengajar kursus-kursus linguistik, analisis wacana, literasi kritis dan pendidikan dwibahasa, dan pernah menerima Anugerah Kecemerlangan Pengajaran NIE pada tahun 2011, 2018 dan 2020. Minat penyelidikannya tertumpu kepada bidang dwibahasa, dwiliterasi, pembelajaran literasi, dan isu sebutan dalam bahasa Melayu. Beliau merupakanPenyunting Bersama sebuah buku yang bakal terbit pada bulan Ogos ini – The Bloomsbury Handbook of Cultural Identity from Early Childhood to Early Adulthood.</p>
-        <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profil</h4></p>
+        <p><h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil</h4></p>
        <p style="margin:10px;">Rilla MelatiBahri,Pemenang Anugerah Persuratan (Sastera Kanak-Kanak) pada tahun 2017 dan 2021membangunkan kandungan kreatif untuk bilik darjah dan juga televisyen. Beliau telah menghasilkan lebih daripada 25 buah buku kanak-kanak. Pemegang Ijazah Kepujian Pengajian Teater dari NUS ini juga memiliki ijazah possiswazah dalam bidang Pendidikan dari NIE-NTU.  Rilla ialah pengasas Mini Monsters Ltd, sebuah institusi didik-hibur dwibahasa (Melayu-Inggeris) yang terkenaldi Asia yang mempromosikan pembelajaran bahasa Melayu melalui kandungan-kandungan silang media yang menarik, mendidik dan menghiburkan.</p>
-        <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Synopsis</h4></p>
+        <p><h4 style="padding-top:12px;margin:10px;color:#a3c864;">Synopsis</h4></p>
        <p style="margin:10px;">Membina persekitaran dwibahasa di rumah bukanlah tugas yang mudah bagi sesetengah keluarga, terutama sekali dalam konteks bahasa Inggeris yang semakin menjadi bahasa dominan dalam kalangan keluarga masyarakat Melayu sekarang ini. Melalui sesi perkongsian ini, para peserta dapat memahami cara-cara ibu bapa boleh memupuk rasa cinta akan bahasa Melayu anak-anak mereka, termasuk cara-cara mencipta peluang menggunakan bahasa Melayu di rumah. Ibu bapa yang mempunyai anak-anak kecil juga dapat mendapatkan tip mudah untuk mewujudkan pengalaman pembelajaran bahasa Melayu yang menyeronokkan.
 </p>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Creating an Immersive Bilingual Language Environment for Children at Home</h4>
-       <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4></p>
+       <p><h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profile</h4></p>
        <p style="margin:10px;">Dr Mukhlis Abu Bakar is an Associate Professor at the National Institute of Education (NIE), Nanyang Technological University. He obtained his MA and PhD in applied linguistics from the University of Wales, Bangor, UK. He teaches courses in linguistics, discourse analysis, critical literacy and bilingual education, for which he received NIE’s Excellence in Teaching Commendation Award in 2011, 2018 and 2020. His research interests are in the fields of bilingualism, biliteracy, literacy learning, and pronunciation issues in Malay. He is co-editor of a forthcoming book to be published in August, The Bloomsbury Handbook of Cultural Identity from Early Childhood to Early Adulthood.
 </p>
-  <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4></p>
+  <p><h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profile</h4></p>
        <p style="margin:10px;">A two-time winner of the prestigious national literary award AnugerahPersuratan (SasteraKanak-Kanak - Malay Literary Award (Children’s Literature), Ms RillaMelatiBahri builds creative content for the classroom and television. She has authored more than 25 children’s books. A theatre studies graduate from NUS, she also holds an MEd from NIE in curriculum and teaching. Ms Rilla is the founder of Mini Monsters Ltd, Asia’s leading bilingual Malay-English edutainment institution that promotes the learning of Malay with the perfect mix of cross-media engagement, education and entertainment. </p>
- <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Synopsis</h4></p>  
+ <p><h4 style="padding-top:12px;margin:10px;color:#a3c864;">Synopsis</h4></p>  
        <p style="margin:10px;">Creating an immersive bilingual language environment at home remains a challenging task for parents with young children, especially in today’s context where English is increasingly the dominant language in most households. Through this sharing session, participants can come to better understand how to model a love for Malay for their children and acquire an understanding of how to create opportunities for using Malay at home. Parents with young children can also take away some simple tips on how to make Malay learning fun and enjoyable.
 </p>  
 
