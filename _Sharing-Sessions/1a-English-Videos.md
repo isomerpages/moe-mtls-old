@@ -93,7 +93,7 @@ max-width:40%;
    <h4 style="padding-top:12px;margin:10px;color:#fa0;">Panelists</h4>
   <br/>
    <div class="row">
- <div class="column col1">
+ <div class="column">
 <img src="/images/Chan-Chun-Sing.png" style="width:100%">
    </div>
     <div class="col1">
