@@ -123,8 +123,8 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
        <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">华文“浆”好玩</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">在新传媒，我们相信电视节目不应该有语言的界限。节目只要内容精彩，即使以外语呈现，也能够吸引观众。<br/><br />
           为了让更多年幼的观众喜欢华文华语，okto依据深受小朋友们喜爱的英语节目“Word Whiz or Slime Pit”设计、制作了两部华语续集：《成语就“浆”说》和《华文“浆”好玩》。这两部续集注入了Word Whiz节目的精髓，以有趣的人物和好玩的游戏，吸引更多小观众喜欢上华文华语。</p><br/>
-          <h4 style="margin:10px;">Word Whiz or Slime Pit!</h4>
-          <p style="margin:10px;color:#d84178;">Mediacorp believes that content creation has no language boundaries. Audiences will watch a show if they enjoy the content, even if it is in a foreign language.<br/><br />
+          <h4 style="margin:10px;color:#d84178;">Word Whiz or Slime Pit!</h4>
+          <p style="margin:10px;">Mediacorp believes that content creation has no language boundaries. Audiences will watch a show if they enjoy the content, even if it is in a foreign language.<br/><br />
           To entice young viewers to learn Chinese, okto rides on their top-rated English title “Word Whiz or Slime Pit” to create spin-offs like “Word Whiz (Idioms)” and “Word Whiz (Mandarin)” for the Chinese-speaking audience. The same approach towards learning has been adopted in these titles, featuring entertaining characters, word puzzles and game elements in the show, all aimed to engage the audience and spark their interest in Chinese.</p>
       </div>
 </div>
@@ -140,8 +140,8 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
       <div class="tab-content">
           <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">欢迎大家与国家文物局一起通过文化遗产来认识母语</h4>
           <p style="font-family:KaiTi;font-size:21px;margin:10px;">欢迎大家与国家文物局一起通过文化遗产来认识母语! 在此，讲华语运动委员会、新加坡马来语文理事会及淡米尔语言理事会将分享丰富的材料与资源，鼓励公众一起学习母语。同时，家长也能进一步了解新加坡的各大文物机构，如：印族文化馆、马来文化馆和晚晴园----中山南洋纪念馆，找到适合孩子索及学习母语的活动，并通过这些活动让孩子在课堂外继续积极学习及使用母语。</p><br/>
-          <h4 style="margin:10px;">Discover Mother Tongue Languages through Heritage and Culture with The National Heritage Board</h4>
-        <p style="margin:10px;color:#d84178;">
+          <h4 style="margin:10px;color:#d84178;">Discover Mother Tongue Languages through Heritage and Culture with The National Heritage Board</h4>
+        <p style="margin:10px;">
         Discover Mother Tongue Languages through heritage and culture with the National Heritage Board ! Find out more about language programmes, tips and resources with the Speak Mandarin Campaign, the Tamil Language Council and the Malay Language Council of Singapore. Learn more about the Heritage Institutions – the Indian Heritage Centre, Malay Heritage Centre and Sun Yat Sen Nanyang Memorial Hall. Parents can find out more about the learning opportunities available for the young, while educators can explore opportunities that expand learning beyond the classroom.</p>
       </div>
 </div>
@@ -172,8 +172,8 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
       <input id="tab-6" type="checkbox" name="tab">
       <label for="tab-6" class="lbCh"> <span style="font-size:25px; font-family:KaiTi"> 国家图书馆管理局 </span><br/>National Library Board</label>
       <div class="tab-content">
-          <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;">中文图书馆服务</h4>
-          <p style="font-family:KaiTi;margin:10px;font-size:21px;color:#d84178;">
+          <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">中文图书馆服务</h4>
+          <p style="font-family:KaiTi;margin:10px;font-size:21px;">
        国家图书馆管理局致力于推广母语阅读，通过有趣的活动和丰富的线上和线下藏书，培养读者对母语阅读的兴趣。<br/><br />
           国家图书馆管理局采用了多元且新颖的方式与读者在线上交流互动，如面簿上为4至8岁的孩子所制作的故事视频、图书馆手机应用程序上的“好书推荐”，以及为家长和教育工作者所举办的线上工作坊等。<br/><br />
           这些活动与资源不仅有助于激发孩子的想象力，同时也营造了良好的阅读氛围，培养孩子从小阅读母语的好习惯。</p><br/>
@@ -240,8 +240,8 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
          新加坡华文教研中心一直以来都不遗余力地推展华文教研活动，积极创建并推广在双语环境中行之有效的华文教学法，以期促进华族语言文化在新加坡的发展。<br/><br />
           近年来，中心分别为小学生和中学生推出了《新新岛》和《奇狮妙想》分级读本系列。这些读本图文并茂、生动有趣，可激发学生的阅读兴趣，吸引他们乐学华文。</p><br/>
-          <h4 style="margin:10px;">Innovative Research, Captivating Books</h4>
-        <p style="margin:10px;color:#d84178;">
+          <h4 style="margin:10px;color:#d84178;">Innovative Research, Captivating Books</h4>
+        <p style="margin:10px;">
          The Singapore Centre for Chinese Language (SCCL) aims to promote the development of Chinese language and culture in Singapore. It focuses on researching innovative teaching and learning strategies to develop effective teaching methods for our bilingual environment.<br/><br />
             SCCL also publishes books for primary and secondary school students to help them experience the fun of learning Chinese. The latest examples are the Graded Book Series, New Stars Island and Creative Lion. These enjoyable stories with creative illustrations will definitely captivate the interest of students.
         </p>
