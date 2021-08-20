@@ -112,7 +112,8 @@ Minister for Education<br/>
 <img src="/images/Kunawathyammal.png" style="width:100%">
    </div>
    <p> <strong>Mdm Kunawathyammal <br/> d/o Kaliannan</strong><br/>
-Senior teaching Fellow <br/> in NIE Policy, Curriculum & Leadership <br/>
+Senior Teaching Fellow <br/> Policy, Curriculum and Leadership <br/>
+    National Institute of Education <br/>
 </p> </div>
     <br/>  
   <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
@@ -125,7 +126,7 @@ Mdm Kunawathyammal d/o Kaliannan is a Senior Teaching Fellow at NIE (Policy, Cur
    </div>
    <p> <strong>
 Ms Foo Wan Yueh</strong><br/>
-National Institute of <br/>Early Childhood Development<br/>
+Lecturer<br/>National Institute of <br/>Early Childhood Development<br/>
 </p> </div>
     <br/>  <br/>
   <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>  
@@ -138,7 +139,7 @@ Ms Foo Wan Yueh is a lecturer at the National Institute of Early Childhood Devel
    </div>
    <p> <strong>
 Ms Otelli Edwards </strong><br/>
-Anchor, Mediacorp/Parent<br/>
+Presenter<br/> CNA<br/>
 </p> </div>
     <br/>  <br/>
   <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
@@ -150,7 +151,7 @@ Anchor, Mediacorp/Parent<br/>
    </div>
    <p> <strong>
 Mr Anbarasu Rajendran </strong><br/>
-Chief Executive officer at SINDA<br/>
+Chief Executive Officer <br/> Singapore Indian Development Association<br/>
 </p> </div>
     <br/>  <br/>
    <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
@@ -163,7 +164,7 @@ Chief Executive officer at SINDA<br/>
    </div>
    <p> <strong>
 Mdm Iryamaya Binti Amin </strong><br/>
-Malay Teacher at PCF <br/> Sparkletots @ Sembawang Blk 755<br/>
+2020 Outstanding Pre-school <br/> Mother Tongue Language <br/> Teacher Award Recipient <br/>
 </p>
 </div>
     <br/>  <br/>
