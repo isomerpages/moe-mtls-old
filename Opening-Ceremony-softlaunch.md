@@ -22,7 +22,7 @@ width:80% ;
   gtag('config', 'AW-726049306');
 </script>
 <div>
-<p>Join us on 28 August 2021 at 9am as we bring you the Opening and Award Ceremony of the Mother Tongue Languages Symposium 2021 ‘live’ from our venue.</p>
+<p>Join us on 28 August 2021 at 9am as we bring you the Opening and Award Ceremony of the Mother Tongue Languages Symposium 2021 ‘live’ from Suntec Singapore Convention & Exhibition Centre.</p>
  
 <table>
   <tr>
@@ -35,7 +35,7 @@ width:80% ;
       Opening Address by Guest of Honour, Mr Heng Swee Keat<br/>
       Deputy Prime Minister and Coordinating Minister for Economic Policies<br/><br/>
       Presentation of Awards to OPMTL Winners 2021<br/><br/>
-      Performance by Schools<br/><br/>
+      Well wishes video<br/><br/>
       Appreciation for Community Partners
     </td>
   </tr>
