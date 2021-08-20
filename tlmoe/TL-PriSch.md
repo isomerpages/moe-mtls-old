@@ -74,7 +74,7 @@ margin-left:25px;
    </ul>
 <br/>
 <h4 id="C2"><span style="font-size:30px;color:purple;">மகிழ்வூட்டும் கற்றல்  </span></h4>
- <img src="/images/TL Pri_UpdatedPicture1.png" style="margin-top: -8px;"><br/><br/>
+ <img src="/tlmoe/TL-Pri_Graphic01.png"><br/><br/>
 </p>
  
 <img src="/tlmoe/TL-Pri_Poster01.jpg">
@@ -105,7 +105,7 @@ margin-left:25px;
 <br/><br/>
 <h4 id="C5"><span style="font-size:30px;color:purple;">ஈடுபாடுமிகுந்த கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் </span></h4> <br/>
 
-<img src="/tlmoe/image2.png"><br/>
+<img src="/tlmoe/TL-Pri_Graphic02.png"><br/>
  <p style="text-align:justify;">மாணவர்கள் பாடப்பகுதிகளைப் படித்துக் கருத்துணர உதவும் வகையில் பற்பல உத்திகள் கற்பிக்கப்படுகின்றன. இவை மாணவர்கள் பகுதிகளைப் பொருளுணர்ந்து படித்துப் புரிந்துகொண்டு வினாக்களுக்கு விடையளிக்க உதவுகின்றன.</p><br/>
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
