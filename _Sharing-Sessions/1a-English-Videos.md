@@ -102,7 +102,7 @@ Ministry of Social and Family Developmet
    </div>
    <p> <strong>Mr Heng Swee Keat</strong><br/>
 Deputy Prime Minister and Coordinating Minister for Economic Policies<br/>
-</p>
+</p> </div>
      <div class="row">
  <div class="column">
 <img src="/images/Minister-Chan-Chun-Sing.jpg" style="width:100%">
@@ -110,7 +110,7 @@ Deputy Prime Minister and Coordinating Minister for Economic Policies<br/>
    <p> <strong>
 Mr Chan Chun Sing</strong><br/>
 Minister for Education<br/>
-</p>
+</p> </div>
 <h4 style="padding-top:12px;margin:10px;color:#fa0;">Panelists</h4>
        <div class="row">
  <div class="column">
@@ -118,7 +118,7 @@ Minister for Education<br/>
    </div>
    <p> <strong>Mdm Kunawathyammal d/o Kaliannan</strong><br/>
 Senior teaching Fellow in NIE Policy, Curriculum & Leadership <br/>
-</p>
+</p> </div>
          <div class="row">
  <div class="column">
 <img src="/images/Ms-Foo-Panelist.jpg" style="width:100%">
@@ -126,7 +126,7 @@ Senior teaching Fellow in NIE Policy, Curriculum & Leadership <br/>
    <p> <strong>
 Ms Foo Wan Yueh</strong><br/>
 National Institute of Early Childhood Development<br/>
-</p>
+</p> </div>
  <div class="row">
  <div class="column">
 <img src="/images/Otelli-Edwards.jpg" style="width:100%">
@@ -134,7 +134,7 @@ National Institute of Early Childhood Development<br/>
    <p> <strong>
 Ms Otelli Edwards </strong><br/>
 Anchor, Mediacorp/Parent<br/>
-</p>
+</p> </div>
              <div class="row">
  <div class="column">
 <img src="/images/Mr-Anbarasu.jpg" style="width:100%">
@@ -142,7 +142,7 @@ Anchor, Mediacorp/Parent<br/>
    <p> <strong>
 Mr Anbarasu Rajendran </strong><br/>
 Chief Executive officer at SINDA<br/>
-</p>
+</p> </div>
                <div class="row">
  <div class="column">
 <img src="/images/iryamaya.jpg" style="width:100%">
