@@ -88,8 +88,8 @@ max-width:40%;
  <div class="column">
 <img src="/images/Sun-Xueling.png" style="width:100%">
    </div>
-   <p> <strong>MODERATOR </strong> <br/>
-Ms Sun Xueling<br/>
+   <p> <strong>Ms Sun Xueling</strong> <br/>
+MODERATOR <br/>
 Minister of State<br/>
 Ministry of Education <br/>
 Ministry of Social and Family Developmet
