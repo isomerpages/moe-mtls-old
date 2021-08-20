@@ -199,28 +199,28 @@ Ibu bapa boleh menyokong pembelajaran dan pembangunan bahasa Ibunda anak anda di
    <label for="tab-3" class="lbML">Siapakah Saya?
 </label>
      <div class="tab-content">
-      <img src="/images/ML Curriculum Preschool V2-05.jpg">
+      <img src="/mlmoe/ML-Preschool_Poster01.jpg">
   </div></div>
  <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
    <label for="tab-4" class="lbML">Siapakah Orang-orang dan Apakah Tempat-tempat di Sekeliling Saya?
 </label>
      <div class="tab-content">
-      <img src="/images/ML Curriculum Preschool V2-06.jpg">
+      <img src="/mlmoe/ML-Preschool_Poster02.jpg">
   </div></div>
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
    <label for="tab-5" class="lbML">Dengan Siapakah Saya Berkongsi Dunia ini?
 </label>
      <div class="tab-content">
-      <img src="/images/ML Curriculum Preschool V2-07.jpg">
+      <img src="/mlmoe/ML-Preschool_Poster03.jpg">
   </div></div>
  <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
    <label for="tab-6" class="lbML">Bagaimanakah Sesuatu Benda atau Perkara Berfungsi?
 </label>
      <div class="tab-content">
-      <img src="/images/ML Curriculum Preschool V2-08.jpg">
+      <img src="/mlmoe/ML-Preschool_Poster04.jpg">
       <p style="text-align:justify;">Anda juga boleh membuat salinan aktiviti-aktiviti di bawah ini untuk dibuat di rumah bersama anak/ waris anda:</p>
 <ul>
   <li style="text-align:justify;"><a href="/mlmoe/ML Presch - Kenali Bahagian Bunga.pdf" target="_blank"><u>Kenali Bahagian Bunga</u></a></li>
