@@ -292,7 +292,7 @@ Ms Diana Ser
 <td style="border:0 none;padding: 0; margin:0;">
  <div class="atab atab3Line" >
       <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5" class="lbeng">Learning Tamil at Home Can Be Fun!<br/>Dr NirmalaKaruppiah <br/>
+      <label for="tab-5" class="lbeng">Learning Tamil at Home Can Be Fun!<br/>Dr Nirmala Karuppiah <br/>
 Mr Jaya Ganesh Isuran</label>
   <div class="tab-content">      
        <br/>
