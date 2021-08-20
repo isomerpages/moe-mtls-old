@@ -142,7 +142,7 @@ Anchor, Mediacorp/Parent<br/>
     <br/>  <br/>
              <div class="row">
  <div class="column">
-<img src="/images/Mr-Anbarasu.jpg" style="width:100%">
+<img src="/images/" style="width:100%">
    </div>
    <p> <strong>
 Mr Anbarasu Rajendran </strong><br/>
