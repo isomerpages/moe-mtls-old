@@ -101,7 +101,8 @@ Ministry of Social and Family Developmet
 <img src="/images/Speakers_GOH .png" style="width:100%">
    </div>
    <p> <strong>Mr Heng Swee Keat</strong><br/>
-Deputy Prime Minister and Coordinating Minister for Economic Policies<br/>
+Deputy Prime Minister and Coordinating<br/>
+    Minister for Economic Policies<br/>
 </p> </div>
     <br/>  <br/>
      <div class="row">
@@ -114,6 +115,7 @@ Minister for Education<br/>
 </p> </div>
     <br/>  <br/>
 <h4 style="padding-top:12px;margin:10px;color:#fa0;">Panelists</h4>
+  <br/>
        <div class="row">
  <div class="column">
 <img src="/images/Kunawathyammal.png" style="width:100%">
@@ -128,7 +130,7 @@ Senior teaching Fellow in NIE Policy, Curriculum & Leadership <br/>
    </div>
    <p> <strong>
 Ms Foo Wan Yueh</strong><br/>
-National Institute of Early Childhood Development<br/>
+National Institute of <br/>Early Childhood Development<br/>
 </p> </div>
     <br/>  <br/>
  <div class="row">
