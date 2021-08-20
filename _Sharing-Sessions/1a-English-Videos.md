@@ -154,7 +154,7 @@ Malay Teacher at PCF Sparkletots @ Sembawang Blk 755<br/>
 </div>
 <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>    
 <p style="margin:10px;">
-MdmKunawathyammal d/o Kaliannan is a Senior Teaching Fellow at NIE (Policy, Curriculum & Leadership). She has served many years in the field of education, holding various positions, such as HOD(Affective Education), Vice Principal and Lecturer. She is currently teaching the Character and Citizenship Education module that includes the aspect of partnership with parents as stakeholders for character-building in children. 
+Mdm Kunawathyammal d/o Kaliannan is a Senior Teaching Fellow at NIE (Policy, Curriculum & Leadership). She has served many years in the field of education, holding various positions, such as HOD(Affective Education), Vice Principal and Lecturer. She is currently teaching the Character and Citizenship Education module that includes the aspect of partnership with parents as stakeholders for character-building in children. 
 </p><br/>
  <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>  
  <p style="margin:10px;">
@@ -168,7 +168,7 @@ Ms Foo Wan Yueh is a lecturer at the National Institute of Early Childhood Devel
               Though currently active in the social service sector, Mr Anbarasu is still connected to education as he sits in various MOE committees like COMPASS, Uplift and the President Teacher Award jury.</p>
               <br/>
     <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
-<p style="margin:10px;">	MdmIryamaya Binti Amin is a recipient of the 2020 Outstanding Pre-school Mother Tongue Language Teacher Award. Currently, she is teaching Malay Language at PCF Sparkletots @ Sembawang Blk 755. </p>        
+<p style="margin:10px;">	Mdm Iryamaya Binti Amin is a recipient of the 2020 Outstanding Pre-school Mother Tongue Language Teacher Award. Currently, she is teaching Malay Language at PCF Sparkletots @ Sembawang Blk 755. </p>        
 </div></div> </td>
 <td style="border:0 none;padding: 0;" class="btnImg">
   </td>
