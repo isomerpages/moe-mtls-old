@@ -89,7 +89,7 @@ max-width:40%;
 <img src="/images/Sun-Xueling.png" style="width:100%">
    </div>
    <p> <strong>Ms Sun Xueling</strong> <br/>
-MODERATOR <br/>
+Moderator <br/>
 Minister of State<br/>
 Ministry of Education <br/>
 Ministry of Social and Family Developmet
