@@ -11,10 +11,11 @@ third_nav_title: 'Overview'
 .btnClass{
   background-color: #3BB9FF;!important; 
   color: white !important;
+   width:31% !important;
 }
 .btnClass:hover {
 background-color: lightgrey;!important;
-  width:31%;
+ 
 }
 </style>
 </head>
