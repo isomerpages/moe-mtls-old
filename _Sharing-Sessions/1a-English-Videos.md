@@ -63,6 +63,12 @@ max-width:40%;
   width:69%;
   }
 }
+ @media only screen and (max-width: 600px) {
+   .col1{
+  width:69%;
+  }
+}
+ 
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -87,7 +93,7 @@ max-width:40%;
    <h4 style="padding-top:12px;margin:10px;color:#fa0;">Panelists</h4>
   <br/>
    <div class="row">
- <div class="column">
+ <div class="column col1">
 <img src="/images/Chan-Chun-Sing.png" style="width:100%">
    </div>
    <p style="margin-left: -4px;"> <strong>
