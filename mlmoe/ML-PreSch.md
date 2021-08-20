@@ -112,7 +112,7 @@ margin-left:25px;
    <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-b/moe-curriculum/"  class="btn" style="float:left;">Previous</a>
 <a href="/mlmoe/ml-prisch/" class="btn" style="float:right;">Next</a>
  <br/>
-<img src="/images/ML-Pre-Sch-Header.jpg"><br/>
+<img src="/mlmoe/ML-Preschool_Header-Banner.jpg"><br/>
  <a href="#C2" style="font-size:20px"><span style="color:blue;">Pendekatan Membaca Bersama
 </span></a><br/>
 <a href="#C3" style="font-size:20px"><span style="color:blue;">PROJEK MuM
