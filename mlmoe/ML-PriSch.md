@@ -109,43 +109,8 @@ margin-left:25px;
  <a href="#C2" style="font-size:20px"><span style="color:blue;font-family:Calibri">Sokongan Ibu Bapa</span></a>
 </p>
 <br/>
-  <p><strong>Matlamat Kurikulum Bahasa Melayu adalah untuk membolehkan murid </strong></p>
-  <ul>
-    <li><strong>berkomunikasi</strong> secara efektif dalam kehidupan seharian dan untuk berdaya saing; 
-</li>
-    <li>memahami dan membina jati diri melalui penghayatan yang mendalam tentang <strong>budaya</strong>, tradisi, sastera dan sejarah; dan
-</li>
-    <li><strong>berhubung</strong> dengan masyarakat Nusantara dan dunia yang bertutur dalam bahasa atau berkongsi budaya yang sama.
-</li>
-  </ul>
-<div class="atab">
-      <input id="tab-1" type="checkbox" name="tab">
-   <label for="tab-1" style="font-size:25px;" class="lbML">Objektif Kurikulum Bahasa Melayu</label>
-     <div class="tab-content">
-       <p style="text-align:justify;">Pada akhir pengajaran dan pembelajaran Bahasa Melayu di sekolah rendah, murid dapat:
-       <ol type="i">
-           <li style="text-align:justify;margin: 2%;">mendengar dan memahami pengucapan dengan teliti;</li>
-           <li style="text-align:justify;margin: 2%;">bertutur dengan petah menggunakan sebutan baku dan intonasi yang betul;</li>
-           <li style="text-align:justify;margin: 2%;">membaca pelbagai bahan bercetak dan bahan media elektronik dan memberikan respons yang sesuai;</li>
-           <li style="text-align:justify;margin: 2%;">menulis pelbagai jenis teks berdasarkan pelbagai tajuk yang sesuai;</li>
-           <li style="text-align:justify;margin: 2%;">berinteraksi secara lisan dengan menggunakan sebutan baku;</li>
-           <li style="text-align:justify;margin: 2%;"> berinteraksi secara bertulis mengenai pelbagai tajuk yang sesuai;</li>
-           <li style="text-align:justify;margin: 2%;"> berfikir secara kreatif, kritis dan kritikal;</li>
-           <li style="text-align:justify;margin: 2%;">mengenali dan memahami budaya dan nilai-nilai murni masyarakat Melayu dan kaum-kaum lain; dan</li>
-          <li style="text-align:justify;margin: 2%;">memupuk minat membaca dan menjadikannya amalan ke arah membina budaya belajar sepanjang hayat.</li>
-           </ol> 
-       </p>
-       </div></div>
-<ul><p style="text-align:justify;">
-<li style="text-align:justify;">Bahasa Melayu merupakan salah satu subjek Bahasa Ibunda yang ditawarkan di sekolah rendah. Murid-murid diberikan peluang untuk mempelajari Bahasa Melayu setinggi mana yang terdaya dan sejauh mana yang termampu. 
-</li>
-<li style="text-align:justify;">Di sekolah, Kurikulum Bahasa Melayu Sekolah Rendah dijalankan dengan menggunakan pendekatan yang berpusatkan murid.  Pengajaran yang dijalankan bersifat interaktif agar murid-murid mudah mempelajari dan memahami pelajaran yang diikuti. Memandangkan murid yang memasuki sekolah rendah mempunyai latar belakang bahasa yang pelbagai, keperluan pembelajaran mereka juga seharusnya berbeza-beza. Oleh itu, pembelajaran pembezaan harus ditekankan untuk memenuhi keupayaan yang pelbagai ini. 
-</li>
-<li style="text-align:justify;">Murid yang mempunyai pelbagai keupayaan juga akan disokong untuk membina kecekapan bahasa dan budaya. Hal ini bukan sahaja dapat mengekalkan minat mereka untuk menggunakan dan menguasai bahasa Ibunda, malahan untuk menggunakan bahasa itu sebagai alat komunikasi secara berkesan.
-</li>
-</p>
-</ul>
-  <img src="/mlmoe/ML-Pri_Poster01.jpg" class="image">  <br/>
+  <img src="/mlmoe/ML-Pri_Poster01.jpg">
+  <img src="/mlmoe/ML-Pri_Poster02.jpg" class="image">  <br/>
  
  <p id="C1" style="font-size:30px;color:black"><strong>BAHAN 
 PENGAJARAN DAN PEMBELAJARAN
@@ -157,13 +122,13 @@ PENGAJARAN DAN PEMBELAJARAN
       <input id="tab-2" type="checkbox" name="tab">
   <label for="tab-2" class="lbML">- Dekat dengan kehidupan murid </label>
      <div class="tab-content">
-       <img src="/mlmoe/ML-Pri_Poster02.jpg">  
+       <img src="/mlmoe/ML-Pri_Poster03.jpg">  
        </div></div>
        <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
    <label for="tab-3" class="lbML">- Kaya dan pelbagai</label>
      <div class="tab-content">
-       <img src="/mlmoe/ML-Pri_Poster03.jpg">  
+       <img src="/mlmoe/ML-Pri_Poster04.jpg">  
        </div></div>
        <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
@@ -178,7 +143,7 @@ PENGAJARAN DAN PEMBELAJARAN
        <img src="/images/ML-10.png">  
        </div></div>
       <p id="C2" style="font-size:30px;"><strong>SOKONGAN IBU BAPA</strong><br/><br/>
-      <img src="/images/ML-PRI_Image4.jpg"> 
+      <img src="/mlmoe/ML-Pri_Poster05.jpg"> 
       </p>
 <p style="font-size:25px;text-align:justify;"> Ibu bapa boleh bermain beberapa permainan dengan anak anda agar dapat meningkatkan dan meluaskan kosa kata anak. </p>
 <div class="atab">
