@@ -6,7 +6,6 @@ published: true
 collection_name: Exhibits
 third_nav_title: 'Pameran Bahasa Melayu'
 ---
-### Gambaran Keseluruhan
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
 <script>
@@ -15,6 +14,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
   gtag('js', new Date());
   gtag('config', 'AW-726049306');
 </script>
+<h2 style=" color:#a3c864;">Gambaran Keseluruhan</h2>
 <a href="/Exhibits/pameran- bahasa- melayu-malay-language-exhibitions-b/moe-curriculum/">
   <img src="/images/MTLS_Overview_Banners_V5_ML-MOE.jpg"></a>
   <br/>
