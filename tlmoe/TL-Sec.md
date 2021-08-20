@@ -110,7 +110,7 @@ margin-left:25px;
  <a href="/tlmoe/tl-preu/" class="btn" style="float:right;">Next</a>
  <br/>
 <img src="/images/TL-Sec_Header.jpg"><br/>
-<span style="vertical-align:middle;">
+<center>
  <a href="#C5" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 12px 14px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">அறிமுகம்</a>
  <a href="#C1" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 12px 14px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0; text-align:center;">உயர்நிலைப்<br/>பாடக்கலைத்திட்டங்கள்</a>
  <a href="#C2" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 12px 14px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழி</a>
@@ -119,7 +119,7 @@ margin-left:25px;
  <a href="#C4" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 12px 14px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0; text-align:center;">புதிய கூறுகளும் புதிய<br/>முயற்சிகளும்</a>
  <a href="#C6" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 12px 14px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியம்</a>
  <a href="#C7" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 12px 14px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0; text-align:center;">தமிழ்மொழி<br/>விருப்பப்பாடத் திட்டம்</a>
- </span>
+ </center>
  
   <h2 id="C5" style="font-family:Anjal New InaiMathi Sch Book; font-size:36px; font-weight:bold; text-align:center;">அறிமுகம் </h2> 
 <table style="  border-collapse: collapse;
@@ -221,14 +221,13 @@ margin-left:25px;
   <iframe width="560" height="315" src="https://www.youtube.com/embed/grfbtAhjzxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
    </div></div>
 <br/>
-  <img src="/images/TL-Sec_Poster11.jpg">
-<br/>
-  
    <h2 id="C6" style="font-family:Anjal New InaiMathi Sch Book;  font-size:36px; font-weight:bold; text-align:center;">தமிழ் இலக்கியம்</h2>
  <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; font-size:24px;">
  <span style="font-family:Anjal New InaiMathi Sch Book; font-weight:bold; color:purple;">உயர்நிலை 3-இல்</span> பயிலும் மாணவர்களுக்குத் தமிழ் இலக்கியம் ஒரு பாடமாக வழங்கப்படுகிறது. <br/>
  இப்பாடத்தைப் பயில விரும்பும் மாணவர்கள் உயர்நிலை 2 இறுதியில் <strong>தமிழ்மொழியில்</strong> A2 அல்லது <strong>உயர்தமிழில் </strong>B3 பெற்றிருத்தல் வேண்டும். </p>
 <img src="/images/TL-Sec_Poster10.jpg"><br/>
+  <img src="/images/TL-Sec_Poster11.jpg">
+<br/>
   <a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019</a><br/>
   <img src="/images/TL-Sec_Poster12.jpg">
 
