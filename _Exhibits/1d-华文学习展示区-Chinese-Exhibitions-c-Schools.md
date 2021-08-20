@@ -57,7 +57,7 @@ third_nav_title: '华文学习展示区'
 </script>
 </head>
 <body>
-    <div>  <h2 style="font-family:KaiTi">中小学</h2></div>
+    <div>  <h2 style="font-family:KaiTi;color:#d84178;">中小学</h2></div>
     <br/>
   <table class="tbl">
 
