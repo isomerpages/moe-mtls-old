@@ -90,7 +90,7 @@ max-width:40%;
  <div class="column">
 <img src="/images/Chan-Chun-Sing.png" style="width:100%">
    </div>
-   <p> <strong>
+   <p style="margin-left: -4px;"> <strong>
 Mr Chan Chun Sing</strong><br/>
 Minister for Education<br/>
 </p> </div>
