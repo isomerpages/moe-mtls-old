@@ -109,8 +109,8 @@ margin-left:25px;
 <a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Previous</a>
  <a href="/tlmoe/tl-preu/" class="btn" style="float:right;">Next</a>
  <br/>
-<img src="/images/TL-Sec_Header.jpg"><br/>
-<center>
+<img src="/images/TL-Sec_Header.jpg">
+<center><p style="vertical-align:middle;">
  <a href="#C5" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 8px 10px; color: #ffffff; border-radius: 10px; display: inline-block; miso-padding-alt: 0;">அறிமுகம்</a>
  <a href="#C1" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 8px 10px; color: #ffffff; border-radius: 10px; display: inline-block; miso-padding-alt: 0; text-align:center;">உயர்நிலைப்<br/>பாடக்கலைத்திட்டங்கள்</a>
  <a href="#C2" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 8px 10px; color: #ffffff; border-radius: 10px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழி</a>
@@ -119,7 +119,7 @@ margin-left:25px;
  <a href="#C4" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 8px 10px; color: #ffffff; border-radius: 10px; display: inline-block; miso-padding-alt: 0; text-align:center;">புதிய கூறுகளும்<br/>புதிய முயற்சிகளும்</a>
  <a href="#C6" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 8px 10px; color: #ffffff; border-radius: 10px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியம்</a>
  <a href="#C7" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 8px 10px; color: #ffffff; border-radius: 10px; display: inline-block; miso-padding-alt: 0; text-align:center;">தமிழ்மொழி<br/>விருப்பப்பாடத் திட்டம்</a>
- </center>
+ </p></center>
  
   <h2 id="C5" style="font-family:Anjal New InaiMathi Sch Book; font-size:36px; font-weight:bold; text-align:center;">அறிமுகம் </h2> 
 <table style="  border-collapse: collapse;
