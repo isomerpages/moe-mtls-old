@@ -95,7 +95,7 @@ Ministry of Education <br/>
 Ministry of Social and Family Developmet
 </p>
    </div>
-   <br/>
+   <br/>  <br/>
    <div class="row">
  <div class="column">
 <img src="/images/Speakers_GOH .png" style="width:100%">
@@ -103,6 +103,7 @@ Ministry of Social and Family Developmet
    <p> <strong>Mr Heng Swee Keat</strong><br/>
 Deputy Prime Minister and Coordinating Minister for Economic Policies<br/>
 </p> </div>
+    <br/>  <br/>
      <div class="row">
  <div class="column">
 <img src="/images/Chan-Chun-Sing.png" style="width:100%">
@@ -111,6 +112,7 @@ Deputy Prime Minister and Coordinating Minister for Economic Policies<br/>
 Mr Chan Chun Sing</strong><br/>
 Minister for Education<br/>
 </p> </div>
+    <br/>  <br/>
 <h4 style="padding-top:12px;margin:10px;color:#fa0;">Panelists</h4>
        <div class="row">
  <div class="column">
@@ -119,6 +121,7 @@ Minister for Education<br/>
    <p> <strong>Mdm Kunawathyammal d/o Kaliannan</strong><br/>
 Senior teaching Fellow in NIE Policy, Curriculum & Leadership <br/>
 </p> </div>
+    <br/>  <br/>
          <div class="row">
  <div class="column">
 <img src="/images/Foo-Wan-Yueh.png" style="width:100%">
@@ -127,6 +130,7 @@ Senior teaching Fellow in NIE Policy, Curriculum & Leadership <br/>
 Ms Foo Wan Yueh</strong><br/>
 National Institute of Early Childhood Development<br/>
 </p> </div>
+    <br/>  <br/>
  <div class="row">
  <div class="column">
 <img src="/images/Otelli-Edwards.png" style="width:100%">
@@ -135,6 +139,7 @@ National Institute of Early Childhood Development<br/>
 Ms Otelli Edwards </strong><br/>
 Anchor, Mediacorp/Parent<br/>
 </p> </div>
+    <br/>  <br/>
              <div class="row">
  <div class="column">
 <img src="/images/Mr-Anbarasu.jpg" style="width:100%">
@@ -143,6 +148,7 @@ Anchor, Mediacorp/Parent<br/>
 Mr Anbarasu Rajendran </strong><br/>
 Chief Executive officer at SINDA<br/>
 </p> </div>
+    <br/>  <br/>
                <div class="row">
  <div class="column">
 <img src="/images/Iryamaya -binti-Amin.png" style="width:100%">
@@ -152,7 +158,9 @@ Mdm Iryamaya Binti Amin </strong><br/>
 Malay Teacher at PCF Sparkletots @ Sembawang Blk 755<br/>
 </p>
 </div>
-<h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>    
+    <br/>  <br/>
+<h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4> 
+    <br/>
 <p style="margin:10px;">
 Mdm Kunawathyammal d/o Kaliannan is a Senior Teaching Fellow at NIE (Policy, Curriculum & Leadership). She has served many years in the field of education, holding various positions, such as HOD(Affective Education), Vice Principal and Lecturer. She is currently teaching the Character and Citizenship Education module that includes the aspect of partnership with parents as stakeholders for character-building in children. 
 </p><br/>
