@@ -65,7 +65,7 @@ max-width:40%;
 }
  @media only screen and (max-width: 600px) {
    .col1{
- margin-left:15px;
+ margin-left:22px;
   }
 }
  
