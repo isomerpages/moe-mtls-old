@@ -143,7 +143,7 @@ Presenter<br/> CNA<br/>
 </p> </div>
     <br/>  <br/>
   <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
-<p style="margin:10px;">Ms Otelli Edwards has worked in various Mediacorp companies starting as a sports journalist and producing and hosting nightly news shows. She has also produced current affairs and news programmes for Mediacorp’s news radio station, 93.8 LIVE. Prior to joining CNA, she was a feature writer  withHer World magazine and has interviewed high-flying women. She is a mother of five-year-old twin boys. </p>
+<p style="margin:10px;">Ms Otelli Edwards has worked in various Mediacorp companies starting as a sports journalist and producing and hosting nightly news shows. She has also produced current affairs and news programmes for Mediacorp’s news radio station, 93.8 LIVE. Prior to joining CNA, she was a feature writer  with Her World magazine and has interviewed high-flying women. She is a mother of five-year-old twin boys. </p>
               <br/>
   <div class="row">
  <div class="column">
