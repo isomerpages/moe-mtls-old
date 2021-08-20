@@ -8,20 +8,31 @@ third_nav_title: 'Overview'
 <html>
 <head>
 <style>
-.btnClass{
+.btnClass1{
+  display:inline-block;
+  padding: 15px 20px;
+  text-align:center;
+  text-decoration:none;
   background-color: #3BB9FF;!important; 
   color: white !important;
+  border-radius:6px;
+  outline:none;
+  cursor:pointer;
+  margin-right: 10px;
+  margin-bottom: 7px;
    width:31% !important;
+  
 }
-.btnClass:hover {
+.btnClass1:hover {
 background-color: lightgrey;!important;
- 
-}
+ }
+  
+  
 </style>
 </head>
 <body>
-<a href="/exhibits/华文学习展示区-chinese-exhibitions-a/总览/"> <div style="display:inline-block; font-family:KaiTi;font-size:25px;" class="btnClass">华文学习展示区<br/>&nbsp;</div></a>
-<a href="/exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-a/Gambaran-Keseluruhan/" ><div style="display:inline-block; font-family:KaiTi;font-size:25px;" class="btnClass">Pameran Bahasa Melayu</div></a>
-<a href="/exhibits/தமிழ்மொழிக்-காட்சிக்கூடம்-Tamil-Exhibitions-a/உள்ளடக்கம்/"> <div style="display:inline-block; font-family:KaiTi;font-size:25px;" class="btnClass">தமிழ்மொழிக் காட்சிக்கூடம்</div></a>
+<a href="/exhibits/华文学习展示区-chinese-exhibitions-a/总览/"> <div style="display:inline-block; font-family:KaiTi;font-size:25px;" class="btnClass1">华文学习展示区<br/>&nbsp;</div></a>
+<a href="/exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-a/Gambaran-Keseluruhan/" ><div style="display:inline-block; font-family:KaiTi;font-size:25px;" class="btnClass1">Pameran Bahasa Melayu</div></a>
+<a href="/exhibits/தமிழ்மொழிக்-காட்சிக்கூடம்-Tamil-Exhibitions-a/உள்ளடக்கம்/"> <div style="display:inline-block; font-family:KaiTi;font-size:25px;" class="btnClass1">தமிழ்மொழிக் காட்சிக்கூடம்</div></a>
 </body>
 </html>
