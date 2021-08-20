@@ -100,7 +100,7 @@ Mdm Nie Bing</label>
    <p> <strong>Mdm Nie Bing</strong>
 </p>
    </div>
-      <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Learning Mother Tongue is Cool at Home and in School too! - Strategies to Motivate Children to Love MTL</h4>
+      <h4 style="padding-top:12px;margin:10px;color:#fa0">Learning Mother Tongue is Cool at Home and in School too! - Strategies to Motivate Children to Love MTL</h4>
 <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4>    
 <p style="margin:10px;">
 An advocate for the creative arts, Mrs Dianne Seet began her career in early childhood education as a music teacher at Ascension Kindergarten in 2006. Her passion for early childhood education led her further to complete her Specialist Diploma in Early Childhood in 2008 to lead the kindergarten in pushing boundaries in children education. Today, she is an ECDA Fellow and SkillsFuture Fellowship Award winner who advocates lifelong learning amongst staff and stakeholders.  
@@ -130,7 +130,7 @@ Mdm Nie Bing has 17 years of pre-school education experience and has taught in A
    <p> <strong> A/P  Leher Singh</strong>
 </p>
    </div>
-       <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Raising Bilingual Children: Challenges, Opportunities and Strategies for Success</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#fa0;">Raising Bilingual Children: Challenges, Opportunities and Strategies for Success</h4>
        <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4></p>
        <p style="margin:10px;">A/P Leher Singh is an Associate Professor of Psychology at the National University of Singapore. She directs the NUS Infant and Child Language Centre. Her research focuses on the impact of bilingualism on language acquisition, social development and cognitive growth in young children. She has published more than 50 research articles on bilingual development and conducts research on how language in bilingual children differs from that of monolingual peers.</p>
   <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Synopsis</h4></p>  
@@ -167,7 +167,7 @@ Ms Diana Ser
    <p> <strong>  Ms Diana Ser </strong>
 </p>
    </div>
-       <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Raising a Bilingual Reader: Top Practical Tips for Parents</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#fa0;">Raising a Bilingual Reader: Top Practical Tips for Parents</h4>
        <p><h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4></p>
        <p style="margin:10px;">Dr. Sabrina Sun He is a research scientist at the National Institute of Education, Nanyang Technological University, Singapore . Her research interests include: 1) Child Mother Tongue Language learning and e-book reading for children, 2) individual differences in early bilingualism, and 3) harmonious bilingual experience. Her research explores how cognition and environment co-shape the developmental rate and route of early bilingualism, and how the bilingual experience influences children’s social-emotional skills and executive function.</p>
  
@@ -214,7 +214,7 @@ Mr Jaya Ganesh Isuran</label>
    <p> <strong>Mr Jaya Ganesh Isuran</strong>
 </p>
    </div>
-      <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Learning Tamil at Home Can Be Fun!</h4>
+      <h4 style="padding-top:12px;margin:10px;color:#fa0;">Learning Tamil at Home Can Be Fun!</h4>
 <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile</h4>    
 <p style="margin:10px;">
 Dr NirmalaKaruppiah is Head, Education for the Centre for Research in Child Development (CRCD) at the National Institute of Education. She has served several years in early childhood education, holding various positions including lecturer, practicum supervisor, research advisor and curriculum consultant. Her research interests include teacher-child interactions, children’s use of screen devices, and diversity and social justice. She has conducted various talks and workshops for parents and teachers and has published books, CD-ROMs and articles in local media and international journals. She has also presented at several local and international conferences. Her work experience spans several countries including Australia, Cambodia, India, Indonesia and Malaysia.
