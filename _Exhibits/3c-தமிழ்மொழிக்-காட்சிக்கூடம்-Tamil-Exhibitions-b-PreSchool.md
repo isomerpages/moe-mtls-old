@@ -76,7 +76,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
           <p><h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">Let’s Work Together to Develop Early Childhood Bilingualism!</h4></p>
           <p style="margin:10px;">MOE Kindergarten @ Punggol Green nurtures early childhood bilingualism through a centre-based programme to build children’s confidence in using English and their Mother Tongue Language (MTL) in school and at home. Through this programme, the centre partners parents in supporting children’s bilingualism and helping them manage changes in school and at home. 
 <br/>
-Using interesting and interactive activities in a variety of meaningful and authentic situations, MTL becomes a living language as children see the relevance of MTL to everyday activities and to enjoy speaking their MTL. The activities also enable children to practice the same values taught in school and at home
+Using interesting and interactive activities in a variety of meaningful and authentic situations, MTL becomes a living language as children see the relevance of MTL to everyday activities and to enjoy speaking their MTL. The activities also enable children to practice the same values taught in school and at home.
  </p>
           </div>
 </div>
