@@ -35,7 +35,11 @@ third_nav_title: 'Overview'
 .btnClass1:hover {
 background-color: lightgrey;!important;
  }
-  
+  @media screen and (max-width: 800px) {
+ .btnClass1{
+    width: 69%; 
+  }
+}
   
 </style>
 </head>
