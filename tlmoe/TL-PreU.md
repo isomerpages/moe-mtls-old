@@ -300,8 +300,16 @@ margin-left:25px;
  </strong></li><br/>
 </ul>
   <img src="/tlmoe/TL-PreU_Poster09.jpg"><br/>
- <a href="/tlmoe/tlep-jc_infosheet_students.pdf" target="_blank">TLEP JC Infosheet</a>
- <a href="/tlmoe/tlep-sec-infosheet-students-2019" target="_blank">TLEP Sec Infosheet</a><br/>
+  <center>
+ <div class="row">
+  <div class="column">
+    <a href="/tlmoe/tlep-jc_infosheet_students.pdf" target="_blank">TLEP JC Infosheet</a>
+  </div>
+  <div class="column">
+    <a href="/tlmoe/tlep-sec-infosheet-students-2019.pdf" target="_blank">TLEP Sec Infosheet</a>
+  </div>
+  </div></center>
+ <br/>
  Pending video
  <br/>
 <img src="/images/TL JC_Header06.png" align="left" style="width:50%;">
@@ -310,7 +318,7 @@ margin-left:25px;
 
 <img src="/images/TL PreU_Image05.jpg"><br/>
 <img src="/images/TL JC_Header11.png" align="left" style="width:50%;">
-<img src="/images/TL PreU_Image06.jpg">
+<img src="/tlmoe/TL-PreU_Poster10.jpg">
   <br/>
  
  <h4 id="C7"><img src="/images/TL JC_Header04.png"></h4>
