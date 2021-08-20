@@ -29,7 +29,7 @@ third_nav_title: 'Overview'
   cursor:pointer;
   margin-right: 10px;
   margin-bottom: 7px;
-   width:31% !important;
+   width:31%;
   
 }
 .btnClass1:hover {
