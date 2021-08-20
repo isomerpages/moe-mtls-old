@@ -86,7 +86,7 @@ max-width:40%;
        <br/>
   <div class="row">
  <div class="column">
-<img src="/images/Ms-Sun-Xueling.jpg" style="width:100%">
+<img src="/images/Sun-Xueling.png" style="width:100%">
    </div>
    <p> <strong>MODERATOR </strong> <br/>
 Ms Sun Xueling<br/>
@@ -98,14 +98,14 @@ Ministry of Social and Family Developmet
    <br/>
    <div class="row">
  <div class="column">
-<img src="/images/DPM-Heng-Swee-Keat.jpg" style="width:100%">
+<img src="/images/Speakers_GOH .png" style="width:100%">
    </div>
    <p> <strong>Mr Heng Swee Keat</strong><br/>
 Deputy Prime Minister and Coordinating Minister for Economic Policies<br/>
 </p> </div>
      <div class="row">
  <div class="column">
-<img src="/images/Minister-Chan-Chun-Sing.jpg" style="width:100%">
+<img src="/images/Chan-Chun-Sing.png" style="width:100%">
    </div>
    <p> <strong>
 Mr Chan Chun Sing</strong><br/>
@@ -114,14 +114,14 @@ Minister for Education<br/>
 <h4 style="padding-top:12px;margin:10px;color:#fa0;">Panelists</h4>
        <div class="row">
  <div class="column">
-<img src="/images/Mdm-Kunawathyammal- Kaliannan.jpg" style="width:100%">
+<img src="/images/Kunawathyammal.png" style="width:100%">
    </div>
    <p> <strong>Mdm Kunawathyammal d/o Kaliannan</strong><br/>
 Senior teaching Fellow in NIE Policy, Curriculum & Leadership <br/>
 </p> </div>
          <div class="row">
  <div class="column">
-<img src="/images/Ms-Foo-Panelist.jpg" style="width:100%">
+<img src="/images/Foo-Wan-Yueh.png" style="width:100%">
    </div>
    <p> <strong>
 Ms Foo Wan Yueh</strong><br/>
@@ -129,7 +129,7 @@ National Institute of Early Childhood Development<br/>
 </p> </div>
  <div class="row">
  <div class="column">
-<img src="/images/Otelli-Edwards.jpg" style="width:100%">
+<img src="/images/Otelli-Edwards.png" style="width:100%">
    </div>
    <p> <strong>
 Ms Otelli Edwards </strong><br/>
@@ -145,7 +145,7 @@ Chief Executive officer at SINDA<br/>
 </p> </div>
                <div class="row">
  <div class="column">
-<img src="/images/iryamaya.jpg" style="width:100%">
+<img src="/images/Iryamaya -binti-Amin.png" style="width:100%">
    </div>
    <p> <strong>
 Mdm Iryamaya Binti Amin </strong><br/>
