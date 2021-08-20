@@ -134,8 +134,8 @@ the SLS to share their views with their peers and showcase their learning. This 
        东源小学推展的“户外学习之旅”计划让低年级学生把华文课程的主题和内容与生活联系起来。<br/><br/>
 在此计划中，一年级学生在老师的带领下走进邻里社区，认识周围的生活环境，也去超市选购食材。二年级学生到校内的小菜园认识各种蔬果，然后回家与父母一起制作简单的菜肴。活动后，学生在“新加坡学生学习平台”（SLS）上分享心得。此计划成功地帮助学生巩固和深化了课堂所学，感受到华文的实用价值，体会到使用华语的乐趣。
 </p><br/>
-          <h4 style="margin:10px;">Our Outdoor Learning in East Spring</h4>
-        <p style="margin:10px;color:#d84178;">
+          <h4 style="margin:10px;color:#d84178;">Our Outdoor Learning in East Spring</h4>
+        <p style="margin:10px;">
       The Outdoor Learning Journey programme at East Spring Primary School incorporates themes from the Chinese textbook and enables students to connect classroom learning to their daily lives in authentic settings.  Primary One students tour the neighbourhood and purchase ingredients from the supermarket. Primary Two students visit the school garden to learn about fruits and vegetables. After the learning journeys, students are tasked to prepare a simple dish with their parents at home and share their takeaways on the Singapore Student Learning Space (SLS). Through this programme, learning is reinforced and deepened, and students experience the joy of using Chinese as a living language.
         </p>
       </div>
