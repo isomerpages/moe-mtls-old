@@ -39,10 +39,7 @@ td, th {
     margin:0;
     border-collapse: collapse;
 }
-  .tbl a {
-    position:absolute;
-    margin-left: -80px;
-}
+ 
 img {
  height:auto;
  max-width:100%;
@@ -65,7 +62,23 @@ max-width:40%;
   width:69%;
   }
 }
-
+.btnvideo{
+  background-color: #3BB9FF;!important; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  float:right;
+  border-radius:6px;
+ }
+ .btnvideo:hover {
+background-color: lightgrey;!important;
+ }
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -89,6 +102,10 @@ Ms Rilla Melati Bahri
 </label>
       <div class="tab-content">      
        <br/>
+       <a href="/ml/Ms-Asnida-Daud/"> <div class="btnvideo" style="font-size:16px;">
+    Watch video</div></a>
+  <br/>
+
   <div class="row">
  <div class="column">
 <img src="/images/ML-Mukhlis Abu Bakar.png" style="width:100%">
@@ -135,6 +152,10 @@ Ms Rilla Melati Bahri
 </label>
       <div class="tab-content">
        <br/>
+       <a href="/ml/Ms-Asnida-Daud/"> <div class="btnvideo" style="font-size:16px;">
+    Watch video</div></a>
+  <br/>
+
   <div class="row">
  <div class="column">
 <img src="/images/Speakers_ML Nurashikin Jasni.png" style="width:100%">
@@ -176,6 +197,10 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
 </label>
       <div class="tab-content">      
        <br/>
+       <a href="/ml/Ms-Asnida-Daud/"> <div class="btnvideo" style="font-size:16px;">
+    Watch video</div></a>
+  <br/>
+
   <div class="row">
  <div class="column">
 <img src="/images/Speakers_ML Haniman.png" style="width:100%">
@@ -211,6 +236,10 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
 </label>
       <div class="tab-content">      
        <br/>
+       <a href="/ml/Ms-Asnida-Daud/"> <div class="btnvideo" style="font-size:16px;">
+    Watch video</div></a>
+  <br/>
+
   <div class="row">
  <div class="column">
 <img src="/images/Speakers_ML Jumaini bte Ariff.png" style="width:100%">
@@ -247,6 +276,10 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
 </label>
       <div class="tab-content">      
        <br/>
+       <a href="/ml/Ms-Asnida-Daud/"> <div class="btnvideo" style="font-size:16px;">
+    Watch video</div></a>
+  <br/>
+
   <div class="row">
  <div class="column">
 <img src="/images/ML-Mariam Aljunied.png" style="width:100%">
@@ -284,6 +317,10 @@ In recent years, we often read about an increased number of children with specia
 </label>
       <div class="tab-content">      
        <br/>
+                              <a href="/ml/Ms-Asnida-Daud/"> <div class="btnvideo" style="font-size:16px;">
+    Watch video</div></a>
+  <br/>
+
   <div class="row">
  <div class="column">
 <img src="/images/ML-Zuzanita.png" style="width:100%">
@@ -322,6 +359,10 @@ What can educators and parents do to motivate young minds to love learning Malay
 </label>
       <div class="tab-content">      
        <br/>
+       <a href="/ml/Ms-Asnida-Daud/"> <div class="btnvideo" style="font-size:16px;">
+    Watch video</div></a>
+  <br/>
+
   <div class="row">
  <div class="column">
 <img src="/images/ML-Roksana.png" style="width:100%">
@@ -366,6 +407,10 @@ Statistics have shown that more children are growing up in English-speaking fami
 </label>
       <div class="tab-content">      
        <br/>
+       <a href="/ml/Ms-Asnida-Daud/"> <div class="btnvideo" style="font-size:16px;">
+    Watch video</div></a>
+  <br/>
+
   <div class="row">
  <div class="column">
 <img src="/images/ML-Nurain Syakirah.png" style="width:100%">
@@ -402,6 +447,10 @@ In Mdm Nurain Syakirah’s sharing, parents and educators will understand how re
 </label>
       <div class="tab-content">      
        <br/>
+       <a href="/ml/Ms-Asnida-Daud/"> <div class="btnvideo" style="font-size:16px;">
+    Watch video</div></a>
+  <br/>
+
   <div class="row">
  <div class="column">
 <img src="/images/ML-Herman Rothman.png" style="width:100%">

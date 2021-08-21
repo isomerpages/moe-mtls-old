@@ -29,10 +29,7 @@ third_nav_title: '华文学习展示区'
     margin:0;
     border-collapse: collapse;
 }
-.tbl a {
-    position:absolute;
-    margin-left: -100px;
-}
+
 .atab {
     margin-bottom: 5px;
     width: 87%;
@@ -46,6 +43,24 @@ third_nav_title: '华文学习展示区'
   width:69%;
   }
 }
+.btnvideo{
+  background-color: #3BB9FF;!important; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  float:right;
+  border-radius:6px;
+ }
+ .btnvideo:hover {
+background-color: lightgrey;!important;
+}
+
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -67,6 +82,11 @@ third_nav_title: '华文学习展示区'
       <input id="tab-6" type="checkbox" name="tab">
       <label for="tab-6" class="lbCh"><span style="font-size:25px;font-family:KaiTi">胜宝旺小学 </span><br/>Sembawang Primary School</label>
       <div class="tab-content">
+          <br/>
+<a href="/clmoe/聚英小学/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
+
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">说我所想</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
           胜宝旺小学配合课文主题，采用混合式教学模式，运用各种思维策略，发展高年级学生的会话与沟通技巧。在课前，教师通过“新加坡学生学习平台”（SLS）设计活动，让学生了解与课文主题相关的内容。课堂上，教师利用各种思维策略和教学活动，调动学生的生活经验，促进学生的思考。学生利用平台上的录音功能和即时互动工具分享看法，与同学讨论和交流。课后，学生展示学习成果，进行评价和延伸活动，深化和巩固所学。</p><br/>
@@ -89,6 +109,10 @@ the SLS to share their views with their peers and showcase their learning. This 
       <input id="tab-7" type="checkbox" name="tab">
       <label for="tab-7" class="lbCh"><span style="font-size:25px;font-family:KaiTi">爱同学校 </span><br/>Ai Tong School</label>
       <div class="tab-content">
+                              <a href="/clmoe/聚英小学/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
+
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">认识华族节日与美食</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
          为了促进学生的文化认知，爱同学校的教师们策划了一系列以华族传统节日及美食为主题的活动。除了阅读与传统文化相关的图书之外，学生也积极参加以下活动：在元宵节制作、品尝汤圆，在母语双周制作传统食品泥塑（低、中年级）、画漫画（高年级）等。此外，学校也通过华语小广播、视频、简报和“新加坡学生学习平台”（SLS）加深学生对传统节日和美食的了解，引发探索华族文化的兴趣，加强他们学习华文的动力。</p><br/>
@@ -109,6 +133,10 @@ the SLS to share their views with their peers and showcase their learning. This 
       <input id="tab-8" type="checkbox" name="tab">
       <label for="tab-8" class="lbCh"><span style="font-size:25px;font-family:KaiTi">圣玛格烈小学 </span><br/>St. Margaret’s Primary School</label>
       <div class="tab-content">
+          <a href="/clmoe/聚英小学/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
+
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">小任务，学习乐</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
        为了提供真实的语言学习环境，让学生“做中学”，圣玛格烈小学设计了种绿豆、制作电子明信片等多个与课文主题相关的学习任务。在进行任务前，教师调动学生的已知，引导他们学习相关的课文内容和词语。在任务中，学生利用数码科技通过口头录音和书面打写的方式记录所学的知识。完成任务后，学生在线上平台分享作品，让同侪点评，再由教师总结。学生在活动中不断获得学习的成就感，学习华文的兴趣和信心得到进一步提升。</p><br/>
@@ -129,6 +157,10 @@ the SLS to share their views with their peers and showcase their learning. This 
       <input id="tab-9" type="checkbox" name="tab">
       <label for="tab-9" class="lbCh"><span style="font-size:25px;font-family:KaiTi">东源小学 </span><br/>East Spring Primary School</label>
       <div class="tab-content">
+                              <a href="/clmoe/聚英小学/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
+
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">东源小学户外学习乐</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
        东源小学推展的“户外学习之旅”计划让低年级学生把华文课程的主题和内容与生活联系起来。<br/><br/>
@@ -150,6 +182,10 @@ the SLS to share their views with their peers and showcase their learning. This 
       <input id="tab-10" type="checkbox" name="tab">
       <label for="tab-10" class="lbCh"><span style="font-size:25px;font-family:KaiTi">维林小学 </span><br/>Westwood Primary School</label>
       <div class="tab-content">
+          <a href="/clmoe/聚英小学/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
+
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">书香处处</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
       为了营造书香洋溢的学习环境，维林小学制定了生动有趣的校园阅读计划。其活动包括“书香日”、“阅读护照”、“好书推荐”、“阅读成品展示”等。学校利用“新加坡学生学习平台”（SLS）及社交媒体平台开展线上阅读，也积极鼓励家长参与亲子阅读。这些丰富多彩的阅读活动，调动了学生的阅读兴趣，培养了良好的阅读习惯。学生也在快乐的阅读过程中提高了华文能力。
@@ -172,6 +208,10 @@ the SLS to share their views with their peers and showcase their learning. This 
       <input id="tab-11" type="checkbox" name="tab">
       <label for="tab-11" class="lbCh"><span style="font-size:25px;font-family:KaiTi">德义中学 </span><br/>Deyi Secondary School</label>
       <div class="tab-content">
+                              <a href="/clmoe/聚英小学/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
+
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">混合式教学——美术馆在线导览</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
      德义中学使用教育部提供的线上导览资源配套，让中一快捷班学生结合居家学习以及在校学习的混合模式在线上游览新加坡国家美术馆。<br/><br/>
@@ -194,6 +234,10 @@ the SLS to share their views with their peers and showcase their learning. This 
     <label for="tab-12" class="lbCh"> <span style="font-size:25px;font-family:KaiTi">圣若瑟书院</span><br/>St. Joseph's Institution (Secondary) 
 </label>
       <div class="tab-content">
+          <a href="/clmoe/聚英小学/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
+
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">运用数码工具进行母语教学</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
     圣若瑟书院母语部在教学中使用线上教学法促进学生协作学习的能力。教师们有效地使用不同的教学工具，如：Jamboard, Flipgrid 和“新加坡学生学习平台”（SLS）的“思维互动工具”（ITT ，Interactive Thinking Tool) 进行“学生与学生”和“学生与文本”之间的互动，让学生的思维可视化。在教师的引领和科技的辅助下，学生有更多机会分享自己的看法，进行高效的小组协作以及同侪互评，为彼此提供有意义的反馈。在这个活动下，同学通过协作，一起进步、一起达成学习目标。

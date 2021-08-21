@@ -110,7 +110,7 @@ margin-left:25px;
 
   gtag('config', 'AW-726049306');
 </script>
-<a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Previous</a>
+<a href="/exhibits/pameran- bahasa- melayu-malay-language-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Previous</a>
   <a href="/mlmoe/ml-preu/" class="btn" style="float:right;">Next</a><br/>
 <img src="/mlmoe/ML-Secondary_Header-Banner.jpg">
 

@@ -40,10 +40,7 @@ td, th {
     margin:0;
     border-collapse: collapse;
 }
-  .tbl a {
-    position:absolute;
-    margin-left: -80px;
-}
+  
 .column img {
 height:auto;
 max-width:40%;
@@ -68,7 +65,37 @@ max-width:40%;
  margin-left:22px;
   }
 }
+ .tab img{
+   width: 80%;
+ }
+ .tab table {
+   display: none;
+}
+.tab table:target {
+  display: block;
+}
+
+.btnClass1:hover {
+background-color: lightgrey;!important;
+ }
  
+ .btnvideo{
+  background-color: #3BB9FF;!important; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  float:right;
+  border-radius:6px;
+ }
+ .btnvideo:hover {
+background-color: lightgrey;!important;
+ }
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -90,6 +117,9 @@ max-width:40%;
        <br/>[11.00am - 12.00pm] <br/></label>
  <div class="tab-content">      
        <br/>
+  <a href="/eng/Panel-Discussion/"> <div class="btnvideo" style="font-size:16px;">
+    Watch video</div></a>
+  <br/>
    <h4 style="padding-top:12px;margin:10px;color:#fa0;">Panelists</h4>
   <br/>
    <div class="row">
@@ -98,10 +128,10 @@ max-width:40%;
    </div>
     <div class="col1">
    <p style="margin-left: -4px;"> <strong>
-Mr Chan Chun Sing</strong><br/>
-Minister for Education<br/>
-     </p> </div></div>
-    <br/>  <br/>
+Mr Chan Chun Sing</strong> <br/>
+    Minister for Education</p> </div>
+    </div>
+<br/>  <br/>
  <div class="row">
  <div class="column">
 <img src="/images/Sun-Xueling.png" style="width:100%">
@@ -182,19 +212,21 @@ Presenter<br/> CNA<br/>
 <td style="border:0 none;padding: 0;" class="btnImg">
   </td>
 </tr>
- <tr>
+<tr>
 <td style="border:0 none;padding: 0; margin:0;">
  <div class="atab atab3Line" >
      <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1" class="lbeng">Learning Mother Tongue is Cool at Home and in School too! - Strategies to Motivate Children to Love MTL   
        <br/>Mrs Dianne Seet <br/>
 Mdm Nie Bing</label>
- 
-  <div class="tab-content">      
+<div class="tab-content">      
        <br/>
+ <a href="/eng/Panel-Discussion/"> <div class="btnvideo" style="font-size:16px;">
+    Watch video</div></a>
+  <br/>
   <div class="row">
  <div class="column">
-<img src="/images/EL-Dianne Seet.png" style="width:100%">
+<img src="/images/eng/Dr-Connie-Lum/" style="width:100%">
    </div>
    <p> <strong>Mrs Dianne Seet </strong>
 </p>
@@ -230,6 +262,10 @@ Mdm Nie Bing has 17 years of pre-school education experience and has taught in A
 </label>
       <div class="tab-content">      
        <br/>
+       <a href="/eng/Panel-Discussion/"> <div class="btnvideo" style="font-size:16px;">
+    Watch video</div></a>
+  <br/>
+
   <div class="row">
  <div class="column">
 <img src="/images/EL-Leher Singh.png" style="width:100%">
@@ -259,6 +295,9 @@ Ms Diana Ser
 </label>
       <div class="tab-content">      
        <br/>
+       <a href="/eng/Panel-Discussion/"> <div class="btnvideo" style="font-size:16px;">
+    Watch video</div></a>
+  <br/>
   <div class="row">
  <div class="column">
 <img src="/images/CL-Dr Sabrina Sun He.png" style="width:100%">
@@ -303,6 +342,9 @@ Ms Diana Ser
 Mr Jaya Ganesh Isuran</label>
   <div class="tab-content">      
        <br/>
+   <a href="/eng/Panel-Discussion/"> <div class="btnvideo" style="font-size:16px;">
+    Watch video</div></a>
+  <br/>
   <div class="row">
  <div class="column">
 <img src="/images/TL-Dr Karuppiah Nirmala.png" style="width:100%">

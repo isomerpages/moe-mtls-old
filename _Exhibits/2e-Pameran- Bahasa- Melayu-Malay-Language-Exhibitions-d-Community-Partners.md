@@ -31,10 +31,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
     margin:0;
     border-collapse: collapse;
 }
-.tbl a {
-    position:absolute;
-    margin-left: -100px;
-}
+
 .atab,
 .atab1Line{
     margin-bottom: 5px;
@@ -51,6 +48,24 @@ third_nav_title: 'Pameran Bahasa Melayu'
   width:69%;
   }
 } 
+    .btnvideo{
+  background-color: #3BB9FF;!important; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  float:right;
+  border-radius:6px;
+ }
+ .btnvideo:hover {
+background-color: lightgrey;!important;
+}
+
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -70,6 +85,10 @@ third_nav_title: 'Pameran Bahasa Melayu'
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2" class="lbML">Esplanade – Teater di Persisiran<br/>Esplanade - Theatres on the Bay</label>
       <div class="tab-content">
+          <br/>
+<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Esplanade – Teater di Persisiran</h4>
        <p style="margin:10px;">Sebagai pusat persembahan seni kebangsaan Singapura, Esplanade – Teater di Persisiran ingin memastikan setiap lapisan masyarakat berpeluang untuk menikmati karya seni.<br/><br/>
 Esplanade ingin mewujudkan kesedaran tentang cara mereka mendidik dan memberikan pendedahan kepada golongan muda tentang seni persembahan melalui pelbagai bentuk seni yang ditampilkan sepanjang tahun. Hal ini membolehkan anak-anak muda mengekspresikan kreativiti dan imaginasi mereka.<br/><br/>
@@ -89,6 +108,10 @@ Para pelajar juga berpeluang untuk mengetahui pelbagai bentuk seni secara dalam 
       <label for="tab-3" class="lbML">Bahasa Ibundaku, Teman Sejatiku
 <br/>Lee Kuan Yew Fund for Bilingualism</label>
       <div class="tab-content">
+          <br/>
+<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Bahasa Ibundaku, Teman Sejatiku</h4>
         <p style="margin:10px;">
                 Penubuhan Dana Kedwibahasaan Lee Kuan Yew diumumkan sewaktu pelancaran buku Encik Lee Kuan Yew, “My Lifelong Challenge: Singapore’s Bilingual Journey” pada tahun 2011.<br/><br/>
@@ -112,6 +135,10 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1" class="lbML"> Stor Atuk<br/> Mediacorp</label>
       <div class="tab-content">
+          <br/>
+<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Stor Atuk</h4>
       <p style="margin:10px;">
               Stor Atuk diterbitkan untuk memperkenalkan cerita-cerita rakyat Melayu kepada anak-anak kecil. Selain mencetus minat, Stor Atuk juga dapat merangsang pembelajaran melalui penggunaan peribahasa, pepatah lama, syair, pantun dan seloka yang diterapkan secara santai dalam perbualan antara watak-watak. <br/><br/>
@@ -132,6 +159,10 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
       <input id="tab-6" type="checkbox" name="tab">
     <label for="tab-6" class="lbML">Kenali bahasa ibunda menerusi warisan dan budaya bersama Lembaga Warisan Negara (NHB)!<br/>National Heritage Board</label>
       <div class="tab-content">
+          <br/>
+<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Kenali bahasa ibunda menerusi warisan dan budaya bersama Lembaga Warisan Negara (NHB)!</h4>
 <p style="margin:10px;">
           Kenali Bahasa Ibunda dengan menelusuri warisan dan budaya bersama Lembaga Warisan Negara (NHB)!<br/><br/>
@@ -153,6 +184,10 @@ Dapatkanlah maklumat tentang institusi-institusi warisan seperti Pusat Warisan I
       <input id="tab-7" type="checkbox" name="tab">
       <label for="tab-7" class="lbML">Bijak Kata!<br/>National Institute of Education  </label>
       <div class="tab-content">
+          <br/>
+<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
          <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Bijak Kata!</h4>
         <p style="margin:10px;">
         Pembelajaran kosa kata boleh menjadi sesuatu yang menyeronokkan apabila teknologi diteroka dan dimanfaatkan.  Permainan 'Bijak Kata!' direka khas untuk para pelajar sekolah rendah dan ibu bapa. Permainan ini juga bertujuan untuk menjadikan pembelajaran kosa kata secara digital lebih seronok dan kendiri. Ibu bapa juga berpeluang untuk melibatkan diri dalam pembelajaran bahasa Melayu anak-anak mereka. 
@@ -178,6 +213,10 @@ Dapatkanlah maklumat tentang institusi-institusi warisan seperti Pusat Warisan I
       <input id="tab-8" type="checkbox" name="tab">
       <label for="tab-8" class="lbML">Perkhidmatan Perpustakaan Bahasa Melayu<br/>National Library Board</label>
       <div class="tab-content">
+          <br/>
+<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Perkhidmatan Perpustakaan Bahasa Melayu</h4>
         <p style="margin:10px;">
          Lembaga Perpustakaan Nasional mempromosikan dan memupuk amalan membaca sepanjang hayat dalam bahasa ibunda menerusi program-program menarik dan koleksi bahan  fizikal dan digital yang luas. Kini, akses kepada sumber bacaan dan ilmu dapat diperoleh dalam keselesaan kediaman masing-masing. Terdapat juga wadah berasaskan teknologi seperti video Masa Bercerita untuk kanak-kanak berumur 4 hingga 8 tahun di laman Facebook, saranan bacaan di aplikasi mudah alih NLB, dan e-bengkel interaktif untuk golongan ibu bapa dan para pendidik. Sumber-sumber ini dapat mencetus pengembangan imaginasi kanak-kanak dengan menghidupkan cerita, sekaligus membantu untuk memupuk tabiat membaca dalam bahasa ibunda sejak mereka kecil lagi.
@@ -197,6 +236,10 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
       <input id="tab-9" type="checkbox" name="tab">
       <label for="tab-9" class="lbML">Mari Bercerita Bersama Taman Haiwan Singapura <br/> Wildlife Reserves Singapore  </label>
       <div class="tab-content">
+          <br/>
+<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari Bercerita Bersama Taman Haiwan Singapura</h4>
         <p style="margin:10px;">
           Taman Haiwan Singapura menawarkan pelbagai cerita haiwan unik yang boleh digunakan untuk meningkatkan kemahiran bercerita kanak-kanak. Salah satunya ialah cerita tentang memerang yang diselamatkan dalam buku yang bertajuk ‘Si Memerang Terjerat!’.  Buku ini dilengkapi dengan panduan untuk para guru dan  ibu bapa serta aktiviti untuk kanak-kanak. Aktiviti saranan ini dapat memperkasa kemahiran bercerita yang berimaginasi untuk kanak-kanak prasekolah. Aktiviti bercerita yang menyeronokkan dapat memperkaya kosa kata dan menggalakkan kreativiti. Taman Haiwan Singapura juga menyediakan video dan gambar-gambar daripada pakej menjejaki taman haiwan yang dibina untuk murid-murid agar dapat mengasah kemahiran berkomunikasi mereka. 
@@ -215,6 +258,10 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
       <input id="tab-4" type="checkbox" name="tab">
       <label for="tab-4" class="lbML"> Kelas Matematika M<sup>3</sup> @ Nee Soon <br/>  PA MESRA   (M<sup>3</sup>)@ Nee Soon</label>
       <div class="tab-content">
+          <br/>
+<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
           <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Kelas Matematika M<sup>3</sup> @ Nee Soon</h4>
         <p style="margin:10px;text-align:justify;">
           Reruai maya ‘Kelas Matematika’ bertujuan untuk berkongsi strategi yang boleh diguna pakai oleh golongan ibu bapa yang mempunyai anak-anak kecil  berusia dari 4 hingga 7 tahun. <br/><br/>
@@ -235,6 +282,10 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
       <input id="tab-5" type="checkbox" name="tab">
       <label for="tab-5" class="lbML">Mari terokai bahasa dan budaya masyarakat Melayu bersama-sama Nabil dan Nabilah  <br/>Malay Language Learning Promotion Committee</label>
       <div class="tab-content">
+          <br/>
+<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari terokai bahasa dan budaya masyarakat Melayu bersama-sama Nabil dan Nabilah 
 </h4>
         <p style="margin:10px;">
@@ -255,6 +306,10 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
       <input id="tab-10" type="checkbox" name="tab">
       <label for="tab-10" class="lbML">Membesar Bersama Bahasa<br/>Malay Language Centre of Singapore</label>
       <div class="tab-content">
+          <br/>
+<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Membesar Bersama Bahasa</h4>
         <p style="margin:10px;">
          Pusat Bahasa Melayu Singapura (MLCS) akan mempamerkan dua pakej yang bertujuan untuk meningkatkan pembelajaran bahasa Melayu. Pakej pertama merupakan pakej ‘Mari Membaca’ yang disasarkan untuk murid tadika dan peringkat sekolah rendah. Pakej ini mengandungi kad-kad imbasan yang boleh digunakan untuk membantu murid-murid mengeja dan menyebut perkataan-perkataan mengikut kategori. Pakej kedua merupakan Aplikasi ICT interaktif seperti Aplikasi Pintar Kata, Aplikasi Pintar Peribahasa, Aplikasi Cerita-cerita Rakyat Nusantara, Aplikasi Legenda Singapura dan Aplikasi Bitara Kata. Aplikasi-aplikasi ini akan memberikan pengalaman pembelajaran maya yang unik dengan cara yang menyeronokkan.
