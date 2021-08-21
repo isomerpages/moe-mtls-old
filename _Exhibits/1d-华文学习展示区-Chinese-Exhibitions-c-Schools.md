@@ -83,7 +83,7 @@ background-color: lightgrey;!important;
       <label for="tab-6" class="lbCh"><span style="font-size:25px;font-family:KaiTi">胜宝旺小学 </span><br/>Sembawang Primary School</label>
       <div class="tab-content">
           <br/>
-<a href="/clmoe/聚英小学/""> <div class="btnvideo" style="font-size:16px;">
+<a href="/clmoe/聚英小学/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
 
@@ -109,7 +109,7 @@ the SLS to share their views with their peers and showcase their learning. This 
       <input id="tab-7" type="checkbox" name="tab">
       <label for="tab-7" class="lbCh"><span style="font-size:25px;font-family:KaiTi">爱同学校 </span><br/>Ai Tong School</label>
       <div class="tab-content">
-                              <a href="/clmoe/聚英小学/""> <div class="btnvideo" style="font-size:16px;">
+                              <a href="/clmoe/聚英小学/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
 
@@ -133,7 +133,7 @@ the SLS to share their views with their peers and showcase their learning. This 
       <input id="tab-8" type="checkbox" name="tab">
       <label for="tab-8" class="lbCh"><span style="font-size:25px;font-family:KaiTi">圣玛格烈小学 </span><br/>St. Margaret’s Primary School</label>
       <div class="tab-content">
-          <a href="/clmoe/聚英小学/""> <div class="btnvideo" style="font-size:16px;">
+          <a href="/clmoe/聚英小学/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
 
@@ -157,7 +157,7 @@ the SLS to share their views with their peers and showcase their learning. This 
       <input id="tab-9" type="checkbox" name="tab">
       <label for="tab-9" class="lbCh"><span style="font-size:25px;font-family:KaiTi">东源小学 </span><br/>East Spring Primary School</label>
       <div class="tab-content">
-                              <a href="/clmoe/聚英小学/""> <div class="btnvideo" style="font-size:16px;">
+                              <a href="/clmoe/聚英小学/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
 
@@ -182,7 +182,7 @@ the SLS to share their views with their peers and showcase their learning. This 
       <input id="tab-10" type="checkbox" name="tab">
       <label for="tab-10" class="lbCh"><span style="font-size:25px;font-family:KaiTi">维林小学 </span><br/>Westwood Primary School</label>
       <div class="tab-content">
-          <a href="/clmoe/聚英小学/""> <div class="btnvideo" style="font-size:16px;">
+          <a href="/clmoe/聚英小学/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
 
@@ -208,7 +208,7 @@ the SLS to share their views with their peers and showcase their learning. This 
       <input id="tab-11" type="checkbox" name="tab">
       <label for="tab-11" class="lbCh"><span style="font-size:25px;font-family:KaiTi">德义中学 </span><br/>Deyi Secondary School</label>
       <div class="tab-content">
-                              <a href="/clmoe/聚英小学/""> <div class="btnvideo" style="font-size:16px;">
+                              <a href="/clmoe/聚英小学/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
 
@@ -234,7 +234,7 @@ the SLS to share their views with their peers and showcase their learning. This 
     <label for="tab-12" class="lbCh"> <span style="font-size:25px;font-family:KaiTi">圣若瑟书院</span><br/>St. Joseph's Institution (Secondary) 
 </label>
       <div class="tab-content">
-          <a href="/clmoe/聚英小学/""> <div class="btnvideo" style="font-size:16px;">
+          <a href="/clmoe/聚英小学/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
 
