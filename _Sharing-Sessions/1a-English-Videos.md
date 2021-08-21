@@ -77,7 +77,7 @@ max-width:40%;
 .tab table:target {
   display: block;
 }
-.btnClass1{
+.video{
   display:inline-block;
   padding: 15px 20px;
   text-align:center;
@@ -89,7 +89,7 @@ max-width:40%;
   cursor:pointer;
   margin-right: 10px;
   margin-bottom: 7px;
-   width:31%;
+  
   
 }
 .btnClass1:hover {
@@ -127,10 +127,8 @@ background-color: lightgrey;!important;
    <p style="margin-left: -4px;"> <strong>
 Mr Chan Chun Sing</strong> <br/>
 Minister for Education<br/>
+    <a href="#"> <div style="display:inline-block; font-family:KaiTi;font-size:25px;" class="video">华文学习展示区<br/>&nbsp;</div></a>
      </p> </div>
-<div class="column tab1">
-    <a href="#"> <div style="display:inline-block; font-family:KaiTi;font-size:25px;text-align:right;" class="btnClass1">Watch Video</div></a>
-    </div>
 </div>
     <br/>  <br/>
  <div class="row">
