@@ -110,7 +110,7 @@ margin-left:25px;
 
   gtag('config', 'AW-726049306');
 </script>
-<a href="/exhibits/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" class="btn" style="float:right;">Previous</a><br/>
+<a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" class="btn" style="float:right;">Previous</a><br/>
 <img src="/images/TL-PreU-Header.jpg"><br/>
  <a href="#C1" style="font-size:20px"><span style="color:blue;">தாய்மொழியின் இலக்கு
 </span></a><br/>
@@ -129,7 +129,7 @@ margin-left:25px;
 
 <h4 id="C1"><span style="font-size:30px;color:purple;">தாய்மொழியின் இலக்கு
  </span></h4>
- <p style="text-align:justify;"> வருங்காலச் சிங்கப்பூர்த் தமிழ்ச் சந்ததியினரிடையே தமிழ் வாழும் மொழியாகத் திகழ வேண்டும். பலவகைப் பண்பாட்டுப் பாரம்பரியத்தைக் கொண்டு உலக நகராக விளங்கும் சிங்கப்பூரின் தனித்தன்மைக்கு வலுவூட்டும் அம்சமாக அது விளங்க வேண்டும்.</p><br/>
+ <p style="text-align:left;"> வருங்காலச் &nbsp; சிங்கப்பூர்த் &nbsp; தமிழ்ச் &nbsp; சந்ததியினரிடையே &nbsp; தமிழ் &nbsp; வாழும் &nbsp; மொழியாகத் &nbsp; திகழ &nbsp; வேண்டும். &nbsp; பலவகைப் &nbsp; பண்பாட்டுப் &nbsp; பாரம்பரியத்தைக் &nbsp; கொண்டு &nbsp; உலக &nbsp; நகராக &nbsp; விளங்கும் &nbsp; சிங்கப்பூரின் &nbsp; தனித்தன்மைக்கு &nbsp; வலுவூட்டும் &nbsp; அம்சமாக &nbsp; அது விளங்க &nbsp; வேண்டும்.</p><br/>
   <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
     <label for="tab-1" style="font-family:KaiTi;font-size:22px" class="lbTM">உயர்தரம் பாடக்கலைத்திட்டம் முக்கியத் தகவல்கள்
@@ -144,7 +144,6 @@ margin-left:25px;
   <li>தம் &nbsp; தாய்மொழியில் &nbsp; தன்னம்பிக்கையுடன் &nbsp; பேசுவதோடு &nbsp; மொழித்திறன்களையும் &nbsp; மேம்படுத்திக்கொள்வர்.
 </li>
     <li>மரபு, பண்பாடு, வரலாறு, இலக்கியம் &nbsp; ஆகியவற்றைப் &nbsp; போற்றுவதன்வழி &nbsp; தேசிய, &nbsp; பண்பாட்டு &nbsp; அடையாளத்தைப் &nbsp; புரிந்துகொள்வர்.
-
 </li>
       <li style="text-align:left;">உலகளாவிய &nbsp; நோக்கில் &nbsp; சிங்கப்பூர் &nbsp; வகிக்கும் &nbsp; இடங்குறித்துத் &nbsp; தெளிவான &nbsp; புரிந்துணர்வைப் &nbsp; பெற்றிருப்பர் 
 </li>
@@ -194,10 +193,10 @@ margin-left:25px;
 </table>
 <br/>
 <ul>
-<li  style="text-align:justify;">புகுமுகநிலைப் பாடத்திட்டம் பரந்துபட்ட மூன்று கருப்பொருள்களைக் வழிகாட்டியாகக் கொண்டுள்ளது. </li>
-<li  style="text-align:justify;">மொழிப்பாடங்களிலுள்ள பனுவல்களையும் இலக்கிய பாடங்களிலுள்ள செய்திகளையும் அந்தக் கருப்பொருள்களோடு மாணவர்கள் தொடர்புபடுத்திப் பார்ப்பார்கள். 
+<li  style="text-align:left;">புகுமுகநிலைப் &nbsp; பாடத்திட்டம் &nbsp; பரந்துபட்ட &nbsp; மூன்று &nbsp; கருப்பொருள்களைக் &nbsp; வழிகாட்டியாகக் &nbsp; கொண்டுள்ளது. </li>
+<li  style="text-align:left;">மொழிப்பாடங்களிலுள்ள &nbsp; பனுவல்களையும் &nbsp; இலக்கிய &nbsp; பாடங்களிலுள்ள &nbsp; செய்திகளையும் &nbsp; அந்தக் &nbsp; கருப்பொருள்களோடு &nbsp; மாணவர்கள் &nbsp; தொடர்புபடுத்திப் &nbsp; பார்ப்பார்கள். 
 </li>
-<li  style="text-align:justify;">இந்தப் பாடத்திட்டத்தில் 21-ஆம் நூற்றாண்டுத்திறன் சட்டகத்தில் இடம்பெற்றுள்ள  திறன்வளர்ச்சியையும் விழுமியங்களையும் பெற்று அவற்றை முறையே பயன்படுத்தும் ஆற்றலை மாணவர்கள் வளர்த்துக்கொள்வர்.
+<li  style="text-align:left;">இந்தப் &nbsp; பாடத்திட்டத்தில் &nbsp; 21-ஆம் &nbsp; நூற்றாண்டுத்திறன் &nbsp; சட்டகத்தில் &nbsp; இடம்பெற்றுள்ள  &nbsp; திறன்வளர்ச்சியையும் &nbsp; விழுமியங்களையும் &nbsp; பெற்று &nbsp; அவற்றை &nbsp; முறையே &nbsp; பயன்படுத்தும் &nbsp; ஆற்றலை &nbsp; மாணவர்கள் &nbsp; வளர்த்துக்கொள்வர்.
 </li>
 </ul>
 <img src="/tlmoe/21st-cc-diagram.png" style="width:70%">
@@ -255,7 +254,7 @@ margin-left:25px;
 </tr>
 </table>
   <br/>
-<p style="text-align:justify;">இந்த இலக்கியங்களையும் அவற்றைப் படைத்த எழுத்தாளர்களையும் பற்றி மேலும் அறிந்திட பின்வரும் இணைப்புகளுக்குச் செல்லவும்.
+<p style="text-align:left;">இந்த &nbsp; இலக்கியங்களையும் &nbsp; அவற்றைப் &nbsp; படைத்த &nbsp; எழுத்தாளர்களையும் &nbsp; பற்றி &nbsp; மேலும் &nbsp; அறிந்திட &nbsp; பின்வரும் &nbsp; இணைப்புகளுக்குச் &nbsp; செல்லவும்.
 </p>
  
  <center>
@@ -294,7 +293,7 @@ margin-left:25px;
 <br/><br/>
 தமிழ்மொழி விருப்பப்பாடத்திட்டத்தை வழங்கும் தொடக்கக்கல்லூரிகள் <br/>
 <ul>
- <li style="text-align:justify;"><strong>அண்டர்சன் சிராங்கூன் தொடக்கக்கல்லூரி 
+ <li style="text-align:left;"><strong>அண்டர்சன் &nbsp; சிராங்கூன் &nbsp; தொடக்கக்கல்லூரி 
  </strong></li>
  <li style="text-align:justify;"><strong>தேசியத் தொடக்கக்கல்லூரி
  </strong></li><br/>
@@ -304,13 +303,13 @@ margin-left:25px;
   <a href="/tlmoe/tlep-sec-infosheet-students-2019.pdf" target="_blank">TLEP Sec Infosheet</a>
  <br/><br/>
  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/LScPxhnhtRw" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- <p>TLEP Programmes<br/>
-  தமிழ்மொழி விருப்பப் பாடத்திட்ட நிகழ்ச்சிகளின் தொகுப்பு</p>
+ <br/><span style="font-size:18px;">TLEP Programmes<br/>
+  தமிழ்மொழி விருப்பப் பாடத்திட்ட நிகழ்ச்சிகளின் தொகுப்பு</span>
 </center>
  <br/><br/>
 <img src="/images/TL JC_Header06.png" align="left" style="width:50%;">
 <img src="/images/TL JC_Header12.png">
-<p style="text-align:justify;">இணையம் வழி தமிழ்மொழி முகாம் தமிழ்மொழி விருப்பப்பாடத்திட்டம் செயற்குழு ஏற்பாடு செய்த தமிழ்மொழி முகாம் டிசம்பர் 5-ஆம் தேதி சிறப்பாக நடந்தேறியது. இந்நிகழ்ச்சியில் விருப்பப்பாடத்திட்டத்தை வழங்கும் இரண்டு கல்லூரிகளைச் சேர்ந்த மாணவர்கள் பங்கெடுத்து பயனடைந்தனர். அந்நிகழ்ச்சி முக்கிய நிகழ்வுகளைத் தொகுத்து வழங்கும் ஒளிக்காட்சி.</p>
+<p style="text-align:left;">தமிழ்மொழி &nbsp; விருப்பப்பாடத்திட்டம் &nbsp; செயற்குழு &nbsp; ஏற்பாடு &nbsp; செய்த &nbsp; தமிழ்மொழி &nbsp; முகாம் &nbsp; டிசம்பர் &nbsp; 5-ஆம் &nbsp; தேதி &nbsp; சிறப்பாக &nbsp; நடந்தேறியது. &nbsp; இந்நிகழ்ச்சியில் &nbsp; விருப்பப்பாடத்திட்டத்தை &nbsp; வழங்கும் &nbsp; இரண்டு &nbsp; கல்லூரிகளைச் &nbsp; சேர்ந்த &nbsp; மாணவர்கள் &nbsp; பங்கெடுத்து &nbsp; பயனடைந்தனர். &nbsp; அந்நிகழ்ச்சி &nbsp; முக்கிய &nbsp; நிகழ்வுகளைத் &nbsp; தொகுத்து &nbsp; வழங்கும் &nbsp; ஒளிக்காட்சி.</p>
 
 <img src="/images/TL PreU_Image05.jpg"><br/>
 <img src="/images/TL JC_Header11.png" align="left" style="width:50%;">
