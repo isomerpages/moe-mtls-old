@@ -40,10 +40,7 @@ td, th {
     margin:0;
     border-collapse: collapse;
 }
-  .tbl a {
-    position:absolute;
-    margin-left: -80px;
-}
+  
 .column img {
 height:auto;
 max-width:40%;
@@ -94,9 +91,8 @@ background-color: lightgrey;!important;
   margin: 4px 2px;
   cursor: pointer;
   float:right;
-   border-radius:6px;
-  margin-left: 605px;
-  margin-bottom: 7px;
+  border-radius:6px;
+ 
 }
  .btnvideo:hover {
 background-color: lightgrey;!important;
