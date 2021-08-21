@@ -30,10 +30,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
     margin:0;
     border-collapse: collapse;
 }
-.tbl a {
-    position:absolute;
-    margin-left: -100px;
-}
+
 .atab {
     margin-bottom: 5px;
     width: 87%;
