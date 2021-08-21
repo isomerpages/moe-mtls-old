@@ -212,21 +212,21 @@ Presenter<br/> CNA<br/>
 <td style="border:0 none;padding: 0;" class="btnImg">
   </td>
 </tr>
-  
-  
- <tr>
+<tr>
 <td style="border:0 none;padding: 0; margin:0;">
  <div class="atab atab3Line" >
      <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1" class="lbeng">Learning Mother Tongue is Cool at Home and in School too! - Strategies to Motivate Children to Love MTL   
        <br/>Mrs Dianne Seet <br/>
 Mdm Nie Bing</label>
- 
-  <div class="tab-content">      
+<div class="tab-content">      
        <br/>
+ <a href="/eng/Panel-Discussion/"> <div class="btnvideo" style="font-size:16px;">
+    Watch video</div></a>
+  <br/>
   <div class="row">
  <div class="column">
-<img src="/images/EL-Dianne Seet.png" style="width:100%">
+<img src="/images/eng/Dr-Connie-Lum/" style="width:100%">
    </div>
    <p> <strong>Mrs Dianne Seet </strong>
 </p>
@@ -262,6 +262,10 @@ Mdm Nie Bing has 17 years of pre-school education experience and has taught in A
 </label>
       <div class="tab-content">      
        <br/>
+       <a href="/eng/Panel-Discussion/"> <div class="btnvideo" style="font-size:16px;">
+    Watch video</div></a>
+  <br/>
+
   <div class="row">
  <div class="column">
 <img src="/images/EL-Leher Singh.png" style="width:100%">
@@ -291,6 +295,9 @@ Ms Diana Ser
 </label>
       <div class="tab-content">      
        <br/>
+       <a href="/eng/Panel-Discussion/"> <div class="btnvideo" style="font-size:16px;">
+    Watch video</div></a>
+  <br/>
   <div class="row">
  <div class="column">
 <img src="/images/CL-Dr Sabrina Sun He.png" style="width:100%">
@@ -335,6 +342,9 @@ Ms Diana Ser
 Mr Jaya Ganesh Isuran</label>
   <div class="tab-content">      
        <br/>
+   <a href="/eng/Panel-Discussion/"> <div class="btnvideo" style="font-size:16px;">
+    Watch video</div></a>
+  <br/>
   <div class="row">
  <div class="column">
 <img src="/images/TL-Dr Karuppiah Nirmala.png" style="width:100%">
