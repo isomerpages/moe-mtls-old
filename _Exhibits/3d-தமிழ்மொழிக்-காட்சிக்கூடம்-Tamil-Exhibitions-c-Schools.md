@@ -84,7 +84,7 @@ background-color: lightgrey;!important;
 <br/>Marymount Convent School</label>
       <div class="tab-content">
        <br/>
-<a href="/tlmoe/TL-School-Gallery/"> <div class="btnvideo" style="font-size:16px;">
+<a href=" /tlmoe/N4-குழுமம்-(தொடக்கப்பள்ளிகள்)/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
       <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">பெற்றோருடன் &nbsp; மகள் &nbsp; - &nbsp; ஒரு &nbsp; வாசிப்புப் &nbsp; பந்தம் &nbsp; வாசிப்பின் &nbsp; மூலம் &nbsp; பெற்றோர் &nbsp; - &nbsp; பிள்ளை &nbsp; பிணைப்பு 
@@ -107,8 +107,8 @@ background-color: lightgrey;!important;
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2" class="lbTM">நிரலாக்கத்தின்வழித் &nbsp; தமிழ்மொழி<br/>Yishun Primary School</label>
       <div class="tab-content">
-       <br/>
-<a href="/tlmoe/TL-School-Gallery/"> <div class="btnvideo" style="font-size:16px;">
+      <br/>
+<a href=" /tlmoe/N4-குழுமம்-(தொடக்கப்பள்ளிகள்)/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">நிரலாக்கத்தின்வழித் &nbsp; தமிழ்மொழி </h4>
@@ -132,8 +132,8 @@ Such game-based learning was introduced as an effective approach to learn the la
       <input id="tab-3" type="checkbox" name="tab">
       <label for="tab-3">வகுப்பறைகளிலும் &nbsp; வகுப்பறைக்கப்பாலும் &nbsp; மகிழ்வூட்டும் &nbsp; கற்றல் <br/> Montfort Junior School</label>
       <div class="tab-content">
-       <br/>
-<a href="/tlmoe/TL-School-Gallery/"> <div class="btnvideo" style="font-size:16px;">
+     <br/>
+<a href=" /tlmoe/N4-குழுமம்-(தொடக்கப்பள்ளிகள்)/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">வகுப்பறைகளிலும் &nbsp; வகுப்பறைக்கப்பாலும் &nbsp; மகிழ்வூட்டும் &nbsp; கற்றல்</h4>
@@ -158,7 +158,7 @@ Such game-based learning was introduced as an effective approach to learn the la
        <br/>Temasek Secondary School</label>
       <div class="tab-content">
        <br/>
-<a href="/tlmoe/TL-School-Gallery/"> <div class="btnvideo" style="font-size:16px;">
+<a href=" /tlmoe/N4-குழுமம்-(தொடக்கப்பள்ளிகள்)/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
       <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">நாடகத்தின்வழியே &nbsp; மாணவர்களின் &nbsp; கற்றல் &nbsp; திறன்களை &nbsp; மேம்படுத்துதல் (கலவைமுறைவழி &nbsp; அணுகுதல்) </h4>
