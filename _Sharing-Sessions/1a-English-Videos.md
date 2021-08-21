@@ -77,20 +77,7 @@ max-width:40%;
 .tab table:target {
   display: block;
 }
-.video{
-  display:inline-block;
-  padding: 15px 20px;
-  text-align:center;
-  text-decoration:none;
-  background-color: #3BB9FF;!important; 
-  color: white !important;
-  border-radius:6px;
-  outline:none;
-  cursor:pointer;
-  margin-right: 10px;
-  margin-bottom: 7px;
-  
-}
+
 .btnClass1:hover {
 background-color: lightgrey;!important;
  }
@@ -125,9 +112,9 @@ background-color: lightgrey;!important;
     <div class="col1">
    <p style="margin-left: -4px;"> <strong>
 Mr Chan Chun Sing</strong> <br/>
-    Minister for Education</p> </div></div>
-  
-    <br/>  <br/>
+    Minister for Education</p> </div>
+    </div>
+<br/>  <br/>
  <div class="row">
  <div class="column">
 <img src="/images/Sun-Xueling.png" style="width:100%">
