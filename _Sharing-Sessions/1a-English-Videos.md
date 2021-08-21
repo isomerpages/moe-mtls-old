@@ -68,6 +68,33 @@ max-width:40%;
  margin-left:22px;
   }
 }
+ .tab img{
+   width: 80%;
+ }
+ .tab table {
+   display: none;
+}
+.tab table:target {
+  display: block;
+}
+.btnClass1{
+  display:inline-block;
+  padding: 15px 20px;
+  text-align:center;
+  text-decoration:none;
+  background-color: #3BB9FF;!important; 
+  color: white !important;
+  border-radius:6px;
+  outline:none;
+  cursor:pointer;
+  margin-right: 10px;
+  margin-bottom: 7px;
+   width:31%;
+  
+}
+.btnClass1:hover {
+background-color: lightgrey;!important;
+ }
  
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
@@ -98,9 +125,13 @@ max-width:40%;
    </div>
     <div class="col1">
    <p style="margin-left: -4px;"> <strong>
-Mr Chan Chun Sing</strong><br/>
+Mr Chan Chun Sing</strong> <br/>
 Minister for Education<br/>
-     </p> </div></div>
+     </p> </div>
+<div class="column tab1">
+    <a href="#"> <div style="display:inline-block; font-family:KaiTi;font-size:25px;text-align:right;" class="btnClass1">Watch Video</div></a>
+    </div>
+</div>
     <br/>  <br/>
  <div class="row">
  <div class="column">
