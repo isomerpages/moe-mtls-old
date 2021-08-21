@@ -46,6 +46,25 @@ third_nav_title: 'Pameran Bahasa Melayu'
   width:69%;
   }
 }
+    .btnvideo{
+  background-color: #3BB9FF;!important; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  float:right;
+  border-radius:6px;
+ }
+ .btnvideo:hover {
+background-color: lightgrey;!important;
+}
+ 
+
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -67,6 +86,10 @@ third_nav_title: 'Pameran Bahasa Melayu'
 (3MTL)
 </label>
       <div class="tab-content">
+          <br/>
+<a href="/mlmoe/Tadika-MOE-(Farrer Park)/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari Bekerjasama untuk Membangunkan Dwibahasa pada Peringkat Awal Kanak-kanak!</h4>
         <p style="margin:10px;">
        Tadika MOE @ Punggol Green memupuk kemahiran dwibahasa dalam murid-murid prasekolah melalui program berasaskan pusat. Program ini bertujuan untuk membina keyakinan kanak-kanak menggunakan bahasa Inggeris dan bahasa ibunda (MTL) di sekolah dan di rumah. Melalui program tersebut, Tadika MOE @ Punggol Green bekerja rapat dengan ibu bapa untuk menyokong kedwibahasaan kanak-kanak selain membantu kanak-kanak menangani perubahan yang dialami mereka. <br/><br/>
@@ -87,6 +110,10 @@ Dengan menyertai aktiviti yang menyeronokkan lagi interaktif dalam pelbagai situ
       <input id="tab-11" type="checkbox" name="tab">
       <label for="tab-11" class="lbML">Menghidupkan pembelajaran Bahasa Ibunda melalui ICT <br/>MK@Fernvale</label>
       <div class="tab-content">
+          <br/>
+<a href="/mlmoe/Tadika-MOE-(Farrer Park)/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Menghidupkan pembelajaran Bahasa Ibunda melalui ICT</h4>
         <p style="margin:10px;">
      Di Tadika MOE@Fernvale, kami percaya bahawa kanak-kanak belajar melalui permainan secara terarah dan interaksi yang berkualiti dengan memanfaatkan penggunaan teknologi maklumat dan komunikasi (ICT) untuk mencapai pembelajaran yang relevan dan bermakna. Dengan meluaskan pembelajaran mereka melalui alat ICT, kanak-kanak mempunyai kebebasan untuk menentukan corak pembelajaran ketika bersama-sama meneroka persekitaran mereka. <br/><br/>
@@ -107,6 +134,10 @@ Dalam Kurikulum Bahasa Ibunda, pelbagai peralatan ICT dan strategi pembelajaran 
       <input id="tab-12" type="checkbox" name="tab">
       <label for="tab-12" class="lbML">Berseronok dengan permainan zaman silam <br/>E-Bridge Preschool @ Veranda Matilda</label>
       <div class="tab-content">
+          <br/>
+<a href="/mlmoe/Tadika-MOE-(Farrer Park)/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Berseronok dengan permainan zaman silam</h4>
         <p style="margin:10px;">
  'Berseronok dengan Permainan Zaman Silam' merupakan inisiatif Tadika E-Bridge di Matilda untuk menggalakkan pembelajaran Bahasa Melayu secara interaktif dan menyeronokkan. Dengan melibatkan diri dalam permainan tradisional, kanak-kanak dapat membina sifat ingin tahu dan meneroka, serta bersemangat untuk mendalami budaya Melayu.<br/><br/>
@@ -127,6 +158,10 @@ Kerjasama antara ibu bapa dengan sekolah amat penting untuk meningkatkan kemahir
       <input id="tab-13" type="checkbox" name="tab">
       <label for="tab-13" class="lbML">Permainan Tradisional - Congkak<br/>My First Skool (Chin Swee)</label>
       <div class="tab-content">
+          <br/>
+<a href="/mlmoe/Tadika-MOE-(Farrer Park)/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Berseronok dengan permainan zaman silam</h4>
         <p style="margin:10px;">
  Bermain dengan permainan congkak merupakan satu usaha My First Skool di Chin Swee untuk memperkenalkan kepelbagaian permainan tradisional secara interaktif kepada kanak-kanak Prasekolah 1 dan 2. <br/><br/>
