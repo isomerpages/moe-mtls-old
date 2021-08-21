@@ -95,7 +95,7 @@ background-color: lightgrey;!important;
   cursor: pointer;
   float:right;
    border-radius:6px;
-  margin-left: 30px;
+  margin-left: 605px;
   margin-bottom: 7px;
 }
  .btnvideo:hover {
