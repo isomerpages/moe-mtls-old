@@ -127,7 +127,7 @@ background-color: lightgrey;!important;
    <p style="margin-left: -4px;"> <strong>
 Mr Chan Chun Sing</strong> <br/>
 Minister for Education<br/>
-    <a href="#"> <div style="display:inline-block; font-family:KaiTi;font-size:25px;" class="video">华文学习展示区<br/>&nbsp;</div></a>
+    <a href="#"> <div style="display:inline-block; font-family:KaiTi;font-size:25px;" class="video">Watch video</div></a>
      </p> </div>
 </div>
     <br/>  <br/>
