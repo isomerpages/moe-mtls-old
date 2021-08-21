@@ -41,7 +41,7 @@ margin-left:25px;
 
   gtag('config', 'AW-726049306');
 </script>
-<a href="/gallery/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Previous</a>
+<a href="/exhibits/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Previous</a>
  <a href="/tlmoe/tl-sec/" class="btn" style="float:right;">Next</a>
  <br/>
 <img src="/images/TL-Pri-Header.jpg">
