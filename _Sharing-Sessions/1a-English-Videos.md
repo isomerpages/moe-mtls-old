@@ -125,7 +125,7 @@ background-color: lightgrey;!important;
     <div class="col1">
    <p style="margin-left: -4px;"> <strong>
 Mr Chan Chun Sing</strong> <br/>
-    Minister for Education</p> </div>
+    Minister for Education</p> </div></div>
   
     <br/>  <br/>
  <div class="row">
@@ -208,6 +208,8 @@ Presenter<br/> CNA<br/>
 <td style="border:0 none;padding: 0;" class="btnImg">
   </td>
 </tr>
+  
+  
  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
  <div class="atab atab3Line" >
