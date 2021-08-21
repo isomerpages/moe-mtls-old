@@ -522,7 +522,20 @@ $desktop: 960px + (2 * $gap) !default;
   color:white;
   font-weight:600;
  }
-
+.btnvideo{
+  background-color: #3BB9FF !important; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display:none !important; 
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  float:right;
+  border-radius:6px;
+  }
 .atab .lbeng,
 .atab3Line .lbeng,
 .atab1Line .lbeng{

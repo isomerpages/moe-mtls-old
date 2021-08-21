@@ -226,7 +226,7 @@ Mdm Nie Bing</label>
   <br/>
   <div class="row">
  <div class="column">
-<img src="/images/eng/Dr-Connie-Lum/" style="width:100%">
+<img src="/images/EL-Dianne Seet.png" style="width:100%">
    </div>
    <p> <strong>Mrs Dianne Seet </strong>
 </p>
