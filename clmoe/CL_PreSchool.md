@@ -103,7 +103,7 @@ margin-left:25px;
 </script>
 <a href="/gallery/华文学习展示区-chinese-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Previous</a>
   <a href="/clmoe/小学/" class="btn" style="float:right;">Next</a><br/>
-  <img src="/images/CL-Presch-Header.jpg">
+  <img src="/clmoe/CL-Presch-Curriculum_Header.jpg">
 <p style="font-size:30px;font-family:KaiTi" ><h4 style="font-size:30px;font-family:KaiTi;">教育部幼儿园 
  <a href="#C1" style="font-size:25px"><span style="color:blue;font-family:KaiTi">繁星语文课程</span></a>
  <a href="#C2" style="font-size:25px"><span style="color:blue;font-family:KaiTi">大图书共享阅读</span></a>
