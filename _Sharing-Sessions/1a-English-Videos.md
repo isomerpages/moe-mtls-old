@@ -83,18 +83,24 @@ background-color: lightgrey;!important;
  }
  
  .btnvideo{
-  display:inline-block;
-  padding: 15px 20px;
-  text-align:center;
-  text-decoration:none;
   background-color: #3BB9FF;!important; 
-  color: white !important;
-  border-radius:6px;
-  outline:none;
-  cursor:pointer;
- margin-left: 30px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  float:right;
+   border-radius:6px;
+  margin-left: 30px;
   margin-bottom: 7px;
 }
+ .btnvideo:hover {
+background-color: lightgrey;!important;
+ }
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
