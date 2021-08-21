@@ -29,10 +29,7 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
          margin:0;
          border-collapse: collapse;
          }
-         .tbl a {
-         position:absolute;
-         margin-left: -100px;
-         }
+        
          .atab {
          margin-bottom: 5px;
          width: 87%;
@@ -45,6 +42,24 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
   width:69%;
   }
 }
+.btnvideo{
+  background-color: #3BB9FF;!important; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  float:right;
+  border-radius:6px;
+ }
+ .btnvideo:hover {
+background-color: lightgrey;!important;
+}
+
 
       </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
@@ -66,6 +81,10 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
                   <input id="tab-1" type="checkbox" name="tab">
                   <label for="tab-1" class="lbTM">எஸ்பிளனேட்<br/>Esplanade  </label>
                   <div class="tab-content">
+		  <br/>
+<a href="/tlmoe/எஸ்பிளனேட்-கடலோரக்-கலை-அரங்கம்/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
                      <p>
              <h4 style="padding-top:12px;margin:10px;color:#9b4490;">எஸ்பிளனேட் &nbsp; - &nbsp; கடலோரக் &nbsp; கலை &nbsp; அரங்கம்</h4> </p>
              <p style="margin:10px;font-size:20px;">நமது கலைகள்   அனைவரையும்   சென்றடைய வேண்டும் என்பதற்காகச்   சிங்கப்பூரின்   தேசிய   
@@ -98,6 +117,10 @@ third_nav_title: 'தமிழ்மொழிக் காட்சிக்க�
                   <input id="tab-2" type="checkbox" name="tab">
                   <label for="tab-2" class="lbTM">லீ குவான் &nbsp; யூ &nbsp; இருமொழிக் &nbsp; கல்வி &nbsp; நிதி<br/>Lee Kuan Yew Fund for Bilingualism</label>
                   <div class="tab-content">
+		  <br/>
+<a href="/tlmoe/எஸ்பிளனேட்-கடலோரக்-கலை-அரங்கம்/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
                      <p>
                     <h4 style="padding-top:12px;margin:10px;color:#9b4490;">எனது &nbsp; தாய்மொழி, &nbsp; எனது &nbsp; வழித்துணை</h4>
               </p>
@@ -126,6 +149,10 @@ The Fund supports creative and engaging approaches to encourage bilingualism and
                   <input id="tab-03" type="checkbox" name="tab">
                   <label for="tab-03" class="lbTM">மீடியகார்ப்<br/>Mediacorp</label>
                   <div class="tab-content">
+		  <br/>
+<a href="/tlmoe/எஸ்பிளனேட்-கடலோரக்-கலை-அரங்கம்/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
                      <p>
                     <h4 style="padding-top:12px;margin:10px;color:#9b4490;">சி &nbsp; ஐ &nbsp; டி &nbsp; சகுந்தலா</h4>
                 </p>
@@ -155,6 +182,10 @@ Narrated by the ghost of Kaarmegam, husband of Sakunthala, as he watches over hi
                   <input id="tab-3" type="checkbox" name="tab">
                   <label for="tab-3" class="lbTM">தேசிய &nbsp; மரபுடைமைக் &nbsp; கழகம்<br/>National Heritage Board</label>
                   <div class="tab-content">
+		  <br/>
+<a href="/tlmoe/எஸ்பிளனேட்-கடலோரக்-கலை-அரங்கம்/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
               <h4 style="padding-top:12px;margin:10px;color:#9b4490;">மரபு &nbsp; வழியாகவும் &nbsp; பண்பாட்டு &nbsp; வழியாகவும் &nbsp; தாய்மொழிகளைத் &nbsp; தேசிய &nbsp; மரபுடைமைக் &nbsp; கழகத்துடன் &nbsp; இணைந்துகொள்ளுங்கள்    </h4>
        <p style="margin:10px;font-size:20px;"> 
  தேசிய மரபுடைமைக் கழகத்துடன் இணைந்து தாய்மொழிகளை மரபு வழியாகவும் பண்பாட்டு வழியாகவும் கற்றுக்கொள்ளுங்கள். 
@@ -182,6 +213,10 @@ Narrated by the ghost of Kaarmegam, husband of Sakunthala, as he watches over hi
                   <input id="tab-4" type="checkbox" name="tab">
                   <label for="tab-4" class="lbTM">தேசியக் &nbsp; கல்விக் &nbsp; கழகம்<br/>National Institute of Education (Asian Languages and Cultures Academic Group)</label>
                   <div class="tab-content">
+		  <br/>
+<a href="/tlmoe/எஸ்பிளனேட்-கடலோரக்-கலை-அரங்கம்/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
                      <p>
                      <h4 style="padding-top:12px;margin:10px;color:#9b4490;">தமிழோடு &nbsp; சொல்லாடு!</h4>
                      </p>
@@ -204,9 +239,7 @@ Narrated by the ghost of Kaarmegam, husband of Sakunthala, as he watches over hi
 
 </li>
 </ol>
-  
-
-                     <br/>
+    <br/>
                      <p>
                     <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Gamify IT!
                      </h4>
@@ -226,6 +259,10 @@ Narrated by the ghost of Kaarmegam, husband of Sakunthala, as he watches over hi
                   <input id="tab-5" type="checkbox" name="tab">
                   <label for="tab-5" class="lbTM">தேசிய &nbsp; நூலக &nbsp; வாரியம்<br/>National Library Board</label>
                   <div class="tab-content">
+		  <br/>
+<a href="/tlmoe/எஸ்பிளனேட்-கடலோரக்-கலை-அரங்கம்/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
                      <p>
                      <h4 style="padding-top:12px;margin:10px;color:#9b4490;">தமிழ் &nbsp; நூலகச் &nbsp; சேவைகள்</h4>
                      </p>
@@ -255,6 +292,10 @@ Narrated by the ghost of Kaarmegam, husband of Sakunthala, as he watches over hi
                   <label for="tab-7" class="lbTM">தமிழ் &nbsp; முரசு <br/>Tamil Murasu</label>
                   <div class="tab-content">
                      <p>
+		     <br/>
+<a href="/tlmoe/எஸ்பிளனேட்-கடலோரக்-கலை-அரங்கம்/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
                    <h4 style="padding-top:12px;margin:10px;color:#9b4490;">என் &nbsp; கற்றல் &nbsp; பயணம் &nbsp; தாய்மொழியைக் &nbsp; கொண்டு தொடங்குகிறது </h4>
                      </p>
               <p style="margin:10px;font-size:20px;">      
@@ -287,6 +328,10 @@ Narrated by the ghost of Kaarmegam, husband of Sakunthala, as he watches over hi
                   <input id="tab-9" type="checkbox" name="tab">
                   <label for="tab-9" class="lbTM">சிங்கப்பூர் &nbsp; விலங்குத்தோட்டம்<br/>Wildlife Reserves Singapore</label>
                   <div class="tab-content">
+		  <br/>
+<a href="/tlmoe/எஸ்பிளனேட்-கடலோரக்-கலை-அரங்கம்/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
                      <p>
                      <h4 style="padding-top:12px;margin:10px;color:#9b4490;">சிங்கப்பூர் &nbsp; விலங்குத்தோட்டத்தில் &nbsp; கதை &nbsp; நேரம்</h4>
                      </p>
@@ -316,6 +361,10 @@ Narrated by the ghost of Kaarmegam, husband of Sakunthala, as he watches over hi
                   <input id="tab-8" type="checkbox" name="tab">
                   <label for="tab-8" class="lbTM">வாழ்வியல் &nbsp; தமிழ்<br/>Umar Pulavar Tamil Language Centre</label>
                   <div class="tab-content">
+		  <br/>
+<a href="/tlmoe/எஸ்பிளனேட்-கடலோரக்-கலை-அரங்கம்/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
                      <p>
                     <h4 style="padding-top:12px;margin:10px;color:#9b4490;">வாழ்வியல் &nbsp; தமிழ்</h4>
                      </p>
@@ -350,6 +399,10 @@ UPTLC also leverages on information and communication technology in teaching and
                   <input id="tab-6" type="checkbox" name="tab">
                   <label for="tab-6" class="lbTM">தமிழ்மொழி &nbsp; கற்றல் &nbsp; வளர்ச்சிக்குழு <br/>Tamil Language Learning and Promotion Committee</label>
                   <div class="tab-content">
+		  <br/>
+<a href="/tlmoe/எஸ்பிளனேட்-கடலோரக்-கலை-அரங்கம்/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
                      <p>
                      <h4 style="padding-top:12px;margin:10px;color:#9b4490;">தமிழ்மொழி &nbsp; கற்றல் &nbsp; வளர்ச்சிக்குழு</h4>
                      </p>
