@@ -90,7 +90,6 @@ max-width:40%;
   margin-right: 10px;
   margin-bottom: 7px;
   
-  
 }
 .btnClass1:hover {
 background-color: lightgrey;!important;
@@ -126,9 +125,8 @@ background-color: lightgrey;!important;
     <div class="col1">
    <p style="margin-left: -4px;"> <strong>
 Mr Chan Chun Sing</strong> <br/>
-    Minister for Education</div><br/>
+    Minister for Education</p> </div><br/>
     <a href="#"> <div style="display:inline-block; font-family:KaiTi;font-size:25px;" class="video">Watch video</div></a>
-     </p> 
 </div>
     <br/>  <br/>
  <div class="row">
