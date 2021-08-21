@@ -529,13 +529,13 @@ $desktop: 960px + (2 * $gap) !default;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+  display:none ;!important; 
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
   float:right;
   border-radius:6px;
-  display:none ;!important; 
+  
 	
  }
 
