@@ -82,6 +82,19 @@ max-width:40%;
 background-color: lightgrey;!important;
  }
  
+ .btnvideo{
+  display:inline-block;
+  padding: 15px 20px;
+  text-align:center;
+  text-decoration:none;
+  background-color: #3BB9FF;!important; 
+  color: white !important;
+  border-radius:6px;
+  outline:none;
+  cursor:pointer;
+ margin-left: 30px;
+  margin-bottom: 7px;
+}
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -103,6 +116,9 @@ background-color: lightgrey;!important;
        <br/>[11.00am - 12.00pm] <br/></label>
  <div class="tab-content">      
        <br/>
+  <a href="#"> <div class="btnvideo" style="font-size:16px;margin-left:80px;">
+    Watch video</div></a>
+  <br/>
    <h4 style="padding-top:12px;margin:10px;color:#fa0;">Panelists</h4>
   <br/>
    <div class="row">
