@@ -19,7 +19,12 @@ td, th {
   text-align: left;
   padding: 8px;
 }
-
+  @media only screen and (max-width: 600px) {
+.tbl a {
+    position: absolute;
+    margin-left: -80px;
+}
+ )
 .hl{
     display: inline-block;
     padding: 12px 20px;
