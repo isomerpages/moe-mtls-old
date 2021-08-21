@@ -303,7 +303,10 @@ margin-left:25px;
   <a href="/tlmoe/tlep-jc_infosheet_students.pdf" target="_blank">TLEP JC Infosheet</a> &nbsp; 
   <a href="/tlmoe/tlep-sec-infosheet-students-2019.pdf" target="_blank">TLEP Sec Infosheet</a>
  <br/><br/>
- Pending video
+ <center><iframe width="560" height="315" src="https://www.youtube.com/embed/LScPxhnhtRw" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <p>TLEP Programmes<br/>
+  தமிழ்மொழி விருப்பப் பாடத்திட்ட நிகழ்ச்சிகளின் தொகுப்பு</p>
+</center>
  <br/><br/>
 <img src="/images/TL JC_Header06.png" align="left" style="width:50%;">
 <img src="/images/TL JC_Header12.png">
