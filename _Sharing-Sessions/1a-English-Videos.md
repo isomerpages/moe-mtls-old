@@ -122,7 +122,7 @@ background-color: lightgrey;!important;
        <br/>[11.00am - 12.00pm] <br/></label>
  <div class="tab-content">      
        <br/>
-  <a href="#"> <div class="btnvideo" style="font-size:16px;margin-left:80px;">
+  <a href="/eng/Panel-Discussion/"> <div class="btnvideo" style="font-size:16px;">
     Watch video</div></a>
   <br/>
    <h4 style="padding-top:12px;margin:10px;color:#fa0;">Panelists</h4>
