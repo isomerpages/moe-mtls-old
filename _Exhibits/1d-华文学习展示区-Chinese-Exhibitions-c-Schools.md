@@ -80,7 +80,7 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
-      <label for="tab-6" class="lbCh"><span style="font-size:25px;font-family:KaiTi">说我所想 <br/> 胜宝旺小学 </span><br/> [Sembawang Primary School]</label>
+      <label for="tab-6" class="lbCh"><span style="font-size:25px;font-family:KaiTi">说我所想 <br/> 胜宝旺小学 [Sembawang Primary School]</span></label>
       <div class="tab-content">
           <br/>
 <a href="/clmoe/胜宝旺小学/"> <div class="btnvideo" style="font-size:16px;">
@@ -107,7 +107,7 @@ the SLS to share their views with their peers and showcase their learning. This 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
-      <label for="tab-7" class="lbCh"><span style="font-size:25px;font-family:KaiTi">认识华族节日与美食 <br/>爱同学校 </span> [Ai Tong School]</label>
+      <label for="tab-7" class="lbCh"><span style="font-size:25px;font-family:KaiTi">认识华族节日与美食 <br/>爱同学校 [Ai Tong School]</span></label>
       <div class="tab-content">
                               <a href="/clmoe/爱同学校/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
@@ -131,7 +131,7 @@ the SLS to share their views with their peers and showcase their learning. This 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
-      <label for="tab-8" class="lbCh"><span style="font-size:25px;font-family:KaiTi">小任务，学习乐 <br/> 圣玛格烈小学 </span> [St. Margaret’s Primary School]</label>
+      <label for="tab-8" class="lbCh"><span style="font-size:25px;font-family:KaiTi">小任务，学习乐 <br/> 圣玛格烈小学 [St. Margaret’s Primary School]</span></label>
       <div class="tab-content">
           <a href="/clmoe/圣玛格烈小学/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
@@ -155,7 +155,7 @@ the SLS to share their views with their peers and showcase their learning. This 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-9" type="checkbox" name="tab">
-      <label for="tab-9" class="lbCh"><span style="font-size:25px;font-family:KaiTi">东源小学户外学习乐 <br/> 东源小学 </span>[East Spring Primary School]</label>
+      <label for="tab-9" class="lbCh"><span style="font-size:25px;font-family:KaiTi">东源小学户外学习乐 <br/> 东源小学 [East Spring Primary School]</span></label>
       <div class="tab-content">
                               <a href="/clmoe/东源小学/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
@@ -180,7 +180,7 @@ the SLS to share their views with their peers and showcase their learning. This 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-10" type="checkbox" name="tab">
-      <label for="tab-10" class="lbCh"><span style="font-size:25px;font-family:KaiTi">书香处处 <br/> 维林小学 </span>[Westwood Primary School]</label>
+      <label for="tab-10" class="lbCh"><span style="font-size:25px;font-family:KaiTi">书香处处 <br/> 维林小学 [Westwood Primary School]</span></label>
       <div class="tab-content">
           <a href="/clmoe/维林小学/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
@@ -206,7 +206,7 @@ the SLS to share their views with their peers and showcase their learning. This 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-11" type="checkbox" name="tab">
-      <label for="tab-11" class="lbCh"><span style="font-size:25px;font-family:KaiTi"> 混合式教学——美术馆在线导览 <br/> 德义中学 </span>[Deyi Secondary School]</label>
+      <label for="tab-11" class="lbCh"><span style="font-size:25px;font-family:KaiTi"> 混合式教学——美术馆在线导览 <br/> 德义中学 [Deyi Secondary School]</span></label>
       <div class="tab-content">
                               <a href="/clmoe/德义中学/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
@@ -231,7 +231,7 @@ the SLS to share their views with their peers and showcase their learning. This 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-12" type="checkbox" name="tab">
-    <label for="tab-12" class="lbCh"> <span style="font-size:25px;font-family:KaiTi">运用数码工具进行母语教学 <br/> 圣若瑟书院</span> [St. Joseph's Institution (Secondary)]
+    <label for="tab-12" class="lbCh"> <span style="font-size:25px;font-family:KaiTi">运用数码工具进行母语教学 <br/> 圣若瑟书院 [St. Joseph's Institution (Secondary)]</span>
 </label>
       <div class="tab-content">
           <a href="/clmoe/圣若瑟书院/"> <div class="btnvideo" style="font-size:16px;">
