@@ -132,7 +132,7 @@ Dalam Kurikulum Bahasa Ibunda, pelbagai peralatan ICT dan strategi pembelajaran 
       <label for="tab-12" class="lbML">Berseronok dengan permainan zaman silam <br/>E-Bridge Preschool @ Veranda Matilda</label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Tadika-MOE-(Farrer Park)/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/mlmoe/E-Bridge/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Berseronok dengan permainan zaman silam</h4>
@@ -156,7 +156,7 @@ Kerjasama antara ibu bapa dengan sekolah amat penting untuk meningkatkan kemahir
       <label for="tab-13" class="lbML">Permainan Tradisional - Congkak<br/>My First Skool (Chin Swee)</label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Tadika-MOE-(Farrer Park)/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/mlmoe/My-First-Skool/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Berseronok dengan permainan zaman silam</h4>
