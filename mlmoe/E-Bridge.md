@@ -9,7 +9,6 @@ breadcrumb: 'E-Bridge'
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'AW-726049306');
 </script>
 <a href="/exhibits/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/" style="float:right;">Back</a>
