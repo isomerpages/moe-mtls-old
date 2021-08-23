@@ -113,11 +113,11 @@ margin-left:25px;
     <td><img src="/images/TL Pri_UpdatedPicture4.png"></td>
     </tr>
  </table>
- <p style="text-align:justify;">மாணவர்களுக்குக் கூடுதல் ஆதரவு வழங்க வேண்டும் என்ற நோக்கில் கட்டுரைப் பயிற்சிகளில் ஆர்வமூட்டும் முன்நடவடிக்கைகள் இணைக்கப்பட்டுள்ளன.
+ <p style="text-align:justify;">மாணவர்களுக்குக் கூடுதல் ஆதரவு வழங்க வேண்டும் என்ற நோக்கில் கட்டுரைப் பயிற்சிகளில் ஆர்வமூட்டும் முன்நடவடிக்கைகள் இணைக்கப்பட்டுள்ளன. </p>
  <center>
   <table style="border-collapse: collapse; width: 100%;">
 <tr>
-    <td style="border: 0; text-align:left;padding:8px; width:40%;">இவை கட்டுரை எழுதுவதற்குத் தேவையான திறன்களை மாணவர்களிடையே வளர்க்கும் வண்ணம் வடிவமைக்கப்பட்டுள்ளன.</p><br/>
+    <td style="border: 0; text-align:left;padding:8px; width:40%;"><p>இவை கட்டுரை எழுதுவதற்குத் தேவையான திறன்களை மாணவர்களிடையே வளர்க்கும் வண்ணம் வடிவமைக்கப்பட்டுள்ளன.</p><br/>
       <img src="/tlmoe/tl-prisch06.png" style="width: 25%; margin-left: 286px;margin-top: -64px;">
       <img src="/tlmoe/image4.png">
     </td>
