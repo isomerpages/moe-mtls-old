@@ -79,7 +79,8 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1"  class="lbTM">கல்வி &nbsp; அமைச்சின் &nbsp; பாலர்பள்ளி, &nbsp; (பொங்கோல் &nbsp; கிரீன்)<br/>MK@Punggol Green</label>
+      <label for="tab-1"  class="lbTM">குழந்தைகளின் &nbsp; ஆரம்பகால &nbsp; இருமொழித் &nbsp; திறனை &nbsp; வளர்ப்பதற்கு &nbsp; ஒன்றிணைந்து &nbsp; செயற்படுவோம்!<br/>
+     கல்வி &nbsp; அமைச்சின் &nbsp; பாலர்பள்ளி, &nbsp; (பொங்கோல் &nbsp; கிரீன்) &nbsp; [MK@Punggol Green]</label>
       <div class="tab-content">
           <br/>
 <a href="/tlmoe/கல்வி-அமைச்சின்-பாலர்-பள்ளி-(ஃபேரர் பார்க்)/"> <div class="btnvideo" style="font-size:16px;">
@@ -107,7 +108,9 @@ Using interesting and interactive activities in a variety of meaningful and auth
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2"  class="lbTM">கல்வி &nbsp; அமைச்சின் &nbsp; பாலர் &nbsp; பள்ளி &nbsp; (ஃபெர்ன்வேல்)<br/>MK@Fernvale</label>
+      <label for="tab-2"  class="lbTM">தாய்மொழி &nbsp; கற்றலுக்கு, &nbsp; தகவல் &nbsp; தொடர்பு &nbsp; தொழில்நுட்பத்தின்வழி &nbsp; உயிர் &nbsp; கொடுப்போம்
+          <br/>
+          கல்வி &nbsp; அமைச்சின் &nbsp; பாலர் &nbsp; பள்ளி &nbsp; (ஃபெர்ன்வேல்) &nbsp; [MK@Fernvale]</label>
       <div class="tab-content">
           <br/>
 <a href="/tlmoe/கல்வி-அமைச்சின்-பாலர்-பள்ளி-(ஃபேரர் பார்க்)/"> <div class="btnvideo" style="font-size:16px;">
@@ -134,8 +137,10 @@ Various ICT tools and child-centric strategies are used to enhance the quality o
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3"  class="lbTM">ம.செ.க &nbsp; சமூக &nbsp; நிறுவனம் &nbsp; ஸ்பார்க்ல் &nbsp; டாட்ஸ் &nbsp; பயாலேபர் &nbsp; கட்டட &nbsp; எண் &nbsp; 23 &nbsp; பாலர்பள்ளி<br/>
-          PCF Sparkletots Preschool @ Paya Lebar Blk 23 (KN)</label>
+      <label for="tab-3"  class="lbTM">குதூகலமாகத் &nbsp; தமிழ் &nbsp; கற்றல்
+          <br/>
+          ம.செ.க &nbsp; சமூக &nbsp; நிறுவனம் &nbsp; ஸ்பார்க்ல் &nbsp; டாட்ஸ் &nbsp; பயாலேபர் &nbsp; கட்டட &nbsp; எண் &nbsp; 23 &nbsp; பாலர்பள்ளி &nbsp;
+          [PCF Sparkletots Preschool @ Paya Lebar Blk 23 (KN)]</label>
       <div class="tab-content">
           <br/>
 <a href="/tlmoe/கல்வி-அமைச்சின்-பாலர்-பள்ளி-(ஃபேரர் பார்க்)/"> <div class="btnvideo" style="font-size:16px;">
@@ -159,8 +164,10 @@ Various ICT tools and child-centric strategies are used to enhance the quality o
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4"  class="lbTM">ம.செ.க &nbsp; சமூக &nbsp; நிறுவனம் &nbsp; ஸ்பார்கல்டாட்ஸ் &nbsp; பாலர் &nbsp; பள்ளி, &nbsp; செங்காங் &nbsp; கிழக்கு,  &nbsp; புளோக் &nbsp; 187B
-         <br/>PCF Sparkletots Preschool @ Sengkang East Blk 187B
+      <label for="tab-4"  class="lbTM">வாழும் &nbsp; மொழியாக &nbsp; நம் &nbsp; தாய்மொழி
+          <br/>
+          ம.செ.க &nbsp; சமூக &nbsp; நிறுவனம் &nbsp; ஸ்பார்கல்டாட்ஸ் &nbsp; பாலர் &nbsp; பள்ளி, &nbsp; செங்காங் &nbsp; கிழக்கு,  &nbsp; புளோக் &nbsp; 187B &nbsp;
+         [PCF Sparkletots Preschool @ Sengkang East Blk 187B]
 </label>
       <div class="tab-content">
           <br/>
