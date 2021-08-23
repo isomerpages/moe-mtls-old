@@ -140,7 +140,7 @@ PENGAJARAN DAN PEMBELAJARAN
     <img src="/mlmoe/Kids work 1.jpeg">
   </div>
   <div class="column">
-    <img src="/mlmoe/Kids work 2.jpeg">
+    <img src="/mlmoe/Kid work 2.jpeg">
   </div>
   </div></center>
        </div></div>
