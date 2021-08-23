@@ -44,7 +44,7 @@ margin-left:25px;
 <a href="/exhibits/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Previous</a>
  <a href="/tlmoe/tl-sec/" class="btn" style="float:right;">Next</a>
  <br/>
-<img src="/images/TL-Pri-Header.jpg">
+<img src="/tlmoe/TL-Pri-Curriculum_Header.jpg">
 <p>
 <a href="#C1" style="font-size:20px"><span style="color:blue;">தொடக்கப்பள்ளிப் பாடக்கலைத்திட்டம் 
 </span></a><br/>
