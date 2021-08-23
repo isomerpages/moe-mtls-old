@@ -113,7 +113,7 @@ margin-left:25px;
     <td><img src="/images/TL Pri_UpdatedPicture4.png"></td>
     </tr>
  </table>
- <p style="text-align:justify;">மாணவர்களுக்குக் கூடுதல் ஆதரவு வழங்க வேண்டும் என்ற நோக்கில் கட்டுரைப் பயிற்சிகளில் ஆர்வமூட்டும் முன்நடவடிக்கைகள் இணைக்கப்பட்டுள்ளன. </p>
+ <p style="text-align:left;">மாணவர்களுக்குக் &nbsp; கூடுதல் &nbsp; ஆதரவு &nbsp; வழங்க &nbsp; வேண்டும் &nbsp; என்ற &nbsp; நோக்கில் &nbsp; கட்டுரைப் &nbsp; பயிற்சிகளில் &nbsp; ஆர்வமூட்டும் &nbsp; முன்நடவடிக்கைகள் &nbsp; இணைக்கப்பட்டுள்ளன. </p>
  <center>
   <table style="border-collapse: collapse; width: 100%;">
 <tr>
