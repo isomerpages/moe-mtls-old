@@ -50,7 +50,7 @@ margin-left:25px;
 <a href="/exhibits/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Previous</a>
  <a href="/tlmoe/tl-prisch/" class="btn" style="float:right;">Next</a>
  <br/>
-<img src="/images/TL-PreSch-Header.jpg">
+<img src="/tlmoe/TL-PreSch-Curriculum_Header.jpg">
 <p>
 <a href="#C1" style="font-size:18px"><span style="color:blue;text-align:justify;">தாய்மொழிகளுக்கான &nbsp; இளம் &nbsp; மாணவர்களைப் &nbsp; பேணி &nbsp; வளர்க்கும் &nbsp; பணிச்சட்டம்
 
