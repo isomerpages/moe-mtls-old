@@ -137,7 +137,7 @@ PENGAJARAN DAN PEMBELAJARAN
         <center>
  <div class="row">
   <div class="column">
-    <img src="/mlmoe/Kids work 1.jpeg">
+    <img src="/mlmoe/kids-activity-workbook.jpeg">
   </div>
   <div class="column">
     <img src="/mlmoe/Kid work 2.jpeg">
