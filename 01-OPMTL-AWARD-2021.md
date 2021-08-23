@@ -1,8 +1,8 @@
 ---
 title: 'Outstanding Pre-school Mother Tongue Language  Teacher Award'
-permalink: /OPMTL-AWARD-2020/
+permalink: /OPMTL-AWARD-2021/
 breadcrumb: 'OPMTL Teacher Award'
-collection_name: OPMTL AWARD 2020
+collection_name: OPMTL AWARD 2021
 ---
 
 <html>
@@ -41,10 +41,7 @@ max-width:50%;
 
   gtag('config', 'AW-726049306');
 </script>
- 
- <h3 style="line-height:1.1;"><center>OUTSTANDING PRE-SCHOOL MOTHER TONGUE LANGUAGE 
-TEACHER AWARD 2021- LIST OF RECIPIENTS & JUDGES
-  </center></h3>
+
 
 <h5> <strong> Outstanding Award Winners </strong></h5>
 <br/>
