@@ -80,8 +80,9 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
- <label for="tab-1" class="lbTM">மேரிமௌண்ட் &nbsp; பள்ளி  
-<br/>Marymount Convent School</label>
+ <label for="tab-1" class="lbTM"> பெற்றோருடன் &nbsp; மகள் &nbsp;  - &nbsp; ஒரு &nbsp;  வாசிப்புப் &nbsp;  பந்தம் &nbsp; வாசிப்பின் &nbsp;  மூலம் &nbsp; பெற்றோர் &nbsp; - &nbsp; பிள்ளை &nbsp; பிணைப்பு
+  <br/>
+  மேரிமௌண்ட் &nbsp; பள்ளி &nbsp; [Marymount Convent School]</label>
       <div class="tab-content">
        <br/>
 <a href=" /tlmoe/N4-குழுமம்-(தொடக்கப்பள்ளிகள்)/"> <div class="btnvideo" style="font-size:16px;">
@@ -105,7 +106,8 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbTM">யீஷூன் &nbsp; தொடக்கப்பள்ளிி<br/>Yishun Primary School</label>
+      <label for="tab-2" class="lbTM">நிரலாக்கத்தின்வழித் &nbsp; தமிழ்மொழி <br/>
+       யீஷூன் &nbsp; தொடக்கப்பள்ளிி &nbsp; [Yishun Primary School]</label>
       <div class="tab-content">
       <br/>
 <a href=" /tlmoe/N4-குழுமம்-(தொடக்கப்பள்ளிகள்)/"> <div class="btnvideo" style="font-size:16px;">
@@ -130,7 +132,9 @@ Such game-based learning was introduced as an effective approach to learn the la
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-      <label for="tab-3">யீஷூன் &nbsp; தொடக்கப்பள்ளி <br/> Montfort Junior School</label>
+      <label for="tab-3">வகுப்பறைகளிலும் &nbsp; வகுப்பறைக்கப்பாலும் &nbsp; மகிழ்வூட்டும் &nbsp; கற்றல்
+       <br/>
+       மொன்ஃபர்ட் &nbsp; ஜூனியர் &nbsp; பள்ளிி &nbsp;  [Montfort Junior School]</label>
       <div class="tab-content">
      <br/>
 <a href=" /tlmoe/N4-குழுமம்-(தொடக்கப்பள்ளிகள்)/"> <div class="btnvideo" style="font-size:16px;">
@@ -154,8 +158,9 @@ Such game-based learning was introduced as an effective approach to learn the la
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4" class="lbTM">தெமாசெக் &nbsp; உயர்நிலைப் &nbsp; பள்ளியில்
-       <br/>Temasek Secondary School</label>
+      <label for="tab-4" class="lbTM"> நாடகத்தின்வழியே &nbsp; மாணவர்களின் &nbsp; கற்றல் &nbsp; திறன்களை &nbsp; மேம்படுத்துதல் &nbsp; (கலவைமுறைவழி &nbsp; அணுகுதல்)
+       <br/>
+       தெமாசெக் &nbsp; உயர்நிலைப் &nbsp; பள்ளியில் &nbsp; [Temasek Secondary School]</label>
       <div class="tab-content">
        <br/>
 <a href=" /tlmoe/N4-குழுமம்-(தொடக்கப்பள்ளிகள்)/"> <div class="btnvideo" style="font-size:16px;">
