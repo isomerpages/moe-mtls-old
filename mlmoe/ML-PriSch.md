@@ -135,15 +135,15 @@ PENGAJARAN DAN PEMBELAJARAN
    <label for="tab-4" class="lbML">- Melibatkan murid secara aktif</label>
      <div class="tab-content">
         <center>
- <div class="row">
-  <div class="column">
-    <img src="/mlmoe/kids-activity-workbook.jpeg">
-  </div>
-  <div class="column">
+ <table>
+   <tr>
+     <td style="width:33.33%;">
+       <img src="/mlmoe/kids-activity-workbook.jpeg">
+  </td>
+     <td style="width:66.67%;">
     <img src="/mlmoe/ml-pri_kids-workbook-activities.png">
-  </div>
-  </div></center>
-       </div></div>
+  </td>
+   </tr></table></center>
 
       <p id="C2" style="font-size:30px;"><strong>SOKONGAN IBU BAPA</strong><br/><br/>
       <img src="/mlmoe/ML-Pri_Poster05.jpg"> 
