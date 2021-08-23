@@ -83,7 +83,7 @@ background-color: lightgrey;!important;
       <label for="tab-2" class="lbML">	Perkhemahan Budaya dan Bahasa Melayu Darjah 3<br/> Admiralty Primary School</label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Tadika-MOE-(Farrer Park)/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/mlmoe/Admiralty/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Perkhemahan Budaya dan Bahasa Melayu Darjah 3</h4>
@@ -107,7 +107,7 @@ background-color: lightgrey;!important;
       <label for="tab-1" class="lbML">Pelajaran Lisan Kendiri <br/>Park View Primary School</label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Tadika-MOE-(Farrer Park)/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/mlmoe/Park-View/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Pelajaran Lisan Kendiri  </h4>
@@ -131,7 +131,7 @@ background-color: lightgrey;!important;
       <label for="tab-3" class="lbML">Bersedia, Mula, Menulis!<br/>Lakeside Primary School</label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Tadika-MOE-(Farrer Park)/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/mlmoe/Lakeside/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Bersedia, Mula, Menulis!</h4>
@@ -158,7 +158,7 @@ background-color: lightgrey;!important;
       <label for="tab-4" class="lbML">Drama@QTSS (Drama dalam Pengajaran bagi Meningkatkan Pencapaian dan Motivasi Pelajar)<br/>Queenstown Secondary School</label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Tadika-MOE-(Farrer Park)/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/mlmoe/Queenstown/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Drama@QTSS (Drama dalam Pengajaran bagi Meningkatkan Pencapaian dan Motivasi Pelajar)</h4>
