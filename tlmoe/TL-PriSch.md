@@ -113,6 +113,17 @@ margin-left:25px;
     <td><img src="/images/TL Pri_UpdatedPicture4.png"></td>
     </tr>
  </table>
+  <center>
+ <div class="row">
+  <div class="column">
+    <p>மாணவர்களுக்குக் கூடுதல் ஆதரவு வழங்க வேண்டும் என்ற நோக்கில் கட்டுரைப் பயிற்சிகளில் ஆர்வமூட்டும் முன்நடவடிக்கைகள் இணைக்கப்பட்டுள்ளன. இவை கட்டுரை எழுதுவதற்குத் தேவையான திறன்களை மாணவர்களிடையே வளர்க்கும் வண்ணம் வடிவமைக்கப்பட்டுள்ளன.</p><br/>
+      <img src="/tlmoe/tl-prisch06.png" style="width: 25%; margin-left: 286px;margin-top: -64px;">
+      <img src="/tlmoe/image4.png">
+  </div>
+  <div class="column">
+    <img src="/images/TL Pri_UpdatedPicture2.png">
+  </div>
+  </div></center>
  <center>
   <table style="border-collapse: collapse; width: 100%;">
 <tr>
