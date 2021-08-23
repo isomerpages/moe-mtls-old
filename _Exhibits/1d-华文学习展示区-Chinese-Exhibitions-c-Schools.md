@@ -133,7 +133,7 @@ the SLS to share their views with their peers and showcase their learning. This 
       <input id="tab-8" type="checkbox" name="tab">
       <label for="tab-8" class="lbCh"><span style="font-size:25px;font-family:KaiTi">圣玛格烈小学 </span><br/>St. Margaret’s Primary School</label>
       <div class="tab-content">
-          <a href="/clmoe/圣玛格烈小学 /"> <div class="btnvideo" style="font-size:16px;">
+          <a href="/clmoe/圣玛格烈小学/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
 
