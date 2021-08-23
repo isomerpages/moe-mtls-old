@@ -79,7 +79,7 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1"  class="lbTM">கல்வி &nbsp; அமைச்சின் &nbsp; பாலர்பள்ளி, &nbsp; (பொங்கோல் &nbsp; கிரீன்)<br/>MK @ Punggol Green</label>
+      <label for="tab-1"  class="lbTM">கல்வி &nbsp; அமைச்சின் &nbsp; பாலர்பள்ளி, &nbsp; (பொங்கோல் &nbsp; கிரீன்)<br/>MK@Punggol Green</label>
       <div class="tab-content">
           <br/>
 <a href="/tlmoe/கல்வி-அமைச்சின்-பாலர்-பள்ளி-(ஃபேரர் பார்க்)/"> <div class="btnvideo" style="font-size:16px;">
@@ -107,7 +107,7 @@ Using interesting and interactive activities in a variety of meaningful and auth
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2"  class="lbTM">கல்வி &nbsp; அமைச்சின் &nbsp; பாலர் &nbsp; பள்ளி &nbsp; (ஃபெர்ன்வேல்)<br/>MK @ Fernvale</label>
+      <label for="tab-2"  class="lbTM">கல்வி &nbsp; அமைச்சின் &nbsp; பாலர் &nbsp; பள்ளி &nbsp; (ஃபெர்ன்வேல்)<br/>MK@Fernvale</label>
       <div class="tab-content">
           <br/>
 <a href="/tlmoe/கல்வி-அமைச்சின்-பாலர்-பள்ளி-(ஃபேரர் பார்க்)/"> <div class="btnvideo" style="font-size:16px;">
