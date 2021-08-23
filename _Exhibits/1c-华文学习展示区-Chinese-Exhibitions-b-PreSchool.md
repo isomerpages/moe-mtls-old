@@ -86,7 +86,8 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-    <label for="tab-1" class="lbCh"><span style="font-size:25px;font-family:KaiTi">教育部幼儿园（丰伟）</span> <br/> MK@Fernvale </label>
+    <label for="tab-1" class="lbCh"><span style="font-size:25px;font-family:KaiTi">通过数码资讯科技，让母语学习活起来 <br/>
+     教育部幼儿园（丰伟）</span> [MK@Fernvale] </label>
       <div class="tab-content">
        <br/>
        <a href="/clmoe/爱加倍实龙岗分校/"> <div class="btnvideo" style="font-size:16px;">
@@ -113,7 +114,7 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-    <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi">新加坡福建会馆幼儿园 </span><br/>Singapore Hokkien Huay Kuan Pre-school</label>
+    <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi">乐学活用 <br/> 新加坡福建会馆幼儿园 </span> [Singapore Hokkien Huay Kuan Pre-school]</label>
       <div class="tab-content">
         <br/>
        <a href="/clmoe/SHHK/"> <div class="btnvideo" style="font-size:16px;">
@@ -141,7 +142,7 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-    <label for="tab-3" class="lbCh"><span style="font-size:25px;font-family:KaiTi">冠智学习与艺术园 </span><br/>Nobleland Arts N Learning Place @ Bishan</label>
+    <label for="tab-3" class="lbCh"><span style="font-size:25px;font-family:KaiTi">我爱华文，我爱艺术的真， 善， 美！<br/> 冠智学习与艺术园 </span>(>Nobleland Arts N Learning Place @ Bishan)</label>
       <div class="tab-content">
         <br/>
        <a href="/clmoe/冠智学习与艺术园/"> <div class="btnvideo" style="font-size:16px;">
@@ -168,7 +169,7 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-    <label for="tab-4" class="lbCh"> PCF Sparkletots Preschool @ Woodlands Blk 801 (CC)<br/> &nbsp;</label>
+ <label for="tab-4" class="lbCh"><span style="font-size:25px;font-family:KaiTi">演一演, 说一说 </span><br/> PCF Sparkletots Preschool @ Woodlands Blk 801 (CC)</label>
       <div class="tab-content">
         <br/>
        <a href="/clmoe/PCF-Sparkletots-Preschool/"> <div class="btnvideo" style="font-size:16px;">
@@ -193,7 +194,8 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5" class="lbCh">Creative O Preschoolers’ Bay<br/> &nbsp;</label>
+      <label for="tab-5" class="lbCh"><span style="font-size:25px;font-family:KaiTi">母语学习-用全语言让母语活起来！ </span> <br/>
+       Creative O Preschoolers’ Bay</label>
       <div class="tab-content">
         <br/>
        <a href="/clmoe/Creative-O/"> <div class="btnvideo" style="font-size:16px;">
