@@ -103,7 +103,7 @@ Ms Rilla Melati Bahri
       <div class="tab-content">      
        <br/>
        <a href="/ml/Ms-Asnida-Daud/"> <div class="btnvideo" style="font-size:16px;">
-    Watch video</div></a>
+    Watch Session</div></a>
   <br/>
 
   <div class="row">
@@ -153,7 +153,7 @@ Ms Rilla Melati Bahri
       <div class="tab-content">
        <br/>
        <a href="/ml/Ms-Asnida-Daud/"> <div class="btnvideo" style="font-size:16px;">
-    Watch video</div></a>
+    Watch Session</div></a>
   <br/>
 
   <div class="row">
@@ -198,7 +198,7 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
       <div class="tab-content">      
        <br/>
        <a href="/ml/Ms-Asnida-Daud/"> <div class="btnvideo" style="font-size:16px;">
-    Watch video</div></a>
+    Watch Session</div></a>
   <br/>
 
   <div class="row">
@@ -237,7 +237,7 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
       <div class="tab-content">      
        <br/>
        <a href="/ml/Ms-Asnida-Daud/"> <div class="btnvideo" style="font-size:16px;">
-    Watch video</div></a>
+    Watch Session</div></a>
   <br/>
 
   <div class="row">
@@ -277,7 +277,7 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
       <div class="tab-content">      
        <br/>
        <a href="/ml/Ms-Asnida-Daud/"> <div class="btnvideo" style="font-size:16px;">
-    Watch video</div></a>
+    Watch Session</div></a>
   <br/>
 
   <div class="row">
@@ -318,7 +318,7 @@ In recent years, we often read about an increased number of children with specia
       <div class="tab-content">      
        <br/>
                               <a href="/ml/Ms-Asnida-Daud/"> <div class="btnvideo" style="font-size:16px;">
-    Watch video</div></a>
+    Watch Session</div></a>
   <br/>
 
   <div class="row">
@@ -360,7 +360,7 @@ What can educators and parents do to motivate young minds to love learning Malay
       <div class="tab-content">      
        <br/>
        <a href="/ml/Ms-Asnida-Daud/"> <div class="btnvideo" style="font-size:16px;">
-    Watch video</div></a>
+    Watch Session</div></a>
   <br/>
 
   <div class="row">
@@ -408,7 +408,7 @@ Statistics have shown that more children are growing up in English-speaking fami
       <div class="tab-content">      
        <br/>
        <a href="/ml/Ms-Asnida-Daud/"> <div class="btnvideo" style="font-size:16px;">
-    Watch video</div></a>
+    Watch Session</div></a>
   <br/>
 
   <div class="row">
@@ -448,7 +448,7 @@ In Mdm Nurain Syakirah’s sharing, parents and educators will understand how re
       <div class="tab-content">      
        <br/>
        <a href="/ml/Ms-Asnida-Daud/"> <div class="btnvideo" style="font-size:16px;">
-    Watch video</div></a>
+    Watch Session</div></a>
   <br/>
 
   <div class="row">
