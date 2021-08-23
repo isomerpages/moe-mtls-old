@@ -298,7 +298,7 @@ margin-left:25px;
  <li style="text-align:justify;"><strong>தேசியத் தொடக்கக்கல்லூரி
  </strong></li><br/>
 </ul>
-  <img src="/tlmoe/TL-PreU_Poster09.jpg"><br/>
+  <img src="/tlmoe/TL-PreU_TLEP-Poster.jpg"><br/>
   <a href="/tlmoe/tlep-jc_infosheet_students.pdf" target="_blank">TLEP JC Infosheet</a> &nbsp; 
   <a href="/tlmoe/tlep-sec-infosheet-students-2019.pdf" target="_blank">TLEP Sec Infosheet</a>
  <br/><br/>
