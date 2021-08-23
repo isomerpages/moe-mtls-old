@@ -134,7 +134,15 @@ PENGAJARAN DAN PEMBELAJARAN
       <input id="tab-4" type="checkbox" name="tab">
    <label for="tab-4" class="lbML">- Melibatkan murid secara aktif</label>
      <div class="tab-content">
-       <img src="/images/ML-meli.png">  
+        <center>
+ <div class="row">
+  <div class="column">
+    <img src="/mlmoe/Kids work 1.jpeg">
+  </div>
+  <div class="column">
+    <img src="/mlmoe/Kids work 2.jpeg">
+  </div>
+  </div></center>
        </div></div>
        <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
@@ -190,7 +198,7 @@ PENGAJARAN DAN PEMBELAJARAN
 </li>
 </p>
 
-  <p style="font-size:25px;font-weight:bold;">Klip video yang digunakan oleh murid-murid</p>
+  <p style="font-size:25px;font-weight:bold;">Klip video yang digunakan oleh murid-murid:</p>
  <center>
  <div class="row">
   <div class="column">
