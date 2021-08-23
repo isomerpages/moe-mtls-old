@@ -154,7 +154,7 @@ margin-left:25px;
   
  <h2 id="C3" style="font-family:Anjal New InaiMathi Sch Book; font-size:36px; font-weight:bold; text-align:center;">தமிழ்மொழிப் பாடத்திட்டம் 2021</h2>
 <img src="/images/TL-Sec_Poster01.jpg"><br/>
- <a href="https://www.mtls.edu.sg/Gallery/2021-tamil-curriculum.pdf" target="_blank" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பாடத்திட்டம் 2021 (உயர்நிலை)</a><br/>
+ <a href="https://www.mtls.edu.sg/exhibits/2021-tamil-curriculum.pdf" target="_blank" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பாடத்திட்டம் 2021 (உயர்நிலை)</a><br/>
   
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
@@ -228,7 +228,7 @@ margin-left:25px;
 <img src="/images/TL-Sec_Poster10.jpg"><br/>
   <img src="/images/TL-Sec_Poster11.jpg">
 <br/>
-  <a href="https://www.mtls.edu.sg/Gallery/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019</a><br/>
+  <a href="https://www.mtls.edu.sg/exhibits/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019</a><br/>
   <img src="/images/TL-Sec_Poster12.jpg">
 
 <h2 id="C7" style="font-family:Anjal New InaiMathi Sch Book; font-size:36px; font-weight:bold; text-align:center;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்<br/>
@@ -239,8 +239,8 @@ margin-left:25px;
 </p><br/>
 <img src="/images/TL-Sec_Poster14.jpg">
    <br/>
-  <a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">TLEP Infosheet - Secondary</a>
-  <a href="/Gallery/TL-Sec-tlep-jc-infosheet-students.pdf" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">TLEP Infosheet - JC</a>
+  <a href="/exhibits/TL-Sec-tlep-jc-infosheet-students.pdf" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">TLEP Infosheet - Secondary</a>
+  <a href="/exhibits/TL-Sec-tlep-jc-infosheet-students.pdf" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">TLEP Infosheet - JC</a>
    <br/>
  <img src="/images/TL-Sec_Poster13.jpg">  
 <br/><br/>
