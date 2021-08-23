@@ -140,7 +140,7 @@ PENGAJARAN DAN PEMBELAJARAN
     <img src="/mlmoe/kids-activity-workbook.jpeg">
   </div>
   <div class="column">
-    <img src="/mlmoe/Kid work 2.jpeg">
+    <img src="/mlmoe/ml-pri_kids-workbook-activities.png">
   </div>
   </div></center>
        </div></div>
