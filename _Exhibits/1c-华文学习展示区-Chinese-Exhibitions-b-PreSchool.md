@@ -116,7 +116,7 @@ background-color: lightgrey;!important;
     <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi">新加坡福建会馆幼儿园 </span><br/>Singapore Hokkien Huay Kuan Pre-school</label>
       <div class="tab-content">
         <br/>
-       <a href="/clmoe/爱加倍实龙岗分校/"> <div class="btnvideo" style="font-size:16px;">
+       <a href="/clmoe/SHHK/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">乐学活用</h4>
@@ -144,7 +144,7 @@ background-color: lightgrey;!important;
     <label for="tab-3" class="lbCh"><span style="font-size:25px;font-family:KaiTi">冠智学习与艺术园 </span><br/>Nobleland Arts N Learning Place @ Bishan</label>
       <div class="tab-content">
         <br/>
-       <a href="/clmoe/SHHK/"> <div class="btnvideo" style="font-size:16px;">
+       <a href="/clmoe/冠智学习与艺术园/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">我爱华文，我爱艺术的真、善、美！</h4>
