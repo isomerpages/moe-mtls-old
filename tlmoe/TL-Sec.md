@@ -228,7 +228,7 @@ margin-left:25px;
 <img src="/images/TL-Sec_Poster10.jpg"><br/>
   <img src="/images/TL-Sec_Poster11.jpg">
 <br/>
-  <a href="https://www.mtls.edu.sg/exhibits/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019</a><br/>
+  <a href="/exhibits/2019-literature-in-tamil-(secondary)-syllabus.pdf" target="_blank" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ் இலக்கியப் பாடத்திட்டப் பணிச்சட்டம் 2019</a><br/>
   <img src="/images/TL-Sec_Poster12.jpg">
 
 <h2 id="C7" style="font-family:Anjal New InaiMathi Sch Book; font-size:36px; font-weight:bold; text-align:center;">தமிழ்மொழி விருப்பப்பாடத் திட்டம்<br/>
