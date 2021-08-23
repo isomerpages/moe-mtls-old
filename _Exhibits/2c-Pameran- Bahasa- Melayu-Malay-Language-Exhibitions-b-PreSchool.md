@@ -79,8 +79,7 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-10" type="checkbox" name="tab">
-      <label for="tab-10" class="lbML">Mari Bekerjasama untuk Membangunkan Dwibahasa pada Peringkat Awal Kanak-kanak!  <br/>MK@Punggol Green 
-(3MTL)
+      <label for="tab-10" class="lbML">Mari Bekerjasama untuk Membangunkan Dwibahasa pada Peringkat Awal Kanak-kanak!  <br/>MK@Punggol Green
 </label>
       <div class="tab-content">
           <br/>
