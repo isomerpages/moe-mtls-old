@@ -84,7 +84,7 @@ background-color: lightgrey;!important;
 </label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Tadika-MOE-(Farrer Park)/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/mlmoe/Punggol-Green/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari Bekerjasama untuk Membangunkan Dwibahasa pada Peringkat Awal Kanak-kanak!</h4>
@@ -108,7 +108,7 @@ Dengan menyertai aktiviti yang menyeronokkan lagi interaktif dalam pelbagai situ
       <label for="tab-11" class="lbML">Menghidupkan pembelajaran Bahasa Ibunda melalui ICT <br/>MK@Fernvale</label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Tadika-MOE-(Farrer Park)/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/mlmoe/Fernvale/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Menghidupkan pembelajaran Bahasa Ibunda melalui ICT</h4>
