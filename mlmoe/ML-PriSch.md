@@ -148,7 +148,7 @@ PENGAJARAN DAN PEMBELAJARAN
       <p id="C2" style="font-size:30px;"><strong>SOKONGAN IBU BAPA</strong><br/><br/>
       <img src="/mlmoe/ML-Pri_Poster05.jpg"> 
       </p>
-<p style="font-size:25px;text-align:justify;"> Ibu bapa boleh bermain beberapa permainan dengan anak anda agar dapat meningkatkan dan meluaskan kosa kata anak. </p>
+<p style="font-size:25px;text-align:justify;"> Ibu bapa boleh bermain beberapa permainan dengan anak anda agar dapat meningkatkan dan meluaskan kosa kata katanya. </p>
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
    <label for="tab-6" class="lbML">Permainan Perkataan Berangkai
@@ -188,8 +188,7 @@ PENGAJARAN DAN PEMBELAJARAN
   
   <li>Menggalakkan anak anda untuk terus mencuba.    </li>
 
-  <li>Selain itu, permainan yang disarankan juga dapat 
-   mengeratkan hubungan antara anak dengan ibu bapa.
+  <li>Jika dijalankan dengan baik, permainan yang disarankan dapat mengeratkan hubungan antara anak dengan ibu bapa.
 </li>
 </p>
 
