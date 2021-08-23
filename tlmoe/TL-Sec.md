@@ -154,7 +154,7 @@ margin-left:25px;
   
  <h2 id="C3" style="font-family:Anjal New InaiMathi Sch Book; font-size:36px; font-weight:bold; text-align:center;">தமிழ்மொழிப் பாடத்திட்டம் 2021</h2>
 <img src="/images/TL-Sec_Poster01.jpg"><br/>
- <a href="https://www.mtls.edu.sg/exhibits/2021-tamil-curriculum.pdf" target="_blank" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பாடத்திட்டம் 2021 (உயர்நிலை)</a><br/>
+ <a href="/exhibits/2021-tamil-curriculum.pdf" target="_blank" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">தமிழ்மொழிப் பாடத்திட்டம் 2021 (உயர்நிலை)</a><br/>
   
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
