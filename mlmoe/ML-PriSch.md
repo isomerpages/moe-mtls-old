@@ -144,12 +144,7 @@ PENGAJARAN DAN PEMBELAJARAN
   </div>
   </div></center>
        </div></div>
-       <div class="atab">
-      <input id="tab-5" type="checkbox" name="tab">
-   <label for="tab-5" class="lbML">- Berdasarkan situasi sebenar dan bermakna</label>
-     <div class="tab-content">
-       <img src="/images/ML-10.png">  
-       </div></div>
+
       <p id="C2" style="font-size:30px;"><strong>SOKONGAN IBU BAPA</strong><br/><br/>
       <img src="/mlmoe/ML-Pri_Poster05.jpg"> 
       </p>
