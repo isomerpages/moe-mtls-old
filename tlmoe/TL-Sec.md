@@ -109,7 +109,7 @@ margin-left:25px;
 <a href="/exhibits/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Previous</a>
  <a href="/tlmoe/tl-preu/" class="btn" style="float:right;">Next</a>
  <br/>
-<img src="/images/TL-Sec_Header.jpg">
+<img src="/tlmoe/TL-Sec-Curriculum_Header.jpg">
 <center><p style="vertical-align:middle;">
  <a href="#C5" style="background-color: purple; font-size: 20px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 16px; display: inline-block; miso-padding-alt: 0;">அறிமுகம்</a>
  <a href="#C1" style="background-color: purple; font-size: 20px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 16px; display: inline-block; miso-padding-alt: 0; text-align:center;">உயர்நிலைப் பாடக்கலைத்திட்டங்கள்</a>
