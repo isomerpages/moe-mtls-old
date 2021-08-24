@@ -51,15 +51,13 @@ margin-left:25px;
     padding: 0;
   }
   }
- @media only screen and (max-width:800px) {
-.c1 {
-    float: left;
+   @media only screen and (max-width:500px) {
+.column {
     width: 100%;
-    margin-left: -23%;
-    margin-top: -102%;
+    padding: 0;
   }
-  
   }
+ 
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -149,7 +147,7 @@ margin-left:25px;
       <img src="/tlmoe/tl-prisch06.png" style="width: 25%; margin-left: 286px;margin-top: -64px;">
       <img src="/tlmoe/image4.png">
  </div>
-<div class="column c1" style="float: left;width: 48%; padding: 5px;">
+<div class="column" style="float: left;width: 48%; padding: 5px;">
    <img src="/images/TL Pri_UpdatedPicture2.png">
   </div>
  </div>
