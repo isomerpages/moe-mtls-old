@@ -46,13 +46,25 @@ padding-left: 23px !important;
 margin-left:25px;
 }
  @media only screen and (max-width:800px) {
-
-  .column {
+.column {
     width: 100%;
     padding: 0;
   }
   }
- 
+  @media only screen and (max-width:800px) {
+.img1
+ width: 25%;
+    margin-left: 187px;
+    margin-top: -68px;
+}
+  }
+  @media only screen and (max-width:800px) {
+.main {
+    margin-top: 107%;
+    margin-left: 27%;
+    width: 100%;
+  }
+  }
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -138,7 +150,8 @@ margin-left:25px;
 <div class="row">
   <div class="column" style="float: left;width: 48%; padding: 5px;">
     <p>இவை கட்டுரை எழுதுவதற்குத் தேவையான திறன்களை மாணவர்களிடையே வளர்க்கும் வண்ணம் வடிவமைக்கப்பட்டுள்ளன.</p><br/>
-      <img src="/tlmoe/tl-prisch06.png" style="width: 25%; margin-left: 286px;margin-top: -64px;">
+    <div class="img1">
+      <img src="/tlmoe/tl-prisch06.png" style="width: 25%; margin-left: 286px;margin-top: -64px;"></div>
       <img src="/tlmoe/image4.png">
  </div>
 <div class="column" style="float: left;width: 48%; padding: 5px;">
