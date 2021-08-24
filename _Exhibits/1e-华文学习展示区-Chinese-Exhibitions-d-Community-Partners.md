@@ -83,6 +83,7 @@ background-color: lightgrey;!important;
     <div><h2 style="font-family:KaiTi;color:#d84178;">社区合作伙伴</h2></div>
       <br/>
     <img src="/images/MTLS2021_Challenge_CL.jpg" style="width:100%">
+       <br/>
   <table class="tbl">
       <tbody>
       <tr>
