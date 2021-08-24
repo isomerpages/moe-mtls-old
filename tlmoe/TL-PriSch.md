@@ -125,7 +125,6 @@ margin-left:25px;
    <img src="/images/TL Pri_UpdatedPicture2.png"> </td>
      </tr>
   </table></center>
-<br/>
 <h4 id="C6"><span style="font-size:30px; color:purple;">இல்லம் சார்ந்த கற்றலுக்கு உதவும் தகவல் தொடர்புத் தொழில்நுட்பம் 
 </span></h4>
 <img src="/images/TL Pri_UpdatedPicture3.png">
