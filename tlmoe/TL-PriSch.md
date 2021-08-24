@@ -45,7 +45,13 @@ padding-bottom: 10px !important;
 padding-left: 23px !important;
 margin-left:25px;
 }
- 
+ @media only screen and (max-width:800px) {
+
+  .column {
+    width: 100%;
+    padding: 0;
+  }
+  }
  
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
@@ -110,8 +116,7 @@ margin-left:25px;
  </center>
 <img src="/tlmoe/TL-Pri_Poster03.jpg">
 <img src="/tlmoe/TL-Pri_Poster04.jpg">
-
- <br/>
+<br/>
   <h4 id="C4"><span style="font-size:30px;color:purple;">விளையாட்டுவழிக் கற்றலும் வெற்றிக் கொண்டாட்டமும்
 </span></h4>
  <img src="/images/MOE-Curriculum-TL-Primary-Image-3.jpg">
@@ -140,6 +145,7 @@ margin-left:25px;
    <img src="/images/TL Pri_UpdatedPicture2.png">
   </div>
  </div>
+  <br/>
  <h4 id="C6"><span style="font-size:30px; color:purple;">இல்லம் சார்ந்த கற்றலுக்கு உதவும் தகவல் தொடர்புத் தொழில்நுட்பம் 
 </span></h4>
 <img src="/images/TL Pri_UpdatedPicture3.png">
