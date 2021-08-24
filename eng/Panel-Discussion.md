@@ -26,47 +26,108 @@ max-width:20%;
 <div class="video-container">
 <iframe src="https://player.vimeo.com/video/566417011" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
     *Video is best viewed in 1080p.<br/>
-  <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Moderator</h4>
-   
-   <p style="margin:10px;"><strong>Ms Sun Xueling </strong><br/>
-    Minister of State, Ministry of Education & <br/>Ministry of Social and Family Development</p><br/>
-       
- <h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Profile of Panellists</h4>
-  
-  <p style="margin:10px;"><strong>Mr Lawrence Wong </strong><br/>
- Minister for Education and Second Minister for Finance
+  <h4 style="padding-top:12px;margin:10px;color:#fa0;">Panelists</h4>
+  <br/>
+   <div class="row">
+ <div class="column">
+<img src="/images/Chan-Chun-Sing.png" style="width:100%">
+   </div>
+    <div class="col1">
+   <p style="margin-left: -4px;"> <strong>
+Mr Chan Chun Sing</strong> <br/>
+    Minister for Education</p> </div>
+    </div>
+<br/>  <br/>
+ <div class="row">
+ <div class="column">
+<img src="/images/Sun-Xueling.png" style="width:100%">
+   </div>
+   <p> <strong>Ms Sun Xueling</strong> <br/>
+Moderator <br/>
+Minister of State<br/>
+Ministry of Education <br/>
+Ministry of Social and Family Development
+</p>
+    </div>
+    <br/>  <br/>
+   <div class="row">
+ <div class="column">
+<img src="/images/Anbarasu-Rajendran.png" style="width:100%">
+   </div>
+   <p> <strong>
+Mr Anbarasu Rajendran </strong><br/>
+Chief Executive Officer <br/> Singapore Indian Development Association<br/>
+</p> </div>
+    <br/>  <br/>
+   <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
+<p style="margin:10px;">Mr Anbarasu Rajendran has been serving as the Chief Executive Officer of SINDA since 2018. Mr Anbarasu is an educationalist by training and has helmed various portfolios at MOE, most notably, Centre Director of the Umar Pulavar Tamil Language Centre.<br/><br/>
+              Though currently active in the social service sector, Mr Anbarasu is still connected to education as he sits in various MOE committees like COMPASS, Uplift and the President Teacher Award jury.</p>
+              <br/>
+ <div class="row">
+ <div class="column">
+<img src="/images/Kunawathyammal.png" style="width:100%">
+   </div>
+   <p> <strong>Mdm Kunawathyammal <br/> d/o Kaliannan</strong><br/>
+Senior Teaching Fellow <br/> Policy, Curriculum and Leadership <br/>
+    National Institute of Education <br/>
+</p> </div>
+    <br/>  
+  <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
+  <p style="margin:10px;">
+Mdm Kunawathyammal d/o Kaliannan is a Senior Teaching Fellow at NIE (Policy, Curriculum & Leadership). She has served many years in the field of education, holding various positions, such as HOD(Affective Education), Vice Principal and Lecturer. She is currently teaching the Character and Citizenship Education module that includes the aspect of partnership with parents as stakeholders for character-building in children. 
 </p><br/>
-       
-  <p style="margin:10px;"><strong>A/P Mukhlis Abu Bakar  </strong><br/>
-Dr Mukhlis Abu Bakar is Associate Professor and Assistant Head/Malay at the Asian Languages and Cultures Academic Group of the National Institute of Education, Nanyang Technological University. Trained as an applied linguist, he teaches in the area of grammar, linguistics, discourse, bilingualism and literacy. His current research interests lie in the field of childhood bilingualism and biliteracy, and a sociocultural approach to literacy learning in the home, school and faith settings. He is a Co-Editor of an upcoming book "The Bloomsbury Handbook on Cultural Identity from Early Childhood to Early Adulthood" due out in 2021.
+<div class="row">
+ <div class="column">
+<img src="/images/Foo-Wan-Yueh.png" style="width:100%">
+   </div>
+   <p> <strong>
+Ms Foo Wan Yueh</strong><br/>
+Lecturer<br/>National Institute of <br/>Early Childhood Development<br/>
+</p> </div>
+    <br/>  <br/>
+  <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>  
+ <p style="margin:10px;">
+Ms Foo Wan Yueh is a lecturer at the National Institute of Early Childhood Development (NIEC). She teaches and supervises trainee teachers of the Diploma in Early Childhood Education in both English and Chinese. Her areas of interest include Chinese language in the early years and early numeracy.
 </p><br/>
-
- <p style="margin:10px;"><strong>Kamilah Binte Kamis </strong><br/>
-Miss Kamilah has been teaching in the preschool sector for 6 years. She was inspired to be a preschool teacher due to her love for young children. She was awarded the Outstanding Pre-school Mother Tongue Language Teacher Award (Outstanding Award) in 2019. She would like to inspire her children to love the Malay Language and is always motivated to design interactive and interesting Malay lessons so that her children will stay positive and engaged towards the learning of the Malay Language. She has also written a bilingual book for children and would like to continue writing books for young children.
-</p><br/>
-
- <p style="margin:10px;"><strong>Dr Sukuna S. Vijayadevar </strong><br/>
-Dr Sukuna S. Vijayadevar is a Lead Curriculum Specialist with NIEC. She has served for many years training and developing on-going professional development for practitioners in early childhood education. Her areas of interest in early childhood include teaching language and literacy, inclusive education and leadership in ECE. Dr Sukuna has also conducted talks and workshops for teachers about teaching Tamil Language in preschools. Her workshops for both early childhood and primary school teachers on story-telling and creation of big books in Tamil have always been well received. 
-</p><br/>
-
- <p style="margin:10px;"><strong> Danny Yeo </strong>
-<br/>Danny Yeo has 30 years of rich experience in various fields. He is a well-established veteran cross-media personality, a prolific theatre director-writer-actor, and remains active and passionate in various areas of involvement: such as events hosting, creative consulting and corporate training. A bilingual extraordinaire and an award-winning lecturer, he has anchored 15 info-entertainment television programmes (2015-2020), written 5 film scripts, authored 4 books in 2 languages and initiated numerous innovative theatrical ideas, particularly for interactive-immersive performances. In recent years, he has presented works on international stages including Shanghai, Macau and New York City. Danny has been a CPCLL committee member since 2008, serving as the vice group leader of the Outreach and Engagement group.
-</p><br/>
-
- <p style="margin:10px;"><strong>Ben Yeo </strong><br/>
-With years of experience in the television and entertainment industry, Ben Yeo is a renowned Mediacorp actor and host. Having starred in numerous productions and variety programmes, many may also regard Ben as a celebrity chef. Trained in SHATEC, Ben possesses excellent cooking skills and is well loved by many clients’ in the food industry. Over the years, Ben has also published two cookbooks and owned various businesses. A doting father to his sons, Ben divides his time between family, work, and cooking.
-</p><br/>
-
-<h4 style="padding-top:12px;margin:10px;color:#72c6e9;">Synopsis</h4>
-<p style="margin:10px;">The environment can have a large impact on the development of a child’s language skills. For children to develop fluency in using their Mother Tongue Language, it is vital they use the language to interact and communicate with others in every environment, be it the home, school or community. This early experience in actively using the language plays a critical role in a child’s language development both socially and psychologically.</p>
-
-<p style="margin:10px;">Language learning is a social process. Numerous research studies have shown that the amount and quality of adult-child engagement are two of the strongest enablers for developing language skills in children. Frequent and regular adult-child engagement during the early years is associated with better language comprehension, the earlier achievement of language milestones and overall faster growth of language skills.</p>
-
-<p style="margin:10px;">Come join us for the panel discussion with our Guest-of-Honour, Mr Lawrence Wong; Moderator, Ms Sun Xueling; and advocators of MTL learning including academics, educators, community partner and celebrity parent. They will discuss the importance of early language development and share useful tips on how we can provide an immersive environment in which our children learn and use our MTLs as living languages.</p>
+<div class="row">
+ <div class="column">
+<img src="/images/Iryamaya -binti-Amin.png" style="width:100%">
+   </div>
+   <p> <strong>
+Mdm Iryamaya Binti Amin </strong><br/>
+2020 Outstanding Pre-school <br/> Mother Tongue Language <br/> Teacher Award Recipient <br/>
+</p>
+</div>
+    <br/>  <br/>
+<h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
+<p style="margin:10px;">	Mdm Iryamaya Binti Amin is a recipient of the 2020 Outstanding Pre-school Mother Tongue Language Teacher Award. Currently, she is teaching Malay Language at PCF Sparkletots @ Sembawang Blk 755. </p>    
+  <br/>
+<div class="row">
+ <div class="column">
+<img src="/images/Otelli-Edwards.png" style="width:100%">
+   </div>
+   <p> <strong>
+Ms Otelli Edwards </strong><br/>
+Presenter<br/> CNA<br/>
+</p> </div>
+    <br/>  <br/>
+  <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
+<p style="margin:10px;">Ms Otelli Edwards has worked in various Mediacorp companies starting as a sports journalist and producing and hosting nightly news shows. She has also produced current affairs and news programmes for Mediacorp’s news radio station, 93.8 LIVE. Prior to joining CNA, she was a feature writer  with Her World magazine and has interviewed high-flying women. She is a mother of five-year-old twin boys. </p>
+              <br/>
+  <h4 style="padding-top:12px;margin:10px;color:#fa0;">Synopsis </h4>
+  <p style="margin:10px;">The language environment can have a large impact on the development of a child’s language skills. For children to develop fluency in their Mother Tongue Language, it is vital that they use the language to interact and communicate with others in every environment, be it at home, school or in the community. This early experience in actively using the language plays a critical role in a child’s language development, both socially and psychologically.
+</p>
+   <p style="margin:10px;">Language learning is a social process. Research has shown that in order to have strong language skills later in life, a person should develop and use their Mother Tongue Language while young and continue through to adulthood. This not only helps them to communicate well with people, but it also helps connect them to their culture and heritage. Frequent and regular adult-child engagement during the early years is associated with better language comprehension, anearlier achievement of language milestones and overall faster growth of language skills.</p>
+   <p style="margin:10px;">Come join us for apanel discussion betweenour Minister for Education, Mr Chan Chun Sing and advocators of Mother Tongue Language learning, including academics, educators, community partner and celebrity parent. They will discuss the importance of providing alanguage rich environment foryoung children through talking, singing and reading, and also how to create ample opportunities throughout their day to communicate with others and engage in conversations. The panel will be moderated by Minister of State (Ministry of Education and Ministry of Social and Family Development), Ms Sun Xueling.</p>  
+</div></div> </td>
+<td style="border:0 none;padding: 0;" class="btnImg">
+  </td>
+</tr>
 
 
  
-  <img src="images/New_footer.jpg" class="Image" width="1000" height="300">
+ <div class="image">
+  <img src="images/2021-08-04_MTLS_Web_Footer_600X250_300dpi.jpg" class="Image" width="1000" height="300"></div>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
 
