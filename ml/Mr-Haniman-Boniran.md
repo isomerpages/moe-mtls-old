@@ -41,5 +41,4 @@ max-width:20%;
  <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Synopsis</h4>  
        <p style="text-align:justify;#a3c864;">Let’s Learn Malay at the Zoo!</p>
       <p style="text-align:justify;#a3c864;"> With technology, the learning of Mother Tongue Languages (MTL) can be enhanced through engaging and blended learning strategies. This sharing session aims to share strategies that enhance Malay literacy. Participants will be taken virtually into the immersive environments of the Singapore Zoo to meet our animal ambassadors. Using photographs, videos and the “wordless book” concept specially curated by the Singapore Zoo, children’s curiosity about animals will be stimulated through creative expression and thinking routines. The child-centric activities covered in this session are applicable at home, in the classroom and the outdoors. These authentic learning activities will provide opportunities for children to enhance their listening and speaking skills such as responding in Malay, which is aligned to the learning goals highlighted in the Nurturing Early Learners (NEL) Framework for MTL.</p>
-       
-<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
+       <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
