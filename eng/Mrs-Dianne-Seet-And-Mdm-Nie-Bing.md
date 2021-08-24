@@ -8,7 +8,7 @@ breadcrumb: 'Mrs Dianne Seet & Mdm Nie Bing'
 <style>
   img {
 height:auto;
-max-width:20%;
+max-width:34%;
 }
 </style>
 </head>
@@ -26,7 +26,7 @@ max-width:20%;
 <div class="video-container">
 <iframe src="https://player.vimeo.com/video/566416047" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
     *Video is best viewed in 1080p.
-    <br/>
+    <br/>    <br/>    <br/>
 <div class="row">
  <div class="column">
 <img src="/images/EL-Dianne Seet.png" style="width:100%">
