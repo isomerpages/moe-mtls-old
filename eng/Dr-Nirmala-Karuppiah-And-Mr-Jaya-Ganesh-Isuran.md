@@ -9,8 +9,12 @@ breadcrumb: 'Dr Nirmala Karuppiah & Mr Jaya Ganesh Isuran '
 <style>
   img {
 height:auto;
-max-width:20%;
+max-width:34%;
 }
+  .column
+  {
+  width:50%;
+  }
 </style>
 </head>
   <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
