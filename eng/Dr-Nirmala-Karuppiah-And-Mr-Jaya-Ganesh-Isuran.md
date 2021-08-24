@@ -27,7 +27,7 @@ max-width:20%;
 <div class="video-container">
 <iframe src="https://player.vimeo.com/video/566415637" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
     *Video is best viewed in 1080p.
-    <br/>  <br/>
+    <br/>  <br/> <br/>
     <div class="row">
  <div class="column">
 <img src="/images/TL-Dr Karuppiah Nirmala.png" style="width:100%">
