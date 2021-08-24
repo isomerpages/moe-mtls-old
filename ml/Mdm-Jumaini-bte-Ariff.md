@@ -23,7 +23,8 @@ max-width:20%;
 </script>
   <body>  
 <a href="https://staging-moe-mtls.netlify.app/Sharing-Sessions/video-bahasa-melayu/" style="float:right;">Back</a>
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://vimeo.com/event/1187164/embed" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
+<div class="video-container">
+  <iframe src="https://vimeo.com/event/1187164/embed" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
     *Video is best viewed in 1080p.<br/>
      <div class="column">
 <img src="/images/Speakers_ML Jumaini bte Ariff.png" style="width:100%">
