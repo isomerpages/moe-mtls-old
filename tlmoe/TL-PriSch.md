@@ -47,13 +47,13 @@ margin-left:25px;
 }
   @media only screen and (max-width:800px) {
 .col1 {
-    width: 100%;
+    width: 100% !important;
     padding: 0;
   }
   }
    @media only screen and (max-width:500px) {
 .col1 {
-    width: 100%;
+    width: 100% !important;
     padding: 0;
   }
   }
