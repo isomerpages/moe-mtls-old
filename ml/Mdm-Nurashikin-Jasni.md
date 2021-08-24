@@ -41,7 +41,7 @@ max-width:20%;
 <p>As a local author, Mdm Nurashikin Jasni has co-written “The Big, Good Wolf” and “Chickchickaboomz” with her daughter Nyla Esman, and also co-written “Leia dan Oumar Berhari Raya” with her good friend, Umie Isa.</p>
 <p>A reading advocate who visits the National Library often and loves reading with her children, she firmly believes that reading keeps minds healthy, imaginative and sharp.</p>
   <h4 style="color:#a3c864;">Synopsis</h4> 
-       <p style="color:#a3c864;"><strong>Learning Malay in a Fun Way for Our Children</p><p>
+       <p style="color:#a3c864;">Learning Malay in a Fun Way for Our Children</p><p>
 Parents are their children’s first teachers. As a reading advocate, Mdm Nurashikin Jasni believes that reading will widen children’s vocabulary, and exposes her children to different genres of Malay storybooks, including books written in Indonesian vernacular language. She reads Malay books to her children at least thrice a week at bedtime.
 </p>
 <p>Through this session, participants will gain insight into how Mdm Nurashikin Jasni creates a fun environment for her children to learn and use Malay effectively, and with ease. </p>
