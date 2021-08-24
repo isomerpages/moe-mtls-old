@@ -75,7 +75,7 @@ background-color: lightgrey;!important;
    <body>
    <img src="/images/MTLS2021_MTLChallenge_TL.jpg" style="width:100%">
    <br/>
-<h2 style="padding-top:12px;color:#9b4490;">சமூகப் பங்காளர்கள்</h2>
+ <div><h2 style="padding-top:12px;color:#9b4490;">சமூகப் பங்காளர்கள்</h2></div>
     <br/>
       <table class="tbl">
          <tr>
