@@ -89,8 +89,7 @@ background-color: lightgrey;!important;
 <a href="/clmoe/胜宝旺小学/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
-
-           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">说我所想</h4>
+<h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">说我所想</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
           胜宝旺小学配合课文主题，采用混合式教学模式，运用各种思维策略，发展高年级学生的会话与沟通技巧。在课前，教师通过“新加坡学生学习平台”（SLS）设计活动，让学生了解与课文主题相关的内容。课堂上，教师利用各种思维策略和教学活动，调动学生的生活经验，促进学生的思考。学生利用平台上的录音功能和即时互动工具分享看法，与同学讨论和交流。课后，学生展示学习成果，进行评价和延伸活动，深化和巩固所学。</p><br/>
           <h4 style="margin:10px;color:#d84178;">Speak What I Think</h4>
@@ -103,7 +102,6 @@ the SLS to share their views with their peers and showcase their learning. This 
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
-
 </td>
 </tr>
 <tr>
@@ -112,11 +110,10 @@ the SLS to share their views with their peers and showcase their learning. This 
       <input id="tab-7" type="checkbox" name="tab">
       <label for="tab-7" class="lbCh"><span style="font-size:25px;font-family:KaiTi">乐学华族节日与美食 <br/>爱同学校 [Ai Tong School]</span></label>
       <div class="tab-content">
-                              <a href="/clmoe/爱同学校/"> <div class="btnvideo" style="font-size:16px;">
+  <a href="/clmoe/爱同学校/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
-
-           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">乐学华族节日与美食</h4>
+<h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">乐学华族节日与美食</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
          为了促进学生的文化认知，爱同学校的教师们策划了一系列以华族传统节日及美食为主题的活动。除了阅读与传统文化相关的图书之外，学生也积极参加以下活动：在元宵节制作、品尝汤圆，在母语双周制作传统食品泥塑（低、中年级）、画漫画（高年级）等。此外，学校也通过华语小广播、视频、简报和“新加坡学生学习平台”（SLS）加深学生对传统节日和美食的了解，引发探索华族文化的兴趣，加强他们学习华文的动力。</p><br/>
           <h4 style="margin:10px;color:#d84178;">Joy of Learning about Festivals and Food Culture</h4>
@@ -139,8 +136,7 @@ the SLS to share their views with their peers and showcase their learning. This 
           <a href="/clmoe/圣玛格烈小学/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
-
-           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">小任务，学习乐</h4>
+<h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">小任务，学习乐</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
        为了提供真实的语言学习环境，让学生“做中学”，圣玛格烈小学设计了种绿豆、制作电子明信片等多个与课文主题相关的学习任务。在进行任务前，教师调动学生的已知，引导他们学习相关的课文内容和词语。在任务中，学生利用数码科技通过口头录音和书面打写的方式记录所学的知识。完成任务后，学生在线上平台分享作品，让同侪点评，再由教师总结。学生在活动中不断获得学习的成就感，学习华文的兴趣和信心得到进一步提升。</p><br/>
           <h4 style="margin:10px;color:#d84178;">Learning Chinese through Authentic Tasks</h4>
@@ -151,7 +147,6 @@ the SLS to share their views with their peers and showcase their learning. This 
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
-
 </td>
 </tr>
 <tr>
