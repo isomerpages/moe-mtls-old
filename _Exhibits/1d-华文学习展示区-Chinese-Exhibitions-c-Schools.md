@@ -110,13 +110,13 @@ the SLS to share their views with their peers and showcase their learning. This 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
-      <label for="tab-7" class="lbCh"><span style="font-size:25px;font-family:KaiTi">认识华族节日与美食 <br/>爱同学校 [Ai Tong School]</span></label>
+      <label for="tab-7" class="lbCh"><span style="font-size:25px;font-family:KaiTi">乐学华族节日与美食 <br/>爱同学校 [Ai Tong School]</span></label>
       <div class="tab-content">
                               <a href="/clmoe/爱同学校/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
 
-           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">认识华族节日与美食</h4>
+           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">乐学华族节日与美食</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
          为了促进学生的文化认知，爱同学校的教师们策划了一系列以华族传统节日及美食为主题的活动。除了阅读与传统文化相关的图书之外，学生也积极参加以下活动：在元宵节制作、品尝汤圆，在母语双周制作传统食品泥塑（低、中年级）、画漫画（高年级）等。此外，学校也通过华语小广播、视频、简报和“新加坡学生学习平台”（SLS）加深学生对传统节日和美食的了解，引发探索华族文化的兴趣，加强他们学习华文的动力。</p><br/>
           <h4 style="margin:10px;color:#d84178;">Joy of Learning about Festivals and Food Culture</h4>
