@@ -1,7 +1,7 @@
 ---
-title: 'Marymount Convent School'
+title: 'Montfort Junior School'
 permalink: /tlmoe/Montfort-Junior/
-breadcrumb: 'Marymount Convent School'
+breadcrumb: 'Montfort Junior School'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
