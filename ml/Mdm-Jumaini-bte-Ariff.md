@@ -23,8 +23,7 @@ max-width:20%;
 </script>
   <body>  
 <a href="https://staging-moe-mtls.netlify.app/Sharing-Sessions/video-bahasa-melayu/" style="float:right;">Back</a>
-<div class="video-container">
-<iframe src="https://vimeo.com/event/1187164/embed" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://vimeo.com/event/1187164/embed" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
     *Video is best viewed in 1080p.<br/>
      <div class="column">
 <img src="/images/Speakers_ML Jumaini bte Ariff.png" style="width:100%">
@@ -32,14 +31,14 @@ max-width:20%;
 <h4 style="color:#a3c864;">Profil</h4> 
        <p>Puan Jumaini Ariff merupakan pencerita profesional di bawah naungan Persatuan Penceritaan Singapura (SAS) dan juga penulis buku cerita kanak-kanak. Beliau dikenali menerusi watak uniknya sebagai Nek Selampit dan kerap terlibat dalam kempen bahasa dan budaya di peringkat nasional. Beliau pernah mewakili Singapura di arena penceritaan antarabangsa. Melalui kegiatan beliau dalam bidang sastera lisan, Puan Jumaini telah dilantik sebagai Duta Bahasa Singapura pada tahun 2017. Melalui perusahaan sastera lisan; STORYSCRIBBBLERS yang diterajuinya, Puan Jumaini giat menjalankan bengkel-bengkel penceritaan dan merakam video-video bercerita untuk memupuk minat terhadap bahasa Melayu dalam kalangan masyarakat.</p>
         <h4 style="color:#a3c864;">Sinopsis</h4> 
-       <p style="color:#a3c864;"><strong>Ayuh, Perkaya Pengalaman Kanak-kanak Mendengar Cerita!</strong><br/>
+       <p style="color:#a3c864;">Ayuh, Perkaya Pengalaman Kanak-kanak Mendengar Cerita!</p><p>
  Kegiatan bercerita yang menyeronokkan dapat membuka ruang kepada kanak-kanak untuk mengenali bahasa Melayu dalam suasana yang lebih santai. Ibu bapa dan para pendidik boleh memperkaya lagi pengalaman tersebut dengan melibatkan kanak-kanak secara aktif. Melalui perkongsian ini, para peserta akan dapat menimba strategi-strategi prabercerita, semasa dan pascabercerita yang dapat membantu kanak-kanak meraih faedah secara maksimum ketika mendengar cerita.
 </p><br/>
      <h4 style="color:#a3c864;">Profile</h4>   
        <p>Mdm Jumaini bte Ariff is a professional storyteller with the Storytelling Association Singapore (SAS) and an author of children's books. She is known for her unique persona, Nek Selampit, and has participated in numerous National Language and Cultural Campaigns. She has also represented Singapore in local and international storytelling festivals. For her efforts in the literary scene, Mdm Jumaini was appointed as a Malay Language Ambassador in 2017. Through STORYSCRIBBLER, a literary-based business, Mdm Jumaini conducts storytelling workshops and curate storytelling videos to revive the love for the language.
 </p>
   <h4 style="color:#a3c864;">Synopsis</h4> 
-       <p style="color:#a3c864;"><strong>Let’s Enrich the Experience of Listening to Children’s Stories!</strong><br/>
+       <p style="color:#a3c864;">Let’s Enrich the Experience of Listening to Children’s Stories!</p><p>
  Storytelling allows children to learn Malay in a more relaxed setting. Parents and educators can play an active role as a storyteller and a facilitator to inculcate children’s interest through the usage of different stages of storytelling activities such as pre-storytelling, during and post storytelling. Through this sharing session, participants will have access to fun and hassle-free strategies that will further enhance the storytelling experience in Malay for children.
 </p>
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
