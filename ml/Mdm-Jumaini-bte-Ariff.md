@@ -29,6 +29,8 @@ max-width:20%;
      <div class="column">
 <img src="/images/Speakers_ML Jumaini bte Ariff.png" style="width:100%">
    </div>
+     <p><strong>Mdm Jumaini bte Ariff</strong><br/>
+    </p>
 <h4 style="color:#a3c864;">Profil</h4> 
        <p>Puan Jumaini Ariff merupakan pencerita profesional di bawah naungan Persatuan Penceritaan Singapura (SAS) dan juga penulis buku cerita kanak-kanak. Beliau dikenali menerusi watak uniknya sebagai Nek Selampit dan kerap terlibat dalam kempen bahasa dan budaya di peringkat nasional. Beliau pernah mewakili Singapura di arena penceritaan antarabangsa. Melalui kegiatan beliau dalam bidang sastera lisan, Puan Jumaini telah dilantik sebagai Duta Bahasa Singapura pada tahun 2017. Melalui perusahaan sastera lisan; STORYSCRIBBBLERS yang diterajuinya, Puan Jumaini giat menjalankan bengkel-bengkel penceritaan dan merakam video-video bercerita untuk memupuk minat terhadap bahasa Melayu dalam kalangan masyarakat.</p>
         <h4 style="color:#a3c864;">Sinopsis</h4> 
