@@ -45,12 +45,14 @@ padding-bottom: 10px !important;
 padding-left: 23px !important;
 margin-left:25px;
 }
+  
  @media only screen and (max-width:800px) {
 .column {
     width: 100%;
     padding: 0;
   }
   }
+  
    @media only screen and (max-width:500px) {
 .column {
     width: 100%;
