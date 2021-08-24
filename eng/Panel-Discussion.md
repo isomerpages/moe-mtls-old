@@ -119,10 +119,8 @@ Presenter<br/> CNA<br/>
 </p>
    <p style="margin:10px;">Language learning is a social process. Research has shown that in order to have strong language skills later in life, a person should develop and use their Mother Tongue Language while young and continue through to adulthood. This not only helps them to communicate well with people, but it also helps connect them to their culture and heritage. Frequent and regular adult-child engagement during the early years is associated with better language comprehension, anearlier achievement of language milestones and overall faster growth of language skills.</p>
    <p style="margin:10px;">Come join us for apanel discussion betweenour Minister for Education, Mr Chan Chun Sing and advocators of Mother Tongue Language learning, including academics, educators, community partner and celebrity parent. They will discuss the importance of providing alanguage rich environment foryoung children through talking, singing and reading, and also how to create ample opportunities throughout their day to communicate with others and engage in conversations. The panel will be moderated by Minister of State (Ministry of Education and Ministry of Social and Family Development), Ms Sun Xueling.</p>  
-</div></div> </td>
-<td style="border:0 none;padding: 0;" class="btnImg">
-  </td>
-</tr>
+</div></div> 
+
 
 
  
