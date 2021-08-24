@@ -88,7 +88,7 @@ background-color: lightgrey;!important;
   மேரிமௌண்ட் &nbsp; பள்ளி &nbsp; [Marymount Convent School]</label>
       <div class="tab-content">
        <br/>
-<a href=" /tlmoe/N4-குழுமம்-(தொடக்கப்பள்ளிகள்)/"> <div class="btnvideo" style="font-size:16px;">
+<a href=" /tlmoe/Marymount-Convent/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
       <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">பெற்றோருடன் &nbsp; மகள் &nbsp; - &nbsp; ஒரு &nbsp; வாசிப்புப் &nbsp; பந்தம் &nbsp; வாசிப்பின் &nbsp; மூலம் &nbsp; பெற்றோர் &nbsp; - &nbsp; பிள்ளை &nbsp; பிணைப்பு 
@@ -113,7 +113,7 @@ background-color: lightgrey;!important;
        யீஷூன் &nbsp; தொடக்கப்பள்ளிி &nbsp; [Yishun Primary School]</label>
       <div class="tab-content">
       <br/>
-<a href=" /tlmoe/N4-குழுமம்-(தொடக்கப்பள்ளிகள்)/"> <div class="btnvideo" style="font-size:16px;">
+<a href=" /tlmoe/Yishun-Pri/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">நிரலாக்கத்தின்வழித் &nbsp; தமிழ்மொழி </h4>
@@ -140,7 +140,7 @@ Such game-based learning was introduced as an effective approach to learn the la
        மொன்ஃபர்ட் &nbsp; ஜூனியர் &nbsp; பள்ளிி &nbsp;  [Montfort Junior School]</label>
       <div class="tab-content">
      <br/>
-<a href=" /tlmoe/N4-குழுமம்-(தொடக்கப்பள்ளிகள்)/"> <div class="btnvideo" style="font-size:16px;">
+<a href=" /tlmoe/Montfort-Junior/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">வகுப்பறைகளிலும் &nbsp; வகுப்பறைக்கப்பாலும் &nbsp; மகிழ்வூட்டும் &nbsp; கற்றல்</h4>
@@ -166,7 +166,7 @@ Such game-based learning was introduced as an effective approach to learn the la
        தெமாசெக் &nbsp; உயர்நிலைப் &nbsp; பள்ளியில் &nbsp; [Temasek Secondary School]</label>
       <div class="tab-content">
        <br/>
-<a href=" /tlmoe/N4-குழுமம்-(தொடக்கப்பள்ளிகள்)/"> <div class="btnvideo" style="font-size:16px;">
+<a href=" /tlmoe/Temasek-Sec/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
       <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">நாடகத்தின்வழியே &nbsp; மாணவர்களின் &nbsp; கற்றல் &nbsp; திறன்களை &nbsp; மேம்படுத்துதல் (கலவைமுறைவழி &nbsp; அணுகுதல்) </h4>
