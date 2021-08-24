@@ -29,6 +29,9 @@ max-width:20%;
   <div class="column">
 <img src="/images/ML-Roksana.png" style="width:100%">
    </div>
+     <p> <strong>A/P Roksana Bibi bte Abdullah</strong>
+
+</p>
     <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil</h4>  
        <p style="margin:10px;">Dr Roksana Bibi binte Abdullah merupakan Profesor Madya di Kumpulan Akademik Bahasa dan Kebudayaan Asia, Institut Pendidikan Nasional (NIE) sejak 1 April 2010. Beliau telah mula berkhidmat di NIE sejak tahun 1994. Dr Roksana menerima pendidikan ijazah sarjana muda (Kepujian) dalam bidang Linguistik Melayu dari Universiti Kebangsaan Malaysia pada tahun 1989 dan Sarjana Bahasa Moden dari Universiti Malaya pada tahun 1994. Beliau telah meraih ijazah Kedoktoran dalam bidang Linguistik pada tahun 2002. Fokus kajian dan pengajaran Dr Roksana tertumpu pada isu-isu Bahasa dan Gender, Analisis Kontrastif dan Analisis Kesilapan, Pengekalan dan Pengalihan Bahasa, serta Implementasi Kurikulum dalam Pendidikan Awal di Sekolah Rendah di Singapura.</p>
         <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Sinopsis</h4>
