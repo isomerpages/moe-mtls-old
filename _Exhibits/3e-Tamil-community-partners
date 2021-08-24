@@ -5,7 +5,7 @@ breadcrumb: 'சமூகப் பங்காளர்கள்'
 collection_name: Exhibits
 third_nav_title: 'தமிழ்மொழிக் காட்சிக்கூடம்'
 ---
-<h2 style="padding-top:12px;color:#9b4490;">சமூகப் பங்காளர்கள்</h2>
+
 <html>
    <head>
       <style>
@@ -73,6 +73,9 @@ background-color: lightgrey;!important;
 </script>
    </head>
    <body>
+   <img src="/images/MTLS2021_MTLChallenge_TL.jpg" style="width:100%">
+   <br/>
+<h2 style="padding-top:12px;color:#9b4490;">சமூகப் பங்காளர்கள்</h2>
     <br/>
       <table class="tbl">
          <tr>
