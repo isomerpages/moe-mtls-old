@@ -8,8 +8,11 @@ breadcrumb: 'Dr Mukhlis Abu Bakar & Ms Rilla Melati Bahri '
 <style>
   img {
 height:auto;
-max-width:20%;
+max-width:43%;
 }
+  .column {
+  width:50%;
+  }
 </style>
 </head>
   <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
