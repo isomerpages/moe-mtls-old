@@ -1,7 +1,7 @@
 ---
-title: 'தேசிய நூலக வாரியம்'
-permalink: /tlmoe/தேசிய-நூலக-வாரியம்/
-breadcrumb: 'தேசிய நூலக வாரியம்'
+title: 'Marymount Convent School'
+permalink: /tlmoe/Montfort-Junior/
+breadcrumb: 'Marymount Convent School'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
