@@ -1,7 +1,7 @@
 ---
-title: 'Mr Mohan Suppiah & Mr Balajee Haridas'
+title: 'Dr SP Jeyarajadas'
 permalink: /tl/Dr-SP-Jeyarajadas/
-breadcrumb: 'Mr Mohan Suppiah And Mr Balajee Haridas'
+breadcrumb: 'Dr SP Jeyarajadas'
 ---
 <html>
 <head>
