@@ -87,7 +87,7 @@ background-color: lightgrey;!important;
      கல்வி &nbsp; அமைச்சின் &nbsp; பாலர்பள்ளி, &nbsp; (பொங்கோல் &nbsp; கிரீன்) &nbsp; [MK@Punggol Green]</label>
       <div class="tab-content">
           <br/>
-<a href="/tlmoe/கல்வி-அமைச்சின்-பாலர்-பள்ளி-(ஃபேரர் பார்க்)/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/tlmoe/Punggol-Green/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
   <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">குழந்தைகளின் &nbsp; ஆரம்பகால &nbsp; இருமொழித் &nbsp; திறனை &nbsp; வளர்ப்பதற்கு &nbsp; ஒன்றிணைந்து &nbsp; செயற்படுவோம்!
@@ -117,7 +117,7 @@ Using interesting and interactive activities in a variety of meaningful and auth
           கல்வி &nbsp; அமைச்சின் &nbsp; பாலர் &nbsp; பள்ளி &nbsp; (ஃபெர்ன்வேல்) &nbsp; [MK@Fernvale]</label>
       <div class="tab-content">
           <br/>
-<a href="/tlmoe/கல்வி-அமைச்சின்-பாலர்-பள்ளி-(ஃபேரர் பார்க்)/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/tlmoe/Fernvale-TL/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
          <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">தாய்மொழி &nbsp; கற்றலுக்கு, &nbsp; தகவல் &nbsp; தொடர்பு &nbsp; தொழில்நுட்பத்தின்வழி &nbsp; உயிர் &nbsp; கொடுப்போம்
@@ -147,7 +147,7 @@ Various ICT tools and child-centric strategies are used to enhance the quality o
           [PCF Sparkletots Preschool @ Paya Lebar Blk 23 (KN)]</label>
       <div class="tab-content">
           <br/>
-<a href="/tlmoe/கல்வி-அமைச்சின்-பாலர்-பள்ளி-(ஃபேரர் பார்க்)/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/tlmoe/PayaLebar/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
          <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">குதூகலமாகத் &nbsp; தமிழ் &nbsp; கற்றல்
@@ -175,7 +175,7 @@ Various ICT tools and child-centric strategies are used to enhance the quality o
 </label>
       <div class="tab-content">
           <br/>
-<a href="/tlmoe/கல்வி-அமைச்சின்-பாலர்-பள்ளி-(ஃபேரர் பார்க்)/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/tlmoe/Punggol-East/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
          <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">வாழும் &nbsp; மொழியாக &nbsp; நம் &nbsp; தாய்மொழி </h4>
