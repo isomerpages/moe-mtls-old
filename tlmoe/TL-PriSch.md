@@ -114,19 +114,16 @@ margin-left:25px;
     </tr>
  </table>
  <p style="text-align:left;">மாணவர்களுக்குக் &nbsp; கூடுதல் &nbsp; ஆதரவு &nbsp; வழங்க &nbsp; வேண்டும் &nbsp; என்ற &nbsp; நோக்கில் &nbsp; கட்டுரைப் &nbsp; பயிற்சிகளில் &nbsp; ஆர்வமூட்டும் &nbsp; முன்நடவடிக்கைகள் &nbsp; இணைக்கப்பட்டுள்ளன. </p>
-
 <div class="row">
-  <div class="column" style="float: left;width: 33.33%; padding: 5px;">
-    <td style="border: 0; text-align:left;padding:8px; width:40%;"><p>இவை கட்டுரை எழுதுவதற்குத் தேவையான திறன்களை மாணவர்களிடையே வளர்க்கும் வண்ணம் வடிவமைக்கப்பட்டுள்ளன.</p><br/>
+  <div class="column" style="float: left;width: 35.33%; padding: 5px;">
+    <p>இவை கட்டுரை எழுதுவதற்குத் தேவையான திறன்களை மாணவர்களிடையே வளர்க்கும் வண்ணம் வடிவமைக்கப்பட்டுள்ளன.</p><br/>
       <img src="/tlmoe/tl-prisch06.png" style="width: 25%; margin-left: 286px;margin-top: -64px;">
       <img src="/tlmoe/image4.png">
  </div>
- 
-    <div class="column" style="float: left;width: 33.33%; padding: 5px;">
+<div class="column" style="float: left;width: 35.33%; padding: 5px;">
    <img src="/images/TL Pri_UpdatedPicture2.png">
   </div></div>
- 
-<h4 id="C6"><span style="font-size:30px; color:purple;">இல்லம் சார்ந்த கற்றலுக்கு உதவும் தகவல் தொடர்புத் தொழில்நுட்பம் 
+ <h4 id="C6"><span style="font-size:30px; color:purple;">இல்லம் சார்ந்த கற்றலுக்கு உதவும் தகவல் தொடர்புத் தொழில்நுட்பம் 
 </span></h4>
 <img src="/images/TL Pri_UpdatedPicture3.png">
 <h4 id="C7"><span style="font-size:30px; color:purple;">பெற்றோர் பங்கு </span></h4>
