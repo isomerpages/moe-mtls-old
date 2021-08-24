@@ -74,6 +74,7 @@ background-color: lightgrey;!important;
 <body>
     <div>  <h2 style="font-family:KaiTi;color:#d84178;">中小学</h2></div>
     <br/>
+    <img src="/images/MTLS2021_Challenge_CL.jpg" style="width:100%">
   <table class="tbl">
 
  <tr>
