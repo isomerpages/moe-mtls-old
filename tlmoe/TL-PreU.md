@@ -309,7 +309,7 @@ margin-left:25px;
  <br/><br/>
 <img src="/images/TL JC_Header06.png" align="left" style="width:50%;">
 <img src="/images/TL JC_Header12.png">
-<p style="text-align:left; margin-top:-28px;">தமிழ்மொழி &nbsp; விருப்பப்பாடத்திட்டம் &nbsp; செயற்குழு &nbsp; ஏற்பாடு &nbsp; செய்த &nbsp; தமிழ்மொழி &nbsp; முகாம் &nbsp; டிசம்பர் &nbsp; 5-ஆம் &nbsp; தேதி &nbsp; சிறப்பாக &nbsp; நடந்தேறியது. &nbsp; இந்நிகழ்ச்சியில் &nbsp; விருப்பப்பாடத்திட்டத்தை &nbsp; வழங்கும் &nbsp; இரண்டு &nbsp; கல்லூரிகளைச் &nbsp; சேர்ந்த &nbsp; மாணவர்கள் &nbsp; பங்கெடுத்து &nbsp; பயனடைந்தனர்.</p>
+<p style="text-align:left; margin-top:-20px;">தமிழ்மொழி &nbsp; விருப்பப்பாடத்திட்டம் &nbsp; செயற்குழு &nbsp; ஏற்பாடு &nbsp; செய்த &nbsp; தமிழ்மொழி &nbsp; முகாம் &nbsp; டிசம்பர் &nbsp; 5-ஆம் &nbsp; தேதி &nbsp; சிறப்பாக &nbsp; நடந்தேறியது. &nbsp; இந்நிகழ்ச்சியில் &nbsp; விருப்பப்பாடத்திட்டத்தை &nbsp; வழங்கும் &nbsp; இரண்டு &nbsp; கல்லூரிகளைச் &nbsp; சேர்ந்த &nbsp; மாணவர்கள் &nbsp; பங்கெடுத்து &nbsp; பயனடைந்தனர்.</p>
 
 <img src="/images/TL PreU_Image05.jpg"><br/>
 <img src="/images/TL JC_Header11.png" align="left" style="width:50%;">
