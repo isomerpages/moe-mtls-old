@@ -114,7 +114,6 @@ margin-left:25px;
     </tr>
  </table>
  <p style="text-align:left;">மாணவர்களுக்குக் &nbsp; கூடுதல் &nbsp; ஆதரவு &nbsp; வழங்க &nbsp; வேண்டும் &nbsp; என்ற &nbsp; நோக்கில் &nbsp; கட்டுரைப் &nbsp; பயிற்சிகளில் &nbsp; ஆர்வமூட்டும் &nbsp; முன்நடவடிக்கைகள் &nbsp; இணைக்கப்பட்டுள்ளன. </p>
- <center>
 
 <div class="row">
   <div class="column" style="float: left;width: 33.33%; padding: 5px;">
