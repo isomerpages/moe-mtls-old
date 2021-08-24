@@ -45,22 +45,19 @@ padding-bottom: 10px !important;
 padding-left: 23px !important;
 margin-left:25px;
 }
-  
- @media only screen and (max-width:800px) {
-.column {
+  @media only screen and (max-width:800px) {
+.col1 {
     width: 100%;
     padding: 0;
   }
   }
-  
    @media only screen and (max-width:500px) {
-.column {
+.col1 {
     width: 100%;
     padding: 0;
   }
   }
- 
-</style>
+ </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
 <script>
@@ -143,13 +140,13 @@ margin-left:25px;
  </table>
  <p style="text-align:left;">மாணவர்களுக்குக் &nbsp; கூடுதல் &nbsp; ஆதரவு &nbsp; வழங்க &nbsp; வேண்டும் &nbsp; என்ற &nbsp; நோக்கில் &nbsp; கட்டுரைப் &nbsp; பயிற்சிகளில் &nbsp; ஆர்வமூட்டும் &nbsp; முன்நடவடிக்கைகள் &nbsp; இணைக்கப்பட்டுள்ளன. </p>
 <div class="row">
-  <div class="column" style="float: left;width: 48%; padding: 5px;">
+  <div class="column col1" style="float: left;width: 48%; padding: 5px;">
     <p>இவை கட்டுரை எழுதுவதற்குத் தேவையான திறன்களை மாணவர்களிடையே வளர்க்கும் வண்ணம் வடிவமைக்கப்பட்டுள்ளன.</p><br/>
  
       <img src="/tlmoe/tl-prisch06.png" style="width: 25%; margin-left: 286px;margin-top: -64px;">
       <img src="/tlmoe/image4.png">
  </div>
-<div class="column" style="float: left;width: 48%; padding: 5px;">
+<div class="column col1" style="float: left;width: 48%; padding: 5px;">
    <img src="/images/TL Pri_UpdatedPicture2.png">
   </div>
  </div>
