@@ -6,6 +6,22 @@ breadcrumb: 'தமிழ்மொழிப் பாடக்கலைத்த
 <html>
 <body>
 <style>
+ * {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
  table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
@@ -115,14 +131,15 @@ margin-left:25px;
  </table>
  <p style="text-align:left;">மாணவர்களுக்குக் &nbsp; கூடுதல் &nbsp; ஆதரவு &nbsp; வழங்க &nbsp; வேண்டும் &nbsp; என்ற &nbsp; நோக்கில் &nbsp; கட்டுரைப் &nbsp; பயிற்சிகளில் &nbsp; ஆர்வமூட்டும் &nbsp; முன்நடவடிக்கைகள் &nbsp; இணைக்கப்பட்டுள்ளன. </p>
 <div class="row">
-  <div class="column" style="float: left;width: 35.33%; padding: 5px;">
+  <div class="column" style="float: left;width: 48%; padding: 5px;">
     <p>இவை கட்டுரை எழுதுவதற்குத் தேவையான திறன்களை மாணவர்களிடையே வளர்க்கும் வண்ணம் வடிவமைக்கப்பட்டுள்ளன.</p><br/>
       <img src="/tlmoe/tl-prisch06.png" style="width: 25%; margin-left: 286px;margin-top: -64px;">
       <img src="/tlmoe/image4.png">
  </div>
-<div class="column" style="float: left;width: 35.33%; padding: 5px;">
+<div class="column" style="float: left;width: 48%; padding: 5px;">
    <img src="/images/TL Pri_UpdatedPicture2.png">
-  </div></div>
+  </div>
+ </div>
  <h4 id="C6"><span style="font-size:30px; color:purple;">இல்லம் சார்ந்த கற்றலுக்கு உதவும் தகவல் தொடர்புத் தொழில்நுட்பம் 
 </span></h4>
 <img src="/images/TL Pri_UpdatedPicture3.png">
