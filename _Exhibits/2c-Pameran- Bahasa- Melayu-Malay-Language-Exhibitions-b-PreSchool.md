@@ -75,7 +75,7 @@ background-color: lightgrey;!important;
 <body>
     <img src="/images/MTLS2021_Challenge_ML.jpg" style="width:100%">
    <br/>
-    <h2 style="padding-top:12px;color:#a3c864;">Prasekolah</h2>
+   <div> <h2 style="padding-top:12px;color:#a3c864;">Prasekolah</h2></div>
   <br/>
   <table class="tbl">
 <tr>
