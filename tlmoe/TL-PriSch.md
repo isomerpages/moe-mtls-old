@@ -123,7 +123,7 @@ margin-left:25px;
  </div>
  
     <div class="column" style="float: left;width: 33.33%; padding: 5px;">
-   <img src="/images/TL Pri_UpdatedPicture2.png"> </td>
+   <img src="/images/TL Pri_UpdatedPicture2.png">
   </div></div>
  
 <h4 id="C6"><span style="font-size:30px; color:purple;">இல்லம் சார்ந்த கற்றலுக்கு உதவும் தகவல் தொடர்புத் தொழில்நுட்பம் 
