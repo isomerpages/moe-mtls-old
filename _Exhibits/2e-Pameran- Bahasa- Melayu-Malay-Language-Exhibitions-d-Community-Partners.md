@@ -89,7 +89,7 @@ background-color: lightgrey;!important;
       <label for="tab-2" class="lbML">Esplanade – Teater di Persisiran<br/>Esplanade - Theatres on the Bay</label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/mlmoe/Esplanade-Teater-di-Persisiran/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Esplanade – Teater di Persisiran</h4>
@@ -112,7 +112,7 @@ Para pelajar juga berpeluang untuk mengetahui pelbagai bentuk seni secara dalam 
 <br/>Lee Kuan Yew Fund for Bilingualism</label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/mlmoe/LKYFB/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Bahasa Ibundaku, Teman Sejatiku</h4>
@@ -139,7 +139,7 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
       <label for="tab-1" class="lbML"> Stor Atuk<br/> Mediacorp</label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/mlmoe/Mediacorp/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Stor Atuk</h4>
@@ -163,7 +163,7 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
     <label for="tab-6" class="lbML">Kenali bahasa ibunda menerusi warisan dan budaya bersama Lembaga Warisan Negara (NHB)!<br/>National Heritage Board</label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/mlmoe/NHB/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Kenali bahasa ibunda menerusi warisan dan budaya bersama Lembaga Warisan Negara (NHB)!</h4>
@@ -188,7 +188,7 @@ Dapatkanlah maklumat tentang institusi-institusi warisan seperti Pusat Warisan I
       <label for="tab-7" class="lbML">Bijak Kata!<br/>National Institute of Education  </label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/mlmoe/NIE/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
          <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Bijak Kata!</h4>
@@ -217,7 +217,7 @@ Dapatkanlah maklumat tentang institusi-institusi warisan seperti Pusat Warisan I
       <label for="tab-8" class="lbML">Perkhidmatan Perpustakaan Bahasa Melayu<br/>National Library Board</label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/mlmoe/NLB/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Perkhidmatan Perpustakaan Bahasa Melayu</h4>
@@ -240,7 +240,7 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
       <label for="tab-9" class="lbML">Mari Bercerita Bersama Taman Haiwan Singapura <br/> Wildlife Reserves Singapore  </label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/mlmoe/WRS/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari Bercerita Bersama Taman Haiwan Singapura</h4>
@@ -262,7 +262,7 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
       <label for="tab-4" class="lbML"> Kelas Matematika M<sup>3</sup> @ Nee Soon <br/>  PA MESRA   (M<sup>3</sup>)@ Nee Soon</label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/mlmoe/M3@NeeSoon/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
           <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Kelas Matematika M<sup>3</sup> @ Nee Soon</h4>
@@ -286,7 +286,7 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
       <label for="tab-5" class="lbML">Mari terokai bahasa dan budaya masyarakat Melayu bersama-sama Nabil dan Nabilah  <br/>Malay Language Learning Promotion Committee</label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/mlmoe/MLLPC/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari terokai bahasa dan budaya masyarakat Melayu bersama-sama Nabil dan Nabilah 
@@ -310,7 +310,7 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
       <label for="tab-10" class="lbML">Membesar Bersama Bahasa<br/>Malay Language Centre of Singapore</label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/mlmoe/MLCS/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Membesar Bersama Bahasa</h4>
