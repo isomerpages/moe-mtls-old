@@ -80,7 +80,8 @@ background-color: lightgrey;!important;
 </head>
 <body>  
  <div><h2 style="font-family:KaiTi;color:#d84178;">学前中心</h2></div>
-<br/>
+ <br/>
+ <img src="/images/MTLS2021_Challenge_CL.jpg" style="width:100%">
 <table class="tbl">
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
