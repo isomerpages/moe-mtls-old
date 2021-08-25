@@ -80,7 +80,7 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-12" type="checkbox" name="tab">
-      <label for="tab-12" class="lbML">Berseronok dengan permainan zaman silam <br/>E-Bridge Preschool @ Veranda Matilda</label>
+      <label for="tab-12" class="lbML">Berseronok dengan permainan zaman silam <br/>Pusat Prasekolah E-Bridge@Matilda (E-Bridge Preschool @ Veranda Matilda)</label>
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/E-Bridge/"> <div class="btnvideo" style="font-size:16px;">
@@ -104,7 +104,7 @@ Kerjasama antara ibu bapa dengan sekolah amat penting untuk meningkatkan kemahir
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-11" type="checkbox" name="tab">
-      <label for="tab-11" class="lbML">Menghidupkan pembelajaran Bahasa Ibunda melalui ICT <br/>MK@Fernvale</label>
+      <label for="tab-11" class="lbML">Menghidupkan pembelajaran Bahasa Ibunda melalui ICT <br/>Tadika MOE di Fernvale (MK@Fernvale)</label>
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/Fernvale/"> <div class="btnvideo" style="font-size:16px;">
@@ -128,7 +128,7 @@ Dalam Kurikulum Bahasa Ibunda, pelbagai peralatan ICT dan strategi pembelajaran 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-10" type="checkbox" name="tab">
-      <label for="tab-10" class="lbML">Mari Bekerjasama untuk Membangunkan Dwibahasa pada Peringkat Awal Kanak-kanak!  <br/>MK@Punggol Green
+      <label for="tab-10" class="lbML">Mari Bekerjasama untuk Membangunkan Dwibahasa pada Peringkat Awal Kanak-kanak!  <br/>Tadika MOE di Punggol Green (MK@Punggol Green)
 </label>
       <div class="tab-content">
           <br/>
@@ -153,7 +153,7 @@ Dengan menyertai aktiviti yang menyeronokkan lagi interaktif dalam pelbagai situ
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-13" type="checkbox" name="tab">
-      <label for="tab-13" class="lbML">Permainan Tradisional - Congkak<br/>My First Skool (Chin Swee)</label>
+      <label for="tab-13" class="lbML">Permainan Tradisional - Congkak<br/>My First Skool di Chin Swee (My First Skool (Chin Swee))</label>
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/My-First-Skool/"> <div class="btnvideo" style="font-size:16px;">
