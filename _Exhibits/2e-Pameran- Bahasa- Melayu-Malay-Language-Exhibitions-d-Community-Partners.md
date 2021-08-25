@@ -135,6 +135,54 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
   <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
+      <input id="tab-10" type="checkbox" name="tab">
+      <label for="tab-10" class="lbML">Membesar Bersama Bahasa<br/>Malay Language Centre of Singapore</label>
+      <div class="tab-content">
+          <br/>
+<a href="/mlmoe/MLCS/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Membesar Bersama Bahasa</h4>
+        <p style="margin:10px;">
+         Pusat Bahasa Melayu Singapura (MLCS) akan mempamerkan dua pakej yang bertujuan untuk meningkatkan pembelajaran bahasa Melayu. Pakej pertama merupakan pakej ‘Mari Membaca’ yang disasarkan untuk murid tadika dan peringkat sekolah rendah. Pakej ini mengandungi kad-kad imbasan yang boleh digunakan untuk membantu murid-murid mengeja dan menyebut perkataan-perkataan mengikut kategori. Pakej kedua merupakan Aplikasi ICT interaktif seperti Aplikasi Pintar Kata, Aplikasi Pintar Peribahasa, Aplikasi Cerita-cerita Rakyat Nusantara, Aplikasi Legenda Singapura dan Aplikasi Bitara Kata. Aplikasi-aplikasi ini akan memberikan pengalaman pembelajaran maya yang unik dengan cara yang menyeronokkan.
+        </p><br/>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Growing Up with Language </h4>
+        <p style="margin:10px;">
+ The Malay Language Centre of Singapore (MLCS) will showcase two packages that enhance the learning of Malay. The first package entitled “Let’s Read” is targeted at kindergarten and lower primary students. The package contains flashcards that teach students to spell and pronounce categorised words. The second package is the interactive ICT apps developed by MLCS, including “Smart Vocabulary”, “Smart in Proverbs”, “Folktales of the Malay Archipelago”, “Legend of Singapore” and “Unique Vocabulary”. These apps will provide students with engaging and enjoyable virtual learning experiences.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg17">
+</td>
+</tr>   
+     <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-5" type="checkbox" name="tab">
+      <label for="tab-5" class="lbML">Mari terokai bahasa dan budaya masyarakat Melayu bersama-sama Nabil dan Nabilah  <br/>Malay Language Learning Promotion Committee</label>
+      <div class="tab-content">
+          <br/>
+<a href="/mlmoe/MLLPC/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari terokai bahasa dan budaya masyarakat Melayu bersama-sama Nabil dan Nabilah 
+</h4>
+        <p style="margin:10px;">
+         Mari terokai bahasa dan budaya masyarakat Melayu bersama Nabil dan Nabilah!<br/><br/>
+            Ikuti Siri Nabil dan Nabilah menerokai pengalaman menggunakan sajak, pantun, lagu, budaya dan bahasa yang  merupakan warisan orang Melayu. Melalui pengalaman Nabil dan Nabilah, peserta dapat mengenali keindahan dan kekayaan budaya dan bahasa Melayu.  Pengalaman yang disediakan ini bertujuan untuk melestari dan meningkatkan penggunaan bahasa Melayu serta pengetahuan budaya dalam kalangan kanak-kanak dan orang dewasa dalam interaksi seharian mereka.  
+        </p><br/>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Let’s Explore Malay Language and Culture With Nabil and Nabilah!</h4>
+       <p style="margin:10px;">Follow Nabil and Nabilah in their exploration of the linguistic and cultural heritage of the Malays. As they undertake quests to learn vocabulary, poetry and songs, participants will discover the beauty and richness of culture and language and will be motivated to use Malay in their daily interactions.</p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg23">
+ </td>
+</tr>  
+ <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1" class="lbML"> Stor Atuk<br/> Mediacorp</label>
       <div class="tab-content">
@@ -155,8 +203,8 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
     </td>
 <td style="border:0 none;padding: 0;" class="btnImg17" >
 </td>
-</tr>
-      <tr>
+</tr>     
+<tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
@@ -233,29 +281,7 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
 <td style="border:0 none;padding: 0;" class="btnImg17">
 </td>
  </tr>
-<tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-9" type="checkbox" name="tab">
-      <label for="tab-9" class="lbML">Mari Bercerita Bersama Taman Haiwan Singapura <br/> Wildlife Reserves Singapore  </label>
-      <div class="tab-content">
-          <br/>
-<a href="/mlmoe/WRS/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
-  <br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari Bercerita Bersama Taman Haiwan Singapura</h4>
-        <p style="margin:10px;">
-          Taman Haiwan Singapura menawarkan pelbagai cerita haiwan unik yang boleh digunakan untuk meningkatkan kemahiran bercerita kanak-kanak. Salah satunya ialah cerita tentang memerang yang diselamatkan dalam buku yang bertajuk ‘Si Memerang Terjerat!’.  Buku ini dilengkapi dengan panduan untuk para guru dan  ibu bapa serta aktiviti untuk kanak-kanak. Aktiviti saranan ini dapat memperkasa kemahiran bercerita yang berimaginasi untuk kanak-kanak prasekolah. Aktiviti bercerita yang menyeronokkan dapat memperkaya kosa kata dan menggalakkan kreativiti. Taman Haiwan Singapura juga menyediakan video dan gambar-gambar daripada pakej menjejaki taman haiwan yang dibina untuk murid-murid agar dapat mengasah kemahiran berkomunikasi mereka. 
-        </p><br/>
-      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Storytime with Singapore Zoo</h4>
-       <p style="margin:10px;">Singapore Zoo offers unique animal stories that can help develop children’s literacy skills. One such story is about a rescued otter, told through a wordless book, Little Otter Litter Trouble. This book comes with an activity guide for teachers and parents to empower preschoolers to become imaginative storytellers. Storytelling is an engaging way to enrich vocabulary and promote creativity.  Also available are the videos and photographs featured in our zoo trails which are designed for primary school students to provide them the opportunity to speak the language and can sharpen their communication skills.</p>
-</div>
-</div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg17">
-</td>
-</tr>
-      <tr>
+  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
@@ -278,56 +304,29 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg17">
  </td>
-</tr>
-       <tr>
+</tr> 
+<tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5" class="lbML">Mari terokai bahasa dan budaya masyarakat Melayu bersama-sama Nabil dan Nabilah  <br/>Malay Language Learning Promotion Committee</label>
+      <input id="tab-9" type="checkbox" name="tab">
+      <label for="tab-9" class="lbML">Mari Bercerita Bersama Taman Haiwan Singapura <br/> Wildlife Reserves Singapore  </label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/MLLPC/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/mlmoe/WRS/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari terokai bahasa dan budaya masyarakat Melayu bersama-sama Nabil dan Nabilah 
-</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari Bercerita Bersama Taman Haiwan Singapura</h4>
         <p style="margin:10px;">
-         Mari terokai bahasa dan budaya masyarakat Melayu bersama Nabil dan Nabilah!<br/><br/>
-            Ikuti Siri Nabil dan Nabilah menerokai pengalaman menggunakan sajak, pantun, lagu, budaya dan bahasa yang  merupakan warisan orang Melayu. Melalui pengalaman Nabil dan Nabilah, peserta dapat mengenali keindahan dan kekayaan budaya dan bahasa Melayu.  Pengalaman yang disediakan ini bertujuan untuk melestari dan meningkatkan penggunaan bahasa Melayu serta pengetahuan budaya dalam kalangan kanak-kanak dan orang dewasa dalam interaksi seharian mereka.  
+          Taman Haiwan Singapura menawarkan pelbagai cerita haiwan unik yang boleh digunakan untuk meningkatkan kemahiran bercerita kanak-kanak. Salah satunya ialah cerita tentang memerang yang diselamatkan dalam buku yang bertajuk ‘Si Memerang Terjerat!’.  Buku ini dilengkapi dengan panduan untuk para guru dan  ibu bapa serta aktiviti untuk kanak-kanak. Aktiviti saranan ini dapat memperkasa kemahiran bercerita yang berimaginasi untuk kanak-kanak prasekolah. Aktiviti bercerita yang menyeronokkan dapat memperkaya kosa kata dan menggalakkan kreativiti. Taman Haiwan Singapura juga menyediakan video dan gambar-gambar daripada pakej menjejaki taman haiwan yang dibina untuk murid-murid agar dapat mengasah kemahiran berkomunikasi mereka. 
         </p><br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Let’s Explore Malay Language and Culture With Nabil and Nabilah!</h4>
-       <p style="margin:10px;">Follow Nabil and Nabilah in their exploration of the linguistic and cultural heritage of the Malays. As they undertake quests to learn vocabulary, poetry and songs, participants will discover the beauty and richness of culture and language and will be motivated to use Malay in their daily interactions.</p>
-      </div>
+      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Storytime with Singapore Zoo</h4>
+       <p style="margin:10px;">Singapore Zoo offers unique animal stories that can help develop children’s literacy skills. One such story is about a rescued otter, told through a wordless book, Little Otter Litter Trouble. This book comes with an activity guide for teachers and parents to empower preschoolers to become imaginative storytellers. Storytelling is an engaging way to enrich vocabulary and promote creativity.  Also available are the videos and photographs featured in our zoo trails which are designed for primary school students to provide them the opportunity to speak the language and can sharpen their communication skills.</p>
 </div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg23">
- </td>
-</tr>
-        <tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-10" type="checkbox" name="tab">
-      <label for="tab-10" class="lbML">Membesar Bersama Bahasa<br/>Malay Language Centre of Singapore</label>
-      <div class="tab-content">
-          <br/>
-<a href="/mlmoe/MLCS/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
-  <br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Membesar Bersama Bahasa</h4>
-        <p style="margin:10px;">
-         Pusat Bahasa Melayu Singapura (MLCS) akan mempamerkan dua pakej yang bertujuan untuk meningkatkan pembelajaran bahasa Melayu. Pakej pertama merupakan pakej ‘Mari Membaca’ yang disasarkan untuk murid tadika dan peringkat sekolah rendah. Pakej ini mengandungi kad-kad imbasan yang boleh digunakan untuk membantu murid-murid mengeja dan menyebut perkataan-perkataan mengikut kategori. Pakej kedua merupakan Aplikasi ICT interaktif seperti Aplikasi Pintar Kata, Aplikasi Pintar Peribahasa, Aplikasi Cerita-cerita Rakyat Nusantara, Aplikasi Legenda Singapura dan Aplikasi Bitara Kata. Aplikasi-aplikasi ini akan memberikan pengalaman pembelajaran maya yang unik dengan cara yang menyeronokkan.
-        </p><br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Growing Up with Language </h4>
-        <p style="margin:10px;">
- The Malay Language Centre of Singapore (MLCS) will showcase two packages that enhance the learning of Malay. The first package entitled “Let’s Read” is targeted at kindergarten and lower primary students. The package contains flashcards that teach students to spell and pronounce categorised words. The second package is the interactive ICT apps developed by MLCS, including “Smart Vocabulary”, “Smart in Proverbs”, “Folktales of the Malay Archipelago”, “Legend of Singapore” and “Unique Vocabulary”. These apps will provide students with engaging and enjoyable virtual learning experiences.
-        </p>
-      </div>
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg17">
 </td>
-</tr>   
-
+</tr>
  </table>
 <hr>
 <div class="image">
