@@ -14,5 +14,7 @@ breadcrumb: 'Perkhidmatan Perpustakaan Bahasa Melayu'
 </script>
 <a href="/exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-e/Community-Partners/" style="float:right;">Back</a>
  <img src="/images/MTLS2021-NLB_ML_Final.jpg"> <br/>
+ 
+ <a href=" https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=717901bd-6576-4bd3-995e-ad88002f04b7&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all " target="_blank"><span style="font-size: 30px;">Zinnirah Mengunjungi Perpustakaan</span></a> <br/>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
