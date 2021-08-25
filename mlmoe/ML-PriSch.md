@@ -141,7 +141,7 @@ PENGAJARAN DAN PEMBELAJARAN
        <img src="/mlmoe/kids-activity-workbook.jpeg" style="border:3px solid black;" >
   </td>
      <td style="width:66.67%;">
-    <img src="/mlmoe/ml-pri_kids-workbook-activities.png">
+    <img src="/mlmoe/ml-pri_kids-workbook-activities.png" vertical-align="middle">
   </td>
    </tr></table></center>
        </div></div>
