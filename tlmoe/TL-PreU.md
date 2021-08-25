@@ -254,7 +254,7 @@ margin-left:25px;
 </tr>
 </table>
   <br/>
-<p style="text-align:left;">இந்த &nbsp; இலக்கியங்களையும் &nbsp; அவற்றைப் &nbsp; படைத்த &nbsp; எழுத்தாளர்களையும் &nbsp; பற்றி &nbsp; மேலும் &nbsp; அறிந்துகொள்ள &nbsp; பின்வரும் &nbsp; இணைப்புகளுக்குச் &nbsp; செல்லவும்.
+<p style="text-align:left;">இந்த &nbsp; இலக்கியங்களையும் &nbsp; அவற்றைப் &nbsp; படைத்த &nbsp; எழுத்தாளர்களையும்பற்றி &nbsp; மேலும் &nbsp; அறிந்துகொள்ள &nbsp; பின்வரும் &nbsp; இணைப்புகளுக்குச் &nbsp; செல்லவும்.
 </p>
  
  <center>
