@@ -135,13 +135,13 @@ PENGAJARAN DAN PEMBELAJARAN
    <label for="tab-4" class="lbML">• Melibatkan murid secara aktif</label>
      <div class="tab-content">
        <center>
-       <table style="width:100%;">
+       <table style="width:100%; padding:8px;">
          <tr>
-           <td style="width:40%;">
+           <td style="width:35%;">
     <img src="/mlmoe/kids-activity-workbook.jpeg" style="border:2px;">
            </td>
-           <td style="width:60%; padding-top:30px;">
-    <img src="/mlmoe/ml-pri_kids-workbook-activities.png"></p>
+           <td style="width:65%; padding-top:120px;">
+    <img src="/mlmoe/ml-pri_kids-workbook-activities.png">
            </td>
          </tr>
        </table>
