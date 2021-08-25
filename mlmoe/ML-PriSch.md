@@ -134,6 +134,7 @@ PENGAJARAN DAN PEMBELAJARAN
       <input id="tab-4" type="checkbox" name="tab">
    <label for="tab-4" class="lbML">• Melibatkan murid secara aktif</label>
      <div class="tab-content">
+       <center>
        <table style="width:100%;">
          <tr>
            <td style="width:40%;">
@@ -142,9 +143,12 @@ PENGAJARAN DAN PEMBELAJARAN
            <td style="width:60%; padding-top:30px;">
     <img src="/mlmoe/ml-pri_kids-workbook-activities.png"></p>
            </td>
+         </tr>
+       </table>
+         </center>
         </div>
-         
  </div>
+ 
  <p id="C2" style="font-size:30px;"><strong>SOKONGAN IBU BAPA</strong><br/><br/>
       <img src="/mlmoe/ML-Pri_Poster05.jpg"> 
       </p>
