@@ -142,7 +142,7 @@ margin-left:25px;
   <h4  style="font-size:25px;color:green;" >EMPAT CIRI UTAMA
 </h4>
   <p style="text-align:justify;">Kurikulum Bahasa Melayu (Sekolah Menengah) 2021 menyerlahkan empat ciri utama yang berikut: </p>
-  <img src="/images/ML-Sec_Image1.jpg" style="width:100%;">
+  <img src="/images/ML-Sec_Empat-Ciri-Utama.jpg" style="width:100%;">
   
   <h4  style="font-size:25px;color:green;"> BAHAN-BAHAN VIDEO KURIKULUM </h4>
   <p style="text-align:justify;">Tontonilah video-video yang berikut untuk mendapatkan maklumat lanjut tentang:
