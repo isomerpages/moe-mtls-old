@@ -210,7 +210,7 @@ margin-left:25px;
 Sila klik pautan-pautan di bawah ini jika ingin informasi selanjutnya.<br/>
 <a href="https://sites.google.com/view/emasmlep/home?authuser=0" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu</a><br/>
 <a href="/mlmoe/ML-PreU-Outreach-Secondary-Schools-Final.pdf" target="_blank">Program Elektif Bahasa Melayu Maktab Rendah (MLEP JC)</a><br/>
-<a href="/images/ML-PreU-Brosur-Program.png" target="_blank">Brosur MLEP</a>
+<img src="/images/ML-PreU-Brosur-Program.png">
 <br/><br/>
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
