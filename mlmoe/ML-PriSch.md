@@ -115,7 +115,7 @@ margin-left:25px;
  <p id="C1" style="font-size:30px;color:black"><strong>BAHAN 
 PENGAJARAN DAN PEMBELAJARAN
 </strong></p>
-  <p style="font-size:25px;color:black">Kandungan bahan pengajaran dan pembelajaran Pakej <img src="/mlmoe/cakap1.png" style="width:13%;margin-right: 15%;
+  <p style="font-size:25px;color:black">Kandungan bahan pengajaran dan pembelajaran Pakej <img src="/mlmoe/cakap1.png" style="width:13%;margin-right: 13%;
     margin-top: -4%;">
 </p>
   <div class="atab">
