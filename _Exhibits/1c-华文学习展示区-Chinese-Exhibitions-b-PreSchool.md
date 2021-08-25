@@ -97,7 +97,7 @@ background-color: lightgrey;!important;
   <br/>
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">母语学习-用全语言让母语活起来！</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-          母语学习只限于正式课程吗？或许应该跳脱这样的思维模式，探索其他可能性。在学校的日常生活、学习区游戏及户外活动中，教师如何发现并抓住母语学习的契机？拥有15年实践全语言学习体验的新意元幼源与大家分享在校园生活中，教师是如何帮助孩子自然且有目的地使用母语，并通过家园合作，鼓励家长创设有利于母语学习的家庭环境，激发孩子学习母语的兴趣。</p><br/>
+          母语学习只限于正式课程吗？或许应该跳脱这样的思维模式，探索其他可能性。在学校的日常生活、学习区游戏及户外活动中，教师如何发现并抓住母语学习的契机？拥有15年实践全语言学习体验的新意元幼源与大家分享，如何帮助孩子自然且有目的地使用母语，以及如何通过家园合作，鼓励家长创设有利于母语学习的家庭环境，激发孩子学习母语的兴趣。</p><br/>
           <h4 style="margin:10px;color:#d84178;">Make Mother Tongue Language Come Alive through a Whole Language Approach</h4>
         <p style="margin:10px;">
        The learning of Mother Tongue Language (MTL) can happen beyond the classroom. There are many opportunities for teachers to engage children in various activities related to speaking and reading that happens in daily school life and outdoor interaction. Teachers from Creative O Preschoolers’ Bay will be sharing their fifteen years of experience in making the learning of MTL come alive through their Whole Language Approach, which uses collaboration with parents to create a conducive home environment that enhances their children’s learning.
@@ -148,7 +148,7 @@ background-color: lightgrey;!important;
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">我爱华文，我爱艺术的真、善、美！</h4>
       <p style="font-family:KaiTi;margin:10px;font-size:21px;">
      冠智学习与艺术园地强调艺术教育的重要性和影响力，鼓励幼儿不断从观察、体验和探索中，表达纯真的自我。<br/><br/>
-          学校把美术、戏剧、音乐韵律课程巧妙地融入到华文认字和诵读。孩子们在接受艺术熏陶的同时，学习、应用、并爱上华文。<br/><br/>
+          学校在美术、戏剧、音乐韵律课程中巧妙地融入华文认字和诵读。孩子们在接受艺术熏陶的同时，学习、应用并爱上华文。<br/><br/>
           学校也通过绘本故事，开阔小朋友们的视野，提升他们的思维能力和想象力。老师会根据不同的故事内容及不同的教学活动，让小朋友们在活动过程中，接触正确的价值观。</p><br/>
           <h4 style="margin:10px;color:#d84178;">Discovering the Joy of Learning Chinese - Arts Integrated Curriculum</h4>
         <p style="margin:10px;">
