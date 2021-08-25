@@ -116,7 +116,7 @@ margin-left:25px;
 PENGAJARAN DAN PEMBELAJARAN
 </strong></p>
   <p style="font-size:25px;color:black">Kandungan bahan pengajaran dan pembelajaran Pakej <img src="/mlmoe/cakap1.png" style="width:13%;margin-right: 13%;
-    margin-top: -6%;">
+    margin-top: -4%;">
 </p>
   <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
@@ -134,14 +134,11 @@ PENGAJARAN DAN PEMBELAJARAN
       <input id="tab-4" type="checkbox" name="tab">
    <label for="tab-4" class="lbML">• Melibatkan murid secara aktif</label>
      <div class="tab-content">
-<div class="row">
   <div class="column">
-   <img src="/mlmoe/kids-activity-workbook.jpeg" style="width:100%;">
+    <img src="/mlmoe/kids-activity-workbook.jpeg" style="width:100%;width: 35%;">
+          <br/>
+<p vertical-align="middle"><img src="/mlmoe/ml-pri_kids-workbook-activities.png" style="width:100%;width: 35%;"></p>
   </div>
-  <div class="column">
-   <img src="/mlmoe/ml-pri_kids-workbook-activities.png" style="width:100%;">
-  </div>
- </div>
 
         </div>
  </div>
