@@ -14,4 +14,7 @@ breadcrumb: 'National Institute of Education (Asian Languages and Cultures Acade
 </script>
 <a href="/exhibits/தமிழ்மொழிக்-காட்சிக்கூடம்-e/community-partners2/"   style="float: right;">Back</a>
  <img src="/images/MTLS2021-NIE_TL_Final.jpg"> <br/>
+ 
+ <a href=" https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=81384632-0d93-4b4b-bc94-ad8800826146 " target="_blank"><span style="font-size: 30px;">Follow Vadi to the library</span></a> <br/>
+ 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
