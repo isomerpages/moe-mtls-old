@@ -120,19 +120,19 @@ PENGAJARAN DAN PEMBELAJARAN
 </p>
   <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-  <label for="tab-2" class="lbML">- Dekat dengan kehidupan murid </label>
+  <label for="tab-2" class="lbML">• Dekat dengan kehidupan murid </label>
      <div class="tab-content">
        <img src="/mlmoe/ML-Pri_Poster03.jpg">  
        </div></div>
        <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-   <label for="tab-3" class="lbML">- Kaya dan pelbagai</label>
+   <label for="tab-3" class="lbML">• Kaya dan pelbagai</label>
      <div class="tab-content">
        <img src="/mlmoe/ML-Pri_Poster04.jpg">  
        </div></div>
        <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-   <label for="tab-4" class="lbML">- Melibatkan murid secara aktif</label>
+   <label for="tab-4" class="lbML">• Melibatkan murid secara aktif</label>
      <div class="tab-content">
         <center>
  <table style="width:100%;">
@@ -182,12 +182,11 @@ PENGAJARAN DAN PEMBELAJARAN
 <p>
   <li style="text-align:justify;">Permainan yang disarankan di atas haruslah dilakukan secara santai dan menyeronokkan. </li>
   
-  <li>Membetulkan jawapan anak anda dengan teguran yang 
-   lembut. 
+  <li>Ibu bapa digalakkan agar membetulkan jawapan anak anda dengan teguran yang lembut.
 
 </li>
   
-  <li>Menggalakkan anak anda untuk terus mencuba.    </li>
+  <li>Ibu bapa patut menggalakkan anak anda untuk terus mencuba.</li>
 
   <li>Jika dijalankan dengan baik, permainan yang disarankan dapat mengeratkan hubungan antara anak dengan ibu bapa.
 </li>
@@ -201,8 +200,8 @@ PENGAJARAN DAN PEMBELAJARAN
     <p style="font-weight:bold;text-align:center;">Nasi Lemak Daun Pisang</p>
   </div>
   <div class="column">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/31OI9oWggjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <p style="font-weight:bold;text-align:center;">Kain Sarong</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2hISuZWZUCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p style="font-weight:bold;text-align:center;">Ana Boleh</p>
   </div>
   </div></center>
   
