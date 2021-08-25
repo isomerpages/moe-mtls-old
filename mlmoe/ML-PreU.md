@@ -266,7 +266,7 @@ Sila klik pautan-pautan di bawah ini jika ingin informasi selanjutnya.<br/>
      <br/>
 </div>
  </div>
-<p><img src="/images/Penerbitan-karya-pelajar.jpeg" style="width:80%; horizontal-align:center;"><span style="font-size:20px">Penerbitan karya pelajar - Saujana Pujangga
+<p><img src="/mlmoe/Penerbitan-karya-pelajar.jpg" style="width:80%; horizontal-align:center;"><span style="font-size:20px">Penerbitan karya pelajar - Saujana Pujangga
 </span></p>
 
 <h4 style="color:green;">Program Penyerapan ke Luar negara
