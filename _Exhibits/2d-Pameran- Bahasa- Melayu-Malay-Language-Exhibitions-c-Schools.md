@@ -81,13 +81,13 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbML">	Perkhemahan Budaya dan Bahasa Melayu Darjah 3<br/> Admiralty Primary School</label>
+      <label for="tab-2" class="lbML">	 Perkhemahan Bahasa & Budaya Melayu 2021<br/> Admiralty Primary School</label>
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/Admiralty/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Perkhemahan Budaya dan Bahasa Melayu Darjah 3</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;"> Perkhemahan Bahasa & Budaya Melayu 2021</h4>
         <p style="margin:10px;">
          Perkhemahan ini bertujuan untuk menggalakkan penggunaan bahasa Melayu dalam kehidupan seharian murid-murid. Perkhemahan ini memberikan fokus kepada bahasa dan budaya yang terdapat dalam adat perkahwinan orang Melayu. Murid-murid telah didedahkan kepada pantun terlebih dahulu sebelum mereka menulis pantun dua kerat sendiri. Mereka juga berpeluang untuk mempelajari kepentingan bunga rampai dan bunga manggar dalam majlis perkahwinan. Adab makan dalam majlis perkahwinan turut disentuh sebelum murid-murid diperkenalkan kepada pelbagai jenis makanan yang dihidangkan. Selain itu, alat muzik kompang yang diketengahkan memberikan  mereka peluang untuk memalu kompang dan mempelajari perihal alat muzik tersebut.
   </p><br/>
