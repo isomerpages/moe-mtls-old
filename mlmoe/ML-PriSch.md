@@ -136,12 +136,15 @@ PENGAJARAN DAN PEMBELAJARAN
      <div class="tab-content">
 <div class="row">
   <div class="column">
-   <img src="/mlmoe/kids-activity-workbook.jpeg" style="width:100%;float: left;width: 35%;">
+   <p>pending Content</p>
   </div>
   <div class="column">
-  <img src="/mlmoe/ml-pri_kids-workbook-activities.png" style="width:100%;float: left;width: 35%;">
+    <img src="/mlmoe/kids-activity-workbook.jpeg" style="width:100%;float: left;width: 35%;">
+          <br/>
+<img src="/mlmoe/ml-pri_kids-workbook-activities.png" style="width:100%;float: left;width: 35%;">
   </div>
  </div>
+
         </div>
  </div>
  <p id="C2" style="font-size:30px;"><strong>SOKONGAN IBU BAPA</strong><br/><br/>
