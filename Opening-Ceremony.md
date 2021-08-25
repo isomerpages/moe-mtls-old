@@ -23,7 +23,7 @@ width:80% ;
 <h2>Opening Ceremony</h2>
 <img src="/images/GOH-Message-Banner.jpg" style="display:none;">
 <div class="video-container" >
-<iframe src="https://vimeo.com/event/1187205/embed" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div> *Video is best viewed in 1080p.
+<iframe src="https://vimeo.com/event/1230416/embed" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div> *Video is best viewed in 1080p.
     <br/>
     
 <h5>9.30 -10.00 pagi<br/><br/>
