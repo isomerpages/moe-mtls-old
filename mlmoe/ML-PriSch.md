@@ -138,7 +138,7 @@ PENGAJARAN DAN PEMBELAJARAN
        <table style="width:100%; padding:8px; margin-top: -40px;">
          <tr>
            <td style="width:33.33%;">
-    <img src="/mlmoe/kids-activity-workbook.jpeg" border="2px">
+    <img src="/mlmoe/kids-activity-workbook.jpeg" style="border:3px;">
            </td>
            <td style="width:66.67%; padding-top:70px;">
     <img src="/mlmoe/ml-pri_kids-workbook-activities.png">
