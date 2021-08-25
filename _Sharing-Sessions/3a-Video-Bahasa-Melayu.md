@@ -98,7 +98,8 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab atab3Line">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2"  class="lbML">Mari Belajar Bahasa Melayu di Taman Haiwan
+      <label for="tab-2"  class="lbML">Mari Belajar Bahasa Melayu di Taman Haiwan <br/>
+       [Livestreaming on 28 August from 4.00pm to 5.00pm]
 <br/>Mr Haniman Boniran
 </label>
       <div class="tab-content">      
@@ -176,7 +177,8 @@ Mr Herman Rothman will be sharing various interactive storytelling techniques be
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4"  class="lbML">Ayuh, Perkaya Pengalaman Kanak-kanak Mendengar Cerita!
+      <label for="tab-4"  class="lbML">Ayuh, Perkaya Pengalaman Kanak-kanak Mendengar Cerita! <br/>
+       [Livestreaming on 28 August from 2.30pm to 3.30pm]
 <br/>Mdm Jumaini bte Ariff
 </label>
       <div class="tab-content">      
@@ -307,7 +309,9 @@ In Mdm Nurain Syakirah’s sharing, parents and educators will understand how re
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab atab3Line">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1"  class="lbML">Pembelajaran Bahasa Melayu yang Menarik untuk Kanak-kanak   <br/> Mdm Nurashikin Jasni
+      <label for="tab-1"  class="lbML">Pembelajaran Bahasa Melayu yang Menarik untuk Kanak-kanak <br/>
+       [Livestreaming on 28 August from 1.00pm to 2.00pm]
+       <br/> Mdm Nurashikin Jasni
 </label>
       <div class="tab-content">
        <br/>
