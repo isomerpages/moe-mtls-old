@@ -164,7 +164,7 @@ margin-left:25px;
   点子一: 我的心情小书 </h4>
   <p style="font-size:25px;font-family:KaiTi">
 配合第一学段课程主题 —— 我是谁？<br/><br/>
-    你和孩子一起制作四页书。你可以点按以下链接 <a href="https://tinyurl.com/4pagebook2021" target="_blank" style="font-size:22px;">（https://tinyurl.com/4pagebook2021）</a>，跟着视频做出属于孩子的心情小书。在每一页，让孩子画出让他快乐／伤心／生气／害怕的事情。完成活动后，让孩子用小书来说一说自己心情！为增添趣味，你也可以准备不同的颜色纸和手工材料让孩子使用。
+    你和孩子一起制作四页书。你可以点按以下链接 <a href="https://tinyurl.com/4pagebook2021" target="_blank" style="font-size:22px;">（https://tinyurl.com/4pagebook2021）</a>，跟着视频做出属于孩子的心情小书。在每一页，让孩子画出让他快乐／伤心／生气／害怕的事情。完成活动后，让孩子用小书来说一说自己的心情。为增添趣味，你也可以准备不同的颜色纸和手工材料让孩子使用。
      </p></td>
   </table><br/>
     <table width="300px" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 25px; -webkit-border-radius: 25px; border-radius: 25px; border: 3px solid #ccc;">
@@ -173,7 +173,7 @@ margin-left:25px;
   <p style="font-size:25px;font-family:KaiTi">
          配合第二学段课程主题 —— 我周围有谁，有哪些地方？
 <br/><br/>
-         孩子熟悉你们家的环境吗？他知道住家附近有哪些地方吗？你可以和孩子一起朗读以下的儿歌，问一问孩子儿歌里出现的地方你们家附近也有吗？
+         孩子熟悉你们家的环境吗？他知道住家附近有哪些地方吗？你可以和孩子一起朗读以下的儿歌，问一问孩子：“儿歌里出现的地方，我们家附近也有吗？”
 </p>
   <p style="font-size:25px;font-family:KaiTi;text-align:center">
   《我家附近》<br/>
@@ -196,7 +196,7 @@ margin-left:25px;
   孩子使用身体的部位书空不同的笔画——小至手指、手，大至脚、腰甚至使用全身。你可以根据幼儿的兴趣和能力挑战以下不同的笔画：<br/><br/>
      <img src="/clmoe/presch1.png">
 </p> 
-     <p style="font-size:25px;font-family:KaiTi;">之后，你也可以和孩子对照书空的不同笔画，从周围找与笔画接近的事物。</p></td>
+     <p style="font-size:25px;font-family:KaiTi;">之后，你也可以和孩子对照书空的不同笔画，从周围找与笔画形状接近的事物。</p></td>
   </table>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
