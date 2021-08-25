@@ -186,7 +186,8 @@ margin-left:25px;
  அடுத்தாண்டு உயர்நிலை இரண்டு மாணவர்கள் கவிதை இலக்கியத்தைப் படித்து மகிழ்வர். </p>
   <img src="/images/TL-Sec_Books.gif" style="width:40%;"><br/>
   
-  <h2 id="C11"><img src="/images/TL-Sec_Poster06.jpg"></h2>
+  <h2 id="C11" style="font-family:Anjal New InaiMathi Sch Book;  font-size:36px; font-weight:bold; text-align:center;">மொழி கற்றலுக்குத் துணைவளமாக அமையும் தற்கால நடப்புச் செய்திகள்</h2>
+   <img src="/images/TL-Sec_Poster06.jpg">
   <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
     <label for="tab-6" style="font-family:Anjal New InaiMathi Sch Book; font-size:20px" class="lbCh">மாணவர் கற்றல் தளத்தில் நடப்புச் செய்திகள்
@@ -196,6 +197,8 @@ margin-left:25px;
          <iframe width="560" height="315" src="https://www.youtube.com/embed/nnuIhutTDUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 </div></div>
   <br/>
+  
+<h2 style="font-family:Anjal New InaiMathi Sch Book; font-size:36px; font-weight:bold; text-align:center;">தகவல் தொடர்புத் தொழில்நுட்பத்தின் கூடுதல் வளங்கள்</h2>
 <img src="/images/TL-Sec_Poster07.jpg">
   <img src="/images/TL-Sec_Poster08.jpg"><br/>
    <div class="atab">
