@@ -19,6 +19,6 @@ breadcrumb: 'Kelas Matematika M3 @ Nee Soon'
   <iframe src=" https://www.youtube.com/watch?v=-iXSKRMgmcs " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div> <br/>
   
   <div class="video-container">
-  <iframe src=" https://www.youtube.com/watch?v=PZdlpc1PrwM " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div> <br/>
+  <iframe src=" https://www.youtube.com/embed/PZdlpc1PrwM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div> <br/>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
