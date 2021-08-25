@@ -208,15 +208,15 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
-    <label for="tab-6" class="lbML">Kenali bahasa ibunda menerusi warisan dan budaya bersama Lembaga Warisan Negara (NHB)!<br/>National Heritage Board</label>
+    <label for="tab-6" class="lbML">Kenali bahasa ibunda menerusi warisan dan budaya(NHB)!<br/>National Heritage Board</label>
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/NHB/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Kenali bahasa ibunda menerusi warisan dan budaya bersama Lembaga Warisan Negara (NHB)!</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Kenali bahasa ibunda menerusi warisan dan budaya</h4>
 <p style="margin:10px;">
-          Kenali Bahasa Ibunda dengan menelusuri warisan dan budaya bersama Lembaga Warisan Negara (NHB)!<br/><br/>
+          Kenali bahasa ibunda dengan menelusuri warisan dan budaya bersama Lembaga Warisan Negara (NHB)!<br/><br/>
 Mari ketahui program-program, tip-tip bahasa dan bahan-bahan yang dihasilkan oleh Kempen Bertutur Mandarin, Majlis Bahasa Melayu Singapura dan Majlis Bahasa Tamil dengan lebih lanjut.<br/><br/>
 Dapatkanlah maklumat tentang institusi-institusi warisan seperti Pusat Warisan India, Taman Warisan Melayu dan Dewan Peringatan Nanyang Sun Yat Sen.<br/><br/>
     Melalui pameran ini, ibu bapa berpeluang mengetahui pembelajaran yang disediakan untuk anak-anak mereka dengan lebih lanjut. Para guru dan pendidik pula berpeluang menimba ilmu tentang cara-cara memperluas pembelajaran di luar darjah.
