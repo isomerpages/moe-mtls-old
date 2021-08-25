@@ -25,7 +25,7 @@ breadcrumb: 'MTL Challenge'
 <p style="display:block;">Take part in our MTL Challenge and stand a chance to win attractive prizes!<br/>
 Earn 100 points for a limited MTLS souvenir. Complete the challenge with 200 points for a surprise! </p>
 <img src="/images/Picture1.jpg" style="display:inline-block;"><br/>
-<p style="display:block;">Then as for the feedback banner description, can use the same as the one used in gametize - Let us know how you feel about MTLS 2021! </p>
+<p style="display:block;">Let us know how you feel about MTLS 2021! </p>
 <img src="/images/Feedback.jpg" style="display:inline-block;">
 
 </body>
