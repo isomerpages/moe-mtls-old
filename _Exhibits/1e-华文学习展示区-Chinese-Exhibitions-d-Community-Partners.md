@@ -114,7 +114,7 @@ background-color: lightgrey;!important;
       <label for="tab-2" class="lbCh"> <span style="font-size:25px; font-family:KaiTi">滨海艺术中心 <br/>
           滨海艺术中心 [Esplanade - Theatres on the Bay]</span></label>
       <div class="tab-content">
-          <a href="/clmoe/滨海艺术中心/"> <div class="btnvideo" style="font-size:16px;">
+          <a href="/clmoe/Esplanade/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
 <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">滨海艺术中心</h4>
