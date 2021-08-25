@@ -79,35 +79,7 @@ background-color: lightgrey;!important;
     <div><h2 style="padding-top:12px;color:#9b4490;">பாலர் பள்ளிகள்</h2></div>
     <br/>
   <table class="tbl">
-<tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1"  class="lbTM">குழந்தைகளின் &nbsp; ஆரம்பகால &nbsp; இருமொழித் &nbsp; திறனை &nbsp; வளர்ப்பதற்கு &nbsp; ஒன்றிணைந்து &nbsp; செயற்படுவோம்!<br/>
-     கல்வி &nbsp; அமைச்சின் &nbsp; பாலர்பள்ளி, &nbsp; (பொங்கோல் &nbsp; கிரீன்) &nbsp; [MK@Punggol Green]</label>
-      <div class="tab-content">
-          <br/>
-<a href="/tlmoe/Punggol-Green/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
-  <br/>
-  <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">குழந்தைகளின் &nbsp; ஆரம்பகால &nbsp; இருமொழித் &nbsp; திறனை &nbsp; வளர்ப்பதற்கு &nbsp; ஒன்றிணைந்து &nbsp; செயற்படுவோம்!
-</h4>
-          <p style="margin:10px;font-size:20px;">கல்வி அமைச்சின் பாலர்பள்ளி, (பொங்கோல் கிரீன்)-இல் பிள்ளைகள் ஆங்கிலத்தையும் தாய்மொழியையும் பள்ளியிலும் வீட்டிலும் தன்னம்பிக்கையுடன் பேசுவதற்கு வழிவகுக்கிறது. மேலும்,பாலர்பள்ளி சார்ந்த திட்டமானது பிள்ளைகளின் இளம்பருவகால இருமொழித் திறனைப் பேணி வளர்ப்பதற்குப் பெற்றோர்களோடும்  அணுக்கமாகச் செயற்படுகிறது. பிள்ளைகள் பள்ளியிலும் வீட்டிலும் எதிர்நோக்கும் 
-மாற்றங்களை நிர்வகிக்க அவர்களுக்குத் தொடர்ந்து உதவி வழங்கப்படுகிறது. பல்வேறு மகிழ்வூட்டும் கருத்துப்பரிமாற்ற நடவடிக்கைகள் அர்த்தமுள்ள, நடைமுறைக்கேற்ற சூழல்களையொட்டி அமையும்போது, தாய்மொழி பிள்ளைகளுக்கு வாழும் மொழியாக அமைகிறது. இது அவர்களின் அன்றாட வாழ்க்கையோடு தொடர்புடையது என்பதை உணர்த்தவும் பிள்ளைகள் கற்றுக்கொண்ட விழுமியங்களைப்
-பள்ளியிலும் வீட்டிலும் நடைமுறைப்படுத்தவும் முயற்சிகள் மேற்கொள்ளப்பட்டு வருகின்றன. 
-
-</p><br/>
-          <p><h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">Let’s Work Together to Develop Early Childhood Bilingualism!</h4></p>
-          <p style="margin:10px;">MOE Kindergarten @ Punggol Green nurtures early childhood bilingualism through a centre-based programme to build children’s confidence in using English and their Mother Tongue Language (MTL) in school and at home. Through this programme, the centre partners parents in supporting children’s bilingualism and helping them manage changes in school and at home. 
-<br/>
-Using interesting and interactive activities in a variety of meaningful and authentic situations, MTL becomes a living language as children see the relevance of MTL to everyday activities and to enjoy speaking their MTL. The activities also enable children to practice the same values taught in school and at home.
- </p>
-          </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
- </td>
-</tr>
+      </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
@@ -136,8 +108,34 @@ Various ICT tools and child-centric strategies are used to enhance the quality o
 <td style="border:0 none;padding: 0;" class="btnImg20">
 </td>
 </tr>
-
-<tr>
+    <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-1" type="checkbox" name="tab">
+      <label for="tab-1"  class="lbTM">குழந்தைகளின் &nbsp; ஆரம்பகால &nbsp; இருமொழித் &nbsp; திறனை &nbsp; வளர்ப்பதற்கு &nbsp; ஒன்றிணைந்து &nbsp; செயற்படுவோம்!<br/>
+     கல்வி &nbsp; அமைச்சின் &nbsp; பாலர்பள்ளி, &nbsp; (பொங்கோல் &nbsp; கிரீன்) &nbsp; [MK@Punggol Green]</label>
+      <div class="tab-content">
+          <br/>
+<a href="/tlmoe/Punggol-Green/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
+  <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">குழந்தைகளின் &nbsp; ஆரம்பகால &nbsp; இருமொழித் &nbsp; திறனை &nbsp; வளர்ப்பதற்கு &nbsp; ஒன்றிணைந்து &nbsp; செயற்படுவோம்!
+</h4>
+          <p style="margin:10px;font-size:20px;">கல்வி அமைச்சின் பாலர்பள்ளி, (பொங்கோல் கிரீன்)-இல் பிள்ளைகள் ஆங்கிலத்தையும் தாய்மொழியையும் பள்ளியிலும் வீட்டிலும் தன்னம்பிக்கையுடன் பேசுவதற்கு வழிவகுக்கிறது. மேலும்,பாலர்பள்ளி சார்ந்த திட்டமானது பிள்ளைகளின் இளம்பருவகால இருமொழித் திறனைப் பேணி வளர்ப்பதற்குப் பெற்றோர்களோடும்  அணுக்கமாகச் செயற்படுகிறது. பிள்ளைகள் பள்ளியிலும் வீட்டிலும் எதிர்நோக்கும் 
+மாற்றங்களை நிர்வகிக்க அவர்களுக்குத் தொடர்ந்து உதவி வழங்கப்படுகிறது. பல்வேறு மகிழ்வூட்டும் கருத்துப்பரிமாற்ற நடவடிக்கைகள் அர்த்தமுள்ள, நடைமுறைக்கேற்ற சூழல்களையொட்டி அமையும்போது, தாய்மொழி பிள்ளைகளுக்கு வாழும் மொழியாக அமைகிறது. இது அவர்களின் அன்றாட வாழ்க்கையோடு தொடர்புடையது என்பதை உணர்த்தவும் பிள்ளைகள் கற்றுக்கொண்ட விழுமியங்களைப்
+பள்ளியிலும் வீட்டிலும் நடைமுறைப்படுத்தவும் முயற்சிகள் மேற்கொள்ளப்பட்டு வருகின்றன. 
+</p><br/>
+          <p><h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">Let’s Work Together to Develop Early Childhood Bilingualism!</h4></p>
+          <p style="margin:10px;">MOE Kindergarten @ Punggol Green nurtures early childhood bilingualism through a centre-based programme to build children’s confidence in using English and their Mother Tongue Language (MTL) in school and at home. Through this programme, the centre partners parents in supporting children’s bilingualism and helping them manage changes in school and at home. 
+<br/>
+Using interesting and interactive activities in a variety of meaningful and authentic situations, MTL becomes a living language as children see the relevance of MTL to everyday activities and to enjoy speaking their MTL. The activities also enable children to practice the same values taught in school and at home.
+ </p>
+          </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg20">
+ </td>
+ <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
@@ -163,7 +161,6 @@ Various ICT tools and child-centric strategies are used to enhance the quality o
 <td style="border:0 none;padding: 0;" class="btnImg20">
 </td>
 </tr>
-
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
@@ -191,7 +188,6 @@ Various ICT tools and child-centric strategies are used to enhance the quality o
 </td>
 </tr>
 </table>
-
 <hr>
 <div class="image">
   <img src="images/2021-08-04_MTLS_Web_Footer_600X250_300dpi.jpg" class="Image" width="1000" height="300"></div>
