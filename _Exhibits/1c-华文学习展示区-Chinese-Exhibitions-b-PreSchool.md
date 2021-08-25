@@ -135,6 +135,51 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0;" class="btnImg22" >
 </td>
 </tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-6" type="checkbox" name="tab">
+    <label for="tab-6" class="lbCh"><span style="font-size:25px;font-family:KaiTi">携手培养双语幼儿<br/>
+    MK@Punggol Green </span></label>
+      <div class="tab-content">
+       <br/>
+       <a href="/clmoe/携手培养双语幼儿/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
+<h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">携手培养双语幼儿</h4>
+      <p style="font-family:KaiTi;margin:10px;font-size:21px;">
+      教育部幼儿园（培林）的双语教学活动，旨在培养幼儿双语的学习，使他们在幼儿园和家里能自信地使用英语和母语交流。<br/><br/>
+       通过这项活动，幼儿园和家长紧密合作，携手促进幼儿学习双语，并帮助幼儿适应幼儿园和家里的变化。<br/><br/>
+       这些活动设计既有趣又有意义，让幼儿在真实情景中学习母语，自然而然地喜欢说母语，使母语成为幼儿生活中的语言。此外，我们也在把价值观融入到各项活动中，使幼儿能将所学运用在日常生活中。
+ </p><br/>
+<h4 style="margin:10px;color:#d84178;">Let’s Work Together to Develop Early Childhood Bilingualism!</h4>
+<p style="margin:10px;">MOE Kindergarten @ Punggol Green nurtures early childhood bilingualism through the centre-based programme to build children’s confidence in using English and their Mother Tongue Language (MTL) in school and at home. 
+<br/><br/>
+ Through this programme, the centre partners parents to support children’s bilingualism and help them manage changes in school and at home. 
+ <br/><br/>
+   Using fun and interactive activities in a variety of meaningful and authentic situations, MTL becomes a living language as children see the relevance of MTL in everyday activities and to enjoy speaking their MTL. The activities also enable children to practise the same set of values taught in school and at home.
+</p>
+</div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg22" >
+</td>
+</tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
