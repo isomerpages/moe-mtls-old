@@ -134,7 +134,7 @@ PENGAJARAN DAN PEMBELAJARAN
       <input id="tab-4" type="checkbox" name="tab">
    <label for="tab-4" class="lbML">• Melibatkan murid secara aktif</label>
      <div class="tab-content">
-       <table>
+       <table style="width:100%;">
          <tr>
            <td style="width:40%;">
     <img src="/mlmoe/kids-activity-workbook.jpeg" style="border:2px;">
