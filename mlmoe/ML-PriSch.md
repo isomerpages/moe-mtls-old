@@ -134,14 +134,19 @@ PENGAJARAN DAN PEMBELAJARAN
       <input id="tab-4" type="checkbox" name="tab">
    <label for="tab-4" class="lbML">• Melibatkan murid secara aktif</label>
      <div class="tab-content">
-        <center>
-<img src="/mlmoe/kids-activity-workbook.jpeg" style="border:2px solid black;" >
+<div class="row">
+  <div class="column">
+   <p>pending Content</p>
+  </div>
+  <div class="column">
+    <img src="/mlmoe/kids-activity-workbook.jpeg" style="width:100%;float: left;width: 35%;">
           <br/>
-<img src="/mlmoe/ml-pri_kids-workbook-activities.png">
-  </center>
-       </div></div>
-
-      <p id="C2" style="font-size:30px;"><strong>SOKONGAN IBU BAPA</strong><br/><br/>
+  <img src="/mlmoe/ml-pri_kids-workbook-activities.png" style="width:100%;float: left;width: 35%;">
+  </div>
+ </div>
+        </div>
+ </div>
+ <p id="C2" style="font-size:30px;"><strong>SOKONGAN IBU BAPA</strong><br/><br/>
       <img src="/mlmoe/ML-Pri_Poster05.jpg"> 
       </p>
 <p style="font-size:25px;text-align:justify;"> Ibu bapa boleh bermain beberapa permainan dengan anak anda agar dapat meningkatkan dan meluaskan kosa katanya. </p>
