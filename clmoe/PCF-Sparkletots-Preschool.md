@@ -14,6 +14,6 @@ breadcrumb: 'PCF Sparkletots Preschool @ Woodlands Blk 801 (CC)'
   gtag('config', 'AW-726049306');
 </script>
 <a href="/exhibits/华文学习展示区-chinese-exhibitions-c/preschool/" style="float:right;">Back</a>
- <img src="/images/Poster_PCF-CL.jpg"> <br/>
+ <img src="/images/MTLS2021-SparkleTots@Woodlands_CL_Final.jpg"> <br/>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
