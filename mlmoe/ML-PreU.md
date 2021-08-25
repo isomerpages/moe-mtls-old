@@ -124,7 +124,7 @@ margin-left:25px;
     <p>
  Kemahiran bahasa diajarkan berdasarkan konteks. Sukatan pelajaran ini berasaskan kerangka tiga tema luas. Hal ini membolehkan pelajar Bahasa Melayu H1 dan Bahasa Melayu‘B’ untuk belajar dan menerapkan kemahiran bahasa secara bersepadu dan bermakna, danmencapai pemahaman yang mendalam tentang isu-isu melalui perspektif yang berbeza. Tema-tema ini dipilih atas sebab kerelevanannya pada pelajar dan nilai pendidikan bagi memahami individu, masyarakat dan dunia.
      </p>
-<img src="/mlmoe/ML-PreU_PBTTLUMP.png">
+<img src="/mlmoe/ML-PreU_PBTTLUMP.png"><br/>
 <img src="/mlmoe/ML-PreU_Image1.png">
 <p>Untuk mengetahui Sukatan Pelajaran Prauniversiti dengan lebih lanjut, sila layari pautan yang berikut: </p>
 <a href="/exhibits/Annex A -Sukatan-Pelajaran-H1.pdf" target="_blank">Sukatan Pelajaran H1</a><br/>
@@ -197,12 +197,12 @@ margin-left:25px;
       </ul>
 </p>    
   </div></div>
-
+<br/>
 Sila klik pautan-pautan di bawah ini jika ingin informasi selanjutnya.<br/>
 <a href="https://sites.google.com/view/emasmlep/home?authuser=0" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu</a><br/>
-<a href="/mlmoe/ML-PreU-Outreach-Secondary-Schools-Final.pdf" target="_blank">Program Elektif Bahasa Melayu Maktab Rendah (MLEP JC)</a><br/>
+<a href="/mlmoe/ML-PreU-Outreach-Secondary-Schools-Final.pdf" target="_blank">Program Elektif Bahasa Melayu Maktab Rendah (MLEP JC)</a><br/><br/>
 <img src="/images/ML-PreU-Brosur-Program.png">
-<br/><br/>
+<br/>
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
    <label for="tab-4" class="lbML">Aktiviti-aktiviti program MLEP-JC
