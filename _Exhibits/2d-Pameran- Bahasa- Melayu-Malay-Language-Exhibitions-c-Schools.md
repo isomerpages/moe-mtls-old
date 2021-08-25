@@ -61,9 +61,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
  .btnvideo:hover {
 background-color: lightgrey;!important;
 }
- 
-
-</style>
+ </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
 <script>
@@ -106,30 +104,6 @@ background-color: lightgrey;!important;
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbML">Pelajaran Lisan Kendiri <br/>Park View Primary School</label>
-      <div class="tab-content">
-          <br/>
-<a href="/mlmoe/Park-View/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
-  <br/>
-     <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Pelajaran Lisan Kendiri  </h4>
-      <p style="margin:10px;">
-       Pakej ‘Penilaian Lisan Kendiri’ dihasilkan bagi murid-murid darjah 5 dan 6. Pakej ini bertujuan untuk membantu murid-murid membina keyakinan diri bagi peperiksaan lisan mereka dengan membina kemahiran penilaian kendiri.  Pakej yang bersifat interaktif ini dapat membimbing murid-murid untuk menilai komponen membaca dan bertutur. Murid-murid akan dapat mendengar contoh-contoh bacaan dan pertuturan yang disertakan dengan perincian penerangan bagi band yang diraih sebelum mencubanya sendiri. Dengan menggunakan panduan tersebut, murid-murid dapat menilai prestasi mereka sendiri. Mereka juga akan dapat mengenal pasti band sasaran mereka dan terus berlatih untuk mencapai band tersebut. Pakej ini diharapkan dapat menghasilkan penutur bahasa yang yakin dan cekap.
- </p><br/>
-
-<h4 style="padding-top:12px;margin:10px;color:#a3c864;">Self-Directed Learning in Oral</h4>
-<p style="margin:10px;">The Self-Oral Assessment package was developed for Primary 5 and 6 students. The interactive package aims to help students build confidence for their oral examination by teaching them to self-assess the reading and speaking components. Students can listen to reading and speaking samples, as well as receive explanations and the bands attained based on samples. With this information, students will be able to assess their own performance and identify their target band to continue working towards improvement. Through this package, students are nurtured to become confident and competent speakers of their Mother Tongue Languages.
-</p>
-      </div>
-</div>
-</td> 
-<td style="border:0 none;padding: 0;" class="btnImg17">
-</td>
-</tr>
-<tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
       <label for="tab-3" class="lbML">Bersedia, Mula, Menulis!<br/>Lakeside Primary School</label>
       <div class="tab-content">
@@ -151,6 +125,29 @@ background-color: lightgrey;!important;
       </div>
 </div>
 </td>
+<td style="border:0 none;padding: 0;" class="btnImg17">
+</td>
+</tr>         
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-1" type="checkbox" name="tab">
+      <label for="tab-1" class="lbML">Pelajaran Lisan Kendiri <br/>Park View Primary School</label>
+      <div class="tab-content">
+          <br/>
+<a href="/mlmoe/Park-View/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
+     <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Pelajaran Lisan Kendiri  </h4>
+      <p style="margin:10px;">
+       Pakej ‘Penilaian Lisan Kendiri’ dihasilkan bagi murid-murid darjah 5 dan 6. Pakej ini bertujuan untuk membantu murid-murid membina keyakinan diri bagi peperiksaan lisan mereka dengan membina kemahiran penilaian kendiri.  Pakej yang bersifat interaktif ini dapat membimbing murid-murid untuk menilai komponen membaca dan bertutur. Murid-murid akan dapat mendengar contoh-contoh bacaan dan pertuturan yang disertakan dengan perincian penerangan bagi band yang diraih sebelum mencubanya sendiri. Dengan menggunakan panduan tersebut, murid-murid dapat menilai prestasi mereka sendiri. Mereka juga akan dapat mengenal pasti band sasaran mereka dan terus berlatih untuk mencapai band tersebut. Pakej ini diharapkan dapat menghasilkan penutur bahasa yang yakin dan cekap.
+ </p><br/>
+<h4 style="padding-top:12px;margin:10px;color:#a3c864;">Self-Directed Learning in Oral</h4>
+<p style="margin:10px;">The Self-Oral Assessment package was developed for Primary 5 and 6 students. The interactive package aims to help students build confidence for their oral examination by teaching them to self-assess the reading and speaking components. Students can listen to reading and speaking samples, as well as receive explanations and the bands attained based on samples. With this information, students will be able to assess their own performance and identify their target band to continue working towards improvement. Through this package, students are nurtured to become confident and competent speakers of their Mother Tongue Languages.
+</p>
+</div>
+</div>
+</td> 
 <td style="border:0 none;padding: 0;" class="btnImg17">
 </td>
 </tr>
