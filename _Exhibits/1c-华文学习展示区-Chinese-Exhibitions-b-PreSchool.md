@@ -83,8 +83,31 @@ background-color: lightgrey;!important;
     <br/>
  <div><h2 style="font-family:KaiTi;color:#d84178;">学前中心</h2></div>
  <br/>
-
 <table class="tbl">
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-5" type="checkbox" name="tab">
+      <label for="tab-5" class="lbCh"><span style="font-size:25px;font-family:KaiTi">母语学习-用全语言让母语活起来 <br/>
+       Creative O Preschoolers’ Bay</span></label>
+      <div class="tab-content">
+        <br/>
+       <a href="/clmoe/Creative-O/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
+           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">母语学习-用全语言让母语活起来！</h4>
+          <p style="font-family:KaiTi;margin:10px;font-size:21px;">
+          母语学习只限于正式课程吗？或许应该跳脱这样的思维模式，探索其他可能性。在学校的日常生活、学习区游戏及户外活动中，教师如何发现并抓住母语学习的契机？拥有15年实践全语言学习体验的新意元幼源与大家分享在校园生活中，教师是如何帮助孩子自然且有目的地使用母语，并通过家园合作，鼓励家长创设有利于母语学习的家庭环境，激发孩子学习母语的兴趣。</p><br/>
+          <h4 style="margin:10px;color:#d84178;">Make Mother Tongue Language Come Alive through a Whole Language Approach</h4>
+        <p style="margin:10px;">
+       The learning of Mother Tongue Language (MTL) can happen beyond the classroom. There are many opportunities for teachers to engage children in various activities related to speaking and reading that happens in daily school life and outdoor interaction. Teachers from Creative O Preschoolers’ Bay will be sharing their fifteen years of experience in making the learning of MTL come alive through their Whole Language Approach, which uses collaboration with parents to create a conducive home environment that enhances their children’s learning.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg20">
+</td>
+</tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
@@ -96,8 +119,7 @@ background-color: lightgrey;!important;
        <a href="/clmoe/爱加倍实龙岗分校/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
-
-      <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">通过数码资讯科技，让母语学习活起来</h4>
+<h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">通过数码资讯科技，让母语学习活起来</h4>
       <p style="font-family:KaiTi;margin:10px;font-size:21px;">
        教育部幼儿园（丰伟）坚信学习能通过有意义的游戏和有效的互动进行。教师们积极借助数码科技为幼儿提供有针对性的学习体验。幼儿们利用数码资讯工具拓展学习范围，掌握学习的自主权。<br/><br/>
           在母语课堂中，教师善用平板电脑等多元化的数码资讯工具，设计充满趣味的互动活动，结合以幼儿为中心的教学策略，提升教学质量。充满乐趣和互动的资讯科技活动让幼儿既能依据个人的进度自主学习，也能与同伴一起探索周围的事物并与之互动，成为积极的母语学习者。
@@ -112,6 +134,56 @@ background-color: lightgrey;!important;
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22" >
 </td>
+</tr>
+ <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-3" type="checkbox" name="tab">
+    <label for="tab-3" class="lbCh"><span style="font-size:25px;font-family:KaiTi">我爱华文，我爱艺术的真， 善， 美！<br/> 冠智学习与艺术园 (Nobleland Arts N Learning Place @ Bishan)</span></label>
+      <div class="tab-content">
+        <br/>
+       <a href="/clmoe/冠智学习与艺术园/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
+           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">我爱华文，我爱艺术的真、善、美！</h4>
+      <p style="font-family:KaiTi;margin:10px;font-size:21px;">
+     冠智学习与艺术园地强调艺术教育的重要性和影响力，鼓励幼儿不断从观察、体验和探索中，表达纯真的自我。<br/><br/>
+          学校把美术、戏剧、音乐韵律课程巧妙地融入到华文认字和诵读。孩子们在接受艺术熏陶的同时，学习、应用、并爱上华文。<br/><br/>
+          学校也通过绘本故事，开阔小朋友们的视野，提升他们的思维能力和想象力。老师会根据不同的故事内容及不同的教学活动，让小朋友们在活动过程中，接触正确的价值观。</p><br/>
+          <h4 style="margin:10px;color:#d84178;">Discovering the Joy of Learning Chinese - Arts Integrated Curriculum</h4>
+        <p style="margin:10px;">
+         Nobleland believes that an arts-integrated curriculum helps to enhance brain development and creativity, as well as develop 21st century life skills through character education. The school’s Chinese curriculum has a strong focus on integrating the visual and performing arts, Chinese cultural appreciation, character building and literature-based learning to promote a holistic love and interest in Chinese. <br/><br/>
+            The school also uses picture books to broaden children’s perspectives, and to develop their inquiry and critical thinking skills. Teachers use the different stories and activities, to create opportunities to inculcate the right values in the children.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg22">
+</td>
+</tr>
+ <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-4" type="checkbox" name="tab">
+ <label for="tab-4" class="lbCh"><span style="font-size:25px;font-family:KaiTi">演一演, 说一说 <br/> PCF Sparkletots Preschool @ Woodlands Blk 801 (CC)</span></label>
+      <div class="tab-content">
+        <br/>
+       <a href="/clmoe/PCF-Sparkletots-Preschool/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
+          <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">演一演, 说一说</h4>
+          <p style="font-family:KaiTi;margin:10px;font-size:21px;">PCF Sparkletots Preschool @ Woodlands Blk 801运用戏剧为孩子们提供了体验、表达和探索的机会。<br/><br/>
+学校鼓励孩子们运用创造力和认知技能，积极参与活动和语言互动：在神奇幻想的舞台上，他们能够扮演独特的角色，学会倾听、协商及如何与他人合作。
+</p><br/>
+          <h4 style="margin:10px;color:#d84178;">Learning Chinese Through Dramatisation</h4>
+        <p style="margin:10px;">
+          PCF Sparkletots Preschool @ Woodlands Blk 801 employs dramatisation in teaching and learning Chinese Language to children from Nursery 2 to Kindergarten 2. This approach provides children with the opportunities to experience, express and explore within a story and situation. Children take part in a fantasy world full of imagination, transforming themselves into characters to listen, negotiate, and collaborate as they act out their roles. Such activities nurture self-confidence and the creative use of language. The safe and relaxed setting also encourages children to use Chinese spontaneously, thus cultivating a love for the language.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg22" >
+ </td>
 </tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
@@ -138,85 +210,7 @@ background-color: lightgrey;!important;
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
- 
-</td>
-</tr>
-<tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-3" type="checkbox" name="tab">
-    <label for="tab-3" class="lbCh"><span style="font-size:25px;font-family:KaiTi">我爱华文，我爱艺术的真， 善， 美！<br/> 冠智学习与艺术园 (Nobleland Arts N Learning Place @ Bishan)</span></label>
-      <div class="tab-content">
-        <br/>
-       <a href="/clmoe/冠智学习与艺术园/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
-  <br/>
-           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">我爱华文，我爱艺术的真、善、美！</h4>
-      <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-     冠智学习与艺术园地强调艺术教育的重要性和影响力，鼓励幼儿不断从观察、体验和探索中，表达纯真的自我。<br/><br/>
-          学校把美术、戏剧、音乐韵律课程巧妙地融入到华文认字和诵读。孩子们在接受艺术熏陶的同时，学习、应用、并爱上华文。<br/><br/>
-          学校也通过绘本故事，开阔小朋友们的视野，提升他们的思维能力和想象力。老师会根据不同的故事内容及不同的教学活动，让小朋友们在活动过程中，接触正确的价值观。</p><br/>
-          <h4 style="margin:10px;color:#d84178;">Discovering the Joy of Learning Chinese - Arts Integrated Curriculum</h4>
-        <p style="margin:10px;">
-         Nobleland believes that an arts-integrated curriculum helps to enhance brain development and creativity, as well as develop 21st century life skills through character education. The school’s Chinese curriculum has a strong focus on integrating the visual and performing arts, Chinese cultural appreciation, character building and literature-based learning to promote a holistic love and interest in Chinese. <br/><br/>
-            The school also uses picture books to broaden children’s perspectives, and to develop their inquiry and critical thinking skills. Teachers use the different stories and activities, to create opportunities to inculcate the right values in the children.
-        </p>
-      </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg22">
- 
-</td>
-</tr>
-<tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-4" type="checkbox" name="tab">
- <label for="tab-4" class="lbCh"><span style="font-size:25px;font-family:KaiTi">演一演, 说一说 <br/> PCF Sparkletots Preschool @ Woodlands Blk 801 (CC)</span></label>
-      <div class="tab-content">
-        <br/>
-       <a href="/clmoe/PCF-Sparkletots-Preschool/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
-  <br/>
-          <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">演一演, 说一说</h4>
-          <p style="font-family:KaiTi;margin:10px;font-size:21px;">PCF Sparkletots Preschool @ Woodlands Blk 801运用戏剧为孩子们提供了体验、表达和探索的机会。<br/><br/>
-学校鼓励孩子们运用创造力和认知技能，积极参与活动和语言互动：在神奇幻想的舞台上，他们能够扮演独特的角色，学会倾听、协商及如何与他人合作。
-</p><br/>
-          <h4 style="margin:10px;color:#d84178;">Learning Chinese Through Dramatisation</h4>
-        <p style="margin:10px;">
-          PCF Sparkletots Preschool @ Woodlands Blk 801 employs dramatisation in teaching and learning Chinese Language to children from Nursery 2 to Kindergarten 2. This approach provides children with the opportunities to experience, express and explore within a story and situation. Children take part in a fantasy world full of imagination, transforming themselves into characters to listen, negotiate, and collaborate as they act out their roles. Such activities nurture self-confidence and the creative use of language. The safe and relaxed setting also encourages children to use Chinese spontaneously, thus cultivating a love for the language.
-        </p>
-      </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg22" >
- 
-</td>
-</tr>
-<tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5" class="lbCh"><span style="font-size:25px;font-family:KaiTi">母语学习-用全语言让母语活起来 <br/>
-       Creative O Preschoolers’ Bay</span></label>
-      <div class="tab-content">
-        <br/>
-       <a href="/clmoe/Creative-O/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
-  <br/>
-           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">母语学习-用全语言让母语活起来！</h4>
-          <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-          母语学习只限于正式课程吗？或许应该跳脱这样的思维模式，探索其他可能性。在学校的日常生活、学习区游戏及户外活动中，教师如何发现并抓住母语学习的契机？拥有15年实践全语言学习体验的新意元幼源与大家分享在校园生活中，教师是如何帮助孩子自然且有目的地使用母语，并通过家园合作，鼓励家长创设有利于母语学习的家庭环境，激发孩子学习母语的兴趣。</p><br/>
-          <h4 style="margin:10px;color:#d84178;">Make Mother Tongue Language Come Alive through a Whole Language Approach</h4>
-        <p style="margin:10px;">
-       The learning of Mother Tongue Language (MTL) can happen beyond the classroom. There are many opportunities for teachers to engage children in various activities related to speaking and reading that happens in daily school life and outdoor interaction. Teachers from Creative O Preschoolers’ Bay will be sharing their fifteen years of experience in making the learning of MTL come alive through their Whole Language Approach, which uses collaboration with parents to create a conducive home environment that enhances their children’s learning.
-        </p>
-      </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
-
-</td>
+ </td>
 </tr>
 </table>
 <hr>
