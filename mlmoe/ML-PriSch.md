@@ -140,7 +140,7 @@ PENGAJARAN DAN PEMBELAJARAN
            <td style="width:35%;">
     <img src="/mlmoe/kids-activity-workbook.jpeg" style="border:2px;">
            </td>
-           <td style="width:65%; padding-top:120px;">
+           <td style="width:65%; padding-top:80px;">
     <img src="/mlmoe/ml-pri_kids-workbook-activities.png">
            </td>
          </tr>
