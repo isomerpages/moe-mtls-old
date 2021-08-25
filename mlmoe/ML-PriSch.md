@@ -136,7 +136,6 @@ PENGAJARAN DAN PEMBELAJARAN
      <div class="tab-content">
   <div class="column">
     <img src="/mlmoe/kids-activity-workbook.jpeg" style="width:100%;width: 35%;">
-          <br/>
 <p vertical-align="middle"><img src="/mlmoe/ml-pri_kids-workbook-activities.png" style="width:100%;width: 35%;"></p>
   </div>
 
