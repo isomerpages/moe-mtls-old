@@ -252,7 +252,6 @@ margin-left:25px;
   <span style="font-family:Anjal New InaiMathi Sch Book; font-size:28px; font-weight:bold;">காமன்வெல்த் உயர்நிலைப்பள்ளி</span><br/>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/giDBQvuLZp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><br/>
  <span style="font-family:Anjal New InaiMathi Sch Book; font-size:28px; font-weight:bold;">ரிவர்சைடு உயர்நிலைப்பள்ளி</span><br/>
- <span style="font-family:Anjal New InaiMathi Sch Book; font-size:24px; text-align:justify;">அன்பழகன் நிவேதிதா _உயர்நிலை 3 </span><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VbDOJKBV8-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
     </div></div>
 
