@@ -121,18 +121,9 @@ margin-left:25px;
   </tr>
   </table>
  <h4 style="color:green;font-size:30px;">Pendekatan Pembelajaran dan Pengajaran Bahasa Melayu di Peringkat Prauniversiti</h4>
-  <table style=" border-collapse: collapse; width: 100%;">
-<tr>
-    <td style=" text-align: left;padding: 8px;width:40%;">
-     Pending image
-    </td>
-    <td style=" text-align: left;padding: 8px; width:60%;">
-    <p style="text-align:justify;">
+    <p>
  Kemahiran bahasa diajarkan berdasarkan konteks. Sukatan pelajaran ini berasaskan kerangka tiga tema luas. Hal ini membolehkan pelajar Bahasa Melayu H1 dan Bahasa Melayu‘B’ untuk belajar dan menerapkan kemahiran bahasa secara bersepadu dan bermakna, danmencapai pemahaman yang mendalam tentang isu-isu melalui perspektif yang berbeza. Tema-tema ini dipilih atas sebab kerelevanannya pada pelajar dan nilai pendidikan bagi memahami individu, masyarakat dan dunia.
      </p>
-    </td>
-  </tr>
-  </table>
 <img src="/mlmoe/ML-PreU_PBTTLUMP.png">
 <img src="/mlmoe/ML-PreU_Image1.png">
 <p>Untuk mengetahui Sukatan Pelajaran Prauniversiti dengan lebih lanjut, sila layari pautan yang berikut: </p>
