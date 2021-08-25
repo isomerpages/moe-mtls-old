@@ -89,7 +89,7 @@ background-color: lightgrey;!important;
   <br/>
 <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">乐学华族节日与美食</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-         为了促进学生的文化认知，爱同学校的教师们策划了一系列以华族传统节日及美食为主题的活动。除了阅读与传统文化相关的图书之外，学生也积极参加以下活动：在元宵节制作、品尝汤圆，在母语双周制作传统食品泥塑（低、中年级）、画漫画（高年级）等。此外，学校也通过华语小广播、视频、简报和“新加坡学生学习平台”（SLS）加深学生对传统节日和美食的了解，引发探索华族文化的兴趣，加强他们学习华文的动力。</p><br/>
+         为了促进学生的文化认知，爱同学校的教师们策划了一系列以华族传统节日及美食为主题的活动。除了阅读与传统文化相关的图书之外，学生也积极参加以下活动：在元宵节制作、品尝汤圆; 在母语双周制作传统食品泥塑（低、中年级); 画漫画（高年级）等。此外，学校也通过华语小广播、视频、简报和“新加坡学生学习平台”（SLS）加深学生对传统节日和美食的了解，激发学生探索华族文化的兴趣，加强他们学习华文的动力。</p><br/>
           <h4 style="margin:10px;color:#d84178;">Joy of Learning about Festivals and Food Culture</h4>
         <p style="margin:10px;">
        To strengthen the appreciation of Chinese culture in our students, Ai Tong School has curated a cultural programme that revolves around Chinese festivals and food culture. Besides aligning reading activities to Chinese culture, the Chinese Department also organises hands-on activities such as making tang yuan (glutinous rice balls) during the Yuanxiao Festival, the clay-crafting of traditional food and comic creation during Mother Tongue Language Fortnight. The teachers also leverage on digital applications and the Singapore Student Learning Space (SLS), to deepen students’ learning and arouse their interest in Chinese culture, thereby increasing their motivation in learning Chinese.
@@ -134,7 +134,7 @@ background-color: lightgrey;!important;
   <br/>
 <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">东源小学户外学习乐</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-       东源小学推展的“户外学习之旅”计划让低年级学生把华文课程的主题和内容与生活联系起来。<br/><br/>
+       东源小学推展的“户外学习之旅”计划让低年级学生把华文课程的主题及内容与生活联系起来。<br/><br/>
 在此计划中，一年级学生在老师的带领下走进邻里社区，认识周围的生活环境，也去超市选购食材。二年级学生到校内的小菜园认识各种蔬果，然后回家与父母一起制作简单的菜肴。活动后，学生在“新加坡学生学习平台”（SLS）上分享心得。此计划成功地帮助学生巩固和深化了课堂所学，感受到华文的实用价值，体会到使用华语的乐趣。
 </p><br/>
           <h4 style="margin:10px;color:#d84178;">Our Outdoor Learning in East Spring</h4>
@@ -159,7 +159,7 @@ background-color: lightgrey;!important;
   <br/>
 <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">运用数码工具进行母语教学</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-    圣若瑟书院母语部在教学中使用线上教学法促进学生协作学习的能力。教师们有效地使用不同的教学工具，如：Jamboard, Flipgrid 和“新加坡学生学习平台”（SLS）的“思维互动工具”（ITT ，Interactive Thinking Tool) 进行“学生与学生”和“学生与文本”之间的互动，让学生的思维可视化。在教师的引领和科技的辅助下，学生有更多机会分享自己的看法，进行高效的小组协作以及同侪互评，为彼此提供有意义的反馈。在这个活动下，同学通过协作，一起进步、一起达成学习目标。
+    圣若瑟书院母语部在教学中使用线上教学法促进学生协作学习的能力。教师们有效地使用不同的教学工具，如：Jamboard, Flipgrid 和“新加坡学生学习平台”（SLS）的“思维互动工具”（ITT ，Interactive Thinking Tool) 进行“学生与学生”和“学生与文本”之间的互动，让学生的思维可视化。在教师的引领和科技的辅助下，学生有更多机会分享自己的看法，进行高效的小组协作以及同侪互评，为彼此提供有意义的反馈。在这些活动中，学生通过协作，一起进步、一起达成学习目标。
 </p><br/>
           <h4 style="margin:10px;color:#d84178;">Effective Use of Teaching Tools in CL Lessons with E-Pedagogy</h4>
         <p style="margin:10px;">
