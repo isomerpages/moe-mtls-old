@@ -86,7 +86,7 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbML">Esplanade – Teater di Persisiran<br/Esplanade – Teater di Persisiran (Esplanade - Theatres on the Bay)</label>
+      <label for="tab-2" class="lbML">Esplanade – Teater di Persisiran<br/>Esplanade – Teater di Persisiran (Esplanade - Theatres on the Bay)</label>
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/Esplanade-Teater-di-Persisiran/"> <div class="btnvideo" style="font-size:16px;">
