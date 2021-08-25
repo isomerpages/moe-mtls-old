@@ -60,9 +60,7 @@ third_nav_title: 'Pameran Bahasa Melayu'
  .btnvideo:hover {
 background-color: lightgrey;!important;
 }
- 
-
-</style>
+ </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
 <script>
@@ -78,6 +76,54 @@ background-color: lightgrey;!important;
    <div> <h2 style="padding-top:12px;color:#a3c864;">Prasekolah</h2></div>
   <br/>
   <table class="tbl">
+    <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-12" type="checkbox" name="tab">
+      <label for="tab-12" class="lbML">Berseronok dengan permainan zaman silam <br/>E-Bridge Preschool @ Veranda Matilda</label>
+      <div class="tab-content">
+          <br/>
+<a href="/mlmoe/E-Bridge/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Berseronok dengan permainan zaman silam</h4>
+        <p style="margin:10px;">
+ 'Berseronok dengan Permainan Zaman Silam' merupakan inisiatif Tadika E-Bridge di Matilda untuk menggalakkan pembelajaran Bahasa Melayu secara interaktif dan menyeronokkan. Dengan melibatkan diri dalam permainan tradisional, kanak-kanak dapat membina sifat ingin tahu dan meneroka, serta bersemangat untuk mendalami budaya Melayu.<br/><br/>
+Kerjasama antara ibu bapa dengan sekolah amat penting untuk meningkatkan kemahiran berkomunikasi dan keyakinan diri kanak-kanak sewaktu bertutur dalam bahasa Melayu. Ibu bapa juga digalakkan untuk bermain permainan tradisional di rumah agar berpeluang untuk sama-sama mengimbau kembali dan berkongsi kenangan manis pada masa kecil mereka. Ini juga akan membolehkan keluarga untuk meningkatkan interaksi yang berkualiti dan mengeratkan hubungan. 
+        </p><br/>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Fun with Games of the Past </h4>
+       <p style="margin:10px;">Fun with Games of the Past is an initiative by E-Bridge Preschool @ Matilda to promote the learning of Malay in a lively and interactive manner. Through engaging in traditional games, students develop curious and exploratory minds, and an eagerness to find out more about Malay culture.  <br/><br/>
+        As home-school partnerships play a vital role in helping students strengthen their communication skills and confidence, parents are encouraged to play traditional games at home with their children. This provides an opportunity for families to reminisce about their childhood, which encourages in-depth interaction and strengthens family bonding.</p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg23">
+</td>
+</tr>  
+  <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-11" type="checkbox" name="tab">
+      <label for="tab-11" class="lbML">Menghidupkan pembelajaran Bahasa Ibunda melalui ICT <br/>MK@Fernvale</label>
+      <div class="tab-content">
+          <br/>
+<a href="/mlmoe/Fernvale/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Menghidupkan pembelajaran Bahasa Ibunda melalui ICT</h4>
+        <p style="margin:10px;">
+     Di Tadika MOE@Fernvale, kami percaya bahawa kanak-kanak belajar melalui permainan secara terarah dan interaksi yang berkualiti dengan memanfaatkan penggunaan teknologi maklumat dan komunikasi (ICT) untuk mencapai pembelajaran yang relevan dan bermakna. Dengan meluaskan pembelajaran mereka melalui alat ICT, kanak-kanak mempunyai kebebasan untuk menentukan corak pembelajaran ketika bersama-sama meneroka persekitaran mereka. <br/><br/>
+Dalam Kurikulum Bahasa Ibunda, pelbagai peralatan ICT dan strategi pembelajaran yang berpusatkan kanak-kanak digunakan untuk meningkatkan mutu pembelajaran. Alat-alat peranti ICT juga sering digunakan setiap hari untuk menyokong pembelajaran. Bagi membentuk kanak-kanak sebagai pelajar bahasa ibunda yang aktif, pelbagai aktiviti ICT yang interaktif dan menyeronokkan direka untuk kanak-kanak belajar mengikut rentak mereka sambil berinteraksi dengan rakan-rakan dan persekitaran mereka.  
+        </p><br/>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Making MTL Learning Come Alive Through ICT</h4>
+       <p style="margin:10px;">MOE Kindergarten @ Fernvale believes in learning through purposeful play and quality interaction while leveraging digital technology to provide relevant and meaningful learning experiences. Learning is further extended with ICT tools, giving young children a sense of empowerment as they collaborate to explore the world around them.  <br/><br/>
+         Various ICT tools and child-centric strategies are used to enhance the quality of learning. Digital devices are also used in the daily class setting to support learning. To nurture children as active MTL learners, fun-filled and interactive ICT activities are designed for them to learn at their own pace while interacting with their peers and things around them.</p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg23">
+</td>
+</tr>    
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
@@ -103,55 +149,7 @@ Dengan menyertai aktiviti yang menyeronokkan lagi interaktif dalam pelbagai situ
 <td style="border:0 none;padding: 0;" class="btnImg23">
 </td>
 </tr>
- <tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-11" type="checkbox" name="tab">
-      <label for="tab-11" class="lbML">Menghidupkan pembelajaran Bahasa Ibunda melalui ICT <br/>MK@Fernvale</label>
-      <div class="tab-content">
-          <br/>
-<a href="/mlmoe/Fernvale/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
-  <br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Menghidupkan pembelajaran Bahasa Ibunda melalui ICT</h4>
-        <p style="margin:10px;">
-     Di Tadika MOE@Fernvale, kami percaya bahawa kanak-kanak belajar melalui permainan secara terarah dan interaksi yang berkualiti dengan memanfaatkan penggunaan teknologi maklumat dan komunikasi (ICT) untuk mencapai pembelajaran yang relevan dan bermakna. Dengan meluaskan pembelajaran mereka melalui alat ICT, kanak-kanak mempunyai kebebasan untuk menentukan corak pembelajaran ketika bersama-sama meneroka persekitaran mereka. <br/><br/>
-Dalam Kurikulum Bahasa Ibunda, pelbagai peralatan ICT dan strategi pembelajaran yang berpusatkan kanak-kanak digunakan untuk meningkatkan mutu pembelajaran. Alat-alat peranti ICT juga sering digunakan setiap hari untuk menyokong pembelajaran. Bagi membentuk kanak-kanak sebagai pelajar bahasa ibunda yang aktif, pelbagai aktiviti ICT yang interaktif dan menyeronokkan direka untuk kanak-kanak belajar mengikut rentak mereka sambil berinteraksi dengan rakan-rakan dan persekitaran mereka.  
-        </p><br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Making MTL Learning Come Alive Through ICT</h4>
-       <p style="margin:10px;">MOE Kindergarten @ Fernvale believes in learning through purposeful play and quality interaction while leveraging digital technology to provide relevant and meaningful learning experiences. Learning is further extended with ICT tools, giving young children a sense of empowerment as they collaborate to explore the world around them.  <br/><br/>
-         Various ICT tools and child-centric strategies are used to enhance the quality of learning. Digital devices are also used in the daily class setting to support learning. To nurture children as active MTL learners, fun-filled and interactive ICT activities are designed for them to learn at their own pace while interacting with their peers and things around them.</p>
-      </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg23">
-</td>
-</tr>
 <tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-12" type="checkbox" name="tab">
-      <label for="tab-12" class="lbML">Berseronok dengan permainan zaman silam <br/>E-Bridge Preschool @ Veranda Matilda</label>
-      <div class="tab-content">
-          <br/>
-<a href="/mlmoe/E-Bridge/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
-  <br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Berseronok dengan permainan zaman silam</h4>
-        <p style="margin:10px;">
- 'Berseronok dengan Permainan Zaman Silam' merupakan inisiatif Tadika E-Bridge di Matilda untuk menggalakkan pembelajaran Bahasa Melayu secara interaktif dan menyeronokkan. Dengan melibatkan diri dalam permainan tradisional, kanak-kanak dapat membina sifat ingin tahu dan meneroka, serta bersemangat untuk mendalami budaya Melayu.<br/><br/>
-Kerjasama antara ibu bapa dengan sekolah amat penting untuk meningkatkan kemahiran berkomunikasi dan keyakinan diri kanak-kanak sewaktu bertutur dalam bahasa Melayu. Ibu bapa juga digalakkan untuk bermain permainan tradisional di rumah agar berpeluang untuk sama-sama mengimbau kembali dan berkongsi kenangan manis pada masa kecil mereka. Ini juga akan membolehkan keluarga untuk meningkatkan interaksi yang berkualiti dan mengeratkan hubungan. 
-        </p><br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Fun with Games of the Past </h4>
-       <p style="margin:10px;">Fun with Games of the Past is an initiative by E-Bridge Preschool @ Matilda to promote the learning of Malay in a lively and interactive manner. Through engaging in traditional games, students develop curious and exploratory minds, and an eagerness to find out more about Malay culture.  <br/><br/>
-        As home-school partnerships play a vital role in helping students strengthen their communication skills and confidence, parents are encouraged to play traditional games at home with their children. This provides an opportunity for families to reminisce about their childhood, which encourages in-depth interaction and strengthens family bonding.</p>
-      </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg23">
-</td>
-</tr>
- <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-13" type="checkbox" name="tab">
