@@ -110,7 +110,7 @@ margin-left:25px;
 
   gtag('config', 'AW-726049306');
 </script>
-<a href="/exhibits/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Previous</a><br/>
+<a href="/tlmoe/TL-Sec/" class="btn" style="float:left;">Previous</a><br/>
 <img src="/tlmoe/TL-PreU-Curriculum_Header.jpg"><br/>
  <a href="#C1" style="font-size:20px"><span style="color:blue;">தாய்மொழியின் இலக்கு
 </span></a><br/>
