@@ -84,10 +84,30 @@ background-color: lightgrey;!important;
        <br/>
     <div><h2 style="font-family:KaiTi;color:#d84178;">社区合作伙伴</h2></div>
       <br/>
-    
-  <table class="tbl">
+    <table class="tbl">
       <tbody>
-      <tr>
+        <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-1" type="checkbox" name="tab">
+      <label for="tab-1" class="lbCh"> <span style="font-size:25px; font-family:KaiTi;">推广华文学习委员会 <br/>推广华文学习委员会 [Committee to Promote Chinese Language Learning]</span></label>
+      <div class="tab-content">
+          <a href="/clmoe/推广华文学习委员会/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
+<h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">推广华文学习委员会</h4>
+        <p style="font-family:KaiTi;font-size:21px;margin:10px;">
+        推广华文学习委员会成立于2005年，旨在争取社会各界对华文教学改革的支持，推动学校、社区组织和媒体之间的合作，营造有利于学习与使用华文华语的大环境。委员会共设立了写作、文化、阅读、学前，以及宣传与数码五个小组。主办了“新空下——全国学生新谣节”、“世界书香日暨文学四月天”、“爱上华文街舞比赛”等广受欢迎的活动，为学生提供了快乐学习和使用华文华语的机会。公众可通过电子展板，了解这些活动的详情。</p><br/>
+<h4 style="margin:10px;color:#d84178;">Committee to Promote Chinese Language Learning</h4>
+<p style="margin:10px;">The Committee to Promote Chinese Language Learning (CPCLL) has been working actively with schools, community organisations and the media since 2005 to create a conducive environment for promoting the learning and usage of Chinese beyond the classroom. The Committee consists of five groups, namely Writing, Culture, Reading, Pre-school, and Outreach & Digital groups.  Signature programmes and key activities include the “Xin Kong Xia” National Schools Xinyao Festival, World Book Day and Literature under the April Sky, and the Chinese Street Dance Competition. An e-gallery showcases how the use of Chinese is  promoted through the engagement of both parents and students.
+</p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg22">
+</td>
+</tr>   
+ <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
 <input id="tab-2" type="checkbox" name="tab">
@@ -111,7 +131,7 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0;" class="btnImg22">
  </td>
 </tr>
-      <tr>
+  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
@@ -137,8 +157,8 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
  </td>
-</tr>
-<tr>
+</tr>            
+    <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
@@ -225,53 +245,7 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
 <td style="border:0 none;padding: 0;" class="btnImg22">
 </td>
 </tr>
-      <tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-10" type="checkbox" name="tab">
-    <label for="tab-10" class="lbCh"><span style="font-size:25px; font-family:KaiTi">读报从小开始 <br/>早报校园 [ZBSchools]</span></label>
-      <div class="tab-content">
-          <a href="/clmoe/早报校园/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
-  <br/>
-<h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">读报从小开始</h4>
-        <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-            新加坡报业控股旗下的学生报针对不同年龄层的学生推出丰富的资源，其中包括适合学前孩童阅读的《小小拇指》、小学低年级学生阅读的《小拇指》、小学高年级学生阅读的《大拇指》和中学生阅读的《逗号》。<br/><br />
-此外，报业控股也设计了两款学习华文的数码资源。“小小拇指”是为学前儿童设计的免费应用程序，家长和小朋友能用它来一起听儿歌、玩游戏和做手工。zbschools.sg则能让中小学生通过观看视频、阅读新闻等有趣的方式学习华文，培养阅读的习惯。</p><br/>
-    <h4 style="margin:10px;color:#d84178;">Reading the News from A Tender Age</h4>
-    <p style="margin:10px;">Singapore Press Holdings Limited (SPH) has four student publications with educational values and fun elements catering for pre-school, lower primary, upper primary and secondary levels, namely, Thumbs Up Little Junior, Thumbs Up Junior, Thumbs Up and zbCOMMA.<br/><br />
-          To make learning Chinese engaging, Student Publications have launched two digital resources: “Thumbs Up Little Junior”, a free-to-download application for pre-schoolers which encourages parents and children to spend quality time together while learning rhymes, playing games and doing crafts; and Zbschools.sg, an integrated online learning platform consisting of interesting content and videos, to entice students to learn Chinese and cultivate good reading habits.</p>
-</div>
-    </div>
-    </td>
-<td style="border:0 none;padding: 0;" class="btnImg22">
- </td>
-</tr>
-      <tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-9" type="checkbox" name="tab">
-      <label for="tab-9" class="lbCh"><span style="font-size:25px; font-family:KaiTi">新加坡动物园伴你读故事 <br/> 新加坡野生动物保育集团  [Wildlife Reserves Singapore] </span> </label>
-      <div class="tab-content">
-          <a href="/clmoe/新加坡动物园/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
-  <br/>
-<h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">新加坡动物园伴你读故事</h4>
-          <p style="font-family:KaiTi;margin:10px;font-size:21px;">新加坡动物园提供生动而独特的动物故事题材，帮助孩子提高阅读能力。<br/><br/>
-              例如:《一只受困的小水獭》这本无字书讲述了一只江獭获救的故事。这本图书附带一份活动指南，指导教师和家长培养学前儿童成为富有想象力的讲故事小能手。讲故事是一种非常有趣的活动方式，能够丰富孩子的词汇和激发创造力。<br/><br />
-              在探索学习活动中，新加坡动物园还专门为小学生准备了视频和图片，提供讲华语的机会，提升他们的沟通技能。
-</p><br/>
-          <h4 style="margin:10px;color:#d84178;">Storytime with Singapore Zoo</h4>
-        <p style="margin:10px;">
-        Singapore Zoo offers unique animal stories that can help develop children’s literacy skills. One such story is about a rescued otter, told through a wordless book, Little Otter Litter Trouble. This book comes with an activity guide for teachers and parents to empower preschoolers to become imaginative storytellers. Storytelling is an engaging way to enrich vocabulary and promote creativity.  Also available are the videos and photographs featured in our zoo trails which are designed for primary school students to provide them the opportunity to speak the language and can sharpen their communication skills.
-        </p>
-      </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg22">
-</td>
-</tr>
-      <tr>
+ <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
@@ -294,31 +268,55 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
  </td>
-</tr>
-       <tr>
+</tr>          
+   <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbCh"> <span style="font-size:25px; font-family:KaiTi;">推广华文学习委员会 <br/>推广华文学习委员会 [Committee to Promote Chinese Language Learning]</span></label>
+      <input id="tab-9" type="checkbox" name="tab">
+      <label for="tab-9" class="lbCh"><span style="font-size:25px; font-family:KaiTi">新加坡动物园伴你读故事 <br/> 新加坡野生动物保育集团  [Wildlife Reserves Singapore] </span> </label>
       <div class="tab-content">
-          <a href="/clmoe/推广华文学习委员会/"> <div class="btnvideo" style="font-size:16px;">
+          <a href="/clmoe/新加坡动物园/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
-<h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">推广华文学习委员会</h4>
-        <p style="font-family:KaiTi;font-size:21px;margin:10px;">
-        推广华文学习委员会成立于2005年，旨在争取社会各界对华文教学改革的支持，推动学校、社区组织和媒体之间的合作，营造有利于学习与使用华文华语的大环境。委员会共设立了写作、文化、阅读、学前，以及宣传与数码五个小组。主办了“新空下——全国学生新谣节”、“世界书香日暨文学四月天”、“爱上华文街舞比赛”等广受欢迎的活动，为学生提供了快乐学习和使用华文华语的机会。公众可通过电子展板，了解这些活动的详情。</p><br/>
-<h4 style="margin:10px;color:#d84178;">Committee to Promote Chinese Language Learning</h4>
-<p style="margin:10px;">The Committee to Promote Chinese Language Learning (CPCLL) has been working actively with schools, community organisations and the media since 2005 to create a conducive environment for promoting the learning and usage of Chinese beyond the classroom. The Committee consists of five groups, namely Writing, Culture, Reading, Pre-school, and Outreach & Digital groups.  Signature programmes and key activities include the “Xin Kong Xia” National Schools Xinyao Festival, World Book Day and Literature under the April Sky, and the Chinese Street Dance Competition. An e-gallery showcases how the use of Chinese is  promoted through the engagement of both parents and students.
-</p>
+<h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">新加坡动物园伴你读故事</h4>
+          <p style="font-family:KaiTi;margin:10px;font-size:21px;">新加坡动物园提供生动而独特的动物故事题材，帮助孩子提高阅读能力。<br/><br/>
+              例如:《一只受困的小水獭》这本无字书讲述了一只江獭获救的故事。这本图书附带一份活动指南，指导教师和家长培养学前儿童成为富有想象力的讲故事小能手。讲故事是一种非常有趣的活动方式，能够丰富孩子的词汇和激发创造力。<br/><br />
+              在探索学习活动中，新加坡动物园还专门为小学生准备了视频和图片，提供讲华语的机会，提升他们的沟通技能。
+</p><br/>
+          <h4 style="margin:10px;color:#d84178;">Storytime with Singapore Zoo</h4>
+        <p style="margin:10px;">
+        Singapore Zoo offers unique animal stories that can help develop children’s literacy skills. One such story is about a rescued otter, told through a wordless book, Little Otter Litter Trouble. This book comes with an activity guide for teachers and parents to empower preschoolers to become imaginative storytellers. Storytelling is an engaging way to enrich vocabulary and promote creativity.  Also available are the videos and photographs featured in our zoo trails which are designed for primary school students to provide them the opportunity to speak the language and can sharpen their communication skills.
+        </p>
       </div>
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg22">
 </td>
+</tr>        
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-10" type="checkbox" name="tab">
+    <label for="tab-10" class="lbCh"><span style="font-size:25px; font-family:KaiTi">读报从小开始 <br/>早报校园 [ZBSchools]</span></label>
+      <div class="tab-content">
+          <a href="/clmoe/早报校园/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
+<h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">读报从小开始</h4>
+        <p style="font-family:KaiTi;margin:10px;font-size:21px;">
+            新加坡报业控股旗下的学生报针对不同年龄层的学生推出丰富的资源，其中包括适合学前孩童阅读的《小小拇指》、小学低年级学生阅读的《小拇指》、小学高年级学生阅读的《大拇指》和中学生阅读的《逗号》。<br/><br />
+此外，报业控股也设计了两款学习华文的数码资源。“小小拇指”是为学前儿童设计的免费应用程序，家长和小朋友能用它来一起听儿歌、玩游戏和做手工。zbschools.sg则能让中小学生通过观看视频、阅读新闻等有趣的方式学习华文，培养阅读的习惯。</p><br/>
+    <h4 style="margin:10px;color:#d84178;">Reading the News from A Tender Age</h4>
+    <p style="margin:10px;">Singapore Press Holdings Limited (SPH) has four student publications with educational values and fun elements catering for pre-school, lower primary, upper primary and secondary levels, namely, Thumbs Up Little Junior, Thumbs Up Junior, Thumbs Up and zbCOMMA.<br/><br />
+          To make learning Chinese engaging, Student Publications have launched two digital resources: “Thumbs Up Little Junior”, a free-to-download application for pre-schoolers which encourages parents and children to spend quality time together while learning rhymes, playing games and doing crafts; and Zbschools.sg, an integrated online learning platform consisting of interesting content and videos, to entice students to learn Chinese and cultivate good reading habits.</p>
+</div>
+    </div>
+    </td>
+<td style="border:0 none;padding: 0;" class="btnImg22">
+ </td>
 </tr>
- </tbody>
+</tbody>
 </table>
-
 <hr>
 <div class="image">
   <img src="images/2021-08-04_MTLS_Web_Footer_600X250_300dpi.jpg" class="Image" width="1000" height="300"></div>
