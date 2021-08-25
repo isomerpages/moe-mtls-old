@@ -134,11 +134,16 @@ PENGAJARAN DAN PEMBELAJARAN
       <input id="tab-4" type="checkbox" name="tab">
    <label for="tab-4" class="lbML">• Melibatkan murid secara aktif</label>
      <div class="tab-content">
-  <div class="column">
-    <img src="/mlmoe/kids-activity-workbook.jpeg" style="width:100%;float: left;width: 35%;">
-          <br/>
-<img src="/mlmoe/ml-pri_kids-workbook-activities.png" style="width:100%;float: left;width: 35%;">
-  </div>
+       <table>
+         <tr>
+           <td style="width:40%;">
+    <img src="/mlmoe/kids-activity-workbook.jpeg" style="border:2px;">
+           </td>
+           <td style="width:60%;">
+<p vertical-align="middle"><img src="/mlmoe/ml-pri_kids-workbook-activities.png"></p>
+           </td>
+        </div>
+         
  </div>
  <p id="C2" style="font-size:30px;"><strong>SOKONGAN IBU BAPA</strong><br/><br/>
       <img src="/mlmoe/ML-Pri_Poster05.jpg"> 
