@@ -136,12 +136,10 @@ PENGAJARAN DAN PEMBELAJARAN
      <div class="tab-content">
 <div class="row">
   <div class="column">
-   <p>pending Content</p>
+   <img src="/mlmoe/kids-activity-workbook.jpeg" style="width:100%;">
   </div>
   <div class="column">
-    <img src="/mlmoe/kids-activity-workbook.jpeg" style="width:100%;float: left;width: 35%;">
-          <br/>
-<img src="/mlmoe/ml-pri_kids-workbook-activities.png" style="width:100%;float: left;width: 35%;">
+   <img src="/mlmoe/ml-pri_kids-workbook-activities.png" style="width:100%;">
   </div>
  </div>
 
