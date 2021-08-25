@@ -114,7 +114,7 @@ background-color: lightgrey;!important;
      <input id="tab-01" type="checkbox" name="tab">
       <label for="tab-01" class="lbeng">Live Panel Discussion <br/>
        'Sparking Rich Conversation with Young Children in Mother Tongue Language' (Live!) 
-       <br/>[11.00am - 12.00pm] <br/></label>
+       <br/>[Livestreaming on 28 August from 11.00am to 12.00pm] <br/></label>
  <div class="tab-content">      
        <br/>
   <a href="/eng/Panel-Discussion/"> <div class="btnvideo" style="font-size:16px;">
@@ -221,7 +221,8 @@ Presenter<br/> CNA<br/>
 <td style="border:0 none;padding: 0; margin:0;">
  <div class="atab atab3Line" >
      <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbeng">Learning Mother Tongue is Cool at Home and in School too! - Strategies to Motivate Children to Love MTL   
+      <label for="tab-1" class="lbeng">Learning Mother Tongue is Cool at Home and in School too! - Strategies to Motivate Children to Love MTL <br/>
+       [Livestreaming on 28 August from 5.30pm to 6.30pm]
        <br/>Mrs Dianne Seet <br/>
 Mdm Nie Bing</label>
 <div class="tab-content">      
