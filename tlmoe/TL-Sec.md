@@ -187,7 +187,7 @@ margin-left:25px;
   <img src="/images/TL-Sec_Books.gif" style="width:40%;"><br/>
   
   <h2 id="C11" style="font-family:Anjal New InaiMathi Sch Book;  font-size:36px; font-weight:bold; text-align:center;">மொழி கற்றலுக்குத் துணைவளமாக அமையும் தற்கால நடப்புச் செய்திகள்</h2>
-   <img src="/images/TL-Sec_Poster06.jpg">
+   <img src="/images/TL-Sec_Poster06.jpg"><br/>
   <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
     <label for="tab-6" style="font-family:Anjal New InaiMathi Sch Book; font-size:20px" class="lbCh">மாணவர் கற்றல் தளத்தில் நடப்புச் செய்திகள்
