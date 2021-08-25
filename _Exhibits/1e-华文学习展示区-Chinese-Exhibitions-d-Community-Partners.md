@@ -97,7 +97,7 @@ background-color: lightgrey;!important;
   <br/>
 <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">推广华文学习委员会</h4>
         <p style="font-family:KaiTi;font-size:21px;margin:10px;">
-        推广华文学习委员会成立于2005年，旨在争取社会各界对华文教学改革的支持，推动学校、社区组织和媒体之间的合作，营造有利于学习与使用华文华语的大环境。委员会共设立了写作、文化、阅读、学前，以及宣传与数码五个小组。主办了“新空下——全国学生新谣节”、“世界书香日暨文学四月天”、“爱上华文街舞比赛”等广受欢迎的活动，为学生提供了快乐学习和使用华文华语的机会。公众可通过电子展板，了解这些活动的详情。</p><br/>
+        推广华文学习委员会成立于2005年，旨在争取社会各界对华文教学改革的支持，推动学校、社区组织和媒体之间的合作，营造有利于学习与使用华文华语的大环境。委员会共设立了写作、文化、阅读、学前，以及宣传与数码五个小组。主办了“新空下——全国学生新谣音乐节” “世界书香日暨文学四月天” “爱上华文街舞比赛”等广受欢迎的活动，为学生提供了快乐学习和使用华文华语的机会。公众可通过电子展板，了解这些活动的详情。</p><br/>
 <h4 style="margin:10px;color:#d84178;">Committee to Promote Chinese Language Learning</h4>
 <p style="margin:10px;">The Committee to Promote Chinese Language Learning (CPCLL) has been working actively with schools, community organisations and the media since 2005 to create a conducive environment for promoting the learning and usage of Chinese beyond the classroom. The Committee consists of five groups, namely Writing, Culture, Reading, Pre-school, and Outreach & Digital groups.  Signature programmes and key activities include the “Xin Kong Xia” National Schools Xinyao Festival, World Book Day and Literature under the April Sky, and the Chinese Street Dance Competition. An e-gallery showcases how the use of Chinese is  promoted through the engagement of both parents and students.
 </p>
@@ -119,7 +119,7 @@ background-color: lightgrey;!important;
   <br/>
 <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">滨海艺术中心</h4>
         <p style="font-family:KaiTi;font-size:21px;margin:10px;">
-         作为国家表演艺术中心，滨海艺术中心深信每个人都应有接触艺术的机会。滨海艺术中心希望公众了解他们是如何通过全年多元化的艺术表演，吸引孩童与青年接触艺术，从而激发他们的创意与想象力。学生也可以在Esplanade Offstage浏览特别为他们所编制的线上学习资源，将艺术带入课堂和家中。这些资源不仅能激发学生学习母语的动力，还能让他们了解不同的文化和传统。
+         作为国家表演艺术中心，滨海艺术中心深信每个人都应有接触艺术的机会。滨海艺术中心希望公众了解他们如何通过全年多元化的艺术表演，吸引孩童与青年接触艺术，从而激发他们的创意与想象力。学生也可以在Esplanade Offstage浏览特别为他们所编制的线上学习资源，将艺术带入课堂和家中。这些资源不仅能激发学生学习母语的动力，还能让他们了解不同的文化和传统。
  </p><br/>
           <h4 style="margin:10px;color:#d84178;">Esplanade - Theatres on the Bay</h4>
         <p style="margin:10px;">
@@ -169,7 +169,7 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
   <br/>
  <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">华文“浆”好玩</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">在新传媒，我们相信电视节目不应该有语言的界限。节目只要内容精彩，即使以外语呈现，也能够吸引观众。<br/><br />
-          为了让更多年幼的观众喜欢华文华语，okto依据深受小朋友们喜爱的英语节目“Word Whiz or Slime Pit”设计、制作了两部华语续集：《成语就“浆”说》和《华文“浆”好玩》。这两部续集注入了Word Whiz节目的精髓，以有趣的人物和好玩的游戏，吸引更多小观众喜欢上华文华语。</p><br/>
+          为了让更多年幼的观众喜欢华文华语，okto依据深受小朋友们喜爱的英语节目“Word Whiz or Slime Pit”设计、制作了两部华语续集：《成语就“浆”说》和《华文“浆”好玩》。这两部续集注入了Word Whiz节目的精髓，以有趣的人物和好玩的游戏，吸引更多小观众对华文华语产生兴趣。</p><br/>
           <h4 style="margin:10px;color:#d84178;">Word Whiz or Slime Pit!</h4>
           <p style="margin:10px;">Mediacorp believes that content creation has no language boundaries. Audiences will watch a show if they enjoy the content, even if it is in a foreign language.<br/><br />
           To entice young viewers to learn Chinese, okto rides on their top-rated English title “Word Whiz or Slime Pit” to create spin-offs like “Word Whiz (Idioms)” and “Word Whiz (Mandarin)” for the Chinese-speaking audience. The same approach towards learning has been adopted in these titles, featuring entertaining characters, word puzzles and game elements in the show, all aimed to engage the audience and spark their interest in Chinese.</p>
@@ -189,7 +189,7 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
     View  Poster</div></a>
   <br/>
  <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">欢迎大家与国家文物局一起通过文化遗产来认识母语</h4>
-          <p style="font-family:KaiTi;font-size:21px;margin:10px;">欢迎大家与国家文物局一起通过文化遗产来认识母语! 在此，讲华语运动委员会、新加坡马来语文理事会及淡米尔语言理事会将分享丰富的材料与资源，鼓励公众一起学习母语。同时，家长也能进一步了解新加坡的各大文物机构，如：印族文化馆、马来文化馆和晚晴园----中山南洋纪念馆，找到适合孩子索及学习母语的活动，并通过这些活动让孩子在课堂外继续积极学习及使用母语。</p><br/>
+          <p style="font-family:KaiTi;font-size:21px;margin:10px;">欢迎大家与国家文物局一起通过文化遗产来认识母语! 在此，讲华语运动委员会、新加坡马来语文理事会及淡米尔语言理事会将分享丰富的材料与资源，鼓励公众一起学习母语。同时，家长也能进一步了解新加坡的各大文物机构，如：印族文化馆、马来文化馆和晚晴园----中山南洋纪念馆，找到适合孩子学习母语的活动，并通过这些活动让孩子在课堂外继续积极学习及使用母语。</p><br/>
           <h4 style="margin:10px;color:#d84178;">Discover Mother Tongue Languages through Heritage and Culture with The National Heritage Board</h4>
         <p style="margin:10px;">
         Discover Mother Tongue Languages through heritage and culture with the National Heritage Board ! Find out more about language programmes, tips and resources with the Speak Mandarin Campaign, the Tamil Language Council and the Malay Language Council of Singapore. Learn more about the Heritage Institutions – the Indian Heritage Centre, Malay Heritage Centre and Sun Yat Sen Nanyang Memorial Hall. Parents can find out more about the learning opportunities available for the young, while educators can explore opportunities that expand learning beyond the classroom.</p>
@@ -254,7 +254,7 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
           <a href="/clmoe/新加坡华文教研中心/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
-<h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">创新使用的研究   生动有趣的读本</h4>
+<h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">创新实用的研究   生动有趣的读本</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
          新加坡华文教研中心一直以来都不遗余力地推展华文教研活动，积极创建并推广在双语环境中行之有效的华文教学法，以期促进华族语言文化在新加坡的发展。<br/><br />
           近年来，中心分别为小学生和中学生推出了《新新岛》和《奇狮妙想》分级读本系列。这些读本图文并茂、生动有趣，可激发学生的阅读兴趣，吸引他们乐学华文。</p><br/>
@@ -304,7 +304,7 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
   <br/>
 <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">读报从小开始</h4>
         <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-            新加坡报业控股旗下的学生报针对不同年龄层的学生推出丰富的资源，其中包括适合学前孩童阅读的《小小拇指》、小学低年级学生阅读的《小拇指》、小学高年级学生阅读的《大拇指》和中学生阅读的《逗号》。<br/><br />
+            新加坡报业控股旗下的学生报针对不同年龄层的学生推出丰富的资源，其中包括适合学前孩童阅读的《小小拇指》、适合小学低年级学生阅读的《小拇指》、适合小学高年级学生阅读的《大拇指》和适合中学生阅读的《逗号》。<br/><br />
 此外，报业控股也设计了两款学习华文的数码资源。“小小拇指”是为学前儿童设计的免费应用程序，家长和小朋友能用它来一起听儿歌、玩游戏和做手工。zbschools.sg则能让中小学生通过观看视频、阅读新闻等有趣的方式学习华文，培养阅读的习惯。</p><br/>
     <h4 style="margin:10px;color:#d84178;">Reading the News from A Tender Age</h4>
     <p style="margin:10px;">Singapore Press Holdings Limited (SPH) has four student publications with educational values and fun elements catering for pre-school, lower primary, upper primary and secondary levels, namely, Thumbs Up Little Junior, Thumbs Up Junior, Thumbs Up and zbCOMMA.<br/><br />
