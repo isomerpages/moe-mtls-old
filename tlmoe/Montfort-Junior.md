@@ -13,5 +13,5 @@ breadcrumb: 'Montfort Junior School'
   gtag('config', 'AW-726049306');
 </script>
 <a href="/exhibits/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-d/schools/"  style="float:right;">Back</a>
- <img src="/images/MTLS2021-Montfort_TL_Final.jpg.jpg"> <br/>
+ <img src="/images/MTLS2021-Montfort_TL_Final.jpg"> <br/>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
