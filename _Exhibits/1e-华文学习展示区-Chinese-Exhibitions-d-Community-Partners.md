@@ -251,7 +251,7 @@ catalyst in supporting the learning and the use of MTLs through various fund-sup
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-9" type="checkbox" name="tab">
-      <label for="tab-9" class="lbCh"><span style="font-size:25px; font-family:KaiTi">新加坡动物园伴你读故事 <br/> 新加坡动物园  [Wildlife Reserves Singapore] </span> </label>
+      <label for="tab-9" class="lbCh"><span style="font-size:25px; font-family:KaiTi">新加坡动物园伴你读故事 <br/> 新加坡野生动物保育集团  [Wildlife Reserves Singapore] </span> </label>
       <div class="tab-content">
           <a href="/clmoe/新加坡动物园/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
