@@ -129,7 +129,7 @@ Dalam Kurikulum Bahasa Ibunda, pelbagai peralatan ICT dan strategi pembelajaran 
 <div class="atab">
       <input id="tab-10" type="checkbox" name="tab">
       <label for="tab-10" class="lbML">Mari Bekerjasama untuk Memupuk Kemahiran Dwibahasa pada Peringkat Awal Kanak-kanak!
-  <br/>Tadika MOE di Punggol Green (MK@Punggol Green)
+  <br/>Tadika MOE di Punggol Green [MK@Punggol Green]
 </label>
       <div class="tab-content">
           <br/>
