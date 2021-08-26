@@ -119,7 +119,7 @@ Para pelajar juga berpeluang untuk mengetahui pelbagai bentuk seni secara dalam 
         <p style="margin:10px;">
                 Penubuhan Dana Kedwibahasaan Lee Kuan Yew diumumkan sewaktu pelancaran buku Encik Lee Kuan Yew, “My Lifelong Challenge: Singapore’s Bilingual Journey” pada tahun 2011.<br/><br/>
 Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggalakkan kedwibahasaan dan pembelajaran bahasa ibunda sebagai bahasa yang hidup. Dengan menyokong pelbagai bahan dan program pembelajaran, dana ini berperanan sebagai pemangkin pembelajaran dan penggunaan bahasa ibunda.<br/><br/>
-            Bahan-bahan sokongan dana kedwibahasaan yang bertujuan untuk menyokong pembelajaran kanak-kanak boleh diakses melalui saluran YouTube dan lelaman sosial Facebook dan Instagram Dana Kedwibahasaan Lee Kuan Yew.
+            Bahan-bahan sokongan yang bertujuan untuk menyokong pembelajaran kanak-kanak boleh diakses melalui saluran YouTube dan lelaman sosial Facebook dan Instagram Dana Kedwibahasaan Lee Kuan Yew.
 </p>
 <br/>
 <h4 style="padding-top:12px;margin:10px;color:#a3c864;">My Mother Tongue, My Companion</h4>
