@@ -105,7 +105,7 @@ background-color: lightgrey;!important;
       <div class="tab-content">
        <br/>
        <a href="/ml/Mdm-Nurashikin-Jasni/"> <div class="btnvideo" style="font-size:16px;">
-    Watch Session</div></a>
+    Ikuti Perkongsian</div></a>
   <br/>
   <div class="row">
  <div class="column">
@@ -149,7 +149,7 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
       <div class="tab-content">      
        <br/>
        <a href="/ml/Mdm-Jumaini-bte-Ariff/"> <div class="btnvideo" style="font-size:16px;">
-    Watch Session</div></a>
+    Ikuti Perkongsian</div></a>
   <br/>
 
   <div class="row">
@@ -190,7 +190,7 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
       <div class="tab-content">      
        <br/>
        <a href="/ml/Mr-Haniman-Boniran/"> <div class="btnvideo" style="font-size:16px;">
-    Watch Session</div></a>
+   Ikuti Perkongsian</div></a>
   <br/>
 
   <div class="row">
@@ -227,7 +227,7 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
       <div class="tab-content">      
        <br/>
        <a href="/ml/Mr-Herman-Rothman/"> <div class="btnvideo" style="font-size:16px;">
-    Watch Session</div></a>
+   Ikuti Perkongsian</div></a>
   <br/>
 
   <div class="row">
@@ -269,7 +269,7 @@ Ms Rilla Melati Bahri
 </label>
       <div class="tab-content">      
        <a href="/ml/Dr-Mukhlis-Abu-Bakar-&-Ms-Rilla-Melati-Bahri/"> <div class="btnvideo" style="font-size:16px;">
-    Watch Session</div></a>
+   Ikuti Perkongsian</div></a>
   <br/>
 <br/>
        <br/>
@@ -321,7 +321,7 @@ Ms Rilla Melati Bahri
       <div class="tab-content">      
        <br/>
        <a href="/ml/Mdm-Nurain-Syakirah/"> <div class="btnvideo" style="font-size:16px;">
-    Watch Session</div></a>
+   Ikuti Perkongsian</div></a>
   <br/>
 <div class="row">
  <div class="column">
@@ -360,7 +360,7 @@ In Mdm Nurain Syakirah’s sharing, parents and educators will understand how re
       <div class="tab-content">      
        <br/>
        <a href="/ml/Roksana-Bibi"> <div class="btnvideo" style="font-size:16px;">
-    Watch Session</div></a>
+  Ikuti Perkongsian</div></a>
   <br/>
 <div class="row">
  <div class="column">
@@ -403,7 +403,7 @@ Statistics have shown that more children are growing up in English-speaking fami
       <div class="tab-content">      
        <br/>
        <a href="/ml/Associate-Professor-Mariam-Aljunied/"> <div class="btnvideo" style="font-size:16px;">
-    Watch Session</div></a>
+  Ikuti Perkongsian</div></a>
   <br/>
 <div class="row">
  <div class="column">
@@ -442,7 +442,7 @@ In recent years, we often read about an increased number of children with specia
       <div class="tab-content">      
        <br/>
     <a href="/ml/Ms-Zuzanita-Zakaria/"> <div class="btnvideo" style="font-size:16px;">
-    Watch Session</div></a>
+  Ikuti Perkongsian</div></a>
   <br/>
 
   <div class="row">
