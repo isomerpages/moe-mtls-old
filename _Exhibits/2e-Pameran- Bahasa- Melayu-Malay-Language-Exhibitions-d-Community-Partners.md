@@ -90,7 +90,7 @@ background-color: lightgrey;!important;
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/Esplanade-Teater-di-Persisiran/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+    Lihat Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Esplanade – Teater di Persisiran</h4>
        <p style="margin:10px;">Sebagai pusat persembahan seni kebangsaan Singapura, Esplanade – Teater di Persisiran ingin memastikan setiap lapisan masyarakat berpeluang untuk menikmati karya seni.<br/><br/>
@@ -113,7 +113,7 @@ Para pelajar juga berpeluang untuk mengetahui pelbagai bentuk seni secara dalam 
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/LKYFB/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+    Lihat Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Bahasa Ibundaku, Teman Sejatiku</h4>
         <p style="margin:10px;">
@@ -140,7 +140,7 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/MLCS/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+    Lihat Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Membesar Bersama Bahasa</h4>
         <p style="margin:10px;">
@@ -164,7 +164,7 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/MLLPC/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+    Lihat Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari terokai bahasa dan budaya masyarakat Melayu bersama-sama Nabil dan Nabilah 
 </h4>
@@ -188,7 +188,7 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/Mediacorp/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+    Lihat Poster</div></a>
   <br/>
       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Stor Atuk</h4>
       <p style="margin:10px;">
@@ -212,7 +212,7 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/NHB/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+    Lihat Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Kenali bahasa ibunda menerusi warisan dan budaya</h4>
 <p style="margin:10px;">
@@ -237,7 +237,7 @@ Dapatkanlah maklumat tentang institusi-institusi warisan seperti Pusat Warisan I
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/NIE/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+    Lihat Poster</div></a>
   <br/>
          <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Bijak Kata!</h4>
         <p style="margin:10px;">
@@ -266,7 +266,7 @@ Dapatkanlah maklumat tentang institusi-institusi warisan seperti Pusat Warisan I
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/NLB/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+    Lihat Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Perkhidmatan Perpustakaan Bahasa Melayu</h4>
         <p style="margin:10px;">
@@ -289,7 +289,7 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/M3@NeeSoon/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+    Lihat Poster</div></a>
   <br/>
           <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Kelas Matematika M<sup>3</sup> @ Nee Soon</h4>
         <p style="margin:10px;text-align:justify;">
@@ -313,7 +313,7 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/WRS/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+    Lihat Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari Bercerita Bersama Taman Haiwan Singapura</h4>
         <p style="margin:10px;">
