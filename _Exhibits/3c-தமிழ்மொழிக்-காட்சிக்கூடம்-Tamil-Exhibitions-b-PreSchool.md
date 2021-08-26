@@ -133,7 +133,7 @@ Using interesting and interactive activities in a variety of meaningful and auth
       <label for="tab-3"  class="lbTM" style="font-family:Anjal InaiMathi;">குதூகலமாகத் தமிழ் கற்றல்
           <br/>
           ம.செ.க சமூக நிறுவனம் ஸ்பார்க்ல் டாட்ஸ் பயாலேபர் கட்டட எண் 23 பாலர்பள்ளி
-          [PCF Sparkletots Preschool @ Paya Lebar Blk 23 (KN)]</label>
+          [PCF Sparkletots @ Paya Lebar Blk 23 (KN)]</label>
       <div class="tab-content">
           <br/>
 <a href="/tlmoe/PayaLebar/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
@@ -145,7 +145,7 @@ Using interesting and interactive activities in a variety of meaningful and auth
  </p><br/>
           <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">Joy of Learning Tamil</h4>
          <p style="margin:10px;">
-        PCF Sparkletots Preschool @ Paya Lebar Blk 23 (KN) aims to bring the joy of learning Tamil to children. Classes are designed to inspire children to embark on creative learning through discussions, exploration, recordings, games, songs, dance and dramatisation. These activities, which are conducted both indoors and outdoors, spark excitement in learning Tamil, and enable children to grasp the key elements of the language with both interest and enthusiasm. The centre will share strategies and activities carried out in school that enable children living in multi-ethnic communities to learn about Tamil and make Tamil a living language.  </p>
+        PCF Sparkletots @ Paya Lebar Blk 23 (KN) aims to bring the joy of learning Tamil to children. Classes are designed to inspire children to embark on creative learning through discussions, exploration, recordings, games, songs, dance and dramatisation. These activities, which are conducted both indoors and outdoors, spark excitement in learning Tamil, and enable children to grasp the key elements of the language with both interest and enthusiasm. The centre will share strategies and activities carried out in school that enable children living in multi-ethnic communities to learn about Tamil and make Tamil a living language.  </p>
       </div>
 </div>
 </td>
@@ -159,7 +159,7 @@ Using interesting and interactive activities in a variety of meaningful and auth
       <label for="tab-4"  class="lbTM" style="font-family:Anjal InaiMathi;">வாழும் மொழியாக நம் தாய்மொழி
           <br/>
           ம.செ.க சமூக நிறுவனம் ஸ்பார்கல்டாட்ஸ் பாலர் பள்ளி, செங்காங் கிழக்கு, புளோக் 187B
-          [PCF Sparkletots Preschool @ Sengkang East Blk 187B]
+          [PCF Sparkletots @ Sengkang East Blk 187B]
 </label>
       <div class="tab-content">
           <br/>
@@ -171,7 +171,7 @@ Using interesting and interactive activities in a variety of meaningful and auth
  </p><br/>
           <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">Mother Tongue (Tamil) as a Living Language</h4>
          <p style="margin:10px;">
-        PCF Sparkletots Preschool @ Sengkang East Blk 187B adopts creative approaches to develop our children’s love for their Mother Tongue Language (MTL). Children are given the opportunity to learn their MTL in an enjoyable and engaging way through dramatisation, poetry recitation, traditional games, cultural dance, and participation in external competitions. The teachers work closely with parents to enhance children’s language development and implement fun activities to cultivate a lifelong learning interest for Tamil; developing this sustained love and use of the language throughout their children’s lives is of great importance to them. They are proud of their commitment to pass on Tamil as a living language to the next generation. </p>
+        PCF Sparkletots @ Sengkang East Blk 187B adopts creative approaches to develop our children’s love for their Mother Tongue Language (MTL). Children are given the opportunity to learn their MTL in an enjoyable and engaging way through dramatisation, poetry recitation, traditional games, cultural dance, and participation in external competitions. The teachers work closely with parents to enhance children’s language development and implement fun activities to cultivate a lifelong learning interest for Tamil; developing this sustained love and use of the language throughout their children’s lives is of great importance to them. They are proud of their commitment to pass on Tamil as a living language to the next generation. </p>
       </div>
 </div>
 </td>
