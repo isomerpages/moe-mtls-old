@@ -94,7 +94,92 @@ background-color: lightgrey;!important;
  <img src="/images/MTLS2021_Challenge_ML.jpg" style="width:100%">
    <br/>
 <table class="tbl">
- <tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab atab3Line">
+      <input id="tab-1" type="checkbox" name="tab">
+      <label for="tab-1"  class="lbML">Pembelajaran Bahasa Melayu yang Menarik untuk Kanak-kanak <br/>
+       [Livestreaming on 28 August from 1.00pm to 2.00pm]
+       <br/> Mdm Nurashikin Jasni
+</label>
+      <div class="tab-content">
+       <br/>
+       <a href="/ml/Mdm-Nurashikin-Jasni/"> <div class="btnvideo" style="font-size:16px;">
+    Watch Session</div></a>
+  <br/>
+  <div class="row">
+ <div class="column">
+<img src="/images/Speakers_ML Nurashikin Jasni.png" style="width:100%">
+   </div>
+   <p><strong>Mdm Nurashikin Jasni
+ </strong> 
+ </p>
+   </div>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil</h4> 
+       <p style="margin:10px;">Puan Nurashikin Jasni atau lebih dikenali dengan panggilan Nura J,  pernah bertugas sebagai guru sekolah rendah dan personaliti TV. Kini, beliau  bertugas sebagai agen hartanah dengan Propnex dan juga pengasas Pearlista; salun rambut khas wanita. Puan Nura J juga telah menulis dua buah buku bersama anak perempuan beliau, Nyla Esman yang berjudul "The Big Good Wolf" dan "Chickchickaboomz".  Pada 2018, beliau menulis "Leia dan Oumar Berhari Raya" bersama rakan baik beliau, Umie Isa. Beliau gemar membaca dan sering mengunjungi perpustakaan dan membaca bersama anak-anak beliau. Puan Nura J percaya bahawa membaca dapat mengekalkan minda yang sihat, membina daya imaginasi yang tinggi dan menajamkan fikiran. </p>
+        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Sinopsis</h4> 
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Pembelajaran Bahasa Melayu yang Menarik untuk Kanak-kanak</h4> 
+       <p style="margin:10px;">
+Ibu bapa merupakan guru pertama anak-anak. Justeru, Puan Nura J yang gemar membaca dan penyokong kegiatan membaca,  telah mendedahkan anak-anak beliau kepada pelbagai genre buku cerita bahasa Melayu termasuklah buku yang ditulis dalam bahasa Indonesia. Beliau meluangkan masa sekurang-kurangnya tiga kali seminggu untuk membacakan buku bahasa Melayu kepada anak-anak beliau sebelum mereka tidur. Beliau percaya bahawa membaca dapat memperluas kosa kata mereka. Melalui sesi ini, Puan Nura J akan berkongsi cara mudah beliau menyediakan persekitaran yang menyeronokkan bagi anak-anak beliau  belajar dan menggunakan bahasa Melayu. 
+</p><br/>
+     <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profile</h4>   
+       <p style="margin:10px;">Mdm Nurashikin Jasni, also known as Nura J, is a former primary school teacher and TV personality. She is currently a realtor with Propnex and the founder of Pearlista, an all-ladies hair salon.<br/><br/>
+        As a local author, Mdm Nurashikin Jasni has co-written “The Big, Good Wolf” and “Chickchickaboomz” with her daughter Nyla Esman, and also co-written “Leia dan Oumar Berhari Raya” with her good friend, Umie Isa.<br/><br/>
+        A reading advocate who visits the National Library often and loves reading with her children, she firmly believes that reading keeps minds healthy, imaginative and sharp.
+</p>
+  <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Synopsis</h4> 
+     <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Learning Malay in a Fun Way for Our Children</h4>    
+       <p style="margin:10px;">
+Parents are their children’s first teachers. As a reading advocate, Mdm Nurashikin Jasni believes that reading will widen children’s vocabulary, and exposes her children to different genres of Malay storybooks, including books written in Indonesian vernacular language. She reads Malay books to her children at least thrice a week at bedtime. <br/><br/>
+        Through this session, participants will gain insight into how Mdm Nurashikin Jasni creates a fun environment for her children to learn and use Malay effectively, and with ease. 
+</p>
+ </div></div>
+ </td>
+<td style="border:0 none;padding: 0;" class="btnImg45">
+</td>
+</tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-4" type="checkbox" name="tab">
+      <label for="tab-4"  class="lbML">Ayuh, Perkaya Pengalaman Kanak-kanak Mendengar Cerita! <br/>
+       [Livestreaming on 28 August from 2.30pm to 3.30pm]
+<br/>Mdm Jumaini bte Ariff
+</label>
+      <div class="tab-content">      
+       <br/>
+       <a href="/ml/Mdm-Jumaini-bte-Ariff/"> <div class="btnvideo" style="font-size:16px;">
+    Watch Session</div></a>
+  <br/>
+
+  <div class="row">
+ <div class="column">
+<img src="/images/Speakers_ML Jumaini bte Ariff.png" style="width:100%">
+   </div>
+   <p><strong>Mdm Jumaini bte Ariff</strong><br/>
+    </p>
+   </div>
+      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil </h4>  
+       <p style="margin:10px;">Puan Jumaini Ariff merupakan pencerita profesional di bawah naungan Persatuan Penceritaan Singapura (SAS) dan juga penulis buku cerita kanak-kanak. Beliau dikenali menerusi watak uniknya sebagai Nek Selampit dan kerap terlibat dalam kempen bahasa dan budaya di peringkat nasional.  Beliau  pernah mewakili Singapura di arena penceritaan antarabangsa. Melalui kegiatan beliau  dalam bidang sastera lisan, Puan Jumaini telah dilantik sebagai Duta Bahasa Singapura pada tahun 2017. Melalui perusahaan sastera lisan; STORYSCRIBBBLERS yang diterajuinya, Puan Jumaini giat menjalankan bengkel-bengkel penceritaan dan merakam video-video bercerita untuk memupuk minat terhadap bahasa Melayu dalam kalangan masyarakat.  </p>
+<h4 style="padding-top:12px;margin:10px;color:#a3c864;">Sinopsis</h4> 
+  <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Ayuh, Perkaya Pengalaman Kanak-kanak Mendengar Cerita!</h4>      
+<p style="margin:10px;">
+ Kegiatan bercerita yang menyeronokkan dapat membuka ruang kepada kanak-kanak untuk mengenali bahasa Melayu dalam suasana yang lebih santai. Ibu bapa dan para pendidik boleh memperkaya lagi pengalaman tersebut dengan melibatkan kanak-kanak secara aktif. Melalui perkongsian ini, para peserta akan dapat menimba strategi-strategi prabercerita, semasa dan pascabercerita yang dapat membantu kanak-kanak meraih faedah secara maksimum ketika mendengar cerita. 
+</p><br/>
+  <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profile </h4>  
+       <p style="margin:10px;">Mdm Jumaini bte Ariff is a professional storyteller with the Storytelling Association Singapore (SAS) and an author of children's books. She is known for her unique persona, Nek Selampit, and has participated in numerous National Language and Cultural Campaigns.  She has also represented Singapore in local and international storytelling festivals. For her efforts in the literary scene, Mdm Jumaini was appointed as a Malay Language Ambassador in 2017. Through STORYSCRIBBLER, a literary-based business, Mdm Jumaini conducts storytelling workshops and curate storytelling videos to revive the love for the language. </p>
+
+ <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Synopsis</h4> 
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Let’s Enrich the Experience of Listening to Children’s Stories!</h4> 
+       
+       <p style="margin:10px;">
+      Storytelling allows children to learn Malay in a more relaxed setting. Parents and educators can play an active role as a storyteller and a facilitator to inculcate children’s interest through the usage of different stages of storytelling activities such as  pre-storytelling, during and post storytelling. Through this sharing session, participants will have access to fun and hassle-free strategies that will further enhance the storytelling experience in Malay for children.</p>
+        </div></div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg15">
+</td>
+ </tr>
+<tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab atab3Line">
       <input id="tab-2" type="checkbox" name="tab">
@@ -173,47 +258,7 @@ Mr Herman Rothman will be sharing various interactive storytelling techniques be
 <td style="border:0 none;padding: 0;" class="btnImg15">
 </td>
    </tr>
-  <tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4"  class="lbML">Ayuh, Perkaya Pengalaman Kanak-kanak Mendengar Cerita! <br/>
-       [Livestreaming on 28 August from 2.30pm to 3.30pm]
-<br/>Mdm Jumaini bte Ariff
-</label>
-      <div class="tab-content">      
-       <br/>
-       <a href="/ml/Mdm-Jumaini-bte-Ariff/"> <div class="btnvideo" style="font-size:16px;">
-    Watch Session</div></a>
-  <br/>
-
-  <div class="row">
- <div class="column">
-<img src="/images/Speakers_ML Jumaini bte Ariff.png" style="width:100%">
-   </div>
-   <p><strong>Mdm Jumaini bte Ariff</strong><br/>
-    </p>
-   </div>
-      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil </h4>  
-       <p style="margin:10px;">Puan Jumaini Ariff merupakan pencerita profesional di bawah naungan Persatuan Penceritaan Singapura (SAS) dan juga penulis buku cerita kanak-kanak. Beliau dikenali menerusi watak uniknya sebagai Nek Selampit dan kerap terlibat dalam kempen bahasa dan budaya di peringkat nasional.  Beliau  pernah mewakili Singapura di arena penceritaan antarabangsa. Melalui kegiatan beliau  dalam bidang sastera lisan, Puan Jumaini telah dilantik sebagai Duta Bahasa Singapura pada tahun 2017. Melalui perusahaan sastera lisan; STORYSCRIBBBLERS yang diterajuinya, Puan Jumaini giat menjalankan bengkel-bengkel penceritaan dan merakam video-video bercerita untuk memupuk minat terhadap bahasa Melayu dalam kalangan masyarakat.  </p>
-<h4 style="padding-top:12px;margin:10px;color:#a3c864;">Sinopsis</h4> 
-  <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Ayuh, Perkaya Pengalaman Kanak-kanak Mendengar Cerita!</h4>      
-<p style="margin:10px;">
- Kegiatan bercerita yang menyeronokkan dapat membuka ruang kepada kanak-kanak untuk mengenali bahasa Melayu dalam suasana yang lebih santai. Ibu bapa dan para pendidik boleh memperkaya lagi pengalaman tersebut dengan melibatkan kanak-kanak secara aktif. Melalui perkongsian ini, para peserta akan dapat menimba strategi-strategi prabercerita, semasa dan pascabercerita yang dapat membantu kanak-kanak meraih faedah secara maksimum ketika mendengar cerita. 
-</p><br/>
-  <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profile </h4>  
-       <p style="margin:10px;">Mdm Jumaini bte Ariff is a professional storyteller with the Storytelling Association Singapore (SAS) and an author of children's books. She is known for her unique persona, Nek Selampit, and has participated in numerous National Language and Cultural Campaigns.  She has also represented Singapore in local and international storytelling festivals. For her efforts in the literary scene, Mdm Jumaini was appointed as a Malay Language Ambassador in 2017. Through STORYSCRIBBLER, a literary-based business, Mdm Jumaini conducts storytelling workshops and curate storytelling videos to revive the love for the language. </p>
-
- <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Synopsis</h4> 
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Let’s Enrich the Experience of Listening to Children’s Stories!</h4> 
-       
-       <p style="margin:10px;">
-      Storytelling allows children to learn Malay in a more relaxed setting. Parents and educators can play an active role as a storyteller and a facilitator to inculcate children’s interest through the usage of different stages of storytelling activities such as  pre-storytelling, during and post storytelling. Through this sharing session, participants will have access to fun and hassle-free strategies that will further enhance the storytelling experience in Malay for children.</p>
-        </div></div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg15">
-</td>
- </tr>
+  
  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab atab3Line">
@@ -305,51 +350,7 @@ In Mdm Nurain Syakirah’s sharing, parents and educators will understand how re
 <td style="border:0 none;padding: 0;" class="btnImg15">
 </td>
    </tr>
-<tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab atab3Line">
-      <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1"  class="lbML">Pembelajaran Bahasa Melayu yang Menarik untuk Kanak-kanak <br/>
-       [Livestreaming on 28 August from 1.00pm to 2.00pm]
-       <br/> Mdm Nurashikin Jasni
-</label>
-      <div class="tab-content">
-       <br/>
-       <a href="/ml/Mdm-Nurashikin-Jasni/"> <div class="btnvideo" style="font-size:16px;">
-    Watch Session</div></a>
-  <br/>
-  <div class="row">
- <div class="column">
-<img src="/images/Speakers_ML Nurashikin Jasni.png" style="width:100%">
-   </div>
-   <p><strong>Mdm Nurashikin Jasni
- </strong> 
- </p>
-   </div>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil</h4> 
-       <p style="margin:10px;">Puan Nurashikin Jasni atau lebih dikenali dengan panggilan Nura J,  pernah bertugas sebagai guru sekolah rendah dan personaliti TV. Kini, beliau  bertugas sebagai agen hartanah dengan Propnex dan juga pengasas Pearlista; salun rambut khas wanita. Puan Nura J juga telah menulis dua buah buku bersama anak perempuan beliau, Nyla Esman yang berjudul "The Big Good Wolf" dan "Chickchickaboomz".  Pada 2018, beliau menulis "Leia dan Oumar Berhari Raya" bersama rakan baik beliau, Umie Isa. Beliau gemar membaca dan sering mengunjungi perpustakaan dan membaca bersama anak-anak beliau. Puan Nura J percaya bahawa membaca dapat mengekalkan minda yang sihat, membina daya imaginasi yang tinggi dan menajamkan fikiran. </p>
-        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Sinopsis</h4> 
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Pembelajaran Bahasa Melayu yang Menarik untuk Kanak-kanak</h4> 
-       <p style="margin:10px;">
-Ibu bapa merupakan guru pertama anak-anak. Justeru, Puan Nura J yang gemar membaca dan penyokong kegiatan membaca,  telah mendedahkan anak-anak beliau kepada pelbagai genre buku cerita bahasa Melayu termasuklah buku yang ditulis dalam bahasa Indonesia. Beliau meluangkan masa sekurang-kurangnya tiga kali seminggu untuk membacakan buku bahasa Melayu kepada anak-anak beliau sebelum mereka tidur. Beliau percaya bahawa membaca dapat memperluas kosa kata mereka. Melalui sesi ini, Puan Nura J akan berkongsi cara mudah beliau menyediakan persekitaran yang menyeronokkan bagi anak-anak beliau  belajar dan menggunakan bahasa Melayu. 
-</p><br/>
-     <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profile</h4>   
-       <p style="margin:10px;">Mdm Nurashikin Jasni, also known as Nura J, is a former primary school teacher and TV personality. She is currently a realtor with Propnex and the founder of Pearlista, an all-ladies hair salon.<br/><br/>
-        As a local author, Mdm Nurashikin Jasni has co-written “The Big, Good Wolf” and “Chickchickaboomz” with her daughter Nyla Esman, and also co-written “Leia dan Oumar Berhari Raya” with her good friend, Umie Isa.<br/><br/>
-        A reading advocate who visits the National Library often and loves reading with her children, she firmly believes that reading keeps minds healthy, imaginative and sharp.
-</p>
-  <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Synopsis</h4> 
-     <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Learning Malay in a Fun Way for Our Children</h4>    
-       <p style="margin:10px;">
-Parents are their children’s first teachers. As a reading advocate, Mdm Nurashikin Jasni believes that reading will widen children’s vocabulary, and exposes her children to different genres of Malay storybooks, including books written in Indonesian vernacular language. She reads Malay books to her children at least thrice a week at bedtime. <br/><br/>
-        Through this session, participants will gain insight into how Mdm Nurashikin Jasni creates a fun environment for her children to learn and use Malay effectively, and with ease. 
-</p>
- </div></div>
- </td>
-<td style="border:0 none;padding: 0;" class="btnImg45">
-</td>
-</tr>
- <tr>
+   <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
