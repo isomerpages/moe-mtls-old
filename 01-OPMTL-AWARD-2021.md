@@ -63,7 +63,7 @@ PCF Sparkletots @ Boon Lay Blk 631 </center>
 <a href="/award/Ms-Liao-Sulian/"><img src="/images/Ms-Liao-Sulian.png" style="width:100%; display:block;"></a>
  <p> <center>Ms Liao Sulian<br/>
   <span style= "font-family:KaiTi; font-size:25px;">廖素莲老师 </span> <br/>
- My FirstSkoolat Blk 219 Toa Payoh</center>
+ My First Skool at Blk 219 Toa Payoh</center>
   </p>
     </div>
  </div>
@@ -85,7 +85,7 @@ PCF Sparkletots @ Boon Lay Blk 631 </center>
 <a href="/award/Mdm-Ye-Suqin/"><img src="/images/Mdm-Ye-Suqin.png" style="width:100% ;display:block;"> </a>
  <p> <center> Mdm Ye Suqin<br/>
   <span style= "font-family:KaiTi; font-size:25px;"> 叶素琴老师</span> 
-  <br/>PCF Sparkletots@ Kampong Chai Chee Blk 135</center> 
+  <br/>PCF Sparkletots @ Kampong Chai Chee Blk 135</center> 
   </p>
     </div>
     </div>
@@ -109,75 +109,17 @@ PCF Sparkletots @ Boon Lay Blk 631 </center>
     </div>
   <div class="column">
 <img src="/images/Ms-Sharmila-Devi.png" style="width:100%">
- <p> <center> Ms Sharmila DeviD/O MutuManium <br/>
-  PCF Sparkletots @ Boon LayBlk 262 </center></p>
+ <p> <center> Mdm Sharmila Devi  D/O Mutu Manium <br/>
+  PCF Sparkletots @ Boon Lay Blk 262 </center></p>
     </div>
    </div>
    <div class="row">
  <div class="column">
 <img src="/images/Ms-Zahidah-Mahmood.png" style="width:100%">
  <p> <center>Ms Zahidah Binte Mahmood <br/>
-M.Y WORLD@Punggol Edge</center>
+M.Y WORLD @ Punggol Edge</center>
  </p>
     </div></div>
   
-  <h5> <strong> JUDGES</strong></h5>
-  <br/>
-  <div class="row">
-  <div class="column">
-  <img src="#" style="width:100%">
- <p> <center> DR RAUDHAH BINTE YAHYA
-  <br/>NIEC</center>
-</p>
-    </div>
-  <div class="column">
-<img src="#" style="width:100%"> 
- <p> <center>DR ROSZALINA RAWI  <br/>
- NIE </center>
-   </p>
-    </div>
-  <div class="column">
-<img src="#" style="width:100%">
- <p> <center> JUMAINI ARIFF<br/>
- STORYSCRIBBLERS </center></p>
-    </div>
-   </div>
- <div class="row">
-  <div class="column">
-  <img src="#" style="width:100%">
- <p> <center> DR A RA SIVAKUMARAN
-  <br/>NIE</center>
-</p>
-    </div>
-  <div class="column">
-<img src="#" style="width:100%"> 
- <p> <center>DR TAMILARASI SUBRAMANIAM  <br/>
- NIE </center>
-   </p>
-    </div>
-  <div class="column">
-<img src="#" style="width:100%">
- <p> <center> LALITHAL KRISHNASAMY<br/>
-NIEC </center></p>
-    </div>
-   </div>
-  <div class="row"> 
-  <div class="column">
-<img src="#" style="width:100%"> 
- <p> <center>DR NG SOK HOON <br/>
-NIEC </center>
-   </p>
-    </div>
-  <div class="column">
-<img src="#" style="width:100%">
- <p> <center> LEE TSAI LING <br/>
-ECDA </center></p>
-    </div>
-   <div class="column">
-  <img src="#" style="width:100%">
- <p> <center> LIM SIEW GEK   
-  <br/>CPCLL</center>
-</p>
-    </div>
-   </div> 
+  
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
