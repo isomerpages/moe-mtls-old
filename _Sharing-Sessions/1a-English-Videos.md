@@ -113,7 +113,7 @@ background-color: lightgrey;!important;
  <div class="atab atab3Line" >
      <input id="tab-01" type="checkbox" name="tab">
       <label for="tab-01" class="lbeng">Live Panel Discussion <br/>
-       'Sparking Rich Conversation with Young Children in Mother Tongue Language' (Live!) 
+       'Sparking Rich Conversations with Young Children in Mother Tongue Language' (Live!) 
        <br/>[Livestreaming on 28 August from 11.00am to 12.00pm] <br/></label>
  <div class="tab-content">      
        <br/>
