@@ -103,14 +103,14 @@ Various ICT tools and child-centric strategies are used to enhance the quality o
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1"  class="lbTM" style="font-family:Anjal InaiMathi;">குழந்தைகளின் ஆரம்பகால இருமொழித் திறனை வளர்ப்பதற்கு ஒன்றிணைந்து செயற்படுவோம்!<br/>
+      <label for="tab-1"  class="lbTM" style="font-family:Anjal InaiMathi;">ஆரம்பக்கால இருமொழிக் கல்விக்கொள்கையை ஒன்றிணைந்து பேணி வளர்ப்போம்<br/>
      கல்வி அமைச்சின் பாலர்பள்ளி, (பொங்கோல் கிரீன்) [MK@Punggol Green]</label>
       <div class="tab-content">
           <br/>
 <a href="/tlmoe/Punggol-Green/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
-  <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;font-family:Anjal InaiMathi;">குழந்தைகளின் ஆரம்பகால இருமொழித் திறனை வளர்ப்பதற்கு  ஒன்றிணைந்து செயற்படுவோம்!
+  <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;font-family:Anjal InaiMathi;">ஆரம்பக்கால இருமொழிக் கல்விக்கொள்கையை ஒன்றிணைந்து பேணி வளர்ப்போம்
 </h4>
           <p style="margin:10px;font-size:20px;font-family:Anjal InaiMathi;">கல்வி அமைச்சின் பாலர்பள்ளி, (பொங்கோல் கிரீன்)-இல் பிள்ளைகள் ஆங்கிலத்தையும் தாய்மொழியையும் பள்ளியிலும் வீட்டிலும் தன்னம்பிக்கையுடன் பேசுவதற்கு வழிவகுக்கிறது. மேலும்,பாலர்பள்ளி சார்ந்த திட்டமானது பிள்ளைகளின் இளம்பருவகால இருமொழித் திறனைப் பேணி வளர்ப்பதற்குப் பெற்றோர்களோடும்  அணுக்கமாகச் செயற்படுகிறது. பிள்ளைகள் பள்ளியிலும் வீட்டிலும் எதிர்நோக்கும் 
 மாற்றங்களை நிர்வகிக்க அவர்களுக்குத் தொடர்ந்து உதவி வழங்கப்படுகிறது. பல்வேறு மகிழ்வூட்டும் கருத்துப்பரிமாற்ற நடவடிக்கைகள் அர்த்தமுள்ள, நடைமுறைக்கேற்ற சூழல்களையொட்டி அமையும்போது, தாய்மொழி பிள்ளைகளுக்கு வாழும் மொழியாக அமைகிறது. இது அவர்களின் அன்றாட வாழ்க்கையோடு தொடர்புடையது என்பதை உணர்த்தவும் பிள்ளைகள் கற்றுக்கொண்ட விழுமியங்களைப்
