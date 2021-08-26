@@ -39,10 +39,7 @@ max-width:34%;
  <div class="column">
 <img src="/images/EL-Nie Bing.png" style="width:100%">
    </div>
- <p><strong> Dr Connie Lum </strong>
- <br/> NTUC First Campus
-<br/>
- Director, Mother Tongue Languages
+ <p><strong> Mdm Nie Bing </strong>
 </p>
     </div>
   <h4 style="padding-top:12px;margin:10px;color:#fa0;">Learning Mother Tongue is Cool at Home and in School too! - Strategies to Motivate Children to Love MTL</h4>
