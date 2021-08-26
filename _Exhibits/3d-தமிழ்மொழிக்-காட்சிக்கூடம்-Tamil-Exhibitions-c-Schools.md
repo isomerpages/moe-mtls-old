@@ -109,7 +109,7 @@ background-color: lightgrey;!important;
       <input id="tab-3" type="checkbox" name="tab">
       <label for="tab-3" class="lbTM" style="font-family:Anjal InaiMathi;" >வகுப்பறைகளிலும் வகுப்பறைக்கப்பாலும் மகிழ்வூட்டும் கற்றல்
        <br/>
-       மொன்ஃபர்ட் ஜூனியர் பள்ளிிி [Montfort Junior School]</label>
+       மொன்ஃபர்ட் ஜூனியர் பள்ளி[Montfort Junior School]</label>
       <div class="tab-content">
      <br/>
 <a href=" /tlmoe/Montfort-Junior/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
@@ -134,7 +134,7 @@ background-color: lightgrey;!important;
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2" class="lbTM" style="font-family:Anjal InaiMathi;">நிரலாக்கத்தின்வழித் தமிழ்மொழி <br/>
-       யீஷூன் தொடக்கப்பள்ளிிி [Yishun Primary School]</label>
+       யீஷூன் தொடக்கப் பள்ளி[Yishun Primary School]</label>
       <div class="tab-content">
       <br/>
 <a href=" /tlmoe/Yishun-Pri/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
