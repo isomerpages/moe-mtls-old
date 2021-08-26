@@ -14,4 +14,16 @@ breadcrumb: 'Temasek Secondary School'
 </script>
 <a href="/exhibits/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-d/schools/"  style="float:right;">Back</a>
  <img src="/images/MTLS2021-Temasek_TL_Final.jpg"> <br/>
+ 
+ மாணவர்களின் நாடகப் படைப்பு
+ <div class="video-container">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLQq52xtWgLF2iXpgSFB_QmG0GQyn2ljW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br/>
+ 
+ மாணவர்களின் எண்ணப் பிரதிபலிப்பு
+ <div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLQq52xtWgLF1Djl6z2GIh2M3eEZvUVDYO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br/>
+  
+  நாடகப் பயிலரங்கு பற்றிய ஒரு கண்ணோட்டம்
+  <div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLQq52xtWgLF35bn72o2RBelKrmlsQ0H2W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br/>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
