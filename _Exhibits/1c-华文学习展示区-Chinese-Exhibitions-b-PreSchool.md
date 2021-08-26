@@ -140,7 +140,7 @@ background-color: lightgrey;!important;
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
     <label for="tab-6" class="lbCh"><span style="font-size:25px;font-family:KaiTi">携手培养幼儿双语学习的兴趣<br/>
-    MK@Punggol Green </span></label>
+    教育部幼儿园（培林）[MK@Punggol Green] </span></label>
       <div class="tab-content">
        <br/>
        <a href="/clmoe/携手培养双语幼儿/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
