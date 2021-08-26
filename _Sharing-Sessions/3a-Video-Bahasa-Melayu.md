@@ -226,7 +226,7 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
 </label>
       <div class="tab-content">      
        <br/>
-       <a href="/ml/Mr-Herman-Rothman/"> <div class="btnvideo" style="font-size:16px;">
+       <a href="/ml/Mr-Rothman/"> <div class="btnvideo" style="font-size:16px;">
    Ikuti Perkongsian</div></a>
   <br/>
 
@@ -235,7 +235,6 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
 <img src="/images/ML-Herman Rothman.png" style="width:100%">
    </div>
    <p> <strong>Mr Herman Rothman</strong>
-
 </p>
    </div>
          <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil</h4>  
@@ -467,7 +466,7 @@ In recent years, we often read about an increased number of children with specia
        Young children today are exposed to a myriad of sophisticated storytelling and visual effects that entice and capture their attention, thanks to Disney, Pixar, online games, apps and many other digital offerings. However, these are mostly in English. 
 What can educators and parents do to motivate young minds to love learning Malay? Certainly, it’s an interesting language. Through this sharing, participants will learn various tactics they can use in day-to-day life to inculcate a love for Malay  in their children.
 </p>
-        </div></div>
+ </div></div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg15">
  </td>
