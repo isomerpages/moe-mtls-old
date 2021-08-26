@@ -86,7 +86,7 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbML">Esplanade – Teater di Persisiran<br/>Esplanade – Teater di Persisiran (Esplanade - Theatres on the Bay)</label>
+      <label for="tab-2" class="lbML">Esplanade – Teater di Persisiran<br/>Esplanade – Teater di Persisiran [Esplanade - Theatres on the Bay]</label>
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/Esplanade-Teater-di-Persisiran/"> <div class="btnvideo" style="font-size:16px;">
@@ -109,7 +109,7 @@ Para pelajar juga berpeluang untuk mengetahui pelbagai bentuk seni secara dalam 
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
       <label for="tab-3" class="lbML">Bahasa Ibundaku, Teman Sejatiku
-<br/>Dana Kedwibahasaan Lee Kuan Yew (Lee Kuan Yew Fund for Bilingualism)</label>
+<br/>Dana Kedwibahasaan Lee Kuan Yew [Lee Kuan Yew Fund for Bilingualism]</label>
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/LKYFB/"> <div class="btnvideo" style="font-size:16px;">
@@ -136,7 +136,7 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-10" type="checkbox" name="tab">
-      <label for="tab-10" class="lbML">Membesar Bersama Bahasa<br/>Pusat Bahasa Melayu Singapura (Malay Language Centre of Singapore)</label>
+      <label for="tab-10" class="lbML">Membesar Bersama Bahasa<br/>Pusat Bahasa Melayu Singapura [Malay Language Centre of Singapore]</label>
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/MLCS/"> <div class="btnvideo" style="font-size:16px;">
@@ -160,7 +160,7 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5" class="lbML">Mari terokai bahasa dan budaya masyarakat Melayu bersama-sama Nabil dan Nabilah  <br/>Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (Malay Language Learning Promotion Committee)</label>
+      <label for="tab-5" class="lbML">Mari terokai bahasa dan budaya masyarakat Melayu bersama-sama Nabil dan Nabilah  <br/>Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu [Malay Language Learning Promotion Committee]</label>
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/MLLPC/"> <div class="btnvideo" style="font-size:16px;">
@@ -184,7 +184,7 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbML"> Stor Atuk<br/> Mediacorp</label>
+      <label for="tab-1" class="lbML"> Stor Atuk<br/> [Mediacorp]</label>
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/Mediacorp/"> <div class="btnvideo" style="font-size:16px;">
@@ -208,7 +208,7 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
-    <label for="tab-6" class="lbML">Kenali bahasa ibunda menerusi warisan dan budaya(NHB)!<br/>Lembaga Warisan Negara (National Heritage Board)</label>
+    <label for="tab-6" class="lbML">Kenali bahasa ibunda menerusi warisan dan budaya(NHB)!<br/>Lembaga Warisan Negara [National Heritage Board]</label>
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/NHB/"> <div class="btnvideo" style="font-size:16px;">
@@ -233,7 +233,7 @@ Dapatkanlah maklumat tentang institusi-institusi warisan seperti Pusat Warisan I
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
-      <label for="tab-7" class="lbML">Bijak Kata!<br/>Institut Pendidikan Nasional (National Institute of Education) </label>
+      <label for="tab-7" class="lbML">Bijak Kata!<br/>Institut Pendidikan Nasional [National Institute of Education] </label>
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/NIE/"> <div class="btnvideo" style="font-size:16px;">
@@ -262,7 +262,7 @@ Dapatkanlah maklumat tentang institusi-institusi warisan seperti Pusat Warisan I
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
-      <label for="tab-8" class="lbML">Perkhidmatan Perpustakaan Bahasa Melayu<br/>Lembaga Perpustakaan Nasional (National Library Board)</label>
+      <label for="tab-8" class="lbML">Perkhidmatan Perpustakaan Bahasa Melayu<br/>Lembaga Perpustakaan Nasional [National Library Board]</label>
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/NLB/"> <div class="btnvideo" style="font-size:16px;">
@@ -285,7 +285,7 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4" class="lbML"> Kelas Matematika M<sup>3</sup> @ Nee Soon <br/>  PA MESRA (M3@NeeSoon)</label>
+      <label for="tab-4" class="lbML"> Kelas Matematika M<sup>3</sup> @ Nee Soon <br/>  PA MESRA [M3@NeeSoon]</label>
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/M3@NeeSoon/"> <div class="btnvideo" style="font-size:16px;">
@@ -309,7 +309,7 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-9" type="checkbox" name="tab">
-      <label for="tab-9" class="lbML">Mari Bercerita Bersama Taman Haiwan Singapura <br/> Wildlife Reserves Singapore (WRS) </label>
+      <label for="tab-9" class="lbML">Mari Bercerita Bersama Taman Haiwan Singapura <br/> [Wildlife Reserves Singapore (WRS)] </label>
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/WRS/"> <div class="btnvideo" style="font-size:16px;">
