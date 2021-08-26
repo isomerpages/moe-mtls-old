@@ -24,7 +24,8 @@ width:80% ;
 <img src="/images/GOH-Message-Banner.jpg" style="display:none;">
 <div class="video-container" >
 <iframe src="https://vimeo.com/event/1187205/embed" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe><br/>
-   <iframe src="https://vimeo.com/event/1187205/embed" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Ms Renu Siva"></iframe>
+   <iframe src="https://vimeo.com/event/1187205/embed" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Ms Renu Siva"></iframe><br/>
+   <iframe title="vimeo-player" src="https://vimeo.com/event/1187205/embed" width="640" height="360" frameborder="0" allowfullscreen></iframe>
    </div> *Video is best viewed in 1080p.
     <br/>
     
