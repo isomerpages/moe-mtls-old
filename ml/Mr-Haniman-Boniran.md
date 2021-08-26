@@ -35,7 +35,7 @@ max-width:20%;
  </p>
 <h4 style="color:#a3c864;">Profil</h4>   
        <p>
-    Encik Haniman Boniran ialah pengurus bahagian pendidikan di Wildlife Reserves Singapore (WRS). Minat beliau dalam pendidikan alam berputik semasa berkhidmat sebagai sukarelawan di Taman Haiwan Singapura pada tahun 2001. Selang sedekad, beliau kini menceburi bidang pendidikan yang merangkumi pendidikan awal kanak-kanak dan pendidikan bahasa Melayu serta pengendalian bengkel bahasa Melayu bagi guru prasekolah. Beliau juga bekerjasama dengan para pendidik untuk menghasilkan bahan-bahan bagi memperkukuh penggunaan bahasa Melayu dalam kalangan masyarakat Melayu /Islam Singapura. Encik Haniman juga ialah Penaksir Pembelajaran Dewasa yang diiktirafkan oleh Institut Pembelajaran Dewasa (IAL).</p>
+    Encik Haniman Boniran ialah pengurus bahagian pendidikan di Wildlife Reserves Singapore (WRS). Minat beliau dalam pendidikan alam berputik semasa berkhidmat sebagai sukarelawan di Taman Haiwan Singapura pada tahun 2001. Selang sedekad, beliau kini menceburi bidang pendidikan yang merangkumi pendidikan awal kanak-kanak dan pendidikan bahasa Melayu serta pengendalian bengkel bahasa Melayu bagi guru prasekolah. Beliau juga bekerjasama dengan para pendidik untuk menghasilkan bahan-bahan bagi memperkukuh penggunaan bahasa Melayu dalam kalangan masyarakat Melayu / Islam Singapura. Encik Haniman juga ialah Penaksir Pembelajaran Dewasa yang diiktirafkan oleh Institut Pembelajaran Dewasa (IAL).</p>
          <h4 style="color:#a3c864;">Sinopsis</h4>  
        <h4  style="color:#a3c864;">Mari Belajar Bahasa Melayu di Taman Haiwan</h4>
      <p>
