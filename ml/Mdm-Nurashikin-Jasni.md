@@ -29,8 +29,8 @@ max-width:20%;
      <div class="column">
 <img src="/images/Speakers_ML Nurashikin Jasni.png" style="width:100%">
    </div>
-     <p><strong>Mdm Nurashikin Jasni
- </strong> 
+     <p><strong>Mdm Nurashikin Jasni</strong><br/>
+       Parent Influencer/Author
  </p>
 <h4 style="color:#a3c864;">Profil</h4> 
        <p>Puan Nurashikin Jasni atau lebih dikenali dengan panggilan Nura J, pernah bertugas sebagai guru sekolah rendah dan personaliti TV. Kini, beliau bertugas sebagai agen hartanah dengan Propnex dan juga pengasas Pearlista; salun rambut khas wanita. Puan Nura J juga telah menulis dua buah buku bersama anak perempuan beliau, Nyla Esman yang berjudul "The Big Good Wolf" dan "Chickchickaboomz". Pada 2018, beliau menulis "Leia dan Oumar Berhari Raya" bersama rakan baik beliau, Umie Isa. Beliau gemar membaca dan sering mengunjungi perpustakaan dan membaca bersama anak-anak beliau. Puan Nura J percaya bahawa membaca dapat mengekalkan minda yang sihat, membina daya imaginasi yang tinggi dan menajamkan fikiran.</p>
