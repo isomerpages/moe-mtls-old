@@ -77,7 +77,7 @@ background-color: lightgrey;!important;
 </script>
 </head>
 <body>
-    <img src="/images/MTLS2021_Challenge_ML.jpg" style="width:100%;  display:none;">
+    <img src="/images/MTLS2021_Challenge_ML.jpg" style="width:100%;">
    <br/>
 <div><h2 style="padding-top:12px;color:#a3c864;">Rakan Kerjasama Masyarakat</h2></div>
      <br/>
