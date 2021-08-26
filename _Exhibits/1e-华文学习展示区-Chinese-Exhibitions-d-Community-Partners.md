@@ -143,9 +143,9 @@ background-color: lightgrey;!important;
 <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">母语伴我行</h4>
         <p style="font-family:KaiTi;font-size:21px;margin:10px;">
          李光耀先生于2011年在其新书《我一生的挑战：新加坡双语之路》的发布会上，宣布设立李光耀双语基金（简称“基金”）。<br /><br />
-        自成立以来，本基金致力于支持有助于双语学习的创意项目开发，让孩童在愉悦的互动中乐学和善用母语，并使之成为生活的语言。<br /><br />
-       在推广母语的学习和使用方面，本基金积极资助各种资源和项目的创立和开发，发挥其“催化作用”。<br/><br />
-            本基金的社交媒体平台上(包括正式YouTube频道、Facebook和Instagram)有许多生动有趣的母语视频，供老师及家长与孩童一起观赏、学习。
+        自成立以来，基金致力于支持有助于双语学习的创意项目之开发，让孩童在愉悦的互动中乐学和善用母语，并使之成为生活语言。<br /><br />
+       在推广母语的学习和使用方面，基金资助各类资源和项目，积极发挥其“催化作用”。<br/><br />
+            本基金的社交媒体平台上（包括YouTube频道、Facebook和Instagram）有许多生动有趣的母语视频，供老师及家长与孩童一起观赏、学习。
         </p><br/>
           <h4 style="margin:10px;color:#d84178;">My Mother Tongue, My Companion</h4>
           <p style="margin:10px;">The establishment of the Lee Kuan Yew Fund for Bilingualism was announced by Mr Lee Kuan Yew at the launch of “My Lifelong Challenge: Singapore’s Bilingual Journey” in 2011.<br/><br />
