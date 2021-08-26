@@ -14,5 +14,9 @@ breadcrumb: 'Admiralty Primary School'
 </script>
 <a href="/exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-d/Schools/" style="float:right;">Back</a>
  <img src="/images/MTLS2021-Admiralty_ML_Final.jpg"> <br/>
+ 
+ <div class="video-container">
+ <iframe src="https://drive.google.com/file/d/1y25fSU9YtRjKvUGklxtXnES1hbhUZ7g3/preview" width="640" height="480" allow="autoplay"></iframe>
+ </div>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
