@@ -112,14 +112,14 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-    <label for="tab-1" class="lbCh"><span style="font-size:25px;font-family:KaiTi">通过数码资讯科技，让母语学习活起来 <br/>
+    <label for="tab-1" class="lbCh"><span style="font-size:25px;font-family:KaiTi">携手培养幼儿双语学习的兴趣 <br/>
      教育部幼儿园（丰伟）[MK@Fernvale] </span></label>
       <div class="tab-content">
        <br/>
        <a href="/clmoe/爱加倍实龙岗分校/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
-<h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">通过数码资讯科技，让母语学习活起来</h4>
+<h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">携手培养幼儿双语学习的兴趣</h4>
       <p style="font-family:KaiTi;margin:10px;font-size:21px;">
        教育部幼儿园（丰伟）坚信学习能通过有意义的游戏和有效的互动进行。教师们积极借助数码科技为幼儿提供有针对性的学习体验。幼儿们利用数码资讯工具拓展学习范围，掌握学习的自主权。<br/><br/>
           在母语课堂中，教师善用平板电脑等多元化的数码资讯工具，设计充满趣味的互动活动，结合以幼儿为中心的教学策略，提升教学质量。充满乐趣和互动的资讯科技活动让幼儿既能依据个人的进度自主学习，也能与同伴一起探索周围的事物并与之互动，成为积极的母语学习者。
