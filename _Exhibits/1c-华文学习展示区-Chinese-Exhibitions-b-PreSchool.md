@@ -194,7 +194,7 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
- <label for="tab-4" class="lbCh"><span style="font-size:25px;font-family:KaiTi">演一演, 说一说 <br/> PCF Sparkletots @ Woodlands Blk 801 (CC)</span></label>
+ <label for="tab-4" class="lbCh"><span style="font-size:25px;font-family:KaiTi">演一演, 说一说 <br/> PCF Sparkletots @ Woodlands Blk 801</span></label>
       <div class="tab-content">
         <br/>
        <a href="/clmoe/PCF-Sparkletots-Preschool/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
