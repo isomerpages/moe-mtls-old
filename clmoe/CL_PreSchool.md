@@ -155,8 +155,8 @@ margin-left:25px;
 <h4 id="C3"><span style="font-size:35px;font-family:KaiTi;">奥秘探索周计划</span></h4>
   <img src="/images/CL-PreSch-Discovery2.jpg"> <br/>
   <span style="font-size:25px;font-family:KaiTi;">欲了解“奥秘探索周计划”的活动点子设计，请阅读相关活动设计:<br/> </span>
-  <a href="/clmoe/CL-MTLS-pre-sch-Annex2.pdf" target="_blank" style="font-family:KaiTi">“风”</a><br/>
-<a href="/clmoe/CL-MTLS-pre-sch-Annex3.pdf" target="_blank" style="font-family:KaiTi">“我来做红鸡蛋”</a>
+  <a href="/clmoe/CL-MTLS-pre-sch-Annex2.pdf" target="_blank" style="font-size:25px;font-family:KaiTi">“风”</a><br/>
+<a href="/clmoe/CL-MTLS-pre-sch-Annex3.pdf" target="_blank" style="font-size:25px;font-family:KaiTi">“我来做红鸡蛋”</a>
 <h4 id="C4"><span style="font-family:KaiTi;font-size:35px;">居家活动好点子</span></h4>
   <table width="300px" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 25px; -webkit-border-radius: 25px; border-radius: 25px; border: 3px solid #ccc;">
    <td>
