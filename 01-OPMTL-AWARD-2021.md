@@ -63,7 +63,7 @@ PCF Sparkletots @ Boon Lay Blk 631 </center>
 <a href="/award/Ms-Liao-Sulian/"><img src="/images/Ms-Liao-Sulian.png" style="width:100%; display:block;"></a>
  <p> <center>Ms Liao Sulian<br/>
   <span style= "font-family:KaiTi; font-size:25px;">廖素莲老师 </span> <br/>
- My FirstSkoolat Blk 219 Toa Payoh</center>
+ My First Skool at Blk 219 Toa Payoh</center>
   </p>
     </div>
  </div>
