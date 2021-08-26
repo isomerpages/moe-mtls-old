@@ -116,7 +116,7 @@ background-color: lightgrey;!important;
      教育部幼儿园（丰伟）[MK@Fernvale] </span></label>
       <div class="tab-content">
        <br/>
-       <a href="/clmoe/爱加倍实龙岗分校/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
+       <a href="/clmoe/教育部幼儿园/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
        阅览展板</div></a>
   <br/>
 <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">通过数码资讯科技，让母语学习活起来</h4>
