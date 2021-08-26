@@ -84,8 +84,8 @@ background-color: lightgrey;!important;
       <input id="tab-7" type="checkbox" name="tab">
       <label for="tab-7" class="lbCh"><span style="font-size:25px;font-family:KaiTi">乐学华族节日与美食 <br/>爱同学校 [Ai Tong School]</span></label>
       <div class="tab-content">
-  <a href="/clmoe/爱同学校/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+  <a href="/clmoe/爱同学校/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
+    阅览展板</div></a>
   <br/>
 <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">乐学华族节日与美食</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
@@ -105,8 +105,8 @@ background-color: lightgrey;!important;
       <input id="tab-11" type="checkbox" name="tab">
       <label for="tab-11" class="lbCh"><span style="font-size:25px;font-family:KaiTi"> 混合式教学——美术馆在线导览 <br/> 德义中学 [Deyi Secondary School]</span></label>
       <div class="tab-content">
-      <a href="/clmoe/德义中学/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+      <a href="/clmoe/德义中学/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
+    阅览展板</div></a>
   <br/>
 <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">混合式教学——美术馆在线导览</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
@@ -129,8 +129,8 @@ background-color: lightgrey;!important;
       <input id="tab-9" type="checkbox" name="tab">
       <label for="tab-9" class="lbCh"><span style="font-size:25px;font-family:KaiTi">东源小学户外学习乐 <br/> 东源小学 [East Spring Primary School]</span></label>
       <div class="tab-content">
-      <a href="/clmoe/东源小学/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+      <a href="/clmoe/东源小学/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
+    阅览展板</div></a>
   <br/>
 <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">东源小学户外学习乐</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
@@ -154,8 +154,8 @@ background-color: lightgrey;!important;
     <label for="tab-12" class="lbCh"> <span style="font-size:25px;font-family:KaiTi">运用数码工具进行母语教学 <br/> 圣若瑟书院 [St. Joseph's Institution (Secondary)]</span>
 </label>
       <div class="tab-content">
-          <a href="/clmoe/圣若瑟书院/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+          <a href="/clmoe/圣若瑟书院/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
+    阅览展板</div></a>
   <br/>
 <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">运用数码工具进行母语教学</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
@@ -178,8 +178,8 @@ background-color: lightgrey;!important;
       <input id="tab-8" type="checkbox" name="tab">
       <label for="tab-8" class="lbCh"><span style="font-size:25px;font-family:KaiTi">小任务，学习乐 <br/> 圣玛格烈小学 [St. Margaret’s Primary School]</span></label>
       <div class="tab-content">
-          <a href="/clmoe/圣玛格烈小学/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+          <a href="/clmoe/圣玛格烈小学/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
+    阅览展板</div></a>
   <br/>
 <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">小任务，学习乐</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
@@ -200,8 +200,8 @@ background-color: lightgrey;!important;
       <label for="tab-6" class="lbCh"><span style="font-size:25px;font-family:KaiTi">说我所想 <br/> 胜宝旺小学 [Sembawang Primary School]</span></label>
       <div class="tab-content">
           <br/>
-<a href="/clmoe/胜宝旺小学/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+<a href="/clmoe/胜宝旺小学/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
+    阅览展板</div></a>
   <br/>
 <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">说我所想</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
@@ -224,8 +224,8 @@ the SLS to share their views with their peers and showcase their learning. This 
       <input id="tab-10" type="checkbox" name="tab">
       <label for="tab-10" class="lbCh"><span style="font-size:25px;font-family:KaiTi">书香处处 <br/> 维林小学 [Westwood Primary School]</span></label>
       <div class="tab-content">
-          <a href="/clmoe/维林小学/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+          <a href="/clmoe/维林小学/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
+    阅览展板</div></a>
   <br/>
 <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">书香处处</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
