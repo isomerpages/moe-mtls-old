@@ -198,7 +198,7 @@ margin-left:25px;
 </div></div>
   <br/>
   
-<h2 style="font-family:Anjal New InaiMathi Sch Book; font-size:36px; font-weight:bold; text-align:center;">தகவல் தொடர்புத் தொழில்நுட்பத்தின் கூடுதல் வளங்கள்</h2>
+<h2 style="font-family:Anjal New InaiMathi Sch Book; font-size:36px; font-weight:bold; text-align:center;">தகவல் தொடர்புத் தொழில்நுட்பத்தின் கூடுதல் ஒருங்கிணைப்பு</h2>
 <img src="/images/TL-Sec_Poster07.jpg">
   <img src="/images/TL-Sec_Poster08.jpg"><br/>
    <div class="atab">
