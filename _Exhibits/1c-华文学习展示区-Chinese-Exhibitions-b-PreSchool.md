@@ -178,7 +178,7 @@ background-color: lightgrey;!important;
       <p style="font-family:KaiTi;margin:10px;font-size:21px;">
      冠智学习与艺术园地强调艺术教育的重要性和影响力，鼓励幼儿不断从观察、体验和探索中，表达纯真的自我。<br/><br/>
           学校在美术、戏剧、音乐韵律课程中巧妙地融入华文认字和诵读。孩子们在接受艺术熏陶的同时，学习、应用并爱上华文。<br/><br/>
-          学校也通过绘本故事，开阔小朋友们的视野，提升他们的思维能力和想象力。老师会根据不同的故事内容及不同的教学活动，让小朋友们在活动过程中，接触正确的价值观。</p><br/>
+          学校也通过绘本故事，开拓小朋友们的视野，提升他们的思维能力和想象力。老师会根据不同的故事内容及不同的教学活动，让小朋友们在活动过程中，接触正确的价值观。</p><br/>
           <h4 style="margin:10px;color:#d84178;">Discovering the Joy of Learning Chinese - Arts Integrated Curriculum</h4>
         <p style="margin:10px;">
          Nobleland believes that an arts-integrated curriculum helps to enhance brain development and creativity, as well as develop 21st century life skills through character education. The school’s Chinese curriculum has a strong focus on integrating the visual and performing arts, Chinese cultural appreciation, character building and literature-based learning to promote a holistic love and interest in Chinese. <br/><br/>
