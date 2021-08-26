@@ -91,7 +91,7 @@ background-color: lightgrey;!important;
       新意元幼源 [Creative O Preschoolers’ Bay]</span></label>
       <div class="tab-content">
         <br/>
-       <a href="/clmoe/Creative-O/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
+       <a href="/clmoe/Creative-O/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi">
         阅览展板</div></a>
   <br/>
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">母语学习-用全语言让母语活起来！</h4>
@@ -115,7 +115,7 @@ background-color: lightgrey;!important;
      教育部幼儿园（丰伟）[MK@Fernvale] </span></label>
       <div class="tab-content">
        <br/>
-       <a href="/clmoe/教育部幼儿园/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
+       <a href="/clmoe/教育部幼儿园/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi">
        阅览展板</div></a>
   <br/>
 <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">通过数码资讯科技，让母语学习活起来</h4>
@@ -142,7 +142,7 @@ background-color: lightgrey;!important;
     教育部幼儿园（培林）[MK@Punggol Green] </span></label>
       <div class="tab-content">
        <br/>
-       <a href="/clmoe/携手培养幼儿双语学习的兴趣/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
+       <a href="/clmoe/携手培养幼儿双语学习的兴趣/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi">
         阅览展板</div></a>
   <br/>
 <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">携手培养幼儿双语学习的兴趣</h4>
@@ -171,7 +171,7 @@ background-color: lightgrey;!important;
     <label for="tab-3" class="lbCh"><span style="font-size:25px;font-family:KaiTi">我爱华文，我爱艺术的真、善、美！<br/> 冠智学习与艺术园 [Nobleland Arts N Learning Place @ Bishan]</span></label>
       <div class="tab-content">
         <br/>
-       <a href="/clmoe/冠智学习与艺术园/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
+       <a href="/clmoe/冠智学习与艺术园/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi">
     阅览展板</div></a>
   <br/>
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">我爱华文，我爱艺术的真、善、美！</h4>
@@ -197,7 +197,7 @@ background-color: lightgrey;!important;
  <label for="tab-4" class="lbCh"><span style="font-size:25px;font-family:KaiTi">演一演, 说一说 <br/> PCF Sparkletots @ Woodlands Blk 801</span></label>
       <div class="tab-content">
         <br/>
-       <a href="/clmoe/PCF-Sparkletots-Preschool/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
+       <a href="/clmoe/PCF-Sparkletots-Preschool/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi">
     阅览展板</div></a>
   <br/>
           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">演一演, 说一说</h4>
@@ -221,7 +221,7 @@ background-color: lightgrey;!important;
     <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi">乐学活用 <br/> 新加坡福建会馆幼儿园  [Singapore Hokkien Huay Kuan Pre-school]</span></label>
       <div class="tab-content">
         <br/>
-       <a href="/clmoe/SHHK/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
+       <a href="/clmoe/SHHK/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi">
     阅览展板</div></a>
   <br/>
           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">乐学活用</h4>
