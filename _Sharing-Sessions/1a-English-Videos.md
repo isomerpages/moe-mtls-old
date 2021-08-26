@@ -243,7 +243,9 @@ Mdm Nie Bing</label>
  <div class="column">
 <img src="/images/EL-Nie Bing.png" style="width:100%">
    </div>
-   <p> <strong>Mdm Nie Bing</strong>
+   <p> <strong>Mdm Nie Bing</strong><br/>
+    Teacher<br/>
+    Ascension Kindergarten
 </p>
    </div>
       <h4 style="padding-top:12px;margin:10px;color:#fa0;">Learning Mother Tongue is Cool at Home and in School too! - Strategies to Motivate Children to Love MTL</h4>
