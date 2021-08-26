@@ -15,8 +15,8 @@ breadcrumb: 'Admiralty Primary School'
 <a href="/exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-d/Schools/" style="float:right;">Back</a>
  <img src="/images/MTLS2021-Admiralty_ML_Final.jpg"> <br/>
  
- <div class="video-container">
- <iframe src="https://drive.google.com/file/d/1y25fSU9YtRjKvUGklxtXnES1hbhUZ7g3/preview" width="640" height="480" allow="autoplay"></iframe>
- </div>
+ <a href=" https://drive.google.com/file/d/1y25fSU9YtRjKvUGklxtXnES1hbhUZ7g3/view " target="_blank"><span style="font-size: 30px;">MTLS Video Admiralty Pri Sch</span></a> <br/>
+ 
+<a href=" https://admiraltypri-moe-edu-sg-admin.cwp.sg/qql/slot/u234/2021/MTLS.pdf " target="_blank"><span style="font-size: 30px;">Malay Language and Cultural Camp</span></a> <br/>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
