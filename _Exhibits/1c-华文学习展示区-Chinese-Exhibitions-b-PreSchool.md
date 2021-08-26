@@ -194,19 +194,19 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
- <label for="tab-4" class="lbCh"><span style="font-size:25px;font-family:KaiTi">演一演, 说一说 <br/> PCF Sparkletots Preschool @ Woodlands Blk 801 (CC)</span></label>
+ <label for="tab-4" class="lbCh"><span style="font-size:25px;font-family:KaiTi">演一演, 说一说 <br/> PCF Sparkletots @ Woodlands Blk 801 (CC)</span></label>
       <div class="tab-content">
         <br/>
        <a href="/clmoe/PCF-Sparkletots-Preschool/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
     阅览展板</div></a>
   <br/>
           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">演一演, 说一说</h4>
-          <p style="font-family:KaiTi;margin:10px;font-size:21px;">PCF Sparkletots Preschool @ Woodlands Blk 801运用戏剧为孩子们提供了体验、表达和探索的机会。<br/><br/>
+          <p style="font-family:KaiTi;margin:10px;font-size:21px;">PCF Sparkletots @ Woodlands Blk 801运用戏剧为孩子们提供了体验、表达和探索的机会。<br/><br/>
 学校鼓励孩子们运用创造力和认知技能，积极参与活动和语言互动：在神奇幻想的舞台上，他们能够扮演独特的角色，学会倾听、协商及如何与他人合作。
 </p><br/>
           <h4 style="margin:10px;color:#d84178;">Learning Chinese Through Dramatisation</h4>
         <p style="margin:10px;">
-          PCF Sparkletots Preschool @ Woodlands Blk 801 employs dramatisation in teaching and learning Chinese Language to children from Nursery 2 to Kindergarten 2. This approach provides children with the opportunities to experience, express and explore within a story and situation. Children take part in a fantasy world full of imagination, transforming themselves into characters to listen, negotiate, and collaborate as they act out their roles. Such activities nurture self-confidence and the creative use of language. The safe and relaxed setting also encourages children to use Chinese spontaneously, thus cultivating a love for the language.
+          PCF Sparkletots @ Woodlands Blk 801 employs dramatisation in teaching and learning Chinese Language to children from Nursery 2 to Kindergarten 2. This approach provides children with the opportunities to experience, express and explore within a story and situation. Children take part in a fantasy world full of imagination, transforming themselves into characters to listen, negotiate, and collaborate as they act out their roles. Such activities nurture self-confidence and the creative use of language. The safe and relaxed setting also encourages children to use Chinese spontaneously, thus cultivating a love for the language.
         </p>
       </div>
 </div>
