@@ -16,7 +16,7 @@ breadcrumb: 'Kelas Matematika M3 @ Nee Soon'
  <img src="/images/MTLS2021-M3@NeeSoon_ML_Final.jpg"> <br/>
  
  <div class="video-container">
-  <iframe src=" https://youtu.be/embed/-iXSKRMgmcs " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/-iXSKRMgmcs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   
   <div class="video-container">
   <iframe src=" https://www.youtube.com/embed/PZdlpc1PrwM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
