@@ -31,7 +31,6 @@ max-width:20%;
 <img src="/images/ML-Herman Rothman.png" style="width:100%">
    </div>
   <p> <strong>Mr Herman Rothman</strong>
-
 </p>
     <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil</h4>  
        <p style="margin:10px;">Encik Herman Rothman telah berkhidmat sebagai pendidik sebelum menyertai NLB pada tahun 2008. Minat beliau terhadap bidang kesusasteraan Melayu dan literasi bahasa amat mendalam. Lantaran itu, beliau telah banyak mengendalikan sesi ceramah serta bengkel yang berkaitan dengan topik-topik tersebut untuk para pelajar, ibu bapa dan golongan pendidik di dalam dan luar negara. Beliau juga mempunyai pengalaman menjadi pengadil pertandingan bercerita. Kini, beliau menghasilkan kandungan dan program untuk golongan belia dan dewasa selain bekerjasama dengan rakan kongsi untuk mengendalikan kelab-kelab membaca di perpustakaan serta merancang inisiatif baharu berkaitan dengan kegiatan membaca untuk masyarakat.</p>
