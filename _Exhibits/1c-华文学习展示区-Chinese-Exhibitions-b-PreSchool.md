@@ -149,7 +149,7 @@ background-color: lightgrey;!important;
       <p style="font-family:KaiTi;margin:10px;font-size:21px;">
       教育部幼儿园（培林）开展的双语教学活动，旨在培养幼儿双语的学习，并在幼儿园和家庭中自信地使用英语和母语与他人交流。<br/><br/>
       通过这项活动，幼儿园和家长紧密合作，携手促进幼儿学习双语，同时也帮助幼儿应对幼儿园和家庭中经历的变化。<br/><br/>
-      这些活动设计有趣且有意义，让幼儿在真实的情景中学习，自然而然地喜欢说母语，使母语成为幼儿生活中的语言。此外，我们也在活动中融入价值观的教学，使幼儿能将学校所学运用在日常生活中，促进家园和谐。
+      这些活动设计有趣且有意义，让幼儿在真实的 情境中学习，自然而然地喜欢说母语，使母语成为幼儿生活中的语言。此外，我们也在活动中融入价值观的教学，使幼儿能将学校所学运用在日常生活中，促进家园和谐。
  </p><br/>
 <h4 style="margin:10px;color:#d84178;">Let’s Work Together to Develop Early Childhood Bilingualism!</h4>
 <p style="margin:10px;">MOE Kindergarten @ Punggol Green nurtures early childhood bilingualism through the centre-based programme to build children’s confidence in using English and their Mother Tongue Language (MTL) in school and at home. 
