@@ -84,7 +84,7 @@ background-color: lightgrey;!important;
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/E-Bridge/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+    Lihat Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Berseronok dengan permainan zaman silam</h4>
         <p style="margin:10px;">
@@ -108,7 +108,7 @@ Kerjasama antara ibu bapa dengan sekolah amat penting untuk meningkatkan kemahir
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/Fernvale/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+    Lihat Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Menghidupkan Pembelajaran Bahasa Ibunda Melalui ICT</h4>
         <p style="margin:10px;">
@@ -134,7 +134,7 @@ Dalam Kurikulum Bahasa Ibunda, pelbagai peralatan ICT dan strategi pembelajaran 
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/Punggol-Green/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+   Lihat Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari Bekerjasama untuk Memupuk Kemahiran Dwibahasa pada Peringkat Awal Kanak-kanak!
 </h4>
@@ -159,7 +159,7 @@ Dengan menyertai aktiviti yang menyeronokkan lagi interaktif dalam pelbagai situ
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/My-First-Skool/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+    Lihat Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Berseronok dengan permainan zaman silam</h4>
         <p style="margin:10px;">
