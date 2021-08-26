@@ -1,7 +1,7 @@
 ---
-title: 'MK@Punggol Green (3MTL)'
+title: 'MK@Punggol Green'
 permalink: /mlmoe/Punggol-Green/
-breadcrumb: 'MK@Punggol Green (3MTL)'
+breadcrumb: 'MK@Punggol Green'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
