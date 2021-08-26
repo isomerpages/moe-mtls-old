@@ -118,7 +118,7 @@ background-color: lightgrey;!important;
  <div class="tab-content">      
        <br/>
   <a href="/eng/Panel-Discussion/"> <div class="btnvideo" style="font-size:16px;">
-    Watch video</div></a>
+    Watch Session</div></a>
   <br/>
    <h4 style="padding-top:12px;margin:10px;color:#fa0;">Panelists</h4>
   <br/>
@@ -228,7 +228,7 @@ Mdm Nie Bing</label>
 <div class="tab-content">      
        <br/>
  <a href="/eng/Mrs-Dianne-Seet-And-Mdm-Nie-Bing/"> <div class="btnvideo" style="font-size:16px;">
-    Watch video</div></a>
+    Watch Session</div></a>
   <br/>  <br/><br/>
   <div class="row">
  <div class="column">
@@ -269,7 +269,7 @@ Mdm Nie Bing has 17 years of pre-school education experience and has taught in A
       <div class="tab-content">      
        <br/>
        <a href="/eng/Leher-Singh/"> <div class="btnvideo" style="font-size:16px;">
-    Watch video</div></a>
+    Watch Session</div></a>
   <br/>
 
   <div class="row">
@@ -300,7 +300,7 @@ Mr Jaya Ganesh Isuran</label>
   <div class="tab-content">      
        <br/>
    <a href="/eng/Dr-Nirmala-Karuppiah-And-Mr-Jaya-Ganesh-Isuran/"> <div class="btnvideo" style="font-size:16px;">
-    Watch video</div></a>
+   Watch Session</div></a>
   <br/>  <br/><br/>
   <div class="row">
  <div class="column">
@@ -342,7 +342,7 @@ Ms Diana Ser
       <div class="tab-content">      
        <br/>
        <a href="/eng/Dr-Sabrina-Sun-He-And-Ms-Diana-Ser/"> <div class="btnvideo" style="font-size:16px;">
-    Watch video</div></a>
+   Watch Session</div></a>
   <br/>  <br/><br/>
   <div class="row">
  <div class="column">
