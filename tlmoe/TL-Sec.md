@@ -235,12 +235,12 @@ margin-left:25px;
  <h4 style="font-family:Anjal New InaiMathi Sch Book; font-size:28px; font-weight:bold; color:purple; text-align:left;">நோக்கம் </h4>
 <p style="font-family:Anjal New InaiMathi Sch Book; text-align:justify; font-size:24px;">தகுதி வாய்ந்த மாணவர்களைத் தமிழ்மொழியில் ஆற்றல் மிக்கவர்களாகவும் தமிழ் இலக்கியத்திலும் பண்பாட்டிலும் அவர்களுக்கிருக்கும் புரிந்துணர்வைப் பேணி வளர்க்கவும் இத்திட்டம் வகைசெய்யும். அதோடு, மாணவர்களை இருமொழியாற்றல் மிக்கவர்களாக உருவாக்குவதே இந்தத் திட்டத்தின் நோக்கமாகும்.
 </p><br/>
-<img src="/images/TL-Sec_Poster14.jpg">
+<img src="/images/TL-Sec_TLEP-Poster1.jpg">
    <br/>
   <a href="/exhibits/TL-Sec-tlep-jc-infosheet-students.pdf" target="_blank" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">TLEP Infosheet - Secondary</a>
   <a href="/exhibits/TL-Sec-tlep-jc-infosheet-students.pdf" target="_blank"  style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">TLEP Infosheet - JC</a>
    <br/>
- <img src="/images/TL-Sec_Poster13.jpg">  
+ <img src="/images/TL-Sec_TLEP-Poster2.jpg">  
 <br/><br/>
 
  <img src="/images/TL-Sec-Optional-Curriculum-Update.jpg"><br/>
