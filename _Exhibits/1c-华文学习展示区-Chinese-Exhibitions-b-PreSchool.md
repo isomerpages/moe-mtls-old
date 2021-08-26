@@ -89,7 +89,7 @@ background-color: lightgrey;!important;
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
       <label for="tab-5" class="lbCh"><span style="font-size:25px;font-family:KaiTi">母语学习-用全语言让母语活起来 <br/>
-       Creative O Preschoolers’ Bay</span></label>
+      新意元幼源 [Creative O Preschoolers’ Bay]</span></label>
       <div class="tab-content">
         <br/>
        <a href="/clmoe/Creative-O/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
