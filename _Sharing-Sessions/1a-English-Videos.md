@@ -233,7 +233,9 @@ Mdm Nie Bing</label>
  <div class="column">
 <img src="/images/EL-Dianne Seet.png" style="width:100%">
    </div>
-   <p> <strong>Mrs Dianne Seet </strong>
+   <p> <strong>Mrs Dianne Seet </strong><br/>
+    Principal<br/>
+    Ascension Kindergarten                             
 </p>
    </div>
    <br/>
