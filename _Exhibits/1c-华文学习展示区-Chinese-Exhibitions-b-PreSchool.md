@@ -143,7 +143,7 @@ background-color: lightgrey;!important;
     教育部幼儿园（培林）[MK@Punggol Green] </span></label>
       <div class="tab-content">
        <br/>
-       <a href="/clmoe/携手培养双语幼儿/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
+       <a href="/clmoe/携手培养幼儿双语学习的兴趣/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
         阅览展板</div></a>
   <br/>
 <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">携手培养幼儿双语学习的兴趣</h4>
