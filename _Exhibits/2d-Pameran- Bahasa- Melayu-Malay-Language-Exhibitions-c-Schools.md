@@ -85,7 +85,7 @@ background-color: lightgrey;!important;
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/Admiralty/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+    Lihat Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;"> Perkhemahan Bahasa & Budaya Melayu 2021</h4>
         <p style="margin:10px;">
@@ -109,7 +109,7 @@ background-color: lightgrey;!important;
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/Lakeside/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+    Lihat Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Bersedia, Mula, Menulis!</h4>
         <p style="margin:10px;">
@@ -136,7 +136,7 @@ background-color: lightgrey;!important;
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/Park-View/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+    Lihat Poster</div></a>
   <br/>
      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Pelajaran Lisan Kendiri  </h4>
       <p style="margin:10px;">
@@ -159,7 +159,7 @@ background-color: lightgrey;!important;
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/Queenstown/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+    Lihat Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Drama@QTSS (Drama dalam Pengajaran bagi Meningkatkan Pencapaian dan Motivasi Pelajar)</h4>
         <p style="margin:10px;">
