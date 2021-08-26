@@ -274,7 +274,7 @@ The Fund supports creative and engaging approaches to encourage bilingualism and
       <input id="tab-9" type="checkbox" name="tab">
       <label for="tab-9" class="lbCh"><span style="font-size:25px; font-family:KaiTi">新加坡动物园伴你读故事 <br/> 新加坡野生动物保育集团  [Wildlife Reserves Singapore] </span> </label>
       <div class="tab-content">
-          <a href="/clmoe/新加坡动物园/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi;">
+          <a href="/clmoe/新加坡野生动物保育集团/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi;">
     阅览展板</div></a>
   <br/>
 <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">新加坡动物园伴你读故事</h4>
