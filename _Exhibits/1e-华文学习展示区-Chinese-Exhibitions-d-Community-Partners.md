@@ -92,7 +92,7 @@ background-color: lightgrey;!important;
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1" class="lbCh"> <span style="font-size:25px; font-family:KaiTi;">推广华文学习委员会 <br/>推广华文学习委员会 [Committee to Promote Chinese Language Learning]</span></label>
       <div class="tab-content">
-          <a href="/clmoe/推广华文学习委员会/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi;">
+          <a href="/clmoe/推广华文学习委员会/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi;">
     阅览展板</div></a>
   <br/>
 <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">推广华文学习委员会</h4>
@@ -114,7 +114,7 @@ background-color: lightgrey;!important;
       <label for="tab-2" class="lbCh"> <span style="font-size:25px; font-family:KaiTi">滨海艺术中心 <br/>
           滨海艺术中心 [Esplanade - Theatres on the Bay]</span></label>
       <div class="tab-content">
-          <a href="/clmoe/Esplanade/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi;">
+          <a href="/clmoe/Esplanade/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi;">
     阅览展板</div></a>
   <br/>
 <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">滨海艺术中心</h4>
@@ -137,7 +137,7 @@ background-color: lightgrey;!important;
       <input id="tab-3" type="checkbox" name="tab">
       <label for="tab-3" class="lbCh"> <span style="font-size:25px; font-family:KaiTi">母语伴我行 <br/>李光耀双语基金 [Lee Kuan Yew Fund for Bilingualism]</span></label>
       <div class="tab-content">
-          <a href="/clmoe/李光耀双语基金/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi;">
+          <a href="/clmoe/李光耀双语基金/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi;">
     阅览展板</div></a>
   <br/>
 <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">母语伴我行</h4>
@@ -163,7 +163,7 @@ The Fund supports creative and engaging approaches to encourage bilingualism and
       <input id="tab-8" type="checkbox" name="tab">
       <label for="tab-8" class="lbCh"><span style="font-size:25px; font-family:KaiTi">华文“浆”好玩 <br/>新传媒 [Mediacorp]</span></label>
       <div class="tab-content">
-          <a href="/clmoe/新传媒/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi;">
+          <a href="/clmoe/新传媒/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi;">
     阅览展板</div></a>
   <br/>
  <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">华文“浆”好玩</h4>
@@ -184,7 +184,7 @@ The Fund supports creative and engaging approaches to encourage bilingualism and
       <input id="tab-4" type="checkbox" name="tab">
       <label for="tab-4" class="lbCh"> <span style="font-size:25px; font-family:KaiTi">欢迎大家与国家文物局一起通过文化遗产来认识母语 <br/> 国家文物局 [National Heritage Board]</span></label>
       <div class="tab-content">
-          <a href="/clmoe/国家文物局/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi;">
+          <a href="/clmoe/国家文物局/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi;">
     阅览展板</div></a>
   <br/>
  <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">欢迎大家与国家文物局一起通过文化遗产来认识母语</h4>
@@ -204,7 +204,7 @@ The Fund supports creative and engaging approaches to encourage bilingualism and
       <input id="tab-5" type="checkbox" name="tab">
       <label for="tab-5" class="lbCh"> <span style="font-size:25px; font-family:KaiTi">玩游戏，学词语！<br/> 新加坡国立教育学院[National Institute of Education] </span></label>
       <div class="tab-content">
-          <a href="/clmoe/新加坡国立教育学院/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi;">
+          <a href="/clmoe/新加坡国立教育学院/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi;">
     阅览展板</div></a>
   <br/>
 <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">玩游戏，学词语！</h4>
@@ -224,7 +224,7 @@ The Fund supports creative and engaging approaches to encourage bilingualism and
       <input id="tab-6" type="checkbox" name="tab">
       <label for="tab-6" class="lbCh"> <span style="font-size:25px; font-family:KaiTi">中文图书馆服务 <br/> 国家图书馆管理局  [National Library Board]</span></label>
       <div class="tab-content">
-          <a href="/clmoe/国家图书馆管理局/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi;">
+          <a href="/clmoe/国家图书馆管理局/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi;">
     阅览展板</div></a>
   <br/>
 <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">中文图书馆服务</h4>
@@ -250,7 +250,7 @@ The Fund supports creative and engaging approaches to encourage bilingualism and
       <input id="tab-7" type="checkbox" name="tab">
       <label for="tab-7" class="lbCh"><span style="font-size:25px; font-family:KaiTi">创新实用的研究  生动有趣的读本 <br/>新加坡华文教研中心 [Singapore Centre for Chinese Language]</span></label>
       <div class="tab-content">
-          <a href="/clmoe/新加坡华文教研中心/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi;">
+          <a href="/clmoe/新加坡华文教研中心/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi;">
     阅览展板</div></a>
   <br/>
 <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">创新实用的研究   生动有趣的读本</h4>
@@ -274,7 +274,7 @@ The Fund supports creative and engaging approaches to encourage bilingualism and
       <input id="tab-9" type="checkbox" name="tab">
       <label for="tab-9" class="lbCh"><span style="font-size:25px; font-family:KaiTi">新加坡动物园伴你读故事 <br/> 新加坡野生动物保育集团  [Wildlife Reserves Singapore] </span> </label>
       <div class="tab-content">
-          <a href="/clmoe/新加坡野生动物保育集团/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi;">
+          <a href="/clmoe/新加坡野生动物保育集团/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi;">
     阅览展板</div></a>
   <br/>
 <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">新加坡动物园伴你读故事</h4>
@@ -298,7 +298,7 @@ The Fund supports creative and engaging approaches to encourage bilingualism and
       <input id="tab-10" type="checkbox" name="tab">
     <label for="tab-10" class="lbCh"><span style="font-size:25px; font-family:KaiTi">读报从小开始 <br/>早报校园 [ZBSchools]</span></label>
       <div class="tab-content">
-          <a href="/clmoe/早报校园/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi;">
+          <a href="/clmoe/早报校园/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi;">
    阅览展板</div></a>
   <br/>
 <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">读报从小开始</h4>
