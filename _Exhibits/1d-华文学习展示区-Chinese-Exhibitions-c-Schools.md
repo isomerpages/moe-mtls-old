@@ -199,7 +199,6 @@ background-color: lightgrey;!important;
       <input id="tab-6" type="checkbox" name="tab">
       <label for="tab-6" class="lbCh"><span style="font-size:25px;font-family:KaiTi">说我所想 <br/> 胜宝旺小学 [Sembawang Primary School]</span></label>
       <div class="tab-content">
-          <br/>
 <a href="/clmoe/胜宝旺小学/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
     阅览展板</div></a>
   <br/>
