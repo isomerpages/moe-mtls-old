@@ -76,7 +76,7 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2"  class="lbTM" style="font-family:Anjal InaiMathi;">தாய்மொழி கற்றலுக்கு, தகவல் தொடர்புத் தொழில்நுட்பத்தின்வழி உயிர் கொடுப்போம்
+      <label for="tab-2"  class="lbTM" style="font-family:Anjal InaiMathi;">தகவல் தொடர்பு தொழில்நுட்பத்தின் வாயிலாக உயிரோட்டமான தாய்மொழி கற்றல்
           <br/>
           கல்வி அமைச்சின் பாலர் பள்ளி (ஃபெர்ன்வேல்) [MK@Fernvale]</label>
       <div class="tab-content">
