@@ -14,6 +14,8 @@ breadcrumb: 'Stor Atuk'
 </script>
 <a href="/exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-e/Community-Partners/" style="float:right;">Back</a>
  <img src="/images/MTLS2021-Mediacorp_ML_Final.jpg"> <br/>
+ Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM). <br/>
+ 
  <a href=" www.mewatch.sg/show/Stor-Atuk-194915 " target="_blank"><span style="font-size: 30px;">mewatch</span></a> <br/>
  Stor Atuk Trailer
   <div class="video-container">
