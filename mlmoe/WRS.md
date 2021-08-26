@@ -14,5 +14,6 @@ breadcrumb: 'Mari Bercerita Bersama Taman Haiwan Singapura'
 </script>
 <a href="/exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-e/Community-Partners/" style="float:right;">Back</a>
  <img src="/images/MTLS2021-WRS-ML-final.jpg"> <br/>
+ Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM).
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
