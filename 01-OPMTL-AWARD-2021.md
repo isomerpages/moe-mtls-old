@@ -109,7 +109,7 @@ PCF Sparkletots @ Boon Lay Blk 631 </center>
     </div>
   <div class="column">
 <img src="/images/Ms-Sharmila-Devi.png" style="width:100%">
- <p> <center> Ms Sharmila DeviD/O MutuManium <br/>
+ <p> <center> Ms Sharmila Devi  D/O Mutu Manium <br/>
   PCF Sparkletots @ Boon Lay Blk 262 </center></p>
     </div>
    </div>
