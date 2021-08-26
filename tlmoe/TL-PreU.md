@@ -110,8 +110,8 @@ margin-left:25px;
 
   gtag('config', 'AW-726049306');
 </script>
-<a href="/exhibits/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" class="btn" style="float:right;">Previous</a><br/>
-<img src="/images/TL-PreU-Header.jpg"><br/>
+<a href="/tlmoe/TL-Sec/" class="btn" style="float:left;">Previous</a><br/>
+<img src="/tlmoe/TL-PreU-Curriculum_Header.jpg"><br/>
  <a href="#C1" style="font-size:20px"><span style="color:blue;">தாய்மொழியின் இலக்கு
 </span></a><br/>
  <a href="#C2" style="font-size:20px"><span style="color:blue;">இலக்கியம்
@@ -254,7 +254,7 @@ margin-left:25px;
 </tr>
 </table>
   <br/>
-<p style="text-align:left;">இந்த &nbsp; இலக்கியங்களையும் &nbsp; அவற்றைப் &nbsp; படைத்த &nbsp; எழுத்தாளர்களையும் &nbsp; பற்றி &nbsp; மேலும் &nbsp; அறிந்திட &nbsp; பின்வரும் &nbsp; இணைப்புகளுக்குச் &nbsp; செல்லவும்.
+<p style="text-align:left;">இந்த &nbsp; இலக்கியங்களையும் &nbsp; அவற்றைப் &nbsp; படைத்த &nbsp; எழுத்தாளர்களையும்பற்றி &nbsp; மேலும் &nbsp; அறிந்துகொள்ள &nbsp; பின்வரும் &nbsp; இணைப்புகளுக்குச் &nbsp; செல்லவும்.
 </p>
  
  <center>
@@ -298,7 +298,7 @@ margin-left:25px;
  <li style="text-align:justify;"><strong>தேசியத் தொடக்கக்கல்லூரி
  </strong></li><br/>
 </ul>
-  <img src="/tlmoe/TL-PreU_Poster09.jpg"><br/>
+  <img src="/tlmoe/TL-PreU_TLEP-Poster.jpg"><br/>
   <a href="/tlmoe/tlep-jc_infosheet_students.pdf" target="_blank">TLEP JC Infosheet</a> &nbsp; 
   <a href="/tlmoe/tlep-sec-infosheet-students-2019.pdf" target="_blank">TLEP Sec Infosheet</a>
  <br/><br/>
@@ -309,11 +309,12 @@ margin-left:25px;
  <br/><br/>
 <img src="/images/TL JC_Header06.png" align="left" style="width:50%;">
 <img src="/images/TL JC_Header12.png">
-<p style="text-align:left;">தமிழ்மொழி &nbsp; விருப்பப்பாடத்திட்டம் &nbsp; செயற்குழு &nbsp; ஏற்பாடு &nbsp; செய்த &nbsp; தமிழ்மொழி &nbsp; முகாம் &nbsp; டிசம்பர் &nbsp; 5-ஆம் &nbsp; தேதி &nbsp; சிறப்பாக &nbsp; நடந்தேறியது. &nbsp; இந்நிகழ்ச்சியில் &nbsp; விருப்பப்பாடத்திட்டத்தை &nbsp; வழங்கும் &nbsp; இரண்டு &nbsp; கல்லூரிகளைச் &nbsp; சேர்ந்த &nbsp; மாணவர்கள் &nbsp; பங்கெடுத்து &nbsp; பயனடைந்தனர். &nbsp; அந்நிகழ்ச்சி &nbsp; முக்கிய &nbsp; நிகழ்வுகளைத் &nbsp; தொகுத்து &nbsp; வழங்கும் &nbsp; ஒளிக்காட்சி.</p>
-
+<p style="text-align:left; margin-top:-12px;">தமிழ்மொழி &nbsp; விருப்பப்பாடத்திட்டம் &nbsp; செயற்குழு &nbsp; ஏற்பாடு &nbsp; செய்த &nbsp; தமிழ்மொழி &nbsp; முகாம் &nbsp; டிசம்பர் &nbsp; 5-ஆம் &nbsp; தேதி &nbsp; சிறப்பாக &nbsp; நடந்தேறியது. &nbsp; இந்நிகழ்ச்சியில் &nbsp; விருப்பப்பாடத்திட்டத்தை &nbsp; வழங்கும் &nbsp; இரண்டு &nbsp; கல்லூரிகளைச் &nbsp; சேர்ந்த &nbsp; மாணவர்கள் &nbsp; பங்கெடுத்து &nbsp; பயனடைந்தனர்.</p>
+<br/>
 <img src="/images/TL PreU_Image05.jpg"><br/>
 <img src="/images/TL JC_Header11.png" align="left" style="width:50%;">
 <img src="/tlmoe/TL-PreU_Poster10.jpg">
+<img src="/tlmoe/NJC Poster.jpg">
   <br/>
  
  <h4 id="C7"><img src="/images/TL JC_Header04.png"></h4>

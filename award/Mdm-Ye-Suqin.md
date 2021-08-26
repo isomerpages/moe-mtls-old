@@ -21,8 +21,8 @@ max-width:100%;
   gtag('config', 'AW-726049306');
 </script>
   <body> 
-  <a href="/opmtl-award-2020/" style="float:right;">Back</a>
-   <img src="/images/Mdm-Ye-Suqin.jpg" style="width:100%">
+  <a href="/opmtl-award-2021/" style="float:right;">Back</a>
+   <img src="/images/MTLS_OPMTL_Awards v6_Ye Suqin Website.jpg" style="width:100%">
     <br/>
     <h4 style="font-family:KaiTi;">感言：</h4>
     <p style="font-family:KaiTi; font-size:25px; text-align:justify">

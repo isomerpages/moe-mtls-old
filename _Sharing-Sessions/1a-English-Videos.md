@@ -113,12 +113,12 @@ background-color: lightgrey;!important;
  <div class="atab atab3Line" >
      <input id="tab-01" type="checkbox" name="tab">
       <label for="tab-01" class="lbeng">Live Panel Discussion <br/>
-       'Sparking Rich Conversation with Young Children in Mother Tongue Language' (Live!) 
-       <br/>[11.00am - 12.00pm] <br/></label>
+       'Sparking Rich Conversations with Young Children in Mother Tongue Language' (Live!) 
+       <br/>[Livestreaming on 28 August from 11.00am to 12.00pm] <br/></label>
  <div class="tab-content">      
        <br/>
   <a href="/eng/Panel-Discussion/"> <div class="btnvideo" style="font-size:16px;">
-    Watch video</div></a>
+    Watch Session</div></a>
   <br/>
    <h4 style="padding-top:12px;margin:10px;color:#fa0;">Panelists</h4>
   <br/>
@@ -208,6 +208,11 @@ Presenter<br/> CNA<br/>
   <h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4>
 <p style="margin:10px;">Ms Otelli Edwards has worked in various Mediacorp companies starting as a sports journalist and producing and hosting nightly news shows. She has also produced current affairs and news programmes for Mediacorp’s news radio station, 93.8 LIVE. Prior to joining CNA, she was a feature writer  with Her World magazine and has interviewed high-flying women. She is a mother of five-year-old twin boys. </p>
               <br/>
+  <h4 style="padding-top:12px;margin:10px;color:#fa0;">Synopsis </h4>
+  <p style="margin:10px;">The language environment can have a large impact on the development of a child’s language skills. For children to develop fluency in their Mother Tongue Language, it is vital that they use the language to interact and communicate with others in every environment, be it at home, school or in the community. This early experience in actively using the language plays a critical role in a child’s language development, both socially and psychologically.
+</p>
+   <p style="margin:10px;">Language learning is a social process. Research has shown that in order to have strong language skills later in life, a person should develop and use their Mother Tongue Language while young and continue through to adulthood. This not only helps them to communicate well with people, but it also helps connect them to their culture and heritage. Frequent and regular adult-child engagement during the early years is associated with better language comprehension, anearlier achievement of language milestones and overall faster growth of language skills.</p>
+   <p style="margin:10px;">Come join us for apanel discussion betweenour Minister for Education, Mr Chan Chun Sing and advocators of Mother Tongue Language learning, including academics, educators, community partner and celebrity parent. They will discuss the importance of providing alanguage rich environment foryoung children through talking, singing and reading, and also how to create ample opportunities throughout their day to communicate with others and engage in conversations. The panel will be moderated by Minister of State (Ministry of Education and Ministry of Social and Family Development), Ms Sun Xueling.</p>  
 </div></div> </td>
 <td style="border:0 none;padding: 0;" class="btnImg">
   </td>
@@ -216,14 +221,15 @@ Presenter<br/> CNA<br/>
 <td style="border:0 none;padding: 0; margin:0;">
  <div class="atab atab3Line" >
      <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbeng">Learning Mother Tongue is Cool at Home and in School too! - Strategies to Motivate Children to Love MTL   
+      <label for="tab-1" class="lbeng">Learning Mother Tongue is Cool at Home and in School too! - Strategies to Motivate Children to Love MTL <br/>
+       [Livestreaming on 28 August from 5.30pm to 6.30pm]
        <br/>Mrs Dianne Seet <br/>
 Mdm Nie Bing</label>
 <div class="tab-content">      
        <br/>
- <a href="/eng/Panel-Discussion/"> <div class="btnvideo" style="font-size:16px;">
-    Watch video</div></a>
-  <br/>
+ <a href="/eng/Mrs-Dianne-Seet-And-Mdm-Nie-Bing/"> <div class="btnvideo" style="font-size:16px;">
+    Watch Session</div></a>
+  <br/>  <br/><br/>
   <div class="row">
  <div class="column">
 <img src="/images/EL-Dianne Seet.png" style="width:100%">
@@ -262,8 +268,8 @@ Mdm Nie Bing has 17 years of pre-school education experience and has taught in A
 </label>
       <div class="tab-content">      
        <br/>
-       <a href="/eng/Panel-Discussion/"> <div class="btnvideo" style="font-size:16px;">
-    Watch video</div></a>
+       <a href="/eng/Leher-Singh/"> <div class="btnvideo" style="font-size:16px;">
+    Watch Session</div></a>
   <br/>
 
   <div class="row">
@@ -285,55 +291,6 @@ Mdm Nie Bing has 17 years of pre-school education experience and has taught in A
 <td style="border:0 none;padding: 0;" class="btnImg">
 </td>
 </tr>
-
-<tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab atab3Line">
-      <input id="tab-3" type="checkbox" name="tab">
-      <label class="lbeng" for="tab-3">Raising a Bilingual Reader: Top Practical Tips for Parents<br/> Dr Sabrina Sun He <br/>
-Ms Diana Ser
-</label>
-      <div class="tab-content">      
-       <br/>
-       <a href="/eng/Panel-Discussion/"> <div class="btnvideo" style="font-size:16px;">
-    Watch video</div></a>
-  <br/>
-  <div class="row">
- <div class="column">
-<img src="/images/CL-Dr Sabrina Sun He.png" style="width:100%">
-   </div>
-   <p> <strong>  Dr Sabrina Sun He </strong>
-</p>
-   </div>
-       <br/>
-       <div class="row">
- <div class="column">
-<img src="/images/CL-Diana Ser.png" style="width:100%">
-   </div>
-   <p> <strong>  Ms Diana Ser </strong>
-</p>
-   </div>
-       <h4 style="padding-top:12px;margin:10px;color:#fa0;">Raising a Bilingual Reader: Top Practical Tips for Parents</h4>
-       <p><h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4></p>
-       <p style="margin:10px;">Dr. Sabrina Sun He is a research scientist at the National Institute of Education, Nanyang Technological University, Singapore . Her research interests include: 1) Child Mother Tongue Language learning and e-book reading for children, 2) individual differences in early bilingualism, and 3) harmonious bilingual experience. Her research explores how cognition and environment co-shape the developmental rate and route of early bilingualism, and how the bilingual experience influences children’s social-emotional skills and executive function.</p>
- 
-  <p><h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4></p>
-       <p style="margin:10px;">Ms Diana Ser has more than 20 years of experience in the media industry, spanning both English and Chinese language media. She started out as an entertainment presenter, before crossing over to newspaper writing in 2000. A firm believer in bilingual education,  Ms Diana started a digital platform, Crazy About Chinese, in 2017 to advocate early childhood learning of Mother Tongue Language. </p>
- <p><h4 style="padding-top:12px;margin:10px;color:#fa0;">Synopsis</h4></p>  
-       <p style="margin:10px;">Parents understand that reading lays the foundation for language learning, but to do it effectively in a fun and engaging manner poses a challenge for most parents. This session gives parents tips on nurturing a bilingual reader from 0 to 6 years old on:</p>
-       <ul>
- <li>	HOW to read effectively to my child?</li>
-  <li>	WHAT tools to use - Are electronic storybooks better? Or does nothing beat an old school picture book?</li>
-  <li>	WHEN to start reading to my child?</li>
-  <li>	WHAT to do if my Chinese language proficiency is not good enough?	</li>
-</ul>
-   <p style="margin:10px;"> With a special interest in teaching with paper and electronic storybooks, NIE research scientist Dr Sun He will share research-based top tips to get parents started with reading to your child. As a mother of three, bilingual TV presenter Diana will share her own experience and challenges of getting her kids to love the Chinese language.     
-</p>  
- </div></div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg">
-</td>
-</tr>
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
  <div class="atab atab3Line" >
@@ -342,9 +299,9 @@ Ms Diana Ser
 Mr Jaya Ganesh Isuran</label>
   <div class="tab-content">      
        <br/>
-   <a href="/eng/Panel-Discussion/"> <div class="btnvideo" style="font-size:16px;">
-    Watch video</div></a>
-  <br/>
+   <a href="/eng/Dr-Nirmala-Karuppiah-And-Mr-Jaya-Ganesh-Isuran/"> <div class="btnvideo" style="font-size:16px;">
+   Watch Session</div></a>
+  <br/>  <br/><br/>
   <div class="row">
  <div class="column">
 <img src="/images/TL-Dr Karuppiah Nirmala.png" style="width:100%">
@@ -374,6 +331,53 @@ Mr Jaya Ganesh Isuran is a very familiar face in the entertainment industry, kno
 </div></div> </td>
 <td style="border:0 none;padding: 0;" class="btnImg">
   </td>
+</tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab atab3Line">
+      <input id="tab-3" type="checkbox" name="tab">
+      <label class="lbeng" for="tab-3">Raising a Bilingual Reader: Top Practical Tips for Parents<br/> Dr Sabrina Sun He <br/>
+Ms Diana Ser
+</label>
+      <div class="tab-content">      
+       <br/>
+       <a href="/eng/Dr-Sabrina-Sun-He-And-Ms-Diana-Ser/"> <div class="btnvideo" style="font-size:16px;">
+   Watch Session</div></a>
+  <br/>  <br/><br/>
+  <div class="row">
+ <div class="column">
+<img src="/images/CL-Dr Sabrina Sun He.png" style="width:100%">
+   </div>
+   <p> <strong>  Dr Sabrina Sun He </strong>
+</p>
+   </div>
+       <br/>
+       <div class="row">
+ <div class="column">
+<img src="/images/CL-Diana Ser.png" style="width:100%">
+   </div>
+   <p> <strong>  Ms Diana Ser </strong>
+</p>
+   </div>
+       <h4 style="padding-top:12px;margin:10px;color:#fa0;">Raising a Bilingual Reader: Top Practical Tips for Parents</h4>
+       <p><h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4></p>
+       <p style="margin:10px;">Dr. Sabrina Sun He is a research scientist at the National Institute of Education, Nanyang Technological University, Singapore . Her research interests include: 1) Child Mother Tongue Language learning and e-book reading for children, 2) individual differences in early bilingualism, and 3) harmonious bilingual experience. Her research explores how cognition and environment co-shape the developmental rate and route of early bilingualism, and how the bilingual experience influences children’s social-emotional skills and executive function.</p>
+ <p><h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4></p>
+       <p style="margin:10px;">Ms Diana Ser has more than 20 years of experience in the media industry, spanning both English and Chinese language media. She started out as an entertainment presenter, before crossing over to newspaper writing in 2000. A firm believer in bilingual education,  Ms Diana started a digital platform, Crazy About Chinese, in 2017 to advocate early childhood learning of Mother Tongue Language. </p>
+ <p><h4 style="padding-top:12px;margin:10px;color:#fa0;">Synopsis</h4></p>  
+       <p style="margin:10px;">Parents understand that reading lays the foundation for language learning, but to do it effectively in a fun and engaging manner poses a challenge for most parents. This session gives parents tips on nurturing a bilingual reader from 0 to 6 years old on:</p>
+       <ul>
+ <li>	HOW to read effectively to my child?</li>
+  <li>	WHAT tools to use - Are electronic storybooks better? Or does nothing beat an old school picture book?</li>
+  <li>	WHEN to start reading to my child?</li>
+  <li>	WHAT to do if my Chinese language proficiency is not good enough?	</li>
+</ul>
+   <p style="margin:10px;"> With a special interest in teaching with paper and electronic storybooks, NIE research scientist Dr Sun He will share research-based top tips to get parents started with reading to your child. As a mother of three, bilingual TV presenter Diana will share her own experience and challenges of getting her kids to love the Chinese language.     
+</p>  
+ </div></div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg">
+</td>
 </tr>
 </table>
 <hr>

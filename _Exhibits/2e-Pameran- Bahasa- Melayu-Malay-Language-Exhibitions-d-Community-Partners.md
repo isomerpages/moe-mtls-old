@@ -6,7 +6,7 @@ collection_name: Exhibits
 third_nav_title: 'Pameran Bahasa Melayu'
 ---
 
-<h2 style="padding-top:12px;color:#a3c864;">Rakan Kerjasama Masyarakat</h2>
+
 <html>
 <head>
 <style>
@@ -77,17 +77,20 @@ background-color: lightgrey;!important;
 </script>
 </head>
 <body>
+    <img src="/images/MTLS2021_Challenge_ML.jpg" style="width:100%">
+   <br/>
+<div><h2 style="padding-top:12px;color:#a3c864;">Rakan Kerjasama Masyarakat</h2></div>
      <br/>
   <table class="tbl">
 <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbML">Esplanade – Teater di Persisiran<br/>Esplanade - Theatres on the Bay</label>
+      <label for="tab-2" class="lbML">Esplanade – Teater di Persisiran<br/>Esplanade – Teater di Persisiran [Esplanade - Theatres on the Bay]</label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+<a href="/mlmoe/Esplanade-Teater-di-Persisiran/"> <div class="btnvideo" style="font-size:16px;">
+    Lihat Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Esplanade – Teater di Persisiran</h4>
        <p style="margin:10px;">Sebagai pusat persembahan seni kebangsaan Singapura, Esplanade – Teater di Persisiran ingin memastikan setiap lapisan masyarakat berpeluang untuk menikmati karya seni.<br/><br/>
@@ -106,23 +109,23 @@ Para pelajar juga berpeluang untuk mengetahui pelbagai bentuk seni secara dalam 
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
       <label for="tab-3" class="lbML">Bahasa Ibundaku, Teman Sejatiku
-<br/>Lee Kuan Yew Fund for Bilingualism</label>
+<br/>Dana Kedwibahasaan Lee Kuan Yew [Lee Kuan Yew Fund for Bilingualism]</label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+<a href="/mlmoe/LKYFB/"> <div class="btnvideo" style="font-size:16px;">
+    Lihat Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Bahasa Ibundaku, Teman Sejatiku</h4>
         <p style="margin:10px;">
                 Penubuhan Dana Kedwibahasaan Lee Kuan Yew diumumkan sewaktu pelancaran buku Encik Lee Kuan Yew, “My Lifelong Challenge: Singapore’s Bilingual Journey” pada tahun 2011.<br/><br/>
 Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggalakkan kedwibahasaan dan pembelajaran bahasa ibunda sebagai bahasa yang hidup. Dengan menyokong pelbagai bahan dan program pembelajaran, dana ini berperanan sebagai pemangkin pembelajaran dan penggunaan bahasa ibunda.<br/><br/>
-            Bahan-bahan sokongan dana kedwibahasaan yang bertujuan untuk menyokong pembelajaran kanak-kanak boleh diakses melalui saluran YouTube dan lelaman sosial Facebook dan Instagram Dana Kedwibahasaan Lee Kuan Yew.
+            Bahan-bahan sokongan yang bertujuan untuk menyokong pembelajaran kanak-kanak boleh diakses melalui saluran YouTube dan lelaman sosial Facebook dan Instagram Dana Kedwibahasaan Lee Kuan Yew.
 </p>
 <br/>
 <h4 style="padding-top:12px;margin:10px;color:#a3c864;">My Mother Tongue, My Companion</h4>
         <p style="margin:10px;">
-        The establishment of the Lee Kuan Yew Fund for Bilingualism was announced by Mr Lee Kuan Yew at the launch of My Lifelong Challenge: Singapore’s Bilingual Journey in 2011.<br/><br/>
-    The Fund supports creative and engaging approaches to encourage bilingualism and the learning of Mother Tongue Languages (MTLs) as living languages. The fund acts as a catalyst in supporting the learning and in the usage of MTLs through various fund-supported resources and programmes. Fun and interesting videos that support the learning of MTLs for young children can be accessed through platforms such as the Fund’s official YouTube channel, Facebook and Instagram.</p>
+        The establishment of the Lee Kuan Yew Fund for Bilingualism was announced by Mr Lee Kuan Yew at the launch of the book "My Lifelong Challenge: Singapore’s Bilingual Journey" in 2011.<br/><br/>
+    The Fund supports creative and engaging approaches to encourage bilingualism and the learning of Mother Tongue Languages (MTLs) as living languages. The Fund acts as a catalyst in supporting the learning and in the usage of MTLs through various fund-supported resources and programmes. Fun and interesting videos that support the learning of MTLs for young children can be accessed through platforms such as the Fund’s official YouTube channel, Facebook and Instagram.</p>
       </div>
 </div>
 </td>
@@ -132,12 +135,60 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
   <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbML"> Stor Atuk<br/> Mediacorp</label>
+      <input id="tab-10" type="checkbox" name="tab">
+      <label for="tab-10" class="lbML">Membesar Bersama Bahasa<br/>Pusat Bahasa Melayu Singapura [Malay Language Centre of Singapore]</label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+<a href="/mlmoe/MLCS/"> <div class="btnvideo" style="font-size:16px;">
+    Lihat Poster</div></a>
+  <br/>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Membesar Bersama Bahasa</h4>
+        <p style="margin:10px;">
+         Pusat Bahasa Melayu Singapura (MLCS) akan mempamerkan dua pakej yang bertujuan untuk meningkatkan pembelajaran bahasa Melayu. Pakej pertama merupakan pakej ‘Mari Membaca’ yang disasarkan untuk murid tadika dan peringkat sekolah rendah. Pakej ini mengandungi kad-kad imbasan yang boleh digunakan untuk membantu murid-murid mengeja dan menyebut perkataan-perkataan mengikut kategori. Pakej kedua merupakan Aplikasi ICT interaktif seperti Aplikasi Pintar Kata, Aplikasi Pintar Peribahasa, Aplikasi Cerita-cerita Rakyat Nusantara, Aplikasi Legenda Singapura dan Aplikasi Bitara Kata. Aplikasi-aplikasi ini akan memberikan pengalaman pembelajaran maya yang unik dengan cara yang menyeronokkan.
+        </p><br/>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Growing Up with Language </h4>
+        <p style="margin:10px;">
+ The Malay Language Centre of Singapore (MLCS) will showcase two packages that enhance the learning of Malay. The first package entitled “Let’s Read” is targeted at kindergarten and lower primary students. The package contains flashcards that teach students to spell and pronounce categorised words. The second package is the interactive ICT apps developed by MLCS, including “Smart Vocabulary”, “Smart in Proverbs”, “Folktales of the Malay Archipelago”, “Legend of Singapore” and “Unique Vocabulary”. These apps will provide students with engaging and enjoyable virtual learning experiences.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg17">
+</td>
+</tr>   
+     <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-5" type="checkbox" name="tab">
+      <label for="tab-5" class="lbML">Mari terokai bahasa dan budaya masyarakat Melayu bersama-sama Nabil dan Nabilah  <br/>Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu [Malay Language Learning Promotion Committee]</label>
+      <div class="tab-content">
+          <br/>
+<a href="/mlmoe/MLLPC/"> <div class="btnvideo" style="font-size:16px;">
+    Lihat Poster</div></a>
+  <br/>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari terokai bahasa dan budaya masyarakat Melayu bersama-sama Nabil dan Nabilah 
+</h4>
+        <p style="margin:10px;">
+         Mari terokai bahasa dan budaya masyarakat Melayu bersama Nabil dan Nabilah!<br/><br/>
+            Ikuti Siri Nabil dan Nabilah menerokai pengalaman menggunakan sajak, pantun, lagu, budaya dan bahasa yang  merupakan warisan orang Melayu. Melalui pengalaman Nabil dan Nabilah, peserta dapat mengenali keindahan dan kekayaan budaya dan bahasa Melayu.  Pengalaman yang disediakan ini bertujuan untuk melestari dan meningkatkan penggunaan bahasa Melayu serta pengetahuan budaya dalam kalangan kanak-kanak dan orang dewasa dalam interaksi seharian mereka.  
+        </p><br/>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Let’s Explore Malay Language and Culture With Nabil and Nabilah!</h4>
+       <p style="margin:10px;">Follow Nabil and Nabilah in their exploration of the linguistic and cultural heritage of the Malays. As they undertake quests to learn vocabulary, poetry and songs, participants will discover the beauty and richness of culture and language and will be motivated to use Malay in their daily interactions.</p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg23">
+ </td>
+</tr>  
+ <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-1" type="checkbox" name="tab">
+      <label for="tab-1" class="lbML"> Stor Atuk<br/> [Mediacorp]</label>
+      <div class="tab-content">
+          <br/>
+<a href="/mlmoe/Mediacorp/"> <div class="btnvideo" style="font-size:16px;">
+    Lihat Poster</div></a>
   <br/>
       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Stor Atuk</h4>
       <p style="margin:10px;">
@@ -152,20 +203,20 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
     </td>
 <td style="border:0 none;padding: 0;" class="btnImg17" >
 </td>
-</tr>
-      <tr>
+</tr>     
+<tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
-    <label for="tab-6" class="lbML">Kenali bahasa ibunda menerusi warisan dan budaya bersama Lembaga Warisan Negara (NHB)!<br/>National Heritage Board</label>
+    <label for="tab-6" class="lbML">Kenali bahasa ibunda menerusi warisan dan budaya(NHB)!<br/>Lembaga Warisan Negara [National Heritage Board]</label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+<a href="/mlmoe/NHB/"> <div class="btnvideo" style="font-size:16px;">
+    Lihat Poster</div></a>
   <br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Kenali bahasa ibunda menerusi warisan dan budaya bersama Lembaga Warisan Negara (NHB)!</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Kenali bahasa ibunda menerusi warisan dan budaya</h4>
 <p style="margin:10px;">
-          Kenali Bahasa Ibunda dengan menelusuri warisan dan budaya bersama Lembaga Warisan Negara (NHB)!<br/><br/>
+          Kenali bahasa ibunda dengan menelusuri warisan dan budaya bersama Lembaga Warisan Negara (NHB)!<br/><br/>
 Mari ketahui program-program, tip-tip bahasa dan bahan-bahan yang dihasilkan oleh Kempen Bertutur Mandarin, Majlis Bahasa Melayu Singapura dan Majlis Bahasa Tamil dengan lebih lanjut.<br/><br/>
 Dapatkanlah maklumat tentang institusi-institusi warisan seperti Pusat Warisan India, Taman Warisan Melayu dan Dewan Peringatan Nanyang Sun Yat Sen.<br/><br/>
     Melalui pameran ini, ibu bapa berpeluang mengetahui pembelajaran yang disediakan untuk anak-anak mereka dengan lebih lanjut. Para guru dan pendidik pula berpeluang menimba ilmu tentang cara-cara memperluas pembelajaran di luar darjah.
@@ -182,11 +233,11 @@ Dapatkanlah maklumat tentang institusi-institusi warisan seperti Pusat Warisan I
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
-      <label for="tab-7" class="lbML">Bijak Kata!<br/>National Institute of Education  </label>
+      <label for="tab-7" class="lbML">Bijak Kata!<br/>Institut Pendidikan Nasional [National Institute of Education] </label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+<a href="/mlmoe/NIE/"> <div class="btnvideo" style="font-size:16px;">
+    Lihat Poster</div></a>
   <br/>
          <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Bijak Kata!</h4>
         <p style="margin:10px;">
@@ -211,11 +262,11 @@ Dapatkanlah maklumat tentang institusi-institusi warisan seperti Pusat Warisan I
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-8" type="checkbox" name="tab">
-      <label for="tab-8" class="lbML">Perkhidmatan Perpustakaan Bahasa Melayu<br/>National Library Board</label>
+      <label for="tab-8" class="lbML">Perkhidmatan Perpustakaan Bahasa Melayu<br/>Lembaga Perpustakaan Nasional [National Library Board]</label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+<a href="/mlmoe/NLB/"> <div class="btnvideo" style="font-size:16px;">
+    Lihat Poster</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Perkhidmatan Perpustakaan Bahasa Melayu</h4>
         <p style="margin:10px;">
@@ -230,37 +281,15 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
 <td style="border:0 none;padding: 0;" class="btnImg17">
 </td>
  </tr>
-<tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-9" type="checkbox" name="tab">
-      <label for="tab-9" class="lbML">Mari Bercerita Bersama Taman Haiwan Singapura <br/> Wildlife Reserves Singapore  </label>
-      <div class="tab-content">
-          <br/>
-<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
-  <br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari Bercerita Bersama Taman Haiwan Singapura</h4>
-        <p style="margin:10px;">
-          Taman Haiwan Singapura menawarkan pelbagai cerita haiwan unik yang boleh digunakan untuk meningkatkan kemahiran bercerita kanak-kanak. Salah satunya ialah cerita tentang memerang yang diselamatkan dalam buku yang bertajuk ‘Si Memerang Terjerat!’.  Buku ini dilengkapi dengan panduan untuk para guru dan  ibu bapa serta aktiviti untuk kanak-kanak. Aktiviti saranan ini dapat memperkasa kemahiran bercerita yang berimaginasi untuk kanak-kanak prasekolah. Aktiviti bercerita yang menyeronokkan dapat memperkaya kosa kata dan menggalakkan kreativiti. Taman Haiwan Singapura juga menyediakan video dan gambar-gambar daripada pakej menjejaki taman haiwan yang dibina untuk murid-murid agar dapat mengasah kemahiran berkomunikasi mereka. 
-        </p><br/>
-      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Storytime with Singapore Zoo</h4>
-       <p style="margin:10px;">Singapore Zoo offers unique animal stories that can help develop children’s literacy skills. One such story is about a rescued otter, told through a wordless book, Little Otter Litter Trouble. This book comes with an activity guide for teachers and parents to empower preschoolers to become imaginative storytellers. Storytelling is an engaging way to enrich vocabulary and promote creativity.  Also available are the videos and photographs featured in our zoo trails which are designed for primary school students to provide them the opportunity to speak the language and can sharpen their communication skills.</p>
-</div>
-</div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg17">
-</td>
-</tr>
-      <tr>
+  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-      <label for="tab-4" class="lbML"> Kelas Matematika M<sup>3</sup> @ Nee Soon <br/>  PA MESRA   (M<sup>3</sup>)@ Nee Soon</label>
+      <label for="tab-4" class="lbML"> Kelas Matematika M<sup>3</sup> @ Nee Soon <br/>  PA MESRA [M3@NeeSoon]</label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+<a href="/mlmoe/M3@NeeSoon/"> <div class="btnvideo" style="font-size:16px;">
+    Lihat Poster</div></a>
   <br/>
           <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Kelas Matematika M<sup>3</sup> @ Nee Soon</h4>
         <p style="margin:10px;text-align:justify;">
@@ -275,56 +304,29 @@ National Library Board promotes and nurtures lifelong reading in the Mother Tong
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg17">
  </td>
-</tr>
-       <tr>
+</tr> 
+<tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
-      <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5" class="lbML">Mari terokai bahasa dan budaya masyarakat Melayu bersama-sama Nabil dan Nabilah  <br/>Malay Language Learning Promotion Committee</label>
+      <input id="tab-9" type="checkbox" name="tab">
+      <label for="tab-9" class="lbML">Mari Bercerita Bersama Taman Haiwan Singapura <br/> [Wildlife Reserves Singapore (WRS)] </label>
       <div class="tab-content">
           <br/>
-<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+<a href="/mlmoe/WRS/"> <div class="btnvideo" style="font-size:16px;">
+    Lihat Poster</div></a>
   <br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari terokai bahasa dan budaya masyarakat Melayu bersama-sama Nabil dan Nabilah 
-</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari Bercerita Bersama Taman Haiwan Singapura</h4>
         <p style="margin:10px;">
-         Mari terokai bahasa dan budaya masyarakat Melayu bersama Nabil dan Nabilah!<br/><br/>
-            Ikuti Siri Nabil dan Nabilah menerokai pengalaman menggunakan sajak, pantun, lagu, budaya dan bahasa yang  merupakan warisan orang Melayu. Melalui pengalaman Nabil dan Nabilah, peserta dapat mengenali keindahan dan kekayaan budaya dan bahasa Melayu.  Pengalaman yang disediakan ini bertujuan untuk melestari dan meningkatkan penggunaan bahasa Melayu serta pengetahuan budaya dalam kalangan kanak-kanak dan orang dewasa dalam interaksi seharian mereka.  
+          Taman Haiwan Singapura menawarkan pelbagai cerita haiwan unik yang boleh digunakan untuk meningkatkan kemahiran bercerita kanak-kanak. Salah satunya ialah cerita tentang memerang yang diselamatkan dalam buku yang bertajuk ‘Si Memerang Terjerat!’.  Buku ini dilengkapi dengan panduan untuk para guru dan  ibu bapa serta aktiviti untuk kanak-kanak. Aktiviti saranan ini dapat memperkasa kemahiran bercerita yang berimaginasi untuk kanak-kanak prasekolah. Aktiviti bercerita yang menyeronokkan dapat memperkaya kosa kata dan menggalakkan kreativiti. Taman Haiwan Singapura juga menyediakan video dan gambar-gambar daripada pakej menjejaki taman haiwan yang dibina untuk murid-murid agar dapat mengasah kemahiran berkomunikasi mereka. 
         </p><br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Let’s Explore Malay Language and Culture With Nabil and Nabilah!</h4>
-       <p style="margin:10px;">Follow Nabil and Nabilah in their exploration of the linguistic and cultural heritage of the Malays. As they undertake quests to learn vocabulary, poetry and songs, participants will discover the beauty and richness of culture and language and will be motivated to use Malay in their daily interactions.</p>
-      </div>
+      <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Storytime with Singapore Zoo</h4>
+       <p style="margin:10px;">Singapore Zoo offers unique animal stories that can help develop children’s literacy skills. One such story is about a rescued otter, told through a wordless book, Little Otter Litter Trouble. This book comes with an activity guide for teachers and parents to empower preschoolers to become imaginative storytellers. Storytelling is an engaging way to enrich vocabulary and promote creativity.  Also available are the videos and photographs featured in our zoo trails which are designed for primary school students to provide them the opportunity to speak the language and can sharpen their communication skills.</p>
 </div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg23">
- </td>
-</tr>
-        <tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-10" type="checkbox" name="tab">
-      <label for="tab-10" class="lbML">Membesar Bersama Bahasa<br/>Malay Language Centre of Singapore</label>
-      <div class="tab-content">
-          <br/>
-<a href="/mlmoe/Berita-Harian/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
-  <br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Membesar Bersama Bahasa</h4>
-        <p style="margin:10px;">
-         Pusat Bahasa Melayu Singapura (MLCS) akan mempamerkan dua pakej yang bertujuan untuk meningkatkan pembelajaran bahasa Melayu. Pakej pertama merupakan pakej ‘Mari Membaca’ yang disasarkan untuk murid tadika dan peringkat sekolah rendah. Pakej ini mengandungi kad-kad imbasan yang boleh digunakan untuk membantu murid-murid mengeja dan menyebut perkataan-perkataan mengikut kategori. Pakej kedua merupakan Aplikasi ICT interaktif seperti Aplikasi Pintar Kata, Aplikasi Pintar Peribahasa, Aplikasi Cerita-cerita Rakyat Nusantara, Aplikasi Legenda Singapura dan Aplikasi Bitara Kata. Aplikasi-aplikasi ini akan memberikan pengalaman pembelajaran maya yang unik dengan cara yang menyeronokkan.
-        </p><br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Growing Up with Language </h4>
-        <p style="margin:10px;">
- The Malay Language Centre of Singapore (MLCS) will showcase two packages that enhance the learning of Malay. The first package entitled “Let’s Read” is targeted at kindergarten and lower primary students. The package contains flashcards that teach students to spell and pronounce categorised words. The second package is the interactive ICT apps developed by MLCS, including “Smart Vocabulary”, “Smart in Proverbs”, “Folktales of the Malay Archipelago”, “Legend of Singapore” and “Unique Vocabulary”. These apps will provide students with engaging and enjoyable virtual learning experiences.
-        </p>
-      </div>
 </div>
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg17">
 </td>
-</tr>   
-
+</tr>
  </table>
 <hr>
 <div class="image">

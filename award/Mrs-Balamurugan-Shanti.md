@@ -22,8 +22,8 @@ max-width:100%;
   gtag('config', 'AW-726049306');
 </script>
   <body> 
-  <a href="/opmtl-award-2020/" style="float:right;">Back</a>
- <img src="/images/Mrs Shanti.jpg" style="width:100%">
+  <a href="/opmtl-award-2021/" style="float:right;">Back</a>
+ <img src="/images/MTLS_OPMTL_Awards v6_Mrs Shanti Website.jpg" style="width:100%">
     <br/>
      <h4 style="font-family:'Anjal InaiMathi';">மேற்ம ோள்：</h4>
     <p style="text-align:justify;font-family:'Anjal InaiMathi';">

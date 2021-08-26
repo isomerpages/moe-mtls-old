@@ -110,7 +110,7 @@ margin-left:25px;
 
   gtag('config', 'AW-726049306');
 </script>
-<a href="/exhibits/pameran- bahasa- melayu-malay-language-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Previous</a>
+<a href="/mlmoe/ML-PriSch/" class="btn" style="float:left;">Previous</a>
   <a href="/mlmoe/ml-preu/" class="btn" style="float:right;">Next</a><br/>
 <img src="/mlmoe/ML-Secondary_Header-Banner.jpg">
 
@@ -128,7 +128,7 @@ margin-left:25px;
    <center>
  <table style="column-width:50%">
   <tr>
-    <td style="text-align:left; width:50%;">Kurikulum Sekolah Menengah sudahpun melalui semakan pada tahun 2020 dan sedang diguna pakai oleh kohort pertama Menengah Satu pada tahun ini.  Kurikulum baharu ini merupakan satu kesinambungan bagi pelajar-pelajar sekolah rendah yang menggunakan Kurikulum Bahasa Melayu 2015. Kurikulum Bahasa Melayu (Sekolah Menengah) memperkukuh keupayaan pleajar berinterasi secara lisan dan penulisan dalam konteks yang autentik serta memberikan peluang bagi pelajar untuk bertutur dan meluahkan pandangan dalam Bahasa Melayu.</td>
+    <td style="text-align:left; width:50%;">Kurikulum Sekolah Menengah sudahpun melalui semakan pada tahun 2020 dan sedang diguna pakai oleh kohort pertama Menengah Satu pada tahun ini.  Kurikulum baharu ini merupakan satu kesinambungan bagi pelajar-pelajar sekolah rendah yang menggunakan Kurikulum Bahasa Melayu 2015. Kurikulum Bahasa Melayu (Sekolah Menengah) memperkukuh keupayaan pelajar berinteraksi secara lisan dan penulisan dalam konteks yang autentik serta memberikan peluang bagi pelajar untuk bertutur dan meluahkan pandangan dalam bahasa Melayu.</td>
     <td style="text-align:left; width:50%;"><img src="/mlmoe/ml-sec1.jpg" style="width:100%;"><br/>
     <a href="https://www.moe.gov.sg/education" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 15px 17px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">MOE</a>
     <a href="https://www.moe.gov.sg/education/syllabuses/mother-tongue-languages" target="_blank" style="background-color: green; font-size: 15px; font-weight: bold; text-decoration: none; padding: 15px 17px; color: #ffffff; border-radius: 25px; display: inline-block; miso-padding-alt: 0;">Bahasa Ibunda</a>
@@ -142,9 +142,9 @@ margin-left:25px;
   <h4  style="font-size:25px;color:green;" >EMPAT CIRI UTAMA
 </h4>
   <p style="text-align:justify;">Kurikulum Bahasa Melayu (Sekolah Menengah) 2021 menyerlahkan empat ciri utama yang berikut: </p>
-  <img src="/images/ML-Sec_Image1.jpg" style="width:100%;">
+  <img src="/images/ML-Sec_Empat-Ciri-Utama.jpg" style="width:100%;">
   
-  <h4  style="font-size:25px;color:green;"> BAHAN-BAHAN VIDEO KURIKUKULUM </h4>
+  <h4  style="font-size:25px;color:green;"> BAHAN-BAHAN VIDEO KURIKULUM </h4>
   <p style="text-align:justify;">Tontonilah video-video yang berikut untuk mendapatkan maklumat lanjut tentang:
 <ul>
   <li>Kurikulum Bahasa Melayu Sekolah Menengah</li>
@@ -154,7 +154,7 @@ margin-left:25px;
    <center>
  <div class="row">
   <div class="column">
-    <span style="font-size:20px;" ><strong>Pengalaman Guru tentang Pelaksanaan  tentang  Kuriulum Bahasa Melayu 2021</strong></span>
+    <span style="font-size:20px;" ><strong>Pengalaman Guru tentang Pelaksanaan Kurikulum Bahasa Melayu 2021</strong></span>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/WSq_Lrb2788" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   <div class="column">
@@ -164,7 +164,7 @@ margin-left:25px;
   </div></center>
 
   <h4 style="font-size:25px;color:green;">PEMBELAJARAN TERADUN</h4>
-  <p style="text-align:justify;">Pembelajaran Teradun menjadi fitur umum dalam persekolahan pada tahun 2021. Pembelajaran Teradun merupakan pembelajaran yang menggabungkan pembelajaran di rumah dengan pengalaman pembelajaran di sekolah. Pelajar akan mengalami Pembelajaran dari Rumah (HBL) sehari dalam dua minggu, bergantung pada sekolah. Pembelajaran Teradun memperkuku keupayaan pelajar untuk belajar secara kendiri sejajar dengan gerakan Belajar Sepanjang Hayat yang dianjurkan oleh MOE. 
+  <p style="text-align:justify;">Pembelajaran Teradun menjadi fitur umum dalam persekolahan pada tahun 2021. Pembelajaran Teradun merupakan pembelajaran yang menggabungkan pembelajaran di rumah dengan pengalaman pembelajaran di sekolah. Pelajar akan mengalami Pembelajaran dari Rumah (HBL) sehari dalam dua minggu, bergantung pada sekolah. Pembelajaran Teradun memperkukuh keupayaan pelajar untuk belajar secara kendiri sejajar dengan gerakan Belajar Sepanjang Hayat yang dianjurkan oleh MOE. 
 </p>
   <h4 style="text-align:justify;"><center>Bahan-bahan digital yang menyokong Pembelajaran Teradun</center></h4>
     <table width="100%" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border: 1px solid #ccc;" bgcolor="#62BD69">
@@ -214,7 +214,7 @@ margin-left:25px;
 
 <h4 style="font-size:25px;color:green;">Program Elektif Bahasa Melayu Peringkat Sekolah Menengah 
 </h4>
-  <p>MOE menawarkan dua program elektif Bahasa Melayu yang berikut di peringkat sekolah menengah, jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu dan mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk memohon ke sekolah-sekolah EMAS: 
+  <p>MOE menawarkan dua program elektif Bahasa Melayu yang berikut di peringkat sekolah menengah. Jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu serta mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk memohon ke sekolah-sekolah EMAS: 
 </p>
 <a href="https://d33wubrfki0l68.cloudfront.net/236b836f4b98721b937df96dd19dbdd1d3c60ea6/a7b0a/images/ml-sec_emas-mlep-brochure.png" target="_blank"><img src="/images/ML-Sec_EMAS-MLEP-Brochure.png"></a><br/>
 <div class="atab">
@@ -355,7 +355,7 @@ margin-left:25px;
    <label for="tab-5" class="lbML">Perpustakaan Negara Singapura
 </label>
      <div class="tab-content"> 
-       <p>Program dan aktiviti sepanjang tahun yang dijalankan di perpusatakaan-perpustakaan awam.</p>
+       <p>Program dan aktiviti sepanjang tahun yang dijalankan di perpustakaan-perpustakaan awam.</p>
   <table>
     <tr>
     <td>

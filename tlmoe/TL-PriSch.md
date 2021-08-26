@@ -6,6 +6,22 @@ breadcrumb: 'தமிழ்மொழிப் பாடக்கலைத்த
 <html>
 <body>
 <style>
+ * {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
  table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
@@ -29,9 +45,19 @@ padding-bottom: 10px !important;
 padding-left: 23px !important;
 margin-left:25px;
 }
- 
- 
-</style>
+  @media only screen and (max-width:800px) {
+.col1 {
+    width: 100% !important;
+    padding: 0;
+  }
+  }
+   @media only screen and (max-width:500px) {
+.col1 {
+    width: 100% !important;
+    padding: 0;
+  }
+  }
+ </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
 <script>
@@ -41,10 +67,10 @@ margin-left:25px;
 
   gtag('config', 'AW-726049306');
 </script>
-<a href="/exhibits/தமிழ்மொழிக்-காட்சிக்கூடம்-tamil-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Previous</a>
+<a href="tlmoe/TL-PreSch/" class="btn" style="float:left;">Previous</a>
  <a href="/tlmoe/tl-sec/" class="btn" style="float:right;">Next</a>
  <br/>
-<img src="/images/TL-Pri-Header.jpg">
+<img src="/tlmoe/TL-Pri-Curriculum_Header.jpg">
 <p>
 <a href="#C1" style="font-size:20px"><span style="color:blue;">தொடக்கப்பள்ளிப் பாடக்கலைத்திட்டம் 
 </span></a><br/>
@@ -94,8 +120,7 @@ margin-left:25px;
  </center>
 <img src="/tlmoe/TL-Pri_Poster03.jpg">
 <img src="/tlmoe/TL-Pri_Poster04.jpg">
-
- <br/>
+<br/>
   <h4 id="C4"><span style="font-size:30px;color:purple;">விளையாட்டுவழிக் கற்றலும் வெற்றிக் கொண்டாட்டமும்
 </span></h4>
  <img src="/images/MOE-Curriculum-TL-Primary-Image-3.jpg">
@@ -105,7 +130,7 @@ margin-left:25px;
 <br/><br/>
 <h4 id="C5"><span style="font-size:30px;color:purple;">ஈடுபாடுமிகுந்த கற்றலுக்கு ஆர்வமூட்டும் கற்பித்தல் உத்திமுறைகள் </span></h4> <br/>
 
-<img src="/tlmoe/TL-Pri_Graphic02.png"><br/>
+<img src="/tlmoe/TL-Pri_Poster11.jpg"><br/>
  <p style="text-align:justify;">மாணவர்கள் பாடப்பகுதிகளைப் படித்துக் கருத்துணர உதவும் வகையில் பற்பல உத்திகள் கற்பிக்கப்படுகின்றன. இவை மாணவர்கள் பகுதிகளைப் பொருளுணர்ந்து படித்துப் புரிந்துகொண்டு வினாக்களுக்கு விடையளிக்க உதவுகின்றன.</p><br/>
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
@@ -113,21 +138,22 @@ margin-left:25px;
     <td><img src="/images/TL Pri_UpdatedPicture4.png"></td>
     </tr>
  </table>
- <center>
-  <table style="border-collapse: collapse; width: 100%;">
-<tr>
-    <td style="border: 0; text-align:left;padding:8px; width:40%;"><p style="font-size:14px">மாணவர்களுக்குக் கூடுதல் ஆதரவு வழங்க வேண்டும் என்ற நோக்கில் கட்டுரைப் பயிற்சிகளில் ஆர்வமூட்டும் முன்நடவடிக்கைகள் இணைக்கப்பட்டுள்ளன. இவை கட்டுரை எழுதுவதற்குத் தேவையான திறன்களை மாணவர்களிடையே வளர்க்கும் வண்ணம் வடிவமைக்கப்பட்டுள்ளன.</p><br/>
+ <p style="text-align:left;">மாணவர்களுக்குக் &nbsp; கூடுதல் &nbsp; ஆதரவு &nbsp; வழங்க &nbsp; வேண்டும் &nbsp; என்ற &nbsp; நோக்கில் &nbsp; கட்டுரைப் &nbsp; பயிற்சிகளில் &nbsp; ஆர்வமூட்டும் &nbsp; முன்நடவடிக்கைகள் &nbsp; இணைக்கப்பட்டுள்ளன. </p>
+<div class="row">
+  <div class="column col1" style="float: left;width: 48%; padding: 5px;">
+    <p>இவை கட்டுரை எழுதுவதற்குத் தேவையான திறன்களை மாணவர்களிடையே வளர்க்கும் வண்ணம் வடிவமைக்கப்பட்டுள்ளன.</p><br/>
+ 
       <img src="/tlmoe/tl-prisch06.png" style="width: 25%; margin-left: 286px;margin-top: -64px;">
       <img src="/tlmoe/image4.png">
-    </td>
-    <td style="width:60%;">
-   <img src="/images/TL Pri_UpdatedPicture2.png" style="width:100%; vertical-align:bottom;"> </td>
-     </tr>
-  </table></center>
- <br/>
-<h4 id="C6"><span style="font-size:30px; color:purple;">இல்லம் சார்ந்த கற்றலுக்கு உதவும் தகவல் தொடர்புத் தொழில்நுட்பம் 
+ </div>
+<div class="column col1" style="float: left;width: 48%; padding: 5px;">
+   <img src="/images/TL Pri_UpdatedPicture2.png">
+  </div>
+ </div>
+  <br/>
+ <h4 id="C6"><span style="font-size:30px; color:purple;">இல்லம் சார்ந்த கற்றலுக்கு உதவும் தகவல் தொடர்புத் தொழில்நுட்பம் 
 </span></h4>
-<img src="/images/TL Pri_UpdatedPicture3.png">
+<img src="/tlmoe/TL-Pri_Poster12.jpg">
 <h4 id="C7"><span style="font-size:30px; color:purple;">பெற்றோர் பங்கு </span></h4>
 <p style="text-align:justify;">நம் பிள்ளைகள் தமிழ்மொழியை ஆர்வத்துடன் கற்றுத் திறம்படப் பயன்படுத்துவதற்குப் பலருடைய முயற்சி தேவைப்படுகிறது. குடும்ப உறுப்பினர்களே பிள்ளைகளின் கற்றலுக்கு முதல் வித்திடுகிறார்கள். ஆசிரியர்களின் பொறுமைமிகுந்த வழிகாட்டுதல் இருந்தபோதிலும் பெற்றோரின் ஆதரவும் முக்கியமாகிறது. பிள்ளைகளை ஊக்கப்படுத்திக் கற்றலில் ஈடுபடுத்துவதில் பெற்றோர்கள் முக்கியப் பங்காற்றுகிறார்கள்.<br/><br/>
      எனவே, பெற்றோர்களுக்கு உதவும் நோக்கில் 2015 தமிழ்மொழிப் பாடக்கலைத்திட்டத்தின் சிறப்பு அம்சங்களையும் கற்றல் வளங்களையும் அறிமுகப்படுத்தும்வகையில் இந்தக் கையேடு தயாரிக்கப்பட்டுள்ளது. தமிழ்மொழியைப் பிள்ளைகள் நன்கு கற்கப் பிள்ளைகளுக்குப் பெற்றோர் எவ்வாறெல்லாம் உதவலாம் என்பதற்கான பரிந்துரைகளும் இக்கையேட்டில் இடம்பெற்றுள்ளன.</p>

@@ -210,7 +210,7 @@ Ibu bapa boleh menyokong pembelajaran dan pembangunan Bahasa Ibunda anak anda di
   </div></div>
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-   <label for="tab-5" class="lbML">Dengan Siapakah Saya Berkongsi Dunia ini?
+   <label for="tab-5" class="lbML">Dengan Siapakah Saya Berkongsi Dunia Ini?
 </label>
      <div class="tab-content">
       <img src="/mlmoe/ML-Preschool_Poster03.jpg">
@@ -235,8 +235,8 @@ Ibu bapa boleh menyokong pembelajaran dan pembangunan Bahasa Ibunda anak anda di
   
 <p style="text-align:justify;">Untuk mendapatkan contoh Aktiviti Belajar Bahasa Ibunda di Rumah yang lain, sila layari lelaman daripada tadika-tadika ini:</p>
 <ul>
- <li><a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/">Tadika MOE @ Fernvale </a></li>
- <li><a href="/gallery/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/">Tadika MOE @ Punggol Green </a></li>
+ <li><a href="/mlmoe/fernvale/">Tadika MOE @ Fernvale </a></li>
+ <li><a href="/mlmoe/punggol-green/">Tadika MOE @ Punggol Green </a></li>
 </ul>
  
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>

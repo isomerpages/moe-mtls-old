@@ -115,37 +115,44 @@ margin-left:25px;
  <p id="C1" style="font-size:30px;color:black"><strong>BAHAN 
 PENGAJARAN DAN PEMBELAJARAN
 </strong></p>
-  <p style="font-size:25px;color:black">Kandungan bahan pengajaran dan pembelajaran Pakej <img src="/mlmoe/cakap1.png" style="width:10%;margin-right: 16%;
-    margin-top: -4%;">
+  <p style="font-size:25px;color:black">Kandungan bahan pengajaran dan pembelajaran Pakej <img src="/mlmoe/cakap1.png" style="width:13%;margin-right: 14%;
+    margin-top: -6%;">
 </p>
   <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-  <label for="tab-2" class="lbML">- Dekat dengan kehidupan murid </label>
+  <label for="tab-2" class="lbML">• Dekat dengan kehidupan murid </label>
      <div class="tab-content">
        <img src="/mlmoe/ML-Pri_Poster03.jpg">  
        </div></div>
        <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-   <label for="tab-3" class="lbML">- Kaya dan pelbagai</label>
+   <label for="tab-3" class="lbML">• Kaya dan pelbagai</label>
      <div class="tab-content">
        <img src="/mlmoe/ML-Pri_Poster04.jpg">  
        </div></div>
        <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-   <label for="tab-4" class="lbML">- Melibatkan murid secara aktif</label>
+   <label for="tab-4" class="lbML">• Melibatkan murid secara aktif</label>
      <div class="tab-content">
-       <img src="/images/ML-meli.png">  
-       </div></div>
-       <div class="atab">
-      <input id="tab-5" type="checkbox" name="tab">
-   <label for="tab-5" class="lbML">- Berdasarkan situasi sebenar dan bermakna</label>
-     <div class="tab-content">
-       <img src="/images/ML-10.png">  
-       </div></div>
-      <p id="C2" style="font-size:30px;"><strong>SOKONGAN IBU BAPA</strong><br/><br/>
+       <center>
+       <table style="width:100%; padding:8px;">
+         <tr>
+           <td style="width:33.33%;">
+    <img src="/mlmoe/kids-activity-workbook.jpeg" style="border:3px;">
+           </td>
+           <td style="width:66.67%; padding-top:70px;">
+    <img src="/mlmoe/ml-pri_kids-workbook-activities.png">
+           </td>
+         </tr>
+       </table>
+         </center>
+        </div>
+ </div>
+ 
+ <p id="C2" style="font-size:30px;"><strong>SOKONGAN IBU BAPA</strong><br/><br/>
       <img src="/mlmoe/ML-Pri_Poster05.jpg"> 
       </p>
-<p style="font-size:25px;text-align:justify;"> Ibu bapa boleh bermain beberapa permainan dengan anak anda agar dapat meningkatkan dan meluaskan kosa kata anak. </p>
+<p style="font-size:25px;text-align:justify;"> Ibu bapa boleh bermain beberapa permainan dengan anak anda agar dapat meningkatkan dan meluaskan kosa katanya. </p>
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
    <label for="tab-6" class="lbML">Permainan Perkataan Berangkai
@@ -178,19 +185,17 @@ PENGAJARAN DAN PEMBELAJARAN
 <p>
   <li style="text-align:justify;">Permainan yang disarankan di atas haruslah dilakukan secara santai dan menyeronokkan. </li>
   
-  <li>Membetulkan jawapan anak anda dengan teguran yang 
-   lembut. 
+  <li>Ibu bapa digalakkan agar membetulkan jawapan anak anda dengan teguran yang lembut.
 
 </li>
   
-  <li>Menggalakkan anak anda untuk terus mencuba.    </li>
+  <li>Ibu bapa patut menggalakkan anak anda untuk terus mencuba.</li>
 
-  <li>Selain itu, permainan yang disarankan juga dapat 
-   mengeratkan hubungan antara anak dengan ibu bapa.
+  <li>Jika dijalankan dengan baik, permainan yang disarankan dapat mengeratkan hubungan antara anak dengan ibu bapa.
 </li>
 </p>
 
-  <p style="font-size:25px;font-weight:bold;">Klip video yang digunakan oleh murid-murid</p>
+  <p style="font-size:25px;font-weight:bold;">Klip video yang digunakan oleh murid-murid:</p>
  <center>
  <div class="row">
   <div class="column">
@@ -198,8 +203,8 @@ PENGAJARAN DAN PEMBELAJARAN
     <p style="font-weight:bold;text-align:center;">Nasi Lemak Daun Pisang</p>
   </div>
   <div class="column">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/31OI9oWggjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <p style="font-weight:bold;text-align:center;">Kain Sarong</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2hISuZWZUCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p style="font-weight:bold;text-align:center;">Ana Boleh</p>
   </div>
   </div></center>
   

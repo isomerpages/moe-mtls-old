@@ -103,7 +103,7 @@ margin-left:25px;
 
   gtag('config', 'AW-726049306');
 </script>
-<a href="/exhibits/pameran- bahasa- melayu-malay-language-exhibitions-b/moe-curriculum/" class="btn" style="float:right;">Previous</a><br/>
+<a href="/mlmoe/ML-Sec/" class="btn" style="float:left;">Previous</a><br/>
 <img src="/mlmoe/ML-PreU_Header-Banner.jpg">
 
 <a href="#C1" style="font-size:20px"><span style="color:blue;">Bahan Pengajaran dan Pembelajaran</span></a><br/>
@@ -111,18 +111,24 @@ margin-left:25px;
 <h4 style="color:green;font-size:30px;">Matlamat Pendidikan Prauniversiti </h4>  
  <table style=" border-collapse: collapse; width: 100%;">
 <tr>
-    <td style=" text-align: left;padding: 8px;width:60%;">
+    <td style=" text-align: left;padding: 8px;width:50%;">
     <p style="text-align:justify;">
  Matlamat program Bahasa Melayu peringkat prauniversiti adalah untuk melengkapkan pelajar dengan kecekapan berbahasa dan membolehkan pelajar mendalami dan menghargai bahasa dan budaya masyarakat Melayu dalam pelanjutan pembangunan negara. Pelajar diharap akan berupaya berkomunikasi dengan menggunakan bahasa Melayu baku bagi memenuhi keperluan diri dan membina hubungan sosial dalam konteks masyarakat majmuk Singapura dan masyarakat dunia.
      </p></td>
-    <td style=" text-align: left;padding: 8px;">
-    <img src="/mlmoe/ml-preU01.jpeg">
+    <td style=" text-align: left;padding: 8px; width:50%; margin-left:8px;">
+    <img src="/mlmoe/ML-PreU_Matlamat-Pendidikan-Prauniversiti.png">
     </td>
   </tr>
   </table>
+ <h4 style="color:green;font-size:30px;">Pendekatan Pembelajaran dan Pengajaran Bahasa Melayu di Peringkat Prauniversiti</h4>
+    <p>
+ Kemahiran bahasa diajarkan berdasarkan konteks. Sukatan pelajaran ini berasaskan kerangka tiga tema luas. Hal ini membolehkan pelajar Bahasa Melayu H1 dan Bahasa Melayu‘B’ untuk belajar dan menerapkan kemahiran bahasa secara bersepadu dan bermakna, danmencapai pemahaman yang mendalam tentang isu-isu melalui perspektif yang berbeza. Tema-tema ini dipilih atas sebab kerelevanannya pada pelajar dan nilai pendidikan bagi memahami individu, masyarakat dan dunia.
+     </p>
+<img src="/mlmoe/ML-PreU_PBTTLUMP.png"><br/>
 <img src="/mlmoe/ML-PreU_Image1.png">
-<a href="/Gallery/Annex A -Sukatan-Pelajaran-H1.pdf" target="_blank">Sukatan Pelajaran H1</a><br/>
-<a href="/Gallery/Annex B - Sukatan-Pelajaran-H2-&-H3.pdf" target="_blank">Sukatan Pelajaran H2 & H3</a><br/>
+<p>Untuk mengetahui Sukatan Pelajaran Prauniversiti dengan lebih lanjut, sila layari pautan yang berikut: </p>
+<a href="/exhibits/Annex A -Sukatan-Pelajaran-H1.pdf" target="_blank">Sukatan Pelajaran H1</a><br/>
+<a href="/exhibits/Annex B - Sukatan-Pelajaran-H2-&-H3.pdf" target="_blank">Sukatan Pelajaran H2 & H3</a><br/>
 
 <p style="font-size:30px;"><strong>Program Elektif Bahasa Melayu Maktab Rendah (MLEP- JC) </strong></p>
 <table style="width:100%">
@@ -191,12 +197,12 @@ margin-left:25px;
       </ul>
 </p>    
   </div></div>
-
+<br/>
 Sila klik pautan-pautan di bawah ini jika ingin informasi selanjutnya.<br/>
-<a href="/images/ML-PreU-Brosur-Program.png" target="_blank">Brosur MLEP</a><br/>
 <a href="https://sites.google.com/view/emasmlep/home?authuser=0" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu</a><br/>
-<a href="/mlmoe/ML-PreU-Outreach-Secondary-Schools-Final.pdf" target="_blank">Program Elektif Bahasa Melayu Maktab Rendah (MLEP JC)</a>
-<br/><br/>
+<a href="/mlmoe/ML-PreU-Outreach-Secondary-Schools-Final.pdf" target="_blank">Program Elektif Bahasa Melayu Maktab Rendah (MLEP JC)</a><br/><br/>
+<img src="/images/ML-PreU-Brosur-Program.png">
+<br/>
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
    <label for="tab-4" class="lbML">Aktiviti-aktiviti program MLEP-JC
@@ -260,7 +266,7 @@ Sila klik pautan-pautan di bawah ini jika ingin informasi selanjutnya.<br/>
      <br/>
 </div>
  </div>
-<p><img src="/images/Penerbitan-karya-pelajar.jpg"><span style="font-size:20px">Penerbitan karya pelajar - Saujana Pujangga
+<p><img src="/mlmoe/Penerbitan-karya-pelajar.jpg" style="width:80%; text-align:center;"><span style="font-size:20px">Penerbitan karya pelajar - Saujana Pujangga
 </span></p>
 
 <h4 style="color:green;">Program Penyerapan ke Luar negara

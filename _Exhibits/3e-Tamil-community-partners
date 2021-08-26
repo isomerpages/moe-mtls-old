@@ -5,7 +5,7 @@ breadcrumb: 'சமூகப் பங்காளர்கள்'
 collection_name: Exhibits
 third_nav_title: 'தமிழ்மொழிக் காட்சிக்கூடம்'
 ---
-<h2 style="padding-top:12px;color:#9b4490;">சமூகப் பங்காளர்கள்</h2>
+
 <html>
    <head>
       <style>
@@ -73,21 +73,26 @@ background-color: lightgrey;!important;
 </script>
    </head>
    <body>
+   <img src="/images/MTLS2021_MTLChallenge_TL.jpg" style="width:100%">
+   <br/>
+ <div><h2 style="padding-top:12px;color:#9b4490;font-family:Anjal InaiMathi;">சமூகப் பங்காளர்கள்</h2></div>
     <br/>
       <table class="tbl">
          <tr>
             <td style="border:0 none;padding: 0; margin:0;">
                <div class="atab">
                   <input id="tab-1" type="checkbox" name="tab">
-                  <label for="tab-1" class="lbTM">எஸ்பிளனேட்<br/>Esplanade  </label>
+                  <label for="tab-1" class="lbTM" style="font-family:Anjal InaiMathi;">எஸ்பிளனேட் &nbsp; - &nbsp; கடலோரக் &nbsp; கலை &nbsp; அரங்கம்
+		  <br/>
+		  எஸ்பிளனேட் [Esplanade]  </label>
                   <div class="tab-content">
 		  <br/>
-<a href="/tlmoe/எஸ்பிளனேட்-கடலோரக்-கலை-அரங்கம்/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+<a href="/tlmoe/Esplanade-TL/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
+    காண்க: சுவரொட்டி</div></a>
   <br/>
-                     <p>
-             <h4 style="padding-top:12px;margin:10px;color:#9b4490;">எஸ்பிளனேட் &nbsp; - &nbsp; கடலோரக் &nbsp; கலை &nbsp; அரங்கம்</h4> </p>
-             <p style="margin:10px;font-size:20px;">நமது கலைகள்   அனைவரையும்   சென்றடைய வேண்டும் என்பதற்காகச்   சிங்கப்பூரின்   தேசிய   
+                     <p style="font-family:Anjal InaiMathi;">
+             <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">எஸ்பிளனேட் &nbsp; - &nbsp; கடலோரக் &nbsp; கலை &nbsp; அரங்கம்</h4> </p>
+             <p style="margin:10px;font-size:20px;font-family:Anjal InaiMathi;">நமது கலைகள்   அனைவரையும்   சென்றடைய வேண்டும் என்பதற்காகச்   சிங்கப்பூரின்   தேசிய   
 	     நிகழ்த்துகலை   நிலையமாக   எஸ்பிளனேட்   - கடலோரக்   கலை   அரங்கம்   திகழ்கிறது. ஆண்டு முழுவதும், எஸ்பிளனேட் நடத்தும் 
 	     கலை வடிவங்களின் வாயிலாக இளையர்கள் தங்களது திறமைகளை வெளிப்படுத்தவும் கலைகள்பற்றிய விழிப்புணர்வை அவர்களிடையே ஏற்படுத்தவும் 
 	     இவ்வமைப்பு விரும்புகிறது. இதன்   காரணமாக  இளையர்களின்   படைப்பாற்றலையும்       கற்பனையாற்றலையும்   வெளிப்படுத்தும்   முயற்சியில்   
@@ -115,27 +120,29 @@ background-color: lightgrey;!important;
             <td style="border:0 none;padding: 0; margin:0;">
                <div class="atab">
                   <input id="tab-2" type="checkbox" name="tab">
-                  <label for="tab-2" class="lbTM">லீ குவான் &nbsp; யூ &nbsp; இருமொழிக் &nbsp; கல்வி &nbsp; நிதி<br/>Lee Kuan Yew Fund for Bilingualism</label>
+                  <label for="tab-2" class="lbTM" style="font-family:Anjal InaiMathi;">எனது தாய்மொழி, எனது வழித்துணை
+		  <br/>
+		  லீ குவான் யூ இருமொழிக் கல்வி நிதி [Lee Kuan Yew Fund for Bilingualism]</label>
                   <div class="tab-content">
 		  <br/>
-<a href="/tlmoe/எஸ்பிளனேட்-கடலோரக்-கலை-அரங்கம்/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+<a href="/tlmoe/LKYFB-TL/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
+    காண்க: சுவரொட்டி</div></a>
   <br/>
                      <p>
-                    <h4 style="padding-top:12px;margin:10px;color:#9b4490;">எனது &nbsp; தாய்மொழி, &nbsp; எனது &nbsp; வழித்துணை</h4>
+                    <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">எனது தாய்மொழி, எனது வழித்துணை</h4>
               </p>
-              <p style="margin:10px;font-size:20px;">
+              <p style="margin:10px;font-size:20px;font-family:Anjal InaiMathi;">
            லீ குவான் யூ இருமொழிக் கல்வி நிதியானது 2011-ஆம் ஆண்டு நவம்பர் 28-ஆம் நாள் நடைபெற்ற திரு லீ குவான் யூ அவர்களின் ‘எனது வாழ்நாள் சவால்: சிங்கப்பூரின் இருமொழிப் பயணம்’ 
 	   என்னும் நூல் வெளியீட்டு விழாவின்போது நிறுவப்பட்டது.  சிங்கப்பூரின் இருமொழிக் கல்வியை வலுப்படுத்தும் வகையிலும் தாய்மொழிகளை வாழும் 
 	   மொழிகளாக நிலைபெறச் செய்யும் நோக்கிலும் அமையப்பெறும் புத்தாக்கமும் ஈடுபாடும் மிகுந்த அணுகுமுறைகள், வளங்கள், நிகழ்ச்சிகள் முதலியவற்றுக்கு 
-	   இந்நிதி ஊக்கமளித்தும் ஆதரவளித்தும் வருகிறது. குழந்தை தாய்மொழியை விருப்பத்தோடு பயில்வதற்கு ஏதுவான பல ஆர்வமூட்டும் வளங்கள் நிதியின் சமூக 
+	   இந்நிதி ஊக்கமளித்தும் ஆதரவளித்தும் வருகிறது. குழந்தைகள் தாய்மொழியை விருப்பத்தோடு பயில்வதற்கு ஏதுவான பல ஆர்வமூட்டும் வளங்கள் நிதியின் சமூக 
 	   வலைத்தளப் பக்கங்களில் இடம்பெற்றுள்ளன. </p>
             <br/>
               <p>
               <h4 style="padding-top:12px;margin:10px;color:#9b4490;">My Mother Tongue, My Companion</h4>
               </p>
-               <p style="margin:10px;">The establishment of the Lee Kuan Yew Fund for Bilingualism was announced by Mr Lee Kuan Yew at the launch of My Lifelong Challenge: Singapore’s Bilingual Journey in 2011.
-The Fund supports creative and engaging approaches to encourage bilingualism and the learning of Mother Tongue Languages (MTLs) as living languages. The fund acts as a catalyst in supporting the learning and in the usage of MTLs through various fund-supported resources and programmes. Fun and interesting videos that support the learning of MTLs for young children can be accessed through platforms such as the Fund’s official YouTube channel, Facebook and Instagram.
+               <p style="margin:10px;">The establishment of the Lee Kuan Yew Fund for Bilingualism was announced by Mr Lee Kuan Yew at the launch of the book "My Lifelong Challenge: Singapore’s Bilingual Journey" in 2011.
+The Fund supports creative and engaging approaches to encourage bilingualism and the learning of Mother Tongue Languages (MTLs) as living languages. The Fund acts as a catalyst in supporting the learning and in the usage of MTLs through various fund-supported resources and programmes. Fun and interesting videos that support the learning of MTLs for young children can be accessed through platforms such as the Fund’s official YouTube channel, Facebook and Instagram.
                      </p>
                   </div>
                </div>
@@ -147,16 +154,18 @@ The Fund supports creative and engaging approaches to encourage bilingualism and
             <td style="border:0 none;padding: 0; margin:0;">
                <div class="atab">
                   <input id="tab-03" type="checkbox" name="tab">
-                  <label for="tab-03" class="lbTM">மீடியகார்ப்<br/>Mediacorp</label>
+                  <label for="tab-03" class="lbTM" style="font-family:Anjal InaiMathi;">சி ஐ டி சகுந்தலா 
+		  <br/>
+		  மீடியகார்ப் &nbsp; [Mediacorp]</label>
                   <div class="tab-content">
 		  <br/>
-<a href="/tlmoe/எஸ்பிளனேட்-கடலோரக்-கலை-அரங்கம்/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/tlmoe/Mediacorp-TL/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
     View  Poster</div></a>
   <br/>
                      <p>
-                    <h4 style="padding-top:12px;margin:10px;color:#9b4490;">சி &nbsp; ஐ &nbsp; டி &nbsp; சகுந்தலா</h4>
+                    <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">சி &nbsp; ஐ &nbsp; டி &nbsp; சகுந்தலா</h4>
                 </p>
-                <p style="margin:10px;font-size:20px;">சிறுபிள்ளைகளை மையப்படுத்தி எழுதப்படும் பெரும்பாலான நாடகங்கள் சிறுபிள்ளைகளுக்காகவே 
+                <p style="margin:10px;font-size:20px;font-family:Anjal InaiMathi;">சிறுபிள்ளைகளை மையப்படுத்தி எழுதப்படும் பெரும்பாலான நாடகங்கள் சிறுபிள்ளைகளுக்காகவே 
 		எழுதப்படுகின்றன. முதன்முறையாக, சி ஐ டி சகுந்தலாவின் கதை சிறார்களை மட்டுமன்றிப் பெற்றோர்களையும் ஈர்த்துள்ளது. 'சி ஐ டி சகுந்தலா' 
 		என்பது 32 அத்தியாயங்களைக் கொண்ட சிறுவர் நாடகமாகும் . இது ஓர் ஒற்றைத் தாயிக்கும் அவரது மூன்று பிள்ளைகளுக்குமிடையே உள்ள இடைவெளியைப் 
 		போக்கும்   முயற்சிகளைக் கருப்பொருளாகக் கொண்டு எழுதப்பட்டுள்ளது. இந்த நாடகம் குழந்தை உள்ளம் கொண்ட வித்தியாசமான ஓர் ஒற்றைத் தாயின் மாறுபட்ட 
@@ -180,14 +189,16 @@ Narrated by the ghost of Kaarmegam, husband of Sakunthala, as he watches over hi
             <td style="border:0 none;padding: 0; margin:0;">
                <div class="atab">
                   <input id="tab-3" type="checkbox" name="tab">
-                  <label for="tab-3" class="lbTM">தேசிய &nbsp; மரபுடைமைக் &nbsp; கழகம்<br/>National Heritage Board</label>
+                  <label for="tab-3" class="lbTM" style="font-family:Anjal InaiMathi;"> தாய்மொழிகளின் வழியே மரபையும் பண்பாட்டையும் தெரிந்துகொள்ள தேசிய மரபுடைமைக் கழகத்துடன் இணையுங்கள் 
+		  <br/>
+		  தேசிய மரபுடைமைக் கழகம் [National Heritage Board]</label>
                   <div class="tab-content">
 		  <br/>
-<a href="/tlmoe/எஸ்பிளனேட்-கடலோரக்-கலை-அரங்கம்/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+<a href="/tlmoe/NHB-TL/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
+   காண்க: சுவரொட்டி</div></a>
   <br/>
-              <h4 style="padding-top:12px;margin:10px;color:#9b4490;">மரபு &nbsp; வழியாகவும் &nbsp; பண்பாட்டு &nbsp; வழியாகவும் &nbsp; தாய்மொழிகளைத் &nbsp; தேசிய &nbsp; மரபுடைமைக் &nbsp; கழகத்துடன் &nbsp; இணைந்துகொள்ளுங்கள்    </h4>
-       <p style="margin:10px;font-size:20px;"> 
+              <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">தாய்மொழிகளின் வழியே மரபையும் பண்பாட்டையும் தெரிந்துகொள்ள தேசிய மரபுடைமைக் கழகத்துடன் இணையுங்கள்    </h4>
+       <p style="margin:10px;font-size:20px;font-family:Anjal InaiMathi;"> 
  தேசிய மரபுடைமைக் கழகத்துடன் இணைந்து தாய்மொழிகளை மரபு வழியாகவும் பண்பாட்டு வழியாகவும் கற்றுக்கொள்ளுங்கள். 
  மொழி சார்ந்த நடவடிக்கைகள், குறிப்புகள், வளங்கள் ஆகியவற்றைக் குறித்து, சீன மொழி பேசுவோம் இயக்கம், மலாய் மொழி இயக்கம், 
  சிங்கப்பூர் வளர்தமிழ் இயக்கம் ஆகியவற்றின் வாயிலாக மேலும் அறிந்துகொள்ளலாம். சிங்கப்பூரின் மரபுடைமை நிலையங்களான இந்திய மரபுடைமை நிலையம், 
@@ -211,31 +222,33 @@ Narrated by the ghost of Kaarmegam, husband of Sakunthala, as he watches over hi
             <td style="border:0 none;padding: 0; margin:0;">
                <div class="atab">
                   <input id="tab-4" type="checkbox" name="tab">
-                  <label for="tab-4" class="lbTM">தேசியக் &nbsp; கல்விக் &nbsp; கழகம்<br/>National Institute of Education (Asian Languages and Cultures Academic Group)</label>
+                  <label for="tab-4" class="lbTM" style="font-family:Anjal InaiMathi;">தமிழோடு சொல்லாடு!
+		  <br/>
+		  தேசியக் கல்விக் கழகம் [National Institute of Education (Asian Languages and Cultures Academic Group)]</label>
                   <div class="tab-content">
 		  <br/>
-<a href="/tlmoe/எஸ்பிளனேட்-கடலோரக்-கலை-அரங்கம்/"> <div class="btnvideo" style="font-size:16px;">
+<a href="/tlmoe/NIE-TL/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
     View  Poster</div></a>
   <br/>
                      <p>
-                     <h4 style="padding-top:12px;margin:10px;color:#9b4490;">தமிழோடு &nbsp; சொல்லாடு!</h4>
+                     <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">தமிழோடு சொல்லாடு!</h4>
                      </p>
-                     <p style="margin:10px;font-size:20px;">தமிழ்மொழி &nbsp; கற்றலில் &nbsp; சொல்வளப் &nbsp; பெருக்கம் &nbsp; முதன்மை &nbsp; பெறுகிறது. &nbsp; 
-		     தொழில்நுட்பத்தின்வழியே &nbsp சொல்வளத்தைப் &nbsp பெருக்குவது &nbsp மாணவர்களிடம் &nbsp மகிழ்ச்சியையும் &nbsp ஈடுபாட்டையும் &nbsp அதிகரிக்கும். &nbsp; 
-		     “தமிழோடு &nbsp; சொல்லாடு!” &nbsp; என்னும் &nbsp; மின்கற்றல் &nbsp; நிலையமானது &nbsp; தொடக்கநிலை &nbsp; மாணவர்களுக்காகவும் &nbsp; அவர்களுடைய &nbsp; பெற்றோர்களுக்காகவும் &nbsp; உருவாக்கப்பட்டுள்ளது. &nbsp;  
-		     மின்னியல் &nbsp; தளங்களை &nbsp; அடிப்படையாகக்கொண்டு &nbsp; நடவடிக்கைகள் &nbsp; இடம்பெற்றுள்ளன. &nbsp; மாணவர்கள் &nbsp; புதிய &nbsp; சொற்களைச் &nbsp; சுயமாகவும் &nbsp; மகிழ்ச்சியாகவும் &nbsp; கற்பதற்கு &nbsp; இந்நடவடிக்கைகள் &nbsp; உதவும். &nbsp; 
-		     மேலும், &nbsp; பெற்றோர்கள் &nbsp; பிள்ளைகளின் &nbsp; தமிழ்மொழி &nbsp; கற்றலில் &nbsp; தங்களை &nbsp; இணைத்துக்கொண்டு &nbsp; பிள்ளைகளுக்கு &nbsp; வழிகாட்டவும் &nbsp; இந்நடவடிக்கைகள் &nbsp; உதவும். &nbsp; 
+                     <p style="margin:10px;font-size:20px;font-family:Anjal InaiMathi;">தமிழ்மொழி கற்றலில் சொல்வளப் பெருக்கம் முதன்மை பெறுகிறது. 
+		     தொழில்நுட்பத்தின்வழியே சொல்வளத்தைப் பெருக்குவது மாணவர்களிடம் மகிழ்ச்சியையும் ஈடுபாட்டையும் அதிகரிக்கும்.
+		     “தமிழோடு சொல்லாடு!” என்னும் மின்கற்றல் நிலையமானது தொடக்கநிலை மாணவர்களுக்காகவும் அவர்களுடைய பெற்றோர்களுக்காகவும் உருவாக்கப்பட்டுள்ளது. 
+		     மின்னியல் தளங்களை அடிப்படையாகக்கொண்டு நடவடிக்கைகள் இடம்பெற்றுள்ளன. மாணவர்கள் புதிய சொற்களைச் சுயமாகவும் மகிழ்ச்சியாகவும் கற்பதற்கு இந்நடவடிக்கைகள் &nbsp; உதவும். &nbsp; 
+		     மேலும், பெற்றோர்கள் பிள்ளைகளின் தமிழ்மொழி கற்றலில் தங்களை இணைத்துக்கொண்டு பிள்ளைகளுக்கு வழிகாட்டவும் இந்நடவடிக்கைகள் உதவும். 
 </p>
 
-<p style="margin:10px;font-size:20px;">
-‘தமிழோடு &nbsp; சொல்லாடு!’ &nbsp; என்னும் &nbsp; மின்கற்றல்நிலையத்தில்மூன்று பகுதிகள்இடம்பெற்றுள்ளன. &nbsp; அவையாவன:
+<p style="margin:10px;font-size:20px;font-family:Anjal InaiMathi;">
+‘தமிழோடு சொல்லாடு!’ என்னும் மின்கற்றல்நிலையத்தில்மூன்று பகுதிகள்இடம்பெற்றுள்ளன. அவையாவன:
 </p>
 <ol type="1">
-<li>	மாணவர்களும் &nbsp; பெற்றோர்களும் &nbsp; அவர்களுக்கென &nbsp; உருவாக்கப்பட்டுள்ள &nbsp; சொற்கோவை &nbsp; விளையாட்டுகளை &nbsp; விளையாடுதல்</li>
-<li>	மாணவர்களின் &nbsp; சுயகற்றலுக்கென &nbsp; உருவாக்கப்பட்டுள்ள &nbsp; ஆயத்தச் &nbsp; சொற்கோவை &nbsp; விளையாட்டுகளுக்கான &nbsp; இணைய &nbsp; வளங்களை &nbsp; வழங்குதல் </li>
-<li>	சொற்கோவை &nbsp; விளையாட்டுகளைச் &nbsp; சுயமாக &nbsp; உருவாக்கும் &nbsp; வழிகாட்டும் &nbsp; குறிப்புகளை &nbsp; வழங்கிப் &nbsp; படைப்பாற்றலை &nbsp; வளர்த்தல் &nbsp;
+<li style="font-family:Anjal InaiMathi;">மாணவர்களும் பெற்றோர்களும் அவர்களுக்கென உருவாக்கப்பட்டுள்ள சொற்கோவை விளையாட்டுகளை விளையாடுதல்</li>
+<li style="font-family:Anjal InaiMathi;">மாணவர்களின் சுயகற்றலுக்கென உருவாக்கப்பட்டுள்ள ஆயத்தச் சொற்கோவை விளையாட்டுகளுக்கான இணைய வளங்களை வழங்குதல் </li>
+<li style="font-family:Anjal InaiMathi;">சொற்கோவை விளையாட்டுகளைச் சுயமாக உருவாக்கும் வழிகாட்டும் குறிப்புகளை வழங்கிப் படைப்பாற்றலை வளர்த்தல் 
 <br/>
-மேற்கண்ட &nbsp; நிலைகளில் &nbsp; இம்மின்கற்றல் &nbsp; நிலையம் &nbsp; சொல்வளப் &nbsp; பெருக்கத்திற்கும் &nbsp; மொழி &nbsp; மேம்பாட்டிற்கும் &nbsp; வழிவகுத்து, &nbsp; தமிழ்மொழியை &nbsp; வாழும்மொழியாக &nbsp; நிலைபெறச் &nbsp; செய்யும்.   
+மேற்கண்ட நிலைகளில் இம்மின்கற்றல் நிலையம் சொல்வளப் பெருக்கத்திற்கும் மொழி மேம்பாட்டிற்கும் வழிவகுத்து, தமிழ்மொழியை வாழும்மொழியாக நிலைபெறச் செய்யும்.   
 
 </li>
 </ol>
@@ -257,16 +270,18 @@ Narrated by the ghost of Kaarmegam, husband of Sakunthala, as he watches over hi
             <td style="border:0 none;padding: 0; margin:0;">
                <div class="atab">
                   <input id="tab-5" type="checkbox" name="tab">
-                  <label for="tab-5" class="lbTM">தேசிய &nbsp; நூலக &nbsp; வாரியம்<br/>National Library Board</label>
+                  <label for="tab-5" class="lbTM" style="font-family:Anjal InaiMathi;">தமிழ் நூலகச் சேவைகள்
+		  <br/>
+		  தேசிய நூலக வாரியம் [National Library Board]</label>
                   <div class="tab-content">
 		  <br/>
-<a href="/tlmoe/எஸ்பிளனேட்-கடலோரக்-கலை-அரங்கம்/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+<a href="/tlmoe/NLB-TL/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
+   காண்க: சுவரொட்டி</div></a>
   <br/>
                      <p>
-                     <h4 style="padding-top:12px;margin:10px;color:#9b4490;">தமிழ் &nbsp; நூலகச் &nbsp; சேவைகள்</h4>
+                     <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">தமிழ் நூலகச் சேவைகள்</h4>
                      </p>
-                     <p style="margin:10px;font-size:20px;">தேசிய நூலக வாரியம் விறுவிறுப்பான நிகழ்ச்சிகளையும் மின்வளங்களையும்  உள்ளடக்கிய 
+                     <p style="margin:10px;font-size:20px;font-family:Anjal InaiMathi;">தேசிய நூலக வாரியம் விறுவிறுப்பான நிகழ்ச்சிகளையும் மின்வளங்களையும்  உள்ளடக்கிய 
 		     விரிவான நூல் தொகுப்பு முதலியவற்றைக்கொண்டு   தாய்மொழியில் வாழ்நாள் வாசிக்கும் பழக்கத்தை ஊக்குவித்து வருகிறது. 
 		     வீட்டிலிருந்தவாறே வாசிப்பையும் கற்றலையும் மேற்கொள்வதற்கான வசதிகள் இப்போது நூலக வாரியத்திடம் இருக்கின்றன. 
 		     தேசிய நூலக வாரியத்தின் மின்வளங்களைப் பயன்படுத்துவதன் வாயிலாகத் தாய்மொழியைத் துடிப்புடன் கற்றிட இயலும்.  
@@ -288,136 +303,30 @@ Narrated by the ghost of Kaarmegam, husband of Sakunthala, as he watches over hi
 	  <tr>
             <td style="border:0 none;padding: 0; margin:0;">
                <div class="atab">
-                  <input id="tab-7" type="checkbox" name="tab">
-                  <label for="tab-7" class="lbTM">தமிழ் &nbsp; முரசு <br/>Tamil Murasu</label>
-                  <div class="tab-content">
-                     <p>
-		     <br/>
-<a href="/tlmoe/எஸ்பிளனேட்-கடலோரக்-கலை-அரங்கம்/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
-  <br/>
-                   <h4 style="padding-top:12px;margin:10px;color:#9b4490;">என் &nbsp; கற்றல் &nbsp; பயணம் &nbsp; தாய்மொழியைக் &nbsp; கொண்டு தொடங்குகிறது </h4>
-                     </p>
-              <p style="margin:10px;font-size:20px;">      
-சிங்கப்பூர் பிரஸ் ஹோல்டிங்ஸ்’ நிறுவனத்தால் பதிப்பிக்கப்படும் தமிழ் முரசு, மாணவர்களைச் சென்றடையக் கல்விசார்ந்த மாணவர் 
-படைப்புகளை வெளியிட்டு வருகிறது. தொடக்கநிலை மாணவர்களுக்கான மாணவர் முரசு, உயர்நிலை மாணவர்களுக்கான இளையர் 
-முரசு ஆகியவை அவற்றுள் அடங்கும்.
-2017-ஆம் ஆண்டு ஏப்ரல் மாதம் பாலர் பள்ளி மாணவர்களுக்கான பாலர் முரசு வெளியீடு கண்டது. 
-இது இரு வாரங்களுக்கு ஒருமுறை வெளியிடப்பட்டது. இவ்வெளியீடுகளில் ஆர்வத்தைத் தூண்டும் உள்ளடக்கம், 
-வண்ணமயமான தோற்றத்துடனான செய்திகள், விடுகதைகள்  முதலியவை அடங்கும். மாணவர்கள் மொழியைப்பற்றிய தெளிவான புரிந்துணர்வை 
-இந்த வெளியீடுகளின்மூலம் பெறுகிறார்கள். இவற்றைப் பற்றிய விரிவான விவரங்கள் கூடத்தில் இடம்பெற்றிருக்கும்.
-</p>
-    <br/> 
-    <p>
-  <h4 style="padding-top:12px;margin:10px;color:#9b4490;">My Learning Journey Begins with Mother Tongue</h4>
-        </p>
-           <p style="margin:10px;">
-     Published by the Singapore Press Holdings, Tamil Murasu has launched two student publications, namely Maanavar Murasu for primary students and Illayar Murasu for secondary students. 
-     Balar Murasu was first launched in April 2017. This publication for preschoolers is published fortnightly. 
-     These student publications aim to provide students with a better understanding of Tamil through presenting content in an interesting and engaging format. 
-          </p>
-                  </div>
-               </div>
-            </td>
-            <td style="border:0 none;padding: 0;" class="btnImg17">
-                         </td>
-         </tr>
-	   <tr>
-            <td style="border:0 none;padding: 0; margin:0;">
-               <div class="atab">
-                  <input id="tab-9" type="checkbox" name="tab">
-                  <label for="tab-9" class="lbTM">சிங்கப்பூர் &nbsp; விலங்குத்தோட்டம்<br/>Wildlife Reserves Singapore</label>
-                  <div class="tab-content">
-		  <br/>
-<a href="/tlmoe/எஸ்பிளனேட்-கடலோரக்-கலை-அரங்கம்/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
-  <br/>
-                     <p>
-                     <h4 style="padding-top:12px;margin:10px;color:#9b4490;">சிங்கப்பூர் &nbsp; விலங்குத்தோட்டத்தில் &nbsp; கதை &nbsp; நேரம்</h4>
-                     </p>
-                     <p style="margin:10px;font-size:20px;"> சிங்கப்பூர் விலங்குத்தோட்டம் குழந்தைகளின் கல்விசார்ந்த திறன்களை மேம்படுத்துவதற்குப் பயன்படுத்தக்கூடிய 
-		     தனித்துவம் மிக்க விலங்குக் கதைகளை வழங்குகிறது. அவற்றுள்  மீட்கப்பட்ட ஒரு நீர்நாயைப்பற்றிய `Little Otter Litter Trouble’ (லிட்டில் ஓட்டர் லிட்டர் டிரபல்) என்ற 
-		     எழுத்தில்லாப் படப்புத்தகம் வழியாகச் சொல்லப்பட்ட கதையும் ஒன்று. 
-		     ஆசிரியர்கள் மற்றும் பெற்றோர்களுக்கான இப்புத்தகம் பாலர் பள்ளிக் குழந்தைகளைக் கற்பனைமிக்க கதைச்சொல்லிகளாக மாற்றுவதற்கான செயற்பாட்டு 
-		     வழிகாட்டியுடன் வருகிறது. கதை சொல்லுதல் என்பது சொல் வளத்தை வளப்படுத்துவதற்கும் படைப்பாற்றலை மேம்படுத்துவதற்குமான மகிழ்வூட்டும் வழிமுறையாகும். 
-		     தொடக்கப்பள்ளி மாணவர்களுக்குத் தமிழில் தகவல்தொடர்புத் திறனை மேம்படுத்துவதற்கு ஒளிக்காட்சிகளும் நிழற்படங்களும் அவர்கள் வடிவமைத்துள்ள 
-		     விலங்குத் தோட்டப் பாதைகளில் இடம்பெற்றுள்ளன.
-		     
-                    <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Storytime with Singapore Zoo</h4>
-                     <p style="margin:10px;">
-                     Singapore Zoo offers unique animal stories that can help develop children’s literacy skills. One such story is about a rescued otter, told through a wordless book, Little Otter Litter Trouble. This book comes with an activity guide for teachers and parents to empower preschoolers to become imaginative storytellers. Storytelling is an engaging way to enrich vocabulary and promote creativity.  
-		     Also available are the videos and photographs featured in our zoo trails which are designed for primary school students to provide them the opportunity to speak the language and can sharpen their communication skills.
-                     </p>
-                  </div>
-               </div>
-            </td>
-            <td style="border:0 none;padding: 0;" class="btnImg17">
-        
-         </td>
-         </tr>
-	  <tr>
-            <td style="border:0 none;padding: 0; margin:0;">
-               <div class="atab">
-                  <input id="tab-8" type="checkbox" name="tab">
-                  <label for="tab-8" class="lbTM">வாழ்வியல் &nbsp; தமிழ்<br/>Umar Pulavar Tamil Language Centre</label>
-                  <div class="tab-content">
-		  <br/>
-<a href="/tlmoe/எஸ்பிளனேட்-கடலோரக்-கலை-அரங்கம்/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
-  <br/>
-                     <p>
-                    <h4 style="padding-top:12px;margin:10px;color:#9b4490;">வாழ்வியல் &nbsp; தமிழ்</h4>
-                     </p>
-                     <p style="margin:10px;font-size:20px;">தமிழ்மொழியை வாழும் மொழியாக்க முன்நடவடிக்கைகளில் தேசிய வளமையகமான 
-		     உமறுப்புலவர் தமிழ்மொழி நிலையம் தன் பங்கைச் சிறப்பாக ஆற்றிவருகின்றது. வகுப்பறைக்கு அப்பாலும் தமிழ்மொழியைப் பயன்படுத்தும் 
-		     ஆர்வத்தை மாணவர்களிடையே ஏற்படுத்துவதற்காகத் தேசிய அளவிலான பல்வேறு நிகழ்வுகளையும் நடவடிக்கைகளையும் அது மேற்கொண்டு 
-		     வருகின்றது. தகவல் தொடர்புச் சாதனங்களில் தமிழ்மொழியைப் பயன்படுத்தும் போக்கு அதிகரித்துவருகின்றது. 
-		     மொழி வளர்ச்சிக்குச்  சாதகமான இந்த நற்போக்கினைத் தமிழ்மொழிக் கற்றலுக்குப் பயன்படுத்திக்கொள்ளும் நோக்கில் தகவல் 
-		     தொடர்புச் சாதனங்களில் தமிழ்மொழியைப் பயன்படுத்துவதற்கு மாணவர்களுக்குப் பயிற்சிகளையும் கற்றல் நடவடிக்கைகளையும் 
-		     நிலையம் அளித்து வருகின்றது. இது போன்ற அன்றாட வாழ்க்கைச் சூழல்களில் தமிழ்மொழியைப் பயன்படுத்துவதற்கான பயிற்சிகளை நிலையத்தின் 
-		     தேசியத் தமிழ்மொழி விருப்பப் பாடம், தேசிய நிகழ்வுகள், வினவல் முறைக் கற்றல் நடவடிக்கைகள் போன்றவற்றின் வாயிலாக மாணவர்கள் பெற்று 
-		     வருகின்றனர்.
-                     <p>
-                     <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Making Tamil Come  Alive @ UPTLC</h4>
-                     </p>
-                     <p style="margin:10px;">
-                     The Umar Pulavar Tamil Language Centre (UPTLC) is a national resource centre that plays an active role in promoting Tamil as a living language. Through partnering community partners and schools, UPTLC carries out various events and activities at the national level to arouse the interest of students in the use of Tamil beyond the classroom and in everyday life.
-<br/>
-UPTLC also leverages on information and communication technology in teaching and learning, which has sparked students’ interest in learning not only the language, but also Tamil literature and its culture. Students have also benefited from the National Elective Tamil Language Programme, and experiential and enquiry-based learning at UPTLC.
-
-                     </p>
-                  </div>
-               </div>
-            </td>
-            <td style="border:0 none;padding: 0;" class="btnImg20">
-                          </td>
-         </tr>
-       
-         <tr>
-            <td style="border:0 none;padding: 0; margin:0;">
-               <div class="atab">
                   <input id="tab-6" type="checkbox" name="tab">
-                  <label for="tab-6" class="lbTM">தமிழ்மொழி &nbsp; கற்றல் &nbsp; வளர்ச்சிக்குழு <br/>Tamil Language Learning and Promotion Committee</label>
+                  <label for="tab-6" class="lbTM" style="font-family:Anjal InaiMathi;">தமிழ்மொழி கற்றல் வளர்ச்சிக்குழு
+		  <br/>
+		  தமிழ்மொழி கற்றல் வளர்ச்சிக்குழு [Tamil Language Learning and Promotion Committee]</label>
                   <div class="tab-content">
 		  <br/>
-<a href="/tlmoe/எஸ்பிளனேட்-கடலோரக்-கலை-அரங்கம்/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+<a href="/tlmoe/TLLPC/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
+  காண்க: சுவரொட்டி</div></a>
   <br/>
                      <p>
-                     <h4 style="padding-top:12px;margin:10px;color:#9b4490;">தமிழ்மொழி &nbsp; கற்றல் &nbsp; வளர்ச்சிக்குழு</h4>
+                     <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">தமிழ்மொழி கற்றல் வளர்ச்சிக்குழு</h4>
                      </p>
-                     <p style="margin:10px;font-size:20px;">
+                     <p style="margin:10px;font-size:20px;font-family:Anjal InaiMathi;">
  தமிழ்மொழியைச் சிங்கப்பூரில் வாழும் மொழியாகத் தொடர்ந்து நிலைபெறச் செய்யும் இலக்கோடு தமிழ்மொழி கற்றல் வளர்ச்சிக்குழு 
  சமூக அமைப்புகளுடன் இணைந்து பலதரப்பட்ட பயன்மிக்க நடவடிக்கைகளைத் தொய்வுறாது நடத்தி வருகிறது. தங்களது நோக்கத்தை     அடைவதற்காக இக்குழு அதன் திட்டங்களை மூன்றாக வகைப்படுத்தியுள்ளது. அவை முத்திரைத் திட்டங்கள், உடனிணைவுத் திட்டங்கள், 
  நிதி ஆதரவு வழங்கும் திட்டங்கள் முதலியவையாகும்.</p>
-             <p style="margin:10px;font-size:20px;">
+             <p style="margin:10px;font-size:20px;font-family:Anjal InaiMathi;">
 	     மாணவர்களிடையே தமிழ்மொழியின் மீதுள்ள பற்றை அதிகரிக்கவும் அவர்கள் தமிழ்ப் பண்பாட்டை அறிந்துகொள்ளவும் வகுப்பறைக்கு அப்பாலும் 
 	     மொழியைப் பயன்படுத்திச் சமூகத்தில் தமிழ்மொழியை நிலைப்பெறச் செய்யவும் இக்குழு கடந்த பதினைந்து ஆண்டுகளாக அரும்பாடுபட்டு வருகிறது. 
 	     அதனை முன்னிட்டு இவ்வாண்டு, இக்குழு கடந்து வந்த பாதையைப் பதிவுசெய்யும் வண்ணம் ‘நாவில் தமிழ்; நாளும் தமிழ்’ என்னும் தங்களது 
 	     முழக்கவரியையே பெயராகக் கொண்ட நினைவுமலர் ஒன்றை வெளியிட்டது. மேலும், முழக்கவரியைத் தலைப்பாகக் கொண்ட துடிப்புமிக்க  
 	     பாடல் ஒன்றும் வெளியிடப்பட்டது.</p>
 	     
-	     <p style="margin:10px;font-size:20px;">
+	     <p style="margin:10px;font-size:20px;font-family:Anjal InaiMathi;">
 கொவிட்-19 சூழ்நிலையிலும் இணையத்துவழி ‘அழகே! தமிழே!’, ‘பாலர்பள்ளித் தமிழாசிரியர்களுக்குரிய பயிலரங்கு’ போன்ற நிகழ்ச்சிகள் மாணவர்களுக்காகவும் 
 ஆசிரியர்களுக்காகவும் தொடர்ந்து நடத்தப்பட்டன. இவ்வாண்டு உமறுப்புலவர் தமிழ்மொழி நிலையத்துடன் இணைந்து நடத்தப்பட்ட பெற்றோருக்கான பயிலரங்கும்
 மாணவர்களுக்காக நடத்தப்பட்ட ‘சிகரத்தைத் தொடு’ பயிலரங்கும் பேராதரவைப் பெற்றன. இப்பயிலரங்குகள்வழி மாணவர்களுடன் பெற்றோர்களும் பயனடையக் கூடுதல் 
@@ -442,8 +351,121 @@ The TLLPC booth showcases programmes that enhance the learning and promotion of 
             <td style="border:0 none;padding: 0;" class="btnImg20">
                          </td>
          </tr>
-</table>
 	 
+	  <tr>
+            <td style="border:0 none;padding: 0; margin:0;">
+               <div class="atab">
+                  <input id="tab-7" type="checkbox" name="tab">
+                  <label for="tab-7" class="lbTM" style="font-family:Anjal InaiMathi;">என் கற்றல் பயணம் தாய்மொழியைக் கொண்டு தொடங்குகிறது
+		  <br/>
+		  தமிழ் முரசு &nbsp; [Tamil Murasu]</label>
+                  <div class="tab-content">
+                     <p>
+		     <br/>
+<a href="/tlmoe/Tamil-Murasu/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
+   காண்க: சுவரொட்டி</div></a>
+  <br/>
+                   <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">என் கற்றல் பயணம் தாய்மொழியைக் கொண்டு தொடங்குகிறது </h4>
+                     </p>
+              <p style="margin:10px;font-size:20px;font-family:Anjal InaiMathi;">      
+சிங்கப்பூர் பிரஸ் ஹோல்டிங்ஸ்’ நிறுவனத்தால் பதிப்பிக்கப்படும் தமிழ் முரசு, மாணவர்களைச் சென்றடையக் கல்விசார்ந்த மாணவர் 
+படைப்புகளை வெளியிட்டு வருகிறது. தொடக்கநிலை மாணவர்களுக்கான மாணவர் முரசு, உயர்நிலை மாணவர்களுக்கான இளையர் 
+முரசு ஆகியவை அவற்றுள் அடங்கும்.
+2017-ஆம் ஆண்டு ஏப்ரல் மாதம் பாலர் பள்ளி மாணவர்களுக்கான பாலர் முரசு வெளியீடு கண்டது. 
+இது இரு வாரங்களுக்கு ஒருமுறை வெளியிடப்பட்டது. இவ்வெளியீடுகளில் ஆர்வத்தைத் தூண்டும் உள்ளடக்கம், 
+வண்ணமயமான தோற்றத்துடனான செய்திகள், விடுகதைகள்  முதலியவை அடங்கும். மாணவர்கள் மொழியைப்பற்றிய தெளிவான புரிந்துணர்வை 
+இந்த வெளியீடுகளின்மூலம் பெறுகிறார்கள். இவற்றைப் பற்றிய விரிவான விவரங்கள் கூடத்தில் இடம்பெற்றிருக்கும்.
+</p>
+    <br/> 
+    <p>
+  <h4 style="padding-top:12px;margin:10px;color:#9b4490;">My Learning Journey Begins with Mother Tongue</h4>
+        </p>
+           <p style="margin:10px;">
+     Published by the Singapore Press Holdings, Tamil Murasu has launched two student publications, namely Maanavar Murasu for primary students and Illayar Murasu for secondary students. 
+     Balar Murasu was first launched in April 2017. This publication for preschoolers is published fortnightly. 
+     These student publications aim to provide students with a better understanding of Tamil through presenting content in an interesting and engaging format. 
+          </p>
+                  </div>
+               </div>
+            </td>
+            <td style="border:0 none;padding: 0;" class="btnImg17">
+                         </td>
+         </tr>
+	  <tr>
+            <td style="border:0 none;padding: 0; margin:0;">
+               <div class="atab">
+                  <input id="tab-8" type="checkbox" name="tab">
+                  <label for="tab-8" class="lbTM" style="font-family:Anjal InaiMathi;">வாழ்வியல் தமிழ்
+		  <br/>
+		  உமறுப்புலவர் தமிழ்மொழி நிலையம் [Umar Pulavar Tamil Language Centre]</label>
+                  <div class="tab-content">
+		  <br/>
+<a href="/tlmoe/UPTLC/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
+  காண்க: சுவரொட்டி</div></a>
+  <br/>
+                     <p>
+                    <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">வாழ்வியல் தமிழ்</h4>
+                     </p>
+                     <p style="margin:10px;font-size:20px;font-family:Anjal InaiMathi;">தமிழ்மொழியை வாழும் மொழியாக்க முன்நடவடிக்கைகளில் தேசிய வளமையகமான 
+		     உமறுப்புலவர் தமிழ்மொழி நிலையம் தன் பங்கைச் சிறப்பாக ஆற்றிவருகின்றது. வகுப்பறைக்கு அப்பாலும் தமிழ்மொழியைப் பயன்படுத்தும் 
+		     ஆர்வத்தை மாணவர்களிடையே ஏற்படுத்துவதற்காகத் தேசிய அளவிலான பல்வேறு நிகழ்வுகளையும் நடவடிக்கைகளையும் அது மேற்கொண்டு 
+		     வருகின்றது. தகவல் தொடர்புச் சாதனங்களில் தமிழ்மொழியைப் பயன்படுத்தும் போக்கு அதிகரித்துவருகின்றது. 
+		     மொழி வளர்ச்சிக்குச்  சாதகமான இந்த நற்போக்கினைத் தமிழ்மொழிக் கற்றலுக்குப் பயன்படுத்திக்கொள்ளும் நோக்கில் தகவல் 
+		     தொடர்புச் சாதனங்களில் தமிழ்மொழியைப் பயன்படுத்துவதற்கு மாணவர்களுக்குப் பயிற்சிகளையும் கற்றல் நடவடிக்கைகளையும் 
+		     நிலையம் அளித்து வருகின்றது. இது போன்ற அன்றாட வாழ்க்கைச் சூழல்களில் தமிழ்மொழியைப் பயன்படுத்துவதற்கான பயிற்சிகளை நிலையத்தின் 
+		     தேசியத் தமிழ்மொழி விருப்பப் பாடம், தேசிய நிகழ்வுகள், வினவல் முறைக் கற்றல் நடவடிக்கைகள் போன்றவற்றின் வாயிலாக மாணவர்கள் பெற்று 
+		     வருகின்றனர்.
+                     <p>
+                     <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Making Tamil Come  Alive @ UPTLC</h4>
+                     </p>
+                     <p style="margin:10px;">
+                     The Umar Pulavar Tamil Language Centre (UPTLC) is a national resource centre that plays an active role in promoting Tamil as a living language. Through partnering community partners and schools, UPTLC carries out various events and activities at the national level to arouse the interest of students in the use of Tamil beyond the classroom and in everyday life.
+<br/>
+UPTLC also leverages on information and communication technology in teaching and learning, which has sparked students’ interest in learning not only the language, but also Tamil literature and its culture. Students have also benefited from the National Elective Tamil Language Programme, and experiential and enquiry-based learning at UPTLC.
+
+                     </p>
+                  </div>
+               </div>
+            </td>
+            <td style="border:0 none;padding: 0;" class="btnImg20">
+                          </td>
+         </tr>
+	   <tr>
+            <td style="border:0 none;padding: 0; margin:0;">
+               <div class="atab">
+                  <input id="tab-9" type="checkbox" name="tab">
+                  <label for="tab-9" class="lbTM" style="font-family:Anjal InaiMathi;">சிங்கப்பூர் விலங்குத்தோட்டத்தில் கதை நேரம்
+		  <br/>
+		  சிங்கப்பூர் விலங்குத்தோட்டம் [Wildlife Reserves Singapore]</label>
+                  <div class="tab-content">
+		  <br/>
+<a href="/tlmoe/WRS-TL/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
+   காண்க: சுவரொட்டி</div></a>
+  <br/>
+                     <p>
+                     <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">சிங்கப்பூர் விலங்குத்தோட்டத்தில் கதை நேரம்</h4>
+                     </p>
+                     <p style="margin:10px;font-size:20px;font-family:Anjal InaiMathi;"> சிங்கப்பூர் விலங்குத்தோட்டம் குழந்தைகளின் கல்விசார்ந்த திறன்களை மேம்படுத்துவதற்குப் பயன்படுத்தக்கூடிய 
+		     தனித்துவம் மிக்க விலங்குக் கதைகளை வழங்குகிறது. அவற்றுள்  மீட்கப்பட்ட ஒரு நீர்நாயைப்பற்றிய `Little Otter Litter Trouble’ (லிட்டில் ஓட்டர் லிட்டர் டிரபல்) என்ற 
+		     எழுத்தில்லாப் படப்புத்தகம் வழியாகச் சொல்லப்பட்ட கதையும் ஒன்று. 
+		     ஆசிரியர்கள் மற்றும் பெற்றோர்களுக்கான இப்புத்தகம் பாலர் பள்ளிக் குழந்தைகளைக் கற்பனைமிக்க கதைச்சொல்லிகளாக மாற்றுவதற்கான செயற்பாட்டு 
+		     வழிகாட்டியுடன் வருகிறது. கதை சொல்லுதல் என்பது சொல் வளத்தை வளப்படுத்துவதற்கும் படைப்பாற்றலை மேம்படுத்துவதற்குமான மகிழ்வூட்டும் வழிமுறையாகும். 
+		     தொடக்கப்பள்ளி மாணவர்களுக்குத் தமிழில் தகவல்தொடர்புத் திறனை மேம்படுத்துவதற்கு ஒளிக்காட்சிகளும் நிழற்படங்களும் அவர்கள் வடிவமைத்துள்ள 
+		     விலங்குத் தோட்டப் பாதைகளில் இடம்பெற்றுள்ளன.
+		     
+                    <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Storytime with Singapore Zoo</h4>
+                     <p style="margin:10px;">
+                     Singapore Zoo offers unique animal stories that can help develop children’s literacy skills. One such story is about a rescued otter, told through a wordless book, Little Otter Litter Trouble. This book comes with an activity guide for teachers and parents to empower preschoolers to become imaginative storytellers. Storytelling is an engaging way to enrich vocabulary and promote creativity.  
+		     Also available are the videos and photographs featured in our zoo trails which are designed for primary school students to provide them the opportunity to speak the language and can sharpen their communication skills.
+                     </p>
+                  </div>
+               </div>
+            </td>
+            <td style="border:0 none;padding: 0;" class="btnImg17">
+        
+         </td>
+         </tr>
+</table>	 
   <hr>
    <div class="image">
       <img src="images/2021-08-04_MTLS_Web_Footer_600X250_300dpi.jpg" class="Image" width="1000" height="300"></div>
