@@ -72,7 +72,7 @@ background-color: lightgrey;!important;
 </script>
 </head>
 <body>
-    <img src="/images/MTLS2021_Challenge_CL.jpg" style="width:100%; display:none;">
+    <img src="/images/MTLS2021_Challenge_CL.jpg" style="width:100%;">
        <br/>
     <div>  <h2 style="font-family:KaiTi;color:#d84178;">中小学</h2></div>
     <br/>
