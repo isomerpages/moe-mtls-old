@@ -128,7 +128,7 @@ Dalam Kurikulum Bahasa Ibunda, pelbagai peralatan ICT dan strategi pembelajaran 
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-10" type="checkbox" name="tab">
-      <label for="tab-10" class="lbML">Mari Bekerjasama untuk Memupuk Kemahiran Dwibahasa pada Peringkat Awal Kanak-kanak
+      <label for="tab-10" class="lbML">Mari Bekerjasama untuk Memupuk Kemahiran Dwibahasa pada Peringkat Awal Kanak-kanak!
   <br/>Tadika MOE di Punggol Green (MK@Punggol Green)
 </label>
       <div class="tab-content">
@@ -136,7 +136,7 @@ Dalam Kurikulum Bahasa Ibunda, pelbagai peralatan ICT dan strategi pembelajaran 
 <a href="/mlmoe/Punggol-Green/"> <div class="btnvideo" style="font-size:16px;">
     View  Poster</div></a>
   <br/>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari Bekerjasama untuk Memupuk Kemahiran Dwibahasa pada Peringkat Awal Kanak-kanak
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari Bekerjasama untuk Memupuk Kemahiran Dwibahasa pada Peringkat Awal Kanak-kanak!
 </h4>
         <p style="margin:10px;">
        Tadika MOE di Punggol Green memupuk kemahiran dwibahasa dalam murid-murid prasekolah melalui program berasaskan pusat. Program ini bertujuan untuk membina keyakinan kanak-kanak menggunakan bahasa Inggeris dan bahasa ibunda (MTL) di sekolah dan di rumah. Melalui program tersebut, Tadika MOE di Punggol Green bekerja rapat dengan ibu bapa untuk menyokong kedwibahasaan kanak-kanak selain membantu kanak-kanak menangani perubahan yang dialami mereka. <br/><br/>
