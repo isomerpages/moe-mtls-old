@@ -92,7 +92,7 @@ background-color: lightgrey;!important;
        Creative O Preschoolers’ Bay</span></label>
       <div class="tab-content">
         <br/>
-       <a href="/clmoe/Creative-O/"> <div class="btnvideo" style="font-size:16px;">
+       <a href="/clmoe/Creative-O/"> <div class="btnvideo" style="font-size:16px;font-family:KaiTi">
         阅览展板</div></a>
   <br/>
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">母语学习-用全语言让母语活起来！</h4>
