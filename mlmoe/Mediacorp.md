@@ -15,11 +15,9 @@ breadcrumb: 'Stor Atuk'
 <a href="/exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-e/Community-Partners/" style="float:right;">Back</a>
  <img src="/images/MTLS2021-Mediacorp_ML_Final.jpg"> <br/>
  <a href=" www.mewatch.sg/show/Stor-Atuk-194915 " target="_blank"><span style="font-size: 30px;">mewatch</span></a> <br/>
- 
  Stor Atuk Trailer
   <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/MhE0LSlbwSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br/>
- 
  Stor Atuk Season 1 Episode 1
   <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/m-4PdE9hX1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
