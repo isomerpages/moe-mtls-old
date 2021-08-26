@@ -148,10 +148,9 @@ background-color: lightgrey;!important;
             本基金的社交媒体平台上（包括YouTube频道、Facebook和Instagram）有许多生动有趣的母语视频，供老师及家长与孩童一起观赏、学习。
         </p><br/>
           <h4 style="margin:10px;color:#d84178;">My Mother Tongue, My Companion</h4>
-          <p style="margin:10px;">The establishment of the Lee Kuan Yew Fund for Bilingualism was announced by Mr Lee Kuan Yew at the launch of “My Lifelong Challenge: Singapore’s Bilingual Journey” in 2011.<br/><br />
-              The Fund supports creative and engaging approaches that encourage bilingualism and the learning of Mother Tongue Languages (MTLs) as living languages.  The fund acts as a
-catalyst in supporting the learning and the use of MTLs through various fund-supported resources and programmes. Fun and interesting videos that support the learning of MTLs for young children can be accessed through platforms such as the Fund’s official YouTube channel, Facebook and Instagram.
-</p>
+          <p style="margin:10px;">The establishment of the Lee Kuan Yew Fund for Bilingualism was announced by Mr Lee Kuan Yew at the launch of the book "My Lifelong Challenge: Singapore’s Bilingual Journey" in 2011.
+The Fund supports creative and engaging approaches to encourage bilingualism and the learning of Mother Tongue Languages (MTLs) as living languages. The Fund acts as a catalyst in supporting the learning and in the usage of MTLs through various fund-supported resources and programmes. Fun and interesting videos that support the learning of MTLs for young children can be accessed through platforms such as the Fund’s official YouTube channel, Facebook and Instagram.
+                     </p>
 </div>
 </div>
 </td>
