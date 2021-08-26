@@ -86,8 +86,8 @@ background-color: lightgrey;!important;
   மேரிமௌண்ட் பள்ளி [Marymount Convent School]</label>
       <div class="tab-content">
        <br/>
-<a href=" /tlmoe/Marymount-Convent/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+<a href=" /tlmoe/Marymount-Convent/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
+    காண்க: சுவரொட்டி</div></a>
   <br/>
       <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;font-family:Anjal InaiMathi;">வாசிப்பின் மூலம் பெற்றோர்- பிள்ளை இடையே பிணைப்பு
 </h4>
@@ -112,8 +112,8 @@ background-color: lightgrey;!important;
        மொன்ஃபர்ட் ஜூனியர் பள்ளிிி [Montfort Junior School]</label>
       <div class="tab-content">
      <br/>
-<a href=" /tlmoe/Montfort-Junior/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+<a href=" /tlmoe/Montfort-Junior/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
+    காண்க: சுவரொட்டி</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;font-family:Anjal InaiMathi;">வகுப்பறைகளிலும் வகுப்பறைக்கப்பாலும் மகிழ்வூட்டும் கற்றல்</h4>
        <p style="margin:10px;font-size:20px;font-family:Anjal InaiMathi;">
@@ -137,8 +137,8 @@ background-color: lightgrey;!important;
        யீஷூன் தொடக்கப்பள்ளிிி [Yishun Primary School]</label>
       <div class="tab-content">
       <br/>
-<a href=" /tlmoe/Yishun-Pri/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+<a href=" /tlmoe/Yishun-Pri/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
+    காண்க: சுவரொட்டி</div></a>
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;font-family:Anjal InaiMathi;">நிரலாக்கத்தின்வழித் தமிழ்மொழி </h4>
        <p style="margin:10px;font-size:20px;">யீஷூன் தொடக்கப்பள்ளியின் தமிழ்த்துறை, மாணவர்களை உற்சாகப்படுத்தவும் அவர்களது தமிழ்மொழிக் கற்றலை மேம்படுத்தவும் ‘நிரலாக்கம்’ என்னும் குறியீட்டு முறையை அறிமுகப்படுத்தியது. மாணவர்களுக்கு மொழியின்மீது ஆர்வத்தை ஏற்படுத்துவதற்கும்  மொழியில்  மீள்திறன்களை வளர்த்துக்கொள்வதற்கும் இப்பயிற்சி அடித்தளமாக அமையும் என்பது அவர்களது நம்பிக்கையாகும். முதலில், மாணவர்கள் நிரலாக்கக் குறியீட்டைப் பயன்படுத்தக் கற்றுக்கொண்டனர். அடுத்து அவர்கள் குழுவாக ‘SCRATCH’ என்ற தொழில்நுட்பச் செயலியைப் பயன்படுத்திச் செய்யுள், ஒலிவேறுபாடு, காலங்கள் முதலான மொழிக்கூறுகளைச் சோதிக்கும் விளையாட்டுகளை உருவாக்கினார்கள். பின்னர், திட்டப்பணியில் ஈடுபட்டு, விளையாட்டுகளை வடிவமைத்து, அவற்றுக்கான வினாக்களையும் விதிமுறைகளையும் உருவாக்கினர். பல படிநிலைகளைக் கடந்த பிறகே மாணவர்களால் முழுமையான விளையாட்டை இந்தச் செயலியின் வாயிலாகத் தயாரிக்க முடிந்தது.    
@@ -164,8 +164,8 @@ Such game-based learning was introduced as an effective approach to learn the la
        தெமாசெக் உயர்நிலைப் பள்ளியில் [Temasek Secondary School]</label>
       <div class="tab-content">
        <br/>
-<a href=" /tlmoe/Temasek-Sec/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
+<a href=" /tlmoe/Temasek-Sec/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
+    காண்க: சுவரொட்டி</div></a>
   <br/>
       <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;font-family:Anjal InaiMathi;">நாடகத்தின்வழியே மாணவர்களின் கற்றல் திறன்களை மேம்படுத்துதல் (கலவைமுறைவழி அணுகுதல்) </h4>
        <p style="margin:10px;font-size:20px;font-family:Anjal InaiMathi;"> தெமாசெக் உயர்நிலைப் பள்ளியில் இடம்பெறும் பேச்சு, நடிப்புப் பயிலரங்கின் மூலம் மாணவர்கள்  தமிழ்மொழியை விரும்பவும், தன்னம்பிக்கையை  வளர்த்துக்கொள்ளவும், வாய்மொழித் திறன்களை மேம்படுத்திக் கொள்ளவும், கற்பனைத் திறனைப் பெருக்கிக் கொள்ளவும் ஒருங்கிணைந்த வாய்ப்பைப் பெறுகிறார்கள். 
