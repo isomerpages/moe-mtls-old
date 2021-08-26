@@ -134,7 +134,7 @@ background-color: lightgrey;!important;
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2" class="lbTM" style="font-family:Anjal InaiMathi;">நிரலாக்கத்தின்வழித் தமிழ்மொழி <br/>
-       யீஷூன் தொடக்கப்பள்ளிி [Yishun Primary School]</label>
+       யீஷூன் தொடக்கப்பள்ளிிி [Yishun Primary School]</label>
       <div class="tab-content">
       <br/>
 <a href=" /tlmoe/Yishun-Pri/"> <div class="btnvideo" style="font-size:16px;">
