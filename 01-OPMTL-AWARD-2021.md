@@ -85,7 +85,7 @@ PCF Sparkletots @ Boon Lay Blk 631 </center>
 <a href="/award/Mdm-Ye-Suqin/"><img src="/images/Mdm-Ye-Suqin.png" style="width:100% ;display:block;"> </a>
  <p> <center> Mdm Ye Suqin<br/>
   <span style= "font-family:KaiTi; font-size:25px;"> 叶素琴老师</span> 
-  <br/>PCF Sparkletots@ Kampong Chai Chee Blk 135</center> 
+  <br/>PCF Sparkletots @ Kampong Chai Chee Blk 135</center> 
   </p>
     </div>
     </div>
@@ -110,14 +110,14 @@ PCF Sparkletots @ Boon Lay Blk 631 </center>
   <div class="column">
 <img src="/images/Ms-Sharmila-Devi.png" style="width:100%">
  <p> <center> Ms Sharmila DeviD/O MutuManium <br/>
-  PCF Sparkletots @ Boon LayBlk 262 </center></p>
+  PCF Sparkletots @ Boon Lay Blk 262 </center></p>
     </div>
    </div>
    <div class="row">
  <div class="column">
 <img src="/images/Ms-Zahidah-Mahmood.png" style="width:100%">
  <p> <center>Ms Zahidah Binte Mahmood <br/>
-M.Y WORLD@Punggol Edge</center>
+M.Y WORLD @ Punggol Edge</center>
  </p>
     </div></div>
   
