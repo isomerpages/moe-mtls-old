@@ -12,7 +12,7 @@ breadcrumb: Live Sessions
   gtag('js', new Date());
   gtag('config', 'AW-726049306');
 </script>
- <a href="/opening-ceremony/"><img src="/images/2021-08-23_MTLS-Programme-Banner-01.jpg"></a>
+ <a href="/opening-ceremony/"><img src="/images/2021-08-23_MTLS Programme Banner-01.jpg"></a>
 <br/>
 <a href="/eng/panel-discussion/"><img src="/images/2021-08-23_MTLS-Programme-Banner-02.jpg"></a>
 <br/>
