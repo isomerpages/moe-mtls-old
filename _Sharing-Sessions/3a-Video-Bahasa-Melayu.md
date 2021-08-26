@@ -111,8 +111,8 @@ background-color: lightgrey;!important;
  <div class="column">
 <img src="/images/Speakers_ML Nurashikin Jasni.png" style="width:100%">
    </div>
-   <p><strong>Mdm Nurashikin Jasni
- </strong> 
+   <p><strong>Mdm Nurashikin Jasni</strong> <br/>
+    Parent Influencer/Author
  </p>
    </div>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil</h4> 
@@ -157,6 +157,8 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
 <img src="/images/Speakers_ML Jumaini bte Ariff.png" style="width:100%">
    </div>
    <p><strong>Mdm Jumaini bte Ariff</strong><br/>
+    Founder<br/>
+    Storyscribblers
     </p>
    </div>
       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil </h4>  
@@ -197,7 +199,9 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
  <div class="column">
 <img src="/images/Speakers_ML Haniman.png" style="width:100%">
    </div>
-   <p> <strong>Mr Haniman Boniran </strong>
+   <p> <strong>Mr Haniman Boniran </strong><br/>
+    Manager (Education)<br/>
+    Wildlife Reserves Singapore
  </p>
  </div>
              <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil</h4>   
