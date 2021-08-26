@@ -14,6 +14,8 @@ breadcrumb: 'Dana Kedwibahasaan Lee Kuan Yew'
 </script>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-e/community-partners/" style="float:right;">Back</a>
  <img src="/images/Test-LKYFB-Header-Footer-Small-Logo.jpg"> <br/>
+ Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM). <br/>
+ 
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/51wFosK9cGI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
