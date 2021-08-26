@@ -26,7 +26,7 @@ max-width:100%;
     <br/>
     <h4 style="font-family:KaiTi;">感言：</h4>
     <p style="font-family:KaiTi; font-size:25px; text-align:justify">
- 幼儿天性好动、好玩、好探索。引起他们的兴趣是学习的第一步，也是关键的一步，做好了，他们就能持续、投入地探索。身为学前华文教师的我们，在幼儿的学习活动中是观察者和引导者。如果我们善于发现幼儿学习的规律，引导并激发他们的学习兴趣，就能让每个孩子亲近华文华语，并有信心用好华文华语。
+ 幼儿天性好动、好玩、好探索。引起他们的兴趣是学习的第一步，也是关键的一步，做好了，他们就能持续、投入地探索。身为学前华文教师的我们，在幼儿的学习活动中既是观察者，也是引导者。如果我们善于发现幼儿学习的规律，引导并激发他们的学习兴趣，就能让每个孩子亲近华文华语，并有信心用好华文华语。
      </p>
       <h4 style="font-family:KaiTi;">评语：</h4>
     <p style="font-family:KaiTi; font-size:25px; text-align:justify">王志洪老师与幼儿互动时积极投入。她的语言生动、清晰且生活化，让幼儿乐于和她交流，是一位深受幼儿喜爱的老师。
@@ -42,17 +42,17 @@ max-width:100%;
      <p style="font-family:KaiTi; font-size:25px; text-align:justify">从事幼教工作多年的王老师仍保持着高度的教学热忱，她不断进取，提升自己的教学水平，是年轻教师的楷模！
     </p>
      <h4>Quote:</h4>
-    <p style="text-align:justify">Children are playful and curious by nature. When children’s interest in learning has been sparked, they will immerse themselves in the activities. As pre-school teachers, our role is to observe and facilitate.By identifying children’s learning patterns and sparking their interest in learning, we can endear the language to every child, and help them grow to become confident users of Chinese.</p>
+    <p style="text-align:justify">Children are playful and curious by nature. When children’s interest in learning has been sparked, they will immerse themselves in the activities. As pre-school teachers, our role is to observe and facilitate. By identifying children’s learning patterns and sparking their interest in learning, we can endear the language to every child, and help them grow to become confident users of Chinese.</p>
     <h4>Write-up</h4>
      <p style="text-align:justify">Mdm Wang Zhihong is a warm and friendly pre-school teacher who interacts spontaneously with the children and communicates with them in a vivid and relatable manner.
     </p>
-     <p style="text-align:justify"> Mdm Wang’s lesson content relates to children's life experiences, and she scaffolds the lessonto help them make meaning and apply what they have learned to their daily lives, so thatthe children find Mother Tongue Language to bea living language.
+     <p style="text-align:justify"> Mdm Wang’s lesson content relates to children's life experiences, and she scaffolds the lesson to help them make meaning and apply what they have learned to their daily lives, so that the children find Mother Tongue Language to be a living language.
     </p>
-     <p style="text-align:justify">Children in Mdm Wang’s class participate actively and express themselves confidently in Chinese. This is a testament to Mdm Wang’s efforts in developing the children's collaboration skills and supporting themto build a strong foundation in Chinese in her daily teaching.
+     <p style="text-align:justify">Children in Mdm Wang’s class participate actively and express themselves confidently in Chinese. This is a testament to Mdm Wang’s efforts in developing the children's collaboration skills and supporting them to build a strong foundation in Chinese in her daily teaching.
     </p>
-     <p style="text-align:justify">Mdm Wang selects appropriate teaching resources and effectively uses stories and songs to develop children's listening, speaking, pre-reading and writing skills. She makes good use of song lyrics to guide children to learn quantifiers. Mdm Wang imbues in her classa basic awareness of the functions of words and characters and seizes teachable moments during her interaction with them, such as by explaining the meaning of new words used in their conversations and encouraging children to read out words that they recognise from their parents’ communication journals. She believes that the good teacher-parent partnership can better support children’s learning. 
+     <p style="text-align:justify">Mdm Wang selects appropriate teaching resources and effectively uses stories and songs to develop children's listening, speaking, pre-reading and writing skills. She makes good use of song lyrics to guide children to learn quantifiers. Mdm Wang imbues in her class a basic awareness of the functions of words and characters and seizes teachable moments during her interaction with them, such as by explaining the meaning of new words used in their conversations and encouraging children to read out words that they recognise from their parents’ communication journals. She believes that the good teacher-parent partnership can better support children’s learning. 
     </p>
-     <p style="text-align:justify">Mdm Wang is proficient at guiding and stimulating children's interest in learning. She uses a variety of materials and stories related to different ethnic cultures to promote children's cultural awareness. She creates a pleasant environment for children to learn the language through abundant encouragement and affirmation for their efforts, in orderto build up children’s self-confidence.
+     <p style="text-align:justify">Mdm Wang is proficient at guiding and stimulating children's interest in learning. She uses a variety of materials and stories related to different ethnic cultures to promote children's cultural awareness. She creates a pleasant environment for children to learn the language through abundant encouragement and affirmation for their efforts, in order to build up children’s self-confidence.
     </p>
     <p style="text-align:justify">Mdm Wang places great emphasis on addressing children’s diverse learning needs. Mdm Wang maintains great passion in teaching after being a pre-school educator for many years. She is indeed a role model for young teachers in the fraternity!
     </p>
