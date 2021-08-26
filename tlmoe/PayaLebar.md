@@ -1,7 +1,7 @@
 ---
-title: 'PCF Sparkletots Preschool @ Paya Lebar'
+title: 'ம.செ.க சமூக அறநிறுவனம் ஸ்பார்கல்டாட்ஸ் பாலர் பள்ளி, பயா லேபார் பிளோக் 23'
 permalink: /tlmoe/PayaLebar/
-breadcrumb: 'PCF Sparkletots Preschool @ Paya Lebar'
+breadcrumb: 'ம.செ.க சமூக அறநிறுவனம் ஸ்பார்கல்டாட்ஸ் பாலர் பள்ளி, பயா லேபார் பிளோக் 23'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
