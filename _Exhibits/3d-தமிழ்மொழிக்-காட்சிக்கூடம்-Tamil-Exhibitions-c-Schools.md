@@ -109,7 +109,7 @@ background-color: lightgrey;!important;
       <input id="tab-3" type="checkbox" name="tab">
       <label for="tab-3" class="lbTM" style="font-family:Anjal InaiMathi;" >வகுப்பறைகளிலும் வகுப்பறைக்கப்பாலும் மகிழ்வூட்டும் கற்றல்
        <br/>
-       மொன்ஃபர்ட் ஜூனியர் பள்ளிி [Montfort Junior School]</label>
+       மொன்ஃபர்ட் ஜூனியர் பள்ளிிி [Montfort Junior School]</label>
       <div class="tab-content">
      <br/>
 <a href=" /tlmoe/Montfort-Junior/"> <div class="btnvideo" style="font-size:16px;">
