@@ -86,7 +86,7 @@ table.center {
   gtag('config', 'AW-726049306');
 </script>
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
-<div class="tab">
+<div class="tab" style="display:none;">
   <a href="/mlmoe/ML-PreSch/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass lbML1">Prasekolah</div></a>
   <a href="/mlmoe/ML-PriSch/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass lbML1">Sekolah Rendah</div></a>
   <a href="/mlmoe/ML-Sec/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass lbML1">Sekolah Menengah</div></a>

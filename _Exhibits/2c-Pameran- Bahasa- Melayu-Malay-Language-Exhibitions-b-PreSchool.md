@@ -71,7 +71,7 @@ background-color: lightgrey;!important;
 </script>
 </head>
 <body>
-    <img src="/images/MTLS2021_Challenge_ML.jpg" style="width:100%">
+    <img src="/images/MTLS2021_Challenge_ML.jpg" style="width:100%;  display:none;">
    <br/>
    <div> <h2 style="padding-top:12px;color:#a3c864;">Prasekolah</h2></div>
   <br/>

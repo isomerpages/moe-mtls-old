@@ -91,7 +91,7 @@ background-color: lightgrey;!important;
 </head>
 <body>  
  <br/>
- <img src="/images/MTLS2021_Challenge_ML.jpg" style="width:100%">
+ <img src="/images/MTLS2021_Challenge_ML.jpg" style="width:100%; display:none;">
    <br/>
 <table class="tbl">
 <tr>
@@ -111,8 +111,8 @@ background-color: lightgrey;!important;
  <div class="column">
 <img src="/images/Speakers_ML Nurashikin Jasni.png" style="width:100%">
    </div>
-   <p><strong>Mdm Nurashikin Jasni
- </strong> 
+   <p><strong>Mdm Nurashikin Jasni</strong> <br/>
+    Parent Influencer/Author
  </p>
    </div>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil</h4> 
@@ -157,6 +157,8 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
 <img src="/images/Speakers_ML Jumaini bte Ariff.png" style="width:100%">
    </div>
    <p><strong>Mdm Jumaini bte Ariff</strong><br/>
+    Founder<br/>
+    Storyscribblers
     </p>
    </div>
       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil </h4>  
@@ -197,7 +199,9 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
  <div class="column">
 <img src="/images/Speakers_ML Haniman.png" style="width:100%">
    </div>
-   <p> <strong>Mr Haniman Boniran </strong>
+   <p> <strong>Mr Haniman Boniran </strong><br/>
+    Manager (Education)<br/>
+    Wildlife Reserves Singapore
  </p>
  </div>
              <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil</h4>   
@@ -291,7 +295,7 @@ Ms Rilla Melati Bahri
        <p><h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil</h4></p>
        <p style="margin:10px;">Dr Mukhlis Abu Bakar merupakan Profesor Madya di Institut Pendidikan Nasional (NIE), Universiti Teknologi Nanyang. Beliau memperoleh ijazah MA dan PhD dalam bidang Linguistik Gunaan dari Universiti Wales, Bangor, UK. Beliau mengajar kursus-kursus linguistik, analisis wacana, literasi kritis dan pendidikan dwibahasa, dan pernah menerima Anugerah Kecemerlangan Pengajaran NIE pada tahun 2011, 2018 dan 2020. Minat penyelidikannya tertumpu kepada bidang dwibahasa, dwiliterasi, pembelajaran literasi, dan isu sebutan dalam bahasa Melayu. Beliau merupakan Penyunting Bersama sebuah buku yang bakal terbit pada bulan Ogos ini – "The Bloomsbury Handbook of Cultural Identity from Early Childhood to Early Adulthood".</p>
         <p><h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil</h4></p>
-       <p style="margin:10px;">Rilla Melati Bahri, Pemenang Anugerah Persuratan (Sastera Kanak-Kanak) pada tahun 2017 dan 2021membangunkan kandungan kreatif untuk bilik darjah dan juga televisyen. Beliau telah menghasilkan lebih daripada 25 buah buku kanak-kanak. Pemegang Ijazah Kepujian Pengajian Teater dari NUS ini juga memiliki ijazah possiswazah dalam bidang Pendidikan dari NIE-NTU.  Rilla ialah pengasas Mini Monsters Ltd, sebuah institusi didik-hibur dwibahasa (Melayu-Inggeris) yang terkenal di Asia yang mempromosikan pembelajaran bahasa Melayu melalui kandungan-kandungan silang media yang menarik, mendidik dan menghiburkan.</p>
+       <p style="margin:10px;">Rilla Melati Bahri, Pemenang Anugerah Persuratan (Sastera Kanak-Kanak) pada tahun 2017 dan 2021 membangunkan kandungan kreatif untuk bilik darjah dan juga televisyen. Beliau telah menghasilkan lebih daripada 25 buah buku kanak-kanak. Pemegang Ijazah Kepujian Pengajian Teater dari NUS ini juga memiliki ijazah possiswazah dalam bidang Pendidikan dari NIE-NTU.  Rilla ialah pengasas Mini Monsters Ltd, sebuah institusi didik-hibur dwibahasa (Melayu-Inggeris) yang terkenal di Asia yang mempromosikan pembelajaran bahasa Melayu melalui kandungan-kandungan silang media yang menarik, mendidik dan menghiburkan.</p>
         <p><h4 style="padding-top:12px;margin:10px;color:#a3c864;">Synopsis</h4></p>
        <p style="margin:10px;">Membina persekitaran dwibahasa di rumah bukanlah tugas yang mudah bagi sesetengah keluarga, terutama sekali dalam konteks bahasa Inggeris yang semakin menjadi bahasa dominan dalam kalangan keluarga masyarakat Melayu sekarang ini. Melalui sesi perkongsian ini, para peserta dapat memahami cara-cara ibu bapa boleh memupuk rasa cinta akan bahasa Melayu anak-anak mereka, termasuk cara-cara mencipta peluang menggunakan bahasa Melayu di rumah. Ibu bapa yang mempunyai anak-anak kecil juga dapat mendapatkan tip mudah untuk mewujudkan pengalaman pembelajaran bahasa Melayu yang menyeronokkan.
 </p>
@@ -409,10 +413,10 @@ Statistics have shown that more children are growing up in English-speaking fami
 <img src="/images/ML-Mariam Aljunied.png" style="width:100%">
    </div>
    <p> <strong> Associate Professor Mariam Aljunied </strong>
-<br/> Ministry of Education
-    <br/>Principal Educational Psychologist <br/>
-    Psychological Services Branch<br/>
-    Special Educational Needs Division</p>
+<br/> Principal Educational Psychologist <br/>
+    Psychological Services Branch, Special Educational Needs Division<br/>
+    Ministry of Education<br/>
+    </p>
    </div>
       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil </h4> 
        <p style="margin:10px;">Profesor Madya Sharifah Mariam Aljunied bertugas sebagai Pengetua Ahli Psikologi Pendidikan di Cawangan Pendidikan Keperluan Khas, Kementerian Pendidikan (MOE). Di samping itu, Profesor Madya Mariam juga merupakan Profesor Madya di Jabatan Psikologi, Universiti Nasional Singapura, dan Pejabat Kajian Pendidikan, Institut Pendidikan Kebangsaan, Universiti Teknologi Nanyang. Beliau juga merupakan Pengkaji Bersekutu di Jabatan Sains Bahasa dan Psikologi di Universiti Kolej London (UK). Dengan pengalaman lebih daripada 25 tahun sebagai ahli psikologi pendidikan bertauliah, beliau mempunyai kepakaran yang mendalam dalam bidang perkembangan kanak-kanak. Beliau telah menerajui beberapa kajian penting di peringkat nasional dalam bidang ini. Profesor Madya Mariam juga aktif dalam usaha-usaha membina kepakaran para pendidik, ahli psikologi dan ibu bapa dalam bidang psikologi kanak-kanak dan pendidikan khas.</p>

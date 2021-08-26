@@ -78,7 +78,7 @@ background-color: lightgrey;!important;
 </script>
 </head>
 <body>  
-  <img src="/images/MTLS2021_Challenge_CL.jpg" style="width:100%">
+  <img src="/images/MTLS2021_Challenge_CL.jpg" style="width:100%; display:none;">
     <br/>
  <div><h2 style="font-family:KaiTi;color:#d84178;">学前中心</h2></div>
  <br/>

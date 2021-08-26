@@ -73,7 +73,7 @@ background-color: lightgrey;!important;
 </script>
    </head>
    <body>
-   <img src="/images/MTLS2021_MTLChallenge_TL.jpg" style="width:100%">
+   <img src="/images/MTLS2021_MTLChallenge_TL.jpg" style="width:100%; display:none;">
    <br/>
  <div><h2 style="padding-top:12px;color:#9b4490;font-family:Anjal InaiMathi;">சமூகப் பங்காளர்கள்</h2></div>
     <br/>
