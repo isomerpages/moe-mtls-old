@@ -129,6 +129,32 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0;" class="btnImg22">
  </td>
 </tr>
+<tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-2" type="checkbox" name="tab">
+      <label for="tab-2" class="lbTM" style="font-family:Anjal InaiMathi;">நிரலாக்கத்தின்வழித் தமிழ்மொழி <br/>
+       யீஷூன் தொடக்கப்பள்ளிி [Yishun Primary School]</label>
+      <div class="tab-content">
+      <br/>
+<a href=" /tlmoe/Yishun-Pri/"> <div class="btnvideo" style="font-size:16px;">
+    View  Poster</div></a>
+  <br/>
+       <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;font-family:Anjal InaiMathi;">நிரலாக்கத்தின்வழித் தமிழ்மொழி </h4>
+       <p style="margin:10px;font-size:20px;">யீஷூன் தொடக்கப்பள்ளியின் தமிழ்த்துறை, மாணவர்களை உற்சாகப்படுத்தவும் அவர்களது தமிழ்மொழிக் கற்றலை மேம்படுத்தவும் ‘நிரலாக்கம்’ என்னும் குறியீட்டு முறையை அறிமுகப்படுத்தியது. மாணவர்களுக்கு மொழியின்மீது ஆர்வத்தை ஏற்படுத்துவதற்கும்  மொழியில்  மீள்திறன்களை வளர்த்துக்கொள்வதற்கும் இப்பயிற்சி அடித்தளமாக அமையும் என்பது அவர்களது நம்பிக்கையாகும். முதலில், மாணவர்கள் நிரலாக்கக் குறியீட்டைப் பயன்படுத்தக் கற்றுக்கொண்டனர். அடுத்து அவர்கள் குழுவாக ‘SCRATCH’ என்ற தொழில்நுட்பச் செயலியைப் பயன்படுத்திச் செய்யுள், ஒலிவேறுபாடு, காலங்கள் முதலான மொழிக்கூறுகளைச் சோதிக்கும் விளையாட்டுகளை உருவாக்கினார்கள். பின்னர், திட்டப்பணியில் ஈடுபட்டு, விளையாட்டுகளை வடிவமைத்து, அவற்றுக்கான வினாக்களையும் விதிமுறைகளையும் உருவாக்கினர். பல படிநிலைகளைக் கடந்த பிறகே மாணவர்களால் முழுமையான விளையாட்டை இந்தச் செயலியின் வாயிலாகத் தயாரிக்க முடிந்தது.    
+       </p><br/>
+       <p><h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">C4TL – Code for Tamil Language</h4></p>
+        <p style="margin:10px;">
+          The Tamil language unit of Yishun Primary School has developed the Code for Tamil Language (C4TL), an innovative programme to engage and motivate pupils in the learning of Tamil. The teachers hope that this programme can enable pupils to Learn for Life, by developing their love for the language and helping them to acquire higher language proficiency. 
+<br/>
+Such game-based learning was introduced as an effective approach to learn the language, giving greater autonomy to the pupils to plan and design games, create questions, develop codes and programme the codes via the SCRATCH application.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg22">
+</td>
+</tr>
  <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
@@ -150,32 +176,6 @@ background-color: lightgrey;!important;
         <p><h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">Exploring Possibilities through Speech and Drama - A Blended Approach</h4></p>
         <p style="margin:10px;">
         Temasek Secondary School’s Speech and Drama programme is designed to instil a love for Tamil in students as well as build their confidence in oral communication and nurturing their imagination and helping them explore new possibilities and scenarios. Students work in groups to write their own scripts, compose or select songs, design or source for props and create costumes for their own drama. In addition to the face-to-face sessions, the Singapore Student Learning Space (SLS) is also leveraged to guide students to brainstorm for concepts and ideas before coming up with their own drama production. Through the programme, students also learn basic acting, voice projection and video editing.
-        </p>
-      </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg22">
-</td>
-</tr>
-<tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-2" type="checkbox" name="tab">
-      <label for="tab-2" class="lbTM" style="font-family:Anjal InaiMathi;">நிரலாக்கத்தின்வழித் தமிழ்மொழி <br/>
-       யீஷூன் தொடக்கப்பள்ளிி [Yishun Primary School]</label>
-      <div class="tab-content">
-      <br/>
-<a href=" /tlmoe/Yishun-Pri/"> <div class="btnvideo" style="font-size:16px;">
-    View  Poster</div></a>
-  <br/>
-       <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;font-family:Anjal InaiMathi;">நிரலாக்கத்தின்வழித் தமிழ்மொழி </h4>
-       <p style="margin:10px;font-size:20px;">யீஷூன் தொடக்கப்பள்ளியின் தமிழ்த்துறை, மாணவர்களை உற்சாகப்படுத்தவும் அவர்களது தமிழ்மொழிக் கற்றலை மேம்படுத்தவும் ‘நிரலாக்கம்’ என்னும் குறியீட்டு முறையை அறிமுகப்படுத்தியது. மாணவர்களுக்கு மொழியின்மீது ஆர்வத்தை ஏற்படுத்துவதற்கும்  மொழியில்  மீள்திறன்களை வளர்த்துக்கொள்வதற்கும் இப்பயிற்சி அடித்தளமாக அமையும் என்பது அவர்களது நம்பிக்கையாகும். முதலில், மாணவர்கள் நிரலாக்கக் குறியீட்டைப் பயன்படுத்தக் கற்றுக்கொண்டனர். அடுத்து அவர்கள் குழுவாக ‘SCRATCH’ என்ற தொழில்நுட்பச் செயலியைப் பயன்படுத்திச் செய்யுள், ஒலிவேறுபாடு, காலங்கள் முதலான மொழிக்கூறுகளைச் சோதிக்கும் விளையாட்டுகளை உருவாக்கினார்கள். பின்னர், திட்டப்பணியில் ஈடுபட்டு, விளையாட்டுகளை வடிவமைத்து, அவற்றுக்கான வினாக்களையும் விதிமுறைகளையும் உருவாக்கினர். பல படிநிலைகளைக் கடந்த பிறகே மாணவர்களால் முழுமையான விளையாட்டை இந்தச் செயலியின் வாயிலாகத் தயாரிக்க முடிந்தது.    
-       </p><br/>
-       <p><h4 style="padding-top:12px;margin:10px;color:#9b4490;font-size=25px;">C4TL – Code for Tamil Language</h4></p>
-        <p style="margin:10px;">
-          The Tamil language unit of Yishun Primary School has developed the Code for Tamil Language (C4TL), an innovative programme to engage and motivate pupils in the learning of Tamil. The teachers hope that this programme can enable pupils to Learn for Life, by developing their love for the language and helping them to acquire higher language proficiency. 
-<br/>
-Such game-based learning was introduced as an effective approach to learn the language, giving greater autonomy to the pupils to plan and design games, create questions, develop codes and programme the codes via the SCRATCH application.
         </p>
       </div>
 </div>
