@@ -167,7 +167,7 @@ margin-left:25px;
 
  <h2 id="C8" style="font-family:Anjal New InaiMathi Sch Book; font-size:36px; font-weight:bold; text-align:center;">தமிழ்மொழிப் பயிற்றுவளங்கள்</h2>
  <h4 style="font-family:Anjal New InaiMathi Sch Book; font-size:28px; font-weight:bold; color:black; text-align:left;">பாடநூல், பயிற்சிநூல் </h4>
-  <img src="/images/TL-Sec_Textbooks-&-Workbooks.gif"><br/>
+  <img src="/images/TL-Sec_Textbooks-&-Workbooks.gif" style="width:80%;"><br/>
   <img src="/images/TL-Sec_Poster02.jpg"><br/>
   <img src="images/TL-Sec_Poster03.jpg"><br/>
   <img src="/images/TL-Sec_Poster04.jpg">
