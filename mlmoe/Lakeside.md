@@ -1,7 +1,7 @@
 ---
-title: 'Lakeside Primary School'
+title: 'Sekolah Rendah Lakeside'
 permalink: /mlmoe/Lakeside/
-breadcrumb: 'Lakeside Primary School'
+breadcrumb: 'Sekolah Rendah Lakeside'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
