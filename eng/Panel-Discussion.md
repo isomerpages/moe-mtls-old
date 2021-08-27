@@ -10,9 +10,9 @@ breadcrumb: 'Panel Discussion'
 height:auto;
 max-width:43%;
 }
-  .mtlsbanner{
-  width:100%;
-  }
+.mtlsbanner {
+  width:100% ;
+  } 
 </style>
 </head>
  <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
@@ -28,8 +28,9 @@ max-width:43%;
 <a href="https://staging-moe-mtls.netlify.app/Sharing-Sessions/English-Videos/" style="float:right;">Back</a>
     <br/>
 <div class="mtlsbanner">
-    <img src="/images/MTLS_Web_Placeholders-V1_13.jpg" style="width:100%;">
+    <img src="/images/MTLS_Web_Placeholders-V1_13.jpg"/>
     </div>
+    <br/>
 <div class="video-container">
 <iframe src="https://vimeo.com/event/1187207/embed" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen
         style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
