@@ -43,8 +43,7 @@ Mr Chan Chun Sing</strong> <br/>
  <div class="column">
 <img src="/images/Sun-Xueling.png" style="width:100%">
    </div>
-   <p> <strong>Ms Sun Xueling</strong> <br/>
-Moderator <br/>
+   <p> <strong>Ms Sun Xueling (Moderator)</strong> <br/>
 Minister of State<br/>
 Ministry of Education <br/>
 Ministry of Social and Family Development
