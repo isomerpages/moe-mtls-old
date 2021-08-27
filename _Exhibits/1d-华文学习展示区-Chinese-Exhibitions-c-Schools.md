@@ -151,7 +151,7 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-12" type="checkbox" name="tab">
-    <label for="tab-12" class="lbCh"> <span style="font-size:25px;font-family:KaiTi">运用数码工具进行母语教学 <br/> 圣若瑟书院 [St. Joseph's Institution (Secondary)]</span>
+    <label for="tab-12" class="lbCh"> <span style="font-size:25px;font-family:KaiTi">有效使用在线工具提高教学效益 <br/> 圣若瑟书院 [St. Joseph's Institution (Secondary)]</span>
 </label>
       <div class="tab-content">
           <a href="/clmoe/圣若瑟书院/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi">
