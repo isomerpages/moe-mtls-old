@@ -1,7 +1,7 @@
 ---
-title: 'Stor Atuk'
+title: 'Mediacorp'
 permalink: /mlmoe/Mediacorp/
-breadcrumb: 'Stor Atuk'
+breadcrumb: 'Mediacorp'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -14,7 +14,7 @@ breadcrumb: 'Stor Atuk'
 </script>
 <a href="/exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-e/Community-Partners/" style="float:right;">Back</a>
  <img src="/images/MTLS2021-Mediacorp_ML_Final.jpg"> <br/>
- Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM). <br/>
+ <p style="font-size: 12px;">Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM). </p><br/>
  
  <a href=" www.mewatch.sg/show/Stor-Atuk-194915 " target="_blank"><span style="font-size: 30px;">mewatch</span></a> <br/>
  Stor Atuk Trailer
