@@ -218,7 +218,7 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-    <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi">乐学活用 <br/> 新加坡福建会馆幼儿园  [Singapore Hokkien Huay Kuan Pre-school]</span></label>
+    <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi">乐学活用 <br/> 新加坡福建会馆幼儿园  <br/>[Singapore Hokkien Huay Kuan Pre-school]</span></label>
       <div class="tab-content">
         <br/>
        <a href="/clmoe/SHHK/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi">
