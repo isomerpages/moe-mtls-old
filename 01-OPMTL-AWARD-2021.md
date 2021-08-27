@@ -44,7 +44,11 @@ max-width:50%;
 
 
 <h5> <strong> Outstanding Award Winners </strong></h5>
+ 
 <br/>
+ 
+ <img src="/images/MTLS_Web_Placeholders-V1_04.jpg">
+ <div class="notshow" style="display:none;">
 <div class="row">
   <div class="column">
    <a href="/award/Mdm-Arfahrizan-BT-Abdul-Wahed/"><img src="/images/Mdm-Arfahrizan-Abdul-Wahed.png" style="width:100%;display:block;"></a>
@@ -120,6 +124,6 @@ PCF Sparkletots @ Boon Lay Blk 631 </center>
 M.Y WORLD @ Punggol Edge</center>
  </p>
     </div></div>
-  
+ </div>
   
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
