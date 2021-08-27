@@ -14,7 +14,7 @@ breadcrumb: 'Lakeside Primary School'
 </script>
 <a href="/exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-d/Schools/" style="float:right;">Back</a>
  <img src="/images/MTLS2021-Lakeside_ML_Final.jpg"> <br/>
- Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM). <br/>
+ <p style="font-size:12px;">Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM).</p> <br/>
  
 <div class="video-container">
   <iframe src=" https://youtu.be/embed/HseLWl-JmSo " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
