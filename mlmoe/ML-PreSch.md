@@ -158,7 +158,7 @@ Visi Tadika MOE adalah untuk menyediakan permulaan yang kukuh bagi setiap kanak-
     Rangka Kerja ini dibina dengan keyakinan bahawa kanak-kanak mempunyai sifat ingin tahu, aktif dan cekap.<br/>
    <img src="/mlmoe/ML-Presch_Poster01.jpg"><br/>
    
-<p id="C3" style="font-size:30px;"><strong>PENDEKATAN MEMBACA BERSAMA</strong>
+<p id="C2" style="font-size:30px;"><strong>PENDEKATAN MEMBACA BERSAMA</strong>
   </p>
   <img src="/mlmoe/ML-Presch_Poster02.jpg">
 <p style="text-align:justify;">
