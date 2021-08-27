@@ -14,7 +14,7 @@ breadcrumb: 'PA MESRA'
 </script>
 <a href="/exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-e/Community-Partners/" style="float:right;">Back</a>
  <img src="/images/MTLS2021-M3@NeeSoon_ML_Final.jpg"> <br/>
- <p style="font-size:12px;">Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM).</p> <br/>
+ <p style="font-size:12px;">Gambar-gambar yang dipaparkan merupakan rakaman aktiviti yang berlangsung sebelum pandemik Covid-19.</p> <br/>
  
  
  <div class="video-container">
