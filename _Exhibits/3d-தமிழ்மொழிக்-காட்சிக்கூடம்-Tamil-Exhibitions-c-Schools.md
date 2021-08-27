@@ -81,7 +81,7 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
- <label for="tab-1" class="lbTM" style="font-family:Anjal InaiMathi;"> வாசிப்பின் மூலம் பெற்றோர்- பிள்ளை இடையே பிணைப்பு
+ <label for="tab-1" class="lbTM" style="font-family:Anjal InaiMathi;"> வாசிப்பின் மூலம் பெற்றோர் - பிள்ளை இடையே பிணைப்பு
   <br/>
   மேரிமௌண்ட் பள்ளி [Marymount Convent School]</label>
       <div class="tab-content">
@@ -161,7 +161,7 @@ Such game-based learning was introduced as an effective approach to learn the la
       <input id="tab-4" type="checkbox" name="tab">
       <label for="tab-4" class="lbTM" style="font-family:Anjal InaiMathi;"> நாடகம் வழியாக மாணவர்களின் கற்றல் திறன்களை மேம்படுத்துதல் (கலவைமுறைவழி அணுகுதல்)
        <br/>
-       தெமாசெக் உயர்நிலைப் பள்ளியில் [Temasek Secondary School]</label>
+       தெமாசெக் உயர்நிலைப் பள்ளி [Temasek Secondary School]</label>
       <div class="tab-content">
        <br/>
 <a href=" /tlmoe/Temasek-Sec/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
