@@ -104,7 +104,7 @@ Various ICT tools and child-centric strategies are used to enhance the quality o
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
       <label for="tab-1"  class="lbTM" style="font-family:Anjal InaiMathi;">ஆரம்பக்கால இருமொழிக் கல்விக்கொள்கையை ஒன்றிணைந்து பேணி வளர்ப்போம்<br/>
-     கல்வி அமைச்சின் பாலர்பள்ளி, (பொங்கோல் கிரீன்) [MK@Punggol Green]</label>
+     கல்வி அமைச்சின் பாலர்பள்ளி (பொங்கோல் கிரீன்) [MK@Punggol Green]</label>
       <div class="tab-content">
           <br/>
 <a href="/tlmoe/Punggol-Green/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
