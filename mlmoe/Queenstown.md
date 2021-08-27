@@ -1,7 +1,7 @@
 ---
-title: 'Queenstown Secondary School'
+title: 'Sekolah Menengah Queenstown'
 permalink: /mlmoe/Queenstown/
-breadcrumb: 'Queenstown Secondary School'
+breadcrumb: 'Sekolah Menengah Queenstown'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
