@@ -14,6 +14,7 @@ breadcrumb: 'Sekolah Rendah Lakeside'
 </script>
 <a href="/gallery/pameran- bahasa- melayu-malay-language-exhibitions-d/schools/" style="float:right;">Back</a>
  <img src="/images/Test-Lakeside-ML.jpg"> <br/>
+ <p style="font-size:12px;">Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM).</p>
 
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
