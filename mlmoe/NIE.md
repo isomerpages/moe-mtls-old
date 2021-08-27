@@ -14,6 +14,10 @@ breadcrumb: 'Bijak Kata!'
 </script>
 <a href="/exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-e/Community-Partners/" style="float:right;">Back</a>
  <img src="/images/MTLS2021-NIE-ML-FINAL.jpg"> <br/>
- Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM).
+ <p style="font-size:12px;">Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM).</p>
+ 
+ <a href="/mlmoe/ML-NIE_Gamify IT!.pdf" target="_blank">Gamify IT!</a><br/>
+ <a href="/mlmoe/ML-NIE_Langkah-langkah Quizlet.pdf" target="_blank">Langkah-langkah Quizlet</a><br/>
+ <a href="/mlmoe/ML-NIE_Langkah-langkah Wordwall.pdf" target="_blank">Langkah-langkah Wordwall</a><br/>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
