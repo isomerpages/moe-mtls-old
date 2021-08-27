@@ -367,7 +367,7 @@ In Mdm Nurain Syakirah’s sharing, parents and educators will understand how re
    <p> <strong>Associate Professor Roksana Bibi bte Abdullah</strong></p>
    </div>
          <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil</h4>  
-       <p style="margin:10px;">A/P Roksana Bibi binte Abdullah merupakan Profesor Madya di Kumpulan Akademik Bahasa dan Kebudayaan Asia, Institut Pendidikan Nasional (NIE) sejak 1 April 2010. Beliau telah mula berkhidmat di NIE sejak tahun 1994. Dr Roksana menerima pendidikan ijazah sarjana muda (Kepujian) dalam bidang Linguistik Melayu dari Universiti Kebangsaan Malaysia pada tahun 1989 dan Sarjana Bahasa Moden dari Universiti Malaya pada tahun 1994. Beliau telah meraih ijazah Kedoktoran dalam bidang Linguistik pada tahun 2002. Fokus kajian dan pengajaran Dr Roksana tertumpu pada isu-isu Bahasa dan Gender, Analisis Kontrastif dan Analisis Kesilapan, Pengekalan dan Pengalihan Bahasa, serta Implementasi Kurikulum dalam Pendidikan Awal di Sekolah Rendah di Singapura.</p>
+       <p style="margin:10px;">A/P Roksana Bibi binte Abdullah merupakan Profesor Madya di Kumpulan Akademik Bahasa dan Kebudayaan Asia, Institut Pendidikan Nasional (NIE) sejak 1 April 2010. Beliau telah mula berkhidmat di NIE sejak tahun 1994. A/P Roksana menerima pendidikan ijazah sarjana muda (Kepujian) dalam bidang Linguistik Melayu dari Universiti Kebangsaan Malaysia pada tahun 1989 dan Sarjana Bahasa Moden dari Universiti Malaya pada tahun 1994. Beliau telah meraih ijazah Kedoktoran dalam bidang Linguistik pada tahun 2002. Fokus kajian dan pengajaran A/P Roksana tertumpu pada isu-isu Bahasa dan Gender, Analisis Kontrastif dan Analisis Kesilapan, Pengekalan dan Pengalihan Bahasa, serta Implementasi Kurikulum dalam Pendidikan Awal di Sekolah Rendah di Singapura.</p>
         <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Sinopsis</h4>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Pemerolehan Dwibahasa dalam kalangan kanak-kanak: Strategi-strategi Pragmatik</h4>
        <p style="margin:10px;">
@@ -408,9 +408,7 @@ Statistics have shown that more children are growing up in English-speaking fami
 <img src="/images/ML-Mariam Aljunied.png" style="width:100%">
    </div>
    <p> <strong> Associate Professor Mariam Aljunied </strong>
-<br/> Principal Educational Psychologist <br/>
-    Psychological Services Branch, Special Educational Needs Division<br/>
-    Ministry of Education<br/>
+<br/> 
     </p>
    </div>
       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil </h4> 
