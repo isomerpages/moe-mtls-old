@@ -90,7 +90,7 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-      <label for="tab-1" class="lbCh"> <span style="font-size:25px; font-family:KaiTi;">推广华文学习委员会 <br/>推广华文学习委员会 [Committee to Promote Chinese Language Learning]</span></label>
+      <label for="tab-1" class="lbCh"> <span style="font-size:25px; font-family:KaiTi;">推广华文学习委员会 <br/>推广华文学习委员会<br/> [Committee to Promote Chinese Language Learning]</span></label>
       <div class="tab-content">
           <a href="/clmoe/推广华文学习委员会/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi;">
     阅览展板</div></a>
@@ -248,7 +248,7 @@ The Fund supports creative and engaging approaches to encourage bilingualism and
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
-      <label for="tab-7" class="lbCh"><span style="font-size:25px; font-family:KaiTi">创新实用的研究  生动有趣的读本 <br/>新加坡华文教研中心 [Singapore Centre for Chinese Language]</span></label>
+      <label for="tab-7" class="lbCh"><span style="font-size:25px; font-family:KaiTi">创新实用的研究  生动有趣的读本 <br/>新加坡华文教研中心 <br/>[Singapore Centre for Chinese Language]</span></label>
       <div class="tab-content">
           <a href="/clmoe/新加坡华文教研中心/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi;">
     阅览展板</div></a>
