@@ -1,7 +1,7 @@
 ---
-title: 'Tamil Murasu'
+title: 'தமிழ் முரசு'
 permalink: /tlmoe/Tamil-Murasu/
-breadcrumb: 'Tamil Murasu'
+breadcrumb: 'தமிழ் முரசு'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
