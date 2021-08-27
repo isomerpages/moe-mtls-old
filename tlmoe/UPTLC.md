@@ -1,7 +1,7 @@
 ---
-title: 'Umar Pulavar Tamil Language Centre'
+title: 'உமறுப்புலவர் தமிழ்மொழி நிலையம்'
 permalink: /tlmoe/UPTLC/
-breadcrumb: 'Umar Pulavar Tamil Language Centre'
+breadcrumb: 'உமறுப்புலவர் தமிழ்மொழி நிலையம்'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
