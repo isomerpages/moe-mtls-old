@@ -112,34 +112,34 @@ margin-left:25px;
 </script>
 <a href="/tlmoe/TL-Sec/" class="btn" style="float:left;">Previous</a><br/>
 <img src="/tlmoe/TL-PreU-Curriculum_Header.jpg"><br/>
- <a href="#C1" style="font-size:20px"><span style="color:blue;">தாய்மொழியின் இலக்கு
+ <a href="#C1" style="font-size:20px; font-family:Anjal New InaiMathi Sch Book;"><span style="color:blue;">தாய்மொழியின் இலக்கு
 </span></a><br/>
- <a href="#C2" style="font-size:20px"><span style="color:blue;">இலக்கியம்
+ <a href="#C2" style="font-size:20px; font-family:Anjal New InaiMathi Sch Book;"><span style="color:blue;">இலக்கியம்
 </span></a><br/>
- <a href="#C3" style="font-size:20px"><span style="color:blue;">புதிதாக அறிமுகம் கண்ட இலக்கியங்கள்
+ <a href="#C3" style="font-size:20px; font-family:Anjal New InaiMathi Sch Book;"><span style="color:blue;">புதிதாக அறிமுகம் கண்ட இலக்கியங்கள்
 </span></a><br/>
- <a href="#C4" style="font-size:20px"><span style="color:blue;">முக்கிய நிகழ்வுகள்
+ <a href="#C4" style="font-size:20px; font-family:Anjal New InaiMathi Sch Book;"><span style="color:blue;">முக்கிய நிகழ்வுகள்
 </span></a><br/>
- <a href="#C5" style="font-size:20px"><span style="color:blue;">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமுட்டும் உத்திமுறைகள்
+ <a href="#C5" style="font-size:20px; font-family:Anjal New InaiMathi Sch Book;"><span style="color:blue;">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமுட்டும் உத்திமுறைகள்
 </span></a><br/>
- <a href="#C6" style="font-size:20px"><span style="color:blue;">தமிழ்மொழி விருப்பப்பாடத்திட்டம்
+ <a href="#C6" style="font-size:20px; font-family:Anjal New InaiMathi Sch Book;"><span style="color:blue;">தமிழ்மொழி விருப்பப்பாடத்திட்டம்
 </span></a><br/>
- <a href="#C7" style="font-size:20px"><span style="color:blue;">தமிழ்முரசில் வெளிவந்த செய்திகள்
+ <a href="#C7" style="font-size:20px; font-family:Anjal New InaiMathi Sch Book;"><span style="color:blue;">தமிழ்முரசில் வெளிவந்த செய்திகள்
 </span></a><br/><br/>
 
-<h4 id="C1"><span style="font-size:30px;color:purple;">தாய்மொழியின் இலக்கு
+<h4 id="C1"><span style="font-size:30px; font-family:Anjal New InaiMathi Sch Book; color:purple;">தாய்மொழியின் இலக்கு
  </span></h4>
- <p style="text-align:left;"> வருங்காலச் &nbsp; சிங்கப்பூர்த் &nbsp; தமிழ்ச் &nbsp; சந்ததியினரிடையே &nbsp; தமிழ் &nbsp; வாழும் &nbsp; மொழியாகத் &nbsp; திகழ &nbsp; வேண்டும். &nbsp; பலவகைப் &nbsp; பண்பாட்டுப் &nbsp; பாரம்பரியத்தைக் &nbsp; கொண்டு &nbsp; உலக &nbsp; நகராக &nbsp; விளங்கும் &nbsp; சிங்கப்பூரின் &nbsp; தனித்தன்மைக்கு &nbsp; வலுவூட்டும் &nbsp; அம்சமாக &nbsp; அது விளங்க &nbsp; வேண்டும்.</p><br/>
+ <p style="text-align:left; font-family:Anjal New InaiMathi Sch Book;"> வருங்காலச் &nbsp; சிங்கப்பூர்த் &nbsp; தமிழ்ச் &nbsp; சந்ததியினரிடையே &nbsp; தமிழ் &nbsp; வாழும் &nbsp; மொழியாகத் &nbsp; திகழ &nbsp; வேண்டும். &nbsp; பலவகைப் &nbsp; பண்பாட்டுப் &nbsp; பாரம்பரியத்தைக் &nbsp; கொண்டு &nbsp; உலக &nbsp; நகராக &nbsp; விளங்கும் &nbsp; சிங்கப்பூரின் &nbsp; தனித்தன்மைக்கு &nbsp; வலுவூட்டும் &nbsp; அம்சமாக &nbsp; அது விளங்க &nbsp; வேண்டும்.</p><br/>
   <div class="atab">
       <input id="tab-1" type="checkbox" name="tab">
-    <label for="tab-1" style="font-family:KaiTi;font-size:22px" class="lbTM">உயர்தரம் பாடக்கலைத்திட்டம் முக்கியத் தகவல்கள்
+    <label for="tab-1" style="font-size:22px; font-family:Anjal New InaiMathi Sch Book;" class="lbTM">உயர்தரம் பாடக்கலைத்திட்டம் முக்கியத் தகவல்கள்
 </label>
      <div class="tab-content">
-     <h4 style="padding-top: 24px;">உயர்தரம் 1 பாடக்கலைத்திட்டத்தின் முக்கிய நோக்கங்கள்</h4>
+     <h4 style="padding-top: 24px; font-family:Anjal New InaiMathi Sch Book;">உயர்தரம் 1 பாடக்கலைத்திட்டத்தின் முக்கிய நோக்கங்கள்</h4>
      <p><strong>மாணவர்கள் </strong></p>
 <table style=" border-collapse: collapse; width: 100%;">
  <tr>
-    <td style=" text-align: left; padding: 8px;font-size:20px;">
+    <td style=" text-align: left; padding: 8px;font-size:20px; font-family:Anjal New InaiMathi Sch Book;">
   <ul>
   <li>தம் &nbsp; தாய்மொழியில் &nbsp; தன்னம்பிக்கையுடன் &nbsp; பேசுவதோடு &nbsp; மொழித்திறன்களையும் &nbsp; மேம்படுத்திக்கொள்வர்.
 </li>
@@ -152,15 +152,15 @@ margin-left:25px;
     <img src="/tlmoe/h1-lens.png" style="width: 80%">
     <br/>
    <table width="300px" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border: 3px solid #ccc;">
-   <td style="font-size:20px; font-weight:bold; color: purple;">உயர்தரம் 1 
+   <td style="font-size:20px; font-family:Anjal New InaiMathi Sch Book; font-weight:bold; color: purple;">உயர்தரம் 1 
 பரந்துபட்ட மூன்று கருப்பொருள்கள் </td>
    </table>
   </td>
  </tr>
 </table>
-<h4>உயர்தரம் 2 & 3 பாடக்கலைத்திட்டத்தின் முக்கிய நோக்கங்கள்
+<h4 style="font-family:Anjal New InaiMathi Sch Book;">உயர்தரம் 2 & 3 பாடக்கலைத்திட்டத்தின் முக்கிய நோக்கங்கள்
 </h4>
-<p><strong>மாணவர்களை</strong></p>
+<p style="font-family:Anjal New InaiMathi Sch Book;"><strong>மாணவர்களை</strong></p>
 <table style=" border-collapse: collapse;
   width: 100%;">
  
@@ -168,22 +168,22 @@ margin-left:25px;
     <td style=" text-align: left;
   padding: 8px;font-size:20px;">
   <ul>
-  <li style="text-align:left;">மொழித் &nbsp; திறன்களிலும் &nbsp; இலக்கியத் &nbsp; திறன்களிலும் &nbsp; மேம்பட்ட &nbsp; ஆற்றல் &nbsp; பெற்றவர்களாக &nbsp; உருவாக்குதல்
+  <li style="font-family:Anjal New InaiMathi Sch Book; text-align:left;">மொழித் &nbsp; திறன்களிலும் &nbsp; இலக்கியத் &nbsp; திறன்களிலும் &nbsp; மேம்பட்ட &nbsp; ஆற்றல் &nbsp; பெற்றவர்களாக &nbsp; உருவாக்குதல்
 
 
 </li>
-    <li style="text-align:left;">தமிழ்மொழியின் &nbsp; பண்பாட்டு &nbsp; மூலங்கள், &nbsp; மரபுவழிப் &nbsp; பண்புகள் &nbsp; முதலானவற்றில் &nbsp; ஆழமான &nbsp; புரிந்துணர்வு &nbsp; கொண்டவர்களாக &nbsp; வளர்த்தல்
+    <li style="font-family:Anjal New InaiMathi Sch Book; text-align:left;">தமிழ்மொழியின் &nbsp; பண்பாட்டு &nbsp; மூலங்கள், &nbsp; மரபுவழிப் &nbsp; பண்புகள் &nbsp; முதலானவற்றில் &nbsp; ஆழமான &nbsp; புரிந்துணர்வு &nbsp; கொண்டவர்களாக &nbsp; வளர்த்தல்
 
 
 </li>
-      <li style="text-align:left;">நுண்ணாய்வுச் &nbsp; சிந்தனையும் &nbsp; படைப்பாக்கச் &nbsp; சிந்தனையும் &nbsp; கொண்டவர்களாக &nbsp; உருவாக்குதல்
+      <li style="font-family:Anjal New InaiMathi Sch Book; text-align:left;">நுண்ணாய்வுச் &nbsp; சிந்தனையும் &nbsp; படைப்பாக்கச் &nbsp; சிந்தனையும் &nbsp; கொண்டவர்களாக &nbsp; உருவாக்குதல்
 
 </li>
   </ul></td>
     <td>
      <img src="/tlmoe/h2-lens.png" style="width:80%"><br/>
    <table width="300px" border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border: 3px solid #ccc;">
-     <td style="font-size:20px; font-weight:bold; color:purple;">உயர்தரம் 2 & 3 
+     <td style="font-size:20px; font-family:Anjal New InaiMathi Sch Book; font-weight:bold; color:purple;">உயர்தரம் 2 & 3 
      பரந்துபட்ட மூன்று கருப்பொருள்கள் 
 </td>
      </table>
@@ -193,24 +193,24 @@ margin-left:25px;
 </table>
 <br/>
 <ul>
-<li  style="text-align:left;">புகுமுகநிலைப் &nbsp; பாடத்திட்டம் &nbsp; பரந்துபட்ட &nbsp; மூன்று &nbsp; கருப்பொருள்களைக் &nbsp; வழிகாட்டியாகக் &nbsp; கொண்டுள்ளது. </li>
-<li  style="text-align:left;">மொழிப்பாடங்களிலுள்ள &nbsp; பனுவல்களையும் &nbsp; இலக்கிய &nbsp; பாடங்களிலுள்ள &nbsp; செய்திகளையும் &nbsp; அந்தக் &nbsp; கருப்பொருள்களோடு &nbsp; மாணவர்கள் &nbsp; தொடர்புபடுத்திப் &nbsp; பார்ப்பார்கள். 
+<li  style="font-family:Anjal New InaiMathi Sch Book; text-align:left;">புகுமுகநிலைப் &nbsp; பாடத்திட்டம் &nbsp; பரந்துபட்ட &nbsp; மூன்று &nbsp; கருப்பொருள்களைக் &nbsp; வழிகாட்டியாகக் &nbsp; கொண்டுள்ளது. </li>
+<li  style="font-family:Anjal New InaiMathi Sch Book; text-align:left;">மொழிப்பாடங்களிலுள்ள &nbsp; பனுவல்களையும் &nbsp; இலக்கிய &nbsp; பாடங்களிலுள்ள &nbsp; செய்திகளையும் &nbsp; அந்தக் &nbsp; கருப்பொருள்களோடு &nbsp; மாணவர்கள் &nbsp; தொடர்புபடுத்திப் &nbsp; பார்ப்பார்கள். 
 </li>
-<li  style="text-align:left;">இந்தப் &nbsp; பாடத்திட்டத்தில் &nbsp; 21-ஆம் &nbsp; நூற்றாண்டுத்திறன் &nbsp; சட்டகத்தில் &nbsp; இடம்பெற்றுள்ள  &nbsp; திறன்வளர்ச்சியையும் &nbsp; விழுமியங்களையும் &nbsp; பெற்று &nbsp; அவற்றை &nbsp; முறையே &nbsp; பயன்படுத்தும் &nbsp; ஆற்றலை &nbsp; மாணவர்கள் &nbsp; வளர்த்துக்கொள்வர்.
+<li  style="font-family:Anjal New InaiMathi Sch Book; text-align:left;">இந்தப் &nbsp; பாடத்திட்டத்தில் &nbsp; 21-ஆம் &nbsp; நூற்றாண்டுத்திறன் &nbsp; சட்டகத்தில் &nbsp; இடம்பெற்றுள்ள  &nbsp; திறன்வளர்ச்சியையும் &nbsp; விழுமியங்களையும் &nbsp; பெற்று &nbsp; அவற்றை &nbsp; முறையே &nbsp; பயன்படுத்தும் &nbsp; ஆற்றலை &nbsp; மாணவர்கள் &nbsp; வளர்த்துக்கொள்வர்.
 </li>
 </ul>
 <img src="/tlmoe/21st-cc-diagram.png" style="width:70%">
     </div></div>
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-    <label for="tab-2" style="font-family:KaiTi;font-size:22px" class="lbTM">கல்வியின் விரும்பத்தக்க விளைவுகள்
+    <label for="tab-2" style="font-family:Anjal New InaiMathi Sch Book; font-size:22px" class="lbTM">கல்வியின் விரும்பத்தக்க விளைவுகள்
 </label>
      <div class="tab-content">
       <img src="/tlmoe/TL-PreU_Poster01.jpg">
     </div></div>
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-    <label for="tab-3" style="font-family:KaiTi;font-size:22px" class="lbTM">உயர்தரம் தமிழ்மொழிப் பாடத்திற்கான கற்றல் விளைவுகள்</label>
+    <label for="tab-3" style="font-family:Anjal New InaiMathi Sch Book; font-size:22px" class="lbTM">உயர்தரம் தமிழ்மொழிப் பாடத்திற்கான கற்றல் விளைவுகள்</label>
      <div class="tab-content">
       <table style="border-collapse: collapse;width: 100%;border:0;">
   <tr>
@@ -227,22 +227,22 @@ margin-left:25px;
     
      <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
-    <label for="tab-4" style="font-size:22px" class="lbTM">பணிச்சட்டமும் பாடத்திட்டங்களும்</label>
+    <label for="tab-4" style="font-size:22px; font-family:Anjal New InaiMathi Sch Book;" class="lbTM">பணிச்சட்டமும் பாடத்திட்டங்களும்</label>
      <div class="tab-content">
-    <h4 style="padding-top: 24px;"><span style="font-size:30px; color:purple;">பாடத்திட்டப் பணிச்சட்டம்</span></h4>
+    <h4 style="padding-top: 24px; font-family:Anjal New InaiMathi Sch Book;"><span style="font-size:30px; color:purple;">பாடத்திட்டப் பணிச்சட்டம்</span></h4>
     <img src="/tlmoe/tl-preU04.jpeg"><br/>
     <img src="/images/TL PreU_Image03.jpg"><br/>
-    <a href="/tlmoe/H1-Syllabus-Tamil.pdf" target="_blank" style="text-align:left;">2020 H1 Tamil Language & Tamil Language ‘B’ Syllabus</a><br/>
-    <a href="/tlmoe/H2-&-H3-TLL-Syllabus-2021.pdf" target="_blank" style="text-align:left;">H2& H3 Tamil Language & Literature Syllabus
+    <a href="/tlmoe/H1-Syllabus-Tamil.pdf" target="_blank" style="font-family:Anjal New InaiMathi Sch Book; text-align:left;">2020 H1 Tamil Language & Tamil Language ‘B’ Syllabus</a><br/>
+    <a href="/tlmoe/H2-&-H3-TLL-Syllabus-2021.pdf" target="_blank" style="font-family:Anjal New InaiMathi Sch Book; text-align:left;">H2& H3 Tamil Language & Literature Syllabus
 </a>
     </div></div>
 
- <h4 id="C2"><span style="font-size:30px;color:purple;">இலக்கியம்</span></h4>
+ <h4 id="C2"><span style="font-size:30px; font-family:Anjal New InaiMathi Sch Book; color:purple;">இலக்கியம்</span></h4>
    <p>இலக்கிய வகுப்புகள் மகிழ்வூட்டுவனவாக அமைய பல்வேறு அணுகுமுறைகள்.  
 </p>
    <img src="/tlmoe/TL-PreU_Poster03.jpg">
  
- <h4 id="C3"><span style="font-size:30px;color:purple;">புதிதாக அறிமுகம் கண்ட இலக்கியங்கள் </span></h4>
+ <h4 id="C3"><span style="font-size:30px; font-family:Anjal New InaiMathi Sch Book; color:purple;">புதிதாக அறிமுகம் கண்ட இலக்கியங்கள் </span></h4>
  <table style="border-collapse: collapse;width: 100%;border:0;">
   <tr>
     <td style="  border: 0; text-align: left; padding: 8px;width:60%;">
@@ -254,7 +254,7 @@ margin-left:25px;
 </tr>
 </table>
   <br/>
-<p style="text-align:left;">இந்த &nbsp; இலக்கியங்களையும் &nbsp; அவற்றைப் &nbsp; படைத்த &nbsp; எழுத்தாளர்களையும்பற்றி &nbsp; மேலும் &nbsp; அறிந்துகொள்ள &nbsp; பின்வரும் &nbsp; இணைப்புகளுக்குச் &nbsp; செல்லவும்.
+<p style="font-family:Anjal New InaiMathi Sch Book; text-align:left;">இந்த &nbsp; இலக்கியங்களையும் &nbsp; அவற்றைப் &nbsp; படைத்த &nbsp; எழுத்தாளர்களையும்பற்றி &nbsp; மேலும் &nbsp; அறிந்துகொள்ள &nbsp; பின்வரும் &nbsp; இணைப்புகளுக்குச் &nbsp; செல்லவும்.
 </p>
  
  <center>
@@ -265,37 +265,37 @@ margin-left:25px;
 </div>
   <div class="column">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/oJ7ttvcCRHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:18px;">இலக்கியத்தை ஒலிப்பதிவு செய்து ரசித்தல்</span>
+<br/><span style="font-size:18px; font-family:Anjal New InaiMathi Sch Book;">இலக்கியத்தை ஒலிப்பதிவு செய்து ரசித்தல்</span>
  </div></div>
  <br/>
 <div class="row">
  <div class="column">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/FZjb6qKIq6E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:18px;">எழுத்தாளர்களைச் சந்தித்தல்</span>
+<br/><span style="font-size:18px; font-family:Anjal New InaiMathi Sch Book;">எழுத்தாளர்களைச் சந்தித்தல்</span>
 </div>
   <div class="column">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/qljj-dUi6Tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/><span style="font-size:18px;">எழுத்தாளர்களைப்பற்றி அறிந்துகொள்ளுதல்</span>
+<br/><span style="font-size:18px; font-family:Anjal New InaiMathi Sch Book;">எழுத்தாளர்களைப்பற்றி அறிந்துகொள்ளுதல்</span>
  </div></div></center>
 
- <h4 id="C4"><span style="font-size:30px;color:purple;">முக்கிய நிகழ்வுகள் </span></h4>
+ <h4 id="C4"><span style="font-size:30px; font-family:Anjal New InaiMathi Sch Book; color:purple;">முக்கிய நிகழ்வுகள் </span></h4>
 <img src="/tlmoe/TL-PreU_Poster05.jpg">
 <img src="/tlmoe/TL-PreU_Poster06.jpg">
 <img src="/tlmoe/TL-PreU_Poster07.jpg">
 
-<h4 id="C5"><span style="font-size:30px;color:purple;">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமூட்டும் உத்திமுறைகள் 
+<h4 id="C5"><span style="font-size:30px; font-family:Anjal New InaiMathi Sch Book; color:purple;">மகிழ்வூட்டும் கற்றலுக்கு ஆர்வமூட்டும் உத்திமுறைகள் 
  </span></h4> 
 <img src="/tlmoe/TL-PreU_Poster08.jpg">
 <br/>
  <br/>
  <h4 id="C6"><img src="/images/TL JC_Header05.png"></h4>
- <p>தமிழ்மொழி &nbsp; விருப்பப்பாடத்திட்டம் &nbsp; 2020-ஆம் &nbsp; ஆண்டு &nbsp; அறிமுகம் &nbsp; கண்டது. &nbsp; தகுதிவாய்ந்த &nbsp; மாணவர்களைத் &nbsp; தமிழ்மொழியில் &nbsp; ஆற்றல்மிக்கவர்களாகவும், &nbsp; தமிழ் &nbsp; இலக்கியத்திலும் &nbsp; பண்பாட்டிலும் &nbsp; அவர்களுக்கிருக்கும் &nbsp; புரிந்துணர்வைப் &nbsp; பேணி &nbsp; வளர்க்கவும் &nbsp; இத்திட்டம் &nbsp; வகைசெய்யும். &nbsp; அதோடு &nbsp; மாணவர்களை &nbsp; இருமொழியாற்றல் &nbsp; மிக்கவர்களாக &nbsp; உருவாக்குவதே &nbsp; இந்தத் &nbsp; திட்டத்தின் &nbsp; நோக்கம்.
+ <p style="font-family:Anjal New InaiMathi Sch Book;">தமிழ்மொழி &nbsp; விருப்பப்பாடத்திட்டம் &nbsp; 2020-ஆம் &nbsp; ஆண்டு &nbsp; அறிமுகம் &nbsp; கண்டது. &nbsp; தகுதிவாய்ந்த &nbsp; மாணவர்களைத் &nbsp; தமிழ்மொழியில் &nbsp; ஆற்றல்மிக்கவர்களாகவும், &nbsp; தமிழ் &nbsp; இலக்கியத்திலும் &nbsp; பண்பாட்டிலும் &nbsp; அவர்களுக்கிருக்கும் &nbsp; புரிந்துணர்வைப் &nbsp; பேணி &nbsp; வளர்க்கவும் &nbsp; இத்திட்டம் &nbsp; வகைசெய்யும். &nbsp; அதோடு &nbsp; மாணவர்களை &nbsp; இருமொழியாற்றல் &nbsp; மிக்கவர்களாக &nbsp; உருவாக்குவதே &nbsp; இந்தத் &nbsp; திட்டத்தின் &nbsp; நோக்கம்.
 <br/><br/>
 தமிழ்மொழி விருப்பப்பாடத்திட்டத்தை வழங்கும் தொடக்கக்கல்லூரிகள் <br/>
 <ul>
- <li style="text-align:left;"><strong>அண்டர்சன் &nbsp; சிராங்கூன் &nbsp; தொடக்கக்கல்லூரி 
+ <li style="font-family:Anjal New InaiMathi Sch Book; text-align:left;"><strong>அண்டர்சன் &nbsp; சிராங்கூன் &nbsp; தொடக்கக்கல்லூரி 
  </strong></li>
- <li style="text-align:justify;"><strong>தேசியத் தொடக்கக்கல்லூரி
+ <li style="font-family:Anjal New InaiMathi Sch Book; text-align:justify;"><strong>தேசியத் தொடக்கக்கல்லூரி
  </strong></li><br/>
 </ul>
   <img src="/tlmoe/TL-PreU_TLEP-Poster.jpg"><br/>
@@ -303,7 +303,7 @@ margin-left:25px;
   <a href="/tlmoe/tlep-sec-infosheet-students-2019.pdf" target="_blank">TLEP Sec Infosheet</a>
  <br/><br/>
  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/LScPxhnhtRw" frameborder="0" class="iframe1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- <br/><span style="font-size:18px;">TLEP Programmes<br/>
+ <br/><span style="font-size:18px; font-family:Anjal New InaiMathi Sch Book;">TLEP Programmes<br/>
   தமிழ்மொழி விருப்பப் பாடத்திட்ட நிகழ்ச்சிகளின் தொகுப்பு</span>
 </center>
  <br/><br/>
