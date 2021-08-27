@@ -1,5 +1,5 @@
 ---
-title: 'மோன்வர்ட் ஜூனியர் பள்ளிி'
+title: 'மோன்வர்ட் ஜூனியர் பள்ளிிி'
 permalink: /tlmoe/Montfort-Junior/
 breadcrumb: 'மோன்வர்ட் ஜூனியர் பள்ளி'
 ---
