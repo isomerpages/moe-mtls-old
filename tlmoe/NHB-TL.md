@@ -1,7 +1,7 @@
 ---
-title: 'National Heritage Board'
+title: 'தேசிய மரபுடைமைக் கழகம்'
 permalink: /tlmoe/NHB-TL/
-breadcrumb: 'National Heritage Board'
+breadcrumb: 'தேசிய மரபுடைமைக் கழகம்'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
