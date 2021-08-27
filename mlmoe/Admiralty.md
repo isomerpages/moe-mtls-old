@@ -1,7 +1,7 @@
 ---
-title: 'Admiralty Primary School'
+title: 'Sekolah Rendah Admiralty'
 permalink: /mlmoe/Admiralty/
-breadcrumb: 'Admiralty Primary School'
+breadcrumb: 'Sekolah Rendah Admiralty'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
