@@ -1,7 +1,7 @@
 ---
-title: 'Mari Bercerita Bersama Taman Haiwan Singapura'
+title: 'Wildlife Reserves Singapore'
 permalink: /mlmoe/WRS/
-breadcrumb: 'Mari Bercerita Bersama Taman Haiwan Singapura'
+breadcrumb: 'Wildlife Reserves Singapore'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
