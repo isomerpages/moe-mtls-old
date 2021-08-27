@@ -15,7 +15,7 @@ breadcrumb: '滨海艺术中心'
 </script>
 <a href="/exhibits/华文学习展示区-chinese-exhibitions-e/community-partners/" style="float:right;">Back</a>
  <img src="/images/MTLS2021-Esplanade_CL_Final.jpg"> <br/>
- <p style="font-family: KaiTi; font-size:12px;">新冠疫情期间的活动照片，均在遵守安全管理措施的情况下拍摄。</p><br/>
+ <p style="font-family: KaiTi; font-size:12px;">*新冠疫情期间的活动照片，均在遵守安全管理措施的情况下拍摄。</p><br/>
  <a href=" https://www.esplanade.com/offstage/arts/moonfest-online-the-magic-paintbrush?sc_lang=zh-CN " target="_blank"><span style="font-family: KaiTi; font-size: 20px;">神笔马良</span></a> <br/>
  <a href=" https://www.esplanade.com/offstage/arts/the-dumpling-sage?sc_lang=zh-CN " target="_blank"><span style="font-family: KaiTi; font-size: 20px;">包仙人</span></a>
 
