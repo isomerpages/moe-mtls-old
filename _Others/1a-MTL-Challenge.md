@@ -22,11 +22,13 @@ breadcrumb: 'MTL Challenge'
   gtag('config', 'AW-726049306');
 </script>
 <h2 style="display:block;">MTL Challenge</h2>
-<p style="display:block;">Take part in our MTL Challenge and stand a chance to win attractive prizes!<br/>
+  <img src="/images/MTLS_Web_Placeholders-V1_15.jpg" >
+  
+<p style="display:none;">Take part in our MTL Challenge and stand a chance to win attractive prizes!<br/>
 Earn 100 points for a limited MTLS souvenir. Complete the challenge with 200 points for a surprise! </p>
-<img src="/images/Picture1.jpg" style="display:inline-block;"><br/>
-<p style="display:block;">Let us know how you feel about MTLS 2021! </p>
-<img src="/images/Feedback.jpg" style="display:inline-block;">
+<img src="/images/Picture1.jpg" style="none;"><br/>
+<p style="display:none;">Let us know how you feel about MTLS 2021! </p>
+<img src="/images/Feedback.jpg" style="display:none;">
 
 </body>
 </html>
