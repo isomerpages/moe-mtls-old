@@ -1,5 +1,5 @@
 ---
-title: 'Esplanade'
+title: 'எஸ்பிளனேட்'
 permalink: /tlmoe/Esplanade-TL/
 breadcrumb: 'Esplanade'
 ---
