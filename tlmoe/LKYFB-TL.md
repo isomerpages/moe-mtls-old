@@ -1,7 +1,7 @@
 ---
-title: 'Lee Kuan Yew Fund for Bilingualism'
+title: 'லீ குவான் யூ இருமொழிக் கல்வி நிதி'
 permalink: /tlmoe/LKYFB-TL/
-breadcrumb: 'Lee Kuan Yew Fund for Bilingualism'
+breadcrumb: 'லீ குவான் யூ இருமொழிக் கல்வி நிதி'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
