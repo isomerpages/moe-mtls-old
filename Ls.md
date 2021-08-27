@@ -14,4 +14,4 @@ breadcrumb: Live Sessions
   gtag('config', 'AW-726049306');
 </script>
 
-<img src ="MTLS_Web_Placeholders-V1_02.jpg">
+<img src ="/images/MTLS_Web_Placeholders-V1_02.jpg">
