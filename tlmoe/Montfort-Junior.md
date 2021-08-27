@@ -1,7 +1,7 @@
 ---
-title: 'Montfort Junior School'
+title: 'மொன்ஃபர்ட் ஜூனியர் பள்ளி'
 permalink: /tlmoe/Montfort-Junior/
-breadcrumb: 'Montfort Junior School'
+breadcrumb: 'மொன்ஃபர்ட் ஜூனியர் பள்ளி'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
