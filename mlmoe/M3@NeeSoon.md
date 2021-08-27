@@ -14,7 +14,7 @@ breadcrumb: 'Kelas Matematika M3 @ Nee Soon'
 </script>
 <a href="/exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-e/Community-Partners/" style="float:right;">Back</a>
  <img src="/images/MTLS2021-M3@NeeSoon_ML_Final.jpg"> <br/>
- Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM). <br/>
+ <p style="font-size:12px;">Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM).</p> <br/>
  
  
  <div class="video-container">
