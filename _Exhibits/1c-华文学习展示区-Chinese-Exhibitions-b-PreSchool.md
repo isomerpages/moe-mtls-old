@@ -194,7 +194,7 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
- <label for="tab-4" class="lbCh"><span style="font-size:25px;font-family:KaiTi">演一演, 说一说 <br/> 人民行动党社区基金Sparkletots幼儿中心@兀兰第801座 [PCF Sparkletots @ Woodlands Blk 801PCF Sparkletots @ Woodlands Blk 801]</span></label>
+ <label for="tab-4" class="lbCh"><span style="font-size:25px;font-family:KaiTi">演一演, 说一说 <br/> 人民行动党社区基金Sparkletots幼儿中心@兀兰第801座 [PCF Sparkletots @ Woodlands Blk 801]</span></label>
       <div class="tab-content">
         <br/>
        <a href="/clmoe/PCF-Sparkletots-Preschool/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi">
