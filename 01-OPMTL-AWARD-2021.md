@@ -30,6 +30,8 @@ max-width:38%;
   img {
 height:auto;
 max-width:50%;
+width:100% !important;
+ 
 }
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
@@ -47,7 +49,7 @@ max-width:50%;
  
 <br/>
  
- <img src="/images/MTLS_Web_Placeholders-V1_04.jpg" style="width:100% !important;">
+ <img src="/images/MTLS_Web_Placeholders-V1_04.jpg" >
  <div class="notshow" style="display:none;">
 <div class="row">
   <div class="column">
