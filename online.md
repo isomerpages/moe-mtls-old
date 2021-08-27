@@ -14,4 +14,4 @@ breadcrumb: Online Quest
   gtag('config', 'AW-726049306');
 </script>
 
-<img src ="MTLS_Web_Placeholders-V1_14.jpg">
+<img src ="/images/MTLS_Web_Placeholders-V1_14.jpg" style="width:100%;">
