@@ -1,7 +1,7 @@
 ---
-title: 'Mediacorp'
+title: 'மீடியகார்ப்'
 permalink: /tlmoe/Mediacorp-TL/
-breadcrumb: 'Mediacorp'
+breadcrumb: 'மீடியகார்ப்'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
