@@ -14,4 +14,4 @@ breadcrumb: Sharing Sessions
   gtag('config', 'AW-726049306');
 </script>
 
-<img src ="MTLS_Web_Placeholders-V1_03.jpg" style="width:100%;">
+<img src ="/images/MTLS_Web_Placeholders-V1_03.jpg" style="width:100%;">
