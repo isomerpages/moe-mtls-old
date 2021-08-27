@@ -1,7 +1,7 @@
 ---
-title: 'MK@Punggol Green'
+title: 'கல்வி அமைச்சின் பாலர்பள்ளி, (பொங்கோல் கிரீன்)'
 permalink: /tlmoe/Punggol-Green/
-breadcrumb: 'MK@Punggol Green'
+breadcrumb: 'கல்வி அமைச்சின் பாலர்பள்ளி, (பொங்கோல் கிரீன்)'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
