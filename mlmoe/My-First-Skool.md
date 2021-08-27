@@ -14,7 +14,7 @@ breadcrumb: 'My First Skool (Chin Swee)'
 </script>
 <a href="/exhibits/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/" style="float:right;">Back</a>
  <img src="/images/MTLS2021-MyFirstSkool_ML_Final.jpg"> <br/>
- Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM).
+ <p style="font-size:12px;">Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM).</p>
  
  Langkah pertama - Mengira biji congkak
  <div class="video-container">
