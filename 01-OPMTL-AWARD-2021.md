@@ -44,7 +44,7 @@ width:100% !important;
   gtag('config', 'AW-726049306');
 </script>
 
- <img src="/images/MTLS_Web_Placeholders-V1_04.jpg" style="width:100%"; >
+ <img src="/images/MTLS_Web_Placeholders-V1_04.jpg" style="width:100%;" >
 <h5 style="display:none;"> <strong> Outstanding Award Winners </strong></h5>
  <br/>
  <div class="notshow" style="display:none;">
