@@ -1,7 +1,7 @@
 ---
-title: 'Bahasa Ibundaku, Teman Sejatiku'
+title: 'Dana Kedwibahasaan Lee Kuan Yew'
 permalink: /mlmoe/LKYFB/
-breadcrumb: 'Bahasa Ibundaku, Teman Sejatiku'
+breadcrumb: 'Dana Kedwibahasaan Lee Kuan Yew'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
