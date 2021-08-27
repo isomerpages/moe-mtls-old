@@ -82,7 +82,7 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-7" type="checkbox" name="tab">
-      <label for="tab-7" class="lbCh"><span style="font-size:25px;font-family:KaiTi">乐学华族节日与美食文化 <br/>爱同学校 [Ai Tong School]</span></label>
+      <label for="tab-7" class="lbCh"><span style="font-size:25px;font-family:KaiTi">乐学节日与美食文化 <br/>爱同学校 [Ai Tong School]</span></label>
       <div class="tab-content">
   <a href="/clmoe/爱同学校/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi">
     阅览展板</div></a>
