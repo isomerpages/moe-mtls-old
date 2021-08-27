@@ -103,12 +103,12 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-11" type="checkbox" name="tab">
-      <label for="tab-11" class="lbCh"><span style="font-size:25px;font-family:KaiTi"> 混合式教学——美术馆在线导览 <br/> 德义中学 [Deyi Secondary School]</span></label>
+      <label for="tab-11" class="lbCh"><span style="font-size:25px;font-family:KaiTi"> 利用钱上异见资源进行混合式学习 <br/> 德义中学 [Deyi Secondary School]</span></label>
       <div class="tab-content">
       <a href="/clmoe/德义中学/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi">
     阅览展板</div></a>
   <br/>
-<h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">混合式教学——美术馆在线导览</h4>
+<h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">利用钱上异见资源进行混合式学习</h4>
           <p style="font-family:KaiTi;margin:10px;font-size:21px;">
      德义中学使用教育部提供的线上导览资源配套，让中一快捷班学生结合居家学习以及在校学习的混合模式在线上游览新加坡国家美术馆。<br/><br/>
               这个学习活动要求学生对自己的学习负责。在居家学习活动时，学生按自己的步调和需求进行学习。教师通过在教室里集体参与的互动性活动引起学生的学习兴趣，推动他们积极探索课程以外的知识，并认识美术馆的一些艺术作品。学生在与同侪合作完成任务的过程中，用华文进行交流，在促进语文学习的同时也培养他们的协作能力。
