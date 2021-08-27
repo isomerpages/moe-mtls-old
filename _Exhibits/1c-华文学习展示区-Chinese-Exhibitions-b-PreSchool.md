@@ -218,13 +218,13 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-    <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi">乐学活用 <br/> 新加坡福建会馆幼儿园  <br/>[Singapore Hokkien Huay Kuan Pre-school]</span></label>
+    <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi">乐学活用、体验生活  <br/> 新加坡福建会馆幼儿园  <br/>[Singapore Hokkien Huay Kuan Pre-school]</span></label>
       <div class="tab-content">
         <br/>
        <a href="/clmoe/SHHK/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi">
     阅览展板</div></a>
   <br/>
-          <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">乐学活用</h4>
+          <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">乐学活用、体验生活 </h4>
       <p style="font-family:KaiTi;margin:10px;font-size:21px;">
 新加坡福建会馆幼儿园生活技能课程让幼儿浸濡在华语的环境中，乐学善用华语。<br/><br/>
           其课程包括的亮点活动有：“家园共育亲子阅读”、“华文欣赏”等。这些亮点活动让幼儿从小接触华文, 培养阅读习惯，积累丰富的华语词汇，并在日常生活中学以致用。<br/><br/>
