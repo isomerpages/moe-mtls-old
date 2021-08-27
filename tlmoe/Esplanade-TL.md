@@ -13,7 +13,8 @@ breadcrumb: 'Esplanade'
   gtag('config', 'AW-726049306');
 </script>
 <a href="/exhibits/தமிழ்மொழிக்-காட்சிக்கூடம்-e/community-partners2/"   style="float: right;">Back</a>
- <img src="/images/MTLS2021-Esplanade_TL.jpg"> <br/>
+ <img src="/images/MTLS2021-Esplanade_TL.jpg">
+ <p>நிழற்படங்கள் யாவும் கொவிட்-19 பாதுகாப்பு நிர்வாக விதிமுறைகளுக்கு உட்பட்டு எடுக்கப்பட்டவை.</p> <br/>
  
  <a href=" https://www.esplanade.com/offstage/arts/the-vain-rajas-secret?sc_lang=ta-IN " target="_blank"><span style="font-size: 30px;">தற்பெருமை வாய்ந்த மன்னனின் திடுக்கிடும் இரகசியம்</span></a> <br/>
  
