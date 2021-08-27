@@ -18,21 +18,21 @@ breadcrumb: Live Sessions
 <br/>
 <a href="/test/林美莲博士/"><img src="/images/2021-08-23_MTLS-Programme-Banner-03.jpg"></a>
 <br/>
-<a href="/ml/mdm-nurashikin-jasni/"><img src="/images/2021-08-23_MTLS-Programme-Banner-04.jpg"></a>
+<a href="/ml/mdm-nurashikin-jasni/"><img src="/images/2021-08-27_MTLS Programme Banner-04.jpg"></a>
 <br/>
-<a href="/tl/ms-bharathi-rani-arunachalam/"><img src="/images/2021-08-23_MTLS-Programme-Banner-05.jpg"></a>
+<a href="/tl/ms-bharathi-rani-arunachalam/"><img src="/images/2021-08-27_MTLS Programme Banner-05.jpg"></a>
 <br/>
 <a href="/test/林佩芬/"><img src="/images/2021-08-23_MTLS-Programme-Banner-06.jpg"></a>
 <br/>
-<a href="/ml/mdm-jumaini-bte-ariff/"><img src="/images/2021-08-23_MTLS-Programme-Banner-07.jpg"></a>
+<a href="/ml/mdm-jumaini-bte-ariff/"><img src="/images/2021-08-27_MTLS Programme Banner-07.jpg"></a>
 <br/>
-<a href="/tl/mrs-kalah-rajeshkannan/"><img src="/images/2021-08-23_MTLS-Programme-Banner-08.jpg"></a>
+<a href="/tl/mrs-kalah-rajeshkannan/"><img src="/images/2021-08-27_MTLS Programme Banner-08.jpg"></a>
 <br/>
 <a href="/test/张育慈/"><img src="/images/2021-08-23_MTLS-Programme-Banner-09.jpg"></a>
 <br/>
 <a href="/ml/mr-haniman-boniran/"><img src="/images/2021-08-23_MTLS-Programme-Banner-10.jpg"></a>
 <br/>
-<a href="/tl/ms-elakeyaa-selvaraji/"><img src="/images/2021-08-23_MTLS-Programme-Banner-11.jpg"></a>
+<a href="/tl/ms-elakeyaa-selvaraji/"><img src="/images/2021-08-27_MTLS Programme Banner-11.jpg"></a>
 <br/>
  <a href="/eng/Mrs-Dianne-Seet-And-Mdm-Nie-Bing/"><img src="/images/2021-08-23_MTLS-Programme-Banner-12.jpg"></a>
 <br/>
