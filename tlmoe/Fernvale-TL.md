@@ -1,7 +1,7 @@
 ---
-title: 'MK@Fernvale'
+title: 'கல்வி அமைச்சின் பாலர் பள்ளி (ஃபெர்ன்வேல்)'
 permalink: /tlmoe/Fernvale-TL/
-breadcrumb: 'MK@Fernvale'
+breadcrumb: 'கல்வி அமைச்சின் பாலர் பள்ளி (ஃபெர்ன்வேல்)'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
