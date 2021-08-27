@@ -97,7 +97,7 @@ background-color: lightgrey;!important;
   <br/>
 <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">推广华文学习委员会</h4>
         <p style="font-family:KaiTi;font-size:21px;margin:10px;">
-        推广华文学习委员会成立于2005年，旨在争取社会各界对华文教学改革的支持，推动学校、社区组织和媒体之间的合作，营造有利于学习与使用华文华语的大环境。委员会共设立了写作、文化、阅读、学前，以及宣传与数码五个小组。主办了“新空下——全国学生新谣音乐节” “世界书香日暨文学四月天” “爱上华文街舞比赛”等广受欢迎的活动，为学生提供了快乐学习和使用华文华语的机会。公众可通过电子展板，了解这些活动的详情。</p><br/>
+        推广华文学习委员会成立于2005年，旨在争取社会各界对华文教学改革的支持，推动学校、社区组织和媒体之间的合作，营造有利于学习与使用华文华语的大环境。委员会共设立了写作、文化、阅读、学前，以及宣传与数码五个小组，主办了“新空下——全国学生新谣音乐节” “世界书香日暨文学四月天” “爱上华文街舞比赛”等广受欢迎的活动，为学生提供了快乐学习和使用华文华语的机会。公众可通过电子展板，了解这些活动的详情。</p><br/>
 <h4 style="margin:10px;color:#d84178;">Committee to Promote Chinese Language Learning</h4>
 <p style="margin:10px;">The Committee to Promote Chinese Language Learning (CPCLL) has been working actively with schools, community organisations and the media since 2005 to create a conducive environment for promoting the learning and usage of Chinese beyond the classroom. The Committee consists of five groups, namely Writing, Culture, Reading, Pre-school, and Outreach & Digital groups.  Signature programmes and key activities include the “Xin Kong Xia” National Schools Xinyao Festival, World Book Day and Literature under the April Sky, and the Chinese Street Dance Competition. An e-gallery showcases how the use of Chinese is  promoted through the engagement of both parents and students.
 </p>
