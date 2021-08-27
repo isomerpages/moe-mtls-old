@@ -134,7 +134,7 @@ background-color: lightgrey;!important;
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
       <label for="tab-2" class="lbTM" style="font-family:Anjal InaiMathi;">நிரலாக்கத்தின்வழித் தமிழ்மொழி <br/>
-       யீஷூன் தொடக்கப் பள்ளி[Yishun Primary School]</label>
+       யீஷூன் தொடக்கப்பள்ளி [Yishun Primary School]</label>
       <div class="tab-content">
       <br/>
 <a href=" /tlmoe/Yishun-Pri/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
@@ -161,7 +161,7 @@ Such game-based learning was introduced as an effective approach to learn the la
       <input id="tab-4" type="checkbox" name="tab">
       <label for="tab-4" class="lbTM" style="font-family:Anjal InaiMathi;"> நாடகம் வழியாக மாணவர்களின் கற்றல் திறன்களை மேம்படுத்துதல் (கலவைமுறைவழி அணுகுதல்)
        <br/>
-       தெமாசெக் உயர்நிலைப் பள்ளி [Temasek Secondary School]</label>
+       தெமாசெக் உயர்நிலைப்பள்ளி [Temasek Secondary School]</label>
       <div class="tab-content">
        <br/>
 <a href=" /tlmoe/Temasek-Sec/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
