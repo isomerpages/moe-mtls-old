@@ -99,30 +99,7 @@ background-color: lightgrey;!important;
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20"></td>
 </tr>
-    <tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-11" type="checkbox" name="tab">
-      <label for="tab-11" class="lbCh"><span style="font-size:25px;font-family:KaiTi"> 利用线上导览资源进行混合式学习 <br/> 德义中学 [Deyi Secondary School]</span></label>
-      <div class="tab-content">
-      <a href="/clmoe/德义中学/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi">
-    阅览展板</div></a>
-  <br/>
-<h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">利用线上导览资源进行混合式学习</h4>
-          <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-     德义中学使用教育部提供的线上导览资源配套，让中一快捷班学生结合居家学习以及在校学习的混合模式在线上游览新加坡国家美术馆。<br/><br/>
-              这个学习活动要求学生对自己的学习负责。在居家学习活动时，学生按自己的步调和需求进行学习。教师通过在教室里集体参与的互动性活动引起学生的学习兴趣，推动他们积极探索课程以外的知识，并认识美术馆的一些艺术作品。学生在与同侪合作完成任务的过程中，用华文进行交流，在促进语文学习的同时也培养他们的协作能力。
-</p><br/>
-          <h4 style="margin:10px;color:#d84178;">Blended  Learning with CL Virtual Tour to National Art Gallery Singapore</h4>
-        <p style="margin:10px;">
-      As part of blended learning for Secondary 1 Express students, Deyi Secondary School uses the National Gallery Singapore’s virtual tour resource package provided by MOE to give students a taste of online self-directed learning. This is based on one of their textbook units and is accessible on the Singapore Student Learning Space (SLS) for use during Home-Based Learning. Let’s check out how students experience a virtual tour, engage in interactive learning activities and discussions at various learning stations, and end off by completing their projects on SLS.
-        </p>
-      </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg20">
- </td>
-</tr>  
+   
     <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
@@ -147,31 +124,7 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0;" class="btnImg20">
  </td>
 </tr>  
-       <tr>
-<td style="border:0 none;padding: 0; margin:0;">
-<div class="atab">
-      <input id="tab-12" type="checkbox" name="tab">
-    <label for="tab-12" class="lbCh"> <span style="font-size:25px;font-family:KaiTi">有效使用在线工具提高教学效益 <br/> 圣若瑟书院 [St. Joseph's Institution (Secondary)]</span>
-</label>
-      <div class="tab-content">
-          <a href="/clmoe/圣若瑟书院/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi">
-    阅览展板</div></a>
-  <br/>
-<h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">有效使用在线工具提高教学效益</h4>
-          <p style="font-family:KaiTi;margin:10px;font-size:21px;">
-    圣若瑟书院母语部在教学中使用线上教学法促进学生协作学习的能力。教师们有效地使用不同的教学工具，如：Jamboard, Flipgrid 和“新加坡学生学习平台”（SLS）的“思维互动工具”（ITT ，Interactive Thinking Tool) 进行“学生与学生”和“学生与文本”之间的互动，让学生的思维可视化。在教师的引领和科技的辅助下，学生有更多机会分享自己的看法，进行高效的小组协作以及同侪互评，为彼此提供有意义的反馈。在这些活动中，学生通过协作，一起进步、一起达成学习目标。
-</p><br/>
-          <h4 style="margin:10px;color:#d84178;">Effective Use of Teaching Tools in CL Lessons with E-Pedagogy</h4>
-        <p style="margin:10px;">
-      St Joseph's Institution's Mother Tongue Languages Department has effectively incorporated e-learning into pedagogical practice as a way of promoting collaborative learning among students. Teachers use different teaching tools such as Jamboard, Flipgrid and ITT in the Singapore Student Learning Space (SLS) to facilitate student-to-student interaction, student-content interaction, and to make students’ thinking visible. <br/><br/>
-
-<br/>Given both teacher guidance and technology that complements teaching and learning, students have more opportunities to share their views, work productively in groups to co-create knowledge,  acquire  peer review skills and give constructive feedback to help one another improve and achieve learning goals together.
-        </p>
-      </div>
-</div>
-</td>
-<td style="border:0 none;padding: 0;" class="btnImg20"></td>
-</tr>
+      
       <tr>
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
@@ -241,6 +194,55 @@ the SLS to share their views with their peers and showcase their learning. This 
 </td>
 <td style="border:0 none;padding: 0;" class="btnImg20">
  </td>
+</tr>
+       <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-11" type="checkbox" name="tab">
+      <label for="tab-11" class="lbCh"><span style="font-size:25px;font-family:KaiTi"> 利用线上导览资源进行混合式学习 <br/> 德义中学 [Deyi Secondary School]</span></label>
+      <div class="tab-content">
+      <a href="/clmoe/德义中学/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi">
+    阅览展板</div></a>
+  <br/>
+<h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">利用线上导览资源进行混合式学习</h4>
+          <p style="font-family:KaiTi;margin:10px;font-size:21px;">
+     德义中学使用教育部提供的线上导览资源配套，让中一快捷班学生结合居家学习以及在校学习的混合模式在线上游览新加坡国家美术馆。<br/><br/>
+              这个学习活动要求学生对自己的学习负责。在居家学习活动时，学生按自己的步调和需求进行学习。教师通过在教室里集体参与的互动性活动引起学生的学习兴趣，推动他们积极探索课程以外的知识，并认识美术馆的一些艺术作品。学生在与同侪合作完成任务的过程中，用华文进行交流，在促进语文学习的同时也培养他们的协作能力。
+</p><br/>
+          <h4 style="margin:10px;color:#d84178;">Blended  Learning with CL Virtual Tour to National Art Gallery Singapore</h4>
+        <p style="margin:10px;">
+      As part of blended learning for Secondary 1 Express students, Deyi Secondary School uses the National Gallery Singapore’s virtual tour resource package provided by MOE to give students a taste of online self-directed learning. This is based on one of their textbook units and is accessible on the Singapore Student Learning Space (SLS) for use during Home-Based Learning. Let’s check out how students experience a virtual tour, engage in interactive learning activities and discussions at various learning stations, and end off by completing their projects on SLS.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg20">
+ </td>
+</tr>  
+       <tr>
+<td style="border:0 none;padding: 0; margin:0;">
+<div class="atab">
+      <input id="tab-12" type="checkbox" name="tab">
+    <label for="tab-12" class="lbCh"> <span style="font-size:25px;font-family:KaiTi">有效使用在线工具提高教学效益 <br/> 圣若瑟书院 [St. Joseph's Institution (Secondary)]</span>
+</label>
+      <div class="tab-content">
+          <a href="/clmoe/圣若瑟书院/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi">
+    阅览展板</div></a>
+  <br/>
+<h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">有效使用在线工具提高教学效益</h4>
+          <p style="font-family:KaiTi;margin:10px;font-size:21px;">
+    圣若瑟书院母语部在教学中使用线上教学法促进学生协作学习的能力。教师们有效地使用不同的教学工具，如：Jamboard, Flipgrid 和“新加坡学生学习平台”（SLS）的“思维互动工具”（ITT ，Interactive Thinking Tool) 进行“学生与学生”和“学生与文本”之间的互动，让学生的思维可视化。在教师的引领和科技的辅助下，学生有更多机会分享自己的看法，进行高效的小组协作以及同侪互评，为彼此提供有意义的反馈。在这些活动中，学生通过协作，一起进步、一起达成学习目标。
+</p><br/>
+          <h4 style="margin:10px;color:#d84178;">Effective Use of Teaching Tools in CL Lessons with E-Pedagogy</h4>
+        <p style="margin:10px;">
+      St Joseph's Institution's Mother Tongue Languages Department has effectively incorporated e-learning into pedagogical practice as a way of promoting collaborative learning among students. Teachers use different teaching tools such as Jamboard, Flipgrid and ITT in the Singapore Student Learning Space (SLS) to facilitate student-to-student interaction, student-content interaction, and to make students’ thinking visible. <br/><br/>
+
+<br/>Given both teacher guidance and technology that complements teaching and learning, students have more opportunities to share their views, work productively in groups to co-create knowledge,  acquire  peer review skills and give constructive feedback to help one another improve and achieve learning goals together.
+        </p>
+      </div>
+</div>
+</td>
+<td style="border:0 none;padding: 0;" class="btnImg20"></td>
 </tr>
 </table>
 <hr>
