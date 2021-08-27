@@ -1,7 +1,7 @@
 ---
-title: 'National Library Board'
+title: 'தேசிய நூலக வாரியம்'
 permalink: /tlmoe/NLB-TL/
-breadcrumb: 'National Library Board'
+breadcrumb: 'தேசிய நூலக வாரியம்'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
