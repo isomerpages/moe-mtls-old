@@ -1,7 +1,7 @@
 ---
-title: 'National Institute of Education (Asian Languages and Cultures Academic Group)'
+title: 'தேசியக் கல்விக் கழகம்'
 permalink: /tlmoe/NIE-TL/
-breadcrumb: 'National Institute of Education (Asian Languages and Cultures Academic Group)'
+breadcrumb: 'தேசியக் கல்விக் கழகம்'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
