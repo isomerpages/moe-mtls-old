@@ -1,7 +1,7 @@
 ---
-title: 'Marymount Convent School'
+title: 'மேரிமௌண்ட் பள்ளி'
 permalink: /tlmoe/Marymount-Convent/
-breadcrumb: 'Marymount Convent School'
+breadcrumb: 'மேரிமௌண்ட் பள்ளி'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
