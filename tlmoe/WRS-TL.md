@@ -1,7 +1,7 @@
 ---
-title: 'Wildlife Reserves Singapore'
+title: 'சிங்கப்பூர் விலங்குத்தோட்டம்'
 permalink: /tlmoe/WRS-TL/
-breadcrumb: 'Wildlife Reserves Singapore'
+breadcrumb: 'சிங்கப்பூர் விலங்குத்தோட்டம்'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
