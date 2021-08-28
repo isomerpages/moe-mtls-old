@@ -108,7 +108,7 @@ background-color: lightgrey;!important;
 </head>
 <body>  
  <div class ="ss-banner">
-  <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_05.jpg" style="width:100%">
+  <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_05.jpg" style="width:100%; display:none;">
   <br/>
 </div>
  <br/>

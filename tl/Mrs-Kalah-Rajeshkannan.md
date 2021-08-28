@@ -6,10 +6,13 @@ breadcrumb: 'Mrs Kalah Rajeshkannan'
 <html>
 <head>
 <style>
-  img {
+  .tlimg img {
 height:auto;
 max-width:20%;
 }
+  .tlbanner img{
+  width:100%;
+  }
 </style>
 </head>
  <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
@@ -23,9 +26,12 @@ max-width:20%;
 </script>
   <body>  
 <a href="https://staging-moe-mtls.netlify.app/Sharing-Sessions/தமிழ்-ஒளிக்காட்சிகள்/" style="float:right;">Back</a>
+    <div class="tlbanner">
+    <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_12.jpg"></div><br/>
 <div class="video-container">
 <iframe src="https://vimeo.com/event/1187149/embed" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
 *Video is best viewed in 1080p.<br/><br/>
+    <div class="tlimg">
   <div class="column">
 <img src="/images/Speakers_TL Kalah.png" style="width:100%">
    </div>
@@ -55,5 +61,5 @@ max-width:20%;
     Storytelling is a fun and enjoyable activity that enhances children’s creativity and stimulates their imagination. It is a powerful medium that develops communication skills, listening and attention, and a love for the language. Storytelling also imparts values and enhances problem-solving skills.<br/>
 How can one create a strong connection with children using storytelling? It is all about practice and getting to know the listeners well. When engaging children, there are important pointers, such as preparing a well-crafted narrative to establish rapport through interactivity.<br/>
 Bringing stories to life with the right tone will trigger the appropriate emotions in children. This sharing session will explore the various storytelling strategies that can be used.
- </p>
+      </p></div>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>

@@ -6,10 +6,14 @@ breadcrumb: 'Mrs Dianne Seet & Mdm Nie Bing'
 <html>
 <head>
 <style>
-  img {
+ .elimg img {
 height:auto;
 max-width:34%;
 }
+ .sp1 img{
+  width:100%;
+  height:auto;
+  }
 </style>
 </head>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
@@ -23,10 +27,15 @@ max-width:34%;
 </script>
   <body>  
   <a href="https://staging-moe-mtls.netlify.app/Sharing-Sessions/English-Videos/" style="float:right;">Back</a>
+    <div class="sp1">
+      <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_09.jpg" style="width:100%;">
+    </div>
+    <br/>
 <div class="video-container">
 <iframe src="https://vimeo.com/event/1187136/embed" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
     *Video is best viewed in 1080p.
     <br/>    <br/>    <br/>
+    <div class="elimg">
 <div class="row">
  <div class="column">
 <img src="/images/EL-Dianne Seet.png" style="width:100%">
@@ -52,6 +61,6 @@ An advocate for the creative arts, Mrs Dianne Seet began her career in early chi
 Mdm Nie Bing has 17 years of pre-school education experience and has taught in Ascension Kindergarten  for eight  years. She graduated from Fudan University with a Bachelor of Arts in Chinese Language. She is passionate about early childhood education. Her teaching philosophy is "There is no such thing as students who can't learn, only teachers who have yet to find a way."
 </p><br/>
 <h4 style="padding-top:12px;margin:10px;color:#fa0;">Synopsis</h4>
-<p style="margin:10px;">Come learn how the team at Ascension Kindergarten taps on various sensorial approaches to develop their children’s innate motivation to use and learn about their Mother Tongue Language (MTL). Children need to experience rather than be taught. How can their sense of cultural identity and connection to Chinese be developed? What can be done to increase their motivation to use their MTL so that they can continually grow to appreciate the language? Come find out more through an interactive session with the team.  </p>
+<p style="margin:10px;">Come learn how the team at Ascension Kindergarten taps on various sensorial approaches to develop their children’s innate motivation to use and learn about their Mother Tongue Language (MTL). Children need to experience rather than be taught. How can their sense of cultural identity and connection to Chinese be developed? What can be done to increase their motivation to use their MTL so that they can continually grow to appreciate the language? Come find out more through an interactive session with the team.  </p></div>
         <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
 

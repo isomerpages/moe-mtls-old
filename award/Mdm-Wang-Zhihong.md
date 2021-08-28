@@ -24,11 +24,11 @@ max-width:100%;
   <a href="/opmtl-award-2021/" style="float:right;">Back</a>
    <img src="/images/MTLS_OPMTL_Awards v6_Wang Zhihong Website.jpg" style="width:100%">
     <br/>
-    <h4 style="font-family:KaiTi;">感言：</h4>
+    <h4 style="font-family:KaiTi;">感言</h4>
     <p style="font-family:KaiTi; font-size:25px; text-align:justify">
  幼儿天性好动、好玩、好探索。引起他们的兴趣是学习的第一步，也是关键的一步，做好了，他们就能持续、投入地探索。身为学前华文教师的我们，在幼儿的学习活动中既是观察者，也是引导者。如果我们善于发现幼儿学习的规律，引导并激发他们的学习兴趣，就能让每个孩子亲近华文华语，并有信心用好华文华语。
      </p>
-      <h4 style="font-family:KaiTi;">评语：</h4>
+      <h4 style="font-family:KaiTi;">评语</h4>
     <p style="font-family:KaiTi; font-size:25px; text-align:justify">王志洪老师与幼儿互动时积极投入。她的语言生动、清晰且生活化，让幼儿乐于和她交流，是一位深受幼儿喜爱的老师。
     </p>
         <p style="font-family:KaiTi; font-size:25px; text-align:justify">王老师在教学中关注幼儿的生活经验，运用多种方式为他们搭建语言学习的鹰架，启发幼儿将所学的知识应用于生活中，让他们在生活中乐于开口讲华语。
@@ -41,7 +41,7 @@ max-width:100%;
     </p>
      <p style="font-family:KaiTi; font-size:25px; text-align:justify">从事幼教工作多年的王老师仍保持着高度的教学热忱，她不断进取，提升自己的教学水平，是年轻教师的楷模！
     </p>
-     <h4>Quote:</h4>
+     <h4>Quote</h4>
     <p style="text-align:justify">Children are playful and curious by nature. When children’s interest in learning has been sparked, they will immerse themselves in the activities. As pre-school teachers, our role is to observe and facilitate. By identifying children’s learning patterns and sparking their interest in learning, we can endear the language to every child, and help them grow to become confident users of Chinese.</p>
     <h4>Write-up</h4>
      <p style="text-align:justify">Mdm Wang Zhihong is a warm and friendly pre-school teacher who interacts spontaneously with the children and communicates with them in a vivid and relatable manner.

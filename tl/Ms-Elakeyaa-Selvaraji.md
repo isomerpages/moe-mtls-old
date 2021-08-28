@@ -6,10 +6,13 @@ breadcrumb: 'Ms Elakeyaa Selvaraji'
 <html>
 <head>
 <style>
-  img {
+  .tlimg img {
 height:auto;
 max-width:20%;
 }
+  .tlbanner img{
+  width:100%;
+  }
 </style>
 </head>
  <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
@@ -23,9 +26,13 @@ max-width:20%;
 </script>
   <body>  
 <a href="https://staging-moe-mtls.netlify.app/Sharing-Sessions/தமிழ்-ஒளிக்காட்சிகள்/" style="float:right;">Back</a>
+    <div class="tlbanner">
+      <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_12.jpg">
+    </div><br/>
 <div class="video-container">
  <iframe src="https://vimeo.com/event/1187150/embed" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
 *Video is best viewed in 1080p.<br/>
+    <div class="tlimg">
   <div class="column">
 <img src="/images/Speakers_TL Elakeyaa Selvaraji.png" style="width:100%">
    </div>
@@ -47,6 +54,6 @@ max-width:20%;
         <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Having Smart Conversations with Your Children Using Specialised Techniques!</h4> 
        <p  style="margin:10px;">
 Holding smart conversations with children is very important to instill values and impart  knowledge. It is even more crucial to do so in the Mother Tongue Language. Parents are often concerned about not educating their children enough. However, it is more important to uncover what the child knows. Parents should be able to have smart conversations with their children, debate issues with them and, most importantly, to do so in Tamil. How can parents start such conversations and indirectly teach a love of the Tamil to their children? Whilst many parents are unsure about how to do this effectively, it is as easy as 1, 2, 3. 
- </p>
+      </p></div>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>

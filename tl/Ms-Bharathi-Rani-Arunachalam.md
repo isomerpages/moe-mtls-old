@@ -6,10 +6,13 @@ breadcrumb: 'Ms Bharathi Rani Arunachalam'
 <html>
 <head>
 <style>
-  img {
+  .tlimg img {
 height:auto;
 max-width:20%;
 }
+  .tlbanner img{
+  width:100%;
+  }
 </style>
 </head>
  <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
@@ -23,9 +26,13 @@ max-width:20%;
 </script>
   <body>  
 <a href="https://staging-moe-mtls.netlify.app/Sharing-Sessions/தமிழ்-ஒளிக்காட்சிகள்/" style="float:right;">Back</a>
+    <div class="tlbanner">
+      <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_12.jpg">
+    </div><br/>
 <div class="video-container">
 <iframe src="https://vimeo.com/event/1187144/embed" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
 *Video is best viewed in 1080p.<br/><br/>
+    <div class="tlimg">
   <div class="column">
 <img src="/images/Speakers_TL Bharathi Rani Arunachalam.png" style="width:100%">
    </div>
@@ -48,5 +55,5 @@ max-width:20%;
          <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Strategies to Encourage Children to Speak in MTL at Home & in School</h4> 
        <p  style="margin:10px;">
 To keep the Tamil language alive, our children need to be encouraged to love the language through stories, songs, games and role-play. This workshop will explore how parents and educators can tap into activities creatively to provide a rich language environment for children both in and beyond the classroom. In addition,Tamil Language teachers can also find out more about some useful iOS applications.
- </p>
+      </p></div>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
