@@ -14,7 +14,7 @@ breadcrumb: 'Sekolah Rendah Lakeside'
 </script>
 <a href="/exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-d/Schools/" style="float:right;">Back</a>
  <img src="/images/MTLS2021-Lakeside_ML_Final.jpg"> <br/>
- <p style="font-size:12px;">Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM).</p> <br/>
+ <p style="font-size:16px;">Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM).</p> <br/>
  
 <div class="video-container">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/HseLWl-JmSo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
