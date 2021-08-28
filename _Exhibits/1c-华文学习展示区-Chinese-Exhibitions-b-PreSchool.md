@@ -171,7 +171,7 @@ background-color: lightgrey;!important;
     <label for="tab-3" class="lbCh"><span style="font-size:25px;font-family:KaiTi">我爱华文，我爱艺术的真、善、美！<br/> 冠智学习与艺术园地 <br/>[Nobleland Arts N Learning Place @ Bishan]</span></label>
       <div class="tab-content">
         <br/>
-       <a href="/clmoe/冠智学习与艺术园/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi">
+       <a href="/clmoe/冠智学习与艺术园地/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi">
     阅览展板</div></a>
   <br/>
            <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">我爱华文，我爱艺术的真、善、美！</h4>
