@@ -1,6 +1,6 @@
 ---
 title: Live Sessions
-permalink: /Live-Sessions/
+permalink: /Ls/
 breadcrumb: Live Sessions
 
 ---
