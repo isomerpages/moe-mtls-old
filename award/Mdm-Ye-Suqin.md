@@ -24,11 +24,11 @@ max-width:100%;
   <a href="/opmtl-award-2021/" style="float:right;">Back</a>
    <img src="/images/MTLS_OPMTL_Awards v6_Ye Suqin Website.jpg" style="width:100%">
     <br/>
-    <h4 style="font-family:KaiTi;">感言：</h4>
+    <h4 style="font-family:KaiTi;">感言</h4>
     <p style="font-family:KaiTi; font-size:25px; text-align:justify">
   幼儿是好奇、积极、主动的学习者。我以幼儿的兴趣为出发点，创设一个让他们感到安全、自在且具探索性的学习环境。通过引导幼儿用华语主动和他人沟通，在周围环境中运用华文、华语，从而让他们爱上了华文、华语，也爱上了华族文化！
      </p>
-      <h4 style="font-family:KaiTi;">评语：</h4>
+      <h4 style="font-family:KaiTi;">评语</h4>
     <p style="font-family:KaiTi; font-size:25px; text-align:justify">叶素琴老师善于利用教具和指导语来调动幼儿学习的积极性。她以幼儿为中心，在有趣的游戏活动中开展语文学习，让他们轻松地学习华文，体验华文学习的乐趣。
     </p>
         <p style="font-family:KaiTi; font-size:25px; text-align:justify">叶老师了解班上华族和非华族幼儿的背景、能力和需要，所设计的教学活动照顾到幼儿学习准备度的差异。在既定的学习目标下，她为幼儿搭建不同的学习鹰架，学习内容建立在幼儿的先备知识之上，并不断推进他们的学习进展。
@@ -39,7 +39,7 @@ max-width:100%;
     </p>
         <p style="font-family:KaiTi; font-size:25px; text-align:justify">叶老师积极进取，不断努力提高自己的专业素养和教学能力，相信她对教学的热忱和用心，会让更多幼儿拥有学习华文、华语的美好回忆。
     </p>
-     <h4>Quote:</h4>
+     <h4>Quote</h4>
     <p style="text-align:justify">Children are curious and proactive learners. I use the children’s interests as a guide to create a safe and free learning environment that promotes exploration. By guiding the children to explore the environment and proactively converse in Chinese, I impart to them a love for the language and culture!
     </p>
     <h4>Write-up</h4>
