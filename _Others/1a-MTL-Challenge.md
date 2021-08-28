@@ -21,7 +21,7 @@ breadcrumb: 'MTL Challenge'
 
   gtag('config', 'AW-726049306');
 </script>
-<h2 style="display:block;">MTL Challenge</h2>
+<h2>MTL Challenge</h2>
   <img src="/images/MTLS_Web_Placeholders-V1-15.jpg" style="width:100%;">
   
 <p style="display:none;">Take part in our MTL Challenge and stand a chance to win attractive prizes!<br/>

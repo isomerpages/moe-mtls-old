@@ -14,6 +14,6 @@ breadcrumb: 'Tadika MOE di Fernvale'
 </script>
 <a href="/exhibits/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/" style="float:right;">Back</a>
  <img src="/images/Fernvale_ML_Final.jpg"> <br/>
- <p style="font-size:12px;">Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM).</p> <br/>
+ <p style="font-size:16px;">Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM).</p> <br/>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>

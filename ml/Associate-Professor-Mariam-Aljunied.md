@@ -29,7 +29,7 @@ max-width:20%;
  <div class="column">
 <img src="/images/ML-Mariam Aljunied.png" style="width:100%">
    </div>
-    <p> <strong> Associate Professor Mariam Aljunied </strong>
+    <p> <strong> Associate Professor Sharifah Mariam Aljunied </strong>
 </p>
  
  <h4 style="color:#a3c864;">Profil </h4> 

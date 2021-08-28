@@ -14,7 +14,7 @@ breadcrumb: 'Sekolah Rendah Admiralty'
 </script>
 <a href="/exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-d/Schools/" style="float:right;">Back</a>
  <img src="/images/MTLS2021-Admiralty_ML_Final.jpg"> <br/>
- <p style="font-size:12px;">Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM).</p> <br/>
+ <p style="font-size:16px;">Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM).</p> <br/>
  
  <a href=" https://drive.google.com/file/d/1y25fSU9YtRjKvUGklxtXnES1hbhUZ7g3/view " target="_blank"><span style="font-size: 20px;">MTLS Video Admiralty Pri Sch</span></a> <br/>
  

@@ -91,7 +91,8 @@ background-color: lightgrey;!important;
 </head>
 <body>  
  <br/>
- <img src="/images/MTLS2021_Challenge_ML.jpg" style="width:100%;">
+  <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_07.jpg" style="width:100%">
+ <img src="/images/MTLS2021_Challenge_ML.jpg" style="width:100%;display:none;">
    <br/>
 <table class="tbl">
 <tr>
@@ -104,7 +105,7 @@ background-color: lightgrey;!important;
 </label>
       <div class="tab-content">
        <br/>
-       <a href="/ml/Mdm-Nurashikin-Jasni/"> <div class="btnvideo" style="font-size:16px;">
+       <a href="/ml/Mdm-Nurashikin-Jasni/"> <div class="btnvideo1" style="font-size:16px;">
     Ikuti Perkongsian</div></a>
   <br/>
   <div class="row">
@@ -147,7 +148,7 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
 </label>
       <div class="tab-content">      
        <br/>
-       <a href="/ml/Mdm-Jumaini-bte-Ariff/"> <div class="btnvideo" style="font-size:16px;">
+       <a href="/ml/Mdm-Jumaini-bte-Ariff/"> <div class="btnvideo1" style="font-size:16px;">
     Ikuti Perkongsian</div></a>
   <br/>
 
@@ -188,7 +189,7 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
 </label>
       <div class="tab-content">      
        <br/>
-       <a href="/ml/Mr-Haniman-Boniran/"> <div class="btnvideo" style="font-size:16px;">
+       <a href="/ml/Mr-Haniman-Boniran/"> <div class="btnvideo1" style="font-size:16px;">
    Ikuti Perkongsian</div></a>
   <br/>
 
@@ -225,8 +226,8 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
 </label>
       <div class="tab-content">      
        <br/>
-       <a href="/ml/Mr-Rothman/"> <div class="btnvideo" style="font-size:16px;">
-   Ikuti Perkongsian</div></a>
+       <a href="/ml/Mr-Rothman/"> <div class="btnvideo1" style="font-size:16px;">
+   Ikuti Perkongsian1</div></a>
   <br/>
 
   <div class="row">
@@ -261,12 +262,12 @@ Mr Herman Rothman will be sharing various interactive storytelling techniques be
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab atab3Line">
       <input id="tab-01" type="checkbox" name="tab">
-      <label class="lbML" for="tab-01">Membesarkan Kanak-kanak Dwibahasa
+      <label class="lbML" for="tab-01">Strategi-strategi Membesarkan Kanak-Kanak Dwibahasa
 <br/>Dr Mukhlis Abu Bakar <br/>
 Ms Rilla Melati Bahri
 </label>
       <div class="tab-content">      
-       <a href="/ml/Dr-Mukhlis-Abu-Bakar-&-Ms-Rilla-Melati-Bahri/"> <div class="btnvideo" style="font-size:16px;">
+       <a href="/ml/Dr-Mukhlis-Abu-Bakar-&-Ms-Rilla-Melati-Bahri/"> <div class="btnvideo1" style="font-size:16px;">
    Ikuti Perkongsian</div></a>
   <br/>
 <br/>
@@ -286,7 +287,7 @@ Ms Rilla Melati Bahri
    <p> <strong> Ms Rilla Melati Bahri</strong>
 </p>
    </div>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Membesarkan Kanak-kanak Dwibahasa</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Strategi-strategi Membesarkan Kanak-Kanak Dwibahasa</h4>
        <p><h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil</h4></p>
        <p style="margin:10px;">Dr Mukhlis Abu Bakar merupakan Profesor Madya di Institut Pendidikan Nasional (NIE), Universiti Teknologi Nanyang. Beliau memperoleh ijazah MA dan PhD dalam bidang Linguistik Gunaan dari Universiti Wales, Bangor, UK. Beliau mengajar kursus-kursus linguistik, analisis wacana, literasi kritis dan pendidikan dwibahasa, dan pernah menerima Anugerah Kecemerlangan Pengajaran NIE pada tahun 2011, 2018 dan 2020. Minat penyelidikannya tertumpu kepada bidang dwibahasa, dwiliterasi, pembelajaran literasi, dan isu sebutan dalam bahasa Melayu. Beliau merupakan Penyunting Bersama sebuah buku yang bakal terbit pada bulan Ogos ini – "The Bloomsbury Handbook of Cultural Identity from Early Childhood to Early Adulthood".</p>
         <p><h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil</h4></p>
@@ -294,7 +295,7 @@ Ms Rilla Melati Bahri
         <p><h4 style="padding-top:12px;margin:10px;color:#a3c864;">Synopsis</h4></p>
        <p style="margin:10px;">Membina persekitaran dwibahasa di rumah bukanlah tugas yang mudah bagi sesetengah keluarga, terutama sekali dalam konteks bahasa Inggeris yang semakin menjadi bahasa dominan dalam kalangan keluarga masyarakat Melayu sekarang ini. Melalui sesi perkongsian ini, para peserta dapat memahami cara-cara ibu bapa boleh memupuk rasa cinta akan bahasa Melayu anak-anak mereka, termasuk cara-cara mencipta peluang menggunakan bahasa Melayu di rumah. Ibu bapa yang mempunyai anak-anak kecil juga dapat mendapatkan tip mudah untuk mewujudkan pengalaman pembelajaran bahasa Melayu yang menyeronokkan.
 </p>
-       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Creating an Immersive Bilingual Language Environment for Children at Home</h4>
+       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Strategies for Raising Bilingual Children</h4>
        <p><h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profile</h4></p>
        <p style="margin:10px;">Dr Mukhlis Abu Bakar is an Associate Professor at the National Institute of Education (NIE), Nanyang Technological University. He obtained his MA and PhD in applied linguistics from the University of Wales, Bangor, UK. He teaches courses in linguistics, discourse analysis, critical literacy and bilingual education, for which he received NIE’s Excellence in Teaching Commendation Award in 2011, 2018 and 2020. His research interests are in the fields of bilingualism, biliteracy, literacy learning, and pronunciation issues in Malay. He is co-editor of a forthcoming book to be published in August, "The Bloomsbury Handbook of Cultural Identity from Early Childhood to Early Adulthood".
 </p>
@@ -318,7 +319,7 @@ Ms Rilla Melati Bahri
 </label>
       <div class="tab-content">      
        <br/>
-       <a href="/ml/Mdm-Nurain-Syakirah/"> <div class="btnvideo" style="font-size:16px;">
+       <a href="/ml/Mdm-Nurain-Syakirah/"> <div class="btnvideo1" style="font-size:16px;">
    Ikuti Perkongsian</div></a>
   <br/>
 <div class="row">
@@ -357,7 +358,7 @@ In Mdm Nurain Syakirah’s sharing, parents and educators will understand how re
 </label>
       <div class="tab-content">      
        <br/>
-       <a href="/ml/Roksana-Bibi"> <div class="btnvideo" style="font-size:16px;">
+       <a href="/ml/Roksana-Bibi"> <div class="btnvideo1" style="font-size:16px;">
   Ikuti Perkongsian</div></a>
   <br/>
 <div class="row">
@@ -400,14 +401,14 @@ Statistics have shown that more children are growing up in English-speaking fami
 </label>
       <div class="tab-content">      
        <br/>
-       <a href="/ml/Associate-Professor-Mariam-Aljunied/"> <div class="btnvideo" style="font-size:16px;">
+       <a href="/ml/Associate-Professor-Mariam-Aljunied/"> <div class="btnvideo1" style="font-size:16px;">
   Ikuti Perkongsian</div></a>
   <br/>
 <div class="row">
  <div class="column">
 <img src="/images/ML-Mariam Aljunied.png" style="width:100%">
    </div>
-   <p> <strong> Associate Professor Mariam Aljunied </strong>
+   <p> <strong> Associate Professor Sharifah Mariam Aljunied </strong>
 <br/> 
     </p>
    </div>
@@ -437,7 +438,7 @@ In recent years, we often read about an increased number of children with specia
 </label>
       <div class="tab-content">      
        <br/>
-    <a href="/ml/Ms-Zuzanita-Zakaria/"> <div class="btnvideo" style="font-size:16px;">
+    <a href="/ml/Ms-Zuzanita-Zakaria/"> <div class="btnvideo1" style="font-size:16px;">
   Ikuti Perkongsian</div></a>
   <br/>
 
