@@ -27,7 +27,7 @@ max-width:20%;
   <body> 
   <a href="https://staging-moe-mtls.netlify.app/Sharing-Sessions/video-bahasa-melayu/" style="float:right;">Back</a>
     <div class="mlbanner">
-      <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_11.jpg">
+      <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_11.jpg" style="display:none;">
     </div>
     <br/>
     

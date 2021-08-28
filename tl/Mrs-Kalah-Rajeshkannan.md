@@ -27,7 +27,8 @@ max-width:20%;
   <body>  
 <a href="https://staging-moe-mtls.netlify.app/Sharing-Sessions/தமிழ்-ஒளிக்காட்சிகள்/" style="float:right;">Back</a>
     <div class="tlbanner">
-    <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_12.jpg"></div><br/>
+    <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_12.jpg" style="display:none;">
+    </div><br/>
 <div class="video-container">
 <iframe src="https://vimeo.com/event/1187149/embed" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
 *Video is best viewed in 1080p.<br/><br/>
