@@ -110,13 +110,7 @@ background-color: lightgrey;!important;
  <div class ="ss-banner">
   <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_05.jpg" style="width:100%">
   <br/>
-  <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_06.jpg" style="width:100%">
-  <br/>
-  <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_07.jpg" style="width:100%">
-  <br/>
-  <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_08.jpg" style="width:100%">
-  
- </div>
+</div>
  <br/>
  
  <table class="tbl">
