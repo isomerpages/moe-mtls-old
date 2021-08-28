@@ -28,7 +28,7 @@ breadcrumb: 'MTL Challenge'
 Earn 100 points for a limited MTLS souvenir. Complete the challenge with 200 points for a surprise! </p>
 <img src="/images/Picture1.jpg" style="display:none;"><br/>
 <p style="display:none;">Let us know how you feel about MTLS 2021! </p>
-<img src="/images/2021-08-28_MTLS_Web_Placeholders V1_15.jpg" style="display:none;">
+<img src="/images/Feedback.jpg" style="display:none;">
 
 </body>
 </html>
