@@ -10,6 +10,9 @@ breadcrumb: 'Mrs Dianne Seet & Mdm Nie Bing'
 height:auto;
 max-width:34%;
 }
+ .sp1 img{
+  width:100%;
+  }
 </style>
 </head>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
@@ -23,6 +26,10 @@ max-width:34%;
 </script>
   <body>  
   <a href="https://staging-moe-mtls.netlify.app/Sharing-Sessions/English-Videos/" style="float:right;">Back</a>
+    <div class="sp1">
+      <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_09.jpg">
+    </div>
+    
 <div class="video-container">
 <iframe src="https://vimeo.com/event/1187136/embed" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
     *Video is best viewed in 1080p.
