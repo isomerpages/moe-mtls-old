@@ -104,7 +104,7 @@ background-color: lightgrey;!important;
 </label>
       <div class="tab-content">
        <br/>
-       <a href="/ml/Mdm-Nurashikin-Jasni/"> <div class="btnvideo" style="font-size:16px;">
+       <a href="/ml/Mdm-Nurashikin-Jasni/"> <div class="btnvideo1" style="font-size:16px;">
     Ikuti Perkongsian</div></a>
   <br/>
   <div class="row">
@@ -147,7 +147,7 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
 </label>
       <div class="tab-content">      
        <br/>
-       <a href="/ml/Mdm-Jumaini-bte-Ariff/"> <div class="btnvideo" style="font-size:16px;">
+       <a href="/ml/Mdm-Jumaini-bte-Ariff/"> <div class="btnvideo1" style="font-size:16px;">
     Ikuti Perkongsian</div></a>
   <br/>
 
@@ -188,7 +188,7 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
 </label>
       <div class="tab-content">      
        <br/>
-       <a href="/ml/Mr-Haniman-Boniran/"> <div class="btnvideo" style="font-size:16px;">
+       <a href="/ml/Mr-Haniman-Boniran/"> <div class="btnvideo1" style="font-size:16px;">
    Ikuti Perkongsian</div></a>
   <br/>
 
@@ -225,8 +225,8 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
 </label>
       <div class="tab-content">      
        <br/>
-       <a href="/ml/Mr-Rothman/"> <div class="btnvideo" style="font-size:16px;">
-   Ikuti Perkongsian</div></a>
+       <a href="/ml/Mr-Rothman/"> <div class="btnvideo1" style="font-size:16px;">
+   Ikuti Perkongsian1</div></a>
   <br/>
 
   <div class="row">
@@ -266,7 +266,7 @@ Mr Herman Rothman will be sharing various interactive storytelling techniques be
 Ms Rilla Melati Bahri
 </label>
       <div class="tab-content">      
-       <a href="/ml/Dr-Mukhlis-Abu-Bakar-&-Ms-Rilla-Melati-Bahri/"> <div class="btnvideo" style="font-size:16px;">
+       <a href="/ml/Dr-Mukhlis-Abu-Bakar-&-Ms-Rilla-Melati-Bahri/"> <div class="btnvideo1" style="font-size:16px;">
    Ikuti Perkongsian</div></a>
   <br/>
 <br/>
@@ -318,7 +318,7 @@ Ms Rilla Melati Bahri
 </label>
       <div class="tab-content">      
        <br/>
-       <a href="/ml/Mdm-Nurain-Syakirah/"> <div class="btnvideo" style="font-size:16px;">
+       <a href="/ml/Mdm-Nurain-Syakirah/"> <div class="btnvideo1" style="font-size:16px;">
    Ikuti Perkongsian</div></a>
   <br/>
 <div class="row">
@@ -357,7 +357,7 @@ In Mdm Nurain Syakirah’s sharing, parents and educators will understand how re
 </label>
       <div class="tab-content">      
        <br/>
-       <a href="/ml/Roksana-Bibi"> <div class="btnvideo" style="font-size:16px;">
+       <a href="/ml/Roksana-Bibi"> <div class="btnvideo1" style="font-size:16px;">
   Ikuti Perkongsian</div></a>
   <br/>
 <div class="row">
@@ -400,7 +400,7 @@ Statistics have shown that more children are growing up in English-speaking fami
 </label>
       <div class="tab-content">      
        <br/>
-       <a href="/ml/Associate-Professor-Mariam-Aljunied/"> <div class="btnvideo" style="font-size:16px;">
+       <a href="/ml/Associate-Professor-Mariam-Aljunied/"> <div class="btnvideo1" style="font-size:16px;">
   Ikuti Perkongsian</div></a>
   <br/>
 <div class="row">
@@ -437,7 +437,7 @@ In recent years, we often read about an increased number of children with specia
 </label>
       <div class="tab-content">      
        <br/>
-    <a href="/ml/Ms-Zuzanita-Zakaria/"> <div class="btnvideo" style="font-size:16px;">
+    <a href="/ml/Ms-Zuzanita-Zakaria/"> <div class="btnvideo1" style="font-size:16px;">
   Ikuti Perkongsian</div></a>
   <br/>
 
