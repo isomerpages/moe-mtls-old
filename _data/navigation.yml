@@ -6,16 +6,17 @@ links:
 - title: Opening Ceremony
   url: /Opening-Ceremony/
 - title: Live Sessions 
-  url: /Ls/
+  url: /Live-Sessions/
 - title: Sharing Sessions
-  url: /SSP/
+  url: /Sharing-Sessions/
+  collection: Sharing-Sessions
 - title: Exhibits
   url: /Exhibits/
   collection: Exhibits
 - title: OPMTL Teacher Award
   url: /OPMTL-AWARD-2021/
 - title: Online Quest
-  url: /Online/
+  url: /Online-Quest/
 - title: Others
   url: /Others/MTL-Challenge/
   sublinks:
