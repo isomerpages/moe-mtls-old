@@ -25,11 +25,11 @@ max-width:100%;
   <a href="/opmtl-award-2021/" style="float:right;">Back</a>
  <img src="/images/Mr-Sharil.jpg" style="width:100%">
     <br/>
-     <h4>Quote </h4>
+     <h4>Nukilan</h4>
     <p style="text-align:justify;">
     Kita seharusnya berasa bangga dan menghayati bahasa ibunda kita kerana bahasa mencerminkan bangsa kita. Anak-anak kecil ialah pewaris bangsa, bahasa dan budaya kita. Siapakah lagi yang akan menyemai minat dan cinta akanbahasa kepada anak-anak kita jika bukan kita? Walau sekecil mana pun usaha kita, ia dapat memastikan khazanah bahasa dan budaya kita akan terpelihara padamasa hadapan. 
 </p>
-    <h4>Write-up </h4>
+    <h4>Ulasan </h4>
     <p style="text-align:justify;"> Encik Shahril sungguh bertenaga dalam penyampaian pengajaran di dalam bilik darjah. Isi pengajaran dan kosa kata yang dipilih amat sesuai dengan kanak-kanak.  Dalam salah satu pelajarannya, Encik Shahril memegang watak Pak Pandir dalam menyampaikan topik Wau.  Kanak-kanak berasa seronok dan sangat berminat untuk berinteraksi dengan beliau.  Aktiviti-aktiviti dilakarkan dengan baik dan membantu kanak-kanak mencapai matlamat pembelajaran mereka.  Aktiviti yang dijalankan termasuk nyanyian, lukisan dan perbincangan kelas.Encik Shahril bijak mengadun budaya dalam pembelajaran.
     </p>
          <p style="text-align:justify;">Encik Shahril merupakan teladan yang baik untuk kanak-kanak belajar bertutur bahasa Melayu.Sifat penyayang Encik Shahril telah mewujudkan persekitaran pembelajaran yang menyeronokkan dan menyokong bagi kanak-kanak. Denganmenjalinkan hubungan yang baik dan mesra,  kanak-kanak terdorong untuk belajar bahasa Melayu dengan lebih baik.
