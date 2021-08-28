@@ -29,7 +29,7 @@ max-width:34%;
     <div class="sp1">
       <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_09.jpg" style="width:100%;">
     </div>
-    
+    <br/>
 <div class="video-container">
 <iframe src="https://vimeo.com/event/1187136/embed" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
     *Video is best viewed in 1080p.
