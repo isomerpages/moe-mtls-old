@@ -14,7 +14,7 @@ breadcrumb: Live Sessions
 </script>
  <a href="/opening-ceremony/"><img src="/images/2021-08-23_MTLS Programme Banner-01.jpg"></a>
 <br/>
-<a href="/sharing-sessions/english-videos/"><img src="/images/2021-08-23_MTLS-Programme-Banner-02.jpg"></a>
+<a href="/eng/panel-discussion/"><img src="/images/2021-08-23_MTLS-Programme-Banner-02.jpg"></a>
 <br/>
 <a href="/sharing-sessions/english-videos/"><img src="/images/2021-08-23_MTLS-Programme-Banner-03.jpg"></a>
 <br/>
