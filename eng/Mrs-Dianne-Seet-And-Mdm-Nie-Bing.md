@@ -27,7 +27,7 @@ max-width:34%;
   <body>  
   <a href="https://staging-moe-mtls.netlify.app/Sharing-Sessions/English-Videos/" style="float:right;">Back</a>
     <div class="sp1">
-      <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_09.jpg">
+      <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_09.jpg" style="width:100%;">
     </div>
     
 <div class="video-container">
