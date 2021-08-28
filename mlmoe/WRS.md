@@ -14,7 +14,7 @@ breadcrumb: 'Wildlife Reserves Singapore'
 </script>
 <a href="/exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-e/Community-Partners/" style="float:right;">Back</a>
  <img src="/images/MTLS2021-WRS-ML-final.jpg"> <br/>
- <p style="font-size:12px;">Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM).</p>
+ <p style="font-size:16px;">Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM).</p>
  
  <a href="/images/WRS-Publications-2021.pdf" target="_blank"><span style="font-size:20px;">Bahan Terbitan WRS</span></a>
 
