@@ -14,7 +14,7 @@ breadcrumb: 'தேசியக் கல்விக் கழகம்'
 </script>
 <a href="/exhibits/தமிழ்மொழிக்-காட்சிக்கூடம்-e/community-partners2/"   style="float: right;">Back</a>
  <img src="/images/MTLS2021-NIE_TL_Final.jpg">
- <p style="font-family:Anjal InaiMathi; font-size:12px;">*நிழற்படங்கள் யாவும் கொவிட்-19 பாதுகாப்பு நிர்வாக விதிமுறைகளுக்கு உட்பட்டு எடுக்கப்பட்டவை.</p> <br/>
+ <p style="font-family:Anjal InaiMathi; font-size:16px;">*நிழற்படங்கள் யாவும் கொவிட்-19 பாதுகாப்பு நிர்வாக விதிமுறைகளுக்கு உட்பட்டு எடுக்கப்பட்டவை.</p> <br/>
  
  <a href="/tlmoe/TL-NIE_Gamify IT!.pdf" target="_blank"><span style="font-size: 20px;">Gamify IT!</span></a> <br/>
  <a href="/tlmoe/TL-NIE_‘க்விஸ்லெட்’ வழிகாட்டிக் குறிப்புகள்.pdf" target="_blank"><span style="font-size: 20px;">‘க்விஸ்லெட்’ வழிகாட்டிக் குறிப்புகள்</span></a> <br/>
