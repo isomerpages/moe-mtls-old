@@ -91,8 +91,8 @@ background-color: lightgrey;!important;
 </head>
 <body>  
  <br/>
-  <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_07.jpg" style="width:100%">
- <img src="/images/MTLS2021_Challenge_ML.jpg" style="width:100%;display:none;">
+  <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_07.jpg" style="width:100%; display:none;">
+ <img src="/images/MTLS2021_Challenge_ML.jpg" style="width:100%;">
    <br/>
 <table class="tbl">
 <tr>
