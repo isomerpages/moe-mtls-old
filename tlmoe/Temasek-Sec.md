@@ -1,7 +1,7 @@
 ---
-title: 'தெமாசெக் உயர்நிலைப் பள்ளியில்'
+title: 'தெமாசெக் உயர்நிலைப்பள்ளியில்'
 permalink: /tlmoe/Temasek-Sec/
-breadcrumb: 'தெமாசெக் உயர்நிலைப் பள்ளியில்'
+breadcrumb: 'தெமாசெக் உயர்நிலைப்பள்ளியில்'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
