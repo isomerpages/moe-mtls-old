@@ -25,11 +25,11 @@ max-width:100%;
   <a href="/opmtl-award-2021/" style="float:right;">Back</a>
  <img src="/images/Mdm-Arfahrizan.jpg" style="width:100%">
     <br/>
-     <h4>Quote </h4>
+     <h4>Nukilan </h4>
     <p style="text-align:justify;">
      Sebagai pendidik  saya mahu memberikan ilmu pengetahuan, menerapkan nilai murni dan menjadikan pembelajaran Bahasa Melayu di dalam bilik darjah menyeronokkan. Melalui platform penerokaan seperti bernyanyi dan bermain, saya dapat menarik minat kanak-kanak untuk mengenali bahasa, budaya dan warisan Melayu. Dengan sokongan, kerjasama dan dorongan daripada semua pihak, terutama ibu bapa, saya dapat memupuk minat bahasa dan budaya dalam diri kanak-kanak.
 </p>
-    <h4>Write-up </h4>
+    <h4>Ulasan </h4>
     <p style="text-align:justify;">Puan Arfahrizan mempunyai minat yang mendalam dalam pengajaran dan pembelajaran Bahasa Melayu. Dalam kelas Bahasa Melayu, beliau menekankan komunikasi dua hala, antara guru dengan kanak-kanak dan beliau melibatkan kanak-kanak dari awal hingga akhir pelajaran. Bagi beliau, pemilihan kandungan dan kosa kataharus sesuai dengan dengan peringkat umur kanak-kanak dan penggunaannya dalam kehidupan harian.  Puan Arfahrizan menggunakan pelbagai strategi untuk membantu kanak-kanak belajar seperti nyanyian, perbincangan dan memodelkan. 
     </p>
     <p style="text-align:justify;">Dalam salah satu kelas Bahasa Melayu beliau, Puan Arfahrizan menjalankan aktiviti  membuat ketupat.  Kanak-kanak terlibat sepenuhnya dan seronok mengambil bahagian. Bahan maujud yang digunakan seperti kelongsong ketupat dan beras membuat kanak-kanak teruja untuk melibatkan diri. Aktiviti membuat ketupat di dalam bilik darjah ialah lanjutanaktiviti  yang dijalankan bersama-sama keluarga di rumah.  Puan Arfahrizan memulakan pelajaran dengan aktiviti “Pegang dan Tengok”. Kanak-kanak menceritakan aktiviti yang telah dilakukan oleh mereka di rumah.  Cara membuat ketupat langkah demi langkah sebelum kanak-kanak melakukannya secara individu diterangkan dengan mengambil kira kesediaan pembelajaran semua kanak-kanak dalam kelasnya. Pada akhir pelajaran, Puan Arfahrizan mengajak kanak-kanak menyanyikan lagu ketupat.</p>
