@@ -14,7 +14,7 @@ breadcrumb: 'தேசிய நூலக வாரியம்'
 </script>
 <a href="/exhibits/தமிழ்மொழிக்-காட்சிக்கூடம்-e/community-partners2/"   style="float: right;">Back</a>
  <img src="/images/MTLS2021-NLB_TL_Final.jpg">
- <p style="font-family:Anjal InaiMathi; font-size:12px;">*நிழற்படங்கள் யாவும் கொவிட்-19 பாதுகாப்பு நிர்வாக விதிமுறைகளுக்கு உட்பட்டு எடுக்கப்பட்டவை.</p> <br/>
+ <p style="font-family:Anjal InaiMathi; font-size:16px;">*நிழற்படங்கள் யாவும் கொவிட்-19 பாதுகாப்பு நிர்வாக விதிமுறைகளுக்கு உட்பட்டு எடுக்கப்பட்டவை.</p> <br/>
  
  <a href=" https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=81384632-0d93-4b4b-bc94-ad8800826146 " target="_blank"><span style="font-size: 20px;font-family:Anjal Inaimathi;">வடியுடன் நூலகத்துக்குச் செல்வோம்</span></a> <br/>
  
