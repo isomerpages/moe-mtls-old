@@ -27,7 +27,7 @@ max-width:20%;
   <body>  
 <a href="https://staging-moe-mtls.netlify.app/Sharing-Sessions/video-bahasa-melayu/" style="float:right;">Back</a>
     <div class="mlbanner1">
-    <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_11.jpg">
+    <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_11.jpg" style="display:none;">
     </div><br/>
 <div class="video-container">
   <iframe src="https://vimeo.com/event/1187156/embed" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
