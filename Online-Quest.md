@@ -13,10 +13,10 @@ breadcrumb: 'Online Quest'
   gtag('config', 'AW-726049306');
 </script>
 
- <img src="/images/2021-08-28_MTLS_onlinequest_staytune.jpg" style="width:100%;">
-<div style="display:none;">
+ <img src="/images/2021-08-28_MTLS_onlinequest_staytune.jpg" style="width:100%;display:none;">
+<div>
   <p>
-  Join our MTLS explorers Xiao Tao, Sani, Kavin and Peppy as they embark on an adventure to help our friendly neighbours recover missing items and complete tasks! Click on the link below to play the game.
+  Join our MTLS explorers Xiao Tao, Sani, Kavin and Peppy as they embark on an adventure to help our friendly neighbours recover missing items and complete tasks! Click on the link below based on your Mother Tongue Language to play the game.
   </p>
   <p>
   <a href="https://mtls21onlinequest.com.sg" target="_blank">https://mtls21onlinequest.com.sg</a>
