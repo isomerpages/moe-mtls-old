@@ -208,7 +208,7 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-6" type="checkbox" name="tab">
-    <label for="tab-6" class="lbML">Kenali bahasa ibunda menerusi warisan dan budaya(NHB)!<br/>Lembaga Warisan Negara [National Heritage Board]</label>
+    <label for="tab-6" class="lbML">Kenali bahasa ibunda menerusi warisan dan budaya!<br/>Lembaga Warisan Negara [National Heritage Board]</label>
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/NHB/"> <div class="btnvideo" style="font-size:16px;">
