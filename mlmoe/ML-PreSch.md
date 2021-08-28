@@ -235,8 +235,8 @@ Ibu bapa boleh menyokong pembelajaran dan pembangunan Bahasa Ibunda anak anda di
   
 <p style="text-align:justify;">Untuk mendapatkan contoh Aktiviti Belajar Bahasa Ibunda di Rumah yang lain, sila layari lelaman daripada tadika-tadika ini:</p>
 <ul>
- <li><a href="/mlmoe/fernvale/">Tadika MOE @ Fernvale </a></li>
- <li><a href="/mlmoe/punggol-green/">Tadika MOE @ Punggol Green </a></li>
+ <li><a href="/mlmoe/fernvale/" target="_blank">Tadika MOE @ Fernvale </a></li>
+ <li><a href="/mlmoe/punggol-green/" target="_blank">Tadika MOE @ Punggol Green </a></li>
 </ul>
  
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
