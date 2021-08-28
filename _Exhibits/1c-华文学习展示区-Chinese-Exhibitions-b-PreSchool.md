@@ -168,7 +168,7 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-    <label for="tab-3" class="lbCh"><span style="font-size:25px;font-family:KaiTi">我爱华文，我爱艺术的真、善、美！<br/> 冠智学习与艺术园 <br/>[Nobleland Arts N Learning Place @ Bishan]</span></label>
+    <label for="tab-3" class="lbCh"><span style="font-size:25px;font-family:KaiTi">我爱华文，我爱艺术的真、善、美！<br/> 冠智学习与艺术园地 <br/>[Nobleland Arts N Learning Place @ Bishan]</span></label>
       <div class="tab-content">
         <br/>
        <a href="/clmoe/冠智学习与艺术园/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi">
