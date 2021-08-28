@@ -6,10 +6,13 @@ breadcrumb: 'Mdm Nurashikin Jasni'
 <html>
 <head>
 <style>
-  img {
+  .mlimg img {
 height:auto;
 max-width:20%;
 }
+  .mlbanner img{
+  width:100%;
+  }
 </style>
 </head>
  <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
@@ -23,9 +26,13 @@ max-width:20%;
 </script>
   <body>  
 <a href="https://staging-moe-mtls.netlify.app/Sharing-Sessions/video-bahasa-melayu/" style="float:right;">Back</a>
+    <div class="mlbanner1">
+    <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_11.jpg">
+    </div><br/>
 <div class="video-container">
   <iframe src="https://vimeo.com/event/1187156/embed" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
     *Video is best viewed in 1080p.<br/>
+    <div class="mlimg">
      <div class="column">
 <img src="/images/Speakers_ML Nurashikin Jasni.png" style="width:100%">
    </div>
@@ -47,5 +54,5 @@ max-width:20%;
         <h4 style="color:#a3c864;">Learning Malay in a Fun Way for Our Children</h4>
   <p>Parents are their children’s first teachers. As a reading advocate, Mdm Nurashikin Jasni believes that reading will widen children’s vocabulary, and exposes her children to different genres of Malay storybooks, including books written in Indonesian vernacular language. She reads Malay books to her children at least thrice a week at bedtime.
 </p>
-<p>Through this session, participants will gain insight into how Mdm Nurashikin Jasni creates a fun environment for her children to learn and use Malay effectively, and with ease. </p>
+<p>Through this session, participants will gain insight into how Mdm Nurashikin Jasni creates a fun environment for her children to learn and use Malay effectively, and with ease. </p></div>
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
