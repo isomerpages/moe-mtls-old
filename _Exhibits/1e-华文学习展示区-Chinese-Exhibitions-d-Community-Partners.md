@@ -188,7 +188,7 @@ The Fund supports creative and engaging approaches to encourage bilingualism and
     阅览展板</div></a>
   <br/>
  <h4 style="font-size:35px; font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">欢迎大家与国家文物局一起通过文化遗产来认识母语</h4>
-          <p style="font-family:KaiTi;font-size:21px;margin:10px;">欢迎大家与国家文物局一起通过文化遗产来认识母语! 在此，讲华语运动委员会、新加坡马来语文理事会及淡米尔语言理事会将分享丰富的材料与资源，鼓励公众一起学习母语。同时，家长也能进一步了解新加坡的各大文物机构，如：印族文化馆、马来文化馆和晚晴园----中山南洋纪念馆，找到适合孩子学习母语的活动，并通过这些活动让孩子在课堂外继续积极学习及使用母语。</p><br/>
+          <p style="font-family:KaiTi;font-size:21px;margin:10px;">在此，讲华语运动委员会、新加坡马来语文理事会及淡米尔语言理事会将分享丰富的材料与资源，鼓励公众一起学习母语。同时，家长也能进一步了解新加坡的各大文物机构，如：印族文化馆、马来文化馆和晚晴园----中山南洋纪念馆，找到适合孩子学习母语的活动，并通过这些活动让孩子在课堂外继续积极学习及使用母语。</p><br/>
           <h4 style="margin:10px;color:#d84178;">Discover Mother Tongue Languages through Heritage and Culture with The National Heritage Board</h4>
         <p style="margin:10px;">
         Discover Mother Tongue Languages through heritage and culture with the National Heritage Board ! Find out more about language programmes, tips and resources with the Speak Mandarin Campaign, the Tamil Language Council and the Malay Language Council of Singapore. Learn more about the Heritage Institutions – the Indian Heritage Centre, Malay Heritage Centre and Sun Yat Sen Nanyang Memorial Hall. Parents can find out more about the learning opportunities available for the young, while educators can explore opportunities that expand learning beyond the classroom.</p>
