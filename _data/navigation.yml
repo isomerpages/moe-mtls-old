@@ -4,18 +4,23 @@ links:
 - title: About Us
   url: /About-Us-And-Past-Symposiums/
 - title: Opening Ceremony
-  url: /Opening-Ceremony-softlaunch/
-- title: Live Sessions
-  url: /Live-Sessions-softlaunch/
+  url: /Opening-Ceremony/
+- title: Live Sessions 
+  url: /Ls/
 - title: Sharing Sessions
-  url: /Sharing-Sessions/
-  collection: Sharing-Sessions
+  url: /SSP/
 - title: Exhibits
   url: /Exhibits/
   collection: Exhibits
 - title: OPMTL Teacher Award
-  url: /OPMTL-AWARD-2020-softlaunch/
+  url: /OPMTL-AWARD-2021/
 - title: Online Quest
-  url: /Online-Quest/
-- title: MTL Challenge
-  url: /MTL-Challenge/
+  url: /Online/
+- title: Others
+  url: /Others/MTL-Challenge/
+  sublinks:
+  - title: MTL Challenge
+    url: /Others/MTL-Challenge/
+  - title: Sales Booth
+    url: https://www.unionbook.com.sg/blogs/news/mother-tongue-languages-symposium-mtls
+    

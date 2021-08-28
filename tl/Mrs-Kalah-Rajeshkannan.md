@@ -29,8 +29,7 @@ max-width:20%;
   <div class="column">
 <img src="/images/Speakers_TL Kalah.png" style="width:100%">
    </div>
-     <p><strong> Mrs Kalah Rajeshkannan <br/>
-    (AKT Creations)</strong><br/>
+     <p><strong> Mrs Kalah Rajeshkannan</strong><br/>
    </p>
     <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">திருமதி கலா ராஜேஷ்கண்ணன்</h4>
  <p style="margin:10px;font-family:Anjal InaiMathi;">திருமதி கலா ராஜேஷ்கண்ணன் ஒரு சிறந்த கதைசொல்லி மட்டுமல்லாமல் மேடை நாடகங்களிலும் தொலைக்காட்சி நாடகங்களிலும் நடித்துவரும் ஒரு கலைஞராவார். அவர் பேச்சுப்பயிற்சி, புலன்கள் சார்ந்த நாடகக்கலை, நாட்டுப்புறவியல், கதைசொல்லும் உத்திகள்போன்ற பயிலரங்குகளை நடத்திய அனுபவம் பெற்றவர். கலா ஓர் அனுபவமிக்க கல்வியாளர். அவர் சிறப்புத் தேவைகளுக்குரிய பள்ளிகள் பணியாற்றிய அனுபவம் பெற்றவர். <br/><br>
@@ -46,7 +45,7 @@ max-width:20%;
 
 </p>
        <br/>
-        <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Profile</h4>
+<h4 style="padding-top:12px;margin:10px;color:#9b4490;">Profile</h4>
        <p  style="margin:10px;">Mrs Kalah Rajeshkannan is a professional storyteller and a performing artiste on stage and television. Her mixed bag of talents includes stage plays, speech training, sensory theatre, folk arts and storytelling workshops.<br/><br/> She is an experienced educator in both mainstream and special needs schools. Mrs Kalah has honed her skills in speech and drama, traditional art forms, socio drama, and music and movement. She has conducted sessions for teachers, parents and students on storytelling, theatre and sensory storyboarding.  <br/><br/>Being on the Board as a Director for AK Theatre, Mrs Kalah, who is passionate about acting, storytelling and theatre, has been contributing significantly towards stage plays, sensory theatre, language development programmes, and theatre classes for children and adults.
 </p>
       

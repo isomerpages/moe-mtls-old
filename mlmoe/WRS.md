@@ -1,7 +1,7 @@
 ---
-title: 'Mari Bercerita Bersama Taman Haiwan Singapura'
+title: 'Wildlife Reserves Singapore'
 permalink: /mlmoe/WRS/
-breadcrumb: 'Mari Bercerita Bersama Taman Haiwan Singapura'
+breadcrumb: 'Wildlife Reserves Singapore'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -14,6 +14,8 @@ breadcrumb: 'Mari Bercerita Bersama Taman Haiwan Singapura'
 </script>
 <a href="/exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-e/Community-Partners/" style="float:right;">Back</a>
  <img src="/images/MTLS2021-WRS-ML-final.jpg"> <br/>
- Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM).
+ <p style="font-size:12px;">Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM).</p>
+ 
+ <a href="/images/WRS-Publications-2021.pdf" target="_blank"><span style="font-size:20px;">Bahan Terbitan WRS</span></a>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>

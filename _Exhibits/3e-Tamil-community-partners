@@ -73,7 +73,7 @@ background-color: lightgrey;!important;
 </script>
    </head>
    <body>
-   <img src="/images/MTLS2021_MTLChallenge_TL.jpg" style="width:100%; display:none;">
+   <img src="/images/MTLS2021_MTLChallenge_TL.jpg" style="width:100%;">
    <br/>
  <div><h2 style="padding-top:12px;color:#9b4490;font-family:Anjal InaiMathi;">சமூகப் பங்காளர்கள்</h2></div>
     <br/>
@@ -82,16 +82,16 @@ background-color: lightgrey;!important;
             <td style="border:0 none;padding: 0; margin:0;">
                <div class="atab">
                   <input id="tab-1" type="checkbox" name="tab">
-                  <label for="tab-1" class="lbTM" style="font-family:Anjal InaiMathi;">எஸ்பிளனேட் &nbsp; - &nbsp; கடலோரக் &nbsp; கலை &nbsp; அரங்கம்
+                  <label for="tab-1" class="lbTM" style="font-family:Anjal InaiMathi;">எஸ்பிளனேட் - கடலோரக் கலை அரங்கம்
 		  <br/>
-		  எஸ்பிளனேட் [Esplanade]  </label>
+		  எஸ்பிளனேட் [Esplanade – Theatres on The Bay]  </label>
                   <div class="tab-content">
 		  <br/>
 <a href="/tlmoe/Esplanade-TL/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
     காண்க: சுவரொட்டி</div></a>
   <br/>
                      <p style="font-family:Anjal InaiMathi;">
-             <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">எஸ்பிளனேட் &nbsp; - &nbsp; கடலோரக் &nbsp; கலை &nbsp; அரங்கம்</h4> </p>
+             <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">எஸ்பிளனேட் - கடலோரக் கலை அரங்கம்</h4> </p>
              <p style="margin:10px;font-size:20px;font-family:Anjal InaiMathi;">நமது கலைகள்   அனைவரையும்   சென்றடைய வேண்டும் என்பதற்காகச்   சிங்கப்பூரின்   தேசிய   
 	     நிகழ்த்துகலை   நிலையமாக   எஸ்பிளனேட்   - கடலோரக்   கலை   அரங்கம்   திகழ்கிறது. ஆண்டு முழுவதும், எஸ்பிளனேட் நடத்தும் 
 	     கலை வடிவங்களின் வாயிலாக இளையர்கள் தங்களது திறமைகளை வெளிப்படுத்தவும் கலைகள்பற்றிய விழிப்புணர்வை அவர்களிடையே ஏற்படுத்தவும் 
@@ -160,7 +160,7 @@ The Fund supports creative and engaging approaches to encourage bilingualism and
                   <div class="tab-content">
 		  <br/>
 <a href="/tlmoe/Mediacorp-TL/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
-    View  Poster</div></a>
+    காண்க: சுவரொட்டி</div></a>
   <br/>
                      <p>
                     <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">சி &nbsp; ஐ &nbsp; டி &nbsp; சகுந்தலா</h4>
@@ -224,24 +224,24 @@ Narrated by the ghost of Kaarmegam, husband of Sakunthala, as he watches over hi
                   <input id="tab-4" type="checkbox" name="tab">
                   <label for="tab-4" class="lbTM" style="font-family:Anjal InaiMathi;">தமிழோடு சொல்லாடு!
 		  <br/>
-		  தேசியக் கல்விக் கழகம் [National Institute of Education (Asian Languages and Cultures Academic Group)]</label>
+		  தேசியக் கல்விக்கழகம் [National Institute of Education (Asian Languages and Cultures Academic Group)]</label>
                   <div class="tab-content">
 		  <br/>
 <a href="/tlmoe/NIE-TL/"> <div class="btnvideo" style="font-size:16px;font-family:Anjal InaiMathi;">
-    View  Poster</div></a>
+    காண்க: சுவரொட்டி</div></a>
   <br/>
                      <p>
                      <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">தமிழோடு சொல்லாடு!</h4>
                      </p>
-                     <p style="margin:10px;font-size:20px;font-family:Anjal InaiMathi;">தமிழ்மொழி கற்றலில் சொல்வளப் பெருக்கம் முதன்மை பெறுகிறது. 
+                     <p style="margin:10px;font-size:20px;font-family:Anjal InaiMathi; text-align:justify;">தமிழ்மொழி கற்றலில் சொல்வளப் பெருக்கம் முதன்மை பெறுகிறது. 
 		     தொழில்நுட்பத்தின்வழியே சொல்வளத்தைப் பெருக்குவது மாணவர்களிடம் மகிழ்ச்சியையும் ஈடுபாட்டையும் அதிகரிக்கும்.
-		     “தமிழோடு சொல்லாடு!” என்னும் மின்கற்றல் நிலையமானது தொடக்கநிலை மாணவர்களுக்காகவும் அவர்களுடைய பெற்றோர்களுக்காகவும் உருவாக்கப்பட்டுள்ளது. 
+		     'தமிழோடு சொல்லாடு!' என்னும் மின்கற்றல் நிலையமானது தொடக்கநிலை மாணவர்களுக்காகவும் அவர்களுடைய பெற்றோர்களுக்காகவும் உருவாக்கப்பட்டுள்ளது. 
 		     மின்னியல் தளங்களை அடிப்படையாகக்கொண்டு நடவடிக்கைகள் இடம்பெற்றுள்ளன. மாணவர்கள் புதிய சொற்களைச் சுயமாகவும் மகிழ்ச்சியாகவும் கற்பதற்கு இந்நடவடிக்கைகள் &nbsp; உதவும். &nbsp; 
 		     மேலும், பெற்றோர்கள் பிள்ளைகளின் தமிழ்மொழி கற்றலில் தங்களை இணைத்துக்கொண்டு பிள்ளைகளுக்கு வழிகாட்டவும் இந்நடவடிக்கைகள் உதவும். 
 </p>
 
 <p style="margin:10px;font-size:20px;font-family:Anjal InaiMathi;">
-‘தமிழோடு சொல்லாடு!’ என்னும் மின்கற்றல்நிலையத்தில்மூன்று பகுதிகள்இடம்பெற்றுள்ளன. அவையாவன:
+‘தமிழோடு சொல்லாடு!’ என்னும் மின்கற்றல் நிலையத்தில் மூன்று பகுதிகள் இடம்பெற்றுள்ளன. அவையாவன:
 </p>
 <ol type="1">
 <li style="font-family:Anjal InaiMathi;">மாணவர்களும் பெற்றோர்களும் அவர்களுக்கென உருவாக்கப்பட்டுள்ள சொற்கோவை விளையாட்டுகளை விளையாடுதல்</li>

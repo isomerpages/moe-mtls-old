@@ -1,7 +1,7 @@
 ---
-title: 'Bahasa Ibundaku, Teman Sejatiku'
+title: 'Dana Kedwibahasaan Lee Kuan Yew'
 permalink: /mlmoe/LKYFB/
-breadcrumb: 'Bahasa Ibundaku, Teman Sejatiku'
+breadcrumb: 'Dana Kedwibahasaan Lee Kuan Yew'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
@@ -14,6 +14,6 @@ breadcrumb: 'Bahasa Ibundaku, Teman Sejatiku'
 </script>
 <a href="/exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-e/Community-Partners/" style="float:right;">Back</a>
  <img src="/images/MTLS2021-LKYFB_ML_Final.jpg"> <br/>
- Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM). <br/>
+ <p style="font-size:12px;">Gambar-gambar yang diambil sewaktu Pandemik COVID-19 mematuhi Langkah Pengurusan Selamat (SMM).</p> <br/>
 
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>

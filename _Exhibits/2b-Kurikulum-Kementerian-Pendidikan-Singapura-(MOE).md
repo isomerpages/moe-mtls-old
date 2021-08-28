@@ -86,7 +86,7 @@ table.center {
   gtag('config', 'AW-726049306');
 </script>
 <div style="margin-top:auto;margin-bottom:auto;text-align:center;">
-<div class="tab" style="display:none;">
+<div class="tab">
   <a href="/mlmoe/ML-PreSch/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass lbML1">Prasekolah</div></a>
   <a href="/mlmoe/ML-PriSch/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass lbML1">Sekolah Rendah</div></a>
   <a href="/mlmoe/ML-Sec/"><div style="display:inline-block; font-family:Calibri (Body);" class="btnClass lbML1">Sekolah Menengah</div></a>
@@ -122,7 +122,7 @@ Maklumat yang dipaparkan dalam Kurikulum Bahasa Ibunda MOE bertujuan untuk membe
   <div style="margin-top:auto;margin-bottom:auto;text-align:justify;">
 <p>The key purpose of MTL education is to equip our young with effective communication skills and to create a greater awareness and appreciation of our culture and values, which in turn enables our young to have the confidence to connect with similar language communities across Asia and the world. <br/><br/>
  The MTL curriculum aims to develop our young to be proficient language users who have strong foundational language and literacy skills. It leverages on students’ written and interpersonal communication skills with real-life contexts through fundamental language skills such as listening, speaking and reading. The infusion of ICT, CCE and SEL into the curriculum further enhances the learning and exposes our young to understand the culture and values woven into the curriculum. The curriculum also aims to develop higher order thinking skills and expose students to a wide variety of literary and authentic texts. This is intended to make MTL a living language that enables our young to lead purposeful lives. <br/><br/>
- The information featured in our e-MTLS MOE MTL curriculum webpage aims to provide parents and educators with an understanding of the different opportunities for MTL learning beginning from Pre-school through Primary, Secondary and Pre-University. There will also be tips for parents and educators to gain insights and ideas to bring the joy of learning MTL to our young and to better support them in this journey.</p>
+ The information featured in our MTLS MOE MTL curriculum webpage aims to provide parents and educators with an understanding of the different opportunities for MTL learning beginning from Pre-school through Primary, Secondary and Pre-University. There will also be tips for parents and educators to gain insights and ideas to bring the joy of learning MTL to our young and to better support them in this journey.</p>
  <br/>
 
  <img src="images/2021-08-04_MTLS_Web_Footer_600X250_300dpi.jpg" class="Image" width="1000" height="300">

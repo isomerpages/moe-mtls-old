@@ -72,7 +72,7 @@ background-color: lightgrey;!important;
 </script>
 </head>
 <body>
-    <img src="/images/MTLS2021_Challenge_ML.jpg" style="width:100%; display:none;">
+    <img src="/images/MTLS2021_Challenge_ML.jpg" style="width:100%; ">
    <br/>
     <div><h2 style="padding-top:12px;color:#a3c864;">Sekolah</h2></div>
    <br/>
@@ -168,7 +168,7 @@ background-color: lightgrey;!important;
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Drama@QTSS </h4>
         <p style="margin:10px;">
  Drama@QTSS provides an excellent platform for exploring practical aspects of Malay language. Drama is a powerful teaching and learning tool for developing character and instilling sound values. The application of drama techniques enables students to strengthen their language acquisition and sharpen their linguistic and communication skills in authentic and dynamic situations. These skills are transferable and can be applied to other contexts such as assessment.  <br/><br/>
-            Drama@QTSS is used to instil the love for the language, making Malay come alive in the classroom. Lessons integrating drama techniques are enjoyable and memorable owing to theirs visual and interactive nature.
+            Drama@QTSS is used to instil the love for the language, making Malay comes alive in the classroom. Lessons integrating drama techniques are enjoyable and memorable due to the visual and interactive nature.
         </p>
       </div>
 </div>

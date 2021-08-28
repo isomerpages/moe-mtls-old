@@ -71,7 +71,7 @@ background-color: lightgrey;!important;
 </script>
 </head>
 <body>
-    <img src="/images/MTLS2021_Challenge_ML.jpg" style="width:100%;  display:none;">
+    <img src="/images/MTLS2021_Challenge_ML.jpg" style="width:100%;">
    <br/>
    <div> <h2 style="padding-top:12px;color:#a3c864;">Prasekolah</h2></div>
   <br/>
@@ -88,7 +88,7 @@ background-color: lightgrey;!important;
   <br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Berseronok dengan permainan zaman silam</h4>
         <p style="margin:10px;">
- 'Berseronok dengan Permainan Zaman Silam' merupakan inisiatif Pusat Prasekolah E-Bridge di Matilda untuk menggalakkan pembelajaran Bahasa Melayu secara interaktif dan menyeronokkan. Dengan melibatkan diri dalam permainan tradisional, kanak-kanak dapat membina sifat ingin tahu dan meneroka, serta bersemangat untuk mendalami budaya Melayu.<br/><br/>
+ 'Berseronok dengan Permainan Zaman Silam' merupakan inisiatif Pusat Prasekolah E-Bridge@Matilda untuk menggalakkan pembelajaran Bahasa Melayu secara interaktif dan menyeronokkan. Dengan melibatkan diri dalam permainan tradisional, kanak-kanak dapat membina sifat ingin tahu dan meneroka, serta bersemangat untuk mendalami budaya Melayu.<br/><br/>
 Kerjasama antara ibu bapa dengan sekolah amat penting untuk meningkatkan kemahiran berkomunikasi dan keyakinan diri kanak-kanak sewaktu bertutur dalam bahasa Melayu. Ibu bapa juga digalakkan untuk bermain permainan tradisional di rumah agar berpeluang untuk sama-sama mengimbau kembali dan berkongsi kenangan manis pada masa kecil mereka. Ini juga akan membolehkan keluarga untuk meningkatkan interaksi yang berkualiti dan mengeratkan hubungan. 
         </p><br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Fun with Games of the Past </h4>
@@ -139,7 +139,7 @@ Dalam Kurikulum Bahasa Ibunda, pelbagai peralatan ICT dan strategi pembelajaran 
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Mari Bekerjasama untuk Memupuk Kemahiran Dwibahasa pada Peringkat Awal Kanak-kanak!
 </h4>
         <p style="margin:10px;">
-       Di Tadika MOE@ Punggol Green, kami memupuk kemahiran dwibahasa pada peringkat awal kanak-kanak melalui program-program di pusat kami.  Program-program inimemberikan tumpuan untuk membina keyakinan kanak-kanak menggunakan Bahasa Inggeris dan Bahasa Ibunda (MTL) di sekolah dan di rumah. Melalui program ini, kami bekerja rapat dengan ibu bapa untuk menyokong proses pembelajaran kanak-kanak di samping membantu mereka menangani perubahan yang dialami di sekolah dan di rumah. <br/><br/>
+       Di Tadika MOE di Punggol Green, kami memupuk kemahiran dwibahasa pada peringkat awal kanak-kanak melalui program-program di pusat kami.  Program-program inimemberikan tumpuan untuk membina keyakinan kanak-kanak menggunakan Bahasa Inggeris dan Bahasa Ibunda (MTL) di sekolah dan di rumah. Melalui program ini, kami bekerja rapat dengan ibu bapa untuk menyokong proses pembelajaran kanak-kanak di samping membantu mereka menangani perubahan yang dialami di sekolah dan di rumah. <br/><br/>
 Dengan melakukan aktiviti yang menyeronokkan dan interaktif dalam pelbagai situasi yang bermakna dan autentik, bahasa ibunda dapat menjadi bahasa sepanjang hayat bagi kanak-kanak.  Mereka dapat melihat kerelevanannya dalam kegiatan harian mereka.  Tambahan pula, aktiviti tersebut turut membantu kanak-kanak mengamalkan nilai-nilai yang dipelajari di sekolah dan di rumah. 
         </p><br/>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Let’s Work Together to Develop Early Childhood Bilingualism!</h4>

@@ -77,7 +77,7 @@ background-color: lightgrey;!important;
 </script>
 </head>
 <body>
-    <img src="/images/MTLS2021_Challenge_ML.jpg" style="width:100%;  display:none;">
+    <img src="/images/MTLS2021_Challenge_ML.jpg" style="width:100%;">
    <br/>
 <div><h2 style="padding-top:12px;color:#a3c864;">Rakan Kerjasama Masyarakat</h2></div>
      <br/>
@@ -160,7 +160,7 @@ Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggala
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-5" type="checkbox" name="tab">
-      <label for="tab-5" class="lbML">Mari terokai bahasa dan budaya masyarakat Melayu bersama-sama Nabil dan Nabilah  <br/>Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu [Malay Language Learning Promotion Committee]</label>
+      <label for="tab-5" class="lbML">Mari terokai bahasa dan budaya masyarakat Melayu bersama-sama Nabil dan Nabilah  <br/>Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu <br/>[Malay Language Learning Promotion Committee]</label>
       <div class="tab-content">
           <br/>
 <a href="/mlmoe/MLLPC/"> <div class="btnvideo" style="font-size:16px;">

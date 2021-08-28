@@ -6,10 +6,14 @@ breadcrumb: 'Panel Discussion'
 <html>
 <head>
 <style>
-  img {
+ .sp-img img{
 height:auto;
 max-width:43%;
 }
+.mtlsbanner {
+  width:100% ;
+  height:auto;
+  } 
 </style>
 </head>
  <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
@@ -23,10 +27,16 @@ max-width:43%;
 </script>
   <body>  
 <a href="https://staging-moe-mtls.netlify.app/Sharing-Sessions/English-Videos/" style="float:right;">Back</a>
+    <br/>
+<div class="mtlsbanner">
+    <img src="/images/MTLS_Web_Placeholders-V1_13.jpg"/>
+    </div>
+    <br/>
 <div class="video-container">
 <iframe src="https://vimeo.com/event/1187207/embed" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen
         style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
     *Video is best viewed in 1080p.<br/>
+    <div class="sp-img">
   <h4 style="padding-top:12px;margin:10px;color:#fa0;">Panelists</h4>
   <br/>
    <div class="row">
@@ -43,8 +53,7 @@ Mr Chan Chun Sing</strong> <br/>
  <div class="column">
 <img src="/images/Sun-Xueling.png" style="width:100%">
    </div>
-   <p> <strong>Ms Sun Xueling</strong> <br/>
-Moderator <br/>
+   <p> <strong>Ms Sun Xueling (Moderator)</strong> <br/>
 Minister of State<br/>
 Ministry of Education <br/>
 Ministry of Social and Family Development
@@ -118,8 +127,9 @@ Presenter<br/> CNA<br/>
   <h4 style="padding-top:12px;margin:10px;color:#fa0;">Synopsis </h4>
   <p style="margin:10px;">The language environment can have a large impact on the development of a child’s language skills. For children to develop fluency in their Mother Tongue Language, it is vital that they use the language to interact and communicate with others in every environment, be it at home, school or in the community. This early experience in actively using the language plays a critical role in a child’s language development, both socially and psychologically.
 </p>
-   <p style="margin:10px;">Language learning is a social process. Research has shown that in order to have strong language skills later in life, a person should develop and use their Mother Tongue Language while young and continue through to adulthood. This not only helps them to communicate well with people, but it also helps connect them to their culture and heritage. Frequent and regular adult-child engagement during the early years is associated with better language comprehension, anearlier achievement of language milestones and overall faster growth of language skills.</p>
-   <p style="margin:10px;">Come join us for apanel discussion betweenour Minister for Education, Mr Chan Chun Sing and advocators of Mother Tongue Language learning, including academics, educators, community partner and celebrity parent. They will discuss the importance of providing alanguage rich environment foryoung children through talking, singing and reading, and also how to create ample opportunities throughout their day to communicate with others and engage in conversations. The panel will be moderated by Minister of State (Ministry of Education and Ministry of Social and Family Development), Ms Sun Xueling.</p>  
+   <p style="margin:10px;">Language learning is a social process. Research has shown that in order to have strong language skills later in life, a person should develop and use their Mother Tongue Language while young and continue through to adulthood. This not only helps them to communicate well with people, but it also helps connect them to their culture and heritage. Frequent and regular adult-child engagement during the early years is associated with better language comprehension, an earlier achievement of language milestones and overall faster growth of language skills.</p>
+   <p style="margin:10px;">Come join us for a panel discussion between our Minister for Education, Mr Chan Chun Sing and advocators of Mother Tongue Language learning, including academics, educators, community partner and celebrity parent. They will discuss the importance of providing a language rich environment for young children through talking, singing and reading, and also how to create ample opportunities throughout their day to communicate with others and engage in conversations. The panel will be moderated by Minister of State (Ministry of Education and Ministry of Social and Family Development), Ms Sun Xueling.</p>  
+    </div>
 <div class="image">
   <img src="/images/2021-08-04_MTLS_Web_Footer_600X250_300dpi.jpg" class="Image" width="1000" height="300"></div>
 

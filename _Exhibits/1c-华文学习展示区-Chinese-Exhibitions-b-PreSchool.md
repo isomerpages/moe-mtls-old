@@ -78,7 +78,7 @@ background-color: lightgrey;!important;
 </script>
 </head>
 <body>  
-  <img src="/images/MTLS2021_Challenge_CL.jpg" style="width:100%; display:none;">
+  <img src="/images/MTLS2021_Challenge_CL.jpg" style="width:100%; ">
     <br/>
  <div><h2 style="font-family:KaiTi;color:#d84178;">学前中心</h2></div>
  <br/>
@@ -168,7 +168,7 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-3" type="checkbox" name="tab">
-    <label for="tab-3" class="lbCh"><span style="font-size:25px;font-family:KaiTi">我爱华文，我爱艺术的真、善、美！<br/> 冠智学习与艺术园 [Nobleland Arts N Learning Place @ Bishan]</span></label>
+    <label for="tab-3" class="lbCh"><span style="font-size:25px;font-family:KaiTi">我爱华文，我爱艺术的真、善、美！<br/> 冠智学习与艺术园 <br/>[Nobleland Arts N Learning Place @ Bishan]</span></label>
       <div class="tab-content">
         <br/>
        <a href="/clmoe/冠智学习与艺术园/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi">
@@ -194,14 +194,14 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-4" type="checkbox" name="tab">
- <label for="tab-4" class="lbCh"><span style="font-size:25px;font-family:KaiTi">演一演, 说一说 <br/> PCF Sparkletots @ Woodlands Blk 801</span></label>
+ <label for="tab-4" class="lbCh"><span style="font-size:25px;font-family:KaiTi">演一演, 说一说 <br/> 人民行动党社区基金Sparkletots幼儿中心@兀兰第801座 [PCF Sparkletots @ Woodlands Blk 801]</span></label>
       <div class="tab-content">
         <br/>
        <a href="/clmoe/PCF-Sparkletots-Preschool/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi">
     阅览展板</div></a>
   <br/>
           <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">演一演, 说一说</h4>
-          <p style="font-family:KaiTi;margin:10px;font-size:21px;">PCF Sparkletots @ Woodlands Blk 801运用戏剧为孩子们提供了体验、表达和探索的机会。<br/><br/>
+          <p style="font-family:KaiTi;margin:10px;font-size:21px;">人民行动党社区基金Sparkletots幼儿中心@兀兰第801座运用戏剧为孩子们提供了体验、表达和探索的机会。<br/><br/>
 学校鼓励孩子们运用创造力和认知技能，积极参与活动和语言互动：在神奇幻想的舞台上，他们能够扮演独特的角色，学会倾听、协商及如何与他人合作。
 </p><br/>
           <h4 style="margin:10px;color:#d84178;">Learning Chinese Through Dramatisation</h4>
@@ -218,13 +218,13 @@ background-color: lightgrey;!important;
 <td style="border:0 none;padding: 0; margin:0;">
 <div class="atab">
       <input id="tab-2" type="checkbox" name="tab">
-    <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi">乐学活用 <br/> 新加坡福建会馆幼儿园  [Singapore Hokkien Huay Kuan Pre-school]</span></label>
+    <label for="tab-2" class="lbCh"><span style="font-size:25px;font-family:KaiTi">乐学活用、体验生活  <br/> 新加坡福建会馆幼儿园  <br/>[Singapore Hokkien Huay Kuan Pre-school]</span></label>
       <div class="tab-content">
         <br/>
        <a href="/clmoe/SHHK/"> <div class="btnvideo" style="font-size:20px;font-family:KaiTi">
     阅览展板</div></a>
   <br/>
-          <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">乐学活用</h4>
+          <h4 style="font-size:35px;font-family:KaiTi;padding-top:12px;margin:10px;color:#d84178;">乐学活用、体验生活 </h4>
       <p style="font-family:KaiTi;margin:10px;font-size:21px;">
 新加坡福建会馆幼儿园生活技能课程让幼儿浸濡在华语的环境中，乐学善用华语。<br/><br/>
           其课程包括的亮点活动有：“家园共育亲子阅读”、“华文欣赏”等。这些亮点活动让幼儿从小接触华文, 培养阅读习惯，积累丰富的华语词汇，并在日常生活中学以致用。<br/><br/>

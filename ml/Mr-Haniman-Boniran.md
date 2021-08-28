@@ -30,8 +30,6 @@ max-width:20%;
 <img src="/images/Speakers_ML Haniman.png" style="width:100%">
    </div>
     <p> <strong>Mr Haniman Boniran </strong><br/>
-      Manager (Education) <br/>
-      Wildlife Reserves Singapore
  </p>
 <h4 style="color:#a3c864;">Profil</h4>   
        <p>

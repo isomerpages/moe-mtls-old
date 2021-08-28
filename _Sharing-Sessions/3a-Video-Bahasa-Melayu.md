@@ -91,7 +91,7 @@ background-color: lightgrey;!important;
 </head>
 <body>  
  <br/>
- <img src="/images/MTLS2021_Challenge_ML.jpg" style="width:100%; display:none;">
+ <img src="/images/MTLS2021_Challenge_ML.jpg" style="width:100%;">
    <br/>
 <table class="tbl">
 <tr>
@@ -112,7 +112,6 @@ background-color: lightgrey;!important;
 <img src="/images/Speakers_ML Nurashikin Jasni.png" style="width:100%">
    </div>
    <p><strong>Mdm Nurashikin Jasni</strong> <br/>
-    Parent Influencer/Author
  </p>
    </div>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil</h4> 
@@ -157,8 +156,6 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
 <img src="/images/Speakers_ML Jumaini bte Ariff.png" style="width:100%">
    </div>
    <p><strong>Mdm Jumaini bte Ariff</strong><br/>
-    Founder<br/>
-    Storyscribblers
     </p>
    </div>
       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil </h4>  
@@ -200,8 +197,6 @@ Parents are their children’s first teachers. As a reading advocate, Mdm Nurash
 <img src="/images/Speakers_ML Haniman.png" style="width:100%">
    </div>
    <p> <strong>Mr Haniman Boniran </strong><br/>
-    Manager (Education)<br/>
-    Wildlife Reserves Singapore
  </p>
  </div>
              <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil</h4>   
@@ -369,10 +364,10 @@ In Mdm Nurain Syakirah’s sharing, parents and educators will understand how re
  <div class="column">
 <img src="/images/ML-Roksana.png" style="width:100%">
    </div>
-   <p> <strong>A/P Roksana Bibi bte Abdullah</strong></p>
+   <p> <strong>Associate Professor Roksana Bibi bte Abdullah</strong></p>
    </div>
          <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil</h4>  
-       <p style="margin:10px;">Dr Roksana Bibi binte Abdullah merupakan Profesor Madya di Kumpulan Akademik Bahasa dan Kebudayaan Asia, Institut Pendidikan Nasional (NIE) sejak 1 April 2010. Beliau telah mula berkhidmat di NIE sejak tahun 1994. Dr Roksana menerima pendidikan ijazah sarjana muda (Kepujian) dalam bidang Linguistik Melayu dari Universiti Kebangsaan Malaysia pada tahun 1989 dan Sarjana Bahasa Moden dari Universiti Malaya pada tahun 1994. Beliau telah meraih ijazah Kedoktoran dalam bidang Linguistik pada tahun 2002. Fokus kajian dan pengajaran Dr Roksana tertumpu pada isu-isu Bahasa dan Gender, Analisis Kontrastif dan Analisis Kesilapan, Pengekalan dan Pengalihan Bahasa, serta Implementasi Kurikulum dalam Pendidikan Awal di Sekolah Rendah di Singapura.</p>
+       <p style="margin:10px;">A/P Roksana Bibi binte Abdullah merupakan Profesor Madya di Kumpulan Akademik Bahasa dan Kebudayaan Asia, Institut Pendidikan Nasional (NIE) sejak 1 April 2010. Beliau telah mula berkhidmat di NIE sejak tahun 1994. A/P Roksana menerima pendidikan ijazah sarjana muda (Kepujian) dalam bidang Linguistik Melayu dari Universiti Kebangsaan Malaysia pada tahun 1989 dan Sarjana Bahasa Moden dari Universiti Malaya pada tahun 1994. Beliau telah meraih ijazah Kedoktoran dalam bidang Linguistik pada tahun 2002. Fokus kajian dan pengajaran A/P Roksana tertumpu pada isu-isu Bahasa dan Gender, Analisis Kontrastif dan Analisis Kesilapan, Pengekalan dan Pengalihan Bahasa, serta Implementasi Kurikulum dalam Pendidikan Awal di Sekolah Rendah di Singapura.</p>
         <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Sinopsis</h4>
        <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Pemerolehan Dwibahasa dalam kalangan kanak-kanak: Strategi-strategi Pragmatik</h4>
        <p style="margin:10px;">
@@ -381,7 +376,7 @@ In Mdm Nurain Syakirah’s sharing, parents and educators will understand how re
         Sesi perkongsian ini akan menjurus kepada perkembangan bahasa dalam diri kanak-kanak serta tahap-tahap pemerolehan bahasa, cabaran-cabaran dalam menyemai keupayaan berdwibahasa dalam diri kanak-kanak serta strategi-strategi yang boleh dimanfaatkan bagi mencapai keseimbangan dalam mencapai keupayaan berdwibahasa.
 </p><br/>
 <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profile</h4>  
-       <p style="margin:10px;">Dr Roksana Bibi binte Abdullah is an Associate Professor at the Asian Languages and Cultures Academic Group at the National Institute of Education (NIE). She received her Bachelor of Arts (Hons) in Malay Linguistics from the National University of Malaysia in 1989 and Master of Modern Languages from the University of Malaya in 1994. In 2002, she obtained a Doctor of Philosophy in Linguistics from the University of Malaya.<br/><br/>
+       <p style="margin:10px;">A/P Roksana Bibi binte Abdullah is an Associate Professor at the Asian Languages and Cultures Academic Group at the National Institute of Education (NIE). She received her Bachelor of Arts (Hons) in Malay Linguistics from the National University of Malaysia in 1989 and Master of Modern Languages from the University of Malaya in 1994. In 2002, she obtained a Doctor of Philosophy in Linguistics from the University of Malaya.<br/><br/>
         Her teaching and research interests are mainly in language and gender issues, contrastive and error analysis, language, culture and values, language maintenance and language shift and curriculum implementation in early primary schooling in Singapore.
 </p>
   <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Synopsis</h4>  
@@ -413,9 +408,7 @@ Statistics have shown that more children are growing up in English-speaking fami
 <img src="/images/ML-Mariam Aljunied.png" style="width:100%">
    </div>
    <p> <strong> Associate Professor Mariam Aljunied </strong>
-<br/> Principal Educational Psychologist <br/>
-    Psychological Services Branch, Special Educational Needs Division<br/>
-    Ministry of Education<br/>
+<br/> 
     </p>
    </div>
       <h4 style="padding-top:12px;margin:10px;color:#a3c864;">Profil </h4> 
