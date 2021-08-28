@@ -6,10 +6,13 @@ breadcrumb: 'Mdm Jumaini bte Ariff'
 <html>
 <head>
 <style>
-  img {
+  .mlimg img {
 height:auto;
 max-width:20%;
 }
+  .mlbanner img {
+  width:100%;
+  }
 </style>
 </head>
  <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
@@ -23,9 +26,14 @@ max-width:20%;
 </script>
   <body>  
 <a href="https://staging-moe-mtls.netlify.app/Sharing-Sessions/video-bahasa-melayu/" style="float:right;">Back</a>
+    <div class="mlbanner">
+    <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_11.jpg">
+    </div><br/>
+    
 <div class="video-container">
   <iframe src="https://vimeo.com/event/1187164/embed" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
     *Video is best viewed in 1080p.<br/>
+    <div class="mlimg">
      <div class="column">
 <img src="/images/Speakers_ML Jumaini bte Ariff.png" style="width:100%">
    </div>
@@ -47,5 +55,5 @@ max-width:20%;
        <h4 style="color:#a3c864;">Let’s Enrich the Experience of Listening to Children’s Stories!</h4>
     <p>
  Storytelling allows children to learn Malay in a more relaxed setting. Parents and educators can play an active role as a storyteller and a facilitator to inculcate children’s interest through the usage of different stages of storytelling activities such as pre-storytelling, during and post storytelling. Through this sharing session, participants will have access to fun and hassle-free strategies that will further enhance the storytelling experience in Malay for children.
-</p>
+      </p></div>
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
