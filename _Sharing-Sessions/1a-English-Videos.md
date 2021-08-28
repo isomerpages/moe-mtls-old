@@ -226,7 +226,7 @@ Presenter<br/> CNA<br/>
 Mdm Nie Bing</label>
 <div class="tab-content">      
        <br/>
- <a href="/eng/Mrs-Dianne-Seet-And-Mdm-Nie-Bing/"> <div class="btnvideo" style="font-size:16px;">
+ <a href="/eng/Mrs-Dianne-Seet-And-Mdm-Nie-Bing/"> <div class="btnvideo1" style="font-size:16px;">
     Watch Session</div></a>
   <br/>  <br/><br/>
   <div class="row">
@@ -267,7 +267,7 @@ Mdm Nie Bing has 17 years of pre-school education experience and has taught in A
 </label>
       <div class="tab-content">      
        <br/>
-       <a href="/eng/Leher-Singh/"> <div class="btnvideo" style="font-size:16px;">
+       <a href="/eng/Leher-Singh/"> <div class="btnvideo1" style="font-size:16px;">
     Watch Session</div></a>
   <br/>
 
@@ -298,7 +298,7 @@ Mdm Nie Bing has 17 years of pre-school education experience and has taught in A
 Mr Jaya Ganesh Isuran</label>
   <div class="tab-content">      
        <br/>
-   <a href="/eng/Dr-Nirmala-Karuppiah-And-Mr-Jaya-Ganesh-Isuran/"> <div class="btnvideo" style="font-size:16px;">
+   <a href="/eng/Dr-Nirmala-Karuppiah-And-Mr-Jaya-Ganesh-Isuran/"> <div class="btnvideo1" style="font-size:16px;">
    Watch Session</div></a>
   <br/>  <br/><br/>
   <div class="row">
@@ -340,7 +340,7 @@ Ms Diana Ser
 </label>
       <div class="tab-content">      
        <br/>
-       <a href="/eng/Dr-Sabrina-Sun-He-And-Ms-Diana-Ser/"> <div class="btnvideo" style="font-size:16px;">
+       <a href="/eng/Dr-Sabrina-Sun-He-And-Ms-Diana-Ser/"> <div class="btnvideo1" style="font-size:16px;">
    Watch Session</div></a>
   <br/>  <br/><br/>
   <div class="row">
