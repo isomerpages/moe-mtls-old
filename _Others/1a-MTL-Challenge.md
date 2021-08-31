@@ -27,7 +27,8 @@ breadcrumb: 'MTL Challenge'
 <p>Take part in our MTL Challenge and stand a chance to win attractive prizes!<br/>
 Earn 100 points for a limited MTLS souvenir. Complete the challenge with 200 points for a surprise! </p>
 <img src="/images/Picture1.jpg" /><br/>
-  Or click <a href="https://gametize.com/gameteaser?id=9994";> here </a> for the MTL Challenge! 
+  <p>Or click <a href="https://gametize.com/gameteaser?id=9994";> here </a> for the MTL Challenge! </p>
+  
 <p>Let us know how you feel about MTLS 2021! </p>
 <img src="/images/Feedback.jpg" />
 
