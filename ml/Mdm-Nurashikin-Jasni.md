@@ -30,7 +30,7 @@ max-width:20%;
     <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_11.jpg" style="display:none;">
     </div><br/>
 <div class="video-container">
-  <iframe src="https://vimeo.com/event/1187156/embed" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+<iframe src="https://player.vimeo.com/video/594996053?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=d5daed0d43" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Mdm Nura J_LIVE"></iframe></div>
     *Video is best viewed in 1080p.<br/>
     <div class="mlimg">
      <div class="column">

@@ -385,6 +385,8 @@ Ms Diana Ser
 </td>
 </tr>
 </table>
+<p>Let us know how you feel about MTLS 2021! </p>
+<img src="/images/Feedback.jpg" />
 <hr>
 <div class="image">
   <img src="images/2021-08-04_MTLS_Web_Footer_600X250_300dpi.jpg" class="Image" width="1000" height="300"></div>
