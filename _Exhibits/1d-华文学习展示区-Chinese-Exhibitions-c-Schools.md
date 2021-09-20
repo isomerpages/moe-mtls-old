@@ -209,7 +209,7 @@ the SLS to share their views with their peers and showcase their learning. This 
      德义中学使用教育部提供的线上导览资源配套，让中一快捷班学生结合居家学习以及在校学习的混合模式在线上游览新加坡国家美术馆。<br/><br/>
               这个学习活动要求学生对自己的学习负责。在居家学习活动时，学生按自己的步调和需求进行学习。教师通过在教室里集体参与的互动性活动引起学生的学习兴趣，推动他们积极探索课程以外的知识，并认识美术馆的一些艺术作品。学生在与同侪合作完成任务的过程中，用华文进行交流，在促进语文学习的同时也培养他们的协作能力。
 </p><br/>
-          <h4 style="margin:10px;color:#d84178;">Blended  Learning with CL Virtual Tour to National Art Gallery Singapore</h4>
+          <h4 style="margin:10px;color:#d84178;">Blended  Learning with CL Virtual Tour to National Gallery Singapore</h4>
         <p style="margin:10px;">
       As part of blended learning for Secondary 1 Express students, Deyi Secondary School uses the National Gallery Singapore’s virtual tour resource package provided by MOE to give students a taste of online self-directed learning. This is based on one of their textbook units and is accessible on the Singapore Student Learning Space (SLS) for use during Home-Based Learning. Let’s check out how students experience a virtual tour, engage in interactive learning activities and discussions at various learning stations, and end off by completing their projects on SLS.
         </p>
