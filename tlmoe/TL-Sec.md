@@ -237,7 +237,7 @@ margin-left:25px;
 </p><br/>
 <img src="/images/TL-Sec_TLEP-Poster1.jpg">
    <br/>
-  <a href="/exhibits/TL-Sec-tlep-jc-infosheet-students.pdf" target="_blank" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">TLEP Infosheet - Secondary</a>
+  <a href="/exhibits/TL-Sec-tlep-sec-infosheet-students-2019.pdf" target="_blank" style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">TLEP Infosheet - Secondary</a>
   <a href="/exhibits/TL-Sec-tlep-jc-infosheet-students.pdf" target="_blank"  style="background-color: purple; font-size: 18px; font-family:Anjal New InaiMathi Sch Book; font-weight: bold; text-decoration: none; padding: 14px 16px; color: #ffffff; border-radius: 24px; display: inline-block; miso-padding-alt: 0;">TLEP Infosheet - JC</a>
    <br/>
  <img src="/images/TL-Sec_TLEP-Poster2.jpg">  
