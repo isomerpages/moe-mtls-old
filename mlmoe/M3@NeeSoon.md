@@ -1,6 +1,6 @@
 ---
 title: 'PA MESRA'
-permalink: /mlmoe/M3@NeeSoon/
+permalink: /mlmoe/m3@neesoon/
 breadcrumb: 'PA MESRA'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

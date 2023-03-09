@@ -1,6 +1,6 @@
 ---
 title: 'ம.செ.க சமூக அறநிறுவனம் ஸ்பார்கல்டாட்ஸ் பாலர் பள்ளி, பயா லேபார் பிளோக் 23'
-permalink: /tlmoe/PayaLebar/
+permalink: /tlmoe/payalebar/
 breadcrumb: 'ம.செ.க சமூக அறநிறுவனம் ஸ்பார்கல்டாட்ஸ் பாலர் பள்ளி, பயா லேபார் பிளோக் 23'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

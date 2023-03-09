@@ -1,6 +1,6 @@
 ---
 title: 'Mdm Ye Suqin'
-permalink: /award/Mdm-Ye-Suqin/
+permalink: /award/mdm-ye-suqin/
 breadcrumb: 'Mdm Ye Suqin'
 ---
 <html>

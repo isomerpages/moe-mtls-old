@@ -1,6 +1,6 @@
 ---
 title: 'Sekolah Rendah Lakeside'
-permalink: /mlmoe/Lakeside/
+permalink: /mlmoe/lakeside/
 breadcrumb: 'Sekolah Rendah Lakeside'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

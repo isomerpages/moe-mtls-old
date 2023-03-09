@@ -1,6 +1,6 @@
 ---
 title: 'Lembaga Warisan Negara '
-permalink: /mlmoe/Lembaga-Warisan-Negara/
+permalink: /mlmoe/lembaga-warisan-negara/
 breadcrumb: 'Lembaga Warisan Negara'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

@@ -1,6 +1,6 @@
 ---
 title: 'லீ குவான் யூ இருமொழிக் கல்வி நிதி'
-permalink: /tlmoe/LKYFB-TL/
+permalink: /tlmoe/lkyfb-tl/
 breadcrumb: 'லீ குவான் யூ இருமொழிக் கல்வி நிதி'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

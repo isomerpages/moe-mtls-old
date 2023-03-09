@@ -1,6 +1,6 @@
 ---
 title: 'தெமாசெக் உயர்நிலைப்பள்ளியில்'
-permalink: /tlmoe/Temasek-Sec/
+permalink: /tlmoe/temasek-sec/
 breadcrumb: 'தெமாசெக் உயர்நிலைப்பள்ளியில்'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

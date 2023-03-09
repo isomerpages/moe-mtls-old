@@ -1,6 +1,6 @@
 ---
 title: 'Lembaga Perpustakaan Nasional'
-permalink: /mlmoe/NLB/
+permalink: /mlmoe/nlb/
 breadcrumb: 'Lembaga Perpustakaan Nasional'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

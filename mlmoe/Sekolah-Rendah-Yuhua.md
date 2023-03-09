@@ -1,6 +1,6 @@
 ---
 title: 'Sekolah Rendah Yuhua'
-permalink: /mlmoe/Sekolah-Rendah-Yuhua/
+permalink: /mlmoe/sekolah-rendah-yuhua/
 breadcrumb: 'Sekolah Rendah Yuhua'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

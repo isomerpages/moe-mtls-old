@@ -1,6 +1,6 @@
 ---
 title: 'யீஷூன் தொடக்கப்பள்ளி'
-permalink: /tlmoe/Yishun-Pri/
+permalink: /tlmoe/yishun-pri/
 breadcrumb: 'யீஷூன் தொடக்கப்பள்ளி'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

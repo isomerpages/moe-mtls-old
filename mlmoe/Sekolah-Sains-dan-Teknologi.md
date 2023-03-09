@@ -1,6 +1,6 @@
 ---
 title: 'Sekolah Sains dan Teknologi '
-permalink: /mlmoe/Sekolah-Sains-dan-Teknologi/
+permalink: /mlmoe/sekolah-sains-dan-teknologi/
 breadcrumb: 'Sekolah Sains dan Teknologi'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

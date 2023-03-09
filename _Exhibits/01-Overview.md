@@ -1,6 +1,6 @@
 ---
 title: 'Overview'
-permalink: /Exhibits/Overview/
+permalink: /exhibits/overview/
 breadcrumb: 'Overview'
 collection_name: Exhibits
 third_nav_title: 'Overview'

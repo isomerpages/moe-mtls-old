@@ -1,6 +1,6 @@
 ---
 title: 'மீடியகார்ப்'
-permalink: /tlmoe/Mediacorp-TL/
+permalink: /tlmoe/mediacorp-tl/
 breadcrumb: 'மீடியகார்ப்'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

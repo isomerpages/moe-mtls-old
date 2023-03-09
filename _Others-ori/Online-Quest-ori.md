@@ -1,6 +1,6 @@
 ---
 title: 'Online Quest'
-permalink: /Others-ori/Online-Quest-ori/
+permalink: /others-ori/online-quest-ori/
 breadcrumb: 'Online Quest-ori'
 ---
 

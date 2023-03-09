@@ -1,6 +1,6 @@
 ---
 title: 'Tadika MOE (Farrer Park)'
-permalink: /mlmoe/Tadika-MOE-(Farrer Park)/
+permalink: /mlmoe/tadika-moe-(farrer park)/
 breadcrumb: 'Tadika-MOE-(Farrer Park)'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

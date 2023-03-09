@@ -1,6 +1,6 @@
 ---
 title: 'Esplanade - Teater di Persisiran '
-permalink: /mlmoe/Esplanade-Teater-di-Persisiran/
+permalink: /mlmoe/esplanade-teater-di-persisiran/
 breadcrumb: 'Esplanade - Teater di Persisiran'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

@@ -1,6 +1,6 @@
 ---
 title: 'Ms Zuzanita Zakaria '
-permalink: /ml/Ms-Zuzanita-Zakaria/
+permalink: /ml/ms-zuzanita-zakaria/
 breadcrumb: 'Ms Zuzanita Zakaria'
 ---
 <html>

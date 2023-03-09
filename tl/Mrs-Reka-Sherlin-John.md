@@ -1,6 +1,6 @@
 ---
 title: 'Mrs Reka Sherlin John'
-permalink: /tl/Mrs-Reka-Sherlin-John/
+permalink: /tl/mrs-reka-sherlin-john/
 breadcrumb: 'Mrs Reka Sherlin John'
 ---
 <html>

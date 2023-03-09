@@ -1,6 +1,6 @@
 ---
 title: 'Mrs Rani Kanna & Mr Anandha Kannan'
-permalink: /tl/Mrs-Rani-Kanna-And-Mr-Anandha-Kannan/
+permalink: /tl/mrs-rani-kanna-and-mr-anandha-kannan/
 breadcrumb: 'Mrs Rani Kanna And Mr Anandha Kannan'
 ---
 <html>

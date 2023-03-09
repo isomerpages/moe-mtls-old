@@ -1,6 +1,6 @@
 ---
 title: 'Online Quest'
-permalink: /Online-Quest/
+permalink: /online-quest/
 breadcrumb: 'Online Quest'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

@@ -1,6 +1,6 @@
 ---
 title: 'Ms Vinothini Mariappan'
-permalink: /tl/Ms-Vinothini-Mariappan/
+permalink: /tl/ms-vinothini-mariappan/
 breadcrumb: 'Ms Vinothini Mariappan'
 ---
 <html>

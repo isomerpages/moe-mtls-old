@@ -1,6 +1,6 @@
 ---
 title: 'Institut Pendidikan Nasional'
-permalink: /mlmoe/NIE/
+permalink: /mlmoe/nie/
 breadcrumb: 'Institut Pendidikan Nasional'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

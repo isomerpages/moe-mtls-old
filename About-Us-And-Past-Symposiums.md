@@ -1,6 +1,6 @@
 ---
 title: About Us
-permalink: /About-Us-And-Past-Symposiums/
+permalink: /about-us-and-past-symposiums/
 breadcrumb: About Us
 ---
 

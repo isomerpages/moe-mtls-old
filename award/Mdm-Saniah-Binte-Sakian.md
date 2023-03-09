@@ -1,6 +1,6 @@
 ---
 title: 'Mdm Saniah Binte Sakian'
-permalink: /award/Mdm-Saniah-Binte-Sakian/
+permalink: /award/mdm-saniah-binte-sakian/
 breadcrumb: 'Mdm Saniah Binte Sakian'
 ---
 <html>

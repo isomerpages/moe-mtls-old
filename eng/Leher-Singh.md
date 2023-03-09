@@ -1,6 +1,6 @@
 ---
 title: 'A/P Leher Singh '
-permalink: /eng/Leher-Singh/
+permalink: /eng/leher-singh/
 breadcrumb: 'A/PLeher-Singh'
 ---
 <html>

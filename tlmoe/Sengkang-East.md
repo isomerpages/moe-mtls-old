@@ -1,6 +1,6 @@
 ---
 title: 'ம.செ.க சமூக அறநிறுவனம் ஸ்பார்கல்டாட்ஸ் பாலர் பள்ளி - செங் காங் கிழக்கு பிளாக் 187பி '
-permalink: /tlmoe/Sengkang-East/
+permalink: /tlmoe/sengkang-east/
 breadcrumb: 'ம.செ.க சமூக அறநிறுவனம் ஸ்பார்கல்டாட்ஸ் பாலர் பள்ளி - செங் காங் கிழக்கு பிளாக் 187பி '
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

@@ -1,6 +1,6 @@
 ---
 title: 'ஃபூஹுவா தொடக்கப்பள்ளி'
-permalink: /tlmoe/TL-School-Gallery/
+permalink: /tlmoe/tl-school-gallery/
 breadcrumb: 'பூஹுவா தொடக்கப்பள்ளி'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

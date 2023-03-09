@@ -1,6 +1,6 @@
 ---
 title: '滨海艺术中心'
-permalink: /clmoe/Esplanade/
+permalink: /clmoe/esplanade/
 breadcrumb: '滨海艺术中心'
 ---
 

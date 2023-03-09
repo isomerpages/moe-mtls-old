@@ -1,6 +1,6 @@
 ---
 title: 'Schools'
-permalink: /Exhibition/华语论坛-c/Schools/
+permalink: /exhibition/华语论坛-c/schools/
 breadcrumb: '华语论坛'
 collection_name: Exhibition
 third_nav_title: '华语论坛'

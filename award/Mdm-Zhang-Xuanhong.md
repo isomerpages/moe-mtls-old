@@ -1,6 +1,6 @@
 ---
 title: 'Mdm Zhang Xuanhong'
-permalink: /award/Mdm-Zhang-Xuanhong/
+permalink: /award/mdm-zhang-xuanhong/
 breadcrumb: 'Mdm Zhang Xuanhong'
 ---
 <html>

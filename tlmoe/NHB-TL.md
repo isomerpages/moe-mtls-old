@@ -1,6 +1,6 @@
 ---
 title: 'தேசிய மரபுடைமைக் கழகம்'
-permalink: /tlmoe/NHB-TL/
+permalink: /tlmoe/nhb-tl/
 breadcrumb: 'தேசிய மரபுடைமைக் கழகம்'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

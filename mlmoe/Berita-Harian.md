@@ -1,6 +1,6 @@
 ---
 title: 'Berita Harian'
-permalink: /mlmoe/Berita-Harian/
+permalink: /mlmoe/berita-harian/
 breadcrumb: 'Berita Harian'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

@@ -1,6 +1,6 @@
 ---
 title: 'Tadika My First Skool (Sengkang West Way) '
-permalink: /mlmoe/Tadika-My-First-Skool-(Sengkang West)/
+permalink: /mlmoe/tadika-my-first-skool-(sengkang west)/
 breadcrumb: 'Tadika My First Skool (Sengkang West Way)'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

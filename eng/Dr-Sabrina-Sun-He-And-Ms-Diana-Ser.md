@@ -1,6 +1,6 @@
 ---
 title: 'Dr Sabrina Sun He & Ms Diana Ser '
-permalink: /eng/Dr-Sabrina-Sun-He-And-Ms-Diana-Ser/
+permalink: /eng/dr-sabrina-sun-he-and-ms-diana-ser/
 breadcrumb: 'Dr Sabrina Sun He & Ms Diana Ser '
 ---
 <html>

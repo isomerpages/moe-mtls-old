@@ -1,6 +1,6 @@
 ---
 title: Opening Ceremony
-permalink: /Opening-Ceremony-softlaunch/
+permalink: /opening-ceremony-softlaunch/
 breadcrumb: Opening Ceremony
 ---
 

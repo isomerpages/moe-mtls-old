@@ -1,6 +1,6 @@
 ---
 title: 'Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu '
-permalink: /mlmoe/Jawatankuasa-Pembelajaran-dan-Penggalakkan-Penggunaan-Bahasa-Melayu/
+permalink: /mlmoe/jawatankuasa-pembelajaran-dan-penggalakkan-penggunaan-bahasa-melayu/
 breadcrumb: 'Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu '
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

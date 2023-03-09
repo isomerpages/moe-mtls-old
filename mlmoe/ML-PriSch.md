@@ -1,6 +1,6 @@
 ---
 title: 'Pendidikan Bahasa Melayu (Sekolah Rendah)'
-permalink: /mlmoe/ML-PriSch/
+permalink: /mlmoe/ml-prisch/
 breadcrumb: 'Pendidikan Bahasa Melayu (Sekolah Rendah)'
 ---
 <html>

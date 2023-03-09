@@ -1,6 +1,6 @@
 ---
 title: 'Dr SP Jeyarajadas'
-permalink: /tl/Dr-SP-Jeyarajadas/
+permalink: /tl/dr-sp-jeyarajadas/
 breadcrumb: 'Dr SP Jeyarajadas'
 ---
 <html>

@@ -1,6 +1,6 @@
 ---
 title: 'தேசியக் கல்விக் கழகம்'
-permalink: /tlmoe/NIE-TL/
+permalink: /tlmoe/nie-tl/
 breadcrumb: 'தேசியக் கல்விக் கழகம்'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

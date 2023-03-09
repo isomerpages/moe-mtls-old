@@ -1,6 +1,6 @@
 ---
 title: 'Tadika MOE (Waterway)'
-permalink: /mlmoe/Tadika-MOE-(Waterway)/
+permalink: /mlmoe/tadika-moe-(waterway)/
 breadcrumb: 'Tadika-MOE-(Waterway)'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

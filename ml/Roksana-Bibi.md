@@ -1,6 +1,6 @@
 ---
 title: 'A/P Roksana Bibi bte Abdullah '
-permalink: /ml/Roksana-Bibi/
+permalink: /ml/roksana-bibi/
 breadcrumb: 'A/P Roksana Bibi bte Abdullah '
 ---
 <html>

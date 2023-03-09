@@ -1,6 +1,6 @@
 ---
 title: 'தமிழ் முரசு'
-permalink: /tlmoe/Tamil-Murasu/
+permalink: /tlmoe/tamil-murasu/
 breadcrumb: 'தமிழ் முரசு'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

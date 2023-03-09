@@ -1,6 +1,6 @@
 ---
 title: 'Mr Herman Rothman '
-permalink: /ml/Mr-Rothman/
+permalink: /ml/mr-rothman/
 breadcrumb: 'Mr Herman Rothman '
 ---
 <html>

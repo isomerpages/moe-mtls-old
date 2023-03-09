@@ -1,6 +1,6 @@
 ---
 title: '新加坡福建会馆幼儿园'
-permalink: /clmoe/SHHK/
+permalink: /clmoe/shhk/
 breadcrumb: '新加坡福建会馆幼儿园'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'MY World @ Simei'
-permalink: /clmoe/MY-World/
+permalink: /clmoe/my-world/
 breadcrumb: 'MY World @ Simei'
 ---
 

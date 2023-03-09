@@ -1,6 +1,6 @@
 ---
 title: 'Community Partners'
-permalink: /Exhibition/华语论坛-d/Community-Partners/
+permalink: /exhibition/华语论坛-d/community-partners/
 breadcrumb: '华语论坛'
 collection_name: Exhibition
 third_nav_title: '华语论坛'

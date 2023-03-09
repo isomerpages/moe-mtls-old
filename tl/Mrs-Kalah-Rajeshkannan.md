@@ -1,6 +1,6 @@
 ---
 title: 'Mrs Kalah Rajeshkannan'
-permalink: /tl/Mrs-Kalah-Rajeshkannan/
+permalink: /tl/mrs-kalah-rajeshkannan/
 breadcrumb: 'Mrs Kalah Rajeshkannan'
 ---
 <html>

@@ -1,6 +1,6 @@
 ---
 title: 'மோன்வர்ட் ஜூனியர் பள்ளி'
-permalink: /tlmoe/Montfort-Junior/
+permalink: /tlmoe/montfort-junior/
 breadcrumb: 'மோன்வர்ட் ஜூனியர் பள்ளி'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

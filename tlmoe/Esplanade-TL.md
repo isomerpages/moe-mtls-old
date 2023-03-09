@@ -1,6 +1,6 @@
 ---
 title: 'எஸ்பிளனேட்'
-permalink: /tlmoe/Esplanade-TL/
+permalink: /tlmoe/esplanade-tl/
 breadcrumb: 'எஸ்பிளனேட்'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

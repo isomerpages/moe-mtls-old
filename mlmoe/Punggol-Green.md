@@ -1,6 +1,6 @@
 ---
 title: 'Tadika MOE di Punggol Green'
-permalink: /mlmoe/Punggol-Green/
+permalink: /mlmoe/punggol-green/
 breadcrumb: 'Tadika MOE di Punggol Green'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

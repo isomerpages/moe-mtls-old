@@ -1,6 +1,6 @@
 ---
 title: 'Overview'
-permalink: /Gallery/Gallery-Overview/
+permalink: /gallery/gallery-overview/
 breadcrumb: 'Gallery Overview'
 published: false
 collection_name: Gallery

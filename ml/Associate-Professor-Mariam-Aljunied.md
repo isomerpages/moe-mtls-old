@@ -1,6 +1,6 @@
 ---
 title: 'Associate Professor Mariam Aljunied'
-permalink: /ml/Associate-Professor-Mariam-Aljunied/
+permalink: /ml/associate-professor-mariam-aljunied/
 breadcrumb: 'Associate Professor Mariam Aljunied'
 ---
 <html>

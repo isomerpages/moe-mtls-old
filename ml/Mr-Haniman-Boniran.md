@@ -1,6 +1,6 @@
 ---
 title: 'Mr Haniman Boniran'
-permalink: /ml/Mr-Haniman-Boniran/
+permalink: /ml/mr-haniman-boniran/
 breadcrumb: 'Mr Haniman Boniran'
 ---
 <html>

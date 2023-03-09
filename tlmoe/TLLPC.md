@@ -1,6 +1,6 @@
 ---
 title: 'தமிழ்மொழி கற்றல் வளர்ச்சிக்குழு'
-permalink: /tlmoe/TLLPC/
+permalink: /tlmoe/tllpc/
 breadcrumb: 'தமிழ்மொழி கற்றல் வளர்ச்சிக்குழு'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

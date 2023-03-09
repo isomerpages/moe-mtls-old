@@ -1,6 +1,6 @@
 ---
 title: 'Dr Mukhlis Abu Bakar & Ms Rilla Melati Bahri '
-permalink: /ml/Dr-Mukhlis-Abu-Bakar-&-Ms-Rilla-Melati-Bahri/
+permalink: /ml/dr-mukhlis-abu-bakar-&-ms-rilla-melati-bahri/
 breadcrumb: 'Dr Mukhlis Abu Bakar & Ms Rilla Melati Bahri'
 ---
 <html>

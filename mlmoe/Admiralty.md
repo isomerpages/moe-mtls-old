@@ -1,6 +1,6 @@
 ---
 title: 'Sekolah Rendah Admiralty'
-permalink: /mlmoe/Admiralty/
+permalink: /mlmoe/admiralty/
 breadcrumb: 'Sekolah Rendah Admiralty'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

@@ -1,6 +1,6 @@
 ---
 title: 'Wildlife Reserves Singapore'
-permalink: /mlmoe/WRS/
+permalink: /mlmoe/wrs/
 breadcrumb: 'Wildlife Reserves Singapore'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

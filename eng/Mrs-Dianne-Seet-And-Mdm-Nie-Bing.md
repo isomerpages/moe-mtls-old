@@ -1,6 +1,6 @@
 ---
 title: 'Mrs Dianne Seet & Mdm Nie Bing'
-permalink: /eng/Mrs-Dianne-Seet-And-Mdm-Nie-Bing/
+permalink: /eng/mrs-dianne-seet-and-mdm-nie-bing/
 breadcrumb: 'Mrs Dianne Seet & Mdm Nie Bing'
 ---
 <html>

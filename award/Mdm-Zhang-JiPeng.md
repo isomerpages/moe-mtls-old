@@ -1,6 +1,6 @@
 ---
 title: 'Mdm Zhang JiPeng'
-permalink: /award/Mdm-Zhang-JiPeng/
+permalink: /award/mdm-zhang-jipeng/
 breadcrumb: 'Mdm Zhang JiPeng'
 ---
 <html>

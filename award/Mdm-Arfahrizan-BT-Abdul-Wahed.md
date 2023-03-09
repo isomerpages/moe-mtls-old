@@ -1,6 +1,6 @@
 ---
 title: 'Mdm Arfahrizan BT Abdul Wahed'
-permalink: /award/Mdm-Arfahrizan-BT-Abdul-Wahed/
+permalink: /award/mdm-arfahrizan-bt-abdul-wahed/
 breadcrumb: 'Mdm Arfahrizan BT Abdul Wahed'
 ---
 <html>

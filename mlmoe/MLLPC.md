@@ -1,6 +1,6 @@
 ---
 title: 'Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu'
-permalink: /mlmoe/MLLPC/
+permalink: /mlmoe/mllpc/
 breadcrumb: 'Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

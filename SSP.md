@@ -1,6 +1,6 @@
 ---
 title: Sharing Sessions
-permalink: /SSP/
+permalink: /ssp/
 breadcrumb: Sharing Sessions
 
 ---

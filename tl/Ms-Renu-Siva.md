@@ -1,6 +1,6 @@
 ---
 title: 'Ms Renu Siva'
-permalink: /tl/Ms-Renu-Siva/
+permalink: /tl/ms-renu-siva/
 breadcrumb: 'Ms Renu Siva'
 ---
 <html>

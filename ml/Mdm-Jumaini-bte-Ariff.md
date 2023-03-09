@@ -1,6 +1,6 @@
 ---
 title: 'Mdm Jumaini bte Ariff '
-permalink: /ml/Mdm-Jumaini-bte-Ariff/
+permalink: /ml/mdm-jumaini-bte-ariff/
 breadcrumb: 'Mdm Jumaini bte Ariff'
 ---
 <html>

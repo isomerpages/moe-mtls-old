@@ -1,6 +1,6 @@
 ---
 title: 'Panel Discussion'
-permalink: /eng/Panel-Discussion/
+permalink: /eng/panel-discussion/
 breadcrumb: 'Panel Discussion'
 ---
 <html>

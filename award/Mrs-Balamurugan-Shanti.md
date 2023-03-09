@@ -1,6 +1,6 @@
 ---
 title: 'Mrs Balamurugan Shanti'
-permalink: /award/Mrs-Balamurugan-Shanti/
+permalink: /award/mrs-balamurugan-shanti/
 breadcrumb: 'Mrs Balamurugan Shanti'
 ---
 <html>

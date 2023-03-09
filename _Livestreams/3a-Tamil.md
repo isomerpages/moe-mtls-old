@@ -1,6 +1,6 @@
 ---
 title: 'OPMTL AWARD 2020'
-permalink: /School/
+permalink: /school/
 breadcrumb: School
 collection_name: School
 ---

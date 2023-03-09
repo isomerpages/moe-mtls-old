@@ -1,6 +1,6 @@
 ---
 title: 'MOE Curriculum'
-permalink: /Exhibition/华语论坛-a/Moe-Curriculum/
+permalink: /exhibition/华语论坛-a/moe-curriculum/
 breadcrumb: '华语论坛'
 collection_name: Exhibition
 third_nav_title: '华语论坛'

@@ -1,6 +1,6 @@
 ---
 title: 'Mr Muhamad Shahril Bin Samri'
-permalink: /award/Mr-Muhamad-Shahril-Bin-Samri/
+permalink: /award/mr-muhamad-shahril-bin-samri/
 breadcrumb: 'Mr Muhamad Shahril Bin Samri'
 ---
 <html>

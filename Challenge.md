@@ -1,6 +1,6 @@
 ---
 title: MTL Challenge
-permalink: /Challenge/
+permalink: /challenge/
 breadcrumb: MTL Challenge
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'தேசிய நூலக வாரியம்'
-permalink: /tlmoe/NLB-TL/
+permalink: /tlmoe/nlb-tl/
 breadcrumb: 'தேசிய நூலக வாரியம்'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

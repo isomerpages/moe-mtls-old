@@ -1,6 +1,6 @@
 ---
 title: 'Ms Liao Sulian'
-permalink: /award/Ms-Liao-Sulian/
+permalink: /award/ms-liao-sulian/
 breadcrumb: 'Ms Liao Sulian'
 ---
 <html>

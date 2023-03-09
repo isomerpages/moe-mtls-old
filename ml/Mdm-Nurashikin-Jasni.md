@@ -1,6 +1,6 @@
 ---
 title: 'Mdm Nurashikin Jasni '
-permalink: /ml/Mdm-Nurashikin-Jasni/
+permalink: /ml/mdm-nurashikin-jasni/
 breadcrumb: 'Mdm Nurashikin Jasni'
 ---
 <html>

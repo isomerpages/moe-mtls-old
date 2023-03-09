@@ -1,6 +1,6 @@
 ---
 title: 'Sekolah Menengah Queenstown'
-permalink: /mlmoe/Queenstown/
+permalink: /mlmoe/queenstown/
 breadcrumb: 'Sekolah Menengah Queenstown'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

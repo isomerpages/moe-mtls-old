@@ -1,6 +1,6 @@
 ---
 title: 'Lembaga Perpustakaan Negara'
-permalink: /mlmoe/Lembaga-Perpustakaan-Negara/
+permalink: /mlmoe/lembaga-perpustakaan-negara/
 breadcrumb: 'Lembaga Perpustakaan Negara'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

@@ -1,6 +1,6 @@
 ---
 title: 'Ms Salina Bte Saiman & Ms Ganda Sari Chokri  '
-permalink: /ml/Ms-Salina-Bte-Saiman-And-Ms-Ganda-Sari-Chokri/
+permalink: /ml/ms-salina-bte-saiman-and-ms-ganda-sari-chokri/
 breadcrumb: 'Ms Salina Bte Saiman And Ms Ganda Sari Chokri  '
 ---
 <html>

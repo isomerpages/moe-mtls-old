@@ -1,6 +1,6 @@
 ---
 title: 'Mdm Nurain Syakirah '
-permalink: /ml/Mdm-Nurain-Syakirah/
+permalink: /ml/mdm-nurain-syakirah/
 breadcrumb: 'Mdm Nurain Syakirah '
 ---
 <html>

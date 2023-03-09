@@ -1,6 +1,6 @@
 ---
 title: 'Mdm Iryamaya binti Amin'
-permalink: /award/Mdm-Iryamaya-binti-Amin/
+permalink: /award/mdm-iryamaya-binti-amin/
 breadcrumb: 'Mdm Iryamaya binti Amin'
 ---
 <html>

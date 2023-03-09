@@ -1,6 +1,6 @@
 ---
 title: 'Tadika MOE di Fernvale'
-permalink: /mlmoe/Fernvale/
+permalink: /mlmoe/fernvale/
 breadcrumb: 'Tadika MOE di Fernvale'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

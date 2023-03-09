@@ -1,6 +1,6 @@
 ---
 title: '人民行动党社区基金Sparkletots幼儿中心@兀兰第801座'
-permalink: /clmoe/PCF-Sparkletots-Preschool/
+permalink: /clmoe/pcf-sparkletots-preschool/
 breadcrumb: '人民行动党社区基金Sparkletots幼儿中心@兀兰第801座'
 ---
 

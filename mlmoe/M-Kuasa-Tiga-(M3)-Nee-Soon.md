@@ -1,6 +1,6 @@
 ---
 title: 'M Kuasa Tiga Bandar Nee Soon'
-permalink: /mlmoe/M-Kuasa-Tiga-(M3)-Nee-Soon/
+permalink: /mlmoe/m-kuasa-tiga-(m3)-nee-soon/
 breadcrumb: 'M Kuasa Tiga Bandar Nee Soon'
 ---
 

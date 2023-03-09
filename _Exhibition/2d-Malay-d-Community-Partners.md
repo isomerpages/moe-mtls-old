@@ -1,6 +1,6 @@
 ---
 title: 'Community Partners'
-permalink: /Exhibition/Malay-d/Community-Partners/
+permalink: /exhibition/malay-d/community-partners/
 breadcrumb: 'Malay'
 collection_name: Exhibition
 third_nav_title: 'Malay'

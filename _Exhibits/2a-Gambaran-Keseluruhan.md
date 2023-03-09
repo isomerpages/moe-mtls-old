@@ -1,6 +1,6 @@
 ---
 title: 'Gambaran Keseluruhan'
-permalink: /Exhibits/Pameran- Bahasa- Melayu-Malay-Language-Exhibitions-a/Gambaran-Keseluruhan/
+permalink: /exhibits/pameran- bahasa- melayu-malay-language-exhibitions-a/gambaran-keseluruhan/
 breadcrumb: 'Gambaran Keseluruhan'
 published: true
 collection_name: Exhibits

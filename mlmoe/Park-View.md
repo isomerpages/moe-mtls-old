@@ -1,6 +1,6 @@
 ---
 title: 'Sekolah Rendah Park View'
-permalink: /mlmoe/Park-View/
+permalink: /mlmoe/park-view/
 breadcrumb: 'Sekolah Rendah Park View'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

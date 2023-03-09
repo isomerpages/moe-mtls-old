@@ -1,6 +1,6 @@
 ---
 title: Sharing Sessions
-permalink: /Sharing-Sessions-softlaunch/
+permalink: /sharing-sessions-softlaunch/
 breadcrumb: Sharing Sessions
 
 ---

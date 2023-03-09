@@ -1,6 +1,6 @@
 ---
 title: 'கல்வி அமைச்சின் பாலர் பள்ளி, <br/><br/>(பொங்கோல் கிரீன்)'
-permalink: /tlmoe/Punggol-Green/
+permalink: /tlmoe/punggol-green/
 breadcrumb: 'கல்வி அமைச்சின் பாலர்பள்ளி, (பொங்கோல் கிரீன்)'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

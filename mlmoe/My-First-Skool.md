@@ -1,6 +1,6 @@
 ---
 title: 'My First Skool (Chin Swee)'
-permalink: /mlmoe/My-First-Skool/
+permalink: /mlmoe/my-first-skool/
 breadcrumb: 'My First Skool (Chin Swee)'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

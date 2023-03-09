@@ -1,7 +1,7 @@
 ---
 title: '
 Dr Nirmala Karuppiah & Mr Jaya Ganesh Isuran '
-permalink: /eng/Dr-Nirmala-Karuppiah-And-Mr-Jaya-Ganesh-Isuran/
+permalink: /eng/dr-nirmala-karuppiah-and-mr-jaya-ganesh-isuran/
 breadcrumb: 'Dr Nirmala Karuppiah & Mr Jaya Ganesh Isuran '
 ---
 <html>

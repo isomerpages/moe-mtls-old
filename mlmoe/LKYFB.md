@@ -1,6 +1,6 @@
 ---
 title: 'Dana Kedwibahasaan Lee Kuan Yew'
-permalink: /mlmoe/LKYFB/
+permalink: /mlmoe/lkyfb/
 breadcrumb: 'Dana Kedwibahasaan Lee Kuan Yew'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

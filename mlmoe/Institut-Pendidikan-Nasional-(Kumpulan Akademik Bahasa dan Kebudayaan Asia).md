@@ -1,6 +1,6 @@
 ---
 title: 'Institut Pendidikan Nasional (Kumpulan Akademik Bahasa dan Kebudayaan Asia) '
-permalink: /mlmoe/Institut-Pendidikan-Nasional-(Kumpulan Akademik Bahasa dan Kebudayaan Asia)/
+permalink: /mlmoe/institut-pendidikan-nasional-(kumpulan akademik bahasa dan kebudayaan asia)/
 breadcrumb: 'Institut Pendidikan Nasional (Kumpulan Akademik Bahasa dan Kebudayaan Asia)'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

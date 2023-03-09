@@ -1,6 +1,6 @@
 ---
 title: 'கல்வி அமைச்சின் பாலர் பள்ளிகள்'
-permalink: /tlmoe/TL-PreSch/
+permalink: /tlmoe/tl-presch/
 breadcrumb: 'கல்வி அமைச்சின் பாலர் பள்ளிகள்'
 ---
 <html>

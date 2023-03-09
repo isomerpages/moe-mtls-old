@@ -1,6 +1,6 @@
 ---
 title: 'மேரிமௌண்ட் பள்ளி'
-permalink: /tlmoe/Marymount-Convent/
+permalink: /tlmoe/marymount-convent/
 breadcrumb: 'மேரிமௌண்ட் பள்ளி'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

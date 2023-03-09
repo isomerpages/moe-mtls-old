@@ -1,6 +1,6 @@
 ---
 title: Exhibits
-permalink: /Exhibits-softlunch/
+permalink: /exhibits-softlunch/
 breadcrumb: Exhibits
 
 ---

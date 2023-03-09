@@ -1,6 +1,6 @@
 ---
 title: '学前教育'
-permalink: /clmoe/CL_PreSchool/
+permalink: /clmoe/cl_preschool/
 breadcrumb: '学前教育'
 ---
 <html>

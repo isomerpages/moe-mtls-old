@@ -1,6 +1,6 @@
 ---
 title: 'Ms Darseni Rengasamy '
-permalink: /tl/Ms-Darseni-Rengasamy/
+permalink: /tl/ms-darseni-rengasamy/
 breadcrumb: 'Ms Darseni Rengasamy '
 ---
 <html>

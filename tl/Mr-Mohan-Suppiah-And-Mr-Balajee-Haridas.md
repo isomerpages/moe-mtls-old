@@ -1,6 +1,6 @@
 ---
 title: 'Mr Mohan Suppiah & Mr Balajee Haridas'
-permalink: /tl/Mr-Mohan-Suppiah-And-Mr-Balajee-Haridas/
+permalink: /tl/mr-mohan-suppiah-and-mr-balajee-haridas/
 breadcrumb: 'Mr Mohan Suppiah And Mr Balajee Haridas'
 ---
 <html>

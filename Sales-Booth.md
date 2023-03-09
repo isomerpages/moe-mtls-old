@@ -1,6 +1,6 @@
 ---
 title: 'Sales Booth'
-permalink: /Sales-Booth/
+permalink: /sales-booth/
 breadcrumb: 'Sales Booth'
 ---
 “Web page under maintenance.”

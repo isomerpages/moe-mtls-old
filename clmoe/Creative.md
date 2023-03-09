@@ -1,6 +1,6 @@
 ---
 title: '新意元幼源'
-permalink: /clmoe/Creative-O/
+permalink: /clmoe/creative-o/
 breadcrumb: 'Creative O Preschoolers’ Bay'
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: 'Outstanding Pre-school Mother Tongue Language  Teacher Award'
-permalink: /OPMTL-AWARD-2021/
+permalink: /opmtl-award-2021/
 breadcrumb: 'OPMTL Teacher Award'
 collection_name: OPMTL AWARD 2021
 ---
 
-<html>
-<head>
+
+
 <style>
   * {
   box-sizing: border-box;
@@ -33,7 +33,7 @@ max-width:50%;
  }
 </style>
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-726049306"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -42,84 +42,84 @@ max-width:50%;
   gtag('config', 'AW-726049306');
 </script>
 
- <img src="/images/MTLS_Web_Placeholders-V1_04.jpg" style="width:100%;display:none;" >
+ <img src="/images/MTLS_Web_Placeholders-V1_04.jpg" style="width:100%;display:none;">
 <h5> <strong> Outstanding Award Winners </strong></h5>
- <br/>
+ <br>
  
 <div class="row">
   <div class="column">
-   <a href="/award/Mdm-Arfahrizan-BT-Abdul-Wahed/"><img src="/images/Mdm-Arfahrizan-Abdul-Wahed.png" style="width:100%;display:block;"></a>
- <p> <center>Mdm Arfahrizan BT Abdul Wahed <br/>
+   <a href="/award/mdm-arfahrizan-bt-abdul-wahed/"><img src="/images/Mdm-Arfahrizan-Abdul-Wahed.png" style="width:100%;display:block;"></a>
+ <p> </p><center>Mdm Arfahrizan BT Abdul Wahed <br>
 PCF Sparkletots @ Boon Lay Blk 631 </center>
- </p>
+ <p></p>
     </div>
   <div class="column">
-<a href="/award/Mrs-Balamurugan-Shanti/"><img src="/images/Mrs-Balamurugan-Shanti.png" style="width:100%; display:block;"> </a>
- <p> <center>Mrs Balamurugan Shanti<br/>
-  திருமதி பாலமுருகன் சாந்தி<br/>
+<a href="/award/mrs-balamurugan-shanti/"><img src="/images/Mrs-Balamurugan-Shanti.png" style="width:100%; display:block;"> </a>
+ <p> </p><center>Mrs Balamurugan Shanti<br>
+  திருமதி பாலமுருகன் சாந்தி<br>
  PCF Sparkletots @ Chua Chu Kang Blk 10 </center>
-  </p>
+  <p></p>
     </div>
  <div class="column">
-<a href="/award/Ms-Liao-Sulian/"><img src="/images/Ms-Liao-Sulian.png" style="width:100%; display:block;"></a>
- <p> <center>Ms Liao Sulian<br/>
-  <span style= "font-family:KaiTi; font-size:25px;">廖素莲老师 </span> <br/>
+<a href="/award/ms-liao-sulian/"><img src="/images/Ms-Liao-Sulian.png" style="width:100%; display:block;"></a>
+ <p> </p><center>Ms Liao Sulian<br>
+  <span style="font-family:KaiTi; font-size:25px;">廖素莲老师 </span> <br>
  My First Skool at Blk 219 Toa Payoh</center>
-  </p>
+  <p></p>
     </div>
  </div>
  <div class="row">
  <div class="column">
-<a href="/award/Mr-Muhamad-Shahril-Bin-Samri/"><img src="/images/Mr-Muhamad-Shahril-Samri.png" style="width:100%;display:block;"></a>
- <p> <center>Mr Muhamad Shahril Bin Samri <br/>
- PCF Sparkletots @ Pioneer Blk 661B<br/> </center>
- </p>
+<a href="/award/mr-muhamad-shahril-bin-samri/"><img src="/images/Mr-Muhamad-Shahril-Samri.png" style="width:100%;display:block;"></a>
+ <p> </p><center>Mr Muhamad Shahril Bin Samri <br>
+ PCF Sparkletots @ Pioneer Blk 661B<br> </center>
+ <p></p>
   </div>
   <div class="column">
    <a href="/award/Mdm-Wang-zhihong/"><img src="/images/Mdm-Wang-zhihong.png" style="width:100%;display:block;"></a>
- <p> <center> Mdm Wang Zhihong <br/>
-  <span style= "font-family:KaiTi; font-size:25px;">王志洪老师  </span> 
-  <br/>PCF Sparkletots @ Keat Hong Blk 411</center>
-  </p>
+ <p> </p><center> Mdm Wang Zhihong <br>
+  <span style="font-family:KaiTi; font-size:25px;">王志洪老师  </span> 
+  <br>PCF Sparkletots @ Keat Hong Blk 411</center>
+  <p></p>
     </div>
   <div class="column">
-<a href="/award/Mdm-Ye-Suqin/"><img src="/images/Mdm-Ye-Suqin.png" style="width:100% ;display:block;"> </a>
- <p> <center> Mdm Ye Suqin<br/>
-  <span style= "font-family:KaiTi; font-size:25px;"> 叶素琴老师</span> 
-  <br/>PCF Sparkletots @ Kampong Chai Chee Blk 135</center> 
-  </p>
+<a href="/award/mdm-ye-suqin/"><img src="/images/Mdm-Ye-Suqin.png" style="width:100% ;display:block;"> </a>
+ <p> </p><center> Mdm Ye Suqin<br>
+  <span style="font-family:KaiTi; font-size:25px;"> 叶素琴老师</span> 
+  <br>PCF Sparkletots @ Kampong Chai Chee Blk 135</center> 
+  <p></p>
     </div>
     </div>
    
  
      
   <h5> <strong> Merit Award Winners</strong></h5>
-  <br/>
+  <br>
   <div class="row">
   <div class="column">
   <img src="/images/Ms-Lim-Wen-Zhi.png" style="width:100%">
- <p> <center> Ms Lim Wen Zhi
-  <br/>My First Skool at Blk 209 Ang Mo Kio</center>
-</p>
+ <p> </p><center> Ms Lim Wen Zhi
+  <br>My First Skool at Blk 209 Ang Mo Kio</center>
+<p></p>
     </div>
   <div class="column">
 <img src="/images/Mrs-Shanmugam-Geetha.png" style="width:100%"> 
- <p> <center> Mrs Shanmugam Geetha  <br/>
+ <p> </p><center> Mrs Shanmugam Geetha  <br>
   PCF Sparkletots @ Punggol Shore Blk 174D  </center>
-   </p>
+   <p></p>
     </div>
   <div class="column">
 <img src="/images/Ms-Sharmila-Devi.png" style="width:100%">
- <p> <center> Mdm Sharmila Devi  D/O Mutu Manium <br/>
-  PCF Sparkletots @ Boon Lay Blk 262 </center></p>
+ <p> </p><center> Mdm Sharmila Devi  D/O Mutu Manium <br>
+  PCF Sparkletots @ Boon Lay Blk 262 </center><p></p>
     </div>
    </div>
    <div class="row">
  <div class="column">
 <img src="/images/Ms-Zahidah-Mahmood.png" style="width:100%">
- <p> <center>Ms Zahidah Binte Mahmood <br/>
+ <p> </p><center>Ms Zahidah Binte Mahmood <br>
 M.Y WORLD @ Punggol Edge</center>
- </p>
+ <p></p>
     </div></div>
 
   

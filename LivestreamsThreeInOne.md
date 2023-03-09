@@ -1,6 +1,6 @@
 ---
 title: 'Livestreams'
-permalink: /Livestreams/
+permalink: /livestreams/
 breadcrumb: 'Livestreams'
 ---
 <html>

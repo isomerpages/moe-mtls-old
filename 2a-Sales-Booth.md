@@ -1,6 +1,6 @@
 ---
 title: 'Sales Booth'
-permalink: /Others/Sales-Booth/
+permalink: /others/sales-booth/
 breadcrumb: 'Sales Booth'
 collection_name: Others
 ---

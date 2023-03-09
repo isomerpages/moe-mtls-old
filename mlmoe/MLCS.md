@@ -1,6 +1,6 @@
 ---
 title: 'Pusat Bahasa Melayu Singapura'
-permalink: /mlmoe/MLCS/
+permalink: /mlmoe/mlcs/
 breadcrumb: 'Pusat Bahasa Melayu Singapura'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

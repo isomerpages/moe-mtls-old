@@ -1,6 +1,6 @@
 ---
 title: 'Community Partners'
-permalink: /Exhibition/Tamil-d/Community-Partners/
+permalink: /exhibition/tamil-d/community-partners/
 breadcrumb: 'Tamil'
 collection_name: Exhibition
 third_nav_title: 'Tamil'

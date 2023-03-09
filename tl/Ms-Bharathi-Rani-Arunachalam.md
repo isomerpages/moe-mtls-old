@@ -1,6 +1,6 @@
 ---
 title: 'Ms Bharathi Rani Arunachalam'
-permalink: /tl/Ms-Bharathi-Rani-Arunachalam/
+permalink: /tl/ms-bharathi-rani-arunachalam/
 breadcrumb: 'Ms Bharathi Rani Arunachalam'
 ---
 <html>

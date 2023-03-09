@@ -1,7 +1,7 @@
 ---
 layout: contact_us
 title: Contact Us
-permalink: /Contact-Us/
+permalink: /contact-us/
 agency_name: MTLS
 locations:
   - title: Address

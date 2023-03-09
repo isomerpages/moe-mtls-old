@@ -1,6 +1,6 @@
 ---
 title: 'Mediacorp'
-permalink: /mlmoe/Mediacorp/
+permalink: /mlmoe/mediacorp/
 breadcrumb: 'Mediacorp'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

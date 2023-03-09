@@ -1,6 +1,6 @@
 ---
 title: 'உமறுப்புலவர் தமிழ்மொழி நிலையம்'
-permalink: /tlmoe/UPTLC/
+permalink: /tlmoe/uptlc/
 breadcrumb: 'உமறுப்புலவர் தமிழ்மொழி நிலையம்'
 ---
 <!-- Global site tag (gtag.js) - Google Ads: 726049306 -->

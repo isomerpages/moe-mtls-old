@@ -1,6 +1,6 @@
 ---
 title: 'Mdm Zeng Hanyu'
-permalink: /award/Mdm-Zeng-Hanyu/
+permalink: /award/mdm-zeng-hanyu/
 breadcrumb: 'Mdm Zeng Hanyu'
 ---
 <html>
