@@ -1,0 +1,25 @@
+
+logo: '/images/MTLS21-Logo.png'
+links: 
+- title: About Us
+  url: /about-us-and-past-symposiums/
+- title: Opening Ceremony
+  url: /opening-ceremony/
+- title: Sharing Sessions
+  url: /Sharing-Sessions/
+  collection: Sharing-Sessions
+- title: Exhibits
+  url: /Exhibits/
+  collection: Exhibits
+- title: OPMTL Teacher Award
+  url: /opmtl-award-2021/
+- title: Online Quest
+  url: /online-quest/
+- title: Others
+  url: /others/mtl-challenge/
+  sublinks:
+  - title: MTL Challenge
+    url: /others/mtl-challenge/
+  - title: Sales Booth
+    url: https://www.unionbook.com.sg/blogs/news/mother-tongue-languages-symposium-mtls
+    

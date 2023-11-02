@@ -1,0 +1,51 @@
+title: 'Mother Tongue Languages Symposium'
+description: Description
+url: 'https://www.mtls.sg'
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
+paginate: 12
+
+# Breadcrumbs
+breadcrumbs:
+  root:
+    hide: false  # show breadcrumbs on root/home page
+    image: false # Show image or title text
+
+# Homepage sections
+homepage_hero_i_want_to: false
+homepage_programmes: true
+homepage_resources: false
+homepage_careers: false
+
+# Custom CSS file path
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+
+collections:
+    Exhibits:
+        output: true
+    Sharing-Sessions:
+        output: true
+    Others:
+        output: true
+    Livestreams:
+        output: true
+       
+resources_name: resource-room
+favicon: /images/MTLS21-Favicon-Logo.ico
+google_analytics: UA-175313072-2
+facebook-pixel: 404827880132568
+is_government: false
+permalink: none
+baseurl: ""
+defaults:
+    -
+        scope:
+            path: ""
+        values:
+            layout: page

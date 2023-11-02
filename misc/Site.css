@@ -1,0 +1,134 @@
+﻿@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato/Lato-Regular.ttf') format('truetype');
+}
+.SiteHeader {
+}
+
+.SiteBody {
+    background-color: #ffffff;
+    font-family:Lato!important;
+}
+
+.SiteMasterFrame {
+    /*
+background-color: #e3ffbe;
+
+         background-color: #d4ffdd;
+    */
+    background-color: #ffffff;
+    font-family: Calibri !important;
+    font-size: 16px;
+}
+
+.SiteContent {
+    padding-top: 20px;
+    padding-left: 20px;
+      padding-right: 20px;
+}
+
+.SiteHeader {
+    background-color: #6031b6;
+    padding-left: 10px;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 10px;
+    padding: 40px 5px 20px 5px;
+    text-align:center;
+}
+
+.MainButton {
+    color: #ffffff;
+    background-color: #0c7d2f;
+    border-color: #0c7d2f;
+}
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+    .jumbotron {
+        margin-top: 20px;
+    }
+
+    .body-content {
+        padding: 0;
+    }
+}
+
+fieldset {
+    padding: 0.35em 0.625em 0.75em !important;
+    margin: 0 2px !important;
+    border: 1px solid #c0c0c0 !important;
+}
+
+legend {
+    display: block;
+    width:auto;
+    padding: 0;
+    margin-bottom:0px;
+    font-size:inherit;
+    line-height: inherit;
+    color: #333333;
+    border: 0;
+    font-weight:bold;
+}
+
+.borderless thead > tr > th
+,.borderless thead > tr > td
+, .borderless tbody > tr > th
+, .borderless tbody > tr > td
+,.borderless tfoot > tr > th
+,.borderless tfoot > tr > td
+{
+    border:none !important;
+}
+
+.confrmMemHeaderStyle{
+    font-weight:bold !important;
+    border-bottom:1px solid #aba9a9 !important;
+}
+
+.confrmTDStyle{
+    width:30%;
+    font-weight: bold;
+}
+
+.confrmTDFullColomStyle{
+    width:5%;
+}
+
+
+/*Conference Accordion*/
+.confAccordionContent
+{
+    background-color:white;
+}
+a.confAccordionHeaderTextStyle
+{
+    color: black;
+    font-weight : bold;
+}
+a.confAccordionHeaderTextStyle:hover
+{
+    color: black;
+    text-decoration:none;
+}
+.accordionDiv1
+{
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: rgba(0, 0, 0, 0.06);/*#414042;*/
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+.confAccordionPendingFont
+{
+    font-size:medium;
+}
+
+.confdivPayMethod
+{
+    padding-bottom:20px;
+}
+.confPayMethod
+{
+    font-size:small;
+    font-weight:bold;
+}
